@@ -2,13 +2,14 @@
   "id": 370304561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.888316,34.083918,-80.888316,34.083918",
     "geom:latitude":34.083918,
     "geom:longitude":-80.888316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"751 Mallet Hill Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370304561,
-    "wof:lastmodified":1449031616,
+    "wof:lastmodified":1467082354,
     "wof:name":"Carrington Place",
     "wof:parent_id":85857857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.888316,34.083918,-80.888316,34.083918],
+  "bbox": [
+    -80.888316,
+    34.083918,
+    -80.888316,
+    34.083918
+],
   "geometry": {"coordinates":[-80.888316,34.083918],"type":"Point"}
 }

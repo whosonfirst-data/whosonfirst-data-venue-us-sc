@@ -2,13 +2,14 @@
   "id": 337474709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.634166,35.079912,-81.634166,35.079912",
     "geom:latitude":35.079912,
     "geom:longitude":-81.634166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 Cherokee Ave",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337474709,
-    "wof:lastmodified":1449026970,
+    "wof:lastmodified":1467082266,
     "wof:name":"B K Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.634166,35.079912,-81.634166,35.079912],
-  "geometry": {"coordinates":[-81.634166,35.079912],"type":"Point"}
+  "bbox": [
+    -81.634166,
+    35.079912,
+    -81.634166,
+    35.079912
+],
+  "geometry": {"coordinates":[-81.63416599999999,35.079912],"type":"Point"}
 }

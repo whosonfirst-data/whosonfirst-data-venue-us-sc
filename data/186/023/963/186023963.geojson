@@ -2,13 +2,14 @@
   "id": 186023963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.011165,34.983575,-81.011165,34.983575",
     "geom:latitude":34.983575,
     "geom:longitude":-81.011165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Lookout Pt",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186023963,
-    "wof:lastmodified":1449052754,
+    "wof:lastmodified":1467082411,
     "wof:name":"Campus Scenes",
     "wof:parent_id":85841095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [-81.011165,34.983575,-81.011165,34.983575],
-  "geometry": {"coordinates":[-81.011165,34.983575],"type":"Point"}
+  "bbox": [
+    -81.011165,
+    34.983575,
+    -81.011165,
+    34.983575
+],
+  "geometry": {"coordinates":[-81.01116500000001,34.983575],"type":"Point"}
 }

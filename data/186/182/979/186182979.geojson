@@ -2,13 +2,14 @@
   "id": 186182979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.894309,32.293391,-80.894309,32.293391",
     "geom:latitude":32.293391,
     "geom:longitude":-80.894309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Muirfield Dr",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186182979,
-    "wof:lastmodified":1449052072,
+    "wof:lastmodified":1467082404,
     "wof:name":"Plumb-One",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.894309,32.293391,-80.894309,32.293391],
-  "geometry": {"coordinates":[-80.894309,32.293391],"type":"Point"}
+  "bbox": [
+    -80.894309,
+    32.293391,
+    -80.894309,
+    32.293391
+],
+  "geometry": {"coordinates":[-80.89430900000001,32.293391],"type":"Point"}
 }

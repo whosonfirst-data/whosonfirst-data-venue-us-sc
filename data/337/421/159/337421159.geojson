@@ -2,13 +2,14 @@
   "id": 337421159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.780037,32.906862,-79.780037,32.906862",
     "geom:latitude":32.906862,
     "geom:longitude":-79.780037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3316 Barkla Ave",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337421159,
-    "wof:lastmodified":1449027465,
+    "wof:lastmodified":1467082285,
     "wof:name":"Hopkins Heating & Air Cond",
     "wof:parent_id":85842745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.780037,32.906862,-79.780037,32.906862],
-  "geometry": {"coordinates":[-79.780037,32.906862],"type":"Point"}
+  "bbox": [
+    -79.780037,
+    32.906862,
+    -79.780037,
+    32.906862
+],
+  "geometry": {"coordinates":[-79.78003699999999,32.906862],"type":"Point"}
 }

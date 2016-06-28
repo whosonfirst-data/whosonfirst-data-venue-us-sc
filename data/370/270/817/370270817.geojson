@@ -2,13 +2,14 @@
   "id": 370270817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.895786,32.797473,-79.895786,32.797473",
     "geom:latitude":32.797473,
     "geom:longitude":-79.895786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 W Coleman Blvd",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370270817,
-    "wof:lastmodified":1449029692,
+    "wof:lastmodified":1467082311,
     "wof:name":"S S S",
     "wof:parent_id":85804959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "real estate"
     ]
 },
-  "bbox": [-79.895786,32.797473,-79.895786,32.797473],
+  "bbox": [
+    -79.895786,
+    32.797473,
+    -79.895786,
+    32.797473
+],
   "geometry": {"coordinates":[-79.895786,32.797473],"type":"Point"}
 }

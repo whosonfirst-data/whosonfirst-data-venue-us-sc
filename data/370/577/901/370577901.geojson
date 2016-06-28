@@ -2,13 +2,14 @@
   "id": 370577901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.918008,34.994111,-81.918008,34.994111",
     "geom:latitude":34.994111,
     "geom:longitude":-81.918008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"356 Successful Way",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370577901,
-    "wof:lastmodified":1449032583,
+    "wof:lastmodified":1467082376,
     "wof:name":"Church Of Jesus Christ",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.918008,34.994111,-81.918008,34.994111],
+  "bbox": [
+    -81.918008,
+    34.994111,
+    -81.918008,
+    34.994111
+],
   "geometry": {"coordinates":[-81.918008,34.994111],"type":"Point"}
 }

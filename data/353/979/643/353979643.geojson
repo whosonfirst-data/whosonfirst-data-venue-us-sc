@@ -2,13 +2,14 @@
   "id": 353979643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.089621,35.130549,-81.089621,35.130549",
     "geom:latitude":35.130549,
     "geom:longitude":-81.089621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"477 Harper Davis Rd",
     "sg:city":"Lake Wylie",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353979643,
-    "wof:lastmodified":1449020051,
+    "wof:lastmodified":1467082246,
     "wof:name":"Custom Wood Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-81.089621,35.130549,-81.089621,35.130549],
-  "geometry": {"coordinates":[-81.089621,35.130549],"type":"Point"}
+  "bbox": [
+    -81.089621,
+    35.130549,
+    -81.089621,
+    35.130549
+],
+  "geometry": {"coordinates":[-81.08962099999999,35.130549],"type":"Point"}
 }

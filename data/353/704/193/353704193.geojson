@@ -2,13 +2,14 @@
   "id": 353704193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.164756,34.22752,-82.164756,34.22752",
     "geom:latitude":34.22752,
     "geom:longitude":-82.164756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Colonial Dr",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353704193,
-    "wof:lastmodified":1449018928,
+    "wof:lastmodified":1467082223,
     "wof:name":"Emerald Center",
     "wof:parent_id":85845351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.164756,34.22752,-82.164756,34.22752],
+  "bbox": [
+    -82.164756,
+    34.22752,
+    -82.164756,
+    34.22752
+],
   "geometry": {"coordinates":[-82.164756,34.22752],"type":"Point"}
 }

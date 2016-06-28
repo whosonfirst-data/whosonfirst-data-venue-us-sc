@@ -2,13 +2,14 @@
   "id": 370834441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.089508,34.349945,-81.089508,34.349945",
     "geom:latitude":34.349945,
     "geom:longitude":-81.089508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Lamplighter Apts Dr",
     "sg:city":"Winnsboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370834441,
-    "wof:lastmodified":1449029401,
+    "wof:lastmodified":1467082305,
     "wof:name":"Lamplighter Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.089508,34.349945,-81.089508,34.349945],
+  "bbox": [
+    -81.089508,
+    34.349945,
+    -81.089508,
+    34.349945
+],
   "geometry": {"coordinates":[-81.089508,34.349945],"type":"Point"}
 }

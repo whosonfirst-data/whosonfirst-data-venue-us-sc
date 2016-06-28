@@ -2,13 +2,14 @@
   "id": 370195139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.387391,33.952414,-80.387391,33.952414",
     "geom:latitude":33.952414,
     "geom:longitude":-80.387391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Alice Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370195139,
-    "wof:lastmodified":1449031297,
+    "wof:lastmodified":1467082347,
     "wof:name":"Market Place Spirits",
     "wof:parent_id":85816835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.387391,33.952414,-80.387391,33.952414],
-  "geometry": {"coordinates":[-80.387391,33.952414],"type":"Point"}
+  "bbox": [
+    -80.387391,
+    33.952414,
+    -80.387391,
+    33.952414
+],
+  "geometry": {"coordinates":[-80.38739099999999,33.952414],"type":"Point"}
 }

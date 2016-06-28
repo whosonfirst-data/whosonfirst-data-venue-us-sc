@@ -2,13 +2,14 @@
   "id": 353564813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.273237,34.862741,-82.273237,34.862741",
     "geom:latitude":34.862741,
     "geom:longitude":-82.273237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Milestone Way",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353564813,
-    "wof:lastmodified":1449020644,
+    "wof:lastmodified":1467082258,
     "wof:name":"Foothills Rheumatology",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.273237,34.862741,-82.273237,34.862741],
-  "geometry": {"coordinates":[-82.273237,34.862741],"type":"Point"}
+  "bbox": [
+    -82.273237,
+    34.862741,
+    -82.273237,
+    34.862741
+],
+  "geometry": {"coordinates":[-82.27323699999999,34.862741],"type":"Point"}
 }

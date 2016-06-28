@@ -2,13 +2,14 @@
   "id": 186015239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.027527,34.922288,-81.027527,34.922288",
     "geom:latitude":34.922288,
     "geom:longitude":-81.027527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Johnston St",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186015239,
-    "wof:lastmodified":1449051009,
+    "wof:lastmodified":1467082394,
     "wof:name":"South Carolina Ctr",
     "wof:parent_id":85851537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.027527,34.922288,-81.027527,34.922288],
-  "geometry": {"coordinates":[-81.027527,34.922288],"type":"Point"}
+  "bbox": [
+    -81.027527,
+    34.922288,
+    -81.027527,
+    34.922288
+],
+  "geometry": {"coordinates":[-81.02752700000001,34.922288],"type":"Point"}
 }

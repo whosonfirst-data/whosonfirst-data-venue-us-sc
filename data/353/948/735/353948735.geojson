@@ -2,13 +2,14 @@
   "id": 353948735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.723823,33.564931,-81.723823,33.564931",
     "geom:latitude":33.564931,
     "geom:longitude":-81.723823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Greenville St NW",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353948735,
-    "wof:lastmodified":1449020301,
+    "wof:lastmodified":1467082251,
     "wof:name":"Stephen J Enns MD",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.723823,33.564931,-81.723823,33.564931],
+  "bbox": [
+    -81.723823,
+    33.564931,
+    -81.723823,
+    33.564931
+],
   "geometry": {"coordinates":[-81.723823,33.564931],"type":"Point"}
 }

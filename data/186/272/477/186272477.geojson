@@ -2,13 +2,14 @@
   "id": 186272477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.090557,35.048075,-82.090557,35.048075",
     "geom:latitude":35.048075,
     "geom:longitude":-82.090557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 N Main St",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186272477,
-    "wof:lastmodified":1449052847,
+    "wof:lastmodified":1467082411,
     "wof:name":"Dover Shoe Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "boot"
     ]
 },
-  "bbox": [-82.090557,35.048075,-82.090557,35.048075],
+  "bbox": [
+    -82.090557,
+    35.048075,
+    -82.090557,
+    35.048075
+],
   "geometry": {"coordinates":[-82.090557,35.048075],"type":"Point"}
 }

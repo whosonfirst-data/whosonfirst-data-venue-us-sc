@@ -2,13 +2,14 @@
   "id": 370310887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.004932,33.982545,-81.004932,33.982545",
     "geom:latitude":33.982545,
     "geom:longitude":-81.004932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2404 Superior St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370310887,
-    "wof:lastmodified":1449031173,
+    "wof:lastmodified":1467082344,
     "wof:name":"Pillar To Post",
     "wof:parent_id":85826029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-81.004932,33.982545,-81.004932,33.982545],
+  "bbox": [
+    -81.004932,
+    33.982545,
+    -81.004932,
+    33.982545
+],
   "geometry": {"coordinates":[-81.004932,33.982545],"type":"Point"}
 }

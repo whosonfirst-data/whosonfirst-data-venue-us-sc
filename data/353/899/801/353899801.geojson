@@ -2,13 +2,14 @@
   "id": 353899801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.101634,33.977797,-81.101634,33.977797",
     "geom:latitude":33.977797,
     "geom:longitude":-81.101634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Beverly Dr",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353899801,
-    "wof:lastmodified":1449020658,
+    "wof:lastmodified":1467082259,
     "wof:name":"Adrienne Flanders",
     "wof:parent_id":85808009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-81.101634,33.977797,-81.101634,33.977797],
+  "bbox": [
+    -81.101634,
+    33.977797,
+    -81.101634,
+    33.977797
+],
   "geometry": {"coordinates":[-81.101634,33.977797],"type":"Point"}
 }

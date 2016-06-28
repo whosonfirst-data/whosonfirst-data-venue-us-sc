@@ -2,13 +2,14 @@
   "id": 353834931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.008343,33.964259,-81.008343,33.964259",
     "geom:latitude":33.964259,
     "geom:longitude":-81.008343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Pasture Ln",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353834931,
-    "wof:lastmodified":1449018502,
+    "wof:lastmodified":1467082215,
     "wof:name":"Merchants Metals",
     "wof:parent_id":85846089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-81.008343,33.964259,-81.008343,33.964259],
+  "bbox": [
+    -81.008343,
+    33.964259,
+    -81.008343,
+    33.964259
+],
   "geometry": {"coordinates":[-81.008343,33.964259],"type":"Point"}
 }

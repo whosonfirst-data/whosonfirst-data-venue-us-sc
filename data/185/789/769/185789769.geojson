@@ -2,13 +2,14 @@
   "id": 185789769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.705305,34.884156,-82.705305,34.884156",
     "geom:latitude":34.884156,
     "geom:longitude":-82.705305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 S Lewis St",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185789769,
-    "wof:lastmodified":1449007343,
+    "wof:lastmodified":1467082193,
     "wof:name":"Acker Welmaker Allison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.705305,34.884156,-82.705305,34.884156],
+  "bbox": [
+    -82.705305,
+    34.884156,
+    -82.705305,
+    34.884156
+],
   "geometry": {"coordinates":[-82.705305,34.884156],"type":"Point"}
 }

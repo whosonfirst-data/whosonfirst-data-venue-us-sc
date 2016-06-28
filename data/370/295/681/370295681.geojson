@@ -2,13 +2,14 @@
   "id": 370295681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.865698,34.303948,-79.865698,34.303948",
     "geom:latitude":34.303948,
     "geom:longitude":-79.865698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 E Hampton St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370295681,
-    "wof:lastmodified":1449030459,
+    "wof:lastmodified":1467082329,
     "wof:name":"Absolute Advantage Accounts",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-79.865698,34.303948,-79.865698,34.303948],
-  "geometry": {"coordinates":[-79.865698,34.303948],"type":"Point"}
+  "bbox": [
+    -79.865698,
+    34.303948,
+    -79.865698,
+    34.303948
+],
+  "geometry": {"coordinates":[-79.86569799999999,34.303948],"type":"Point"}
 }

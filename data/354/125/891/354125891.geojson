@@ -2,13 +2,14 @@
   "id": 354125891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.430531,33.753805,-79.430531,33.753805",
     "geom:latitude":33.753805,
     "geom:longitude":-79.430531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1629 Hemingway Hwy",
     "sg:city":"Hemingway",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354125891,
-    "wof:lastmodified":1449067618,
+    "wof:lastmodified":1467082453,
     "wof:name":"Yanks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.430531,33.753805,-79.430531,33.753805],
+  "bbox": [
+    -79.430531,
+    33.753805,
+    -79.430531,
+    33.753805
+],
   "geometry": {"coordinates":[-79.430531,33.753805],"type":"Point"}
 }

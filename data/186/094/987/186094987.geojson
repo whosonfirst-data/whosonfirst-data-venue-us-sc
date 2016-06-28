@@ -2,13 +2,14 @@
   "id": 186094987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.748888,33.966562,-79.748888,33.966562",
     "geom:latitude":33.966562,
     "geom:longitude":-79.748888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3608 US Hwy 52",
     "sg:city":"Coward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186094987,
-    "wof:lastmodified":1449052052,
+    "wof:lastmodified":1467082403,
     "wof:name":"Coward Grain & Feed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-79.748888,33.966562,-79.748888,33.966562],
-  "geometry": {"coordinates":[-79.748888,33.966562],"type":"Point"}
+  "bbox": [
+    -79.748888,
+    33.966562,
+    -79.748888,
+    33.966562
+],
+  "geometry": {"coordinates":[-79.74888799999999,33.966562],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370626005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.547121,34.647511,-82.547121,34.647511",
     "geom:latitude":34.647511,
     "geom:longitude":-82.547121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6603 Midway Rd",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370626005,
-    "wof:lastmodified":1449032472,
+    "wof:lastmodified":1467082374,
     "wof:name":"Solid Foundations",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.547121,34.647511,-82.547121,34.647511],
+  "bbox": [
+    -82.547121,
+    34.647511,
+    -82.547121,
+    34.647511
+],
   "geometry": {"coordinates":[-82.547121,34.647511],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370968811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.902539,33.972508,-80.902539,33.972508",
     "geom:latitude":33.972508,
     "geom:longitude":-80.902539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3305 Downes Grove Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370968811,
-    "wof:lastmodified":1449029296,
+    "wof:lastmodified":1467082303,
     "wof:name":"Premier Speech & Language Assc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "speech"
     ]
 },
-  "bbox": [-80.902539,33.972508,-80.902539,33.972508],
+  "bbox": [
+    -80.902539,
+    33.972508,
+    -80.902539,
+    33.972508
+],
   "geometry": {"coordinates":[-80.902539,33.972508],"type":"Point"}
 }

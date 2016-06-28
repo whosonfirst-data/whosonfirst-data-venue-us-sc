@@ -2,13 +2,14 @@
   "id": 186297603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.002391,35.051595,-82.002391,35.051595",
     "geom:latitude":35.051595,
     "geom:longitude":-82.002391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"447 Waterford Point Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186297603,
-    "wof:lastmodified":1449052084,
+    "wof:lastmodified":1467082404,
     "wof:name":"Wright Enterprises",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.002391,35.051595,-82.002391,35.051595],
+  "bbox": [
+    -82.002391,
+    35.051595,
+    -82.002391,
+    35.051595
+],
   "geometry": {"coordinates":[-82.002391,35.051595],"type":"Point"}
 }

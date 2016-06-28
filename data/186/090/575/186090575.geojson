@@ -2,13 +2,14 @@
   "id": 186090575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.787629,34.199799,-79.787629,34.199799",
     "geom:latitude":34.199799,
     "geom:longitude":-79.787629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 W Darlington St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186090575,
-    "wof:lastmodified":1449052465,
+    "wof:lastmodified":1467082407,
     "wof:name":"Coastal Sanitary Supply Co",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-79.787629,34.199799,-79.787629,34.199799],
+  "bbox": [
+    -79.787629,
+    34.199799,
+    -79.787629,
+    34.199799
+],
   "geometry": {"coordinates":[-79.787629,34.199799],"type":"Point"}
 }

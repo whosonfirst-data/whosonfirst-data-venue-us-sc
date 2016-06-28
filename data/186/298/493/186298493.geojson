@@ -2,13 +2,14 @@
   "id": 186298493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.803035,34.193143,-79.803035,34.193143",
     "geom:latitude":34.193143,
     "geom:longitude":-79.803035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 King Ave",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186298493,
-    "wof:lastmodified":1449051109,
+    "wof:lastmodified":1467082395,
     "wof:name":"Studio 101",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.803035,34.193143,-79.803035,34.193143],
-  "geometry": {"coordinates":[-79.803035,34.193143],"type":"Point"}
+  "bbox": [
+    -79.803035,
+    34.193143,
+    -79.803035,
+    34.193143
+],
+  "geometry": {"coordinates":[-79.80303499999999,34.193143],"type":"Point"}
 }

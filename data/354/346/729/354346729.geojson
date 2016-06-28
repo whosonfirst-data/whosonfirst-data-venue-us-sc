@@ -2,13 +2,14 @@
   "id": 354346729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.993821,34.976791,-80.993821,34.976791",
     "geom:latitude":34.976791,
     "geom:longitude":-80.993821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 Celanese Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354346729,
-    "wof:lastmodified":1449065920,
+    "wof:lastmodified":1467082414,
     "wof:name":"Express Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gasoline"
     ]
 },
-  "bbox": [-80.993821,34.976791,-80.993821,34.976791],
+  "bbox": [
+    -80.993821,
+    34.976791,
+    -80.993821,
+    34.976791
+],
   "geometry": {"coordinates":[-80.993821,34.976791],"type":"Point"}
 }

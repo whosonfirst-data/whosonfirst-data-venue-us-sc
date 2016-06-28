@@ -2,13 +2,14 @@
   "id": 337349751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.959726,34.299197,-79.959726,34.299197",
     "geom:latitude":34.299197,
     "geom:longitude":-79.959726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 Harry Byrd Hwy",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":337349751,
-    "wof:lastmodified":1449027237,
+    "wof:lastmodified":1467082276,
     "wof:name":"Windshield Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "tinting"
     ]
 },
-  "bbox": [-79.959726,34.299197,-79.959726,34.299197],
+  "bbox": [
+    -79.959726,
+    34.299197,
+    -79.959726,
+    34.299197
+],
   "geometry": {"coordinates":[-79.959726,34.299197],"type":"Point"}
 }

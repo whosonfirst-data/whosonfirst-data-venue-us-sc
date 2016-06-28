@@ -2,13 +2,14 @@
   "id": 169751017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.953781,32.806981,-79.953781,32.806981",
     "geom:latitude":32.806981,
     "geom:longitude":-79.953781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Poplar St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169751017,
-    "wof:lastmodified":1449032873,
+    "wof:lastmodified":1467082377,
     "wof:name":"A Table For You",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.953781,32.806981,-79.953781,32.806981],
-  "geometry": {"coordinates":[-79.953781,32.806981],"type":"Point"}
+  "bbox": [
+    -79.953781,
+    32.806981,
+    -79.953781,
+    32.806981
+],
+  "geometry": {"coordinates":[-79.95378100000001,32.806981],"type":"Point"}
 }

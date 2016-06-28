@@ -2,13 +2,14 @@
   "id": 354230111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.331093,34.091824,-80.331093,34.091824",
     "geom:latitude":34.091824,
     "geom:longitude":-80.331093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Moore Rd",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354230111,
-    "wof:lastmodified":1449067223,
+    "wof:lastmodified":1467082444,
     "wof:name":"Interstate Bit Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drilling"
     ]
 },
-  "bbox": [-80.331093,34.091824,-80.331093,34.091824],
+  "bbox": [
+    -80.331093,
+    34.091824,
+    -80.331093,
+    34.091824
+],
   "geometry": {"coordinates":[-80.331093,34.091824],"type":"Point"}
 }

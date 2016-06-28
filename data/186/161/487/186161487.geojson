@@ -2,13 +2,14 @@
   "id": 186161487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.100045,34.30398,-81.100045,34.30398",
     "geom:latitude":34.30398,
     "geom:longitude":-81.100045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Truesdale Rd",
     "sg:city":"Winnsboro",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186161487,
-    "wof:lastmodified":1449051426,
+    "wof:lastmodified":1467082398,
     "wof:name":"Hampton Precision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.100045,34.30398,-81.100045,34.30398],
-  "geometry": {"coordinates":[-81.100045,34.30398],"type":"Point"}
+  "bbox": [
+    -81.100045,
+    34.30398,
+    -81.100045,
+    34.30398
+],
+  "geometry": {"coordinates":[-81.10004499999999,34.30398],"type":"Point"}
 }

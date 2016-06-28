@@ -2,13 +2,14 @@
   "id": 370790913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.57102,35.124792,-82.57102,35.124792",
     "geom:latitude":35.124792,
     "geom:longitude":-82.57102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Jones Gap Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370790913,
-    "wof:lastmodified":1449031692,
+    "wof:lastmodified":1467082356,
     "wof:name":"Jones Gap State Park",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-82.57102,35.124792,-82.57102,35.124792],
+  "bbox": [
+    -82.57102,
+    35.124792,
+    -82.57102,
+    35.124792
+],
   "geometry": {"coordinates":[-82.57102,35.124792],"type":"Point"}
 }

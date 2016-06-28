@@ -2,13 +2,14 @@
   "id": 354402811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.94887,32.784753,-79.94887,32.784753",
     "geom:latitude":32.784753,
     "geom:longitude":-79.94887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Jonathan Lucas St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354402811,
-    "wof:lastmodified":1449066454,
+    "wof:lastmodified":1467082426,
     "wof:name":"Cardiothoracic Surgery Div",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.94887,32.784753,-79.94887,32.784753],
+  "bbox": [
+    -79.94887,
+    32.784753,
+    -79.94887,
+    32.784753
+],
   "geometry": {"coordinates":[-79.94887,32.784753],"type":"Point"}
 }

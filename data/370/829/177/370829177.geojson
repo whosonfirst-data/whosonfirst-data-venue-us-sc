@@ -2,13 +2,14 @@
   "id": 370829177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.817348,34.18713,-79.817348,34.18713",
     "geom:latitude":34.18713,
     "geom:longitude":-79.817348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2391 David H McLeod Blvd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370829177,
-    "wof:lastmodified":1449032246,
+    "wof:lastmodified":1467082368,
     "wof:name":"Re/Max Professionals",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.817348,34.18713,-79.817348,34.18713],
+  "bbox": [
+    -79.817348,
+    34.18713,
+    -79.817348,
+    34.18713
+],
   "geometry": {"coordinates":[-79.817348,34.18713],"type":"Point"}
 }

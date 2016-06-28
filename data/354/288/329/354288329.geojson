@@ -2,13 +2,14 @@
   "id": 354288329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.956527,32.713317,-79.956527,32.713317",
     "geom:latitude":32.713317,
     "geom:longitude":-79.956527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"695 Majestic Oak Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354288329,
-    "wof:lastmodified":1449066109,
+    "wof:lastmodified":1467082419,
     "wof:name":"Steve Tumbleston Construction",
     "wof:parent_id":85847603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-79.956527,32.713317,-79.956527,32.713317],
-  "geometry": {"coordinates":[-79.956527,32.713317],"type":"Point"}
+  "bbox": [
+    -79.956527,
+    32.713317,
+    -79.956527,
+    32.713317
+],
+  "geometry": {"coordinates":[-79.95652699999999,32.713317],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353643215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.958162,32.730838,-79.958162,32.730838",
     "geom:latitude":32.730838,
     "geom:longitude":-79.958162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 Camp Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353643215,
-    "wof:lastmodified":1449020468,
+    "wof:lastmodified":1467082255,
     "wof:name":"Point James Apartments LP",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-79.958162,32.730838,-79.958162,32.730838],
+  "bbox": [
+    -79.958162,
+    32.730838,
+    -79.958162,
+    32.730838
+],
   "geometry": {"coordinates":[-79.958162,32.730838],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353539795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.052557,33.844899,-79.052557,33.844899",
     "geom:latitude":33.844899,
     "geom:longitude":-79.052557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Main St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353539795,
-    "wof:lastmodified":1449020858,
+    "wof:lastmodified":1467082263,
     "wof:name":"Main Street Shell",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-79.052557,33.844899,-79.052557,33.844899],
-  "geometry": {"coordinates":[-79.052557,33.844899],"type":"Point"}
+  "bbox": [
+    -79.052557,
+    33.844899,
+    -79.052557,
+    33.844899
+],
+  "geometry": {"coordinates":[-79.05255699999999,33.844899],"type":"Point"}
 }

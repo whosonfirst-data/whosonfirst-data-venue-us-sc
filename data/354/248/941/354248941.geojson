@@ -2,13 +2,14 @@
   "id": 354248941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.01098,33.783813,-79.01098,33.783813",
     "geom:latitude":33.783813,
     "geom:longitude":-79.01098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Lander Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354248941,
-    "wof:lastmodified":1449066874,
+    "wof:lastmodified":1467082436,
     "wof:name":"John C Thomas Pa Atty At LA",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.01098,33.783813,-79.01098,33.783813],
+  "bbox": [
+    -79.01098,
+    33.783813,
+    -79.01098,
+    33.783813
+],
   "geometry": {"coordinates":[-79.01098,33.783813],"type":"Point"}
 }

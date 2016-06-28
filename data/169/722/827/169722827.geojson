@@ -2,13 +2,14 @@
   "id": 169722827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.709272,32.21155,-80.709272,32.21155",
     "geom:latitude":32.21155,
     "geom:longitude":-80.709272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Marblehead Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169722827,
-    "wof:lastmodified":1449033845,
+    "wof:lastmodified":1467082381,
     "wof:name":"Carolynne Andrews Collection",
     "wof:parent_id":85819729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-80.709272,32.21155,-80.709272,32.21155],
+  "bbox": [
+    -80.709272,
+    32.21155,
+    -80.709272,
+    32.21155
+],
   "geometry": {"coordinates":[-80.709272,32.21155],"type":"Point"}
 }

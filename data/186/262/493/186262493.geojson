@@ -2,13 +2,14 @@
   "id": 186262493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.785725,34.332541,-80.785725,34.332541",
     "geom:latitude":34.332541,
     "geom:longitude":-80.785725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2092 Longtown Rd",
     "sg:city":"Ridgeway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186262493,
-    "wof:lastmodified":1449052026,
+    "wof:lastmodified":1467082403,
     "wof:name":"Mt Pisgah Baptist Church",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.785725,34.332541,-80.785725,34.332541],
+  "bbox": [
+    -80.785725,
+    34.332541,
+    -80.785725,
+    34.332541
+],
   "geometry": {"coordinates":[-80.785725,34.332541],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337474459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.149123,34.177304,-82.149123,34.177304",
     "geom:latitude":34.177304,
     "geom:longitude":-82.149123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Phoenix St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337474459,
-    "wof:lastmodified":1449026970,
+    "wof:lastmodified":1467082266,
     "wof:name":"Greenwood Gardens Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.149123,34.177304,-82.149123,34.177304],
+  "bbox": [
+    -82.149123,
+    34.177304,
+    -82.149123,
+    34.177304
+],
   "geometry": {"coordinates":[-82.149123,34.177304],"type":"Point"}
 }

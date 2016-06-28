@@ -2,13 +2,14 @@
   "id": 186265499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.226134,33.867693,-81.226134,33.867693",
     "geom:latitude":33.867693,
     "geom:longitude":-81.226134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"784 Bethany Church Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186265499,
-    "wof:lastmodified":1449051303,
+    "wof:lastmodified":1467082396,
     "wof:name":"Surveying At Large",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-81.226134,33.867693,-81.226134,33.867693],
+  "bbox": [
+    -81.226134,
+    33.867693,
+    -81.226134,
+    33.867693
+],
   "geometry": {"coordinates":[-81.226134,33.867693],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337635211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.589869,34.787876,-82.589869,34.787876",
     "geom:latitude":34.787876,
     "geom:longitude":-82.589869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Zion Church Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337635211,
-    "wof:lastmodified":1449027291,
+    "wof:lastmodified":1467082278,
     "wof:name":"Sa Gairdin Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accent"
     ]
 },
-  "bbox": [-82.589869,34.787876,-82.589869,34.787876],
-  "geometry": {"coordinates":[-82.589869,34.787876],"type":"Point"}
+  "bbox": [
+    -82.589869,
+    34.787876,
+    -82.589869,
+    34.787876
+],
+  "geometry": {"coordinates":[-82.58986899999999,34.787876],"type":"Point"}
 }

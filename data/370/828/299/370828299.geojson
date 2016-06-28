@@ -2,13 +2,14 @@
   "id": 370828299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.389215,33.934144,-80.389215,33.934144",
     "geom:latitude":33.934144,
     "geom:longitude":-80.389215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"454 Pringle Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370828299,
-    "wof:lastmodified":1449030798,
+    "wof:lastmodified":1467082336,
     "wof:name":"House Master Of America",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-80.389215,33.934144,-80.389215,33.934144],
-  "geometry": {"coordinates":[-80.389215,33.934144],"type":"Point"}
+  "bbox": [
+    -80.389215,
+    33.934144,
+    -80.389215,
+    33.934144
+],
+  "geometry": {"coordinates":[-80.38921499999999,33.934144],"type":"Point"}
 }

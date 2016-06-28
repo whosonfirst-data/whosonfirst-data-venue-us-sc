@@ -2,13 +2,14 @@
   "id": 353703491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.32209,34.931323,-82.32209,34.931323",
     "geom:latitude":34.931323,
     "geom:longitude":-82.32209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 Pine Oak Way",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353703491,
-    "wof:lastmodified":1449019035,
+    "wof:lastmodified":1467082225,
     "wof:name":"Specialized Carpet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.32209,34.931323,-82.32209,34.931323],
+  "bbox": [
+    -82.32209,
+    34.931323,
+    -82.32209,
+    34.931323
+],
   "geometry": {"coordinates":[-82.32209,34.931323],"type":"Point"}
 }

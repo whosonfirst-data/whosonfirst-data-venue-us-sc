@@ -2,13 +2,14 @@
   "id": 353875969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.925885,32.781337,-79.925885,32.781337",
     "geom:latitude":32.781337,
     "geom:longitude":-79.925885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 N Market St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353875969,
-    "wof:lastmodified":1449020142,
+    "wof:lastmodified":1467082248,
     "wof:name":"Ls3p Assoc LTD",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-79.925885,32.781337,-79.925885,32.781337],
-  "geometry": {"coordinates":[-79.925885,32.781337],"type":"Point"}
+  "bbox": [
+    -79.925885,
+    32.781337,
+    -79.925885,
+    32.781337
+],
+  "geometry": {"coordinates":[-79.92588499999999,32.781337],"type":"Point"}
 }

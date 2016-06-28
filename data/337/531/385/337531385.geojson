@@ -2,13 +2,14 @@
   "id": 337531385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.038911,34.000354,-81.038911,34.000354",
     "geom:latitude":34.000354,
     "geom:longitude":-81.038911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 Lincoln St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337531385,
-    "wof:lastmodified":1449027116,
+    "wof:lastmodified":1467082272,
     "wof:name":"Cameo Fine Art",
     "wof:parent_id":85876827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-81.038911,34.000354,-81.038911,34.000354],
+  "bbox": [
+    -81.038911,
+    34.000354,
+    -81.038911,
+    34.000354
+],
   "geometry": {"coordinates":[-81.038911,34.000354],"type":"Point"}
 }

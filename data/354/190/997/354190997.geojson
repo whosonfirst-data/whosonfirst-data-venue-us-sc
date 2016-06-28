@@ -2,13 +2,14 @@
   "id": 354190997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.270812,34.758089,-82.270812,34.758089",
     "geom:latitude":34.758089,
     "geom:longitude":-82.270812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 NE Main St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354190997,
-    "wof:lastmodified":1449067569,
+    "wof:lastmodified":1467082452,
     "wof:name":"El Rancho Grande Mexican Rst",
     "wof:parent_id":85834923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.270812,34.758089,-82.270812,34.758089],
-  "geometry": {"coordinates":[-82.270812,34.758089],"type":"Point"}
+  "bbox": [
+    -82.270812,
+    34.758089,
+    -82.270812,
+    34.758089
+],
+  "geometry": {"coordinates":[-82.27081200000001,34.758089],"type":"Point"}
 }

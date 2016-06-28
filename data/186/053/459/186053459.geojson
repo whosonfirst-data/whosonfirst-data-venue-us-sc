@@ -2,13 +2,14 @@
   "id": 186053459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.079195,32.849472,-80.079195,32.849472",
     "geom:latitude":32.849472,
     "geom:longitude":-80.079195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Gullane Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186053459,
-    "wof:lastmodified":1449050910,
+    "wof:lastmodified":1467082393,
     "wof:name":"Dove Data Of Charleston",
     "wof:parent_id":85820043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.079195,32.849472,-80.079195,32.849472],
+  "bbox": [
+    -80.079195,
+    32.849472,
+    -80.079195,
+    32.849472
+],
   "geometry": {"coordinates":[-80.079195,32.849472],"type":"Point"}
 }

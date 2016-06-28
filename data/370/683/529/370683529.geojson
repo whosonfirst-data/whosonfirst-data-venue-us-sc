@@ -2,13 +2,14 @@
   "id": 370683529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.167535,35.17966,-82.167535,35.17966",
     "geom:latitude":35.17966,
     "geom:longitude":-82.167535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1519 E Rutherford St",
     "sg:city":"Landrum",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370683529,
-    "wof:lastmodified":1449030332,
+    "wof:lastmodified":1467082326,
     "wof:name":"Cubes Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "storage"
     ]
 },
-  "bbox": [-82.167535,35.17966,-82.167535,35.17966],
+  "bbox": [
+    -82.167535,
+    35.17966,
+    -82.167535,
+    35.17966
+],
   "geometry": {"coordinates":[-82.167535,35.17966],"type":"Point"}
 }

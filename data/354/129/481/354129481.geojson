@@ -2,13 +2,14 @@
   "id": 354129481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.887183,34.057885,-78.887183,34.057885",
     "geom:latitude":34.057885,
     "geom:longitude":-78.887183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4211 Broad St",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354129481,
-    "wof:lastmodified":1449067310,
+    "wof:lastmodified":1467082446,
     "wof:name":"Clyde Soles Liquor Store Inc",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-78.887183,34.057885,-78.887183,34.057885],
-  "geometry": {"coordinates":[-78.887183,34.057885],"type":"Point"}
+  "bbox": [
+    -78.887183,
+    34.057885,
+    -78.887183,
+    34.057885
+],
+  "geometry": {"coordinates":[-78.88718299999999,34.057885],"type":"Point"}
 }

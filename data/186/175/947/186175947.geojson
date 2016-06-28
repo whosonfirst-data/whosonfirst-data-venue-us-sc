@@ -2,13 +2,14 @@
   "id": 186175947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.040471,32.742508,-80.040471,32.742508",
     "geom:latitude":32.742508,
     "geom:longitude":-80.040471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2840 Maybank Hwy",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186175947,
-    "wof:lastmodified":1449052230,
+    "wof:lastmodified":1467082405,
     "wof:name":"St Stephens AME",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.040471,32.742508,-80.040471,32.742508],
+  "bbox": [
+    -80.040471,
+    32.742508,
+    -80.040471,
+    32.742508
+],
   "geometry": {"coordinates":[-80.040471,32.742508],"type":"Point"}
 }

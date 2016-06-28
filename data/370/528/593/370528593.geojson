@@ -2,13 +2,14 @@
   "id": 370528593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.951128,34.968616,-81.951128,34.968616",
     "geom:latitude":34.968616,
     "geom:longitude":-81.951128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1066 Asheville Hwy",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370528593,
-    "wof:lastmodified":1449030014,
+    "wof:lastmodified":1467082319,
     "wof:name":"Correll Insurance Group",
     "wof:parent_id":85826389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.951128,34.968616,-81.951128,34.968616],
+  "bbox": [
+    -81.951128,
+    34.968616,
+    -81.951128,
+    34.968616
+],
   "geometry": {"coordinates":[-81.951128,34.968616],"type":"Point"}
 }

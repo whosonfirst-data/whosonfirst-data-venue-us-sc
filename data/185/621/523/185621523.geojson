@@ -2,13 +2,14 @@
   "id": 185621523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.471383,34.612663,-82.471383,34.612663",
     "geom:latitude":34.612663,
     "geom:longitude":-82.471383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Woodmere Ct",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185621523,
-    "wof:lastmodified":1449008033,
+    "wof:lastmodified":1467082204,
     "wof:name":"Williamston Wastewater",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-82.471383,34.612663,-82.471383,34.612663],
+  "bbox": [
+    -82.471383,
+    34.612663,
+    -82.471383,
+    34.612663
+],
   "geometry": {"coordinates":[-82.471383,34.612663],"type":"Point"}
 }

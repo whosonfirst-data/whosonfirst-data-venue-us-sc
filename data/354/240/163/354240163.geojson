@@ -2,13 +2,14 @@
   "id": 354240163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.380048,33.841816,-80.380048,33.841816",
     "geom:latitude":33.841816,
     "geom:longitude":-80.380048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"985 Bethel Church Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354240163,
-    "wof:lastmodified":1449066109,
+    "wof:lastmodified":1467082419,
     "wof:name":"Smith Machine Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "shop"
     ]
 },
-  "bbox": [-80.380048,33.841816,-80.380048,33.841816],
+  "bbox": [
+    -80.380048,
+    33.841816,
+    -80.380048,
+    33.841816
+],
   "geometry": {"coordinates":[-80.380048,33.841816],"type":"Point"}
 }

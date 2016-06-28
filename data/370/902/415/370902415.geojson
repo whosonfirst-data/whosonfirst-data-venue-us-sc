@@ -2,13 +2,14 @@
   "id": 370902415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.766087,34.200496,-79.766087,34.200496",
     "geom:latitude":34.200496,
     "geom:longitude":-79.766087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 N Dargan St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370902415,
-    "wof:lastmodified":1449031605,
+    "wof:lastmodified":1467082354,
     "wof:name":"Thompson & Son Barber College",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institute"
     ]
 },
-  "bbox": [-79.766087,34.200496,-79.766087,34.200496],
+  "bbox": [
+    -79.766087,
+    34.200496,
+    -79.766087,
+    34.200496
+],
   "geometry": {"coordinates":[-79.766087,34.200496],"type":"Point"}
 }

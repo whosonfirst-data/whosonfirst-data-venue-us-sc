@@ -2,13 +2,14 @@
   "id": 370532577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.691387,34.532964,-82.691387,34.532964",
     "geom:latitude":34.532964,
     "geom:longitude":-82.691387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Powell Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370532577,
-    "wof:lastmodified":1449030240,
+    "wof:lastmodified":1467082324,
     "wof:name":"WANS 1280 AM",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-82.691387,34.532964,-82.691387,34.532964],
-  "geometry": {"coordinates":[-82.691387,34.532964],"type":"Point"}
+  "bbox": [
+    -82.691387,
+    34.532964,
+    -82.691387,
+    34.532964
+],
+  "geometry": {"coordinates":[-82.69138700000001,34.532964],"type":"Point"}
 }

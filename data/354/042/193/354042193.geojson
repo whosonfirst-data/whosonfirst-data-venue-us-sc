@@ -2,13 +2,14 @@
   "id": 354042193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.032478,33.730115,-79.032478,33.730115",
     "geom:latitude":33.730115,
     "geom:longitude":-79.032478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4460 Roundtree Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354042193,
-    "wof:lastmodified":1449067230,
+    "wof:lastmodified":1467082444,
     "wof:name":"Ernies Heating AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.032478,33.730115,-79.032478,33.730115],
+  "bbox": [
+    -79.032478,
+    33.730115,
+    -79.032478,
+    33.730115
+],
   "geometry": {"coordinates":[-79.032478,33.730115],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370163113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.96459,34.014479,-80.96459,34.014479",
     "geom:latitude":34.014479,
     "geom:longitude":-80.96459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Calender Ct",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370163113,
-    "wof:lastmodified":1449032393,
+    "wof:lastmodified":1467082372,
     "wof:name":"Central Carolina Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.96459,34.014479,-80.96459,34.014479],
+  "bbox": [
+    -80.96459,
+    34.014479,
+    -80.96459,
+    34.014479
+],
   "geometry": {"coordinates":[-80.96459,34.014479],"type":"Point"}
 }

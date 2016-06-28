@@ -2,13 +2,14 @@
   "id": 354366755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.017848,33.985639,-81.017848,33.985639",
     "geom:latitude":33.985639,
     "geom:longitude":-81.017848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 S Pickens St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354366755,
-    "wof:lastmodified":1449067201,
+    "wof:lastmodified":1467082443,
     "wof:name":"La T Da",
     "wof:parent_id":85826029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-81.017848,33.985639,-81.017848,33.985639],
+  "bbox": [
+    -81.017848,
+    33.985639,
+    -81.017848,
+    33.985639
+],
   "geometry": {"coordinates":[-81.017848,33.985639],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169738511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.033636,34.005424,-81.033636,34.005424",
     "geom:latitude":34.005424,
     "geom:longitude":-81.033636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 Sumter St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169738511,
-    "wof:lastmodified":1449035096,
+    "wof:lastmodified":1467082385,
     "wof:name":"Primo Fine Food",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.033636,34.005424,-81.033636,34.005424],
+  "bbox": [
+    -81.033636,
+    34.005424,
+    -81.033636,
+    34.005424
+],
   "geometry": {"coordinates":[-81.033636,34.005424],"type":"Point"}
 }

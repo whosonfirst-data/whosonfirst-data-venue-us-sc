@@ -2,13 +2,14 @@
   "id": 370725519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.207728,32.740781,-80.207728,32.740781",
     "geom:latitude":32.740781,
     "geom:longitude":-80.207728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5190 Towles Rd",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370725519,
-    "wof:lastmodified":1449029920,
+    "wof:lastmodified":1467082316,
     "wof:name":"Weather Guard Hurricane Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shutter"
     ]
 },
-  "bbox": [-80.207728,32.740781,-80.207728,32.740781],
+  "bbox": [
+    -80.207728,
+    32.740781,
+    -80.207728,
+    32.740781
+],
   "geometry": {"coordinates":[-80.207728,32.740781],"type":"Point"}
 }

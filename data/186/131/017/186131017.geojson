@@ -2,13 +2,14 @@
   "id": 186131017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.023443,34.039782,-81.023443,34.039782",
     "geom:latitude":34.039782,
     "geom:longitude":-81.023443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4704 Jones St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186131017,
-    "wof:lastmodified":1449051188,
+    "wof:lastmodified":1467082395,
     "wof:name":"Volume One Beauty Salon",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.023443,34.039782,-81.023443,34.039782],
+  "bbox": [
+    -81.023443,
+    34.039782,
+    -81.023443,
+    34.039782
+],
   "geometry": {"coordinates":[-81.023443,34.039782],"type":"Point"}
 }

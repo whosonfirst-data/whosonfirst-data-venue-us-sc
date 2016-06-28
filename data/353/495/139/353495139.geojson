@@ -2,13 +2,14 @@
   "id": 353495139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.696263,32.219979,-80.696263,32.219979",
     "geom:latitude":32.219979,
     "geom:longitude":-80.696263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Dillon Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353495139,
-    "wof:lastmodified":1449019378,
+    "wof:lastmodified":1467082232,
     "wof:name":"Authorized Appliance Parts",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-80.696263,32.219979,-80.696263,32.219979],
+  "bbox": [
+    -80.696263,
+    32.219979,
+    -80.696263,
+    32.219979
+],
   "geometry": {"coordinates":[-80.696263,32.219979],"type":"Point"}
 }

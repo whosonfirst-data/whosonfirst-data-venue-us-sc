@@ -2,13 +2,14 @@
   "id": 353526725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.00675,34.504549,-82.00675,34.504549",
     "geom:latitude":34.504549,
     "geom:longitude":-82.00675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Fleming St",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353526725,
-    "wof:lastmodified":1449019045,
+    "wof:lastmodified":1467082226,
     "wof:name":"Carolina Tans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-82.00675,34.504549,-82.00675,34.504549],
+  "bbox": [
+    -82.00675,
+    34.504549,
+    -82.00675,
+    34.504549
+],
   "geometry": {"coordinates":[-82.00675,34.504549],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169811675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.572448,34.105152,-81.572448,34.105152",
     "geom:latitude":34.105152,
     "geom:longitude":-81.572448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Maple Knoll Rd",
     "sg:city":"Prosperity",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169811675,
-    "wof:lastmodified":1449034270,
+    "wof:lastmodified":1467082382,
     "wof:name":"Mobility Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.572448,34.105152,-81.572448,34.105152],
-  "geometry": {"coordinates":[-81.572448,34.105152],"type":"Point"}
+  "bbox": [
+    -81.572448,
+    34.105152,
+    -81.572448,
+    34.105152
+],
+  "geometry": {"coordinates":[-81.57244799999999,34.105152],"type":"Point"}
 }

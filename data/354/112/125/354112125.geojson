@@ -2,13 +2,14 @@
   "id": 354112125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.850007,32.829979,-79.850007,32.829979",
     "geom:latitude":32.829979,
     "geom:longitude":-79.850007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 Longview Rd",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354112125,
-    "wof:lastmodified":1449066699,
+    "wof:lastmodified":1467082432,
     "wof:name":"Affordable Concrete Pumping",
     "wof:parent_id":85840511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pumping"
     ]
 },
-  "bbox": [-79.850007,32.829979,-79.850007,32.829979],
-  "geometry": {"coordinates":[-79.850007,32.829979],"type":"Point"}
+  "bbox": [
+    -79.850007,
+    32.829979,
+    -79.850007,
+    32.829979
+],
+  "geometry": {"coordinates":[-79.85000700000001,32.829979],"type":"Point"}
 }

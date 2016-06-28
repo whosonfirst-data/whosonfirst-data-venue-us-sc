@@ -2,13 +2,14 @@
   "id": 337283549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.018561,33.810101,-79.018561,33.810101",
     "geom:latitude":33.810101,
     "geom:longitude":-79.018561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Hwy 544",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337283549,
-    "wof:lastmodified":1449027182,
+    "wof:lastmodified":1467082274,
     "wof:name":"Venture Engineering Inc",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-79.018561,33.810101,-79.018561,33.810101],
-  "geometry": {"coordinates":[-79.018561,33.810101],"type":"Point"}
+  "bbox": [
+    -79.018561,
+    33.810101,
+    -79.018561,
+    33.810101
+],
+  "geometry": {"coordinates":[-79.01856100000001,33.810101],"type":"Point"}
 }

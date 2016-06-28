@@ -2,13 +2,14 @@
   "id": 186085615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.301425,33.992673,-81.301425,33.992673",
     "geom:latitude":33.992673,
     "geom:longitude":-81.301425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"760 US Hwy 378 W",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186085615,
-    "wof:lastmodified":1449051066,
+    "wof:lastmodified":1467082394,
     "wof:name":"Goodfellas Grill & Bar",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.301425,33.992673,-81.301425,33.992673],
-  "geometry": {"coordinates":[-81.301425,33.992673],"type":"Point"}
+  "bbox": [
+    -81.301425,
+    33.992673,
+    -81.301425,
+    33.992673
+],
+  "geometry": {"coordinates":[-81.30142499999999,33.992673],"type":"Point"}
 }

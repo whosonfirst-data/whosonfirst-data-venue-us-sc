@@ -2,13 +2,14 @@
   "id": 169705409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.94021,34.136949,-79.94021,34.136949",
     "geom:latitude":34.136949,
     "geom:longitude":-79.94021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 N Tanyard St",
     "sg:city":"Timmonsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169705409,
-    "wof:lastmodified":1449035991,
+    "wof:lastmodified":1467082388,
     "wof:name":"Bethlehem Baptist Church",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.94021,34.136949,-79.94021,34.136949],
-  "geometry": {"coordinates":[-79.94021,34.136949],"type":"Point"}
+  "bbox": [
+    -79.94021,
+    34.136949,
+    -79.94021,
+    34.136949
+],
+  "geometry": {"coordinates":[-79.94020999999999,34.136949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353504723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.94375,34.974542,-81.94375,34.974542",
     "geom:latitude":34.974542,
     "geom:longitude":-81.94375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 N Church Pl",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353504723,
-    "wof:lastmodified":1449018691,
+    "wof:lastmodified":1467082218,
     "wof:name":"Spartanburg Dermatology",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.94375,34.974542,-81.94375,34.974542],
-  "geometry": {"coordinates":[-81.94375,34.974542],"type":"Point"}
+  "bbox": [
+    -81.94375,
+    34.974542,
+    -81.94375,
+    34.974542
+],
+  "geometry": {"coordinates":[-81.94374999999999,34.974542],"type":"Point"}
 }

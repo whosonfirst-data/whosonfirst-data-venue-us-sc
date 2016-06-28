@@ -2,13 +2,14 @@
   "id": 185630833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.076332,33.999189,-81.076332,33.999189",
     "geom:latitude":33.999189,
     "geom:longitude":-81.076332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1061 Apache Trl",
     "sg:city":"Manning",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185630833,
-    "wof:lastmodified":1449007163,
+    "wof:lastmodified":1467082191,
     "wof:name":"The Chicken Ranch",
     "wof:parent_id":85840603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chicken"
     ]
 },
-  "bbox": [-81.076332,33.999189,-81.076332,33.999189],
-  "geometry": {"coordinates":[-81.076332,33.999189],"type":"Point"}
+  "bbox": [
+    -81.076332,
+    33.999189,
+    -81.076332,
+    33.999189
+],
+  "geometry": {"coordinates":[-81.07633199999999,33.999189],"type":"Point"}
 }

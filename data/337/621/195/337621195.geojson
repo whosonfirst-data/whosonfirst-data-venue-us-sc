@@ -2,13 +2,14 @@
   "id": 337621195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.849327,34.013058,-78.849327,34.013058",
     "geom:latitude":34.013058,
     "geom:longitude":-78.849327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1490 Lawndale Dr",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337621195,
-    "wof:lastmodified":1449027645,
+    "wof:lastmodified":1467082292,
     "wof:name":"Christina's",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.849327,34.013058,-78.849327,34.013058],
+  "bbox": [
+    -78.849327,
+    34.013058,
+    -78.849327,
+    34.013058
+],
   "geometry": {"coordinates":[-78.849327,34.013058],"type":"Point"}
 }

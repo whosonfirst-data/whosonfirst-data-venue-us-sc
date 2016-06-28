@@ -2,13 +2,14 @@
   "id": 185951903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.440019,34.671585,-82.440019,34.671585",
     "geom:latitude":34.671585,
     "geom:longitude":-82.440019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"473 McMahan Mill Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185951903,
-    "wof:lastmodified":1449006640,
+    "wof:lastmodified":1467082183,
     "wof:name":"Carolina Express Reel Grinding",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.440019,34.671585,-82.440019,34.671585],
-  "geometry": {"coordinates":[-82.440019,34.671585],"type":"Point"}
+  "bbox": [
+    -82.440019,
+    34.671585,
+    -82.440019,
+    34.671585
+],
+  "geometry": {"coordinates":[-82.44001900000001,34.671585],"type":"Point"}
 }

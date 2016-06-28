@@ -2,13 +2,14 @@
   "id": 354239553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.879951,33.719501,-78.879951,33.719501",
     "geom:latitude":33.719501,
     "geom:longitude":-78.879951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Celebrity Cir",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354239553,
-    "wof:lastmodified":1449066088,
+    "wof:lastmodified":1467082418,
     "wof:name":"Marvelous Magnets",
     "wof:parent_id":85816109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "devices"
     ]
 },
-  "bbox": [-78.879951,33.719501,-78.879951,33.719501],
-  "geometry": {"coordinates":[-78.879951,33.719501],"type":"Point"}
+  "bbox": [
+    -78.879951,
+    33.719501,
+    -78.879951,
+    33.719501
+],
+  "geometry": {"coordinates":[-78.87995100000001,33.719501],"type":"Point"}
 }

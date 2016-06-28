@@ -2,13 +2,14 @@
   "id": 337345151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.423128,34.985057,-82.423128,34.985057",
     "geom:latitude":34.985057,
     "geom:longitude":-82.423128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 US Hwy 25",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":337345151,
-    "wof:lastmodified":1449027668,
+    "wof:lastmodified":1467082292,
     "wof:name":"Mullinax Woodworks Inc",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-82.423128,34.985057,-82.423128,34.985057],
-  "geometry": {"coordinates":[-82.423128,34.985057],"type":"Point"}
+  "bbox": [
+    -82.423128,
+    34.985057,
+    -82.423128,
+    34.985057
+],
+  "geometry": {"coordinates":[-82.42312800000001,34.985057],"type":"Point"}
 }

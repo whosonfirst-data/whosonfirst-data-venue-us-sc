@@ -2,13 +2,14 @@
   "id": 370781689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.339379,34.322962,-79.339379,34.322962",
     "geom:latitude":34.322962,
     "geom:longitude":-79.339379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3034 Stackhouse Rd",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370781689,
-    "wof:lastmodified":1449029727,
+    "wof:lastmodified":1467082312,
     "wof:name":"Floydale Fabrication",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.339379,34.322962,-79.339379,34.322962],
-  "geometry": {"coordinates":[-79.339379,34.322962],"type":"Point"}
+  "bbox": [
+    -79.339379,
+    34.322962,
+    -79.339379,
+    34.322962
+],
+  "geometry": {"coordinates":[-79.33937899999999,34.322962],"type":"Point"}
 }

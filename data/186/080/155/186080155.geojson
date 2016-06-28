@@ -2,13 +2,14 @@
   "id": 186080155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.91386,34.686095,-82.91386,34.686095",
     "geom:latitude":34.686095,
     "geom:longitude":-82.91386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"681 Shiloh Rd",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186080155,
-    "wof:lastmodified":1449052965,
+    "wof:lastmodified":1467082412,
     "wof:name":"Waterboy",
     "wof:parent_id":85828189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "company"
     ]
 },
-  "bbox": [-82.91386,34.686095,-82.91386,34.686095],
+  "bbox": [
+    -82.91386,
+    34.686095,
+    -82.91386,
+    34.686095
+],
   "geometry": {"coordinates":[-82.91386,34.686095],"type":"Point"}
 }

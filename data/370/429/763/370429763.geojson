@@ -2,13 +2,14 @@
   "id": 370429763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.336568,34.923763,-82.336568,34.923763",
     "geom:latitude":34.923763,
     "geom:longitude":-82.336568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Robinhood Rd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370429763,
-    "wof:lastmodified":1449032286,
+    "wof:lastmodified":1467082369,
     "wof:name":"Double L Trucking Inc",
     "wof:parent_id":85857455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-82.336568,34.923763,-82.336568,34.923763],
+  "bbox": [
+    -82.336568,
+    34.923763,
+    -82.336568,
+    34.923763
+],
   "geometry": {"coordinates":[-82.336568,34.923763],"type":"Point"}
 }

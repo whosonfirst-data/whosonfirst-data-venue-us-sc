@@ -2,13 +2,14 @@
   "id": 186124101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.514149,33.73133,-79.514149,33.73133",
     "geom:latitude":33.73133,
     "geom:longitude":-79.514149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3727 Hemingway Hwy",
     "sg:city":"Hemingway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186124101,
-    "wof:lastmodified":1449052821,
+    "wof:lastmodified":1467082411,
     "wof:name":"Stuckey Brothers Farm Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [-79.514149,33.73133,-79.514149,33.73133],
+  "bbox": [
+    -79.514149,
+    33.73133,
+    -79.514149,
+    33.73133
+],
   "geometry": {"coordinates":[-79.514149,33.73133],"type":"Point"}
 }

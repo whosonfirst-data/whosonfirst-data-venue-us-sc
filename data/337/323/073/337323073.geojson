@@ -2,13 +2,14 @@
   "id": 337323073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.574373,33.18643,-80.574373,33.18643",
     "geom:latitude":33.18643,
     "geom:longitude":-80.574373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5529 Memorial Blvd",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337323073,
-    "wof:lastmodified":1449027013,
+    "wof:lastmodified":1467082268,
     "wof:name":"Palmetto Check Advance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "check"
     ]
 },
-  "bbox": [-80.574373,33.18643,-80.574373,33.18643],
-  "geometry": {"coordinates":[-80.574373,33.18643],"type":"Point"}
+  "bbox": [
+    -80.574373,
+    33.18643,
+    -80.574373,
+    33.18643
+],
+  "geometry": {"coordinates":[-80.57437299999999,33.18643],"type":"Point"}
 }

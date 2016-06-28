@@ -2,13 +2,14 @@
   "id": 186267209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.931423,32.779162,-79.931423,32.779162",
     "geom:latitude":32.779162,
     "geom:longitude":-79.931423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Meeting St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186267209,
-    "wof:lastmodified":1449052782,
+    "wof:lastmodified":1467082411,
     "wof:name":"Lawrence C Kobrovsky",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.931423,32.779162,-79.931423,32.779162],
+  "bbox": [
+    -79.931423,
+    32.779162,
+    -79.931423,
+    32.779162
+],
   "geometry": {"coordinates":[-79.931423,32.779162],"type":"Point"}
 }

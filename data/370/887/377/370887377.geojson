@@ -2,13 +2,14 @@
   "id": 370887377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.386272,33.911161,-80.386272,33.911161",
     "geom:latitude":33.911161,
     "geom:longitude":-80.386272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"249 Wildwood Ave",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370887377,
-    "wof:lastmodified":1449031808,
+    "wof:lastmodified":1467082359,
     "wof:name":"Mak",
     "wof:parent_id":85817433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-80.386272,33.911161,-80.386272,33.911161],
-  "geometry": {"coordinates":[-80.386272,33.911161],"type":"Point"}
+  "bbox": [
+    -80.386272,
+    33.911161,
+    -80.386272,
+    33.911161
+],
+  "geometry": {"coordinates":[-80.38627200000001,33.911161],"type":"Point"}
 }

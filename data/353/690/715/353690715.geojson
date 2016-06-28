@@ -2,13 +2,14 @@
   "id": 353690715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.783698,33.461236,-81.783698,33.461236",
     "geom:latitude":33.461236,
     "geom:longitude":-81.783698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Good Hope Farms Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353690715,
-    "wof:lastmodified":1449019606,
+    "wof:lastmodified":1467082237,
     "wof:name":"Sharon Campbell Stables",
     "wof:parent_id":85812071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-81.783698,33.461236,-81.783698,33.461236],
+  "bbox": [
+    -81.783698,
+    33.461236,
+    -81.783698,
+    33.461236
+],
   "geometry": {"coordinates":[-81.783698,33.461236],"type":"Point"}
 }

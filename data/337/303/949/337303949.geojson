@@ -2,13 +2,14 @@
   "id": 337303949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.81488,33.532123,-81.81488,33.532123",
     "geom:latitude":33.532123,
     "geom:longitude":-81.81488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Hillman St",
     "sg:city":"Warrenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337303949,
-    "wof:lastmodified":1449026938,
+    "wof:lastmodified":1467082265,
     "wof:name":"Custom Finish Paint & Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-81.81488,33.532123,-81.81488,33.532123],
+  "bbox": [
+    -81.81488,
+    33.532123,
+    -81.81488,
+    33.532123
+],
   "geometry": {"coordinates":[-81.81488,33.532123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185864531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.815598,33.685487,-79.815598,33.685487",
     "geom:latitude":33.685487,
     "geom:longitude":-79.815598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Birch St",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185864531,
-    "wof:lastmodified":1449008229,
+    "wof:lastmodified":1467082207,
     "wof:name":"Ann's Day Care/Learning Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.815598,33.685487,-79.815598,33.685487],
-  "geometry": {"coordinates":[-79.815598,33.685487],"type":"Point"}
+  "bbox": [
+    -79.815598,
+    33.685487,
+    -79.815598,
+    33.685487
+],
+  "geometry": {"coordinates":[-79.81559799999999,33.685487],"type":"Point"}
 }

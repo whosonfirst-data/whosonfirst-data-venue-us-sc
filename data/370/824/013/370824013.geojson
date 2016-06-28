@@ -2,13 +2,14 @@
   "id": 370824013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.387649,34.176191,-79.387649,34.176191",
     "geom:latitude":34.176191,
     "geom:longitude":-79.387649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 E Liberty St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370824013,
-    "wof:lastmodified":1449030293,
+    "wof:lastmodified":1467082325,
     "wof:name":"Maryland Fried Chicken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.387649,34.176191,-79.387649,34.176191],
+  "bbox": [
+    -79.387649,
+    34.176191,
+    -79.387649,
+    34.176191
+],
   "geometry": {"coordinates":[-79.387649,34.176191],"type":"Point"}
 }

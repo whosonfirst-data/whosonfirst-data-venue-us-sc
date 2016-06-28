@@ -2,13 +2,14 @@
   "id": 353643727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.737093,33.511341,-81.737093,33.511341",
     "geom:latitude":33.511341,
     "geom:longitude":-81.737093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"556 Silver Bluff Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353643727,
-    "wof:lastmodified":1449020467,
+    "wof:lastmodified":1467082255,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":85812071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.737093,33.511341,-81.737093,33.511341],
+  "bbox": [
+    -81.737093,
+    33.511341,
+    -81.737093,
+    33.511341
+],
   "geometry": {"coordinates":[-81.737093,33.511341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353784647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.985168,34.928295,-81.985168,34.928295",
     "geom:latitude":34.928295,
     "geom:longitude":-81.985168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Hunt Club Ln",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353784647,
-    "wof:lastmodified":1449019946,
+    "wof:lastmodified":1467082244,
     "wof:name":"Aimco",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.985168,34.928295,-81.985168,34.928295],
+  "bbox": [
+    -81.985168,
+    34.928295,
+    -81.985168,
+    34.928295
+],
   "geometry": {"coordinates":[-81.985168,34.928295],"type":"Point"}
 }

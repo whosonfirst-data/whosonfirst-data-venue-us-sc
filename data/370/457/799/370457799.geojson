@@ -2,13 +2,14 @@
   "id": 370457799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.986839,34.129001,-78.986839,34.129001",
     "geom:latitude":34.129001,
     "geom:longitude":-78.986839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3990 Mitchell Sea Rd",
     "sg:city":"Green Sea",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370457799,
-    "wof:lastmodified":1449031350,
+    "wof:lastmodified":1467082348,
     "wof:name":"Mitchell Sea Baptist Church",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.986839,34.129001,-78.986839,34.129001],
+  "bbox": [
+    -78.986839,
+    34.129001,
+    -78.986839,
+    34.129001
+],
   "geometry": {"coordinates":[-78.986839,34.129001],"type":"Point"}
 }

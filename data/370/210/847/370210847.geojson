@@ -2,13 +2,14 @@
   "id": 370210847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.567472,34.267983,-80.567472,34.267983",
     "geom:latitude":34.267983,
     "geom:longitude":-80.567472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 Jefferson Davis Hwy",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370210847,
-    "wof:lastmodified":1449030248,
+    "wof:lastmodified":1467082324,
     "wof:name":"Reeves Block Co",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "brick"
     ]
 },
-  "bbox": [-80.567472,34.267983,-80.567472,34.267983],
+  "bbox": [
+    -80.567472,
+    34.267983,
+    -80.567472,
+    34.267983
+],
   "geometry": {"coordinates":[-80.567472,34.267983],"type":"Point"}
 }

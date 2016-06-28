@@ -2,13 +2,14 @@
   "id": 370772115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.876378,32.788501,-79.876378,32.788501",
     "geom:latitude":32.788501,
     "geom:longitude":-79.876378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Whilden St",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":370772115,
-    "wof:lastmodified":1449030611,
+    "wof:lastmodified":1467082332,
     "wof:name":"Strategic Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-79.876378,32.788501,-79.876378,32.788501],
+  "bbox": [
+    -79.876378,
+    32.788501,
+    -79.876378,
+    32.788501
+],
   "geometry": {"coordinates":[-79.876378,32.788501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370790017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.743783,33.875749,-79.743783,33.875749",
     "geom:latitude":33.875749,
     "geom:longitude":-79.743783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N Lexington Ave",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370790017,
-    "wof:lastmodified":1449031695,
+    "wof:lastmodified":1467082356,
     "wof:name":"Youre Invited LLC",
     "wof:parent_id":85827939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-79.743783,33.875749,-79.743783,33.875749],
-  "geometry": {"coordinates":[-79.743783,33.875749],"type":"Point"}
+  "bbox": [
+    -79.743783,
+    33.875749,
+    -79.743783,
+    33.875749
+],
+  "geometry": {"coordinates":[-79.74378299999999,33.875749],"type":"Point"}
 }

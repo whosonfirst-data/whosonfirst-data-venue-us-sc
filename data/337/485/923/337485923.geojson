@@ -2,13 +2,14 @@
   "id": 337485923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.234645,34.124857,-81.234645,34.124857",
     "geom:latitude":34.124857,
     "geom:longitude":-81.234645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1330 Dutch Fork Rd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337485923,
-    "wof:lastmodified":1449027444,
+    "wof:lastmodified":1467082284,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.234645,34.124857,-81.234645,34.124857],
+  "bbox": [
+    -81.234645,
+    34.124857,
+    -81.234645,
+    34.124857
+],
   "geometry": {"coordinates":[-81.234645,34.124857],"type":"Point"}
 }

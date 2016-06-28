@@ -2,13 +2,14 @@
   "id": 354083475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.671393,33.836416,-78.671393,33.836416",
     "geom:latitude":33.836416,
     "geom:longitude":-78.671393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Circle Dr N",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354083475,
-    "wof:lastmodified":1449066728,
+    "wof:lastmodified":1467082433,
     "wof:name":"Quality Care Cleaning Svc",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-78.671393,33.836416,-78.671393,33.836416],
-  "geometry": {"coordinates":[-78.671393,33.836416],"type":"Point"}
+  "bbox": [
+    -78.671393,
+    33.836416,
+    -78.671393,
+    33.836416
+],
+  "geometry": {"coordinates":[-78.67139299999999,33.836416],"type":"Point"}
 }

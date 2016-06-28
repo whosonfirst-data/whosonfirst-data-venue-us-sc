@@ -2,13 +2,14 @@
   "id": 354247509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.818239,35.181376,-81.818239,35.181376",
     "geom:latitude":35.181376,
     "geom:longitude":-81.818239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Nans Rd",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354247509,
-    "wof:lastmodified":1449066938,
+    "wof:lastmodified":1467082437,
     "wof:name":"Voyles Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.818239,35.181376,-81.818239,35.181376],
-  "geometry": {"coordinates":[-81.818239,35.181376],"type":"Point"}
+  "bbox": [
+    -81.818239,
+    35.181376,
+    -81.818239,
+    35.181376
+],
+  "geometry": {"coordinates":[-81.81823900000001,35.181376],"type":"Point"}
 }

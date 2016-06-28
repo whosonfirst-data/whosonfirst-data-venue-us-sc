@@ -2,13 +2,14 @@
   "id": 370769807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.281191,35.038436,-81.281191,35.038436",
     "geom:latitude":35.038436,
     "geom:longitude":-81.281191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 Fayette Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370769807,
-    "wof:lastmodified":1449030218,
+    "wof:lastmodified":1467082323,
     "wof:name":"Olde Vineyard Farm",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-81.281191,35.038436,-81.281191,35.038436],
-  "geometry": {"coordinates":[-81.281191,35.038436],"type":"Point"}
+  "bbox": [
+    -81.281191,
+    35.038436,
+    -81.281191,
+    35.038436
+],
+  "geometry": {"coordinates":[-81.28119100000001,35.038436],"type":"Point"}
 }

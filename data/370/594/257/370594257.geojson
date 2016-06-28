@@ -2,13 +2,14 @@
   "id": 370594257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.715665,32.440197,-80.715665,32.440197",
     "geom:latitude":32.440197,
     "geom:longitude":-80.715665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2747 Boundary St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370594257,
-    "wof:lastmodified":1449029579,
+    "wof:lastmodified":1467082309,
     "wof:name":"Auto Glass Masters",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-80.715665,32.440197,-80.715665,32.440197],
+  "bbox": [
+    -80.715665,
+    32.440197,
+    -80.715665,
+    32.440197
+],
   "geometry": {"coordinates":[-80.715665,32.440197],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185750663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.99423,33.618722,-78.99423,33.618722",
     "geom:latitude":33.618722,
     "geom:longitude":-78.99423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1943 Glenns Bay Rd",
     "sg:city":"Surfside Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185750663,
-    "wof:lastmodified":1449007592,
+    "wof:lastmodified":1467082197,
     "wof:name":"Tomothy W Loebs",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-78.99423,33.618722,-78.99423,33.618722],
+  "bbox": [
+    -78.99423,
+    33.618722,
+    -78.99423,
+    33.618722
+],
   "geometry": {"coordinates":[-78.99423,33.618722],"type":"Point"}
 }

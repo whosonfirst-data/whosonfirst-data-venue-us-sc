@@ -2,13 +2,14 @@
   "id": 185798037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.679116,34.091751,-80.679116,34.091751",
     "geom:latitude":34.091751,
     "geom:longitude":-80.679116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 Old English Rd",
     "sg:city":"Lugoff",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185798037,
-    "wof:lastmodified":1449006922,
+    "wof:lastmodified":1467082187,
     "wof:name":"Robert H Allen",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.679116,34.091751,-80.679116,34.091751],
-  "geometry": {"coordinates":[-80.679116,34.091751],"type":"Point"}
+  "bbox": [
+    -80.679116,
+    34.091751,
+    -80.679116,
+    34.091751
+],
+  "geometry": {"coordinates":[-80.67911599999999,34.091751],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353791911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.716412,33.512967,-81.716412,33.512967",
     "geom:latitude":33.512967,
     "geom:longitude":-81.716412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Murrah Dr",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353791911,
-    "wof:lastmodified":1449020231,
+    "wof:lastmodified":1467082250,
     "wof:name":"Aiken Town & Country Rl Est",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.716412,33.512967,-81.716412,33.512967],
-  "geometry": {"coordinates":[-81.716412,33.512967],"type":"Point"}
+  "bbox": [
+    -81.716412,
+    33.512967,
+    -81.716412,
+    33.512967
+],
+  "geometry": {"coordinates":[-81.71641200000001,33.512967],"type":"Point"}
 }

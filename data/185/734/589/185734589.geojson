@@ -2,13 +2,14 @@
   "id": 185734589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.672426,34.512597,-82.672426,34.512597",
     "geom:latitude":34.512597,
     "geom:longitude":-82.672426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Rogers St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185734589,
-    "wof:lastmodified":1449008016,
+    "wof:lastmodified":1467082204,
     "wof:name":"Donald Brothers Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.672426,34.512597,-82.672426,34.512597],
+  "bbox": [
+    -82.672426,
+    34.512597,
+    -82.672426,
+    34.512597
+],
   "geometry": {"coordinates":[-82.672426,34.512597],"type":"Point"}
 }

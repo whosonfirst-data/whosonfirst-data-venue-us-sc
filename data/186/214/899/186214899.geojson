@@ -2,13 +2,14 @@
   "id": 186214899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.185282,34.090187,-81.185282,34.090187",
     "geom:latitude":34.090187,
     "geom:longitude":-81.185282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7588 Woodrow St",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186214899,
-    "wof:lastmodified":1449052952,
+    "wof:lastmodified":1467082412,
     "wof:name":"Entertainment Publications",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-81.185282,34.090187,-81.185282,34.090187],
+  "bbox": [
+    -81.185282,
+    34.090187,
+    -81.185282,
+    34.090187
+],
   "geometry": {"coordinates":[-81.185282,34.090187],"type":"Point"}
 }

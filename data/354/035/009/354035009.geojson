@@ -2,13 +2,14 @@
   "id": 354035009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.39989,34.848952,-82.39989,34.848952",
     "geom:latitude":34.848952,
     "geom:longitude":-82.39989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Main St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354035009,
-    "wof:lastmodified":1449067315,
+    "wof:lastmodified":1467082446,
     "wof:name":"Twigs",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.39989,34.848952,-82.39989,34.848952],
+  "bbox": [
+    -82.39989,
+    34.848952,
+    -82.39989,
+    34.848952
+],
   "geometry": {"coordinates":[-82.39989,34.848952],"type":"Point"}
 }

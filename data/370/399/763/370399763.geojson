@@ -2,13 +2,14 @@
   "id": 370399763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.963734,34.969851,-81.963734,34.969851",
     "geom:latitude":34.969851,
     "geom:longitude":-81.963734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 California Ave",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370399763,
-    "wof:lastmodified":1449029690,
+    "wof:lastmodified":1467082311,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-81.963734,34.969851,-81.963734,34.969851],
+  "bbox": [
+    -81.963734,
+    34.969851,
+    -81.963734,
+    34.969851
+],
   "geometry": {"coordinates":[-81.963734,34.969851],"type":"Point"}
 }

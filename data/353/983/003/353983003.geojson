@@ -2,13 +2,14 @@
   "id": 353983003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.142808,34.167789,-82.142808,34.167789",
     "geom:latitude":34.167789,
     "geom:longitude":-82.142808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 US Hwy 25 Bus",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353983003,
-    "wof:lastmodified":1449020599,
+    "wof:lastmodified":1467082258,
     "wof:name":"South Greenwood Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.142808,34.167789,-82.142808,34.167789],
+  "bbox": [
+    -82.142808,
+    34.167789,
+    -82.142808,
+    34.167789
+],
   "geometry": {"coordinates":[-82.142808,34.167789],"type":"Point"}
 }

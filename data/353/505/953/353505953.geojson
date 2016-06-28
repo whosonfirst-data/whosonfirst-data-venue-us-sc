@@ -2,13 +2,14 @@
   "id": 353505953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.047669,33.837518,-79.047669,33.837518",
     "geom:latitude":33.837518,
     "geom:longitude":-79.047669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 5th Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353505953,
-    "wof:lastmodified":1449020403,
+    "wof:lastmodified":1467082253,
     "wof:name":"Horry County Library",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.047669,33.837518,-79.047669,33.837518],
+  "bbox": [
+    -79.047669,
+    33.837518,
+    -79.047669,
+    33.837518
+],
   "geometry": {"coordinates":[-79.047669,33.837518],"type":"Point"}
 }

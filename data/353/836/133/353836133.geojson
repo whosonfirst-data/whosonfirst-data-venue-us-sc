@@ -2,13 +2,14 @@
   "id": 353836133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.061578,32.877452,-80.061578,32.877452",
     "geom:latitude":32.877452,
     "geom:longitude":-80.061578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6461 Dorchester Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353836133,
-    "wof:lastmodified":1449019929,
+    "wof:lastmodified":1467082244,
     "wof:name":"Clearview Auto Glass",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-80.061578,32.877452,-80.061578,32.877452],
+  "bbox": [
+    -80.061578,
+    32.877452,
+    -80.061578,
+    32.877452
+],
   "geometry": {"coordinates":[-80.061578,32.877452],"type":"Point"}
 }

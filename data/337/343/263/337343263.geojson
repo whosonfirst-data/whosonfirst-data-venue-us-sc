@@ -2,13 +2,14 @@
   "id": 337343263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.810984,34.173236,-79.810984,34.173236",
     "geom:latitude":34.173236,
     "geom:longitude":-79.810984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 S Westminister Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337343263,
-    "wof:lastmodified":1449027524,
+    "wof:lastmodified":1467082287,
     "wof:name":"Galloway Electric Service",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.810984,34.173236,-79.810984,34.173236],
+  "bbox": [
+    -79.810984,
+    34.173236,
+    -79.810984,
+    34.173236
+],
   "geometry": {"coordinates":[-79.810984,34.173236],"type":"Point"}
 }

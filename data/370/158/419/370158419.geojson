@@ -2,13 +2,14 @@
   "id": 370158419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.660705,34.309742,-82.660705,34.309742",
     "geom:latitude":34.309742,
     "geom:longitude":-82.660705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 E Front St",
     "sg:city":"Iva",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370158419,
-    "wof:lastmodified":1449031337,
+    "wof:lastmodified":1467082348,
     "wof:name":"Second Chance Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.660705,34.309742,-82.660705,34.309742],
-  "geometry": {"coordinates":[-82.660705,34.309742],"type":"Point"}
+  "bbox": [
+    -82.660705,
+    34.309742,
+    -82.660705,
+    34.309742
+],
+  "geometry": {"coordinates":[-82.66070499999999,34.309742],"type":"Point"}
 }

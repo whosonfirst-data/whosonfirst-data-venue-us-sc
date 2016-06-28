@@ -2,13 +2,14 @@
   "id": 370523631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.464869,33.961774,-80.464869,33.961774",
     "geom:latitude":33.961774,
     "geom:longitude":-80.464869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 Cherryvale Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370523631,
-    "wof:lastmodified":1449031019,
+    "wof:lastmodified":1467082341,
     "wof:name":"Showcase Arcade & Movie Rental",
     "wof:parent_id":85848059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cassette"
     ]
 },
-  "bbox": [-80.464869,33.961774,-80.464869,33.961774],
-  "geometry": {"coordinates":[-80.464869,33.961774],"type":"Point"}
+  "bbox": [
+    -80.464869,
+    33.961774,
+    -80.464869,
+    33.961774
+],
+  "geometry": {"coordinates":[-80.46486899999999,33.961774],"type":"Point"}
 }

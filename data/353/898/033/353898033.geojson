@@ -2,13 +2,14 @@
   "id": 353898033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.776436,34.256363,-79.776436,34.256363",
     "geom:latitude":34.256363,
     "geom:longitude":-79.776436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3030 Springvalley Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353898033,
-    "wof:lastmodified":1449018203,
+    "wof:lastmodified":1467082209,
     "wof:name":"Carl's TV Repair",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radio"
     ]
 },
-  "bbox": [-79.776436,34.256363,-79.776436,34.256363],
+  "bbox": [
+    -79.776436,
+    34.256363,
+    -79.776436,
+    34.256363
+],
   "geometry": {"coordinates":[-79.776436,34.256363],"type":"Point"}
 }

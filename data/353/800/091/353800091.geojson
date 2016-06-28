@@ -2,13 +2,14 @@
   "id": 353800091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.656231,35.067794,-81.656231,35.067794",
     "geom:latitude":35.067794,
     "geom:longitude":-81.656231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 S Granard St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353800091,
-    "wof:lastmodified":1449018461,
+    "wof:lastmodified":1467082214,
     "wof:name":"House Technology Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.656231,35.067794,-81.656231,35.067794],
-  "geometry": {"coordinates":[-81.656231,35.067794],"type":"Point"}
+  "bbox": [
+    -81.656231,
+    35.067794,
+    -81.656231,
+    35.067794
+],
+  "geometry": {"coordinates":[-81.65623100000001,35.067794],"type":"Point"}
 }

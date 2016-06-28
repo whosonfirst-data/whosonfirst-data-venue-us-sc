@@ -2,13 +2,14 @@
   "id": 370269383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.903392,35.033089,-81.903392,35.033089",
     "geom:latitude":35.033089,
     "geom:longitude":-81.903392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Robin Ct",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370269383,
-    "wof:lastmodified":1449031206,
+    "wof:lastmodified":1467082345,
     "wof:name":"Doug Shepherd",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.903392,35.033089,-81.903392,35.033089],
+  "bbox": [
+    -81.903392,
+    35.033089,
+    -81.903392,
+    35.033089
+],
   "geometry": {"coordinates":[-81.903392,35.033089],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186248213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.402076,33.97751,-80.402076,33.97751",
     "geom:latitude":33.97751,
     "geom:longitude":-80.402076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Thomas Sumter Hwy",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186248213,
-    "wof:lastmodified":1449051850,
+    "wof:lastmodified":1467082402,
     "wof:name":"Girly Girl",
     "wof:parent_id":85814545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.402076,33.97751,-80.402076,33.97751],
-  "geometry": {"coordinates":[-80.402076,33.97751],"type":"Point"}
+  "bbox": [
+    -80.402076,
+    33.97751,
+    -80.402076,
+    33.97751
+],
+  "geometry": {"coordinates":[-80.40207599999999,33.97751],"type":"Point"}
 }

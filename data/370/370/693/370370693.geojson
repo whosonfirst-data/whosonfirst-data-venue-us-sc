@@ -2,13 +2,14 @@
   "id": 370370693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.092869,35.0994,-81.092869,35.0994",
     "geom:latitude":35.0994,
     "geom:longitude":-81.092869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Turning Leaf Way",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370370693,
-    "wof:lastmodified":1449030912,
+    "wof:lastmodified":1467082338,
     "wof:name":"Autumn Cove Townhomes",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-81.092869,35.0994,-81.092869,35.0994],
-  "geometry": {"coordinates":[-81.092869,35.0994],"type":"Point"}
+  "bbox": [
+    -81.092869,
+    35.0994,
+    -81.092869,
+    35.0994
+],
+  "geometry": {"coordinates":[-81.09286899999999,35.0994],"type":"Point"}
 }

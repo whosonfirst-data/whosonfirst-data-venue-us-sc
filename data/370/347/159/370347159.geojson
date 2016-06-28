@@ -2,13 +2,14 @@
   "id": 370347159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.784889,33.999102,-80.784889,33.999102",
     "geom:latitude":33.999102,
     "geom:longitude":-80.784889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6081 Old Leesburg Rd",
     "sg:city":"Hopkins",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370347159,
-    "wof:lastmodified":1449030727,
+    "wof:lastmodified":1467082334,
     "wof:name":"Pilgrims Way Baptist Church",
     "wof:parent_id":85830159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.784889,33.999102,-80.784889,33.999102],
-  "geometry": {"coordinates":[-80.784889,33.999102],"type":"Point"}
+  "bbox": [
+    -80.784889,
+    33.999102,
+    -80.784889,
+    33.999102
+],
+  "geometry": {"coordinates":[-80.78488900000001,33.999102],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185979247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.795288,34.190768,-79.795288,34.190768",
     "geom:latitude":34.190768,
     "geom:longitude":-79.795288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 W Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185979247,
-    "wof:lastmodified":1449007734,
+    "wof:lastmodified":1467082200,
     "wof:name":"G Thomas Bryce Jr DDS",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-79.795288,34.190768,-79.795288,34.190768],
+  "bbox": [
+    -79.795288,
+    34.190768,
+    -79.795288,
+    34.190768
+],
   "geometry": {"coordinates":[-79.795288,34.190768],"type":"Point"}
 }

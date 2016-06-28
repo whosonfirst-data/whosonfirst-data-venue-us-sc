@@ -2,13 +2,14 @@
   "id": 185996399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.683603,34.604425,-79.683603,34.604425",
     "geom:latitude":34.604425,
     "geom:longitude":-79.683603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Salem Rd",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185996399,
-    "wof:lastmodified":1449007043,
+    "wof:lastmodified":1467082189,
     "wof:name":"Victory Christian Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.683603,34.604425,-79.683603,34.604425],
-  "geometry": {"coordinates":[-79.683603,34.604425],"type":"Point"}
+  "bbox": [
+    -79.683603,
+    34.604425,
+    -79.683603,
+    34.604425
+],
+  "geometry": {"coordinates":[-79.68360300000001,34.604425],"type":"Point"}
 }

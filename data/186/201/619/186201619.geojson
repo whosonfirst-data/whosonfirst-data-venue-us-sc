@@ -2,13 +2,14 @@
   "id": 186201619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.03952,34.002204,-81.03952,34.002204",
     "geom:latitude":34.002204,
     "geom:longitude":-81.03952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 Lincoln St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186201619,
-    "wof:lastmodified":1449052658,
+    "wof:lastmodified":1467082409,
     "wof:name":"L Ed Kirkland & Co",
     "wof:parent_id":85876827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-81.03952,34.002204,-81.03952,34.002204],
+  "bbox": [
+    -81.03952,
+    34.002204,
+    -81.03952,
+    34.002204
+],
   "geometry": {"coordinates":[-81.03952,34.002204],"type":"Point"}
 }

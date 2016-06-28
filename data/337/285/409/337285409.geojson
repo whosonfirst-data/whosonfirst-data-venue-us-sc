@@ -2,13 +2,14 @@
   "id": 337285409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.97575,33.914637,-78.97575,33.914637",
     "geom:latitude":33.914637,
     "geom:longitude":-78.97575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5628 Hwy 668",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337285409,
-    "wof:lastmodified":1449026955,
+    "wof:lastmodified":1467082265,
     "wof:name":"Stevens Show Horses",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "animal"
     ]
 },
-  "bbox": [-78.97575,33.914637,-78.97575,33.914637],
-  "geometry": {"coordinates":[-78.97575,33.914637],"type":"Point"}
+  "bbox": [
+    -78.97575,
+    33.914637,
+    -78.97575,
+    33.914637
+],
+  "geometry": {"coordinates":[-78.97575000000001,33.914637],"type":"Point"}
 }

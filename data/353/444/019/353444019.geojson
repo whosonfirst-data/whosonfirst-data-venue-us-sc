@@ -2,13 +2,14 @@
   "id": 353444019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.123435,33.532164,-81.123435,33.532164",
     "geom:latitude":33.532164,
     "geom:longitude":-81.123435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Rice St",
     "sg:city":"Neeses",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353444019,
-    "wof:lastmodified":1449020460,
+    "wof:lastmodified":1467082255,
     "wof:name":"Craig Draffin Jr DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.123435,33.532164,-81.123435,33.532164],
+  "bbox": [
+    -81.123435,
+    33.532164,
+    -81.123435,
+    33.532164
+],
   "geometry": {"coordinates":[-81.123435,33.532164],"type":"Point"}
 }

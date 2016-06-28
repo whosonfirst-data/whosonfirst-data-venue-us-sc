@@ -2,13 +2,14 @@
   "id": 370166161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.651367,35.074926,-81.651367,35.074926",
     "geom:latitude":35.074926,
     "geom:longitude":-81.651367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 N Logan St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370166161,
-    "wof:lastmodified":1449030957,
+    "wof:lastmodified":1467082339,
     "wof:name":"Brown's Butcher Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.651367,35.074926,-81.651367,35.074926],
-  "geometry": {"coordinates":[-81.651367,35.074926],"type":"Point"}
+  "bbox": [
+    -81.651367,
+    35.074926,
+    -81.651367,
+    35.074926
+],
+  "geometry": {"coordinates":[-81.65136699999999,35.074926],"type":"Point"}
 }

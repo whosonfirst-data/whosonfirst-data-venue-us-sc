@@ -2,13 +2,14 @@
   "id": 370187189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.894304,34.564448,-80.894304,34.564448",
     "geom:latitude":34.564448,
     "geom:longitude":-80.894304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Hampton St",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370187189,
-    "wof:lastmodified":1449029591,
+    "wof:lastmodified":1467082309,
     "wof:name":"Stevenson-Weir",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-80.894304,34.564448,-80.894304,34.564448],
-  "geometry": {"coordinates":[-80.894304,34.564448],"type":"Point"}
+  "bbox": [
+    -80.894304,
+    34.564448,
+    -80.894304,
+    34.564448
+],
+  "geometry": {"coordinates":[-80.89430400000001,34.564448],"type":"Point"}
 }

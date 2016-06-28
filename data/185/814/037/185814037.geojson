@@ -2,13 +2,14 @@
   "id": 185814037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.024097,34.00875,-81.024097,34.00875",
     "geom:latitude":34.00875,
     "geom:longitude":-81.024097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Hampton St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185814037,
-    "wof:lastmodified":1449006913,
+    "wof:lastmodified":1467082187,
     "wof:name":"Logic South",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-81.024097,34.00875,-81.024097,34.00875],
+  "bbox": [
+    -81.024097,
+    34.00875,
+    -81.024097,
+    34.00875
+],
   "geometry": {"coordinates":[-81.024097,34.00875],"type":"Point"}
 }

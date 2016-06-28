@@ -2,13 +2,14 @@
   "id": 370613099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.474857,34.782898,-82.474857,34.782898",
     "geom:latitude":34.782898,
     "geom:longitude":-82.474857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3320 Earle E Morris Jr Hwy",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370613099,
-    "wof:lastmodified":1449030670,
+    "wof:lastmodified":1467082333,
     "wof:name":"Robert M Heil CPA",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-82.474857,34.782898,-82.474857,34.782898],
+  "bbox": [
+    -82.474857,
+    34.782898,
+    -82.474857,
+    34.782898
+],
   "geometry": {"coordinates":[-82.474857,34.782898],"type":"Point"}
 }

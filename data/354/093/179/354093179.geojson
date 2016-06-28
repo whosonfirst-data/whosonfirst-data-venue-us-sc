@@ -2,13 +2,14 @@
   "id": 354093179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.138569,35.049325,-81.138569,35.049325",
     "geom:latitude":35.049325,
     "geom:longitude":-81.138569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2274 Kingsbury Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354093179,
-    "wof:lastmodified":1449065927,
+    "wof:lastmodified":1467082414,
     "wof:name":"Sheppard Brothers Logging Inc",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "logging"
     ]
 },
-  "bbox": [-81.138569,35.049325,-81.138569,35.049325],
+  "bbox": [
+    -81.138569,
+    35.049325,
+    -81.138569,
+    35.049325
+],
   "geometry": {"coordinates":[-81.138569,35.049325],"type":"Point"}
 }

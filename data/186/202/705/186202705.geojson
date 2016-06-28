@@ -2,13 +2,14 @@
   "id": 186202705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.925885,34.090009,-80.925885,34.090009",
     "geom:latitude":34.090009,
     "geom:longitude":-80.925885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9709 S Chelsea Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186202705,
-    "wof:lastmodified":1449052671,
+    "wof:lastmodified":1467082410,
     "wof:name":"SA Broome Const Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.925885,34.090009,-80.925885,34.090009],
-  "geometry": {"coordinates":[-80.925885,34.090009],"type":"Point"}
+  "bbox": [
+    -80.925885,
+    34.090009,
+    -80.925885,
+    34.090009
+],
+  "geometry": {"coordinates":[-80.92588499999999,34.090009],"type":"Point"}
 }

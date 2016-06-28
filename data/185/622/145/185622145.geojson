@@ -2,13 +2,14 @@
   "id": 185622145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.837429,34.683724,-82.837429,34.683724",
     "geom:latitude":34.683724,
     "geom:longitude":-82.837429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 College Ave",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185622145,
-    "wof:lastmodified":1449007936,
+    "wof:lastmodified":1467082203,
     "wof:name":"Eye & Contact Lens Assoc",
     "wof:parent_id":85808859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.837429,34.683724,-82.837429,34.683724],
+  "bbox": [
+    -82.837429,
+    34.683724,
+    -82.837429,
+    34.683724
+],
   "geometry": {"coordinates":[-82.837429,34.683724],"type":"Point"}
 }

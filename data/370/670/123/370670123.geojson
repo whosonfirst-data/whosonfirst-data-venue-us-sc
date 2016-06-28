@@ -2,13 +2,14 @@
   "id": 370670123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.215105,34.840542,-82.215105,34.840542",
     "geom:latitude":34.840542,
     "geom:longitude":-82.215105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 Rock Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370670123,
-    "wof:lastmodified":1449029595,
+    "wof:lastmodified":1467082309,
     "wof:name":"Smith Brick Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.215105,34.840542,-82.215105,34.840542],
-  "geometry": {"coordinates":[-82.215105,34.840542],"type":"Point"}
+  "bbox": [
+    -82.215105,
+    34.840542,
+    -82.215105,
+    34.840542
+],
+  "geometry": {"coordinates":[-82.21510499999999,34.840542],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186049955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.429694,34.915312,-82.429694,34.915312",
     "geom:latitude":34.915312,
     "geom:longitude":-82.429694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 Poinsett Hwy",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186049955,
-    "wof:lastmodified":1449051707,
+    "wof:lastmodified":1467082400,
     "wof:name":"Dog House",
     "wof:parent_id":85838465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.429694,34.915312,-82.429694,34.915312],
+  "bbox": [
+    -82.429694,
+    34.915312,
+    -82.429694,
+    34.915312
+],
   "geometry": {"coordinates":[-82.429694,34.915312],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337500725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.996969,34.918161,-80.996969,34.918161",
     "geom:latitude":34.918161,
     "geom:longitude":-80.996969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1474 E Main St",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337500725,
-    "wof:lastmodified":1449027123,
+    "wof:lastmodified":1467082272,
     "wof:name":"Mr B's Custom & Speed Shop",
     "wof:parent_id":85833915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.996969,34.918161,-80.996969,34.918161],
-  "geometry": {"coordinates":[-80.996969,34.918161],"type":"Point"}
+  "bbox": [
+    -80.996969,
+    34.918161,
+    -80.996969,
+    34.918161
+],
+  "geometry": {"coordinates":[-80.99696900000001,34.918161],"type":"Point"}
 }

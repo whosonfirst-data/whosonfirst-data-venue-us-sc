@@ -2,13 +2,14 @@
   "id": 370850929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.278777,34.820178,-82.278777,34.820178",
     "geom:latitude":34.820178,
     "geom:longitude":-82.278777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1503 Woodruff Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370850929,
-    "wof:lastmodified":1449031034,
+    "wof:lastmodified":1467082341,
     "wof:name":"Tire Kingdom",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-82.278777,34.820178,-82.278777,34.820178],
-  "geometry": {"coordinates":[-82.278777,34.820178],"type":"Point"}
+  "bbox": [
+    -82.278777,
+    34.820178,
+    -82.278777,
+    34.820178
+],
+  "geometry": {"coordinates":[-82.27877700000001,34.820178],"type":"Point"}
 }

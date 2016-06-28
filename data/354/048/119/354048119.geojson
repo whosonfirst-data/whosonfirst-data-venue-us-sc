@@ -2,13 +2,14 @@
   "id": 354048119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.371758,34.823848,-82.371758,34.823848",
     "geom:latitude":34.823848,
     "geom:longitude":-82.371758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Winterberry Ct",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354048119,
-    "wof:lastmodified":1449066513,
+    "wof:lastmodified":1467082428,
     "wof:name":"Harris Machine Shop Inc",
     "wof:parent_id":85809831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-82.371758,34.823848,-82.371758,34.823848],
+  "bbox": [
+    -82.371758,
+    34.823848,
+    -82.371758,
+    34.823848
+],
   "geometry": {"coordinates":[-82.371758,34.823848],"type":"Point"}
 }

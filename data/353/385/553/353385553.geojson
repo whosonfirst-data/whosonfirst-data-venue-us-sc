@@ -2,13 +2,14 @@
   "id": 353385553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.880383,34.473977,-81.880383,34.473977",
     "geom:latitude":34.473977,
     "geom:longitude":-81.880383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Glendale Manor Dr",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353385553,
-    "wof:lastmodified":1449019783,
+    "wof:lastmodified":1467082241,
     "wof:name":"Glendale Manor Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.880383,34.473977,-81.880383,34.473977],
-  "geometry": {"coordinates":[-81.880383,34.473977],"type":"Point"}
+  "bbox": [
+    -81.880383,
+    34.473977,
+    -81.880383,
+    34.473977
+],
+  "geometry": {"coordinates":[-81.88038299999999,34.473977],"type":"Point"}
 }

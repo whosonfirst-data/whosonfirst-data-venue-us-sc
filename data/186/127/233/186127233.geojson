@@ -2,13 +2,14 @@
   "id": 186127233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.989069,33.609379,-78.989069,33.609379",
     "geom:latitude":33.609379,
     "geom:longitude":-78.989069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Caropine Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186127233,
-    "wof:lastmodified":1449052808,
+    "wof:lastmodified":1467082411,
     "wof:name":"Peterson Medical Inc",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-78.989069,33.609379,-78.989069,33.609379],
+  "bbox": [
+    -78.989069,
+    33.609379,
+    -78.989069,
+    33.609379
+],
   "geometry": {"coordinates":[-78.989069,33.609379],"type":"Point"}
 }

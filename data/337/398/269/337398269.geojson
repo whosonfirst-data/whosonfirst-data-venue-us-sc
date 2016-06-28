@@ -2,13 +2,14 @@
   "id": 337398269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.640083,35.057043,-81.640083,35.057043",
     "geom:latitude":35.057043,
     "geom:longitude":-81.640083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Wilkinsville Hwy",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337398269,
-    "wof:lastmodified":1449027006,
+    "wof:lastmodified":1467082267,
     "wof:name":"Super 10",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.640083,35.057043,-81.640083,35.057043],
+  "bbox": [
+    -81.640083,
+    35.057043,
+    -81.640083,
+    35.057043
+],
   "geometry": {"coordinates":[-81.640083,35.057043],"type":"Point"}
 }

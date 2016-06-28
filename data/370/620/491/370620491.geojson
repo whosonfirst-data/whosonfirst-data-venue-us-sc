@@ -2,13 +2,14 @@
   "id": 370620491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.680198,34.099534,-79.680198,34.099534",
     "geom:latitude":34.099534,
     "geom:longitude":-79.680198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4020 Megan Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370620491,
-    "wof:lastmodified":1449032182,
+    "wof:lastmodified":1467082367,
     "wof:name":"Floyd Construction Inc",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.680198,34.099534,-79.680198,34.099534],
+  "bbox": [
+    -79.680198,
+    34.099534,
+    -79.680198,
+    34.099534
+],
   "geometry": {"coordinates":[-79.680198,34.099534],"type":"Point"}
 }

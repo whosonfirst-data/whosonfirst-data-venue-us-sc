@@ -2,13 +2,14 @@
   "id": 370471813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.316945,34.665914,-82.316945,34.665914",
     "geom:latitude":34.665914,
     "geom:longitude":-82.316945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3423 Fork Shoals Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370471813,
-    "wof:lastmodified":1449030441,
+    "wof:lastmodified":1467082328,
     "wof:name":"General Equipment & Supply Co",
     "wof:parent_id":85857259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yard"
     ]
 },
-  "bbox": [-82.316945,34.665914,-82.316945,34.665914],
+  "bbox": [
+    -82.316945,
+    34.665914,
+    -82.316945,
+    34.665914
+],
   "geometry": {"coordinates":[-82.316945,34.665914],"type":"Point"}
 }

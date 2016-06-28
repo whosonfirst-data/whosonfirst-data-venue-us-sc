@@ -2,13 +2,14 @@
   "id": 370527945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.682805,34.613853,-79.682805,34.613853",
     "geom:latitude":34.613853,
     "geom:longitude":-79.682805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 State Hwy 9 Bus",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370527945,
-    "wof:lastmodified":1449031782,
+    "wof:lastmodified":1467082358,
     "wof:name":"Autozone 1014",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-79.682805,34.613853,-79.682805,34.613853],
+  "bbox": [
+    -79.682805,
+    34.613853,
+    -79.682805,
+    34.613853
+],
   "geometry": {"coordinates":[-79.682805,34.613853],"type":"Point"}
 }

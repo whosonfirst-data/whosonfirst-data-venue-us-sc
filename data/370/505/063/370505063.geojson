@@ -2,13 +2,14 @@
   "id": 370505063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.400066,34.649572,-82.400066,34.649572",
     "geom:latitude":34.649572,
     "geom:longitude":-82.400066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"186 Woodville Rd",
     "sg:city":"Pelzer",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370505063,
-    "wof:lastmodified":1449031905,
+    "wof:lastmodified":1467082361,
     "wof:name":"Circle M Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "western"
     ]
 },
-  "bbox": [-82.400066,34.649572,-82.400066,34.649572],
+  "bbox": [
+    -82.400066,
+    34.649572,
+    -82.400066,
+    34.649572
+],
   "geometry": {"coordinates":[-82.400066,34.649572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353844451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.238346,32.708543,-80.238346,32.708543",
     "geom:latitude":32.708543,
     "geom:longitude":-80.238346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4559 State Hwy 165",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353844451,
-    "wof:lastmodified":1449019335,
+    "wof:lastmodified":1467082232,
     "wof:name":"Smoaks Incredible Kennel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.238346,32.708543,-80.238346,32.708543],
-  "geometry": {"coordinates":[-80.238346,32.708543],"type":"Point"}
+  "bbox": [
+    -80.238346,
+    32.708543,
+    -80.238346,
+    32.708543
+],
+  "geometry": {"coordinates":[-80.23834600000001,32.708543],"type":"Point"}
 }

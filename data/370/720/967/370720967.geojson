@@ -2,13 +2,14 @@
   "id": 370720967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.007345,33.998464,-81.007345,33.998464",
     "geom:latitude":33.998464,
     "geom:longitude":-81.007345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2507 Devine St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370720967,
-    "wof:lastmodified":1449029902,
+    "wof:lastmodified":1467082316,
     "wof:name":"Hypnosis Information Line",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hypnotherapy"
     ]
 },
-  "bbox": [-81.007345,33.998464,-81.007345,33.998464],
+  "bbox": [
+    -81.007345,
+    33.998464,
+    -81.007345,
+    33.998464
+],
   "geometry": {"coordinates":[-81.007345,33.998464],"type":"Point"}
 }

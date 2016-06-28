@@ -2,13 +2,14 @@
   "id": 185941705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.672768,32.431143,-80.672768,32.431143",
     "geom:latitude":32.431143,
     "geom:longitude":-80.672768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 Bay St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185941705,
-    "wof:lastmodified":1449007571,
+    "wof:lastmodified":1467082197,
     "wof:name":"Lulu Burgess",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.672768,32.431143,-80.672768,32.431143],
+  "bbox": [
+    -80.672768,
+    32.431143,
+    -80.672768,
+    32.431143
+],
   "geometry": {"coordinates":[-80.672768,32.431143],"type":"Point"}
 }

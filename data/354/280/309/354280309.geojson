@@ -2,13 +2,14 @@
   "id": 354280309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.048327,34.555434,-83.048327,34.555434",
     "geom:latitude":34.555434,
     "geom:longitude":-83.048327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Greer Rd",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":354280309,
-    "wof:lastmodified":1449066756,
+    "wof:lastmodified":1467082433,
     "wof:name":"Kauffman Truss Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "structural"
     ]
 },
-  "bbox": [-83.048327,34.555434,-83.048327,34.555434],
+  "bbox": [
+    -83.048327,
+    34.555434,
+    -83.048327,
+    34.555434
+],
   "geometry": {"coordinates":[-83.048327,34.555434],"type":"Point"}
 }

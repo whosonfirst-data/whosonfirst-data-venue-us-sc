@@ -2,13 +2,14 @@
   "id": 370203591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.284556,34.156487,-81.284556,34.156487",
     "geom:latitude":34.156487,
     "geom:longitude":-81.284556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 Three Dog Rd",
     "sg:city":"White Rock",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370203591,
-    "wof:lastmodified":1449030599,
+    "wof:lastmodified":1467082332,
     "wof:name":"Material Things Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drapery"
     ]
 },
-  "bbox": [-81.284556,34.156487,-81.284556,34.156487],
-  "geometry": {"coordinates":[-81.284556,34.156487],"type":"Point"}
+  "bbox": [
+    -81.284556,
+    34.156487,
+    -81.284556,
+    34.156487
+],
+  "geometry": {"coordinates":[-81.28455599999999,34.156487],"type":"Point"}
 }

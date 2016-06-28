@@ -2,13 +2,14 @@
   "id": 186094553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.291461,34.836075,-82.291461,34.836075",
     "geom:latitude":34.836075,
     "geom:longitude":-82.291461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5199 Frontage Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186094553,
-    "wof:lastmodified":1449052048,
+    "wof:lastmodified":1467082403,
     "wof:name":"Steel Summit",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-82.291461,34.836075,-82.291461,34.836075],
+  "bbox": [
+    -82.291461,
+    34.836075,
+    -82.291461,
+    34.836075
+],
   "geometry": {"coordinates":[-82.291461,34.836075],"type":"Point"}
 }

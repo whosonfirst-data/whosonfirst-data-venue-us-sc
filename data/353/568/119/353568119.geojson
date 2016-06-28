@@ -2,13 +2,14 @@
   "id": 353568119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.033388,34.736189,-82.033388,34.736189",
     "geom:latitude":34.736189,
     "geom:longitude":-82.033388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 E Griffith St",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353568119,
-    "wof:lastmodified":1449018194,
+    "wof:lastmodified":1467082208,
     "wof:name":"Charles Lea Ctr",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.033388,34.736189,-82.033388,34.736189],
+  "bbox": [
+    -82.033388,
+    34.736189,
+    -82.033388,
+    34.736189
+],
   "geometry": {"coordinates":[-82.033388,34.736189],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354265205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.482265,34.703879,-82.482265,34.703879",
     "geom:latitude":34.703879,
     "geom:longitude":-82.482265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 State Hwy 86",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354265205,
-    "wof:lastmodified":1449066490,
+    "wof:lastmodified":1467082427,
     "wof:name":"Piedmont Tire Co",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-82.482265,34.703879,-82.482265,34.703879],
+  "bbox": [
+    -82.482265,
+    34.703879,
+    -82.482265,
+    34.703879
+],
   "geometry": {"coordinates":[-82.482265,34.703879],"type":"Point"}
 }

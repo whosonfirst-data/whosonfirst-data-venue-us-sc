@@ -2,13 +2,14 @@
   "id": 185920841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.434278,34.338038,-79.434278,34.338038",
     "geom:latitude":34.338038,
     "geom:longitude":-79.434278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 S Marion St",
     "sg:city":"Latta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185920841,
-    "wof:lastmodified":1449007865,
+    "wof:lastmodified":1467082202,
     "wof:name":"R L Clanton DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-79.434278,34.338038,-79.434278,34.338038],
-  "geometry": {"coordinates":[-79.434278,34.338038],"type":"Point"}
+  "bbox": [
+    -79.434278,
+    34.338038,
+    -79.434278,
+    34.338038
+],
+  "geometry": {"coordinates":[-79.43427800000001,34.338038],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370375777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.513298,34.672367,-82.513298,34.672367",
     "geom:latitude":34.672367,
     "geom:longitude":-82.513298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Guthrie Grove Church Rd",
     "sg:city":"Pelzer",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370375777,
-    "wof:lastmodified":1449029187,
+    "wof:lastmodified":1467082300,
     "wof:name":"Guthrie Grove Church Of God",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.513298,34.672367,-82.513298,34.672367],
-  "geometry": {"coordinates":[-82.513298,34.672367],"type":"Point"}
+  "bbox": [
+    -82.513298,
+    34.672367,
+    -82.513298,
+    34.672367
+],
+  "geometry": {"coordinates":[-82.51329800000001,34.672367],"type":"Point"}
 }

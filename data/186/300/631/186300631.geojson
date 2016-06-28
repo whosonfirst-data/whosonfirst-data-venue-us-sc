@@ -2,13 +2,14 @@
   "id": 186300631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.860381,33.488083,-80.860381,33.488083",
     "geom:latitude":33.488083,
     "geom:longitude":-80.860381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"943 John C Calhoun Dr",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186300631,
-    "wof:lastmodified":1449051892,
+    "wof:lastmodified":1467082402,
     "wof:name":"M R Telephone",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.860381,33.488083,-80.860381,33.488083],
+  "bbox": [
+    -80.860381,
+    33.488083,
+    -80.860381,
+    33.488083
+],
   "geometry": {"coordinates":[-80.860381,33.488083],"type":"Point"}
 }

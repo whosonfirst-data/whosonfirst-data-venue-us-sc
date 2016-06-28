@@ -2,13 +2,14 @@
   "id": 370685771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.00852,33.80289,-79.00852,33.80289",
     "geom:latitude":33.80289,
     "geom:longitude":-79.00852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Carolina Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370685771,
-    "wof:lastmodified":1449032385,
+    "wof:lastmodified":1467082372,
     "wof:name":"HTC Communications",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-79.00852,33.80289,-79.00852,33.80289],
+  "bbox": [
+    -79.00852,
+    33.80289,
+    -79.00852,
+    33.80289
+],
   "geometry": {"coordinates":[-79.00852,33.80289],"type":"Point"}
 }

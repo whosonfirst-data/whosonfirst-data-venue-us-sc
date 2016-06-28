@@ -2,13 +2,14 @@
   "id": 186213963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.257745,34.211578,-79.257745,34.211578",
     "geom:latitude":34.211578,
     "geom:longitude":-79.257745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"528 N Smith St",
     "sg:city":"Mullins",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186213963,
-    "wof:lastmodified":1449050284,
+    "wof:lastmodified":1467082389,
     "wof:name":"Ebenezer AME Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.257745,34.211578,-79.257745,34.211578],
+  "bbox": [
+    -79.257745,
+    34.211578,
+    -79.257745,
+    34.211578
+],
   "geometry": {"coordinates":[-79.257745,34.211578],"type":"Point"}
 }

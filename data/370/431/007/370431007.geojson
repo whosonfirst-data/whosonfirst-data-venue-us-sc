@@ -2,13 +2,14 @@
   "id": 370431007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.064129,33.997811,-81.064129,33.997811",
     "geom:latitude":33.997811,
     "geom:longitude":-81.064129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Barron St",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370431007,
-    "wof:lastmodified":1449029555,
+    "wof:lastmodified":1467082308,
     "wof:name":"Carolina Comfort Inc",
     "wof:parent_id":85840603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.064129,33.997811,-81.064129,33.997811],
-  "geometry": {"coordinates":[-81.064129,33.997811],"type":"Point"}
+  "bbox": [
+    -81.064129,
+    33.997811,
+    -81.064129,
+    33.997811
+],
+  "geometry": {"coordinates":[-81.06412899999999,33.997811],"type":"Point"}
 }

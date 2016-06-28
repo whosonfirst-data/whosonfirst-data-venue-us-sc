@@ -2,13 +2,14 @@
   "id": 370253625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.117506,34.879095,-82.117506,34.879095",
     "geom:latitude":34.879095,
     "geom:longitude":-82.117506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"426 W Lakeview Dr",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370253625,
-    "wof:lastmodified":1449032058,
+    "wof:lastmodified":1467082364,
     "wof:name":"Eulas Original",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.117506,34.879095,-82.117506,34.879095],
-  "geometry": {"coordinates":[-82.117506,34.879095],"type":"Point"}
+  "bbox": [
+    -82.117506,
+    34.879095,
+    -82.117506,
+    34.879095
+],
+  "geometry": {"coordinates":[-82.11750600000001,34.879095],"type":"Point"}
 }

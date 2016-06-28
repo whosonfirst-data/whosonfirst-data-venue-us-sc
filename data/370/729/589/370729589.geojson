@@ -2,13 +2,14 @@
   "id": 370729589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.288335,33.369817,-79.288335,33.369817",
     "geom:latitude":33.369817,
     "geom:longitude":-79.288335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 Front St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370729589,
-    "wof:lastmodified":1449030787,
+    "wof:lastmodified":1467082335,
     "wof:name":"Stalvey'S1107 Front",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.288335,33.369817,-79.288335,33.369817],
+  "bbox": [
+    -79.288335,
+    33.369817,
+    -79.288335,
+    33.369817
+],
   "geometry": {"coordinates":[-79.288335,33.369817],"type":"Point"}
 }

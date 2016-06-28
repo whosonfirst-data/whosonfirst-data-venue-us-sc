@@ -2,13 +2,14 @@
   "id": 353992071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.149735,35.047847,-81.149735,35.047847",
     "geom:latitude":35.047847,
     "geom:longitude":-81.149735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3107 York Farms Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353992071,
-    "wof:lastmodified":1449019464,
+    "wof:lastmodified":1467082234,
     "wof:name":"Superclean Carpet Svc",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-81.149735,35.047847,-81.149735,35.047847],
-  "geometry": {"coordinates":[-81.149735,35.047847],"type":"Point"}
+  "bbox": [
+    -81.149735,
+    35.047847,
+    -81.149735,
+    35.047847
+],
+  "geometry": {"coordinates":[-81.14973500000001,35.047847],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370553395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.375191,34.775119,-80.375191,34.775119",
     "geom:latitude":34.775119,
     "geom:longitude":-80.375191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 E Cato St",
     "sg:city":"Pageland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370553395,
-    "wof:lastmodified":1449029084,
+    "wof:lastmodified":1467082298,
     "wof:name":"Sandhill Overhead Door",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-80.375191,34.775119,-80.375191,34.775119],
+  "bbox": [
+    -80.375191,
+    34.775119,
+    -80.375191,
+    34.775119
+],
   "geometry": {"coordinates":[-80.375191,34.775119],"type":"Point"}
 }

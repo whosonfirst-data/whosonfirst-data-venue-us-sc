@@ -2,13 +2,14 @@
   "id": 337410761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.660215,34.850231,-82.660215,34.850231",
     "geom:latitude":34.850231,
     "geom:longitude":-82.660215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 Gentry Memorial Hwy",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337410761,
-    "wof:lastmodified":1449026944,
+    "wof:lastmodified":1467082265,
     "wof:name":"Dalton Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "tape"
     ]
 },
-  "bbox": [-82.660215,34.850231,-82.660215,34.850231],
-  "geometry": {"coordinates":[-82.660215,34.850231],"type":"Point"}
+  "bbox": [
+    -82.660215,
+    34.850231,
+    -82.660215,
+    34.850231
+],
+  "geometry": {"coordinates":[-82.66021499999999,34.850231],"type":"Point"}
 }

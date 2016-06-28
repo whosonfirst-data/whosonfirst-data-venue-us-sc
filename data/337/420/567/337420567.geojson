@@ -2,13 +2,14 @@
   "id": 337420567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.177895,34.207452,-82.177895,34.207452",
     "geom:latitude":34.207452,
     "geom:longitude":-82.177895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Crosscreek Con",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337420567,
-    "wof:lastmodified":1449027345,
+    "wof:lastmodified":1467082280,
     "wof:name":"Miller & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.177895,34.207452,-82.177895,34.207452],
-  "geometry": {"coordinates":[-82.177895,34.207452],"type":"Point"}
+  "bbox": [
+    -82.177895,
+    34.207452,
+    -82.177895,
+    34.207452
+],
+  "geometry": {"coordinates":[-82.17789500000001,34.207452],"type":"Point"}
 }

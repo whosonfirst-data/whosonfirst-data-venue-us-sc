@@ -2,13 +2,14 @@
   "id": 337302299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.529713,35.072638,-82.529713,35.072638",
     "geom:latitude":35.072638,
     "geom:longitude":-82.529713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4232 State Hwy 11",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337302299,
-    "wof:lastmodified":1449027214,
+    "wof:lastmodified":1467082276,
     "wof:name":"Pleasant Ridge County Park",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-82.529713,35.072638,-82.529713,35.072638],
+  "bbox": [
+    -82.529713,
+    35.072638,
+    -82.529713,
+    35.072638
+],
   "geometry": {"coordinates":[-82.529713,35.072638],"type":"Point"}
 }

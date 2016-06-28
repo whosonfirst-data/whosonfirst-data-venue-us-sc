@@ -2,13 +2,14 @@
   "id": 169732353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.609474,34.270533,-80.609474,34.270533",
     "geom:latitude":34.270533,
     "geom:longitude":-80.609474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2311 Broad St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169732353,
-    "wof:lastmodified":1449036071,
+    "wof:lastmodified":1467082388,
     "wof:name":"Tico Credit Co",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-80.609474,34.270533,-80.609474,34.270533],
-  "geometry": {"coordinates":[-80.609474,34.270533],"type":"Point"}
+  "bbox": [
+    -80.609474,
+    34.270533,
+    -80.609474,
+    34.270533
+],
+  "geometry": {"coordinates":[-80.60947400000001,34.270533],"type":"Point"}
 }

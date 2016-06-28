@@ -2,13 +2,14 @@
   "id": 354260461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.636201,34.503902,-82.636201,34.503902",
     "geom:latitude":34.503902,
     "geom:longitude":-82.636201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 E Whitner St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354260461,
-    "wof:lastmodified":1449066220,
+    "wof:lastmodified":1467082421,
     "wof:name":"John Martin Concrete Works",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.636201,34.503902,-82.636201,34.503902],
+  "bbox": [
+    -82.636201,
+    34.503902,
+    -82.636201,
+    34.503902
+],
   "geometry": {"coordinates":[-82.636201,34.503902],"type":"Point"}
 }

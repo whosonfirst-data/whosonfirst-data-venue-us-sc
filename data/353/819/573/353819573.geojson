@@ -2,13 +2,14 @@
   "id": 353819573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.940806,33.81099,-81.940806,33.81099",
     "geom:latitude":33.81099,
     "geom:longitude":-81.940806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1190 Bauskett St",
     "sg:city":"Edgefield",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353819573,
-    "wof:lastmodified":1449018860,
+    "wof:lastmodified":1467082222,
     "wof:name":"Brown Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.940806,33.81099,-81.940806,33.81099],
-  "geometry": {"coordinates":[-81.940806,33.81099],"type":"Point"}
+  "bbox": [
+    -81.940806,
+    33.81099,
+    -81.940806,
+    33.81099
+],
+  "geometry": {"coordinates":[-81.94080599999999,33.81099],"type":"Point"}
 }

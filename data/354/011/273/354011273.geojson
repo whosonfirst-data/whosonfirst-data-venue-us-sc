@@ -2,13 +2,14 @@
   "id": 354011273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.960233,34.977621,-81.960233,34.977621",
     "geom:latitude":34.977621,
     "geom:longitude":-81.960233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 Alamo St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354011273,
-    "wof:lastmodified":1449067329,
+    "wof:lastmodified":1467082446,
     "wof:name":"Bethany Baptist Church",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.960233,34.977621,-81.960233,34.977621],
+  "bbox": [
+    -81.960233,
+    34.977621,
+    -81.960233,
+    34.977621
+],
   "geometry": {"coordinates":[-81.960233,34.977621],"type":"Point"}
 }

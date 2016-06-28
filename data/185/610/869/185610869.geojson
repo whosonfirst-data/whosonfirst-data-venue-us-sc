@@ -2,13 +2,14 @@
   "id": 185610869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.982502,33.189716,-79.982502,33.189716",
     "geom:latitude":33.189716,
     "geom:longitude":-79.982502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 Sterling Oaks Dr",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185610869,
-    "wof:lastmodified":1449008168,
+    "wof:lastmodified":1467082206,
     "wof:name":"Tri County Concrete Pumping",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pumping"
     ]
 },
-  "bbox": [-79.982502,33.189716,-79.982502,33.189716],
+  "bbox": [
+    -79.982502,
+    33.189716,
+    -79.982502,
+    33.189716
+],
   "geometry": {"coordinates":[-79.982502,33.189716],"type":"Point"}
 }

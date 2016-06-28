@@ -2,13 +2,14 @@
   "id": 354224841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.076402,32.881075,-80.076402,32.881075",
     "geom:latitude":32.881075,
     "geom:longitude":-80.076402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4995 Lambs Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354224841,
-    "wof:lastmodified":1449067205,
+    "wof:lastmodified":1467082444,
     "wof:name":"Amberwood Townhouses",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.076402,32.881075,-80.076402,32.881075],
+  "bbox": [
+    -80.076402,
+    32.881075,
+    -80.076402,
+    32.881075
+],
   "geometry": {"coordinates":[-80.076402,32.881075],"type":"Point"}
 }

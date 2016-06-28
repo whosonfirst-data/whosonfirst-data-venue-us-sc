@@ -2,13 +2,14 @@
   "id": 370546901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.703545,33.563621,-81.703545,33.563621",
     "geom:latitude":33.563621,
     "geom:longitude":-81.703545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"443 Marlboro St NE",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370546901,
-    "wof:lastmodified":1449029058,
+    "wof:lastmodified":1467082297,
     "wof:name":"Roberson Masonry Earl",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.703545,33.563621,-81.703545,33.563621],
-  "geometry": {"coordinates":[-81.703545,33.563621],"type":"Point"}
+  "bbox": [
+    -81.703545,
+    33.563621,
+    -81.703545,
+    33.563621
+],
+  "geometry": {"coordinates":[-81.70354500000001,33.563621],"type":"Point"}
 }

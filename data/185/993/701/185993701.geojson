@@ -2,13 +2,14 @@
   "id": 185993701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.737499,33.855378,-78.737499,33.855378",
     "geom:latitude":33.855378,
     "geom:longitude":-78.737499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2399 Water Tower Rd",
     "sg:city":"Longs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185993701,
-    "wof:lastmodified":1449007325,
+    "wof:lastmodified":1467082193,
     "wof:name":"Raymond Lewis",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-78.737499,33.855378,-78.737499,33.855378],
+  "bbox": [
+    -78.737499,
+    33.855378,
+    -78.737499,
+    33.855378
+],
   "geometry": {"coordinates":[-78.737499,33.855378],"type":"Point"}
 }

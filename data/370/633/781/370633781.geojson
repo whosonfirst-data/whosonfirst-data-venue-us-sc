@@ -2,13 +2,14 @@
   "id": 370633781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.566637,33.183261,-80.566637,33.183261",
     "geom:latitude":33.183261,
     "geom:longitude":-80.566637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 E George St",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370633781,
-    "wof:lastmodified":1449032439,
+    "wof:lastmodified":1467082373,
     "wof:name":"Old St George Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.566637,33.183261,-80.566637,33.183261],
+  "bbox": [
+    -80.566637,
+    33.183261,
+    -80.566637,
+    33.183261
+],
   "geometry": {"coordinates":[-80.566637,33.183261],"type":"Point"}
 }

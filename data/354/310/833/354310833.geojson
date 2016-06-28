@@ -2,13 +2,14 @@
   "id": 354310833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.00515,34.935278,-82.00515,34.935278",
     "geom:latitude":34.935278,
     "geom:longitude":-82.00515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7661 Greenville Hwy",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354310833,
-    "wof:lastmodified":1449066987,
+    "wof:lastmodified":1467082438,
     "wof:name":"Mc Donald's",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.00515,34.935278,-82.00515,34.935278],
+  "bbox": [
+    -82.00515,
+    34.935278,
+    -82.00515,
+    34.935278
+],
   "geometry": {"coordinates":[-82.00515,34.935278],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370491785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.070461,33.979522,-81.070461,33.979522",
     "geom:latitude":33.979522,
     "geom:longitude":-81.070461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1344 Knox Abbott Dr",
     "sg:city":"Cayce",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370491785,
-    "wof:lastmodified":1449029016,
+    "wof:lastmodified":1467082296,
     "wof:name":"Regional Finance",
     "wof:parent_id":85897259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-81.070461,33.979522,-81.070461,33.979522],
-  "geometry": {"coordinates":[-81.070461,33.979522],"type":"Point"}
+  "bbox": [
+    -81.070461,
+    33.979522,
+    -81.070461,
+    33.979522
+],
+  "geometry": {"coordinates":[-81.07046099999999,33.979522],"type":"Point"}
 }

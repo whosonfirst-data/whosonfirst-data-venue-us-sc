@@ -2,13 +2,14 @@
   "id": 370887425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.341441,33.922078,-80.341441,33.922078",
     "geom:latitude":33.922078,
     "geom:longitude":-80.341441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Main St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":370887425,
-    "wof:lastmodified":1449031807,
+    "wof:lastmodified":1467082359,
     "wof:name":"Leslie Newcomb Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "reporter"
     ]
 },
-  "bbox": [-80.341441,33.922078,-80.341441,33.922078],
+  "bbox": [
+    -80.341441,
+    33.922078,
+    -80.341441,
+    33.922078
+],
   "geometry": {"coordinates":[-80.341441,33.922078],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186036187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.268675,34.756411,-82.268675,34.756411",
     "geom:latitude":34.756411,
     "geom:longitude":-82.268675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 NE Main St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186036187,
-    "wof:lastmodified":1449050992,
+    "wof:lastmodified":1467082393,
     "wof:name":"Two Guys Pizza",
     "wof:parent_id":85834923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.268675,34.756411,-82.268675,34.756411],
+  "bbox": [
+    -82.268675,
+    34.756411,
+    -82.268675,
+    34.756411
+],
   "geometry": {"coordinates":[-82.268675,34.756411],"type":"Point"}
 }

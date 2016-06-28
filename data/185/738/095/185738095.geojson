@@ -2,13 +2,14 @@
   "id": 185738095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.064253,34.764722,-83.064253,34.764722",
     "geom:latitude":34.764722,
     "geom:longitude":-83.064253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Catherine St",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185738095,
-    "wof:lastmodified":1449007765,
+    "wof:lastmodified":1467082200,
     "wof:name":"Motts Place",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-83.064253,34.764722,-83.064253,34.764722],
-  "geometry": {"coordinates":[-83.064253,34.764722],"type":"Point"}
+  "bbox": [
+    -83.064253,
+    34.764722,
+    -83.064253,
+    34.764722
+],
+  "geometry": {"coordinates":[-83.06425299999999,34.764722],"type":"Point"}
 }

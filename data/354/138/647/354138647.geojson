@@ -2,13 +2,14 @@
   "id": 354138647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.694867,34.560849,-82.694867,34.560849",
     "geom:latitude":34.560849,
     "geom:longitude":-82.694867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4124 Clemson Blvd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354138647,
-    "wof:lastmodified":1449066392,
+    "wof:lastmodified":1467082425,
     "wof:name":"Regional Management Corp",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-82.694867,34.560849,-82.694867,34.560849],
+  "bbox": [
+    -82.694867,
+    34.560849,
+    -82.694867,
+    34.560849
+],
   "geometry": {"coordinates":[-82.694867,34.560849],"type":"Point"}
 }

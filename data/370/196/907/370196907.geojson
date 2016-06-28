@@ -2,13 +2,14 @@
   "id": 370196907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.053593,32.868436,-80.053593,32.868436",
     "geom:latitude":32.868436,
     "geom:longitude":-80.053593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5849 Dorchester Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370196907,
-    "wof:lastmodified":1449029861,
+    "wof:lastmodified":1467082315,
     "wof:name":"Salon Rochelle",
     "wof:parent_id":85820043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.053593,32.868436,-80.053593,32.868436],
-  "geometry": {"coordinates":[-80.053593,32.868436],"type":"Point"}
+  "bbox": [
+    -80.053593,
+    32.868436,
+    -80.053593,
+    32.868436
+],
+  "geometry": {"coordinates":[-80.05359300000001,32.868436],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370336803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.892855,34.929143,-81.892855,34.929143",
     "geom:latitude":34.929143,
     "geom:longitude":-81.892855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1457 Union St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":370336803,
-    "wof:lastmodified":1449029003,
+    "wof:lastmodified":1467082296,
     "wof:name":"Eastside Meats & Produce Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.892855,34.929143,-81.892855,34.929143],
+  "bbox": [
+    -81.892855,
+    34.929143,
+    -81.892855,
+    34.929143
+],
   "geometry": {"coordinates":[-81.892855,34.929143],"type":"Point"}
 }

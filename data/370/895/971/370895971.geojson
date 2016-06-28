@@ -2,13 +2,14 @@
   "id": 370895971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.949521,32.818158,-79.949521,32.818158",
     "geom:latitude":32.818158,
     "geom:longitude":-79.949521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1951 Algonquin Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370895971,
-    "wof:lastmodified":1449030522,
+    "wof:lastmodified":1467082330,
     "wof:name":"Pepsi Bottling Group",
     "wof:parent_id":85836137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beverage"
     ]
 },
-  "bbox": [-79.949521,32.818158,-79.949521,32.818158],
+  "bbox": [
+    -79.949521,
+    32.818158,
+    -79.949521,
+    32.818158
+],
   "geometry": {"coordinates":[-79.949521,32.818158],"type":"Point"}
 }

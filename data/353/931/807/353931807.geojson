@@ -2,13 +2,14 @@
   "id": 353931807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.087481,34.054403,-81.087481,34.054403",
     "geom:latitude":34.054403,
     "geom:longitude":-81.087481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 Hertford Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353931807,
-    "wof:lastmodified":1449020575,
+    "wof:lastmodified":1467082257,
     "wof:name":"Oxford House-Dutch Square",
     "wof:parent_id":85845041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-81.087481,34.054403,-81.087481,34.054403],
+  "bbox": [
+    -81.087481,
+    34.054403,
+    -81.087481,
+    34.054403
+],
   "geometry": {"coordinates":[-81.087481,34.054403],"type":"Point"}
 }

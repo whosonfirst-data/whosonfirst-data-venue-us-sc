@@ -2,13 +2,14 @@
   "id": 354260261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.177792,34.129753,-81.177792,34.129753",
     "geom:latitude":34.129753,
     "geom:longitude":-81.177792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1751 Kennerly Rd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354260261,
-    "wof:lastmodified":1449066217,
+    "wof:lastmodified":1467082421,
     "wof:name":"Beckham's Barn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "rock"
     ]
 },
-  "bbox": [-81.177792,34.129753,-81.177792,34.129753],
+  "bbox": [
+    -81.177792,
+    34.129753,
+    -81.177792,
+    34.129753
+],
   "geometry": {"coordinates":[-81.177792,34.129753],"type":"Point"}
 }

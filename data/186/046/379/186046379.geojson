@@ -2,13 +2,14 @@
   "id": 186046379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.995063,34.916125,-81.995063,34.916125",
     "geom:latitude":34.916125,
     "geom:longitude":-81.995063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1061 Laurel Glen Cir",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186046379,
-    "wof:lastmodified":1449051865,
+    "wof:lastmodified":1467082402,
     "wof:name":"M&L Enterprises of NC Inc",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-81.995063,34.916125,-81.995063,34.916125],
+  "bbox": [
+    -81.995063,
+    34.916125,
+    -81.995063,
+    34.916125
+],
   "geometry": {"coordinates":[-81.995063,34.916125],"type":"Point"}
 }

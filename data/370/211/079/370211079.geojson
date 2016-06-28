@@ -2,13 +2,14 @@
   "id": 370211079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.920222,34.099331,-80.920222,34.099331",
     "geom:latitude":34.099331,
     "geom:longitude":-80.920222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Office Park Ct",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370211079,
-    "wof:lastmodified":1449029931,
+    "wof:lastmodified":1467082317,
     "wof:name":"Ted Rentz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.920222,34.099331,-80.920222,34.099331],
+  "bbox": [
+    -80.920222,
+    34.099331,
+    -80.920222,
+    34.099331
+],
   "geometry": {"coordinates":[-80.920222,34.099331],"type":"Point"}
 }

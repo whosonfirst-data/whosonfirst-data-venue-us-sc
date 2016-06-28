@@ -2,13 +2,14 @@
   "id": 354160029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.386725,34.848085,-82.386725,34.848085",
     "geom:latitude":34.848085,
     "geom:longitude":-82.386725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Washington Park",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354160029,
-    "wof:lastmodified":1449067377,
+    "wof:lastmodified":1467082447,
     "wof:name":"Lotsadots",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.386725,34.848085,-82.386725,34.848085],
+  "bbox": [
+    -82.386725,
+    34.848085,
+    -82.386725,
+    34.848085
+],
   "geometry": {"coordinates":[-82.386725,34.848085],"type":"Point"}
 }

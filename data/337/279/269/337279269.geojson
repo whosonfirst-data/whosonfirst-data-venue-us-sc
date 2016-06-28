@@ -2,13 +2,14 @@
   "id": 337279269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.282823,34.870505,-82.282823,34.870505",
     "geom:latitude":34.870505,
     "geom:longitude":-82.282823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 Devenger Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337279269,
-    "wof:lastmodified":1449027319,
+    "wof:lastmodified":1467082279,
     "wof:name":"Three Tree Inc",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.282823,34.870505,-82.282823,34.870505],
-  "geometry": {"coordinates":[-82.282823,34.870505],"type":"Point"}
+  "bbox": [
+    -82.282823,
+    34.870505,
+    -82.282823,
+    34.870505
+],
+  "geometry": {"coordinates":[-82.28282299999999,34.870505],"type":"Point"}
 }

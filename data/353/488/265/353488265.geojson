@@ -2,13 +2,14 @@
   "id": 353488265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.047828,34.880192,-82.047828,34.880192",
     "geom:latitude":34.880192,
     "geom:longitude":-82.047828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 State Hwy 417",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353488265,
-    "wof:lastmodified":1449020702,
+    "wof:lastmodified":1467082260,
     "wof:name":"Local Alarm Inc",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.047828,34.880192,-82.047828,34.880192],
+  "bbox": [
+    -82.047828,
+    34.880192,
+    -82.047828,
+    34.880192
+],
   "geometry": {"coordinates":[-82.047828,34.880192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370634189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.980242,33.611896,-78.980242,33.611896",
     "geom:latitude":33.611896,
     "geom:longitude":-78.980242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 1st Ave N",
     "sg:city":"Surfside Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370634189,
-    "wof:lastmodified":1449030707,
+    "wof:lastmodified":1467082334,
     "wof:name":"IHT/Grandstrand Inc",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-78.980242,33.611896,-78.980242,33.611896],
+  "bbox": [
+    -78.980242,
+    33.611896,
+    -78.980242,
+    33.611896
+],
   "geometry": {"coordinates":[-78.980242,33.611896],"type":"Point"}
 }

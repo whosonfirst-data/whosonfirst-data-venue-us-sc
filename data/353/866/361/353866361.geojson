@@ -2,13 +2,14 @@
   "id": 353866361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.649469,34.499764,-82.649469,34.499764",
     "geom:latitude":34.499764,
     "geom:longitude":-82.649469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 State Hwy 28 Bus",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353866361,
-    "wof:lastmodified":1449019476,
+    "wof:lastmodified":1467082234,
     "wof:name":"Young Fashions",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.649469,34.499764,-82.649469,34.499764],
+  "bbox": [
+    -82.649469,
+    34.499764,
+    -82.649469,
+    34.499764
+],
   "geometry": {"coordinates":[-82.649469,34.499764],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354117121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.031013,32.982467,-80.031013,32.982467",
     "geom:latitude":32.982467,
     "geom:longitude":-80.031013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Red Bank Rd",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354117121,
-    "wof:lastmodified":1449067134,
+    "wof:lastmodified":1467082442,
     "wof:name":"Bobby G Gore DDS",
     "wof:parent_id":85852091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.031013,32.982467,-80.031013,32.982467],
+  "bbox": [
+    -80.031013,
+    32.982467,
+    -80.031013,
+    32.982467
+],
   "geometry": {"coordinates":[-80.031013,32.982467],"type":"Point"}
 }

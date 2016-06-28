@@ -2,13 +2,14 @@
   "id": 337336681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.634444,35.091761,-81.634444,35.091761",
     "geom:latitude":35.091761,
     "geom:longitude":-81.634444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 N Limestone St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337336681,
-    "wof:lastmodified":1449026912,
+    "wof:lastmodified":1467082264,
     "wof:name":"Internal Medicine Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.634444,35.091761,-81.634444,35.091761],
+  "bbox": [
+    -81.634444,
+    35.091761,
+    -81.634444,
+    35.091761
+],
   "geometry": {"coordinates":[-81.634444,35.091761],"type":"Point"}
 }

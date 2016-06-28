@@ -2,13 +2,14 @@
   "id": 185852081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.934596,32.783301,-79.934596,32.783301",
     "geom:latitude":32.783301,
     "geom:longitude":-79.934596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"293 King St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185852081,
-    "wof:lastmodified":1449007960,
+    "wof:lastmodified":1467082203,
     "wof:name":"Museum Art Gallery Corp",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.934596,32.783301,-79.934596,32.783301],
+  "bbox": [
+    -79.934596,
+    32.783301,
+    -79.934596,
+    32.783301
+],
   "geometry": {"coordinates":[-79.934596,32.783301],"type":"Point"}
 }

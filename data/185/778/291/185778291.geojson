@@ -2,13 +2,14 @@
   "id": 185778291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.724618,33.509511,-81.724618,33.509511",
     "geom:latitude":33.509511,
     "geom:longitude":-81.724618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Long Ridge Loop",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185778291,
-    "wof:lastmodified":1449006616,
+    "wof:lastmodified":1467082182,
     "wof:name":"Carlyle Properties Aiken LL",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-81.724618,33.509511,-81.724618,33.509511],
-  "geometry": {"coordinates":[-81.724618,33.509511],"type":"Point"}
+  "bbox": [
+    -81.724618,
+    33.509511,
+    -81.724618,
+    33.509511
+],
+  "geometry": {"coordinates":[-81.72461800000001,33.509511],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370631765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.186187,34.040961,-81.186187,34.040961",
     "geom:latitude":34.040961,
     "geom:longitude":-81.186187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Center Dr",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370631765,
-    "wof:lastmodified":1449030145,
+    "wof:lastmodified":1467082322,
     "wof:name":"Long's Upholstery",
     "wof:parent_id":85897271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-81.186187,34.040961,-81.186187,34.040961],
+  "bbox": [
+    -81.186187,
+    34.040961,
+    -81.186187,
+    34.040961
+],
   "geometry": {"coordinates":[-81.186187,34.040961],"type":"Point"}
 }

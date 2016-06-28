@@ -2,13 +2,14 @@
   "id": 185883801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.596691,34.24706,-80.596691,34.24706",
     "geom:latitude":34.24706,
     "geom:longitude":-80.596691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 E Dekalb St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185883801,
-    "wof:lastmodified":1449007852,
+    "wof:lastmodified":1467082201,
     "wof:name":"Heritage Antique Mall",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.596691,34.24706,-80.596691,34.24706],
-  "geometry": {"coordinates":[-80.596691,34.24706],"type":"Point"}
+  "bbox": [
+    -80.596691,
+    34.24706,
+    -80.596691,
+    34.24706
+],
+  "geometry": {"coordinates":[-80.59669100000001,34.24706],"type":"Point"}
 }

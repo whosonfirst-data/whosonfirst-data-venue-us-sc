@@ -2,13 +2,14 @@
   "id": 354223837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.047851,34.959247,-81.047851,34.959247",
     "geom:latitude":34.959247,
     "geom:longitude":-81.047851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1721 Ebenezer Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354223837,
-    "wof:lastmodified":1449066050,
+    "wof:lastmodified":1467082417,
     "wof:name":"Robert E Penny Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.047851,34.959247,-81.047851,34.959247],
-  "geometry": {"coordinates":[-81.047851,34.959247],"type":"Point"}
+  "bbox": [
+    -81.047851,
+    34.959247,
+    -81.047851,
+    34.959247
+],
+  "geometry": {"coordinates":[-81.04785099999999,34.959247],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337422221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.438831,34.844172,-82.438831,34.844172",
     "geom:latitude":34.844172,
     "geom:longitude":-82.438831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Alice Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337422221,
-    "wof:lastmodified":1449026993,
+    "wof:lastmodified":1467082267,
     "wof:name":"Freetown Community Ctr",
     "wof:parent_id":85838763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-82.438831,34.844172,-82.438831,34.844172],
-  "geometry": {"coordinates":[-82.438831,34.844172],"type":"Point"}
+  "bbox": [
+    -82.438831,
+    34.844172,
+    -82.438831,
+    34.844172
+],
+  "geometry": {"coordinates":[-82.43883099999999,34.844172],"type":"Point"}
 }

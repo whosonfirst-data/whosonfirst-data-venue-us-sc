@@ -2,13 +2,14 @@
   "id": 370512129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.474196,33.432639,-81.474196,33.432639",
     "geom:latitude":33.432639,
     "geom:longitude":-81.474196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Johnson Ln",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370512129,
-    "wof:lastmodified":1449031557,
+    "wof:lastmodified":1467082353,
     "wof:name":"Johnson Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-81.474196,33.432639,-81.474196,33.432639],
-  "geometry": {"coordinates":[-81.474196,33.432639],"type":"Point"}
+  "bbox": [
+    -81.474196,
+    33.432639,
+    -81.474196,
+    33.432639
+],
+  "geometry": {"coordinates":[-81.47419600000001,33.432639],"type":"Point"}
 }

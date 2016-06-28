@@ -2,13 +2,14 @@
   "id": 185631053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.988522,32.913873,-79.988522,32.913873",
     "geom:latitude":32.913873,
     "geom:longitude":-79.988522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 Bankton Cir",
     "sg:city":"Hanahan",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185631053,
-    "wof:lastmodified":1449007104,
+    "wof:lastmodified":1467082190,
     "wof:name":"Dataline Inc",
     "wof:parent_id":85814443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.988522,32.913873,-79.988522,32.913873],
+  "bbox": [
+    -79.988522,
+    32.913873,
+    -79.988522,
+    32.913873
+],
   "geometry": {"coordinates":[-79.988522,32.913873],"type":"Point"}
 }

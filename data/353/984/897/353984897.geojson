@@ -2,13 +2,14 @@
   "id": 353984897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.30136,34.792548,-82.30136,34.792548",
     "geom:latitude":34.792548,
     "geom:longitude":-82.30136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"288 Old Mill Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353984897,
-    "wof:lastmodified":1449019703,
+    "wof:lastmodified":1467082239,
     "wof:name":"Lions Gate Apartments",
     "wof:parent_id":85851381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.30136,34.792548,-82.30136,34.792548],
+  "bbox": [
+    -82.30136,
+    34.792548,
+    -82.30136,
+    34.792548
+],
   "geometry": {"coordinates":[-82.30136,34.792548],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353763773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.545206,34.680704,-82.545206,34.680704",
     "geom:latitude":34.680704,
     "geom:longitude":-82.545206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 Easley Hwy",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353763773,
-    "wof:lastmodified":1449020783,
+    "wof:lastmodified":1467082261,
     "wof:name":"White Plains Trailers",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.545206,34.680704,-82.545206,34.680704],
-  "geometry": {"coordinates":[-82.545206,34.680704],"type":"Point"}
+  "bbox": [
+    -82.545206,
+    34.680704,
+    -82.545206,
+    34.680704
+],
+  "geometry": {"coordinates":[-82.54520599999999,34.680704],"type":"Point"}
 }

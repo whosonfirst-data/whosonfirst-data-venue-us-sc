@@ -2,13 +2,14 @@
   "id": 353616205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.983288,34.046991,-80.983288,34.046991",
     "geom:latitude":34.046991,
     "geom:longitude":-80.983288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Holiday Cir",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353616205,
-    "wof:lastmodified":1449020116,
+    "wof:lastmodified":1467082248,
     "wof:name":"One Small Voice Inc",
     "wof:parent_id":85838125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "musician"
     ]
 },
-  "bbox": [-80.983288,34.046991,-80.983288,34.046991],
+  "bbox": [
+    -80.983288,
+    34.046991,
+    -80.983288,
+    34.046991
+],
   "geometry": {"coordinates":[-80.983288,34.046991],"type":"Point"}
 }

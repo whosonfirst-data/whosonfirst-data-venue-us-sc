@@ -2,13 +2,14 @@
   "id": 337590295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.696058,34.809439,-80.696058,34.809439",
     "geom:latitude":34.809439,
     "geom:longitude":-80.696058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3495 Unity Church Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337590295,
-    "wof:lastmodified":1449027432,
+    "wof:lastmodified":1467082284,
     "wof:name":"Unity ARP Presbyterian Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.696058,34.809439,-80.696058,34.809439],
-  "geometry": {"coordinates":[-80.696058,34.809439],"type":"Point"}
+  "bbox": [
+    -80.696058,
+    34.809439,
+    -80.696058,
+    34.809439
+],
+  "geometry": {"coordinates":[-80.69605799999999,34.809439],"type":"Point"}
 }

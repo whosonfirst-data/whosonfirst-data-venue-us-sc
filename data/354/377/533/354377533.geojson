@@ -2,13 +2,14 @@
   "id": 354377533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.785126,34.762179,-80.785126,34.762179",
     "geom:latitude":34.762179,
     "geom:longitude":-80.785126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2103 Charlotte Hwy",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354377533,
-    "wof:lastmodified":1449066556,
+    "wof:lastmodified":1467082429,
     "wof:name":"Arrowood Estates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.785126,34.762179,-80.785126,34.762179],
-  "geometry": {"coordinates":[-80.785126,34.762179],"type":"Point"}
+  "bbox": [
+    -80.785126,
+    34.762179,
+    -80.785126,
+    34.762179
+],
+  "geometry": {"coordinates":[-80.78512600000001,34.762179],"type":"Point"}
 }

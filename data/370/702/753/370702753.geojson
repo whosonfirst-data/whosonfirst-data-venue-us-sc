@@ -2,13 +2,14 @@
   "id": 370702753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.007691,33.998486,-81.007691,33.998486",
     "geom:latitude":33.998486,
     "geom:longitude":-81.007691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2527 Devine St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370702753,
-    "wof:lastmodified":1449030766,
+    "wof:lastmodified":1467082335,
     "wof:name":"Young's Food Stores",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.007691,33.998486,-81.007691,33.998486],
-  "geometry": {"coordinates":[-81.007691,33.998486],"type":"Point"}
+  "bbox": [
+    -81.007691,
+    33.998486,
+    -81.007691,
+    33.998486
+],
+  "geometry": {"coordinates":[-81.00769099999999,33.998486],"type":"Point"}
 }

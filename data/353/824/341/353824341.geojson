@@ -2,13 +2,14 @@
   "id": 353824341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.023496,34.175242,-82.023496,34.175242",
     "geom:latitude":34.175242,
     "geom:longitude":-82.023496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Main St W",
     "sg:city":"Ninety Six",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353824341,
-    "wof:lastmodified":1449019158,
+    "wof:lastmodified":1467082228,
     "wof:name":"Ninety Six Public Works Comm",
     "wof:parent_id":85811917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-82.023496,34.175242,-82.023496,34.175242],
-  "geometry": {"coordinates":[-82.023496,34.175242],"type":"Point"}
+  "bbox": [
+    -82.023496,
+    34.175242,
+    -82.023496,
+    34.175242
+],
+  "geometry": {"coordinates":[-82.02349599999999,34.175242],"type":"Point"}
 }

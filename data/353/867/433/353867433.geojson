@@ -2,13 +2,14 @@
   "id": 353867433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.816085,32.230161,-80.816085,32.230161",
     "geom:latitude":32.230161,
     "geom:longitude":-80.816085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Buckingham Plantation Dr",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353867433,
-    "wof:lastmodified":1449019353,
+    "wof:lastmodified":1467082232,
     "wof:name":"Old South Golf Links",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-80.816085,32.230161,-80.816085,32.230161],
+  "bbox": [
+    -80.816085,
+    32.230161,
+    -80.816085,
+    32.230161
+],
   "geometry": {"coordinates":[-80.816085,32.230161],"type":"Point"}
 }

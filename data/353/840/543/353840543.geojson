@@ -2,13 +2,14 @@
   "id": 353840543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.673477,34.776847,-82.673477,34.776847",
     "geom:latitude":34.776847,
     "geom:longitude":-82.673477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6041 Moorefield Memorial Hwy",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":353840543,
-    "wof:lastmodified":1449020247,
+    "wof:lastmodified":1467082250,
     "wof:name":"Tma Tool Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.673477,34.776847,-82.673477,34.776847],
-  "geometry": {"coordinates":[-82.673477,34.776847],"type":"Point"}
+  "bbox": [
+    -82.673477,
+    34.776847,
+    -82.673477,
+    34.776847
+],
+  "geometry": {"coordinates":[-82.67347700000001,34.776847],"type":"Point"}
 }

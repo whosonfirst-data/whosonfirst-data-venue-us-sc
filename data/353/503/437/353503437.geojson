@@ -2,13 +2,14 @@
   "id": 353503437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.048308,33.831461,-79.048308,33.831461",
     "geom:latitude":33.831461,
     "geom:longitude":-79.048308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 1st Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353503437,
-    "wof:lastmodified":1449020802,
+    "wof:lastmodified":1467082262,
     "wof:name":"Horry County Voter's Rgstrtn",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.048308,33.831461,-79.048308,33.831461],
-  "geometry": {"coordinates":[-79.048308,33.831461],"type":"Point"}
+  "bbox": [
+    -79.048308,
+    33.831461,
+    -79.048308,
+    33.831461
+],
+  "geometry": {"coordinates":[-79.04830800000001,33.831461],"type":"Point"}
 }

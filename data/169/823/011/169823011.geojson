@@ -2,13 +2,14 @@
   "id": 169823011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.342802,34.84823,-82.342802,34.84823",
     "geom:latitude":34.84823,
     "geom:longitude":-82.342802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Cessna Ct",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":169823011,
-    "wof:lastmodified":1449035937,
+    "wof:lastmodified":1467082387,
     "wof:name":"Bertelkamp Automation Inc",
     "wof:parent_id":85836955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "distributor"
     ]
 },
-  "bbox": [-82.342802,34.84823,-82.342802,34.84823],
-  "geometry": {"coordinates":[-82.342802,34.84823],"type":"Point"}
+  "bbox": [
+    -82.342802,
+    34.84823,
+    -82.342802,
+    34.84823
+],
+  "geometry": {"coordinates":[-82.34280200000001,34.84823],"type":"Point"}
 }

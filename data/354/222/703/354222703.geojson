@@ -2,13 +2,14 @@
   "id": 354222703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.161074,34.189198,-82.161074,34.189198",
     "geom:latitude":34.189198,
     "geom:longitude":-82.161074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Main St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354222703,
-    "wof:lastmodified":1449067112,
+    "wof:lastmodified":1467082441,
     "wof:name":"WEBB Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.161074,34.189198,-82.161074,34.189198],
+  "bbox": [
+    -82.161074,
+    34.189198,
+    -82.161074,
+    34.189198
+],
   "geometry": {"coordinates":[-82.161074,34.189198],"type":"Point"}
 }

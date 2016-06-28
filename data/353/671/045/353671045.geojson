@@ -2,13 +2,14 @@
   "id": 353671045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.243781,34.221617,-80.243781,34.221617",
     "geom:latitude":34.221617,
     "geom:longitude":-80.243781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 N Main St",
     "sg:city":"Bishopville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353671045,
-    "wof:lastmodified":1449018841,
+    "wof:lastmodified":1467082221,
     "wof:name":"Bishopville Animal Clinic Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-80.243781,34.221617,-80.243781,34.221617],
+  "bbox": [
+    -80.243781,
+    34.221617,
+    -80.243781,
+    34.221617
+],
   "geometry": {"coordinates":[-80.243781,34.221617],"type":"Point"}
 }

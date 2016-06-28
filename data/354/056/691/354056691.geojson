@@ -2,13 +2,14 @@
   "id": 354056691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.976476,33.40906,-79.976476,33.40906",
     "geom:latitude":33.40906,
     "geom:longitude":-79.976476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 Bethel Rd",
     "sg:city":"St Stephen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354056691,
-    "wof:lastmodified":1449066382,
+    "wof:lastmodified":1467082425,
     "wof:name":"Miracle Academy Preparatory",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.976476,33.40906,-79.976476,33.40906],
-  "geometry": {"coordinates":[-79.976476,33.40906],"type":"Point"}
+  "bbox": [
+    -79.976476,
+    33.40906,
+    -79.976476,
+    33.40906
+],
+  "geometry": {"coordinates":[-79.97647600000001,33.40906],"type":"Point"}
 }

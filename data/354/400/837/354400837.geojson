@@ -2,13 +2,14 @@
   "id": 354400837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.604265,34.816679,-82.604265,34.816679",
     "geom:latitude":34.816679,
     "geom:longitude":-82.604265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 S 5th St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354400837,
-    "wof:lastmodified":1449066095,
+    "wof:lastmodified":1467082418,
     "wof:name":"Black Electrical Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apparatus"
     ]
 },
-  "bbox": [-82.604265,34.816679,-82.604265,34.816679],
+  "bbox": [
+    -82.604265,
+    34.816679,
+    -82.604265,
+    34.816679
+],
   "geometry": {"coordinates":[-82.604265,34.816679],"type":"Point"}
 }

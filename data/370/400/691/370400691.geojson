@@ -2,13 +2,14 @@
   "id": 370400691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.655214,34.0289,-79.655214,34.0289",
     "geom:latitude":34.0289,
     "geom:longitude":-79.655214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1575 Cox Rd",
     "sg:city":"Pamplico",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370400691,
-    "wof:lastmodified":1449029415,
+    "wof:lastmodified":1467082305,
     "wof:name":"J W Auto Sales Incorporated",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-79.655214,34.0289,-79.655214,34.0289],
+  "bbox": [
+    -79.655214,
+    34.0289,
+    -79.655214,
+    34.0289
+],
   "geometry": {"coordinates":[-79.655214,34.0289],"type":"Point"}
 }

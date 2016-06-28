@@ -2,13 +2,14 @@
   "id": 354158495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.854723,34.97599,-81.854723,34.97599",
     "geom:latitude":34.97599,
     "geom:longitude":-81.854723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Iris Ct",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354158495,
-    "wof:lastmodified":1449067108,
+    "wof:lastmodified":1467082441,
     "wof:name":"Queens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "holding"
     ]
 },
-  "bbox": [-81.854723,34.97599,-81.854723,34.97599],
-  "geometry": {"coordinates":[-81.854723,34.97599],"type":"Point"}
+  "bbox": [
+    -81.854723,
+    34.97599,
+    -81.854723,
+    34.97599
+],
+  "geometry": {"coordinates":[-81.85472300000001,34.97599],"type":"Point"}
 }

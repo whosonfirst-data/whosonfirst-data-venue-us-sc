@@ -2,13 +2,14 @@
   "id": 354230771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.8591,32.265508,-80.8591,32.265508",
     "geom:latitude":32.265508,
     "geom:longitude":-80.8591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Sheridan Park Cir",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354230771,
-    "wof:lastmodified":1449067221,
+    "wof:lastmodified":1467082444,
     "wof:name":"Custom Hardwoods LTD",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-80.8591,32.265508,-80.8591,32.265508],
+  "bbox": [
+    -80.8591,
+    32.265508,
+    -80.8591,
+    32.265508
+],
   "geometry": {"coordinates":[-80.8591,32.265508],"type":"Point"}
 }

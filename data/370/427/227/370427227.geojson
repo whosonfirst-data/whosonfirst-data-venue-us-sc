@@ -2,13 +2,14 @@
   "id": 370427227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.363104,34.842506,-82.363104,34.842506",
     "geom:latitude":34.842506,
     "geom:longitude":-82.363104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 S Pleasantburg Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370427227,
-    "wof:lastmodified":1449030116,
+    "wof:lastmodified":1467082321,
     "wof:name":"Budget Inn & Suites",
     "wof:parent_id":85836955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.363104,34.842506,-82.363104,34.842506],
-  "geometry": {"coordinates":[-82.363104,34.842506],"type":"Point"}
+  "bbox": [
+    -82.363104,
+    34.842506,
+    -82.363104,
+    34.842506
+],
+  "geometry": {"coordinates":[-82.36310400000001,34.842506],"type":"Point"}
 }

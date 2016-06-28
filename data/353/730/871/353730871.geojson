@@ -2,13 +2,14 @@
   "id": 353730871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.195763,33.973062,-81.195763,33.973062",
     "geom:latitude":33.973062,
     "geom:longitude":-81.195763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Meat Plant Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353730871,
-    "wof:lastmodified":1449020415,
+    "wof:lastmodified":1467082254,
     "wof:name":"Carolina & Southern Processing",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.195763,33.973062,-81.195763,33.973062],
+  "bbox": [
+    -81.195763,
+    33.973062,
+    -81.195763,
+    33.973062
+],
   "geometry": {"coordinates":[-81.195763,33.973062],"type":"Point"}
 }

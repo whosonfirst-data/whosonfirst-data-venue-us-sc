@@ -2,13 +2,14 @@
   "id": 353718205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.835303,33.690893,-79.835303,33.690893",
     "geom:latitude":33.690893,
     "geom:longitude":-79.835303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Birchwood Dr",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353718205,
-    "wof:lastmodified":1449018817,
+    "wof:lastmodified":1467082221,
     "wof:name":"Drucker Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-79.835303,33.690893,-79.835303,33.690893],
+  "bbox": [
+    -79.835303,
+    33.690893,
+    -79.835303,
+    33.690893
+],
   "geometry": {"coordinates":[-79.835303,33.690893],"type":"Point"}
 }

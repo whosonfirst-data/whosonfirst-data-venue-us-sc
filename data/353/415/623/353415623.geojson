@@ -2,13 +2,14 @@
   "id": 353415623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.031833,34.950112,-81.031833,34.950112",
     "geom:latitude":34.950112,
     "geom:longitude":-81.031833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1144 India Hook Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353415623,
-    "wof:lastmodified":1449020083,
+    "wof:lastmodified":1467082247,
     "wof:name":"Robert H Poole Jr DDS",
     "wof:parent_id":85847885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.031833,34.950112,-81.031833,34.950112],
-  "geometry": {"coordinates":[-81.031833,34.950112],"type":"Point"}
+  "bbox": [
+    -81.031833,
+    34.950112,
+    -81.031833,
+    34.950112
+],
+  "geometry": {"coordinates":[-81.03183300000001,34.950112],"type":"Point"}
 }

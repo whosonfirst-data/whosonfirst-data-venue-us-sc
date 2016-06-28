@@ -2,13 +2,14 @@
   "id": 353790815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.339933,34.897481,-82.339933,34.897481",
     "geom:latitude":34.897481,
     "geom:longitude":-82.339933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Wade Hampton Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353790815,
-    "wof:lastmodified":1449020225,
+    "wof:lastmodified":1467082250,
     "wof:name":"Lutheran Church Of Our Saviour",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.339933,34.897481,-82.339933,34.897481],
+  "bbox": [
+    -82.339933,
+    34.897481,
+    -82.339933,
+    34.897481
+],
   "geometry": {"coordinates":[-82.339933,34.897481],"type":"Point"}
 }

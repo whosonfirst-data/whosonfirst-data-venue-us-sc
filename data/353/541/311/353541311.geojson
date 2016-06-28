@@ -2,13 +2,14 @@
   "id": 353541311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.723246,34.514949,-82.723246,34.514949",
     "geom:latitude":34.514949,
     "geom:longitude":-82.723246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Ashlawn Ct",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353541311,
-    "wof:lastmodified":1449018536,
+    "wof:lastmodified":1467082215,
     "wof:name":"Tekton Construction Co",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.723246,34.514949,-82.723246,34.514949],
+  "bbox": [
+    -82.723246,
+    34.514949,
+    -82.723246,
+    34.514949
+],
   "geometry": {"coordinates":[-82.723246,34.514949],"type":"Point"}
 }

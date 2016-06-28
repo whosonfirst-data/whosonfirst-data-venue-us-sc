@@ -2,13 +2,14 @@
   "id": 353714101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.039206,32.743114,-80.039206,32.743114",
     "geom:latitude":32.743114,
     "geom:longitude":-80.039206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2815 Maybank Hwy",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353714101,
-    "wof:lastmodified":1449019517,
+    "wof:lastmodified":1467082235,
     "wof:name":"Rock Of Adam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.039206,32.743114,-80.039206,32.743114],
-  "geometry": {"coordinates":[-80.039206,32.743114],"type":"Point"}
+  "bbox": [
+    -80.039206,
+    32.743114,
+    -80.039206,
+    32.743114
+],
+  "geometry": {"coordinates":[-80.03920599999999,32.743114],"type":"Point"}
 }

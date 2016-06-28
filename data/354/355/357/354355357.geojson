@@ -2,13 +2,14 @@
   "id": 354355357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.818059,33.756568,-78.818059,33.756568",
     "geom:latitude":33.756568,
     "geom:longitude":-78.818059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8151 Rourk St",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354355357,
-    "wof:lastmodified":1449066381,
+    "wof:lastmodified":1467082425,
     "wof:name":"Myrtle Beach Dental Assoc",
     "wof:parent_id":85838439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-78.818059,33.756568,-78.818059,33.756568],
-  "geometry": {"coordinates":[-78.818059,33.756568],"type":"Point"}
+  "bbox": [
+    -78.818059,
+    33.756568,
+    -78.818059,
+    33.756568
+],
+  "geometry": {"coordinates":[-78.81805900000001,33.756568],"type":"Point"}
 }

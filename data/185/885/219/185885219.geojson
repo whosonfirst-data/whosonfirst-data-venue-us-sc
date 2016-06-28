@@ -2,13 +2,14 @@
   "id": 185885219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.088141,34.649132,-83.088141,34.649132",
     "geom:latitude":34.649132,
     "geom:longitude":-83.088141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Foundry Rd",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185885219,
-    "wof:lastmodified":1449007481,
+    "wof:lastmodified":1467082196,
     "wof:name":"Cast Products Co",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bronze"
     ]
 },
-  "bbox": [-83.088141,34.649132,-83.088141,34.649132],
-  "geometry": {"coordinates":[-83.088141,34.649132],"type":"Point"}
+  "bbox": [
+    -83.088141,
+    34.649132,
+    -83.088141,
+    34.649132
+],
+  "geometry": {"coordinates":[-83.08814099999999,34.649132],"type":"Point"}
 }

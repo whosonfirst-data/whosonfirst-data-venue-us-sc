@@ -2,13 +2,14 @@
   "id": 354070689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.217483,34.645511,-83.217483,34.645511",
     "geom:latitude":34.645511,
     "geom:longitude":-83.217483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Berry Farm Rd",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354070689,
-    "wof:lastmodified":1449066745,
+    "wof:lastmodified":1467082433,
     "wof:name":"Preffered Plumbing",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-83.217483,34.645511,-83.217483,34.645511],
+  "bbox": [
+    -83.217483,
+    34.645511,
+    -83.217483,
+    34.645511
+],
   "geometry": {"coordinates":[-83.217483,34.645511],"type":"Point"}
 }

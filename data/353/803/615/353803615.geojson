@@ -2,13 +2,14 @@
   "id": 353803615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.677484,33.829254,-78.677484,33.829254",
     "geom:latitude":33.829254,
     "geom:longitude":-78.677484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 2nd Ave N",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353803615,
-    "wof:lastmodified":1449020827,
+    "wof:lastmodified":1467082262,
     "wof:name":"Aladdin Realty Co",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.677484,33.829254,-78.677484,33.829254],
-  "geometry": {"coordinates":[-78.677484,33.829254],"type":"Point"}
+  "bbox": [
+    -78.677484,
+    33.829254,
+    -78.677484,
+    33.829254
+],
+  "geometry": {"coordinates":[-78.67748400000001,33.829254],"type":"Point"}
 }

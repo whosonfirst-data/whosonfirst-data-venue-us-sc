@@ -2,13 +2,14 @@
   "id": 370371787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.865438,33.490666,-80.865438,33.490666",
     "geom:latitude":33.490666,
     "geom:longitude":-80.865438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1195 Amelia St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370371787,
-    "wof:lastmodified":1449031734,
+    "wof:lastmodified":1467082357,
     "wof:name":"Bythewood Funeral Home",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-80.865438,33.490666,-80.865438,33.490666],
+  "bbox": [
+    -80.865438,
+    33.490666,
+    -80.865438,
+    33.490666
+],
   "geometry": {"coordinates":[-80.865438,33.490666],"type":"Point"}
 }

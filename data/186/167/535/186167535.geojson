@@ -2,13 +2,14 @@
   "id": 186167535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.890564,34.055889,-78.890564,34.055889",
     "geom:latitude":34.055889,
     "geom:longitude":-78.890564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3710 R R Ave",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186167535,
-    "wof:lastmodified":1449051764,
+    "wof:lastmodified":1467082401,
     "wof:name":"Todd's Auto Parts",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-78.890564,34.055889,-78.890564,34.055889],
+  "bbox": [
+    -78.890564,
+    34.055889,
+    -78.890564,
+    34.055889
+],
   "geometry": {"coordinates":[-78.890564,34.055889],"type":"Point"}
 }

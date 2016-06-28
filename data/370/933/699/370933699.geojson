@@ -2,13 +2,14 @@
   "id": 370933699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.748324,32.143217,-80.748324,32.143217",
     "geom:latitude":32.143217,
     "geom:longitude":-80.748324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Bittern St",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370933699,
-    "wof:lastmodified":1449029786,
+    "wof:lastmodified":1467082313,
     "wof:name":"L Templeton",
     "wof:parent_id":85819787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-80.748324,32.143217,-80.748324,32.143217],
+  "bbox": [
+    -80.748324,
+    32.143217,
+    -80.748324,
+    32.143217
+],
   "geometry": {"coordinates":[-80.748324,32.143217],"type":"Point"}
 }

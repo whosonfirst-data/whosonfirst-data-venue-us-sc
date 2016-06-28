@@ -2,13 +2,14 @@
   "id": 353566927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.344143,34.845414,-82.344143,34.845414",
     "geom:latitude":34.845414,
     "geom:longitude":-82.344143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Airview Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353566927,
-    "wof:lastmodified":1449018305,
+    "wof:lastmodified":1467082211,
     "wof:name":"Party Machine",
     "wof:parent_id":85836955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-82.344143,34.845414,-82.344143,34.845414],
+  "bbox": [
+    -82.344143,
+    34.845414,
+    -82.344143,
+    34.845414
+],
   "geometry": {"coordinates":[-82.344143,34.845414],"type":"Point"}
 }

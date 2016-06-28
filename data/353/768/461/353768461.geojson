@@ -2,13 +2,14 @@
   "id": 353768461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.327321,33.724745,-79.327321,33.724745",
     "geom:latitude":33.724745,
     "geom:longitude":-79.327321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"780 Williams Hill Rd",
     "sg:city":"Hemingway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353768461,
-    "wof:lastmodified":1449019244,
+    "wof:lastmodified":1467082230,
     "wof:name":"John Marshall Interior Design",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "furniture"
     ]
 },
-  "bbox": [-79.327321,33.724745,-79.327321,33.724745],
+  "bbox": [
+    -79.327321,
+    33.724745,
+    -79.327321,
+    33.724745
+],
   "geometry": {"coordinates":[-79.327321,33.724745],"type":"Point"}
 }

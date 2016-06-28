@@ -2,13 +2,14 @@
   "id": 370933483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.705169,33.475523,-81.705169,33.475523",
     "geom:latitude":33.475523,
     "geom:longitude":-81.705169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3072 Oak Brook Dr",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370933483,
-    "wof:lastmodified":1449029788,
+    "wof:lastmodified":1467082313,
     "wof:name":"Harmon Contracting",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.705169,33.475523,-81.705169,33.475523],
+  "bbox": [
+    -81.705169,
+    33.475523,
+    -81.705169,
+    33.475523
+],
   "geometry": {"coordinates":[-81.705169,33.475523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370289137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.231204,34.971686,-82.231204,34.971686",
     "geom:latitude":34.971686,
     "geom:longitude":-82.231204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Tyger Dr",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370289137,
-    "wof:lastmodified":1449031905,
+    "wof:lastmodified":1467082361,
     "wof:name":"Bs Service",
     "wof:parent_id":85853715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.231204,34.971686,-82.231204,34.971686],
-  "geometry": {"coordinates":[-82.231204,34.971686],"type":"Point"}
+  "bbox": [
+    -82.231204,
+    34.971686,
+    -82.231204,
+    34.971686
+],
+  "geometry": {"coordinates":[-82.23120400000001,34.971686],"type":"Point"}
 }

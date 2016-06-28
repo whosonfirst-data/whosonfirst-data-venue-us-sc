@@ -2,13 +2,14 @@
   "id": 353947303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.082791,33.006876,-80.082791,33.006876",
     "geom:latitude":33.006876,
     "geom:longitude":-80.082791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Hamlet Cir",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353947303,
-    "wof:lastmodified":1449020086,
+    "wof:lastmodified":1467082247,
     "wof:name":"Crowfield Swimming Pool",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-80.082791,33.006876,-80.082791,33.006876],
+  "bbox": [
+    -80.082791,
+    33.006876,
+    -80.082791,
+    33.006876
+],
   "geometry": {"coordinates":[-80.082791,33.006876],"type":"Point"}
 }

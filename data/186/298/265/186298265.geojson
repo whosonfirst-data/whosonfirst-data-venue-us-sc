@@ -2,13 +2,14 @@
   "id": 186298265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.79054,32.866412,-79.79054,32.866412",
     "geom:latitude":32.866412,
     "geom:longitude":-79.79054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Gilead Rd",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186298265,
-    "wof:lastmodified":1449051110,
+    "wof:lastmodified":1467082395,
     "wof:name":"Baby's Away",
     "wof:parent_id":85842745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-79.79054,32.866412,-79.79054,32.866412],
-  "geometry": {"coordinates":[-79.79054,32.866412],"type":"Point"}
+  "bbox": [
+    -79.79054,
+    32.866412,
+    -79.79054,
+    32.866412
+],
+  "geometry": {"coordinates":[-79.79053999999999,32.866412],"type":"Point"}
 }

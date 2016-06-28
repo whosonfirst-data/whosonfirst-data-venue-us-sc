@@ -2,13 +2,14 @@
   "id": 353743205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.033415,33.714587,-79.033415,33.714587",
     "geom:latitude":33.714587,
     "geom:longitude":-79.033415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4540 Ammons Ln",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353743205,
-    "wof:lastmodified":1449020773,
+    "wof:lastmodified":1467082261,
     "wof:name":"John S Painting Wallcover",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.033415,33.714587,-79.033415,33.714587],
-  "geometry": {"coordinates":[-79.033415,33.714587],"type":"Point"}
+  "bbox": [
+    -79.033415,
+    33.714587,
+    -79.033415,
+    33.714587
+],
+  "geometry": {"coordinates":[-79.03341500000001,33.714587],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370941765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.91933,34.948668,-81.91933,34.948668",
     "geom:latitude":34.948668,
     "geom:longitude":-81.91933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 E Henry St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370941765,
-    "wof:lastmodified":1449031100,
+    "wof:lastmodified":1467082342,
     "wof:name":"Per Se",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-81.91933,34.948668,-81.91933,34.948668],
+  "bbox": [
+    -81.91933,
+    34.948668,
+    -81.91933,
+    34.948668
+],
   "geometry": {"coordinates":[-81.91933,34.948668],"type":"Point"}
 }

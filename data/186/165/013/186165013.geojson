@@ -2,13 +2,14 @@
   "id": 186165013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.650753,35.071277,-81.650753,35.071277",
     "geom:latitude":35.071277,
     "geom:longitude":-81.650753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 S Limestone St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186165013,
-    "wof:lastmodified":1449053035,
+    "wof:lastmodified":1467082413,
     "wof:name":"Communities In Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.650753,35.071277,-81.650753,35.071277],
-  "geometry": {"coordinates":[-81.650753,35.071277],"type":"Point"}
+  "bbox": [
+    -81.650753,
+    35.071277,
+    -81.650753,
+    35.071277
+],
+  "geometry": {"coordinates":[-81.65075299999999,35.071277],"type":"Point"}
 }

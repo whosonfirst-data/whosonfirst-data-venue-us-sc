@@ -2,13 +2,14 @@
   "id": 370879719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.385238,34.855266,-82.385238,34.855266",
     "geom:latitude":34.855266,
     "geom:longitude":-82.385238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Park Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370879719,
-    "wof:lastmodified":1449029092,
+    "wof:lastmodified":1467082298,
     "wof:name":"Park Avenue Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.385238,34.855266,-82.385238,34.855266],
+  "bbox": [
+    -82.385238,
+    34.855266,
+    -82.385238,
+    34.855266
+],
   "geometry": {"coordinates":[-82.385238,34.855266],"type":"Point"}
 }

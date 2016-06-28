@@ -2,13 +2,14 @@
   "id": 353792881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.993738,32.870927,-79.993738,32.870927",
     "geom:latitude":32.870927,
     "geom:longitude":-79.993738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4241 Rivers Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353792881,
-    "wof:lastmodified":1449018811,
+    "wof:lastmodified":1467082221,
     "wof:name":"Charleston Heights Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.993738,32.870927,-79.993738,32.870927],
-  "geometry": {"coordinates":[-79.993738,32.870927],"type":"Point"}
+  "bbox": [
+    -79.993738,
+    32.870927,
+    -79.993738,
+    32.870927
+],
+  "geometry": {"coordinates":[-79.99373799999999,32.870927],"type":"Point"}
 }

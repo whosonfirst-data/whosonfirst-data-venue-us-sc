@@ -2,13 +2,14 @@
   "id": 353975585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.209695,33.873789,-79.209695,33.873789",
     "geom:latitude":33.873789,
     "geom:longitude":-79.209695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6341 Kinfolk Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353975585,
-    "wof:lastmodified":1449020457,
+    "wof:lastmodified":1467082255,
     "wof:name":"Jordan's Wood Floor Svc",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-79.209695,33.873789,-79.209695,33.873789],
+  "bbox": [
+    -79.209695,
+    33.873789,
+    -79.209695,
+    33.873789
+],
   "geometry": {"coordinates":[-79.209695,33.873789],"type":"Point"}
 }

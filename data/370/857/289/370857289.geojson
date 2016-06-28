@@ -2,13 +2,14 @@
   "id": 370857289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.680178,33.925502,-79.680178,33.925502",
     "geom:latitude":33.925502,
     "geom:longitude":-79.680178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1614 Courtney Point Rd",
     "sg:city":"Coward",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370857289,
-    "wof:lastmodified":1449031273,
+    "wof:lastmodified":1467082346,
     "wof:name":"Home Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "improvement"
     ]
 },
-  "bbox": [-79.680178,33.925502,-79.680178,33.925502],
+  "bbox": [
+    -79.680178,
+    33.925502,
+    -79.680178,
+    33.925502
+],
   "geometry": {"coordinates":[-79.680178,33.925502],"type":"Point"}
 }

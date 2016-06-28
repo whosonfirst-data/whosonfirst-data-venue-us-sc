@@ -2,13 +2,14 @@
   "id": 353909445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.018571,33.8086,-79.018571,33.8086",
     "geom:latitude":33.8086,
     "geom:longitude":-79.018571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"289 Hwy 544",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353909445,
-    "wof:lastmodified":1449020172,
+    "wof:lastmodified":1467082249,
     "wof:name":"C A Timbes Inc",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.018571,33.8086,-79.018571,33.8086],
-  "geometry": {"coordinates":[-79.018571,33.8086],"type":"Point"}
+  "bbox": [
+    -79.018571,
+    33.8086,
+    -79.018571,
+    33.8086
+],
+  "geometry": {"coordinates":[-79.01857099999999,33.8086],"type":"Point"}
 }

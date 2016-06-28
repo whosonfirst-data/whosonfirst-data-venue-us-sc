@@ -2,13 +2,14 @@
   "id": 370153793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.937057,32.797874,-79.937057,32.797874",
     "geom:latitude":32.797874,
     "geom:longitude":-79.937057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Blake St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370153793,
-    "wof:lastmodified":1449031408,
+    "wof:lastmodified":1467082350,
     "wof:name":"Mom & Pop Companies Inc",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.937057,32.797874,-79.937057,32.797874],
+  "bbox": [
+    -79.937057,
+    32.797874,
+    -79.937057,
+    32.797874
+],
   "geometry": {"coordinates":[-79.937057,32.797874],"type":"Point"}
 }

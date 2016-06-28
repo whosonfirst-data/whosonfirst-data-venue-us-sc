@@ -2,13 +2,14 @@
   "id": 353569001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.292202,34.772839,-82.292202,34.772839",
     "geom:latitude":34.772839,
     "geom:longitude":-82.292202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Delrose Dr",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353569001,
-    "wof:lastmodified":1449020677,
+    "wof:lastmodified":1467082259,
     "wof:name":"Tony's Tile Inc",
     "wof:parent_id":85834923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "installation"
     ]
 },
-  "bbox": [-82.292202,34.772839,-82.292202,34.772839],
+  "bbox": [
+    -82.292202,
+    34.772839,
+    -82.292202,
+    34.772839
+],
   "geometry": {"coordinates":[-82.292202,34.772839],"type":"Point"}
 }

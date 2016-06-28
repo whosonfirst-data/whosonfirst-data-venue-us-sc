@@ -2,13 +2,14 @@
   "id": 353932423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.215084,34.071868,-81.215084,34.071868",
     "geom:latitude":34.071868,
     "geom:longitude":-81.215084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2234 Lake Murray Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":353932423,
-    "wof:lastmodified":1449019205,
+    "wof:lastmodified":1467082229,
     "wof:name":"Parrotts Auto and Upholstery",
     "wof:parent_id":85897271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-81.215084,34.071868,-81.215084,34.071868],
+  "bbox": [
+    -81.215084,
+    34.071868,
+    -81.215084,
+    34.071868
+],
   "geometry": {"coordinates":[-81.215084,34.071868],"type":"Point"}
 }

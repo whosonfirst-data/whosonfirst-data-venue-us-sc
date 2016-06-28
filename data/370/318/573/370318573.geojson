@@ -2,13 +2,14 @@
   "id": 370318573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.72122,33.56146,-81.72122,33.56146",
     "geom:latitude":33.56146,
     "geom:longitude":-81.72122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Richland Ave W",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370318573,
-    "wof:lastmodified":1449029847,
+    "wof:lastmodified":1467082315,
     "wof:name":"James P Greene Sr",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.72122,33.56146,-81.72122,33.56146],
+  "bbox": [
+    -81.72122,
+    33.56146,
+    -81.72122,
+    33.56146
+],
   "geometry": {"coordinates":[-81.72122,33.56146],"type":"Point"}
 }

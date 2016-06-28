@@ -2,13 +2,14 @@
   "id": 353990717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.180035,33.96476,-79.180035,33.96476",
     "geom:latitude":33.96476,
     "geom:longitude":-79.180035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Gold Ct",
     "sg:city":"Aynor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353990717,
-    "wof:lastmodified":1449019950,
+    "wof:lastmodified":1467082244,
     "wof:name":"CSS Fence Co",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-79.180035,33.96476,-79.180035,33.96476],
+  "bbox": [
+    -79.180035,
+    33.96476,
+    -79.180035,
+    33.96476
+],
   "geometry": {"coordinates":[-79.180035,33.96476],"type":"Point"}
 }

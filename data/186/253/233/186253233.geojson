@@ -2,13 +2,14 @@
   "id": 186253233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.649812,35.072054,-81.649812,35.072054",
     "geom:latitude":35.072054,
     "geom:longitude":-81.649812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E Buford St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186253233,
-    "wof:lastmodified":1449052686,
+    "wof:lastmodified":1467082410,
     "wof:name":"Buford Street United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.649812,35.072054,-81.649812,35.072054],
+  "bbox": [
+    -81.649812,
+    35.072054,
+    -81.649812,
+    35.072054
+],
   "geometry": {"coordinates":[-81.649812,35.072054],"type":"Point"}
 }

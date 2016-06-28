@@ -2,13 +2,14 @@
   "id": 186295801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.445023,33.75337,-79.445023,33.75337",
     "geom:latitude":33.75337,
     "geom:longitude":-79.445023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 E Broad St",
     "sg:city":"Hemingway",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186295801,
-    "wof:lastmodified":1449051460,
+    "wof:lastmodified":1467082398,
     "wof:name":"Honorable James E Doster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.445023,33.75337,-79.445023,33.75337],
-  "geometry": {"coordinates":[-79.445023,33.75337],"type":"Point"}
+  "bbox": [
+    -79.445023,
+    33.75337,
+    -79.445023,
+    33.75337
+],
+  "geometry": {"coordinates":[-79.44502300000001,33.75337],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185986523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.959583,33.978103,-80.959583,33.978103",
     "geom:latitude":33.978103,
     "geom:longitude":-80.959583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6646 Garners Ferry Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185986523,
-    "wof:lastmodified":1449007910,
+    "wof:lastmodified":1467082202,
     "wof:name":"Save-A-Lot Food Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-80.959583,33.978103,-80.959583,33.978103],
-  "geometry": {"coordinates":[-80.959583,33.978103],"type":"Point"}
+  "bbox": [
+    -80.959583,
+    33.978103,
+    -80.959583,
+    33.978103
+],
+  "geometry": {"coordinates":[-80.95958299999999,33.978103],"type":"Point"}
 }

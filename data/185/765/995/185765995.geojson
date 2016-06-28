@@ -2,13 +2,14 @@
   "id": 185765995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.291452,33.370024,-79.291452,33.370024",
     "geom:latitude":33.370024,
     "geom:longitude":-79.291452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Fraser St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185765995,
-    "wof:lastmodified":1449007536,
+    "wof:lastmodified":1467082196,
     "wof:name":"National Welders Supply Co",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "miscellaneous"
     ]
 },
-  "bbox": [-79.291452,33.370024,-79.291452,33.370024],
-  "geometry": {"coordinates":[-79.291452,33.370024],"type":"Point"}
+  "bbox": [
+    -79.291452,
+    33.370024,
+    -79.291452,
+    33.370024
+],
+  "geometry": {"coordinates":[-79.29145200000001,33.370024],"type":"Point"}
 }

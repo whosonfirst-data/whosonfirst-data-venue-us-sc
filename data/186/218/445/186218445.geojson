@@ -2,13 +2,14 @@
   "id": 186218445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.877407,33.722216,-78.877407,33.722216",
     "geom:latitude":33.722216,
     "geom:longitude":-78.877407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1290 Paradise Cir",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186218445,
-    "wof:lastmodified":1449052072,
+    "wof:lastmodified":1467082404,
     "wof:name":"Holiday Inn Express",
     "wof:parent_id":85816109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.877407,33.722216,-78.877407,33.722216],
-  "geometry": {"coordinates":[-78.877407,33.722216],"type":"Point"}
+  "bbox": [
+    -78.877407,
+    33.722216,
+    -78.877407,
+    33.722216
+],
+  "geometry": {"coordinates":[-78.87740700000001,33.722216],"type":"Point"}
 }

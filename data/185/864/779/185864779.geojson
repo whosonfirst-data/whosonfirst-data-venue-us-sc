@@ -2,13 +2,14 @@
   "id": 185864779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.844191,33.725736,-78.844191,33.725736",
     "geom:latitude":33.725736,
     "geom:longitude":-78.844191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 N Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185864779,
-    "wof:lastmodified":1449008230,
+    "wof:lastmodified":1467082207,
     "wof:name":"First Choice Mortgage-Equity",
     "wof:parent_id":85839155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-78.844191,33.725736,-78.844191,33.725736],
+  "bbox": [
+    -78.844191,
+    33.725736,
+    -78.844191,
+    33.725736
+],
   "geometry": {"coordinates":[-78.844191,33.725736],"type":"Point"}
 }

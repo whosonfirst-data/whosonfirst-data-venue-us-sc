@@ -2,13 +2,14 @@
   "id": 370301693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.393565,34.774236,-80.393565,34.774236",
     "geom:latitude":34.774236,
     "geom:longitude":-80.393565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 N Maple St",
     "sg:city":"Pageland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370301693,
-    "wof:lastmodified":1449029959,
+    "wof:lastmodified":1467082317,
     "wof:name":"Shree Hari Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.393565,34.774236,-80.393565,34.774236],
+  "bbox": [
+    -80.393565,
+    34.774236,
+    -80.393565,
+    34.774236
+],
   "geometry": {"coordinates":[-80.393565,34.774236],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370706983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.06376,33.539611,-79.06376,33.539611",
     "geom:latitude":33.539611,
     "geom:longitude":-79.06376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5083 Wesley Rd",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370706983,
-    "wof:lastmodified":1449029326,
+    "wof:lastmodified":1467082303,
     "wof:name":"Dwain Patrick Photography",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-79.06376,33.539611,-79.06376,33.539611],
+  "bbox": [
+    -79.06376,
+    33.539611,
+    -79.06376,
+    33.539611
+],
   "geometry": {"coordinates":[-79.06376,33.539611],"type":"Point"}
 }

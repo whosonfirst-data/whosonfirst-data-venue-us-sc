@@ -2,13 +2,14 @@
   "id": 370588547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.225155,34.913203,-82.225155,34.913203",
     "geom:latitude":34.913203,
     "geom:longitude":-82.225155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Pinecrest Dr",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370588547,
-    "wof:lastmodified":1449031809,
+    "wof:lastmodified":1467082359,
     "wof:name":"World Wide Power",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "generator"
     ]
 },
-  "bbox": [-82.225155,34.913203,-82.225155,34.913203],
+  "bbox": [
+    -82.225155,
+    34.913203,
+    -82.225155,
+    34.913203
+],
   "geometry": {"coordinates":[-82.225155,34.913203],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370825619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.381326,34.176311,-82.381326,34.176311",
     "geom:latitude":34.176311,
     "geom:longitude":-82.381326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Trinity St",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370825619,
-    "wof:lastmodified":1449029197,
+    "wof:lastmodified":1467082301,
     "wof:name":"Ice Cream Parlor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cream"
     ]
 },
-  "bbox": [-82.381326,34.176311,-82.381326,34.176311],
+  "bbox": [
+    -82.381326,
+    34.176311,
+    -82.381326,
+    34.176311
+],
   "geometry": {"coordinates":[-82.381326,34.176311],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354045775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.12407,35.080553,-81.12407,35.080553",
     "geom:latitude":35.080553,
     "geom:longitude":-81.12407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3219 Baird Rd",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354045775,
-    "wof:lastmodified":1449067474,
+    "wof:lastmodified":1467082450,
     "wof:name":"Baird Engineering",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-81.12407,35.080553,-81.12407,35.080553],
+  "bbox": [
+    -81.12407,
+    35.080553,
+    -81.12407,
+    35.080553
+],
   "geometry": {"coordinates":[-81.12407,35.080553],"type":"Point"}
 }

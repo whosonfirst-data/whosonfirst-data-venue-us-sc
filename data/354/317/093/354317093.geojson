@@ -2,13 +2,14 @@
   "id": 354317093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.525523,34.637089,-82.525523,34.637089",
     "geom:latitude":34.637089,
     "geom:longitude":-82.525523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Chippewa Ln",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354317093,
-    "wof:lastmodified":1449066687,
+    "wof:lastmodified":1467082432,
     "wof:name":"Brcs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "value"
     ]
 },
-  "bbox": [-82.525523,34.637089,-82.525523,34.637089],
-  "geometry": {"coordinates":[-82.525523,34.637089],"type":"Point"}
+  "bbox": [
+    -82.525523,
+    34.637089,
+    -82.525523,
+    34.637089
+],
+  "geometry": {"coordinates":[-82.52552300000001,34.637089],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370794199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.024234,34.599511,-83.024234,34.599511",
     "geom:latitude":34.599511,
     "geom:longitude":-83.024234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2277 Oakway Rd",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370794199,
-    "wof:lastmodified":1449030714,
+    "wof:lastmodified":1467082334,
     "wof:name":"Frank Myers Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-83.024234,34.599511,-83.024234,34.599511],
-  "geometry": {"coordinates":[-83.024234,34.599511],"type":"Point"}
+  "bbox": [
+    -83.024234,
+    34.599511,
+    -83.024234,
+    34.599511
+],
+  "geometry": {"coordinates":[-83.02423400000001,34.599511],"type":"Point"}
 }

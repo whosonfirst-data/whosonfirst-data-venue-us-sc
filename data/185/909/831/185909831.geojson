@@ -2,13 +2,14 @@
   "id": 185909831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.395562,34.849795,-82.395562,34.849795",
     "geom:latitude":34.849795,
     "geom:longitude":-82.395562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 E Washington St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185909831,
-    "wof:lastmodified":1449007819,
+    "wof:lastmodified":1467082201,
     "wof:name":"Wn Watson Tire & Auto LLC",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-82.395562,34.849795,-82.395562,34.849795],
+  "bbox": [
+    -82.395562,
+    34.849795,
+    -82.395562,
+    34.849795
+],
   "geometry": {"coordinates":[-82.395562,34.849795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370552507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.979824,32.881486,-79.979824,32.881486",
     "geom:latitude":32.881486,
     "geom:longitude":-79.979824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1092 E Montague Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370552507,
-    "wof:lastmodified":1449030497,
+    "wof:lastmodified":1467082329,
     "wof:name":"Exchange Club Ctr-Prevention",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "welfare"
     ]
 },
-  "bbox": [-79.979824,32.881486,-79.979824,32.881486],
-  "geometry": {"coordinates":[-79.979824,32.881486],"type":"Point"}
+  "bbox": [
+    -79.979824,
+    32.881486,
+    -79.979824,
+    32.881486
+],
+  "geometry": {"coordinates":[-79.97982399999999,32.881486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353708275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.702585,32.208983,-80.702585,32.208983",
     "geom:latitude":32.208983,
     "geom:longitude":-80.702585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Mathews Dr",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353708275,
-    "wof:lastmodified":1449018658,
+    "wof:lastmodified":1467082218,
     "wof:name":"Artisan Tile Inc",
     "wof:parent_id":85819729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "clay"
     ]
 },
-  "bbox": [-80.702585,32.208983,-80.702585,32.208983],
+  "bbox": [
+    -80.702585,
+    32.208983,
+    -80.702585,
+    32.208983
+],
   "geometry": {"coordinates":[-80.702585,32.208983],"type":"Point"}
 }

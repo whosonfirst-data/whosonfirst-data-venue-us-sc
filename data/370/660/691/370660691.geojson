@@ -2,13 +2,14 @@
   "id": 370660691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.227984,33.977197,-81.227984,33.977197",
     "geom:latitude":33.977197,
     "geom:longitude":-81.227984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 E Main St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370660691,
-    "wof:lastmodified":1449032122,
+    "wof:lastmodified":1467082366,
     "wof:name":"Southern Sports",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-81.227984,33.977197,-81.227984,33.977197],
-  "geometry": {"coordinates":[-81.227984,33.977197],"type":"Point"}
+  "bbox": [
+    -81.227984,
+    33.977197,
+    -81.227984,
+    33.977197
+],
+  "geometry": {"coordinates":[-81.22798400000001,33.977197],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370213289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.724014,34.319126,-80.724014,34.319126",
     "geom:latitude":34.319126,
     "geom:longitude":-80.724014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1279 Wateree Dam Rd",
     "sg:city":"Ridgeway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370213289,
-    "wof:lastmodified":1449029106,
+    "wof:lastmodified":1467082299,
     "wof:name":"Cendant Mortgage Corporation",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-80.724014,34.319126,-80.724014,34.319126],
+  "bbox": [
+    -80.724014,
+    34.319126,
+    -80.724014,
+    34.319126
+],
   "geometry": {"coordinates":[-80.724014,34.319126],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354105745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.502116,34.136781,-82.502116,34.136781",
     "geom:latitude":34.136781,
     "geom:longitude":-82.502116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Elm Dr",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354105745,
-    "wof:lastmodified":1449066566,
+    "wof:lastmodified":1467082429,
     "wof:name":"Bosler Backhoe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.502116,34.136781,-82.502116,34.136781],
+  "bbox": [
+    -82.502116,
+    34.136781,
+    -82.502116,
+    34.136781
+],
   "geometry": {"coordinates":[-82.502116,34.136781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185821889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.773441,33.485822,-81.773441,33.485822",
     "geom:latitude":33.485822,
     "geom:longitude":-81.773441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Grantto Ln",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185821889,
-    "wof:lastmodified":1449007487,
+    "wof:lastmodified":1467082196,
     "wof:name":"Edward Jones 07345",
     "wof:parent_id":85812071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-81.773441,33.485822,-81.773441,33.485822],
-  "geometry": {"coordinates":[-81.773441,33.485822],"type":"Point"}
+  "bbox": [
+    -81.773441,
+    33.485822,
+    -81.773441,
+    33.485822
+],
+  "geometry": {"coordinates":[-81.77344100000001,33.485822],"type":"Point"}
 }

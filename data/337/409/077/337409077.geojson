@@ -2,13 +2,14 @@
   "id": 337409077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.20319,34.071633,-81.20319,34.071633",
     "geom:latitude":34.071633,
     "geom:longitude":-81.20319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Ripley Station Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337409077,
-    "wof:lastmodified":1449027272,
+    "wof:lastmodified":1467082278,
     "wof:name":"Taylor Business Forms",
     "wof:parent_id":85897271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [-81.20319,34.071633,-81.20319,34.071633],
-  "geometry": {"coordinates":[-81.20319,34.071633],"type":"Point"}
+  "bbox": [
+    -81.20319,
+    34.071633,
+    -81.20319,
+    34.071633
+],
+  "geometry": {"coordinates":[-81.20319000000001,34.071633],"type":"Point"}
 }

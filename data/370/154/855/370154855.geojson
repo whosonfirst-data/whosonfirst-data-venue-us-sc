@@ -2,13 +2,14 @@
   "id": 370154855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.909825,34.936263,-81.909825,34.936263",
     "geom:latitude":34.936263,
     "geom:longitude":-81.909825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Park Dr",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370154855,
-    "wof:lastmodified":1449032523,
+    "wof:lastmodified":1467082375,
     "wof:name":"Physicians Health & Rehab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-81.909825,34.936263,-81.909825,34.936263],
+  "bbox": [
+    -81.909825,
+    34.936263,
+    -81.909825,
+    34.936263
+],
   "geometry": {"coordinates":[-81.909825,34.936263],"type":"Point"}
 }

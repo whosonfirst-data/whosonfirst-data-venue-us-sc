@@ -2,13 +2,14 @@
   "id": 337454373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.758654,33.874453,-79.758654,33.874453",
     "geom:latitude":33.874453,
     "geom:longitude":-79.758654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 John St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337454373,
-    "wof:lastmodified":1449027660,
+    "wof:lastmodified":1467082292,
     "wof:name":"Floyd Law Firm PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.758654,33.874453,-79.758654,33.874453],
-  "geometry": {"coordinates":[-79.758654,33.874453],"type":"Point"}
+  "bbox": [
+    -79.758654,
+    33.874453,
+    -79.758654,
+    33.874453
+],
+  "geometry": {"coordinates":[-79.75865400000001,33.874453],"type":"Point"}
 }

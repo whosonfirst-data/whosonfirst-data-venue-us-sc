@@ -2,13 +2,14 @@
   "id": 354184053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.443137,34.839873,-82.443137,34.839873",
     "geom:latitude":34.839873,
     "geom:longitude":-82.443137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 N Washington Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354184053,
-    "wof:lastmodified":1449066223,
+    "wof:lastmodified":1467082421,
     "wof:name":"Greenville Cnstr Rentl Co",
     "wof:parent_id":85838763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.443137,34.839873,-82.443137,34.839873],
-  "geometry": {"coordinates":[-82.443137,34.839873],"type":"Point"}
+  "bbox": [
+    -82.443137,
+    34.839873,
+    -82.443137,
+    34.839873
+],
+  "geometry": {"coordinates":[-82.44313699999999,34.839873],"type":"Point"}
 }

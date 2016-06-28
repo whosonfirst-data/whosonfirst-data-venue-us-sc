@@ -2,13 +2,14 @@
   "id": 354327991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.845286,34.712552,-80.845286,34.712552",
     "geom:latitude":34.712552,
     "geom:longitude":-80.845286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2450 Stribling Cir",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354327991,
-    "wof:lastmodified":1449066055,
+    "wof:lastmodified":1467082417,
     "wof:name":"Tile Techniques LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.845286,34.712552,-80.845286,34.712552],
+  "bbox": [
+    -80.845286,
+    34.712552,
+    -80.845286,
+    34.712552
+],
   "geometry": {"coordinates":[-80.845286,34.712552],"type":"Point"}
 }

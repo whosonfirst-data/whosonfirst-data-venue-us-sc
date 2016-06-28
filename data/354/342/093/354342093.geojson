@@ -2,13 +2,14 @@
   "id": 354342093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.99668,32.79902,-79.99668,32.79902",
     "geom:latitude":32.79902,
     "geom:longitude":-79.99668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Carriage Ln",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354342093,
-    "wof:lastmodified":1449067557,
+    "wof:lastmodified":1467082451,
     "wof:name":"Abbott & Hill Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-79.99668,32.79902,-79.99668,32.79902],
+  "bbox": [
+    -79.99668,
+    32.79902,
+    -79.99668,
+    32.79902
+],
   "geometry": {"coordinates":[-79.99668,32.79902],"type":"Point"}
 }

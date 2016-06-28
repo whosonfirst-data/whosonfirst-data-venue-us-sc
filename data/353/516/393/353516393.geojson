@@ -2,13 +2,14 @@
   "id": 353516393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.352753,33.92851,-80.352753,33.92851",
     "geom:latitude":33.92851,
     "geom:longitude":-80.352753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Mood Ave",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353516393,
-    "wof:lastmodified":1449018746,
+    "wof:lastmodified":1467082220,
     "wof:name":"Fine Arts Council Of Sumter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "artist"
     ]
 },
-  "bbox": [-80.352753,33.92851,-80.352753,33.92851],
-  "geometry": {"coordinates":[-80.352753,33.92851],"type":"Point"}
+  "bbox": [
+    -80.352753,
+    33.92851,
+    -80.352753,
+    33.92851
+],
+  "geometry": {"coordinates":[-80.35275300000001,33.92851],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370285325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.97935,32.872853,-79.97935,32.872853",
     "geom:latitude":32.872853,
     "geom:longitude":-79.97935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Aragon Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370285325,
-    "wof:lastmodified":1449029161,
+    "wof:lastmodified":1467082300,
     "wof:name":"No Limit",
     "wof:parent_id":85857379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.97935,32.872853,-79.97935,32.872853],
+  "bbox": [
+    -79.97935,
+    32.872853,
+    -79.97935,
+    32.872853
+],
   "geometry": {"coordinates":[-79.97935,32.872853],"type":"Point"}
 }

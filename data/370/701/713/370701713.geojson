@@ -2,13 +2,14 @@
   "id": 370701713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.079282,33.84077,-79.079282,33.84077",
     "geom:latitude":33.84077,
     "geom:longitude":-79.079282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 US Hwy 378",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370701713,
-    "wof:lastmodified":1449031773,
+    "wof:lastmodified":1467082358,
     "wof:name":"Coburg Dairy LLC",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-79.079282,33.84077,-79.079282,33.84077],
-  "geometry": {"coordinates":[-79.079282,33.84077],"type":"Point"}
+  "bbox": [
+    -79.079282,
+    33.84077,
+    -79.079282,
+    33.84077
+],
+  "geometry": {"coordinates":[-79.07928200000001,33.84077],"type":"Point"}
 }

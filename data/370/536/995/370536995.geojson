@@ -2,13 +2,14 @@
   "id": 370536995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.926606,34.954764,-81.926606,34.954764",
     "geom:latitude":34.954764,
     "geom:longitude":-81.926606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 N Dean St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370536995,
-    "wof:lastmodified":1449031097,
+    "wof:lastmodified":1467082342,
     "wof:name":"Callaham-Hicks Funeral Home",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-81.926606,34.954764,-81.926606,34.954764],
-  "geometry": {"coordinates":[-81.926606,34.954764],"type":"Point"}
+  "bbox": [
+    -81.926606,
+    34.954764,
+    -81.926606,
+    34.954764
+],
+  "geometry": {"coordinates":[-81.92660600000001,34.954764],"type":"Point"}
 }

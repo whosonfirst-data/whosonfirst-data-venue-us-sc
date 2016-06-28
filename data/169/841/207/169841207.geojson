@@ -2,13 +2,14 @@
   "id": 169841207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.961124,32.777381,-79.961124,32.777381",
     "geom:latitude":32.777381,
     "geom:longitude":-79.961124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Ashley Point Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169841207,
-    "wof:lastmodified":1449033377,
+    "wof:lastmodified":1467082379,
     "wof:name":"California Dreaming Restaurant",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.961124,32.777381,-79.961124,32.777381],
+  "bbox": [
+    -79.961124,
+    32.777381,
+    -79.961124,
+    32.777381
+],
   "geometry": {"coordinates":[-79.961124,32.777381],"type":"Point"}
 }

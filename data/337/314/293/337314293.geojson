@@ -2,13 +2,14 @@
   "id": 337314293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.781348,34.661285,-81.781348,34.661285",
     "geom:latitude":34.661285,
     "geom:longitude":-81.781348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Terrapin Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":337314293,
-    "wof:lastmodified":1449027716,
+    "wof:lastmodified":1467082294,
     "wof:name":"Ww Wilburn Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-81.781348,34.661285,-81.781348,34.661285],
-  "geometry": {"coordinates":[-81.781348,34.661285],"type":"Point"}
+  "bbox": [
+    -81.781348,
+    34.661285,
+    -81.781348,
+    34.661285
+],
+  "geometry": {"coordinates":[-81.78134799999999,34.661285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186286803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.342925,33.950382,-80.342925,33.950382",
     "geom:latitude":33.950382,
     "geom:longitude":-80.342925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Byrd St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186286803,
-    "wof:lastmodified":1449051095,
+    "wof:lastmodified":1467082395,
     "wof:name":"Youth Opportunities Unlimited",
     "wof:parent_id":85855087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-80.342925,33.950382,-80.342925,33.950382],
-  "geometry": {"coordinates":[-80.342925,33.950382],"type":"Point"}
+  "bbox": [
+    -80.342925,
+    33.950382,
+    -80.342925,
+    33.950382
+],
+  "geometry": {"coordinates":[-80.34292499999999,33.950382],"type":"Point"}
 }

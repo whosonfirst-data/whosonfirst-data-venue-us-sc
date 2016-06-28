@@ -2,13 +2,14 @@
   "id": 370949551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.564098,33.986872,-79.564098,33.986872",
     "geom:latitude":33.986872,
     "geom:longitude":-79.564098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Farmers Rd",
     "sg:city":"Pamplico",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370949551,
-    "wof:lastmodified":1449031186,
+    "wof:lastmodified":1467082344,
     "wof:name":"C & S Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.564098,33.986872,-79.564098,33.986872],
+  "bbox": [
+    -79.564098,
+    33.986872,
+    -79.564098,
+    33.986872
+],
   "geometry": {"coordinates":[-79.564098,33.986872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186282245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.994331,33.434627,-79.994331,33.434627",
     "geom:latitude":33.434627,
     "geom:longitude":-79.994331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Papoose Ct",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186282245,
-    "wof:lastmodified":1449052048,
+    "wof:lastmodified":1467082403,
     "wof:name":"JP Trucking",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.994331,33.434627,-79.994331,33.434627],
+  "bbox": [
+    -79.994331,
+    33.434627,
+    -79.994331,
+    33.434627
+],
   "geometry": {"coordinates":[-79.994331,33.434627],"type":"Point"}
 }

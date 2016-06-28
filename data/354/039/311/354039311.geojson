@@ -2,13 +2,14 @@
   "id": 354039311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.895324,34.966308,-81.895324,34.966308",
     "geom:latitude":34.966308,
     "geom:longitude":-81.895324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 E Main St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354039311,
-    "wof:lastmodified":1449067452,
+    "wof:lastmodified":1467082449,
     "wof:name":"Davis Associates",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "insurance"
     ]
 },
-  "bbox": [-81.895324,34.966308,-81.895324,34.966308],
+  "bbox": [
+    -81.895324,
+    34.966308,
+    -81.895324,
+    34.966308
+],
   "geometry": {"coordinates":[-81.895324,34.966308],"type":"Point"}
 }

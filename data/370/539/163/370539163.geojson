@@ -2,13 +2,14 @@
   "id": 370539163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.892102,33.496852,-81.892102,33.496852",
     "geom:latitude":33.496852,
     "geom:longitude":-81.892102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"648 Augusta Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370539163,
-    "wof:lastmodified":1449032547,
+    "wof:lastmodified":1467082375,
     "wof:name":"Total Concept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.892102,33.496852,-81.892102,33.496852],
-  "geometry": {"coordinates":[-81.892102,33.496852],"type":"Point"}
+  "bbox": [
+    -81.892102,
+    33.496852,
+    -81.892102,
+    33.496852
+],
+  "geometry": {"coordinates":[-81.89210199999999,33.496852],"type":"Point"}
 }

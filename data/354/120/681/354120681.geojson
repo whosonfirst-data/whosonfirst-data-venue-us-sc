@@ -2,13 +2,14 @@
   "id": 354120681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.791739,34.153619,-79.791739,34.153619",
     "geom:latitude":34.153619,
     "geom:longitude":-79.791739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 Third Loop Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354120681,
-    "wof:lastmodified":1449067416,
+    "wof:lastmodified":1467082448,
     "wof:name":"Clark's Auction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-79.791739,34.153619,-79.791739,34.153619],
-  "geometry": {"coordinates":[-79.791739,34.153619],"type":"Point"}
+  "bbox": [
+    -79.791739,
+    34.153619,
+    -79.791739,
+    34.153619
+],
+  "geometry": {"coordinates":[-79.79173900000001,34.153619],"type":"Point"}
 }

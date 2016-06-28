@@ -2,13 +2,14 @@
   "id": 353802803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.225831,34.933719,-82.225831,34.933719",
     "geom:latitude":34.933719,
     "geom:longitude":-82.225831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Trade St",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353802803,
-    "wof:lastmodified":1449020352,
+    "wof:lastmodified":1467082252,
     "wof:name":"In Cannons Drive",
     "wof:parent_id":85853715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.225831,34.933719,-82.225831,34.933719],
+  "bbox": [
+    -82.225831,
+    34.933719,
+    -82.225831,
+    34.933719
+],
   "geometry": {"coordinates":[-82.225831,34.933719],"type":"Point"}
 }

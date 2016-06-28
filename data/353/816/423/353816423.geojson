@@ -2,13 +2,14 @@
   "id": 353816423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.030656,34.029709,-81.030656,34.029709",
     "geom:latitude":34.029709,
     "geom:longitude":-81.030656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Sunset Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353816423,
-    "wof:lastmodified":1449019755,
+    "wof:lastmodified":1467082240,
     "wof:name":"Ambulatory Care Ctr-Palmetto",
     "wof:parent_id":85811921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.030656,34.029709,-81.030656,34.029709],
-  "geometry": {"coordinates":[-81.030656,34.029709],"type":"Point"}
+  "bbox": [
+    -81.030656,
+    34.029709,
+    -81.030656,
+    34.029709
+],
+  "geometry": {"coordinates":[-81.03065599999999,34.029709],"type":"Point"}
 }

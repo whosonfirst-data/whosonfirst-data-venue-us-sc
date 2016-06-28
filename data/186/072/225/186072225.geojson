@@ -2,13 +2,14 @@
   "id": 186072225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.095832,32.993556,-80.095832,32.993556",
     "geom:latitude":32.993556,
     "geom:longitude":-80.095832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Wimberly Dr",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186072225,
-    "wof:lastmodified":1449051791,
+    "wof:lastmodified":1467082401,
     "wof:name":"Diplomat of Ladson",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-80.095832,32.993556,-80.095832,32.993556],
+  "bbox": [
+    -80.095832,
+    32.993556,
+    -80.095832,
+    32.993556
+],
   "geometry": {"coordinates":[-80.095832,32.993556],"type":"Point"}
 }

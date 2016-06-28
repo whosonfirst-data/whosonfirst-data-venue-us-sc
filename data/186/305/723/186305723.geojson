@@ -2,13 +2,14 @@
   "id": 186305723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.895789,34.892317,-81.895789,34.892317",
     "geom:latitude":34.892317,
     "geom:longitude":-81.895789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1887 Carolina Country Club Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186305723,
-    "wof:lastmodified":1449050804,
+    "wof:lastmodified":1467082392,
     "wof:name":"C G's Precision Machine & Weld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "shop"
     ]
 },
-  "bbox": [-81.895789,34.892317,-81.895789,34.892317],
-  "geometry": {"coordinates":[-81.895789,34.892317],"type":"Point"}
+  "bbox": [
+    -81.895789,
+    34.892317,
+    -81.895789,
+    34.892317
+],
+  "geometry": {"coordinates":[-81.89578899999999,34.892317],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353856597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.313464,34.896981,-82.313464,34.896981",
     "geom:latitude":34.896981,
     "geom:longitude":-82.313464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Brushy Creek Rd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353856597,
-    "wof:lastmodified":1449018997,
+    "wof:lastmodified":1467082225,
     "wof:name":"Norm's Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-82.313464,34.896981,-82.313464,34.896981],
+  "bbox": [
+    -82.313464,
+    34.896981,
+    -82.313464,
+    34.896981
+],
   "geometry": {"coordinates":[-82.313464,34.896981],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337522463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.371295,34.741396,-82.371295,34.741396",
     "geom:latitude":34.741396,
     "geom:longitude":-82.371295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Kitty Hawk Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337522463,
-    "wof:lastmodified":1449027337,
+    "wof:lastmodified":1467082280,
     "wof:name":"Afco Cleaners Sanitizers Water",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical"
     ]
 },
-  "bbox": [-82.371295,34.741396,-82.371295,34.741396],
+  "bbox": [
+    -82.371295,
+    34.741396,
+    -82.371295,
+    34.741396
+],
   "geometry": {"coordinates":[-82.371295,34.741396],"type":"Point"}
 }

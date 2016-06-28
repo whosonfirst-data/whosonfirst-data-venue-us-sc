@@ -2,13 +2,14 @@
   "id": 185768525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.763934,33.848605,-79.763934,33.848605",
     "geom:latitude":33.848605,
     "geom:longitude":-79.763934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"791 S Ron McNair Blvd",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185768525,
-    "wof:lastmodified":1449007231,
+    "wof:lastmodified":1467082192,
     "wof:name":"Royster-Clark Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "only"
     ]
 },
-  "bbox": [-79.763934,33.848605,-79.763934,33.848605],
-  "geometry": {"coordinates":[-79.763934,33.848605],"type":"Point"}
+  "bbox": [
+    -79.763934,
+    33.848605,
+    -79.763934,
+    33.848605
+],
+  "geometry": {"coordinates":[-79.76393400000001,33.848605],"type":"Point"}
 }

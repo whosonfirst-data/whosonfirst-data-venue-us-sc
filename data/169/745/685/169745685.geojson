@@ -2,13 +2,14 @@
   "id": 169745685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.99236,33.993245,-80.99236,33.993245",
     "geom:latitude":33.993245,
     "geom:longitude":-80.99236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3409 Wilmot Ave",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169745685,
-    "wof:lastmodified":1449035817,
+    "wof:lastmodified":1467082387,
     "wof:name":"Classic Aircraft Appraisals",
     "wof:parent_id":85876829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-80.99236,33.993245,-80.99236,33.993245],
-  "geometry": {"coordinates":[-80.99236,33.993245],"type":"Point"}
+  "bbox": [
+    -80.99236,
+    33.993245,
+    -80.99236,
+    33.993245
+],
+  "geometry": {"coordinates":[-80.99236000000001,33.993245],"type":"Point"}
 }

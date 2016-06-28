@@ -2,13 +2,14 @@
   "id": 353641289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.280354,33.824692,-81.280354,33.824692",
     "geom:latitude":33.824692,
     "geom:longitude":-81.280354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"426 Jerold Rd",
     "sg:city":"Pelion",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353641289,
-    "wof:lastmodified":1449020204,
+    "wof:lastmodified":1467082249,
     "wof:name":"Hayne's Lock & Key",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-81.280354,33.824692,-81.280354,33.824692],
+  "bbox": [
+    -81.280354,
+    33.824692,
+    -81.280354,
+    33.824692
+],
   "geometry": {"coordinates":[-81.280354,33.824692],"type":"Point"}
 }

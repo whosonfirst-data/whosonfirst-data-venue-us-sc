@@ -2,13 +2,14 @@
   "id": 370742003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.798368,33.823664,-81.798368,33.823664",
     "geom:latitude":33.823664,
     "geom:longitude":-81.798368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"259 Lee St",
     "sg:city":"Johnston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370742003,
-    "wof:lastmodified":1449029307,
+    "wof:lastmodified":1467082303,
     "wof:name":"P K Drive In & Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.798368,33.823664,-81.798368,33.823664],
+  "bbox": [
+    -81.798368,
+    33.823664,
+    -81.798368,
+    33.823664
+],
   "geometry": {"coordinates":[-81.798368,33.823664],"type":"Point"}
 }

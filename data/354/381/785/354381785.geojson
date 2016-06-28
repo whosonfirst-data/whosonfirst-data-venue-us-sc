@@ -2,13 +2,14 @@
   "id": 354381785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.020485,32.844529,-80.020485,32.844529",
     "geom:latitude":32.844529,
     "geom:longitude":-80.020485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3875 Faber Place Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354381785,
-    "wof:lastmodified":1449066068,
+    "wof:lastmodified":1467082417,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85818395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.020485,32.844529,-80.020485,32.844529],
-  "geometry": {"coordinates":[-80.020485,32.844529],"type":"Point"}
+  "bbox": [
+    -80.020485,
+    32.844529,
+    -80.020485,
+    32.844529
+],
+  "geometry": {"coordinates":[-80.02048499999999,32.844529],"type":"Point"}
 }

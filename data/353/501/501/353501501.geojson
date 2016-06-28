@@ -2,13 +2,14 @@
   "id": 353501501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.967976,32.74195,-79.967976,32.74195",
     "geom:latitude":32.74195,
     "geom:longitude":-79.967976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"756 Folly Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353501501,
-    "wof:lastmodified":1449020819,
+    "wof:lastmodified":1467082262,
     "wof:name":"James Island Veterinary Hosp",
     "wof:parent_id":85832547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-79.967976,32.74195,-79.967976,32.74195],
-  "geometry": {"coordinates":[-79.967976,32.74195],"type":"Point"}
+  "bbox": [
+    -79.967976,
+    32.74195,
+    -79.967976,
+    32.74195
+],
+  "geometry": {"coordinates":[-79.96797599999999,32.74195],"type":"Point"}
 }

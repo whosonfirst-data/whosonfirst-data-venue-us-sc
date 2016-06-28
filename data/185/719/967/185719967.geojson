@@ -2,13 +2,14 @@
   "id": 185719967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.86247,33.485884,-80.86247,33.485884",
     "geom:latitude":33.485884,
     "geom:longitude":-80.86247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Broughton St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185719967,
-    "wof:lastmodified":1449006813,
+    "wof:lastmodified":1467082185,
     "wof:name":"Carolina Stitches",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-80.86247,33.485884,-80.86247,33.485884],
+  "bbox": [
+    -80.86247,
+    33.485884,
+    -80.86247,
+    33.485884
+],
   "geometry": {"coordinates":[-80.86247,33.485884],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353569235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.813144,32.23326,-80.813144,32.23326",
     "geom:latitude":32.23326,
     "geom:longitude":-80.813144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Buckingham Plantation Dr",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353569235,
-    "wof:lastmodified":1449020675,
+    "wof:lastmodified":1467082259,
     "wof:name":"Carriage Auto Body Shop",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-80.813144,32.23326,-80.813144,32.23326],
-  "geometry": {"coordinates":[-80.813144,32.23326],"type":"Point"}
+  "bbox": [
+    -80.813144,
+    32.23326,
+    -80.813144,
+    32.23326
+],
+  "geometry": {"coordinates":[-80.81314399999999,32.23326],"type":"Point"}
 }

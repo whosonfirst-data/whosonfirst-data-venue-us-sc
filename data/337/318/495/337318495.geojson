@@ -2,13 +2,14 @@
   "id": 337318495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.405927,34.827898,-82.405927,34.827898",
     "geom:latitude":34.827898,
     "geom:longitude":-82.405927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Arthur Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337318495,
-    "wof:lastmodified":1449027101,
+    "wof:lastmodified":1467082271,
     "wof:name":"Bentley Prince Street Inc",
     "wof:parent_id":85811527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.405927,34.827898,-82.405927,34.827898],
-  "geometry": {"coordinates":[-82.405927,34.827898],"type":"Point"}
+  "bbox": [
+    -82.405927,
+    34.827898,
+    -82.405927,
+    34.827898
+],
+  "geometry": {"coordinates":[-82.40592700000001,34.827898],"type":"Point"}
 }

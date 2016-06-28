@@ -2,13 +2,14 @@
   "id": 370410443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.030158,34.014357,-81.030158,34.014357",
     "geom:latitude":34.014357,
     "geom:longitude":-81.030158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 Henderson St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370410443,
-    "wof:lastmodified":1449029116,
+    "wof:lastmodified":1467082299,
     "wof:name":"Elizabeth Marks & Assoc Inc",
     "wof:parent_id":85805491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-81.030158,34.014357,-81.030158,34.014357],
+  "bbox": [
+    -81.030158,
+    34.014357,
+    -81.030158,
+    34.014357
+],
   "geometry": {"coordinates":[-81.030158,34.014357],"type":"Point"}
 }

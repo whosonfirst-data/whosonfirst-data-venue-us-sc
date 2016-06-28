@@ -2,13 +2,14 @@
   "id": 337396279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.986309,33.59396,-79.986309,33.59396",
     "geom:latitude":33.59396,
     "geom:longitude":-79.986309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Easler Hwy",
     "sg:city":"Greeleyville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337396279,
-    "wof:lastmodified":1449027483,
+    "wof:lastmodified":1467082286,
     "wof:name":"Mt Vernon Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.986309,33.59396,-79.986309,33.59396],
-  "geometry": {"coordinates":[-79.986309,33.59396],"type":"Point"}
+  "bbox": [
+    -79.986309,
+    33.59396,
+    -79.986309,
+    33.59396
+],
+  "geometry": {"coordinates":[-79.98630900000001,33.59396],"type":"Point"}
 }

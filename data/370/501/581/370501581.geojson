@@ -2,13 +2,14 @@
   "id": 370501581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.115711,34.045094,-81.115711,34.045094",
     "geom:latitude":34.045094,
     "geom:longitude":-81.115711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1777 Burning Tree Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370501581,
-    "wof:lastmodified":1449032501,
+    "wof:lastmodified":1467082374,
     "wof:name":"Magic City Rim & Tires",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-81.115711,34.045094,-81.115711,34.045094],
+  "bbox": [
+    -81.115711,
+    34.045094,
+    -81.115711,
+    34.045094
+],
   "geometry": {"coordinates":[-81.115711,34.045094],"type":"Point"}
 }

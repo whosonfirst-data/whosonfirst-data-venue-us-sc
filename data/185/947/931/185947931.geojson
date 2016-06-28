@@ -2,13 +2,14 @@
   "id": 185947931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.672707,34.227815,-80.672707,34.227815",
     "geom:latitude":34.227815,
     "geom:longitude":-80.672707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Roseborough Rd",
     "sg:city":"Lugoff",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185947931,
-    "wof:lastmodified":1449007758,
+    "wof:lastmodified":1467082200,
     "wof:name":"St John's United Methodist",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.672707,34.227815,-80.672707,34.227815],
+  "bbox": [
+    -80.672707,
+    34.227815,
+    -80.672707,
+    34.227815
+],
   "geometry": {"coordinates":[-80.672707,34.227815],"type":"Point"}
 }

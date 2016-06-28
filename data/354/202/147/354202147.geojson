@@ -2,13 +2,14 @@
   "id": 354202147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.043864,32.706651,-80.043864,32.706651",
     "geom:latitude":32.706651,
     "geom:longitude":-80.043864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2483 Cape Rd",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354202147,
-    "wof:lastmodified":1449067444,
+    "wof:lastmodified":1467082449,
     "wof:name":"Wonders of Wallpaper",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wallpaper"
     ]
 },
-  "bbox": [-80.043864,32.706651,-80.043864,32.706651],
+  "bbox": [
+    -80.043864,
+    32.706651,
+    -80.043864,
+    32.706651
+],
   "geometry": {"coordinates":[-80.043864,32.706651],"type":"Point"}
 }

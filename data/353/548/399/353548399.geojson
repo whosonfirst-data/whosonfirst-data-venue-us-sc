@@ -2,13 +2,14 @@
   "id": 353548399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.783763,34.76531,-82.783763,34.76531",
     "geom:latitude":34.76531,
     "geom:longitude":-82.783763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Lay Bridge Rd",
     "sg:city":"Central",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353548399,
-    "wof:lastmodified":1449020007,
+    "wof:lastmodified":1467082245,
     "wof:name":"Merry Christmas Tree Farm",
     "wof:parent_id":85824489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tract"
     ]
 },
-  "bbox": [-82.783763,34.76531,-82.783763,34.76531],
-  "geometry": {"coordinates":[-82.783763,34.76531],"type":"Point"}
+  "bbox": [
+    -82.783763,
+    34.76531,
+    -82.783763,
+    34.76531
+],
+  "geometry": {"coordinates":[-82.78376299999999,34.76531],"type":"Point"}
 }

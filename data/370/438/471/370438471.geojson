@@ -2,13 +2,14 @@
   "id": 370438471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.372494,33.133918,-80.372494,33.133918",
     "geom:latitude":33.133918,
     "geom:longitude":-80.372494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Delee Cir",
     "sg:city":"Dorchester",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370438471,
-    "wof:lastmodified":1449030246,
+    "wof:lastmodified":1467082324,
     "wof:name":"Dorchester Dragway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.372494,33.133918,-80.372494,33.133918],
+  "bbox": [
+    -80.372494,
+    33.133918,
+    -80.372494,
+    33.133918
+],
   "geometry": {"coordinates":[-80.372494,33.133918],"type":"Point"}
 }

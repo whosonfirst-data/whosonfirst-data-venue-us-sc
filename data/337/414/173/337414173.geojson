@@ -2,13 +2,14 @@
   "id": 337414173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.928198,33.40799,-79.928198,33.40799",
     "geom:latitude":33.40799,
     "geom:longitude":-79.928198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3931 Byrnes Dr",
     "sg:city":"Saint Stephen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337414173,
-    "wof:lastmodified":1449027328,
+    "wof:lastmodified":1467082280,
     "wof:name":"Saint Stephen Christian Bk Str",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.928198,33.40799,-79.928198,33.40799],
-  "geometry": {"coordinates":[-79.928198,33.40799],"type":"Point"}
+  "bbox": [
+    -79.928198,
+    33.40799,
+    -79.928198,
+    33.40799
+],
+  "geometry": {"coordinates":[-79.92819799999999,33.40799],"type":"Point"}
 }

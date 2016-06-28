@@ -2,13 +2,14 @@
   "id": 370444497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.031315,34.970515,-81.031315,34.970515",
     "geom:latitude":34.970515,
     "geom:longitude":-81.031315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2067 McGee St",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370444497,
-    "wof:lastmodified":1449032007,
+    "wof:lastmodified":1467082363,
     "wof:name":"Deerfield Run Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.031315,34.970515,-81.031315,34.970515],
-  "geometry": {"coordinates":[-81.031315,34.970515],"type":"Point"}
+  "bbox": [
+    -81.031315,
+    34.970515,
+    -81.031315,
+    34.970515
+],
+  "geometry": {"coordinates":[-81.03131500000001,34.970515],"type":"Point"}
 }

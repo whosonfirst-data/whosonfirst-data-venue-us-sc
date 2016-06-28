@@ -2,13 +2,14 @@
   "id": 370771619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.311887,34.694497,-82.311887,34.694497",
     "geom:latitude":34.694497,
     "geom:longitude":-82.311887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Sullivan Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370771619,
-    "wof:lastmodified":1449030905,
+    "wof:lastmodified":1467082338,
     "wof:name":"Kings Sandblasting",
     "wof:parent_id":85857259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.311887,34.694497,-82.311887,34.694497],
+  "bbox": [
+    -82.311887,
+    34.694497,
+    -82.311887,
+    34.694497
+],
   "geometry": {"coordinates":[-82.311887,34.694497],"type":"Point"}
 }

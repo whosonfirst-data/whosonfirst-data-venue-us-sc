@@ -2,13 +2,14 @@
   "id": 354018871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.803123,33.187054,-79.803123,33.187054",
     "geom:latitude":33.187054,
     "geom:longitude":-79.803123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Sandridge Ln",
     "sg:city":"Cordesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354018871,
-    "wof:lastmodified":1449066774,
+    "wof:lastmodified":1467082434,
     "wof:name":"Agent Owned",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.803123,33.187054,-79.803123,33.187054],
+  "bbox": [
+    -79.803123,
+    33.187054,
+    -79.803123,
+    33.187054
+],
   "geometry": {"coordinates":[-79.803123,33.187054],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353381093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.560141,33.911944,-81.560141,33.911944",
     "geom:latitude":33.911944,
     "geom:longitude":-81.560141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Armstrong St",
     "sg:city":"Batesburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353381093,
-    "wof:lastmodified":1449018466,
+    "wof:lastmodified":1467082214,
     "wof:name":"Tuggy Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpentry"
     ]
 },
-  "bbox": [-81.560141,33.911944,-81.560141,33.911944],
+  "bbox": [
+    -81.560141,
+    33.911944,
+    -81.560141,
+    33.911944
+],
   "geometry": {"coordinates":[-81.560141,33.911944],"type":"Point"}
 }

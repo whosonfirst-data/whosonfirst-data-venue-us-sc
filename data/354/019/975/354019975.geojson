@@ -2,13 +2,14 @@
   "id": 354019975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.894345,35.020245,-81.894345,35.020245",
     "geom:latitude":35.020245,
     "geom:longitude":-81.894345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 Sha Ln",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354019975,
-    "wof:lastmodified":1449066929,
+    "wof:lastmodified":1467082437,
     "wof:name":"Harley Davidson-Spartanburg",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-81.894345,35.020245,-81.894345,35.020245],
+  "bbox": [
+    -81.894345,
+    35.020245,
+    -81.894345,
+    35.020245
+],
   "geometry": {"coordinates":[-81.894345,35.020245],"type":"Point"}
 }

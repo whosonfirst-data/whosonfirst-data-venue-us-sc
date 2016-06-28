@@ -2,13 +2,14 @@
   "id": 186288995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.735025,32.45263,-80.735025,32.45263",
     "geom:latitude":32.45263,
     "geom:longitude":-80.735025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Roseida Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186288995,
-    "wof:lastmodified":1449050528,
+    "wof:lastmodified":1467082391,
     "wof:name":"Beachwood Mobile Home Estates",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-80.735025,32.45263,-80.735025,32.45263],
-  "geometry": {"coordinates":[-80.735025,32.45263],"type":"Point"}
+  "bbox": [
+    -80.735025,
+    32.45263,
+    -80.735025,
+    32.45263
+],
+  "geometry": {"coordinates":[-80.73502499999999,32.45263],"type":"Point"}
 }

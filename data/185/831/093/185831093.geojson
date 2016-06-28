@@ -2,13 +2,14 @@
   "id": 185831093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.376346,34.418004,-79.376346,34.418004",
     "geom:latitude":34.418004,
     "geom:longitude":-79.376346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 W Hampton St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185831093,
-    "wof:lastmodified":1449007554,
+    "wof:lastmodified":1467082197,
     "wof:name":"Dillon County Sheriff",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-79.376346,34.418004,-79.376346,34.418004],
+  "bbox": [
+    -79.376346,
+    34.418004,
+    -79.376346,
+    34.418004
+],
   "geometry": {"coordinates":[-79.376346,34.418004],"type":"Point"}
 }

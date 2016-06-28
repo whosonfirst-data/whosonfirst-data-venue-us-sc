@@ -2,13 +2,14 @@
   "id": 169731277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.935332,32.784242,-79.935332,32.784242",
     "geom:latitude":32.784242,
     "geom:longitude":-79.935332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 King St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169731277,
-    "wof:lastmodified":1449035584,
+    "wof:lastmodified":1467082386,
     "wof:name":"Great Wall Gift Shop",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-79.935332,32.784242,-79.935332,32.784242],
+  "bbox": [
+    -79.935332,
+    32.784242,
+    -79.935332,
+    32.784242
+],
   "geometry": {"coordinates":[-79.935332,32.784242],"type":"Point"}
 }

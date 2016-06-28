@@ -2,13 +2,14 @@
   "id": 370252347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.005779,33.658998,-79.005779,33.658998",
     "geom:latitude":33.658998,
     "geom:longitude":-79.005779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2551 Big Block Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370252347,
-    "wof:lastmodified":1449029539,
+    "wof:lastmodified":1467082308,
     "wof:name":"Ready Mixed Concrete Co",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "concrete"
     ]
 },
-  "bbox": [-79.005779,33.658998,-79.005779,33.658998],
+  "bbox": [
+    -79.005779,
+    33.658998,
+    -79.005779,
+    33.658998
+],
   "geometry": {"coordinates":[-79.005779,33.658998],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354364081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.054516,34.021309,-81.054516,34.021309",
     "geom:latitude":34.021309,
     "geom:longitude":-81.054516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3109 Gadsden St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354364081,
-    "wof:lastmodified":1449066905,
+    "wof:lastmodified":1467082437,
     "wof:name":"Glass Farm Placement Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-81.054516,34.021309,-81.054516,34.021309],
-  "geometry": {"coordinates":[-81.054516,34.021309],"type":"Point"}
+  "bbox": [
+    -81.054516,
+    34.021309,
+    -81.054516,
+    34.021309
+],
+  "geometry": {"coordinates":[-81.05451600000001,34.021309],"type":"Point"}
 }

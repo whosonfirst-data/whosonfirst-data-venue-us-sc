@@ -2,13 +2,14 @@
   "id": 353377193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.309129,34.777648,-82.309129,34.777648",
     "geom:latitude":34.777648,
     "geom:longitude":-82.309129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 S Main St",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353377193,
-    "wof:lastmodified":1449019218,
+    "wof:lastmodified":1467082229,
     "wof:name":"Shealy's Texaco",
     "wof:parent_id":85806237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "oil"
     ]
 },
-  "bbox": [-82.309129,34.777648,-82.309129,34.777648],
+  "bbox": [
+    -82.309129,
+    34.777648,
+    -82.309129,
+    34.777648
+],
   "geometry": {"coordinates":[-82.309129,34.777648],"type":"Point"}
 }

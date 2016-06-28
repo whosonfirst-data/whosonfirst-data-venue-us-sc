@@ -2,13 +2,14 @@
   "id": 185900065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.68309,33.829153,-78.68309,33.829153",
     "geom:latitude":33.829153,
     "geom:longitude":-78.68309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 1st Ave S",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185900065,
-    "wof:lastmodified":1449007306,
+    "wof:lastmodified":1467082193,
     "wof:name":"Honda Used Parts",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "used"
     ]
 },
-  "bbox": [-78.68309,33.829153,-78.68309,33.829153],
-  "geometry": {"coordinates":[-78.68309,33.829153],"type":"Point"}
+  "bbox": [
+    -78.68309,
+    33.829153,
+    -78.68309,
+    33.829153
+],
+  "geometry": {"coordinates":[-78.68309000000001,33.829153],"type":"Point"}
 }

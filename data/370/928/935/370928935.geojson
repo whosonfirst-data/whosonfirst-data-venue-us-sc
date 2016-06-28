@@ -2,13 +2,14 @@
   "id": 370928935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.988003,34.99155,-81.988003,34.99155",
     "geom:latitude":34.99155,
     "geom:longitude":-81.988003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7970 Asheville Hwy",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370928935,
-    "wof:lastmodified":1449031998,
+    "wof:lastmodified":1467082363,
     "wof:name":"Morgan's Pawn Shop",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-81.988003,34.99155,-81.988003,34.99155],
-  "geometry": {"coordinates":[-81.988003,34.99155],"type":"Point"}
+  "bbox": [
+    -81.988003,
+    34.99155,
+    -81.988003,
+    34.99155
+],
+  "geometry": {"coordinates":[-81.98800300000001,34.99155],"type":"Point"}
 }

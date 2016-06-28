@@ -2,13 +2,14 @@
   "id": 169715863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.023226,32.798139,-80.023226,32.798139",
     "geom:latitude":32.798139,
     "geom:longitude":-80.023226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 Sam Rittenberg Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169715863,
-    "wof:lastmodified":1449035297,
+    "wof:lastmodified":1467082386,
     "wof:name":"Auto Supply & Equipment Co",
     "wof:parent_id":85839787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.023226,32.798139,-80.023226,32.798139],
-  "geometry": {"coordinates":[-80.023226,32.798139],"type":"Point"}
+  "bbox": [
+    -80.023226,
+    32.798139,
+    -80.023226,
+    32.798139
+],
+  "geometry": {"coordinates":[-80.02322599999999,32.798139],"type":"Point"}
 }

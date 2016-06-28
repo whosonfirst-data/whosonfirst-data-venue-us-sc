@@ -2,13 +2,14 @@
   "id": 370471273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.475366,34.721746,-82.475366,34.721746",
     "geom:latitude":34.721746,
     "geom:longitude":-82.475366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Watergate Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370471273,
-    "wof:lastmodified":1449030442,
+    "wof:lastmodified":1467082328,
     "wof:name":"S&D Electrical Svcs",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.475366,34.721746,-82.475366,34.721746],
-  "geometry": {"coordinates":[-82.475366,34.721746],"type":"Point"}
+  "bbox": [
+    -82.475366,
+    34.721746,
+    -82.475366,
+    34.721746
+],
+  "geometry": {"coordinates":[-82.47536599999999,34.721746],"type":"Point"}
 }

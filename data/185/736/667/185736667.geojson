@@ -2,13 +2,14 @@
   "id": 185736667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.010483,34.504901,-82.010483,34.504901",
     "geom:latitude":34.504901,
     "geom:longitude":-82.010483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Hillcrest Dr",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185736667,
-    "wof:lastmodified":1449008172,
+    "wof:lastmodified":1467082207,
     "wof:name":"WLBG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-82.010483,34.504901,-82.010483,34.504901],
-  "geometry": {"coordinates":[-82.010483,34.504901],"type":"Point"}
+  "bbox": [
+    -82.010483,
+    34.504901,
+    -82.010483,
+    34.504901
+],
+  "geometry": {"coordinates":[-82.01048299999999,34.504901],"type":"Point"}
 }

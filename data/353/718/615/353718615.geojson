@@ -2,13 +2,14 @@
   "id": 353718615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.301442,33.957413,-81.301442,33.957413",
     "geom:latitude":33.957413,
     "geom:longitude":-81.301442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"883 Rawl Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353718615,
-    "wof:lastmodified":1449018817,
+    "wof:lastmodified":1467082221,
     "wof:name":"Sease's Body & Paint Shop",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-81.301442,33.957413,-81.301442,33.957413],
-  "geometry": {"coordinates":[-81.301442,33.957413],"type":"Point"}
+  "bbox": [
+    -81.301442,
+    33.957413,
+    -81.301442,
+    33.957413
+],
+  "geometry": {"coordinates":[-81.30144199999999,33.957413],"type":"Point"}
 }

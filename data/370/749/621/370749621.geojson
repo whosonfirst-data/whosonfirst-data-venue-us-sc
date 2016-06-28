@@ -2,13 +2,14 @@
   "id": 370749621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.249083,33.913706,-81.249083,33.913706",
     "geom:latitude":33.913706,
     "geom:longitude":-81.249083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Magnolia Ridge Ln",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370749621,
-    "wof:lastmodified":1449030075,
+    "wof:lastmodified":1467082320,
     "wof:name":"Wheeler's Woodworking",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-81.249083,33.913706,-81.249083,33.913706],
+  "bbox": [
+    -81.249083,
+    33.913706,
+    -81.249083,
+    33.913706
+],
   "geometry": {"coordinates":[-81.249083,33.913706],"type":"Point"}
 }

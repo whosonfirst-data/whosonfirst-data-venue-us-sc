@@ -2,13 +2,14 @@
   "id": 185753459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.406488,34.853426,-82.406488,34.853426",
     "geom:latitude":34.853426,
     "geom:longitude":-82.406488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"552 W Washington St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185753459,
-    "wof:lastmodified":1449006791,
+    "wof:lastmodified":1467082185,
     "wof:name":"R & R Limousine Service",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-82.406488,34.853426,-82.406488,34.853426],
+  "bbox": [
+    -82.406488,
+    34.853426,
+    -82.406488,
+    34.853426
+],
   "geometry": {"coordinates":[-82.406488,34.853426],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370211705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.95662,35.011,-81.95662,35.011",
     "geom:latitude":35.011,
     "geom:longitude":-81.95662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1523 Boiling Springs Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370211705,
-    "wof:lastmodified":1449029930,
+    "wof:lastmodified":1467082317,
     "wof:name":"Kaseman Chiropractic Clinic",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.95662,35.011,-81.95662,35.011],
+  "bbox": [
+    -81.95662,
+    35.011,
+    -81.95662,
+    35.011
+],
   "geometry": {"coordinates":[-81.95662,35.011],"type":"Point"}
 }

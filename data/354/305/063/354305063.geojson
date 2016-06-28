@@ -2,13 +2,14 @@
   "id": 354305063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.682828,34.613898,-79.682828,34.613898",
     "geom:latitude":34.613898,
     "geom:longitude":-79.682828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 State Hwy 9 Bus",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354305063,
-    "wof:lastmodified":1449066187,
+    "wof:lastmodified":1467082420,
     "wof:name":"Bennettsville Stock Yards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "market"
     ]
 },
-  "bbox": [-79.682828,34.613898,-79.682828,34.613898],
+  "bbox": [
+    -79.682828,
+    34.613898,
+    -79.682828,
+    34.613898
+],
   "geometry": {"coordinates":[-79.682828,34.613898],"type":"Point"}
 }

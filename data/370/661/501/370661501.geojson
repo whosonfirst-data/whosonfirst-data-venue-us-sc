@@ -2,13 +2,14 @@
   "id": 370661501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.181706,34.089316,-81.181706,34.089316",
     "geom:latitude":34.089316,
     "geom:longitude":-81.181706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1144 Moseley Ave",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370661501,
-    "wof:lastmodified":1449032115,
+    "wof:lastmodified":1467082365,
     "wof:name":"Prominent Homes",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-81.181706,34.089316,-81.181706,34.089316],
-  "geometry": {"coordinates":[-81.181706,34.089316],"type":"Point"}
+  "bbox": [
+    -81.181706,
+    34.089316,
+    -81.181706,
+    34.089316
+],
+  "geometry": {"coordinates":[-81.18170600000001,34.089316],"type":"Point"}
 }

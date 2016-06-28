@@ -2,13 +2,14 @@
   "id": 186008349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.012695,32.804574,-80.012695,32.804574",
     "geom:latitude":32.804574,
     "geom:longitude":-80.012695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 Sam Rittenberg Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186008349,
-    "wof:lastmodified":1449051222,
+    "wof:lastmodified":1467082396,
     "wof:name":"Amuse Restaurant & Wine Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.012695,32.804574,-80.012695,32.804574],
-  "geometry": {"coordinates":[-80.012695,32.804574],"type":"Point"}
+  "bbox": [
+    -80.012695,
+    32.804574,
+    -80.012695,
+    32.804574
+],
+  "geometry": {"coordinates":[-80.01269499999999,32.804574],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370513157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.274734,33.888123,-80.274734,33.888123",
     "geom:latitude":33.888123,
     "geom:longitude":-80.274734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1370 Camp Branch Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370513157,
-    "wof:lastmodified":1449031320,
+    "wof:lastmodified":1467082348,
     "wof:name":"Gustos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.274734,33.888123,-80.274734,33.888123],
+  "bbox": [
+    -80.274734,
+    33.888123,
+    -80.274734,
+    33.888123
+],
   "geometry": {"coordinates":[-80.274734,33.888123],"type":"Point"}
 }

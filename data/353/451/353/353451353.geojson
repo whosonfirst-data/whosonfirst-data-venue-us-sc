@@ -2,13 +2,14 @@
   "id": 353451353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.111167,32.867509,-81.111167,32.867509",
     "geom:latitude":32.867509,
     "geom:longitude":-81.111167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Jackson Ave W",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353451353,
-    "wof:lastmodified":1449019371,
+    "wof:lastmodified":1467082232,
     "wof:name":"Hampton County Council Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.111167,32.867509,-81.111167,32.867509],
-  "geometry": {"coordinates":[-81.111167,32.867509],"type":"Point"}
+  "bbox": [
+    -81.111167,
+    32.867509,
+    -81.111167,
+    32.867509
+],
+  "geometry": {"coordinates":[-81.11116699999999,32.867509],"type":"Point"}
 }

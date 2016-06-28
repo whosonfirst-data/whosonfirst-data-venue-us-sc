@@ -2,13 +2,14 @@
   "id": 353378719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.787497,34.715554,-80.787497,34.715554",
     "geom:latitude":34.715554,
     "geom:longitude":-80.787497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 Woodland Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353378719,
-    "wof:lastmodified":1449019962,
+    "wof:lastmodified":1467082245,
     "wof:name":"Mid-Carolina Dental Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.787497,34.715554,-80.787497,34.715554],
+  "bbox": [
+    -80.787497,
+    34.715554,
+    -80.787497,
+    34.715554
+],
   "geometry": {"coordinates":[-80.787497,34.715554],"type":"Point"}
 }

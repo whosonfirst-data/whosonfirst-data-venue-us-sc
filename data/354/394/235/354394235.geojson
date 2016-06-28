@@ -2,13 +2,14 @@
   "id": 354394235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.016759,32.964214,-80.016759,32.964214",
     "geom:latitude":32.964214,
     "geom:longitude":-80.016759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Westminister Blvd",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354394235,
-    "wof:lastmodified":1449066260,
+    "wof:lastmodified":1467082422,
     "wof:name":"South Computers",
     "wof:parent_id":85823911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.016759,32.964214,-80.016759,32.964214],
-  "geometry": {"coordinates":[-80.016759,32.964214],"type":"Point"}
+  "bbox": [
+    -80.016759,
+    32.964214,
+    -80.016759,
+    32.964214
+],
+  "geometry": {"coordinates":[-80.01675899999999,32.964214],"type":"Point"}
 }

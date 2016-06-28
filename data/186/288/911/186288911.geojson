@@ -2,13 +2,14 @@
   "id": 186288911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.997188,33.698084,-78.997188,33.698084",
     "geom:latitude":33.698084,
     "geom:longitude":-78.997188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 Forestbrook Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186288911,
-    "wof:lastmodified":1449050529,
+    "wof:lastmodified":1467082391,
     "wof:name":"Sugar Mill Plantation LLC",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-78.997188,33.698084,-78.997188,33.698084],
-  "geometry": {"coordinates":[-78.997188,33.698084],"type":"Point"}
+  "bbox": [
+    -78.997188,
+    33.698084,
+    -78.997188,
+    33.698084
+],
+  "geometry": {"coordinates":[-78.99718799999999,33.698084],"type":"Point"}
 }

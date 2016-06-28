@@ -2,13 +2,14 @@
   "id": 185691039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.404364,34.866266,-82.404364,34.866266",
     "geom:latitude":34.866266,
     "geom:longitude":-82.404364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Rutherford St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185691039,
-    "wof:lastmodified":1449006739,
+    "wof:lastmodified":1467082184,
     "wof:name":"Eastern Trading Co",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cotton"
     ]
 },
-  "bbox": [-82.404364,34.866266,-82.404364,34.866266],
+  "bbox": [
+    -82.404364,
+    34.866266,
+    -82.404364,
+    34.866266
+],
   "geometry": {"coordinates":[-82.404364,34.866266],"type":"Point"}
 }

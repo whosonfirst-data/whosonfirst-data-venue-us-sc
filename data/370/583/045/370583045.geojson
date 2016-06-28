@@ -2,13 +2,14 @@
   "id": 370583045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.103038,33.955459,-81.103038,33.955459",
     "geom:latitude":33.955459,
     "geom:longitude":-81.103038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Lee Cir",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370583045,
-    "wof:lastmodified":1449031769,
+    "wof:lastmodified":1467082358,
     "wof:name":"Player Upholstery",
     "wof:parent_id":85847855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-81.103038,33.955459,-81.103038,33.955459],
+  "bbox": [
+    -81.103038,
+    33.955459,
+    -81.103038,
+    33.955459
+],
   "geometry": {"coordinates":[-81.103038,33.955459],"type":"Point"}
 }

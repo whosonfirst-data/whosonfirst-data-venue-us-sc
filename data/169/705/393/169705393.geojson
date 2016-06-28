@@ -2,13 +2,14 @@
   "id": 169705393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.933479,33.411067,-79.933479,33.411067",
     "geom:latitude":33.411067,
     "geom:longitude":-79.933479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4066 Byrnes Dr",
     "sg:city":"St Stephen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169705393,
-    "wof:lastmodified":1449035991,
+    "wof:lastmodified":1467082388,
     "wof:name":"Martin Motors",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.933479,33.411067,-79.933479,33.411067],
-  "geometry": {"coordinates":[-79.933479,33.411067],"type":"Point"}
+  "bbox": [
+    -79.933479,
+    33.411067,
+    -79.933479,
+    33.411067
+],
+  "geometry": {"coordinates":[-79.93347900000001,33.411067],"type":"Point"}
 }

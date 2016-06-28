@@ -2,13 +2,14 @@
   "id": 354324803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.752447,33.872132,-79.752447,33.872132",
     "geom:latitude":33.872132,
     "geom:longitude":-79.752447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 N Church St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354324803,
-    "wof:lastmodified":1449066937,
+    "wof:lastmodified":1467082437,
     "wof:name":"NTI Distributors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-79.752447,33.872132,-79.752447,33.872132],
+  "bbox": [
+    -79.752447,
+    33.872132,
+    -79.752447,
+    33.872132
+],
   "geometry": {"coordinates":[-79.752447,33.872132],"type":"Point"}
 }

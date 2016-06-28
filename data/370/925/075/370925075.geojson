@@ -2,13 +2,14 @@
   "id": 370925075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.228753,34.065114,-81.228753,34.065114",
     "geom:latitude":34.065114,
     "geom:longitude":-81.228753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"292 Shuler Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370925075,
-    "wof:lastmodified":1449029089,
+    "wof:lastmodified":1467082298,
     "wof:name":"Columbia Sailing Club",
     "wof:parent_id":85897271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-81.228753,34.065114,-81.228753,34.065114],
+  "bbox": [
+    -81.228753,
+    34.065114,
+    -81.228753,
+    34.065114
+],
   "geometry": {"coordinates":[-81.228753,34.065114],"type":"Point"}
 }

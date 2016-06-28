@@ -2,13 +2,14 @@
   "id": 370479641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.830125,33.678182,-79.830125,33.678182",
     "geom:latitude":33.678182,
     "geom:longitude":-79.830125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 N Longstreet St",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370479641,
-    "wof:lastmodified":1449031395,
+    "wof:lastmodified":1467082349,
     "wof:name":"Holladay Realty & Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.830125,33.678182,-79.830125,33.678182],
+  "bbox": [
+    -79.830125,
+    33.678182,
+    -79.830125,
+    33.678182
+],
   "geometry": {"coordinates":[-79.830125,33.678182],"type":"Point"}
 }

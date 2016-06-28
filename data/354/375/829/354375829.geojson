@@ -2,13 +2,14 @@
   "id": 354375829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.159961,33.980552,-81.159961,33.980552",
     "geom:latitude":33.980552,
     "geom:longitude":-81.159961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Ashe St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354375829,
-    "wof:lastmodified":1449066004,
+    "wof:lastmodified":1467082416,
     "wof:name":"Mike's Plumbing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.159961,33.980552,-81.159961,33.980552],
+  "bbox": [
+    -81.159961,
+    33.980552,
+    -81.159961,
+    33.980552
+],
   "geometry": {"coordinates":[-81.159961,33.980552],"type":"Point"}
 }

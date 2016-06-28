@@ -2,13 +2,14 @@
   "id": 370801109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.888201,34.93016,-81.888201,34.93016",
     "geom:latitude":34.93016,
     "geom:longitude":-81.888201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Lanford Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":370801109,
-    "wof:lastmodified":1449031877,
+    "wof:lastmodified":1467082360,
     "wof:name":"Sca Of NORTH Amnerica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-81.888201,34.93016,-81.888201,34.93016],
+  "bbox": [
+    -81.888201,
+    34.93016,
+    -81.888201,
+    34.93016
+],
   "geometry": {"coordinates":[-81.888201,34.93016],"type":"Point"}
 }

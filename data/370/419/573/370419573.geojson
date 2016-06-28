@@ -2,13 +2,14 @@
   "id": 370419573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.477488,34.618889,-82.477488,34.618889",
     "geom:latitude":34.618889,
     "geom:longitude":-82.477488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 E Main St",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370419573,
-    "wof:lastmodified":1449032406,
+    "wof:lastmodified":1467082372,
     "wof:name":"Modern Video & Svc Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "video"
     ]
 },
-  "bbox": [-82.477488,34.618889,-82.477488,34.618889],
-  "geometry": {"coordinates":[-82.477488,34.618889],"type":"Point"}
+  "bbox": [
+    -82.477488,
+    34.618889,
+    -82.477488,
+    34.618889
+],
+  "geometry": {"coordinates":[-82.47748799999999,34.618889],"type":"Point"}
 }

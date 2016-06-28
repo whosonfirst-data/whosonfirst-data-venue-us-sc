@@ -2,13 +2,14 @@
   "id": 370853029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.195663,33.910449,-81.195663,33.910449",
     "geom:latitude":33.910449,
     "geom:longitude":-81.195663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5142 Platt Springs Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370853029,
-    "wof:lastmodified":1449030454,
+    "wof:lastmodified":1467082328,
     "wof:name":"Artisan's Svc",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-81.195663,33.910449,-81.195663,33.910449],
+  "bbox": [
+    -81.195663,
+    33.910449,
+    -81.195663,
+    33.910449
+],
   "geometry": {"coordinates":[-81.195663,33.910449],"type":"Point"}
 }

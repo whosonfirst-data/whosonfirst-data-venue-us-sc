@@ -2,13 +2,14 @@
   "id": 186081353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.763183,34.721392,-80.763183,34.721392",
     "geom:latitude":34.721392,
     "geom:longitude":-80.763183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 E Gay St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186081353,
-    "wof:lastmodified":1449051210,
+    "wof:lastmodified":1467082395,
     "wof:name":"Tucker Clearing Grading",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.763183,34.721392,-80.763183,34.721392],
+  "bbox": [
+    -80.763183,
+    34.721392,
+    -80.763183,
+    34.721392
+],
   "geometry": {"coordinates":[-80.763183,34.721392],"type":"Point"}
 }

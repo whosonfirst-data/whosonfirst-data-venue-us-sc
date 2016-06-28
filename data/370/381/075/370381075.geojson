@@ -2,13 +2,14 @@
   "id": 370381075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.931512,32.776401,-79.931512,32.776401",
     "geom:latitude":32.776401,
     "geom:longitude":-79.931512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Broad St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370381075,
-    "wof:lastmodified":1449029364,
+    "wof:lastmodified":1467082304,
     "wof:name":"STUDIOCANVAS.COM",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "design"
     ]
 },
-  "bbox": [-79.931512,32.776401,-79.931512,32.776401],
+  "bbox": [
+    -79.931512,
+    32.776401,
+    -79.931512,
+    32.776401
+],
   "geometry": {"coordinates":[-79.931512,32.776401],"type":"Point"}
 }

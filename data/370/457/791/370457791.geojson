@@ -2,13 +2,14 @@
   "id": 370457791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.724563,33.563375,-81.724563,33.563375",
     "geom:latitude":33.563375,
     "geom:longitude":-81.724563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Greenville St NW",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370457791,
-    "wof:lastmodified":1449031351,
+    "wof:lastmodified":1467082348,
     "wof:name":"Jewish Synagogue",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "synagogue"
     ]
 },
-  "bbox": [-81.724563,33.563375,-81.724563,33.563375],
+  "bbox": [
+    -81.724563,
+    33.563375,
+    -81.724563,
+    33.563375
+],
   "geometry": {"coordinates":[-81.724563,33.563375],"type":"Point"}
 }

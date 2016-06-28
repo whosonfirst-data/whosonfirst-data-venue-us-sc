@@ -2,13 +2,14 @@
   "id": 353610709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.888517,34.931106,-81.888517,34.931106",
     "geom:latitude":34.931106,
     "geom:longitude":-81.888517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2251 S Pine St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":353610709,
-    "wof:lastmodified":1449020734,
+    "wof:lastmodified":1467082260,
     "wof:name":"Pete's Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-81.888517,34.931106,-81.888517,34.931106],
-  "geometry": {"coordinates":[-81.888517,34.931106],"type":"Point"}
+  "bbox": [
+    -81.888517,
+    34.931106,
+    -81.888517,
+    34.931106
+],
+  "geometry": {"coordinates":[-81.88851699999999,34.931106],"type":"Point"}
 }

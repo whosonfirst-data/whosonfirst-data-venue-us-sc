@@ -2,13 +2,14 @@
   "id": 169847859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.933923,34.07905,-78.933923,34.07905",
     "geom:latitude":34.07905,
     "geom:longitude":-78.933923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1424 State Hwy 9 Bus W",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169847859,
-    "wof:lastmodified":1449033893,
+    "wof:lastmodified":1467082381,
     "wof:name":"Hughes-Mc Daniels Tractor Co",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tractor"
     ]
 },
-  "bbox": [-78.933923,34.07905,-78.933923,34.07905],
-  "geometry": {"coordinates":[-78.933923,34.07905],"type":"Point"}
+  "bbox": [
+    -78.933923,
+    34.07905,
+    -78.933923,
+    34.07905
+],
+  "geometry": {"coordinates":[-78.93392299999999,34.07905],"type":"Point"}
 }

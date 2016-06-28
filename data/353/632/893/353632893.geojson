@@ -2,13 +2,14 @@
   "id": 353632893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.916525,34.94873,-81.916525,34.94873",
     "geom:latitude":34.94873,
     "geom:longitude":-81.916525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"291 S Pine St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353632893,
-    "wof:lastmodified":1449019878,
+    "wof:lastmodified":1467082243,
     "wof:name":"First Horizon Home Loan Corp",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-81.916525,34.94873,-81.916525,34.94873],
-  "geometry": {"coordinates":[-81.916525,34.94873],"type":"Point"}
+  "bbox": [
+    -81.916525,
+    34.94873,
+    -81.916525,
+    34.94873
+],
+  "geometry": {"coordinates":[-81.91652499999999,34.94873],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353762395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.088563,34.034124,-81.088563,34.034124",
     "geom:latitude":34.034124,
     "geom:longitude":-81.088563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1722 Broad River Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353762395,
-    "wof:lastmodified":1449020053,
+    "wof:lastmodified":1467082246,
     "wof:name":"Red Checker Pizza & Subs",
     "wof:parent_id":85845041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.088563,34.034124,-81.088563,34.034124],
-  "geometry": {"coordinates":[-81.088563,34.034124],"type":"Point"}
+  "bbox": [
+    -81.088563,
+    34.034124,
+    -81.088563,
+    34.034124
+],
+  "geometry": {"coordinates":[-81.08856299999999,34.034124],"type":"Point"}
 }

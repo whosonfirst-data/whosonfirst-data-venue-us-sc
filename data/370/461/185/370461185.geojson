@@ -2,13 +2,14 @@
   "id": 370461185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.544524,34.200243,-81.544524,34.200243",
     "geom:latitude":34.200243,
     "geom:longitude":-81.544524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Swittenburg Rd",
     "sg:city":"Prosperity",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370461185,
-    "wof:lastmodified":1449030358,
+    "wof:lastmodified":1467082326,
     "wof:name":"Styles By Lisa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.544524,34.200243,-81.544524,34.200243],
+  "bbox": [
+    -81.544524,
+    34.200243,
+    -81.544524,
+    34.200243
+],
   "geometry": {"coordinates":[-81.544524,34.200243],"type":"Point"}
 }

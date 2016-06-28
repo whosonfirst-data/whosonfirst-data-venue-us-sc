@@ -2,13 +2,14 @@
   "id": 354405181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.25128,34.932694,-82.25128,34.932694",
     "geom:latitude":34.932694,
     "geom:longitude":-82.25128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 S Buncombe Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354405181,
-    "wof:lastmodified":1449067519,
+    "wof:lastmodified":1467082451,
     "wof:name":"O'Neal Sanitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "waste"
     ]
 },
-  "bbox": [-82.25128,34.932694,-82.25128,34.932694],
-  "geometry": {"coordinates":[-82.25128,34.932694],"type":"Point"}
+  "bbox": [
+    -82.25128,
+    34.932694,
+    -82.25128,
+    34.932694
+],
+  "geometry": {"coordinates":[-82.25127999999999,34.932694],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354000769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.636476,34.818206,-82.636476,34.818206",
     "geom:latitude":34.818206,
     "geom:longitude":-82.636476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1298 Old Liberty Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354000769,
-    "wof:lastmodified":1449066201,
+    "wof:lastmodified":1467082421,
     "wof:name":"Lamb Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.636476,34.818206,-82.636476,34.818206],
+  "bbox": [
+    -82.636476,
+    34.818206,
+    -82.636476,
+    34.818206
+],
   "geometry": {"coordinates":[-82.636476,34.818206],"type":"Point"}
 }

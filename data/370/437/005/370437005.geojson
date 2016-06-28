@@ -2,13 +2,14 @@
   "id": 370437005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.943178,34.12982,-79.943178,34.12982",
     "geom:latitude":34.12982,
     "geom:longitude":-79.943178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 W Smith St",
     "sg:city":"Timmonsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370437005,
-    "wof:lastmodified":1449031539,
+    "wof:lastmodified":1467082353,
     "wof:name":"M J Mac Dry Cleaning",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-79.943178,34.12982,-79.943178,34.12982],
+  "bbox": [
+    -79.943178,
+    34.12982,
+    -79.943178,
+    34.12982
+],
   "geometry": {"coordinates":[-79.943178,34.12982],"type":"Point"}
 }

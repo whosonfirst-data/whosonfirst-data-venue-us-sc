@@ -2,13 +2,14 @@
   "id": 370497823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.683692,34.617835,-79.683692,34.617835",
     "geom:latitude":34.617835,
     "geom:longitude":-79.683692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 E Market St",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370497823,
-    "wof:lastmodified":1449032418,
+    "wof:lastmodified":1467082372,
     "wof:name":"Lundin & Brogdon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-79.683692,34.617835,-79.683692,34.617835],
-  "geometry": {"coordinates":[-79.683692,34.617835],"type":"Point"}
+  "bbox": [
+    -79.683692,
+    34.617835,
+    -79.683692,
+    34.617835
+],
+  "geometry": {"coordinates":[-79.68369199999999,34.617835],"type":"Point"}
 }

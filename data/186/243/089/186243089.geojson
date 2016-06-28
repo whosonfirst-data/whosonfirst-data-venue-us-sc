@@ -2,13 +2,14 @@
   "id": 186243089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.75241,33.523264,-81.75241,33.523264",
     "geom:latitude":33.523264,
     "geom:longitude":-81.75241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 Pine Logging Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186243089,
-    "wof:lastmodified":1449051260,
+    "wof:lastmodified":1467082396,
     "wof:name":"Portsbridge Hospice",
     "wof:parent_id":85812071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-81.75241,33.523264,-81.75241,33.523264],
+  "bbox": [
+    -81.75241,
+    33.523264,
+    -81.75241,
+    33.523264
+],
   "geometry": {"coordinates":[-81.75241,33.523264],"type":"Point"}
 }

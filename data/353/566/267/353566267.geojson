@@ -2,13 +2,14 @@
   "id": 353566267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.26841,33.363389,-81.26841,33.363389",
     "geom:latitude":33.363389,
     "geom:longitude":-81.26841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Walnut St",
     "sg:city":"Blackville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353566267,
-    "wof:lastmodified":1449018304,
+    "wof:lastmodified":1467082211,
     "wof:name":"Oscar Owens Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drilling"
     ]
 },
-  "bbox": [-81.26841,33.363389,-81.26841,33.363389],
+  "bbox": [
+    -81.26841,
+    33.363389,
+    -81.26841,
+    33.363389
+],
   "geometry": {"coordinates":[-81.26841,33.363389],"type":"Point"}
 }

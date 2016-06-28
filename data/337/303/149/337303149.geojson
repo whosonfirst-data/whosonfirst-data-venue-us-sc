@@ -2,13 +2,14 @@
   "id": 337303149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.38418,34.44178,-82.38418,34.44178",
     "geom:latitude":34.44178,
     "geom:longitude":-82.38418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 E Hampton Ave",
     "sg:city":"Honea Path",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337303149,
-    "wof:lastmodified":1449026937,
+    "wof:lastmodified":1467082265,
     "wof:name":"Mt Horeb AME Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.38418,34.44178,-82.38418,34.44178],
+  "bbox": [
+    -82.38418,
+    34.44178,
+    -82.38418,
+    34.44178
+],
   "geometry": {"coordinates":[-82.38418,34.44178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370159799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.816203,34.667134,-82.816203,34.667134",
     "geom:latitude":34.667134,
     "geom:longitude":-82.816203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Stone Cir",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370159799,
-    "wof:lastmodified":1449029498,
+    "wof:lastmodified":1467082307,
     "wof:name":"Clemson Concrete Finishing",
     "wof:parent_id":85807339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.816203,34.667134,-82.816203,34.667134],
+  "bbox": [
+    -82.816203,
+    34.667134,
+    -82.816203,
+    34.667134
+],
   "geometry": {"coordinates":[-82.816203,34.667134],"type":"Point"}
 }

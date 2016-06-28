@@ -2,13 +2,14 @@
   "id": 186250971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.239027,34.85418,-82.239027,34.85418",
     "geom:latitude":34.85418,
     "geom:longitude":-82.239027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Interstate Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186250971,
-    "wof:lastmodified":1449051911,
+    "wof:lastmodified":1467082402,
     "wof:name":"Siegfried Mayer USA Inc",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-82.239027,34.85418,-82.239027,34.85418],
-  "geometry": {"coordinates":[-82.239027,34.85418],"type":"Point"}
+  "bbox": [
+    -82.239027,
+    34.85418,
+    -82.239027,
+    34.85418
+],
+  "geometry": {"coordinates":[-82.23902699999999,34.85418],"type":"Point"}
 }

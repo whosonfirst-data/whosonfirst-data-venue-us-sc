@@ -2,13 +2,14 @@
   "id": 186079717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.701508,33.984998,-79.701508,33.984998",
     "geom:latitude":33.984998,
     "geom:longitude":-79.701508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4526 N Old Georgetown Rd",
     "sg:city":"Coward",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186079717,
-    "wof:lastmodified":1449052556,
+    "wof:lastmodified":1467082408,
     "wof:name":"Brown's PC Repair & Upgrade",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-79.701508,33.984998,-79.701508,33.984998],
+  "bbox": [
+    -79.701508,
+    33.984998,
+    -79.701508,
+    33.984998
+],
   "geometry": {"coordinates":[-79.701508,33.984998],"type":"Point"}
 }

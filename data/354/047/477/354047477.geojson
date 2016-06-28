@@ -2,13 +2,14 @@
   "id": 354047477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.173865,33.021664,-80.173865,33.021664",
     "geom:latitude":33.021664,
     "geom:longitude":-80.173865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 N Main St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354047477,
-    "wof:lastmodified":1449067065,
+    "wof:lastmodified":1467082440,
     "wof:name":"O K Florist",
     "wof:parent_id":85833421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.173865,33.021664,-80.173865,33.021664],
-  "geometry": {"coordinates":[-80.173865,33.021664],"type":"Point"}
+  "bbox": [
+    -80.173865,
+    33.021664,
+    -80.173865,
+    33.021664
+],
+  "geometry": {"coordinates":[-80.17386500000001,33.021664],"type":"Point"}
 }

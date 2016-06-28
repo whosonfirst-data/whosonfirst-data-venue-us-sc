@@ -2,13 +2,14 @@
   "id": 337408357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.378523,34.413263,-79.378523,34.413263",
     "geom:latitude":34.413263,
     "geom:longitude":-79.378523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 S 3rd Ave",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337408357,
-    "wof:lastmodified":1449027036,
+    "wof:lastmodified":1467082269,
     "wof:name":"Dillon County Magistrate",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-79.378523,34.413263,-79.378523,34.413263],
+  "bbox": [
+    -79.378523,
+    34.413263,
+    -79.378523,
+    34.413263
+],
   "geometry": {"coordinates":[-79.378523,34.413263],"type":"Point"}
 }

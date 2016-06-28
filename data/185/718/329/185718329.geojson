@@ -2,13 +2,14 @@
   "id": 185718329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.02059,34.70331,-83.02059,34.70331",
     "geom:latitude":34.70331,
     "geom:longitude":-83.02059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"438 Dickard Rd",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185718329,
-    "wof:lastmodified":1449006965,
+    "wof:lastmodified":1467082188,
     "wof:name":"Terrys Convenient Snack",
     "wof:parent_id":85854689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-83.02059,34.70331,-83.02059,34.70331],
+  "bbox": [
+    -83.02059,
+    34.70331,
+    -83.02059,
+    34.70331
+],
   "geometry": {"coordinates":[-83.02059,34.70331],"type":"Point"}
 }

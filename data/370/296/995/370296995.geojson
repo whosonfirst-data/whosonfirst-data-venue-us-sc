@@ -2,13 +2,14 @@
   "id": 370296995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.763422,32.589402,-80.763422,32.589402",
     "geom:latitude":32.589402,
     "geom:longitude":-80.763422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Bull Point Dr",
     "sg:city":"Seabrook",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370296995,
-    "wof:lastmodified":1449031844,
+    "wof:lastmodified":1467082360,
     "wof:name":"Bull Point Plantation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.763422,32.589402,-80.763422,32.589402],
-  "geometry": {"coordinates":[-80.763422,32.589402],"type":"Point"}
+  "bbox": [
+    -80.763422,
+    32.589402,
+    -80.763422,
+    32.589402
+],
+  "geometry": {"coordinates":[-80.76342200000001,32.589402],"type":"Point"}
 }

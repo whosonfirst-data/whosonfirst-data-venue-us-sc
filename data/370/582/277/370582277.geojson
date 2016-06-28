@@ -2,13 +2,14 @@
   "id": 370582277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.033482,32.926884,-80.033482,32.926884",
     "geom:latitude":32.926884,
     "geom:longitude":-80.033482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7083 Rivers Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370582277,
-    "wof:lastmodified":1449030898,
+    "wof:lastmodified":1467082338,
     "wof:name":"Oakwood Homes",
     "wof:parent_id":85803745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.033482,32.926884,-80.033482,32.926884],
-  "geometry": {"coordinates":[-80.033482,32.926884],"type":"Point"}
+  "bbox": [
+    -80.033482,
+    32.926884,
+    -80.033482,
+    32.926884
+],
+  "geometry": {"coordinates":[-80.03348200000001,32.926884],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370941225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.613068,34.822951,-82.613068,34.822951",
     "geom:latitude":34.822951,
     "geom:longitude":-82.613068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Folger Ave",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370941225,
-    "wof:lastmodified":1449031099,
+    "wof:lastmodified":1467082342,
     "wof:name":"Legislative Delegation",
     "wof:parent_id":85832619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.613068,34.822951,-82.613068,34.822951],
+  "bbox": [
+    -82.613068,
+    34.822951,
+    -82.613068,
+    34.822951
+],
   "geometry": {"coordinates":[-82.613068,34.822951],"type":"Point"}
 }

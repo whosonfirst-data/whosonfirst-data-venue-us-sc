@@ -2,13 +2,14 @@
   "id": 370671493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.968598,32.73025,-79.968598,32.73025",
     "geom:latitude":32.73025,
     "geom:longitude":-79.968598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 Folly Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370671493,
-    "wof:lastmodified":1449029871,
+    "wof:lastmodified":1467082315,
     "wof:name":"Richard L Beck DDS",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-79.968598,32.73025,-79.968598,32.73025],
+  "bbox": [
+    -79.968598,
+    32.73025,
+    -79.968598,
+    32.73025
+],
   "geometry": {"coordinates":[-79.968598,32.73025],"type":"Point"}
 }

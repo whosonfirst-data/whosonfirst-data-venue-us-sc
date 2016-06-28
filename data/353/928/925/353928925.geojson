@@ -2,13 +2,14 @@
   "id": 353928925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.836288,34.666782,-82.836288,34.666782",
     "geom:latitude":34.666782,
     "geom:longitude":-82.836288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Cherry Rd",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353928925,
-    "wof:lastmodified":1449020450,
+    "wof:lastmodified":1467082254,
     "wof:name":"West Point Stevens",
     "wof:parent_id":85808859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mills"
     ]
 },
-  "bbox": [-82.836288,34.666782,-82.836288,34.666782],
+  "bbox": [
+    -82.836288,
+    34.666782,
+    -82.836288,
+    34.666782
+],
   "geometry": {"coordinates":[-82.836288,34.666782],"type":"Point"}
 }

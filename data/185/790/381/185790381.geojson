@@ -2,13 +2,14 @@
   "id": 185790381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.852341,34.563996,-82.852341,34.563996",
     "geom:latitude":34.563996,
     "geom:longitude":-82.852341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Park Rd",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185790381,
-    "wof:lastmodified":1449007856,
+    "wof:lastmodified":1467082201,
     "wof:name":"Clemson Parks & Recreation",
     "wof:parent_id":85858639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-82.852341,34.563996,-82.852341,34.563996],
+  "bbox": [
+    -82.852341,
+    34.563996,
+    -82.852341,
+    34.563996
+],
   "geometry": {"coordinates":[-82.852341,34.563996],"type":"Point"}
 }

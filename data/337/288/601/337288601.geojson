@@ -2,13 +2,14 @@
   "id": 337288601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.096588,33.020408,-80.096588,33.020408",
     "geom:latitude":33.020408,
     "geom:longitude":-80.096588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Drexel Rd",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337288601,
-    "wof:lastmodified":1449027023,
+    "wof:lastmodified":1467082268,
     "wof:name":"David Warnecki",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.096588,33.020408,-80.096588,33.020408],
+  "bbox": [
+    -80.096588,
+    33.020408,
+    -80.096588,
+    33.020408
+],
   "geometry": {"coordinates":[-80.096588,33.020408],"type":"Point"}
 }

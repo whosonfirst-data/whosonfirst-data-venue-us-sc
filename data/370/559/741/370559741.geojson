@@ -2,13 +2,14 @@
   "id": 370559741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.998067,32.870065,-79.998067,32.870065",
     "geom:latitude":32.870065,
     "geom:longitude":-79.998067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2155 Durant Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370559741,
-    "wof:lastmodified":1449031740,
+    "wof:lastmodified":1467082357,
     "wof:name":"Port City Bonded Warehouse Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "warehousing"
     ]
 },
-  "bbox": [-79.998067,32.870065,-79.998067,32.870065],
-  "geometry": {"coordinates":[-79.998067,32.870065],"type":"Point"}
+  "bbox": [
+    -79.998067,
+    32.870065,
+    -79.998067,
+    32.870065
+],
+  "geometry": {"coordinates":[-79.99806700000001,32.870065],"type":"Point"}
 }

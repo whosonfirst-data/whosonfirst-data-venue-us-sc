@@ -2,13 +2,14 @@
   "id": 354260231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.798111,35.048969,-82.798111,35.048969",
     "geom:latitude":35.048969,
     "geom:longitude":-82.798111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Hancock Rd",
     "sg:city":"Sunset",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354260231,
-    "wof:lastmodified":1449066220,
+    "wof:lastmodified":1467082421,
     "wof:name":"Rocky Bottom Camp Of The Blind",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.798111,35.048969,-82.798111,35.048969],
-  "geometry": {"coordinates":[-82.798111,35.048969],"type":"Point"}
+  "bbox": [
+    -82.798111,
+    35.048969,
+    -82.798111,
+    35.048969
+],
+  "geometry": {"coordinates":[-82.79811100000001,35.048969],"type":"Point"}
 }

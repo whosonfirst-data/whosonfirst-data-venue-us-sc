@@ -2,13 +2,14 @@
   "id": 370790259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.126568,34.861031,-82.126568,34.861031",
     "geom:latitude":34.861031,
     "geom:longitude":-82.126568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Vivians Ct",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370790259,
-    "wof:lastmodified":1449031692,
+    "wof:lastmodified":1467082356,
     "wof:name":"Healthware Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.126568,34.861031,-82.126568,34.861031],
-  "geometry": {"coordinates":[-82.126568,34.861031],"type":"Point"}
+  "bbox": [
+    -82.126568,
+    34.861031,
+    -82.126568,
+    34.861031
+],
+  "geometry": {"coordinates":[-82.12656800000001,34.861031],"type":"Point"}
 }

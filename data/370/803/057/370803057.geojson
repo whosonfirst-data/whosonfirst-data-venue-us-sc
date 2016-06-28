@@ -2,13 +2,14 @@
   "id": 370803057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.629218,34.527498,-82.629218,34.527498",
     "geom:latitude":34.527498,
     "geom:longitude":-82.629218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Cornelia Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370803057,
-    "wof:lastmodified":1449032514,
+    "wof:lastmodified":1467082374,
     "wof:name":"Todd Hamilton DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.629218,34.527498,-82.629218,34.527498],
-  "geometry": {"coordinates":[-82.629218,34.527498],"type":"Point"}
+  "bbox": [
+    -82.629218,
+    34.527498,
+    -82.629218,
+    34.527498
+],
+  "geometry": {"coordinates":[-82.62921799999999,34.527498],"type":"Point"}
 }

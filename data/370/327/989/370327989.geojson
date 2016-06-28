@@ -2,13 +2,14 @@
   "id": 370327989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.814639,34.257829,-79.814639,34.257829",
     "geom:latitude":34.257829,
     "geom:longitude":-79.814639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Autry St",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370327989,
-    "wof:lastmodified":1449029342,
+    "wof:lastmodified":1467082304,
     "wof:name":"Clean Air Corp",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-79.814639,34.257829,-79.814639,34.257829],
+  "bbox": [
+    -79.814639,
+    34.257829,
+    -79.814639,
+    34.257829
+],
   "geometry": {"coordinates":[-79.814639,34.257829],"type":"Point"}
 }

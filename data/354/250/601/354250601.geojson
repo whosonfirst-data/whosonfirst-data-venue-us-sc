@@ -2,13 +2,14 @@
   "id": 354250601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.667322,32.90123,-80.667322,32.90123",
     "geom:latitude":32.90123,
     "geom:longitude":-80.667322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Jefferies Blvd",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354250601,
-    "wof:lastmodified":1449066924,
+    "wof:lastmodified":1467082437,
     "wof:name":"Colleton County Chapter One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.667322,32.90123,-80.667322,32.90123],
+  "bbox": [
+    -80.667322,
+    32.90123,
+    -80.667322,
+    32.90123
+],
   "geometry": {"coordinates":[-80.667322,32.90123],"type":"Point"}
 }

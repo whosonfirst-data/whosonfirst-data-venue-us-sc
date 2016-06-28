@@ -2,13 +2,14 @@
   "id": 353783917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.433713,34.827337,-82.433713,34.827337",
     "geom:latitude":34.827337,
     "geom:longitude":-82.433713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 S Washington Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353783917,
-    "wof:lastmodified":1449018326,
+    "wof:lastmodified":1467082211,
     "wof:name":"Flower Peddler",
     "wof:parent_id":85838763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.433713,34.827337,-82.433713,34.827337],
+  "bbox": [
+    -82.433713,
+    34.827337,
+    -82.433713,
+    34.827337
+],
   "geometry": {"coordinates":[-82.433713,34.827337],"type":"Point"}
 }

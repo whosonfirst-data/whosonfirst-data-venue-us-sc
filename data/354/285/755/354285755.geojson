@@ -2,13 +2,14 @@
   "id": 354285755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.094996,34.037428,-81.094996,34.037428",
     "geom:latitude":34.037428,
     "geom:longitude":-81.094996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Diamond Ln",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354285755,
-    "wof:lastmodified":1449065989,
+    "wof:lastmodified":1467082416,
     "wof:name":"Marketing Division Inc",
     "wof:parent_id":85845041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-81.094996,34.037428,-81.094996,34.037428],
-  "geometry": {"coordinates":[-81.094996,34.037428],"type":"Point"}
+  "bbox": [
+    -81.094996,
+    34.037428,
+    -81.094996,
+    34.037428
+],
+  "geometry": {"coordinates":[-81.09499599999999,34.037428],"type":"Point"}
 }

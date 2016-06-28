@@ -2,13 +2,14 @@
   "id": 186080383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.965761,32.727925,-79.965761,32.727925",
     "geom:latitude":32.727925,
     "geom:longitude":-79.965761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 Lynton St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186080383,
-    "wof:lastmodified":1449052964,
+    "wof:lastmodified":1467082412,
     "wof:name":"J F B Properties LLC",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-79.965761,32.727925,-79.965761,32.727925],
+  "bbox": [
+    -79.965761,
+    32.727925,
+    -79.965761,
+    32.727925
+],
   "geometry": {"coordinates":[-79.965761,32.727925],"type":"Point"}
 }

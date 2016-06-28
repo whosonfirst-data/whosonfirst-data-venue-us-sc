@@ -2,13 +2,14 @@
   "id": 169824053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.919809,32.865727,-79.919809,32.865727",
     "geom:latitude":32.865727,
     "geom:longitude":-79.919809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Beresford Creek St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169824053,
-    "wof:lastmodified":1449033866,
+    "wof:lastmodified":1467082381,
     "wof:name":"Potts of Coffee LLC",
     "wof:parent_id":85858239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.919809,32.865727,-79.919809,32.865727],
+  "bbox": [
+    -79.919809,
+    32.865727,
+    -79.919809,
+    32.865727
+],
   "geometry": {"coordinates":[-79.919809,32.865727],"type":"Point"}
 }

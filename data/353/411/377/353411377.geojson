@@ -2,13 +2,14 @@
   "id": 353411377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.68047,33.343579,-80.68047,33.343579",
     "geom:latitude":33.343579,
     "geom:longitude":-80.68047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 Reevesville Rd",
     "sg:city":"Bowman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353411377,
-    "wof:lastmodified":1449018359,
+    "wof:lastmodified":1467082212,
     "wof:name":"Cocky's Package Store",
     "wof:parent_id":85843475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.68047,33.343579,-80.68047,33.343579],
+  "bbox": [
+    -80.68047,
+    33.343579,
+    -80.68047,
+    33.343579
+],
   "geometry": {"coordinates":[-80.68047,33.343579],"type":"Point"}
 }

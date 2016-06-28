@@ -2,13 +2,14 @@
   "id": 353821267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.6902,34.553448,-82.6902,34.553448",
     "geom:latitude":34.553448,
     "geom:longitude":-82.6902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Hudson Cir",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353821267,
-    "wof:lastmodified":1449019650,
+    "wof:lastmodified":1467082238,
     "wof:name":"Custom Label",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sales"
     ]
 },
-  "bbox": [-82.6902,34.553448,-82.6902,34.553448],
+  "bbox": [
+    -82.6902,
+    34.553448,
+    -82.6902,
+    34.553448
+],
   "geometry": {"coordinates":[-82.6902,34.553448],"type":"Point"}
 }

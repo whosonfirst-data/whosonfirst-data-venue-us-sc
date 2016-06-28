@@ -2,13 +2,14 @@
   "id": 337397691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.629241,34.527509,-82.629241,34.527509",
     "geom:latitude":34.527509,
     "geom:longitude":-82.629241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 Cornelia Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337397691,
-    "wof:lastmodified":1449027249,
+    "wof:lastmodified":1467082277,
     "wof:name":"Dermatology Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.629241,34.527509,-82.629241,34.527509],
-  "geometry": {"coordinates":[-82.629241,34.527509],"type":"Point"}
+  "bbox": [
+    -82.629241,
+    34.527509,
+    -82.629241,
+    34.527509
+],
+  "geometry": {"coordinates":[-82.62924099999999,34.527509],"type":"Point"}
 }

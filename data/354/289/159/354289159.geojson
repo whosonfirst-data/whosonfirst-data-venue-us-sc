@@ -2,13 +2,14 @@
   "id": 354289159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.509017,33.732021,-79.509017,33.732021",
     "geom:latitude":33.732021,
     "geom:longitude":-79.509017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3607 Hemingway Hwy",
     "sg:city":"Hemingway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354289159,
-    "wof:lastmodified":1449067369,
+    "wof:lastmodified":1467082447,
     "wof:name":"West Side Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-79.509017,33.732021,-79.509017,33.732021],
+  "bbox": [
+    -79.509017,
+    33.732021,
+    -79.509017,
+    33.732021
+],
   "geometry": {"coordinates":[-79.509017,33.732021],"type":"Point"}
 }

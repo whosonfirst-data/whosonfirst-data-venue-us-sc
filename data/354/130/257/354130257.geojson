@@ -2,13 +2,14 @@
   "id": 354130257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.093293,32.900782,-80.093293,32.900782",
     "geom:latitude":32.900782,
     "geom:longitude":-80.093293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Blueridge Trl",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354130257,
-    "wof:lastmodified":1449066497,
+    "wof:lastmodified":1467082427,
     "wof:name":"Miter Box Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.093293,32.900782,-80.093293,32.900782],
+  "bbox": [
+    -80.093293,
+    32.900782,
+    -80.093293,
+    32.900782
+],
   "geometry": {"coordinates":[-80.093293,32.900782],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337342249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.967189,32.737004,-79.967189,32.737004",
     "geom:latitude":32.737004,
     "geom:longitude":-79.967189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 Folly Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337342249,
-    "wof:lastmodified":1449027675,
+    "wof:lastmodified":1467082293,
     "wof:name":"Bi-Lo",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-79.967189,32.737004,-79.967189,32.737004],
+  "bbox": [
+    -79.967189,
+    32.737004,
+    -79.967189,
+    32.737004
+],
   "geometry": {"coordinates":[-79.967189,32.737004],"type":"Point"}
 }

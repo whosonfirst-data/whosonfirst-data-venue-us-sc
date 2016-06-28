@@ -2,13 +2,14 @@
   "id": 370965751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.064872,32.879201,-80.064872,32.879201",
     "geom:latitude":32.879201,
     "geom:longitude":-80.064872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4716 Boyfield Dr",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370965751,
-    "wof:lastmodified":1449031445,
+    "wof:lastmodified":1467082350,
     "wof:name":"CMT Enterprises",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.064872,32.879201,-80.064872,32.879201],
-  "geometry": {"coordinates":[-80.064872,32.879201],"type":"Point"}
+  "bbox": [
+    -80.064872,
+    32.879201,
+    -80.064872,
+    32.879201
+],
+  "geometry": {"coordinates":[-80.06487199999999,32.879201],"type":"Point"}
 }

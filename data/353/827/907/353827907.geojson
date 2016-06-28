@@ -2,13 +2,14 @@
   "id": 353827907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.84019,33.526657,-80.84019,33.526657",
     "geom:latitude":33.526657,
     "geom:longitude":-80.84019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2992 Magnolia St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353827907,
-    "wof:lastmodified":1449019169,
+    "wof:lastmodified":1467082228,
     "wof:name":"Edwards Barber Extrodinaire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.84019,33.526657,-80.84019,33.526657],
-  "geometry": {"coordinates":[-80.84019,33.526657],"type":"Point"}
+  "bbox": [
+    -80.84019,
+    33.526657,
+    -80.84019,
+    33.526657
+],
+  "geometry": {"coordinates":[-80.84019000000001,33.526657],"type":"Point"}
 }

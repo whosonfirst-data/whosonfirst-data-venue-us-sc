@@ -2,13 +2,14 @@
   "id": 169797189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.517736,35.121448,-81.517736,35.121448",
     "geom:latitude":35.121448,
     "geom:longitude":-81.517736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N Rutherford St",
     "sg:city":"Blacksburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169797189,
-    "wof:lastmodified":1449035629,
+    "wof:lastmodified":1467082387,
     "wof:name":"Side Street Diners",
     "wof:parent_id":85816975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.517736,35.121448,-81.517736,35.121448],
+  "bbox": [
+    -81.517736,
+    35.121448,
+    -81.517736,
+    35.121448
+],
   "geometry": {"coordinates":[-81.517736,35.121448],"type":"Point"}
 }

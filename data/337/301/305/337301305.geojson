@@ -2,13 +2,14 @@
   "id": 337301305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.820366,33.494253,-81.820366,33.494253",
     "geom:latitude":33.494253,
     "geom:longitude":-81.820366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2796 Pine Logging Rd",
     "sg:city":"Warrenville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337301305,
-    "wof:lastmodified":1449027137,
+    "wof:lastmodified":1467082272,
     "wof:name":"Aiken Wholesalers Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.820366,33.494253,-81.820366,33.494253],
-  "geometry": {"coordinates":[-81.820366,33.494253],"type":"Point"}
+  "bbox": [
+    -81.820366,
+    33.494253,
+    -81.820366,
+    33.494253
+],
+  "geometry": {"coordinates":[-81.82036600000001,33.494253],"type":"Point"}
 }

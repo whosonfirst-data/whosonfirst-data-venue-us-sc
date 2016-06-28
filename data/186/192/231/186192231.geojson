@@ -2,13 +2,14 @@
   "id": 186192231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.89939,34.568107,-80.89939,34.568107",
     "geom:latitude":34.568107,
     "geom:longitude":-80.89939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Argonne Ave",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186192231,
-    "wof:lastmodified":1449052253,
+    "wof:lastmodified":1467082406,
     "wof:name":"Sq Ft",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "textile"
     ]
 },
-  "bbox": [-80.89939,34.568107,-80.89939,34.568107],
+  "bbox": [
+    -80.89939,
+    34.568107,
+    -80.89939,
+    34.568107
+],
   "geometry": {"coordinates":[-80.89939,34.568107],"type":"Point"}
 }

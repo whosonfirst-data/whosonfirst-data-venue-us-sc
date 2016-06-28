@@ -2,13 +2,14 @@
   "id": 370432163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.213929,33.974965,-81.213929,33.974965",
     "geom:latitude":33.974965,
     "geom:longitude":-81.213929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5341 Augusta Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370432163,
-    "wof:lastmodified":1449029010,
+    "wof:lastmodified":1467082296,
     "wof:name":"Mid-State Masonry Contractors",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.213929,33.974965,-81.213929,33.974965],
-  "geometry": {"coordinates":[-81.213929,33.974965],"type":"Point"}
+  "bbox": [
+    -81.213929,
+    33.974965,
+    -81.213929,
+    33.974965
+],
+  "geometry": {"coordinates":[-81.21392899999999,33.974965],"type":"Point"}
 }

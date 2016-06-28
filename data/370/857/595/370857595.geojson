@@ -2,13 +2,14 @@
   "id": 370857595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.757657,33.876594,-79.757657,33.876594",
     "geom:latitude":33.876594,
     "geom:longitude":-79.757657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N Morris St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370857595,
-    "wof:lastmodified":1449031271,
+    "wof:lastmodified":1467082346,
     "wof:name":"Samco Inc Of Lake City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.757657,33.876594,-79.757657,33.876594],
-  "geometry": {"coordinates":[-79.757657,33.876594],"type":"Point"}
+  "bbox": [
+    -79.757657,
+    33.876594,
+    -79.757657,
+    33.876594
+],
+  "geometry": {"coordinates":[-79.75765699999999,33.876594],"type":"Point"}
 }

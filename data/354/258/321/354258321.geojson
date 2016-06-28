@@ -2,13 +2,14 @@
   "id": 354258321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.000847,32.897172,-80.000847,32.897172",
     "geom:latitude":32.897172,
     "geom:longitude":-80.000847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1487 Sumner Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354258321,
-    "wof:lastmodified":1449067276,
+    "wof:lastmodified":1467082445,
     "wof:name":"Fades Barber Shop",
     "wof:parent_id":85830427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.000847,32.897172,-80.000847,32.897172],
-  "geometry": {"coordinates":[-80.000847,32.897172],"type":"Point"}
+  "bbox": [
+    -80.000847,
+    32.897172,
+    -80.000847,
+    32.897172
+],
+  "geometry": {"coordinates":[-80.00084699999999,32.897172],"type":"Point"}
 }

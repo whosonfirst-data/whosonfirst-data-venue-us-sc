@@ -2,13 +2,14 @@
   "id": 185919125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.019421,32.837486,-80.019421,32.837486",
     "geom:latitude":32.837486,
     "geom:longitude":-80.019421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4399 Corporate Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185919125,
-    "wof:lastmodified":1449007835,
+    "wof:lastmodified":1467082201,
     "wof:name":"Asten Johnson",
     "wof:parent_id":85818395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mills"
     ]
 },
-  "bbox": [-80.019421,32.837486,-80.019421,32.837486],
-  "geometry": {"coordinates":[-80.019421,32.837486],"type":"Point"}
+  "bbox": [
+    -80.019421,
+    32.837486,
+    -80.019421,
+    32.837486
+],
+  "geometry": {"coordinates":[-80.01942099999999,32.837486],"type":"Point"}
 }

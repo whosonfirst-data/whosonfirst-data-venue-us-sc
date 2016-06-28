@@ -2,13 +2,14 @@
   "id": 370433545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.430733,34.837747,-82.430733,34.837747",
     "geom:latitude":34.837747,
     "geom:longitude":-82.430733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Easley Bridge Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370433545,
-    "wof:lastmodified":1449029477,
+    "wof:lastmodified":1467082307,
     "wof:name":"Holcombe Upholstery",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-82.430733,34.837747,-82.430733,34.837747],
+  "bbox": [
+    -82.430733,
+    34.837747,
+    -82.430733,
+    34.837747
+],
   "geometry": {"coordinates":[-82.430733,34.837747],"type":"Point"}
 }

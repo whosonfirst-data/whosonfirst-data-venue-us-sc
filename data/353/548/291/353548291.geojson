@@ -2,13 +2,14 @@
   "id": 353548291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.306204,33.386285,-79.306204,33.386285",
     "geom:latitude":33.386285,
     "geom:longitude":-79.306204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2609 Church St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353548291,
-    "wof:lastmodified":1449020007,
+    "wof:lastmodified":1467082245,
     "wof:name":"L T Wilson & Son Electric Co",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.306204,33.386285,-79.306204,33.386285],
-  "geometry": {"coordinates":[-79.306204,33.386285],"type":"Point"}
+  "bbox": [
+    -79.306204,
+    33.386285,
+    -79.306204,
+    33.386285
+],
+  "geometry": {"coordinates":[-79.30620399999999,33.386285],"type":"Point"}
 }

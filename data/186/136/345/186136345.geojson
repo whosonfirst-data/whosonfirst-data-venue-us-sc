@@ -2,13 +2,14 @@
   "id": 186136345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.211337,34.705293,-81.211337,34.705293",
     "geom:latitude":34.705293,
     "geom:longitude":-81.211337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Gadsden St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186136345,
-    "wof:lastmodified":1449052997,
+    "wof:lastmodified":1467082413,
     "wof:name":"Caldwell's Insurance",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.211337,34.705293,-81.211337,34.705293],
+  "bbox": [
+    -81.211337,
+    34.705293,
+    -81.211337,
+    34.705293
+],
   "geometry": {"coordinates":[-81.211337,34.705293],"type":"Point"}
 }

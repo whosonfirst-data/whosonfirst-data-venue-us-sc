@@ -2,13 +2,14 @@
   "id": 186014239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.168489,33.031929,-80.168489,33.031929",
     "geom:latitude":33.031929,
     "geom:longitude":-80.168489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W 9th North St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186014239,
-    "wof:lastmodified":1449051691,
+    "wof:lastmodified":1467082400,
     "wof:name":"Vaskos Quality Builders LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.168489,33.031929,-80.168489,33.031929],
-  "geometry": {"coordinates":[-80.168489,33.031929],"type":"Point"}
+  "bbox": [
+    -80.168489,
+    33.031929,
+    -80.168489,
+    33.031929
+],
+  "geometry": {"coordinates":[-80.16848899999999,33.031929],"type":"Point"}
 }

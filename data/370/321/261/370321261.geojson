@@ -2,13 +2,14 @@
   "id": 370321261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.866872,34.297187,-79.866872,34.297187",
     "geom:latitude":34.297187,
     "geom:longitude":-79.866872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 S Main St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370321261,
-    "wof:lastmodified":1449029143,
+    "wof:lastmodified":1467082299,
     "wof:name":"Barbara's Florist",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.866872,34.297187,-79.866872,34.297187],
+  "bbox": [
+    -79.866872,
+    34.297187,
+    -79.866872,
+    34.297187
+],
   "geometry": {"coordinates":[-79.866872,34.297187],"type":"Point"}
 }

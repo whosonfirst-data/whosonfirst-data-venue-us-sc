@@ -2,13 +2,14 @@
   "id": 370591703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.12645,35.054703,-81.12645,35.054703",
     "geom:latitude":35.054703,
     "geom:longitude":-81.12645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4082 Charlotte Hwy",
     "sg:city":"Lake Wylie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370591703,
-    "wof:lastmodified":1449030884,
+    "wof:lastmodified":1467082338,
     "wof:name":"Jac-Lyn's Gift & Hallmark Shop",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-81.12645,35.054703,-81.12645,35.054703],
-  "geometry": {"coordinates":[-81.12645,35.054703],"type":"Point"}
+  "bbox": [
+    -81.12645,
+    35.054703,
+    -81.12645,
+    35.054703
+],
+  "geometry": {"coordinates":[-81.12645000000001,35.054703],"type":"Point"}
 }

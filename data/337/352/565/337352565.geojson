@@ -2,13 +2,14 @@
   "id": 337352565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.533338,34.209244,-81.533338,34.209244",
     "geom:latitude":34.209244,
     "geom:longitude":-81.533338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Town Sq",
     "sg:city":"Ridge Spring",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":337352565,
-    "wof:lastmodified":1449027449,
+    "wof:lastmodified":1467082284,
     "wof:name":"Ridge Spring Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.533338,34.209244,-81.533338,34.209244],
+  "bbox": [
+    -81.533338,
+    34.209244,
+    -81.533338,
+    34.209244
+],
   "geometry": {"coordinates":[-81.533338,34.209244],"type":"Point"}
 }

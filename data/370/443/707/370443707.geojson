@@ -2,13 +2,14 @@
   "id": 370443707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.211399,33.696674,-80.211399,33.696674",
     "geom:latitude":33.696674,
     "geom:longitude":-80.211399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 W Rigby St",
     "sg:city":"Manning",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370443707,
-    "wof:lastmodified":1449031848,
+    "wof:lastmodified":1467082360,
     "wof:name":"Dennis Jewelers Of Mannings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-80.211399,33.696674,-80.211399,33.696674],
+  "bbox": [
+    -80.211399,
+    33.696674,
+    -80.211399,
+    33.696674
+],
   "geometry": {"coordinates":[-80.211399,33.696674],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186188735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.515377,33.918637,-81.515377,33.918637",
     "geom:latitude":33.918637,
     "geom:longitude":-81.515377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Caughman St",
     "sg:city":"Leesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186188735,
-    "wof:lastmodified":1449051711,
+    "wof:lastmodified":1467082400,
     "wof:name":"Caughman's Locksmith Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-81.515377,33.918637,-81.515377,33.918637],
+  "bbox": [
+    -81.515377,
+    33.918637,
+    -81.515377,
+    33.918637
+],
   "geometry": {"coordinates":[-81.515377,33.918637],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169844523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.212196,33.687648,-80.212196,33.687648",
     "geom:latitude":33.687648,
     "geom:longitude":-80.212196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 S Mill St",
     "sg:city":"Manning",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169844523,
-    "wof:lastmodified":1449034079,
+    "wof:lastmodified":1467082382,
     "wof:name":"Clear Credit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institution"
     ]
 },
-  "bbox": [-80.212196,33.687648,-80.212196,33.687648],
-  "geometry": {"coordinates":[-80.212196,33.687648],"type":"Point"}
+  "bbox": [
+    -80.212196,
+    33.687648,
+    -80.212196,
+    33.687648
+],
+  "geometry": {"coordinates":[-80.21219600000001,33.687648],"type":"Point"}
 }

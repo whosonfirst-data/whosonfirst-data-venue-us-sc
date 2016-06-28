@@ -2,13 +2,14 @@
   "id": 370411681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.941677,32.778302,-79.941677,32.778302",
     "geom:latitude":32.778302,
     "geom:longitude":-79.941677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Beaufain St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370411681,
-    "wof:lastmodified":1449029229,
+    "wof:lastmodified":1467082301,
     "wof:name":"Mansfield Plantation",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-79.941677,32.778302,-79.941677,32.778302],
+  "bbox": [
+    -79.941677,
+    32.778302,
+    -79.941677,
+    32.778302
+],
   "geometry": {"coordinates":[-79.941677,32.778302],"type":"Point"}
 }

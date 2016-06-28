@@ -2,13 +2,14 @@
   "id": 353773767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.147433,33.742515,-81.147433,33.742515",
     "geom:latitude":33.742515,
     "geom:longitude":-81.147433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 Sharon Church Rd",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353773767,
-    "wof:lastmodified":1449018570,
+    "wof:lastmodified":1467082216,
     "wof:name":"Sharon United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.147433,33.742515,-81.147433,33.742515],
-  "geometry": {"coordinates":[-81.147433,33.742515],"type":"Point"}
+  "bbox": [
+    -81.147433,
+    33.742515,
+    -81.147433,
+    33.742515
+],
+  "geometry": {"coordinates":[-81.14743300000001,33.742515],"type":"Point"}
 }

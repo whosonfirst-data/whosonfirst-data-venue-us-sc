@@ -2,13 +2,14 @@
   "id": 370783283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.76195,34.746405,-80.76195,34.746405",
     "geom:latitude":34.746405,
     "geom:longitude":-80.76195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1074 Edgar Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370783283,
-    "wof:lastmodified":1449029173,
+    "wof:lastmodified":1467082300,
     "wof:name":"Sam Robinson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-80.76195,34.746405,-80.76195,34.746405],
+  "bbox": [
+    -80.76195,
+    34.746405,
+    -80.76195,
+    34.746405
+],
   "geometry": {"coordinates":[-80.76195,34.746405],"type":"Point"}
 }

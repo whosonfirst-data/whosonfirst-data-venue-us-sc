@@ -2,13 +2,14 @@
   "id": 337278869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.798911,33.822845,-81.798911,33.822845",
     "geom:latitude":33.822845,
     "geom:longitude":-81.798911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Lee St",
     "sg:city":"Johnston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337278869,
-    "wof:lastmodified":1449027393,
+    "wof:lastmodified":1467082282,
     "wof:name":"Salon 235",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.798911,33.822845,-81.798911,33.822845],
+  "bbox": [
+    -81.798911,
+    33.822845,
+    -81.798911,
+    33.822845
+],
   "geometry": {"coordinates":[-81.798911,33.822845],"type":"Point"}
 }

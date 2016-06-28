@@ -2,13 +2,14 @@
   "id": 370292957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.055346,34.808871,-83.055346,34.808871",
     "geom:latitude":34.808871,
     "geom:longitude":-83.055346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Beatty Creek Ct",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370292957,
-    "wof:lastmodified":1449029374,
+    "wof:lastmodified":1467082304,
     "wof:name":"M & B Electrical Service",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-83.055346,34.808871,-83.055346,34.808871],
+  "bbox": [
+    -83.055346,
+    34.808871,
+    -83.055346,
+    34.808871
+],
   "geometry": {"coordinates":[-83.055346,34.808871],"type":"Point"}
 }

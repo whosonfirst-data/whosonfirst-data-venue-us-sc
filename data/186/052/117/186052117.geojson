@@ -2,13 +2,14 @@
   "id": 186052117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.331043,34.855717,-82.331043,34.855717",
     "geom:latitude":34.855717,
     "geom:longitude":-82.331043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Orchard Park Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186052117,
-    "wof:lastmodified":1449051586,
+    "wof:lastmodified":1467082399,
     "wof:name":"Elliott-Brush & Co",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.331043,34.855717,-82.331043,34.855717],
-  "geometry": {"coordinates":[-82.331043,34.855717],"type":"Point"}
+  "bbox": [
+    -82.331043,
+    34.855717,
+    -82.331043,
+    34.855717
+],
+  "geometry": {"coordinates":[-82.33104299999999,34.855717],"type":"Point"}
 }

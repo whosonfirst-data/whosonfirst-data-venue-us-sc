@@ -2,13 +2,14 @@
   "id": 370510345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.815412,33.476712,-80.815412,33.476712",
     "geom:latitude":33.476712,
     "geom:longitude":-80.815412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1541 Five Chop Rd",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370510345,
-    "wof:lastmodified":1449031119,
+    "wof:lastmodified":1467082343,
     "wof:name":"American Satellite Co",
     "wof:parent_id":85843475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [-80.815412,33.476712,-80.815412,33.476712],
-  "geometry": {"coordinates":[-80.815412,33.476712],"type":"Point"}
+  "bbox": [
+    -80.815412,
+    33.476712,
+    -80.815412,
+    33.476712
+],
+  "geometry": {"coordinates":[-80.81541199999999,33.476712],"type":"Point"}
 }

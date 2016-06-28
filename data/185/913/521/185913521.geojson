@@ -2,13 +2,14 @@
   "id": 185913521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.970007,34.89008,-81.970007,34.89008",
     "geom:latitude":34.89008,
     "geom:longitude":-81.970007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Bradford Crossing Dr",
     "sg:city":"Roebuck",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185913521,
-    "wof:lastmodified":1449007237,
+    "wof:lastmodified":1467082192,
     "wof:name":"Joy Heating & AC Co",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.970007,34.89008,-81.970007,34.89008],
+  "bbox": [
+    -81.970007,
+    34.89008,
+    -81.970007,
+    34.89008
+],
   "geometry": {"coordinates":[-81.970007,34.89008],"type":"Point"}
 }

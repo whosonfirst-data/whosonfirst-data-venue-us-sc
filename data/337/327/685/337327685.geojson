@@ -2,13 +2,14 @@
   "id": 337327685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.763194,32.153531,-80.763194,32.153531",
     "geom:latitude":32.153531,
     "geom:longitude":-80.763194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Office Park Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337327685,
-    "wof:lastmodified":1449026999,
+    "wof:lastmodified":1467082267,
     "wof:name":"Alligator Grille",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.763194,32.153531,-80.763194,32.153531],
+  "bbox": [
+    -80.763194,
+    32.153531,
+    -80.763194,
+    32.153531
+],
   "geometry": {"coordinates":[-80.763194,32.153531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370731109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.652893,34.508079,-82.652893,34.508079",
     "geom:latitude":34.508079,
     "geom:longitude":-82.652893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 W Calhoun St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370731109,
-    "wof:lastmodified":1449032096,
+    "wof:lastmodified":1467082365,
     "wof:name":"Laughridge Building Svc",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.652893,34.508079,-82.652893,34.508079],
-  "geometry": {"coordinates":[-82.652893,34.508079],"type":"Point"}
+  "bbox": [
+    -82.652893,
+    34.508079,
+    -82.652893,
+    34.508079
+],
+  "geometry": {"coordinates":[-82.65289300000001,34.508079],"type":"Point"}
 }

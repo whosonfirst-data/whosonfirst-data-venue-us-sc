@@ -2,13 +2,14 @@
   "id": 353517493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.042957,32.957936,-80.042957,32.957936",
     "geom:latitude":32.957936,
     "geom:longitude":-80.042957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8551 Rivers Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":353517493,
-    "wof:lastmodified":1449019710,
+    "wof:lastmodified":1467082239,
     "wof:name":"Sofa Super Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.042957,32.957936,-80.042957,32.957936],
+  "bbox": [
+    -80.042957,
+    32.957936,
+    -80.042957,
+    32.957936
+],
   "geometry": {"coordinates":[-80.042957,32.957936],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337395779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.316983,33.803423,-80.316983,33.803423",
     "geom:latitude":33.803423,
     "geom:longitude":-80.316983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2670 Old Manning Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":337395779,
-    "wof:lastmodified":1449027626,
+    "wof:lastmodified":1467082291,
     "wof:name":"Hawthorne's Briar Branch Fish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "lake"
     ]
 },
-  "bbox": [-80.316983,33.803423,-80.316983,33.803423],
-  "geometry": {"coordinates":[-80.316983,33.803423],"type":"Point"}
+  "bbox": [
+    -80.316983,
+    33.803423,
+    -80.316983,
+    33.803423
+],
+  "geometry": {"coordinates":[-80.31698299999999,33.803423],"type":"Point"}
 }

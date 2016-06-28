@@ -2,13 +2,14 @@
   "id": 370902061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.836065,33.671441,-79.836065,33.671441",
     "geom:latitude":33.671441,
     "geom:longitude":-79.836065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 N Longstreet St",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370902061,
-    "wof:lastmodified":1449031605,
+    "wof:lastmodified":1467082354,
     "wof:name":"Georgetown Kraft Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.836065,33.671441,-79.836065,33.671441],
+  "bbox": [
+    -79.836065,
+    33.671441,
+    -79.836065,
+    33.671441
+],
   "geometry": {"coordinates":[-79.836065,33.671441],"type":"Point"}
 }

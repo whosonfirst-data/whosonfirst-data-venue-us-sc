@@ -2,13 +2,14 @@
   "id": 186039827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.774531,32.171445,-80.774531,32.171445",
     "geom:latitude":32.171445,
     "geom:longitude":-80.774531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Bay Pines Dr",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186039827,
-    "wof:lastmodified":1449052680,
+    "wof:lastmodified":1467082410,
     "wof:name":"Facenda Landscaping",
     "wof:parent_id":85850409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.774531,32.171445,-80.774531,32.171445],
+  "bbox": [
+    -80.774531,
+    32.171445,
+    -80.774531,
+    32.171445
+],
   "geometry": {"coordinates":[-80.774531,32.171445],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354015389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.211051,34.001768,-81.211051,34.001768",
     "geom:latitude":34.001768,
     "geom:longitude":-81.211051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5347 Sunset Blvd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354015389,
-    "wof:lastmodified":1449066319,
+    "wof:lastmodified":1467082423,
     "wof:name":"Little Gym Of Lexington",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gymnastic"
     ]
 },
-  "bbox": [-81.211051,34.001768,-81.211051,34.001768],
+  "bbox": [
+    -81.211051,
+    34.001768,
+    -81.211051,
+    34.001768
+],
   "geometry": {"coordinates":[-81.211051,34.001768],"type":"Point"}
 }

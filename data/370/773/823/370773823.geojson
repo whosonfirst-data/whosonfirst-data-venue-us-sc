@@ -2,13 +2,14 @@
   "id": 370773823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.970939,34.099343,-80.970939,34.099343",
     "geom:latitude":34.099343,
     "geom:longitude":-80.970939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Powell Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370773823,
-    "wof:lastmodified":1449029522,
+    "wof:lastmodified":1467082308,
     "wof:name":"Northwoods Golf Club",
     "wof:parent_id":85850805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-80.970939,34.099343,-80.970939,34.099343],
+  "bbox": [
+    -80.970939,
+    34.099343,
+    -80.970939,
+    34.099343
+],
   "geometry": {"coordinates":[-80.970939,34.099343],"type":"Point"}
 }

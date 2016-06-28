@@ -2,13 +2,14 @@
   "id": 185984105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.246256,34.172754,-81.246256,34.172754",
     "geom:latitude":34.172754,
     "geom:longitude":-81.246256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Mrs Macks Rd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185984105,
-    "wof:lastmodified":1449007515,
+    "wof:lastmodified":1467082196,
     "wof:name":"Macks Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.246256,34.172754,-81.246256,34.172754],
+  "bbox": [
+    -81.246256,
+    34.172754,
+    -81.246256,
+    34.172754
+],
   "geometry": {"coordinates":[-81.246256,34.172754],"type":"Point"}
 }

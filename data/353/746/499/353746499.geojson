@@ -2,13 +2,14 @@
   "id": 353746499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.649848,34.508701,-82.649848,34.508701",
     "geom:latitude":34.508701,
     "geom:longitude":-82.649848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 E Calhoun St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353746499,
-    "wof:lastmodified":1449018231,
+    "wof:lastmodified":1467082209,
     "wof:name":"Cox Oil Co",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-82.649848,34.508701,-82.649848,34.508701],
-  "geometry": {"coordinates":[-82.649848,34.508701],"type":"Point"}
+  "bbox": [
+    -82.649848,
+    34.508701,
+    -82.649848,
+    34.508701
+],
+  "geometry": {"coordinates":[-82.64984800000001,34.508701],"type":"Point"}
 }

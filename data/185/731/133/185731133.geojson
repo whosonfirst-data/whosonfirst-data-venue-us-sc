@@ -2,13 +2,14 @@
   "id": 185731133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.954951,34.019278,-80.954951,34.019278",
     "geom:latitude":34.019278,
     "geom:longitude":-80.954951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Alexander Cir",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185731133,
-    "wof:lastmodified":1449008042,
+    "wof:lastmodified":1467082204,
     "wof:name":"Canute Construction Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "home"
     ]
 },
-  "bbox": [-80.954951,34.019278,-80.954951,34.019278],
-  "geometry": {"coordinates":[-80.954951,34.019278],"type":"Point"}
+  "bbox": [
+    -80.954951,
+    34.019278,
+    -80.954951,
+    34.019278
+],
+  "geometry": {"coordinates":[-80.95495099999999,34.019278],"type":"Point"}
 }

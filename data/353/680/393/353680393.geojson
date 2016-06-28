@@ -2,13 +2,14 @@
   "id": 353680393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.029009,34.051508,-81.029009,34.051508",
     "geom:latitude":34.051508,
     "geom:longitude":-81.029009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5118 Fairfield Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353680393,
-    "wof:lastmodified":1449020032,
+    "wof:lastmodified":1467082246,
     "wof:name":"Nationwide Money Svc",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-81.029009,34.051508,-81.029009,34.051508],
+  "bbox": [
+    -81.029009,
+    34.051508,
+    -81.029009,
+    34.051508
+],
   "geometry": {"coordinates":[-81.029009,34.051508],"type":"Point"}
 }

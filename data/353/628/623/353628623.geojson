@@ -2,13 +2,14 @@
   "id": 353628623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.396195,34.850755,-82.396195,34.850755",
     "geom:latitude":34.850755,
     "geom:longitude":-82.396195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E Coffee St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353628623,
-    "wof:lastmodified":1449020342,
+    "wof:lastmodified":1467082252,
     "wof:name":"Credit Plus",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-82.396195,34.850755,-82.396195,34.850755],
-  "geometry": {"coordinates":[-82.396195,34.850755],"type":"Point"}
+  "bbox": [
+    -82.396195,
+    34.850755,
+    -82.396195,
+    34.850755
+],
+  "geometry": {"coordinates":[-82.39619500000001,34.850755],"type":"Point"}
 }

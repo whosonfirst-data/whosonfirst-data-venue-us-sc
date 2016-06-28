@@ -2,13 +2,14 @@
   "id": 186154017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.137836,34.901614,-82.137836,34.901614",
     "geom:latitude":34.901614,
     "geom:longitude":-82.137836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Victor Hill Rd",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186154017,
-    "wof:lastmodified":1449053060,
+    "wof:lastmodified":1467082413,
     "wof:name":"Shaw Energy Delivery Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "power"
     ]
 },
-  "bbox": [-82.137836,34.901614,-82.137836,34.901614],
-  "geometry": {"coordinates":[-82.137836,34.901614],"type":"Point"}
+  "bbox": [
+    -82.137836,
+    34.901614,
+    -82.137836,
+    34.901614
+],
+  "geometry": {"coordinates":[-82.13783599999999,34.901614],"type":"Point"}
 }

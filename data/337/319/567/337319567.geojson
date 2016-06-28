@@ -2,13 +2,14 @@
   "id": 337319567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.741488,34.154878,-79.741488,34.154878",
     "geom:latitude":34.154878,
     "geom:longitude":-79.741488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Pamplico Hwy",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":337319567,
-    "wof:lastmodified":1449027266,
+    "wof:lastmodified":1467082277,
     "wof:name":"Collins Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "plate"
     ]
 },
-  "bbox": [-79.741488,34.154878,-79.741488,34.154878],
+  "bbox": [
+    -79.741488,
+    34.154878,
+    -79.741488,
+    34.154878
+],
   "geometry": {"coordinates":[-79.741488,34.154878],"type":"Point"}
 }

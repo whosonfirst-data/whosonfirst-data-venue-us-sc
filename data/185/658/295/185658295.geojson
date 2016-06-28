@@ -2,13 +2,14 @@
   "id": 185658295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.368781,34.406259,-79.368781,34.406259",
     "geom:latitude":34.406259,
     "geom:longitude":-79.368781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Patriot St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185658295,
-    "wof:lastmodified":1449006565,
+    "wof:lastmodified":1467082181,
     "wof:name":"South Dillon Elementary School",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.368781,34.406259,-79.368781,34.406259],
+  "bbox": [
+    -79.368781,
+    34.406259,
+    -79.368781,
+    34.406259
+],
   "geometry": {"coordinates":[-79.368781,34.406259],"type":"Point"}
 }

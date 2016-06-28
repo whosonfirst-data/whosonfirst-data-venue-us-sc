@@ -2,13 +2,14 @@
   "id": 370287881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.321854,35.034299,-81.321854,35.034299",
     "geom:latitude":35.034299,
     "geom:longitude":-81.321854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 S Beersheba Rd",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370287881,
-    "wof:lastmodified":1449029286,
+    "wof:lastmodified":1467082302,
     "wof:name":"Beersheba Presbyterian Church",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.321854,35.034299,-81.321854,35.034299],
+  "bbox": [
+    -81.321854,
+    35.034299,
+    -81.321854,
+    35.034299
+],
   "geometry": {"coordinates":[-81.321854,35.034299],"type":"Point"}
 }

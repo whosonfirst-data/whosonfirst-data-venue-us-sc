@@ -2,13 +2,14 @@
   "id": 186204319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.293539,34.887217,-82.293539,34.887217",
     "geom:latitude":34.887217,
     "geom:longitude":-82.293539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Bushberry Way",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186204319,
-    "wof:lastmodified":1449053098,
+    "wof:lastmodified":1467082413,
     "wof:name":"Creative Home Concepts LLC",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.293539,34.887217,-82.293539,34.887217],
+  "bbox": [
+    -82.293539,
+    34.887217,
+    -82.293539,
+    34.887217
+],
   "geometry": {"coordinates":[-82.293539,34.887217],"type":"Point"}
 }

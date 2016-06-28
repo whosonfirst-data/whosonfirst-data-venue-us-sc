@@ -2,13 +2,14 @@
   "id": 370942927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.979935,33.991779,-80.979935,33.991779",
     "geom:latitude":33.991779,
     "geom:longitude":-80.979935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 Blossom St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370942927,
-    "wof:lastmodified":1449030643,
+    "wof:lastmodified":1467082332,
     "wof:name":"Center For Carolina Living",
     "wof:parent_id":85876829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "publisher"
     ]
 },
-  "bbox": [-80.979935,33.991779,-80.979935,33.991779],
+  "bbox": [
+    -80.979935,
+    33.991779,
+    -80.979935,
+    33.991779
+],
   "geometry": {"coordinates":[-80.979935,33.991779],"type":"Point"}
 }

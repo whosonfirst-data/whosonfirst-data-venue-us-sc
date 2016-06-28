@@ -2,13 +2,14 @@
   "id": 370386905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.042809,35.021141,-81.042809,35.021141",
     "geom:latitude":35.021141,
     "geom:longitude":-81.042809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4490 Boatshore Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370386905,
-    "wof:lastmodified":1449030858,
+    "wof:lastmodified":1467082337,
     "wof:name":"Ebenezer Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-81.042809,35.021141,-81.042809,35.021141],
-  "geometry": {"coordinates":[-81.042809,35.021141],"type":"Point"}
+  "bbox": [
+    -81.042809,
+    35.021141,
+    -81.042809,
+    35.021141
+],
+  "geometry": {"coordinates":[-81.04280900000001,35.021141],"type":"Point"}
 }

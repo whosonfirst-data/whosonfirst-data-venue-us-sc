@@ -2,13 +2,14 @@
   "id": 353595865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.745091,32.379557,-80.745091,32.379557",
     "geom:latitude":32.379557,
     "geom:longitude":-80.745091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4034 Shell Point Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353595865,
-    "wof:lastmodified":1449020560,
+    "wof:lastmodified":1467082257,
     "wof:name":"Thick Water Clam Farm",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.745091,32.379557,-80.745091,32.379557],
+  "bbox": [
+    -80.745091,
+    32.379557,
+    -80.745091,
+    32.379557
+],
   "geometry": {"coordinates":[-80.745091,32.379557],"type":"Point"}
 }

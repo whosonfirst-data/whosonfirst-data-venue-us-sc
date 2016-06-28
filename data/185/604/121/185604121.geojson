@@ -2,13 +2,14 @@
   "id": 185604121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.823899,34.150984,-79.823899,34.150984",
     "geom:latitude":34.150984,
     "geom:longitude":-79.823899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2822 Alligator Rd",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185604121,
-    "wof:lastmodified":1449008038,
+    "wof:lastmodified":1467082204,
     "wof:name":"A & F Kitchens",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.823899,34.150984,-79.823899,34.150984],
+  "bbox": [
+    -79.823899,
+    34.150984,
+    -79.823899,
+    34.150984
+],
   "geometry": {"coordinates":[-79.823899,34.150984],"type":"Point"}
 }

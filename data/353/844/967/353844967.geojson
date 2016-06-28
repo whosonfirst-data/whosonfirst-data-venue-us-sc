@@ -2,13 +2,14 @@
   "id": 353844967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.969455,34.168602,-81.969455,34.168602",
     "geom:latitude":34.168602,
     "geom:longitude":-81.969455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5721 Ninety Six Hwy",
     "sg:city":"Ninety Six",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353844967,
-    "wof:lastmodified":1449019337,
+    "wof:lastmodified":1467082232,
     "wof:name":"Just One More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.969455,34.168602,-81.969455,34.168602],
+  "bbox": [
+    -81.969455,
+    34.168602,
+    -81.969455,
+    34.168602
+],
   "geometry": {"coordinates":[-81.969455,34.168602],"type":"Point"}
 }

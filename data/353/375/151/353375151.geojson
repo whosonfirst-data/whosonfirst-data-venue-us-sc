@@ -2,13 +2,14 @@
   "id": 353375151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.887303,33.685024,-78.887303,33.685024",
     "geom:latitude":33.685024,
     "geom:longitude":-78.887303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Flagg St",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353375151,
-    "wof:lastmodified":1449018334,
+    "wof:lastmodified":1467082211,
     "wof:name":"Calypso Motor Inn",
     "wof:parent_id":85859339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.887303,33.685024,-78.887303,33.685024],
+  "bbox": [
+    -78.887303,
+    33.685024,
+    -78.887303,
+    33.685024
+],
   "geometry": {"coordinates":[-78.887303,33.685024],"type":"Point"}
 }

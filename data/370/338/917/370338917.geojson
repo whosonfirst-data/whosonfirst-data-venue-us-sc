@@ -2,13 +2,14 @@
   "id": 370338917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.925256,33.402748,-79.925256,33.402748",
     "geom:latitude":33.402748,
     "geom:longitude":-79.925256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Cedar Dr",
     "sg:city":"St Stephen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370338917,
-    "wof:lastmodified":1449030273,
+    "wof:lastmodified":1467082324,
     "wof:name":"Dial Murray Funeral Home Inc",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-79.925256,33.402748,-79.925256,33.402748],
+  "bbox": [
+    -79.925256,
+    33.402748,
+    -79.925256,
+    33.402748
+],
   "geometry": {"coordinates":[-79.925256,33.402748],"type":"Point"}
 }

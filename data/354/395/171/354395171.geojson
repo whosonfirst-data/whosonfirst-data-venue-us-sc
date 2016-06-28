@@ -2,13 +2,14 @@
   "id": 354395171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.202819,33.003166,-80.202819,33.003166",
     "geom:latitude":33.003166,
     "geom:longitude":-80.202819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Pinecrest Blvd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354395171,
-    "wof:lastmodified":1449067406,
+    "wof:lastmodified":1467082448,
     "wof:name":"Archer Music Svc",
     "wof:parent_id":85851889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.202819,33.003166,-80.202819,33.003166],
-  "geometry": {"coordinates":[-80.202819,33.003166],"type":"Point"}
+  "bbox": [
+    -80.202819,
+    33.003166,
+    -80.202819,
+    33.003166
+],
+  "geometry": {"coordinates":[-80.20281900000001,33.003166],"type":"Point"}
 }

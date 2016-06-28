@@ -2,13 +2,14 @@
   "id": 354398093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.072262,32.845397,-80.072262,32.845397",
     "geom:latitude":32.845397,
     "geom:longitude":-80.072262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Shadowmoss Pkwy",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354398093,
-    "wof:lastmodified":1449066059,
+    "wof:lastmodified":1467082417,
     "wof:name":"Laurel Business Forms",
     "wof:parent_id":85820043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.072262,32.845397,-80.072262,32.845397],
-  "geometry": {"coordinates":[-80.072262,32.845397],"type":"Point"}
+  "bbox": [
+    -80.072262,
+    32.845397,
+    -80.072262,
+    32.845397
+],
+  "geometry": {"coordinates":[-80.07226199999999,32.845397],"type":"Point"}
 }

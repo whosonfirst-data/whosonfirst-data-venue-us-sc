@@ -2,13 +2,14 @@
   "id": 353505057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.95392,32.781219,-79.95392,32.781219",
     "geom:latitude":32.781219,
     "geom:longitude":-79.95392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Calhoun St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353505057,
-    "wof:lastmodified":1449020402,
+    "wof:lastmodified":1467082253,
     "wof:name":"Adult Primary Care Clinic",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.95392,32.781219,-79.95392,32.781219],
+  "bbox": [
+    -79.95392,
+    32.781219,
+    -79.95392,
+    32.781219
+],
   "geometry": {"coordinates":[-79.95392,32.781219],"type":"Point"}
 }

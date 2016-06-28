@@ -2,13 +2,14 @@
   "id": 370504085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.697346,34.639219,-79.697346,34.639219",
     "geom:latitude":34.639219,
     "geom:longitude":-79.697346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 Oakwood St",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370504085,
-    "wof:lastmodified":1449029683,
+    "wof:lastmodified":1467082311,
     "wof:name":"Northside Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-79.697346,34.639219,-79.697346,34.639219],
+  "bbox": [
+    -79.697346,
+    34.639219,
+    -79.697346,
+    34.639219
+],
   "geometry": {"coordinates":[-79.697346,34.639219],"type":"Point"}
 }

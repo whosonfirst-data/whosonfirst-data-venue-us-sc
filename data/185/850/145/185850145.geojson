@@ -2,13 +2,14 @@
   "id": 185850145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.250479,33.984454,-81.250479,33.984454",
     "geom:latitude":33.984454,
     "geom:longitude":-81.250479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 W Main St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":185850145,
-    "wof:lastmodified":1449007538,
+    "wof:lastmodified":1467082197,
     "wof:name":"Lexington Medical Ctr",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.250479,33.984454,-81.250479,33.984454],
+  "bbox": [
+    -81.250479,
+    33.984454,
+    -81.250479,
+    33.984454
+],
   "geometry": {"coordinates":[-81.250479,33.984454],"type":"Point"}
 }

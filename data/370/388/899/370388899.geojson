@@ -2,13 +2,14 @@
   "id": 370388899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.935098,32.745699,-79.935098,32.745699",
     "geom:latitude":32.745699,
     "geom:longitude":-79.935098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"743 Shell Sand Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370388899,
-    "wof:lastmodified":1449029196,
+    "wof:lastmodified":1467082301,
     "wof:name":"Printronix Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-79.935098,32.745699,-79.935098,32.745699],
+  "bbox": [
+    -79.935098,
+    32.745699,
+    -79.935098,
+    32.745699
+],
   "geometry": {"coordinates":[-79.935098,32.745699],"type":"Point"}
 }

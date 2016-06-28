@@ -2,13 +2,14 @@
   "id": 354270379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.706552,34.882311,-82.706552,34.882311",
     "geom:latitude":34.882311,
     "geom:longitude":-82.706552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Pendleton St",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354270379,
-    "wof:lastmodified":1449066242,
+    "wof:lastmodified":1467082421,
     "wof:name":"Pickens Mayor's Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-82.706552,34.882311,-82.706552,34.882311],
+  "bbox": [
+    -82.706552,
+    34.882311,
+    -82.706552,
+    34.882311
+],
   "geometry": {"coordinates":[-82.706552,34.882311],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337398369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.034591,34.740553,-82.034591,34.740553",
     "geom:latitude":34.740553,
     "geom:longitude":-82.034591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 E Georgia St",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337398369,
-    "wof:lastmodified":1449027004,
+    "wof:lastmodified":1467082267,
     "wof:name":"Center For Neurology Care",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.034591,34.740553,-82.034591,34.740553],
-  "geometry": {"coordinates":[-82.034591,34.740553],"type":"Point"}
+  "bbox": [
+    -82.034591,
+    34.740553,
+    -82.034591,
+    34.740553
+],
+  "geometry": {"coordinates":[-82.03459100000001,34.740553],"type":"Point"}
 }

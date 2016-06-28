@@ -2,13 +2,14 @@
   "id": 370311121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.365045,34.844699,-82.365045,34.844699",
     "geom:latitude":34.844699,
     "geom:longitude":-82.365045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Laurens Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370311121,
-    "wof:lastmodified":1449029885,
+    "wof:lastmodified":1467082316,
     "wof:name":"Heaton Insurance Agency Inc",
     "wof:parent_id":85836955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.365045,34.844699,-82.365045,34.844699],
-  "geometry": {"coordinates":[-82.365045,34.844699],"type":"Point"}
+  "bbox": [
+    -82.365045,
+    34.844699,
+    -82.365045,
+    34.844699
+],
+  "geometry": {"coordinates":[-82.36504499999999,34.844699],"type":"Point"}
 }

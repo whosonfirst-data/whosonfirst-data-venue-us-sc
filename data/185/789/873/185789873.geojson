@@ -2,13 +2,14 @@
   "id": 185789873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.183117,32.986891,-80.183117,32.986891",
     "geom:latitude":32.986891,
     "geom:longitude":-80.183117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Mikel Ct",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185789873,
-    "wof:lastmodified":1449007340,
+    "wof:lastmodified":1467082193,
     "wof:name":"Moh Connect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-80.183117,32.986891,-80.183117,32.986891],
+  "bbox": [
+    -80.183117,
+    32.986891,
+    -80.183117,
+    32.986891
+],
   "geometry": {"coordinates":[-80.183117,32.986891],"type":"Point"}
 }

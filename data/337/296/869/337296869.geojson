@@ -2,13 +2,14 @@
   "id": 337296869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.992602,33.198001,-79.992602,33.198001",
     "geom:latitude":33.198001,
     "geom:longitude":-79.992602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N Hwy 52",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337296869,
-    "wof:lastmodified":1449027595,
+    "wof:lastmodified":1467082290,
     "wof:name":"Jolin Enterprises",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.992602,33.198001,-79.992602,33.198001],
-  "geometry": {"coordinates":[-79.992602,33.198001],"type":"Point"}
+  "bbox": [
+    -79.992602,
+    33.198001,
+    -79.992602,
+    33.198001
+],
+  "geometry": {"coordinates":[-79.99260200000001,33.198001],"type":"Point"}
 }

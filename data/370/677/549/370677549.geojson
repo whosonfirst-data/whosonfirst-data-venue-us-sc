@@ -2,13 +2,14 @@
   "id": 370677549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.550572,34.809404,-82.550572,34.809404",
     "geom:latitude":34.809404,
     "geom:longitude":-82.550572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Rock Springs Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370677549,
-    "wof:lastmodified":1449030305,
+    "wof:lastmodified":1467082325,
     "wof:name":"Eaton Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.550572,34.809404,-82.550572,34.809404],
+  "bbox": [
+    -82.550572,
+    34.809404,
+    -82.550572,
+    34.809404
+],
   "geometry": {"coordinates":[-82.550572,34.809404],"type":"Point"}
 }

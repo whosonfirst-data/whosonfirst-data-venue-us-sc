@@ -2,13 +2,14 @@
   "id": 370764719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.0235,32.900904,-80.0235,32.900904",
     "geom:latitude":32.900904,
     "geom:longitude":-80.0235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5900 Core Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370764719,
-    "wof:lastmodified":1449032310,
+    "wof:lastmodified":1467082370,
     "wof:name":"Bank Of America",
     "wof:parent_id":85825199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.0235,32.900904,-80.0235,32.900904],
+  "bbox": [
+    -80.0235,
+    32.900904,
+    -80.0235,
+    32.900904
+],
   "geometry": {"coordinates":[-80.0235,32.900904],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185843635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.427226,34.860529,-82.427226,34.860529",
     "geom:latitude":34.860529,
     "geom:longitude":-82.427226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Woodside Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185843635,
-    "wof:lastmodified":1449006748,
+    "wof:lastmodified":1467082184,
     "wof:name":"N Tha KUT",
     "wof:parent_id":85838763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.427226,34.860529,-82.427226,34.860529],
+  "bbox": [
+    -82.427226,
+    34.860529,
+    -82.427226,
+    34.860529
+],
   "geometry": {"coordinates":[-82.427226,34.860529],"type":"Point"}
 }

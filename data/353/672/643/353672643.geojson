@@ -2,13 +2,14 @@
   "id": 353672643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.557567,33.198147,-80.557567,33.198147",
     "geom:latitude":33.198147,
     "geom:longitude":-80.557567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"967 US Hwy 15",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353672643,
-    "wof:lastmodified":1449018424,
+    "wof:lastmodified":1467082213,
     "wof:name":"Fralix Used Parts & Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "car"
     ]
 },
-  "bbox": [-80.557567,33.198147,-80.557567,33.198147],
-  "geometry": {"coordinates":[-80.557567,33.198147],"type":"Point"}
+  "bbox": [
+    -80.557567,
+    33.198147,
+    -80.557567,
+    33.198147
+],
+  "geometry": {"coordinates":[-80.55756700000001,33.198147],"type":"Point"}
 }

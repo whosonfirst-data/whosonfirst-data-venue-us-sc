@@ -2,13 +2,14 @@
   "id": 370211127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.088586,33.013757,-80.088586,33.013757",
     "geom:latitude":33.013757,
     "geom:longitude":-80.088586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"548 College Park Rd",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370211127,
-    "wof:lastmodified":1449029931,
+    "wof:lastmodified":1467082317,
     "wof:name":"Lowcountry Ace Hardware",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.088586,33.013757,-80.088586,33.013757],
-  "geometry": {"coordinates":[-80.088586,33.013757],"type":"Point"}
+  "bbox": [
+    -80.088586,
+    33.013757,
+    -80.088586,
+    33.013757
+],
+  "geometry": {"coordinates":[-80.08858600000001,33.013757],"type":"Point"}
 }

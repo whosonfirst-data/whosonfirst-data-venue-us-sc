@@ -2,13 +2,14 @@
   "id": 354114589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.015366,35.049233,-81.015366,35.049233",
     "geom:latitude":35.049233,
     "geom:longitude":-81.015366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Sugar Maple Dr",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354114589,
-    "wof:lastmodified":1449066633,
+    "wof:lastmodified":1467082430,
     "wof:name":"Carolina Leak Locators",
     "wof:parent_id":85810107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.015366,35.049233,-81.015366,35.049233],
+  "bbox": [
+    -81.015366,
+    35.049233,
+    -81.015366,
+    35.049233
+],
   "geometry": {"coordinates":[-81.015366,35.049233],"type":"Point"}
 }

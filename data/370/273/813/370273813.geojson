@@ -2,13 +2,14 @@
   "id": 370273813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.255993,35.063425,-81.255993,35.063425",
     "geom:latitude":35.063425,
     "geom:longitude":-81.255993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2626 Smith Rd",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370273813,
-    "wof:lastmodified":1449030837,
+    "wof:lastmodified":1467082337,
     "wof:name":"Anderson Design",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-81.255993,35.063425,-81.255993,35.063425],
+  "bbox": [
+    -81.255993,
+    35.063425,
+    -81.255993,
+    35.063425
+],
   "geometry": {"coordinates":[-81.255993,35.063425],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370226029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.934266,32.78293,-79.934266,32.78293",
     "geom:latitude":32.78293,
     "geom:longitude":-79.934266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 King St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":370226029,
-    "wof:lastmodified":1449031547,
+    "wof:lastmodified":1467082353,
     "wof:name":"Half Moon Outfitters Inc",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "camping"
     ]
 },
-  "bbox": [-79.934266,32.78293,-79.934266,32.78293],
-  "geometry": {"coordinates":[-79.934266,32.78293],"type":"Point"}
+  "bbox": [
+    -79.934266,
+    32.78293,
+    -79.934266,
+    32.78293
+],
+  "geometry": {"coordinates":[-79.93426599999999,32.78293],"type":"Point"}
 }

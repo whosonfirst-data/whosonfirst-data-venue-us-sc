@@ -2,13 +2,14 @@
   "id": 186276859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.953445,33.822003,-78.953445,33.822003",
     "geom:latitude":33.822003,
     "geom:longitude":-78.953445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2376 State Hwy 90 W",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186276859,
-    "wof:lastmodified":1449050371,
+    "wof:lastmodified":1467082390,
     "wof:name":"Salem Methodist Church",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.953445,33.822003,-78.953445,33.822003],
+  "bbox": [
+    -78.953445,
+    33.822003,
+    -78.953445,
+    33.822003
+],
   "geometry": {"coordinates":[-78.953445,33.822003],"type":"Point"}
 }

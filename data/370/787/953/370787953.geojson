@@ -2,13 +2,14 @@
   "id": 370787953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.081077,34.114675,-80.081077,34.114675",
     "geom:latitude":34.114675,
     "geom:longitude":-80.081077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 E Lynches River Rd",
     "sg:city":"Lamar",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370787953,
-    "wof:lastmodified":1449030629,
+    "wof:lastmodified":1467082332,
     "wof:name":"Robert & Kelly Windham Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-80.081077,34.114675,-80.081077,34.114675],
-  "geometry": {"coordinates":[-80.081077,34.114675],"type":"Point"}
+  "bbox": [
+    -80.081077,
+    34.114675,
+    -80.081077,
+    34.114675
+],
+  "geometry": {"coordinates":[-80.08107699999999,34.114675],"type":"Point"}
 }

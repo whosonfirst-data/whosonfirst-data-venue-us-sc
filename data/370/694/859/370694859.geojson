@@ -2,13 +2,14 @@
   "id": 370694859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.02515,33.798158,-79.02515,33.798158",
     "geom:latitude":33.798158,
     "geom:longitude":-79.02515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Truman Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370694859,
-    "wof:lastmodified":1449030060,
+    "wof:lastmodified":1467082320,
     "wof:name":"Franklins Painting",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.02515,33.798158,-79.02515,33.798158],
+  "bbox": [
+    -79.02515,
+    33.798158,
+    -79.02515,
+    33.798158
+],
   "geometry": {"coordinates":[-79.02515,33.798158],"type":"Point"}
 }

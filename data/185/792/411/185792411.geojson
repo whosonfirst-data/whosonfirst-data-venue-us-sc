@@ -2,13 +2,14 @@
   "id": 185792411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.365705,33.938891,-80.365705,33.938891",
     "geom:latitude":33.938891,
     "geom:longitude":-80.365705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Middle St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185792411,
-    "wof:lastmodified":1449006960,
+    "wof:lastmodified":1467082188,
     "wof:name":"New Hope Kindergarten",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-80.365705,33.938891,-80.365705,33.938891],
-  "geometry": {"coordinates":[-80.365705,33.938891],"type":"Point"}
+  "bbox": [
+    -80.365705,
+    33.938891,
+    -80.365705,
+    33.938891
+],
+  "geometry": {"coordinates":[-80.36570500000001,33.938891],"type":"Point"}
 }

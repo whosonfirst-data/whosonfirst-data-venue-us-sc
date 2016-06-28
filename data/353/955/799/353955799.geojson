@@ -2,13 +2,14 @@
   "id": 353955799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.028402,34.014094,-81.028402,34.014094",
     "geom:latitude":34.014094,
     "geom:longitude":-81.028402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 Barnwell St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353955799,
-    "wof:lastmodified":1449020014,
+    "wof:lastmodified":1467082246,
     "wof:name":"Carter Law Firm",
     "wof:parent_id":85805491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.028402,34.014094,-81.028402,34.014094],
+  "bbox": [
+    -81.028402,
+    34.014094,
+    -81.028402,
+    34.014094
+],
   "geometry": {"coordinates":[-81.028402,34.014094],"type":"Point"}
 }

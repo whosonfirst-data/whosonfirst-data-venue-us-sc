@@ -2,13 +2,14 @@
   "id": 370286521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.884421,33.693327,-78.884421,33.693327",
     "geom:latitude":33.693327,
     "geom:longitude":-78.884421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 US Hwy 501",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370286521,
-    "wof:lastmodified":1449029988,
+    "wof:lastmodified":1467082318,
     "wof:name":"Sports Corner",
     "wof:parent_id":85816109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.884421,33.693327,-78.884421,33.693327],
+  "bbox": [
+    -78.884421,
+    33.693327,
+    -78.884421,
+    33.693327
+],
   "geometry": {"coordinates":[-78.884421,33.693327],"type":"Point"}
 }

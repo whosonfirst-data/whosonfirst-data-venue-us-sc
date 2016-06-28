@@ -2,13 +2,14 @@
   "id": 185929473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.567893,34.720486,-82.567893,34.720486",
     "geom:latitude":34.720486,
     "geom:longitude":-82.567893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Hall Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185929473,
-    "wof:lastmodified":1449007223,
+    "wof:lastmodified":1467082192,
     "wof:name":"Edwards Heating/Air",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.567893,34.720486,-82.567893,34.720486],
+  "bbox": [
+    -82.567893,
+    34.720486,
+    -82.567893,
+    34.720486
+],
   "geometry": {"coordinates":[-82.567893,34.720486],"type":"Point"}
 }

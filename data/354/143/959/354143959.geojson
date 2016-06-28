@@ -2,13 +2,14 @@
   "id": 354143959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.255835,34.858696,-82.255835,34.858696",
     "geom:latitude":34.858696,
     "geom:longitude":-82.255835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Boland Ct",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354143959,
-    "wof:lastmodified":1449067359,
+    "wof:lastmodified":1467082447,
     "wof:name":"Long Term Care",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "home"
     ]
 },
-  "bbox": [-82.255835,34.858696,-82.255835,34.858696],
+  "bbox": [
+    -82.255835,
+    34.858696,
+    -82.255835,
+    34.858696
+],
   "geometry": {"coordinates":[-82.255835,34.858696],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353587961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.786177,34.716946,-80.786177,34.716946",
     "geom:latitude":34.716946,
     "geom:longitude":-80.786177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 W Meeting St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353587961,
-    "wof:lastmodified":1449019137,
+    "wof:lastmodified":1467082227,
     "wof:name":"St Catherine Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.786177,34.716946,-80.786177,34.716946],
+  "bbox": [
+    -80.786177,
+    34.716946,
+    -80.786177,
+    34.716946
+],
   "geometry": {"coordinates":[-80.786177,34.716946],"type":"Point"}
 }

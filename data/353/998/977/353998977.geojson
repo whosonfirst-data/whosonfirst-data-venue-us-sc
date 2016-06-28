@@ -2,13 +2,14 @@
   "id": 353998977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.220377,32.993901,-80.220377,32.993901",
     "geom:latitude":32.993901,
     "geom:longitude":-80.220377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Boonehill Rd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353998977,
-    "wof:lastmodified":1449019104,
+    "wof:lastmodified":1467082227,
     "wof:name":"Boone West Apartments",
     "wof:parent_id":85851889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.220377,32.993901,-80.220377,32.993901],
+  "bbox": [
+    -80.220377,
+    32.993901,
+    -80.220377,
+    32.993901
+],
   "geometry": {"coordinates":[-80.220377,32.993901],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353806827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.915244,34.202842,-79.915244,34.202842",
     "geom:latitude":34.202842,
     "geom:longitude":-79.915244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3229 Timmonsville Hwy",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353806827,
-    "wof:lastmodified":1449018248,
+    "wof:lastmodified":1467082210,
     "wof:name":"I-20 Baptist Church",
     "wof:parent_id":85807743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.915244,34.202842,-79.915244,34.202842],
+  "bbox": [
+    -79.915244,
+    34.202842,
+    -79.915244,
+    34.202842
+],
   "geometry": {"coordinates":[-79.915244,34.202842],"type":"Point"}
 }

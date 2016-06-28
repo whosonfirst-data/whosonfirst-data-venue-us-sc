@@ -2,13 +2,14 @@
   "id": 370572575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.992503,33.773932,-78.992503,33.773932",
     "geom:latitude":33.773932,
     "geom:longitude":-78.992503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Timberline Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370572575,
-    "wof:lastmodified":1449031159,
+    "wof:lastmodified":1467082344,
     "wof:name":"Golfware Co",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-78.992503,33.773932,-78.992503,33.773932],
+  "bbox": [
+    -78.992503,
+    33.773932,
+    -78.992503,
+    33.773932
+],
   "geometry": {"coordinates":[-78.992503,33.773932],"type":"Point"}
 }

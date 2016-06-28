@@ -2,13 +2,14 @@
   "id": 354075573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.105611,33.085584,-80.105611,33.085584",
     "geom:latitude":33.085584,
     "geom:longitude":-80.105611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"334 Kennel Ln",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354075573,
-    "wof:lastmodified":1449066867,
+    "wof:lastmodified":1467082436,
     "wof:name":"Buddy Odom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-80.105611,33.085584,-80.105611,33.085584],
+  "bbox": [
+    -80.105611,
+    33.085584,
+    -80.105611,
+    33.085584
+],
   "geometry": {"coordinates":[-80.105611,33.085584],"type":"Point"}
 }

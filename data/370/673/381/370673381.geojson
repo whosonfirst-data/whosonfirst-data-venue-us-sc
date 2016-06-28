@@ -2,13 +2,14 @@
   "id": 370673381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.184319,34.384277,-79.184319,34.384277",
     "geom:latitude":34.384277,
     "geom:longitude":-79.184319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 Poplar Creek Rd",
     "sg:city":"Lake View",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370673381,
-    "wof:lastmodified":1449030395,
+    "wof:lastmodified":1467082327,
     "wof:name":"Poplar Creek Baptist Church",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.184319,34.384277,-79.184319,34.384277],
+  "bbox": [
+    -79.184319,
+    34.384277,
+    -79.184319,
+    34.384277
+],
   "geometry": {"coordinates":[-79.184319,34.384277],"type":"Point"}
 }

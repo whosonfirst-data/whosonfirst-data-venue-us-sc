@@ -2,13 +2,14 @@
   "id": 337395503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.782535,34.112486,-79.782535,34.112486",
     "geom:latitude":34.112486,
     "geom:longitude":-79.782535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3506 S Irby St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337395503,
-    "wof:lastmodified":1449027628,
+    "wof:lastmodified":1467082291,
     "wof:name":"American Storage Rental Spaces",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-79.782535,34.112486,-79.782535,34.112486],
+  "bbox": [
+    -79.782535,
+    34.112486,
+    -79.782535,
+    34.112486
+],
   "geometry": {"coordinates":[-79.782535,34.112486],"type":"Point"}
 }

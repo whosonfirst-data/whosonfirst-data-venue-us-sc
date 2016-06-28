@@ -2,13 +2,14 @@
   "id": 370545101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.385031,34.080839,-81.385031,34.080839",
     "geom:latitude":34.080839,
     "geom:longitude":-81.385031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"853 Island Pointe Ln",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370545101,
-    "wof:lastmodified":1449029909,
+    "wof:lastmodified":1467082316,
     "wof:name":"Neely Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.385031,34.080839,-81.385031,34.080839],
+  "bbox": [
+    -81.385031,
+    34.080839,
+    -81.385031,
+    34.080839
+],
   "geometry": {"coordinates":[-81.385031,34.080839],"type":"Point"}
 }

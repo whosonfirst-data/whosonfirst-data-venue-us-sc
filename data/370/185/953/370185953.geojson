@@ -2,13 +2,14 @@
   "id": 370185953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.662541,34.461702,-82.662541,34.461702",
     "geom:latitude":34.461702,
     "geom:longitude":-82.662541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3411 S Murray Ave",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370185953,
-    "wof:lastmodified":1449029642,
+    "wof:lastmodified":1467082310,
     "wof:name":"Coffee N Waffles",
     "wof:parent_id":85831829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.662541,34.461702,-82.662541,34.461702],
+  "bbox": [
+    -82.662541,
+    34.461702,
+    -82.662541,
+    34.461702
+],
   "geometry": {"coordinates":[-82.662541,34.461702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353824079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.197333,33.935777,-81.197333,33.935777",
     "geom:latitude":33.935777,
     "geom:longitude":-81.197333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"670 Shirway Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353824079,
-    "wof:lastmodified":1449019159,
+    "wof:lastmodified":1467082228,
     "wof:name":"Campbells Custom Deer Proc",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "packing"
     ]
 },
-  "bbox": [-81.197333,33.935777,-81.197333,33.935777],
+  "bbox": [
+    -81.197333,
+    33.935777,
+    -81.197333,
+    33.935777
+],
   "geometry": {"coordinates":[-81.197333,33.935777],"type":"Point"}
 }

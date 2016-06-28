@@ -2,13 +2,14 @@
   "id": 370862881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.453493,33.796231,-79.453493,33.796231",
     "geom:latitude":33.796231,
     "geom:longitude":-79.453493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"159 W Willow Pond Rd",
     "sg:city":"Johnsonville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370862881,
-    "wof:lastmodified":1449032565,
+    "wof:lastmodified":1467082375,
     "wof:name":"Somethin Special",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.453493,33.796231,-79.453493,33.796231],
-  "geometry": {"coordinates":[-79.453493,33.796231],"type":"Point"}
+  "bbox": [
+    -79.453493,
+    33.796231,
+    -79.453493,
+    33.796231
+],
+  "geometry": {"coordinates":[-79.45349299999999,33.796231],"type":"Point"}
 }

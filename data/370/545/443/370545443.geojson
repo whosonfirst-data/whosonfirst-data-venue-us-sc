@@ -2,13 +2,14 @@
   "id": 370545443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.641039,35.058547,-81.641039,35.058547",
     "geom:latitude":35.058547,
     "geom:longitude":-81.641039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 E Frederick St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370545443,
-    "wof:lastmodified":1449029911,
+    "wof:lastmodified":1467082316,
     "wof:name":"Corner Stop 1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.641039,35.058547,-81.641039,35.058547],
-  "geometry": {"coordinates":[-81.641039,35.058547],"type":"Point"}
+  "bbox": [
+    -81.641039,
+    35.058547,
+    -81.641039,
+    35.058547
+],
+  "geometry": {"coordinates":[-81.64103900000001,35.058547],"type":"Point"}
 }

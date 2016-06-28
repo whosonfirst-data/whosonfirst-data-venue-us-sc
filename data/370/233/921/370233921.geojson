@@ -2,13 +2,14 @@
   "id": 370233921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.614076,34.501909,-81.614076,34.501909",
     "geom:latitude":34.501909,
     "geom:longitude":-81.614076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Main St",
     "sg:city":"Whitmire",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370233921,
-    "wof:lastmodified":1449032535,
+    "wof:lastmodified":1467082375,
     "wof:name":"Piedmont Medical Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.614076,34.501909,-81.614076,34.501909],
+  "bbox": [
+    -81.614076,
+    34.501909,
+    -81.614076,
+    34.501909
+],
   "geometry": {"coordinates":[-81.614076,34.501909],"type":"Point"}
 }

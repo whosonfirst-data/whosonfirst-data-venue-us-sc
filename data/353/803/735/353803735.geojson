@@ -2,13 +2,14 @@
   "id": 353803735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.896572,34.28666,-79.896572,34.28666",
     "geom:latitude":34.28666,
     "geom:longitude":-79.896572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 Lamar Hwy",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353803735,
-    "wof:lastmodified":1449020829,
+    "wof:lastmodified":1467082262,
     "wof:name":"Fastrak",
     "wof:parent_id":85807743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.896572,34.28666,-79.896572,34.28666],
-  "geometry": {"coordinates":[-79.896572,34.28666],"type":"Point"}
+  "bbox": [
+    -79.896572,
+    34.28666,
+    -79.896572,
+    34.28666
+],
+  "geometry": {"coordinates":[-79.89657200000001,34.28666],"type":"Point"}
 }

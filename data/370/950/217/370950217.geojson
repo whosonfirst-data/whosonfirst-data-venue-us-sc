@@ -2,13 +2,14 @@
   "id": 370950217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.702685,34.206842,-79.702685,34.206842",
     "geom:latitude":34.206842,
     "geom:longitude":-79.702685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 N Williamson Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370950217,
-    "wof:lastmodified":1449030405,
+    "wof:lastmodified":1467082327,
     "wof:name":"Mitchams & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.702685,34.206842,-79.702685,34.206842],
+  "bbox": [
+    -79.702685,
+    34.206842,
+    -79.702685,
+    34.206842
+],
   "geometry": {"coordinates":[-79.702685,34.206842],"type":"Point"}
 }

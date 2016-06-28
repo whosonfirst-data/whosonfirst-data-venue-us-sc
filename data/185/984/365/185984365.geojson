@@ -2,13 +2,14 @@
   "id": 185984365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.03688,32.826776,-80.03688,32.826776",
     "geom:latitude":32.826776,
     "geom:longitude":-80.03688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1760 Dogwood Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185984365,
-    "wof:lastmodified":1449007513,
+    "wof:lastmodified":1467082196,
     "wof:name":"Thumper's Towing",
     "wof:parent_id":85809785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.03688,32.826776,-80.03688,32.826776],
+  "bbox": [
+    -80.03688,
+    32.826776,
+    -80.03688,
+    32.826776
+],
   "geometry": {"coordinates":[-80.03688,32.826776],"type":"Point"}
 }

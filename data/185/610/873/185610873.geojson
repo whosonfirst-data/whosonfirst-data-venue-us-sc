@@ -2,13 +2,14 @@
   "id": 185610873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.00361,34.036522,-81.00361,34.036522",
     "geom:latitude":34.036522,
     "geom:longitude":-81.00361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Notch Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":185610873,
-    "wof:lastmodified":1449008166,
+    "wof:lastmodified":1467082206,
     "wof:name":"Childrens Dental Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.00361,34.036522,-81.00361,34.036522],
-  "geometry": {"coordinates":[-81.00361,34.036522],"type":"Point"}
+  "bbox": [
+    -81.00361,
+    34.036522,
+    -81.00361,
+    34.036522
+],
+  "geometry": {"coordinates":[-81.00360999999999,34.036522],"type":"Point"}
 }

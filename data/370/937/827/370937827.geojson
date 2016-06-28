@@ -2,13 +2,14 @@
   "id": 370937827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.191209,33.980691,-81.191209,33.980691",
     "geom:latitude":33.980691,
     "geom:longitude":-81.191209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Cedar Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370937827,
-    "wof:lastmodified":1449029729,
+    "wof:lastmodified":1467082312,
     "wof:name":"Cedar Road Antiques",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-81.191209,33.980691,-81.191209,33.980691],
+  "bbox": [
+    -81.191209,
+    33.980691,
+    -81.191209,
+    33.980691
+],
   "geometry": {"coordinates":[-81.191209,33.980691],"type":"Point"}
 }

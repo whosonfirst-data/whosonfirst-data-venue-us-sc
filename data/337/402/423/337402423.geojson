@@ -2,13 +2,14 @@
   "id": 337402423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.738097,33.50473,-81.738097,33.50473",
     "geom:latitude":33.50473,
     "geom:longitude":-81.738097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Scotch Pine Ct",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337402423,
-    "wof:lastmodified":1449027206,
+    "wof:lastmodified":1467082275,
     "wof:name":"Heenan Associates Inc",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.738097,33.50473,-81.738097,33.50473],
+  "bbox": [
+    -81.738097,
+    33.50473,
+    -81.738097,
+    33.50473
+],
   "geometry": {"coordinates":[-81.738097,33.50473],"type":"Point"}
 }

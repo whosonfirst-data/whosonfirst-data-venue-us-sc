@@ -2,13 +2,14 @@
   "id": 370648199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.070118,33.967391,-81.070118,33.967391",
     "geom:latitude":33.967391,
     "geom:longitude":-81.070118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Ann Ln",
     "sg:city":"Cayce",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370648199,
-    "wof:lastmodified":1449030028,
+    "wof:lastmodified":1467082319,
     "wof:name":"Claude A Taylor Elementary",
     "wof:parent_id":85808009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.070118,33.967391,-81.070118,33.967391],
-  "geometry": {"coordinates":[-81.070118,33.967391],"type":"Point"}
+  "bbox": [
+    -81.070118,
+    33.967391,
+    -81.070118,
+    33.967391
+],
+  "geometry": {"coordinates":[-81.07011799999999,33.967391],"type":"Point"}
 }

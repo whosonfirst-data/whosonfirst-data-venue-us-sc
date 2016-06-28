@@ -2,13 +2,14 @@
   "id": 370405483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.462294,34.480321,-79.462294,34.480321",
     "geom:latitude":34.480321,
     "geom:longitude":-79.462294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3855 Hwy 9 W",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370405483,
-    "wof:lastmodified":1449032197,
+    "wof:lastmodified":1467082367,
     "wof:name":"Bruce Price & Sons Farms",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.462294,34.480321,-79.462294,34.480321],
+  "bbox": [
+    -79.462294,
+    34.480321,
+    -79.462294,
+    34.480321
+],
   "geometry": {"coordinates":[-79.462294,34.480321],"type":"Point"}
 }

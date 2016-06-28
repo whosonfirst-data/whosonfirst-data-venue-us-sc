@@ -2,13 +2,14 @@
   "id": 353721165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.55489,34.512238,-82.55489,34.512238",
     "geom:latitude":34.512238,
     "geom:longitude":-82.55489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4027 Belhaven Rd Exd",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353721165,
-    "wof:lastmodified":1449020788,
+    "wof:lastmodified":1467082261,
     "wof:name":"Finleys Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-82.55489,34.512238,-82.55489,34.512238],
+  "bbox": [
+    -82.55489,
+    34.512238,
+    -82.55489,
+    34.512238
+],
   "geometry": {"coordinates":[-82.55489,34.512238],"type":"Point"}
 }

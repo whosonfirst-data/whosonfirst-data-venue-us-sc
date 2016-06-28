@@ -2,13 +2,14 @@
   "id": 370710739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.025206,34.931636,-81.025206,34.931636",
     "geom:latitude":34.931636,
     "geom:longitude":-81.025206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Oakland Ave",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370710739,
-    "wof:lastmodified":1449029288,
+    "wof:lastmodified":1467082303,
     "wof:name":"Moore & Moore",
     "wof:parent_id":85806915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-81.025206,34.931636,-81.025206,34.931636],
+  "bbox": [
+    -81.025206,
+    34.931636,
+    -81.025206,
+    34.931636
+],
   "geometry": {"coordinates":[-81.025206,34.931636],"type":"Point"}
 }

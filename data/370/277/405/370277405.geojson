@@ -2,13 +2,14 @@
   "id": 370277405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.040272,35.109375,-82.040272,35.109375",
     "geom:latitude":35.109375,
     "geom:longitude":-82.040272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Suttles Rd",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370277405,
-    "wof:lastmodified":1449029471,
+    "wof:lastmodified":1467082306,
     "wof:name":"Aw Mechanical",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.040272,35.109375,-82.040272,35.109375],
+  "bbox": [
+    -82.040272,
+    35.109375,
+    -82.040272,
+    35.109375
+],
   "geometry": {"coordinates":[-82.040272,35.109375],"type":"Point"}
 }

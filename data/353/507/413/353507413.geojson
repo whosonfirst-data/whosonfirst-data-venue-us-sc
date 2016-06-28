@@ -2,13 +2,14 @@
   "id": 353507413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.176667,33.019323,-80.176667,33.019323",
     "geom:latitude":33.019323,
     "geom:longitude":-80.176667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Central Ave",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353507413,
-    "wof:lastmodified":1449019575,
+    "wof:lastmodified":1467082236,
     "wof:name":"Allied Therapeutic Svc",
     "wof:parent_id":85810341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-80.176667,33.019323,-80.176667,33.019323],
-  "geometry": {"coordinates":[-80.176667,33.019323],"type":"Point"}
+  "bbox": [
+    -80.176667,
+    33.019323,
+    -80.176667,
+    33.019323
+],
+  "geometry": {"coordinates":[-80.17666699999999,33.019323],"type":"Point"}
 }

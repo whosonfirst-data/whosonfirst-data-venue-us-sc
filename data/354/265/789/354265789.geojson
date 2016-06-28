@@ -2,13 +2,14 @@
   "id": 354265789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.250138,33.195114,-81.250138,33.195114",
     "geom:latitude":33.195114,
     "geom:longitude":-81.250138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 State Hwy 64",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354265789,
-    "wof:lastmodified":1449066491,
+    "wof:lastmodified":1467082427,
     "wof:name":"Priester's Outdoor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.250138,33.195114,-81.250138,33.195114],
-  "geometry": {"coordinates":[-81.250138,33.195114],"type":"Point"}
+  "bbox": [
+    -81.250138,
+    33.195114,
+    -81.250138,
+    33.195114
+],
+  "geometry": {"coordinates":[-81.25013800000001,33.195114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370468129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.958564,34.687842,-82.958564,34.687842",
     "geom:latitude":34.687842,
     "geom:longitude":-82.958564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 N Pine St",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370468129,
-    "wof:lastmodified":1449031517,
+    "wof:lastmodified":1467082352,
     "wof:name":"A & A Landscaping",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.958564,34.687842,-82.958564,34.687842],
+  "bbox": [
+    -82.958564,
+    34.687842,
+    -82.958564,
+    34.687842
+],
   "geometry": {"coordinates":[-82.958564,34.687842],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370756549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.166339,34.062567,-81.166339,34.062567",
     "geom:latitude":34.062567,
     "geom:longitude":-81.166339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Surrey Ct",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370756549,
-    "wof:lastmodified":1449031102,
+    "wof:lastmodified":1467082343,
     "wof:name":"IMIC Hotels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-81.166339,34.062567,-81.166339,34.062567],
-  "geometry": {"coordinates":[-81.166339,34.062567],"type":"Point"}
+  "bbox": [
+    -81.166339,
+    34.062567,
+    -81.166339,
+    34.062567
+],
+  "geometry": {"coordinates":[-81.16633899999999,34.062567],"type":"Point"}
 }

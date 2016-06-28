@@ -2,13 +2,14 @@
   "id": 185944589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.613982,34.50191,-81.613982,34.50191",
     "geom:latitude":34.50191,
     "geom:longitude":-81.613982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Main St",
     "sg:city":"Whitmire",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185944589,
-    "wof:lastmodified":1449007434,
+    "wof:lastmodified":1467082195,
     "wof:name":"R L Bledsoe DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.613982,34.50191,-81.613982,34.50191],
-  "geometry": {"coordinates":[-81.613982,34.50191],"type":"Point"}
+  "bbox": [
+    -81.613982,
+    34.50191,
+    -81.613982,
+    34.50191
+],
+  "geometry": {"coordinates":[-81.61398199999999,34.50191],"type":"Point"}
 }

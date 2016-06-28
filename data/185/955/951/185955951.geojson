@@ -2,13 +2,14 @@
   "id": 185955951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.826433,32.833154,-79.826433,32.833154",
     "geom:latitude":32.833154,
     "geom:longitude":-79.826433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1903 N Hwy 17",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185955951,
-    "wof:lastmodified":1449007704,
+    "wof:lastmodified":1467082199,
     "wof:name":"Trysports",
     "wof:parent_id":85840345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.826433,32.833154,-79.826433,32.833154],
-  "geometry": {"coordinates":[-79.826433,32.833154],"type":"Point"}
+  "bbox": [
+    -79.826433,
+    32.833154,
+    -79.826433,
+    32.833154
+],
+  "geometry": {"coordinates":[-79.82643299999999,32.833154],"type":"Point"}
 }

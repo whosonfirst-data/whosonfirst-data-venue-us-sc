@@ -2,13 +2,14 @@
   "id": 353680809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.892173,34.060813,-78.892173,34.060813",
     "geom:latitude":34.060813,
     "geom:longitude":-78.892173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3731 Watson St",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353680809,
-    "wof:lastmodified":1449020035,
+    "wof:lastmodified":1467082246,
     "wof:name":"United Funeral Home Of Loris",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-78.892173,34.060813,-78.892173,34.060813],
+  "bbox": [
+    -78.892173,
+    34.060813,
+    -78.892173,
+    34.060813
+],
   "geometry": {"coordinates":[-78.892173,34.060813],"type":"Point"}
 }

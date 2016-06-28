@@ -2,13 +2,14 @@
   "id": 353628925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.365773,34.423391,-79.365773,34.423391",
     "geom:latitude":34.423391,
     "geom:longitude":-79.365773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 Hwy 301 N",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353628925,
-    "wof:lastmodified":1449020337,
+    "wof:lastmodified":1467082252,
     "wof:name":"Dillon Home Health Care",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-79.365773,34.423391,-79.365773,34.423391],
+  "bbox": [
+    -79.365773,
+    34.423391,
+    -79.365773,
+    34.423391
+],
   "geometry": {"coordinates":[-79.365773,34.423391],"type":"Point"}
 }

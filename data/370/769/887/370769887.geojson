@@ -2,13 +2,14 @@
   "id": 370769887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.568852,33.312002,-80.568852,33.312002",
     "geom:latitude":33.312002,
     "geom:longitude":-80.568852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2940 Ebenezer Rd",
     "sg:city":"Bowman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370769887,
-    "wof:lastmodified":1449030220,
+    "wof:lastmodified":1467082323,
     "wof:name":"Whetsell Land & Cattle",
     "wof:parent_id":85843475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.568852,33.312002,-80.568852,33.312002],
-  "geometry": {"coordinates":[-80.568852,33.312002],"type":"Point"}
+  "bbox": [
+    -80.568852,
+    33.312002,
+    -80.568852,
+    33.312002
+],
+  "geometry": {"coordinates":[-80.56885200000001,33.312002],"type":"Point"}
 }

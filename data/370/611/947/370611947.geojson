@@ -2,13 +2,14 @@
   "id": 370611947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.464519,33.742101,-80.464519,33.742101",
     "geom:latitude":33.742101,
     "geom:longitude":-80.464519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N Columbia St",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370611947,
-    "wof:lastmodified":1449031764,
+    "wof:lastmodified":1467082358,
     "wof:name":"Mungo Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-80.464519,33.742101,-80.464519,33.742101],
+  "bbox": [
+    -80.464519,
+    33.742101,
+    -80.464519,
+    33.742101
+],
   "geometry": {"coordinates":[-80.464519,33.742101],"type":"Point"}
 }

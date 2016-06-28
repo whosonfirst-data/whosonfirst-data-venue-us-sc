@@ -2,13 +2,14 @@
   "id": 370640159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.759098,32.601671,-80.759098,32.601671",
     "geom:latitude":32.601671,
     "geom:longitude":-80.759098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Charleston Hwy",
     "sg:city":"Yemassee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370640159,
-    "wof:lastmodified":1449030558,
+    "wof:lastmodified":1467082331,
     "wof:name":"Howard & Eddies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "filing"
     ]
 },
-  "bbox": [-80.759098,32.601671,-80.759098,32.601671],
-  "geometry": {"coordinates":[-80.759098,32.601671],"type":"Point"}
+  "bbox": [
+    -80.759098,
+    32.601671,
+    -80.759098,
+    32.601671
+],
+  "geometry": {"coordinates":[-80.75909799999999,32.601671],"type":"Point"}
 }

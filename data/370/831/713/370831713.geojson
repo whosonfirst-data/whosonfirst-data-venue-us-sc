@@ -2,13 +2,14 @@
   "id": 370831713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.088525,33.014354,-80.088525,33.014354",
     "geom:latitude":33.014354,
     "geom:longitude":-80.088525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"558 College Park Rd",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370831713,
-    "wof:lastmodified":1449031063,
+    "wof:lastmodified":1467082342,
     "wof:name":"Vaughn Homes Inc",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "residential"
     ]
 },
-  "bbox": [-80.088525,33.014354,-80.088525,33.014354],
+  "bbox": [
+    -80.088525,
+    33.014354,
+    -80.088525,
+    33.014354
+],
   "geometry": {"coordinates":[-80.088525,33.014354],"type":"Point"}
 }

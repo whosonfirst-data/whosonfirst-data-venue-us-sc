@@ -2,13 +2,14 @@
   "id": 354313385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.039097,34.017218,-81.039097,34.017218",
     "geom:latitude":34.017218,
     "geom:longitude":-81.039097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 Franklin St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354313385,
-    "wof:lastmodified":1449065993,
+    "wof:lastmodified":1467082416,
     "wof:name":"Hammonds & Assoc",
     "wof:parent_id":85805491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-81.039097,34.017218,-81.039097,34.017218],
+  "bbox": [
+    -81.039097,
+    34.017218,
+    -81.039097,
+    34.017218
+],
   "geometry": {"coordinates":[-81.039097,34.017218],"type":"Point"}
 }

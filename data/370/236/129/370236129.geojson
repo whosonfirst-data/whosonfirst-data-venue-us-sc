@@ -2,13 +2,14 @@
   "id": 370236129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.300726,34.781638,-82.300726,34.781638",
     "geom:latitude":34.781638,
     "geom:longitude":-82.300726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 E Butler Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370236129,
-    "wof:lastmodified":1449029451,
+    "wof:lastmodified":1467082306,
     "wof:name":"John M Mc Craw DDS",
     "wof:parent_id":85851381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.300726,34.781638,-82.300726,34.781638],
+  "bbox": [
+    -82.300726,
+    34.781638,
+    -82.300726,
+    34.781638
+],
   "geometry": {"coordinates":[-82.300726,34.781638],"type":"Point"}
 }

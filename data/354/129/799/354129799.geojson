@@ -2,13 +2,14 @@
   "id": 354129799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.212778,35.141614,-82.212778,35.141614",
     "geom:latitude":35.141614,
     "geom:longitude":-82.212778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"285 Lexington Rd",
     "sg:city":"Landrum",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354129799,
-    "wof:lastmodified":1449067310,
+    "wof:lastmodified":1467082446,
     "wof:name":"Reid Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.212778,35.141614,-82.212778,35.141614],
+  "bbox": [
+    -82.212778,
+    35.141614,
+    -82.212778,
+    35.141614
+],
   "geometry": {"coordinates":[-82.212778,35.141614],"type":"Point"}
 }

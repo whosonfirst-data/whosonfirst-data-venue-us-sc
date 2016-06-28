@@ -2,13 +2,14 @@
   "id": 186301897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.848313,33.485754,-80.848313,33.485754",
     "geom:latitude":33.485754,
     "geom:longitude":-80.848313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"559 Whaley St SE",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186301897,
-    "wof:lastmodified":1449051083,
+    "wof:lastmodified":1467082394,
     "wof:name":"Omc Transport Inc",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.848313,33.485754,-80.848313,33.485754],
+  "bbox": [
+    -80.848313,
+    33.485754,
+    -80.848313,
+    33.485754
+],
   "geometry": {"coordinates":[-80.848313,33.485754],"type":"Point"}
 }

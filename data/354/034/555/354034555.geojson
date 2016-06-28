@@ -2,13 +2,14 @@
   "id": 354034555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.882746,34.954049,-81.882746,34.954049",
     "geom:latitude":34.954049,
     "geom:longitude":-81.882746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Forest Oaks Way",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354034555,
-    "wof:lastmodified":1449066127,
+    "wof:lastmodified":1467082419,
     "wof:name":"Portrait Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-81.882746,34.954049,-81.882746,34.954049],
+  "bbox": [
+    -81.882746,
+    34.954049,
+    -81.882746,
+    34.954049
+],
   "geometry": {"coordinates":[-81.882746,34.954049],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370612203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.129235,33.446741,-79.129235,33.446741",
     "geom:latitude":33.446741,
     "geom:longitude":-79.129235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1066 Petigru Dr",
     "sg:city":"Pawleys Island",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370612203,
-    "wof:lastmodified":1449030592,
+    "wof:lastmodified":1467082331,
     "wof:name":"Waccamaw Landscaping & Constr",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.129235,33.446741,-79.129235,33.446741],
-  "geometry": {"coordinates":[-79.129235,33.446741],"type":"Point"}
+  "bbox": [
+    -79.129235,
+    33.446741,
+    -79.129235,
+    33.446741
+],
+  "geometry": {"coordinates":[-79.12923499999999,33.446741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169754095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.684075,34.616585,-79.684075,34.616585",
     "geom:latitude":34.616585,
     "geom:longitude":-79.684075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"178 US Hwy 15 Bus",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169754095,
-    "wof:lastmodified":1449034851,
+    "wof:lastmodified":1467082384,
     "wof:name":"Southern Finance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institution"
     ]
 },
-  "bbox": [-79.684075,34.616585,-79.684075,34.616585],
-  "geometry": {"coordinates":[-79.684075,34.616585],"type":"Point"}
+  "bbox": [
+    -79.684075,
+    34.616585,
+    -79.684075,
+    34.616585
+],
+  "geometry": {"coordinates":[-79.68407500000001,34.616585],"type":"Point"}
 }

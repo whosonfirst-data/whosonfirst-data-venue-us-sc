@@ -2,13 +2,14 @@
   "id": 370341255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.155262,33.358637,-79.155262,33.358637",
     "geom:latitude":33.358637,
     "geom:longitude":-79.155262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Sea Island Dr",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370341255,
-    "wof:lastmodified":1449032322,
+    "wof:lastmodified":1467082370,
     "wof:name":"Koury Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.155262,33.358637,-79.155262,33.358637],
-  "geometry": {"coordinates":[-79.155262,33.358637],"type":"Point"}
+  "bbox": [
+    -79.155262,
+    33.358637,
+    -79.155262,
+    33.358637
+],
+  "geometry": {"coordinates":[-79.15526199999999,33.358637],"type":"Point"}
 }

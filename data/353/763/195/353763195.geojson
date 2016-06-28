@@ -2,13 +2,14 @@
   "id": 353763195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.943512,34.979445,-81.943512,34.979445",
     "geom:latitude":34.979445,
     "geom:longitude":-81.943512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1071 Boiling Springs Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353763195,
-    "wof:lastmodified":1449020783,
+    "wof:lastmodified":1467082261,
     "wof:name":"Mc Leod Holleman & Lugo",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.943512,34.979445,-81.943512,34.979445],
+  "bbox": [
+    -81.943512,
+    34.979445,
+    -81.943512,
+    34.979445
+],
   "geometry": {"coordinates":[-81.943512,34.979445],"type":"Point"}
 }

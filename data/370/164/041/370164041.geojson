@@ -2,13 +2,14 @@
   "id": 370164041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.897588,34.126215,-80.897588,34.126215",
     "geom:latitude":34.126215,
     "geom:longitude":-80.897588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Athena Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370164041,
-    "wof:lastmodified":1449029490,
+    "wof:lastmodified":1467082307,
     "wof:name":"Anchor Funding",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-80.897588,34.126215,-80.897588,34.126215],
+  "bbox": [
+    -80.897588,
+    34.126215,
+    -80.897588,
+    34.126215
+],
   "geometry": {"coordinates":[-80.897588,34.126215],"type":"Point"}
 }

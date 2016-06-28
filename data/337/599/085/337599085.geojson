@@ -2,13 +2,14 @@
   "id": 337599085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.211551,33.696526,-80.211551,33.696526",
     "geom:latitude":33.696526,
     "geom:longitude":-80.211551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 W Rigby St",
     "sg:city":"Manning",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337599085,
-    "wof:lastmodified":1449027326,
+    "wof:lastmodified":1467082280,
     "wof:name":"June Briggs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.211551,33.696526,-80.211551,33.696526],
+  "bbox": [
+    -80.211551,
+    33.696526,
+    -80.211551,
+    33.696526
+],
   "geometry": {"coordinates":[-80.211551,33.696526],"type":"Point"}
 }

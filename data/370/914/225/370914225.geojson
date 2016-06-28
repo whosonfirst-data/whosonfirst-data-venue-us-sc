@@ -2,13 +2,14 @@
   "id": 370914225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.252498,34.114194,-81.252498,34.114194",
     "geom:latitude":34.114194,
     "geom:longitude":-81.252498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 Marina Rd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370914225,
-    "wof:lastmodified":1449030377,
+    "wof:lastmodified":1467082327,
     "wof:name":"Beacon Pointe Sales Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.252498,34.114194,-81.252498,34.114194],
+  "bbox": [
+    -81.252498,
+    34.114194,
+    -81.252498,
+    34.114194
+],
   "geometry": {"coordinates":[-81.252498,34.114194],"type":"Point"}
 }

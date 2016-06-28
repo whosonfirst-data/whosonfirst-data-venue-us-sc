@@ -2,13 +2,14 @@
   "id": 337301349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.238414,34.889507,-82.238414,34.889507",
     "geom:latitude":34.889507,
     "geom:longitude":-82.238414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Marshland Ln",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337301349,
-    "wof:lastmodified":1449027137,
+    "wof:lastmodified":1467082272,
     "wof:name":"Lennar-Marshland Lane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.238414,34.889507,-82.238414,34.889507],
-  "geometry": {"coordinates":[-82.238414,34.889507],"type":"Point"}
+  "bbox": [
+    -82.238414,
+    34.889507,
+    -82.238414,
+    34.889507
+],
+  "geometry": {"coordinates":[-82.23841400000001,34.889507],"type":"Point"}
 }

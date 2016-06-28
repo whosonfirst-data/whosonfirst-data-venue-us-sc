@@ -2,13 +2,14 @@
   "id": 370347313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.866273,33.484459,-80.866273,33.484459",
     "geom:latitude":33.484459,
     "geom:longitude":-80.866273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 John C Calhoun Dr",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370347313,
-    "wof:lastmodified":1449030726,
+    "wof:lastmodified":1467082334,
     "wof:name":"Sir Speedy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "duplicating"
     ]
 },
-  "bbox": [-80.866273,33.484459,-80.866273,33.484459],
-  "geometry": {"coordinates":[-80.866273,33.484459],"type":"Point"}
+  "bbox": [
+    -80.866273,
+    33.484459,
+    -80.866273,
+    33.484459
+],
+  "geometry": {"coordinates":[-80.86627300000001,33.484459],"type":"Point"}
 }

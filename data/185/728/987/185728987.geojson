@@ -2,13 +2,14 @@
   "id": 185728987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.018432,34.942488,-82.018432,34.942488",
     "geom:latitude":34.942488,
     "geom:longitude":-82.018432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Silverdale Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185728987,
-    "wof:lastmodified":1449006986,
+    "wof:lastmodified":1467082188,
     "wof:name":"Archetype Construction Inc",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.018432,34.942488,-82.018432,34.942488],
+  "bbox": [
+    -82.018432,
+    34.942488,
+    -82.018432,
+    34.942488
+],
   "geometry": {"coordinates":[-82.018432,34.942488],"type":"Point"}
 }

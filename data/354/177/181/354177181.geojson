@@ -2,13 +2,14 @@
   "id": 354177181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.938511,32.786991,-79.938511,32.786991",
     "geom:latitude":32.786991,
     "geom:longitude":-79.938511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Vanderhorst St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354177181,
-    "wof:lastmodified":1449067664,
+    "wof:lastmodified":1467082454,
     "wof:name":"Reggiegibson Architect",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.938511,32.786991,-79.938511,32.786991],
-  "geometry": {"coordinates":[-79.938511,32.786991],"type":"Point"}
+  "bbox": [
+    -79.938511,
+    32.786991,
+    -79.938511,
+    32.786991
+],
+  "geometry": {"coordinates":[-79.93851100000001,32.786991],"type":"Point"}
 }

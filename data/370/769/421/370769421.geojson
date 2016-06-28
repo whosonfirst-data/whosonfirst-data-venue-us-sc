@@ -2,13 +2,14 @@
   "id": 370769421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.054778,34.763243,-83.054778,34.763243",
     "geom:latitude":34.763243,
     "geom:longitude":-83.054778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Earle St",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370769421,
-    "wof:lastmodified":1449030218,
+    "wof:lastmodified":1467082323,
     "wof:name":"Nix Insurance",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.054778,34.763243,-83.054778,34.763243],
+  "bbox": [
+    -83.054778,
+    34.763243,
+    -83.054778,
+    34.763243
+],
   "geometry": {"coordinates":[-83.054778,34.763243],"type":"Point"}
 }

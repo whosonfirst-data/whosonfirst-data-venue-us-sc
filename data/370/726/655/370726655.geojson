@@ -2,13 +2,14 @@
   "id": 370726655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.687071,33.460674,-81.687071,33.460674",
     "geom:latitude":33.460674,
     "geom:longitude":-81.687071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4338 Whiskey Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370726655,
-    "wof:lastmodified":1449031396,
+    "wof:lastmodified":1467082349,
     "wof:name":"South Aiken Self Storage",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-81.687071,33.460674,-81.687071,33.460674],
+  "bbox": [
+    -81.687071,
+    33.460674,
+    -81.687071,
+    33.460674
+],
   "geometry": {"coordinates":[-81.687071,33.460674],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370381463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.510353,33.081418,-79.510353,33.081418",
     "geom:latitude":33.081418,
     "geom:longitude":-79.510353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1189 Tibwin Rd",
     "sg:city":"Mc Clellanville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370381463,
-    "wof:lastmodified":1449029364,
+    "wof:lastmodified":1467082304,
     "wof:name":"St James-Santee Family Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.510353,33.081418,-79.510353,33.081418],
-  "geometry": {"coordinates":[-79.510353,33.081418],"type":"Point"}
+  "bbox": [
+    -79.510353,
+    33.081418,
+    -79.510353,
+    33.081418
+],
+  "geometry": {"coordinates":[-79.51035299999999,33.081418],"type":"Point"}
 }

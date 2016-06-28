@@ -2,13 +2,14 @@
   "id": 370220807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.717037,32.221886,-80.717037,32.221886",
     "geom:latitude":32.221886,
     "geom:longitude":-80.717037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Lamotte Dr",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370220807,
-    "wof:lastmodified":1449032351,
+    "wof:lastmodified":1467082371,
     "wof:name":"H H Health Images",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.717037,32.221886,-80.717037,32.221886],
+  "bbox": [
+    -80.717037,
+    32.221886,
+    -80.717037,
+    32.221886
+],
   "geometry": {"coordinates":[-80.717037,32.221886],"type":"Point"}
 }

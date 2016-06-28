@@ -2,13 +2,14 @@
   "id": 370942635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.036378,32.821633,-80.036378,32.821633",
     "geom:latitude":32.821633,
     "geom:longitude":-80.036378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2333 Ashley River Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370942635,
-    "wof:lastmodified":1449030640,
+    "wof:lastmodified":1467082332,
     "wof:name":"Oak Haven Assisted Living",
     "wof:parent_id":85809785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-80.036378,32.821633,-80.036378,32.821633],
+  "bbox": [
+    -80.036378,
+    32.821633,
+    -80.036378,
+    32.821633
+],
   "geometry": {"coordinates":[-80.036378,32.821633],"type":"Point"}
 }

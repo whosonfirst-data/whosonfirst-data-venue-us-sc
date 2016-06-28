@@ -2,13 +2,14 @@
   "id": 370779429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.025566,33.575173,-79.025566,33.575173",
     "geom:latitude":33.575173,
     "geom:longitude":-79.025566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3530 US Hwy 17 Bus",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370779429,
-    "wof:lastmodified":1449029609,
+    "wof:lastmodified":1467082309,
     "wof:name":"Inlet Printing Co",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-79.025566,33.575173,-79.025566,33.575173],
+  "bbox": [
+    -79.025566,
+    33.575173,
+    -79.025566,
+    33.575173
+],
   "geometry": {"coordinates":[-79.025566,33.575173],"type":"Point"}
 }

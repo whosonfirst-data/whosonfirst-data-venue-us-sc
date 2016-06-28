@@ -2,13 +2,14 @@
   "id": 354258221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.185965,32.957869,-80.185965,32.957869",
     "geom:latitude":32.957869,
     "geom:longitude":-80.185965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Mayfield St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354258221,
-    "wof:lastmodified":1449067278,
+    "wof:lastmodified":1467082445,
     "wof:name":"Tiles By Angelo Inc",
     "wof:parent_id":85852525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "marble"
     ]
 },
-  "bbox": [-80.185965,32.957869,-80.185965,32.957869],
+  "bbox": [
+    -80.185965,
+    32.957869,
+    -80.185965,
+    32.957869
+],
   "geometry": {"coordinates":[-80.185965,32.957869],"type":"Point"}
 }

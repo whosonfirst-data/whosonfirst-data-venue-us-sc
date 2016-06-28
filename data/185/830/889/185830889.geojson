@@ -2,13 +2,14 @@
   "id": 185830889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.401209,34.862102,-82.401209,34.862102",
     "geom:latitude":34.862102,
     "geom:longitude":-82.401209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 W Stone Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185830889,
-    "wof:lastmodified":1449006956,
+    "wof:lastmodified":1467082187,
     "wof:name":"White & White Law Offices",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.401209,34.862102,-82.401209,34.862102],
-  "geometry": {"coordinates":[-82.401209,34.862102],"type":"Point"}
+  "bbox": [
+    -82.401209,
+    34.862102,
+    -82.401209,
+    34.862102
+],
+  "geometry": {"coordinates":[-82.40120899999999,34.862102],"type":"Point"}
 }

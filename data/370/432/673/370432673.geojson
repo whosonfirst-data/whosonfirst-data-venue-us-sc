@@ -2,13 +2,14 @@
   "id": 370432673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.93237,33.406666,-79.93237,33.406666",
     "geom:latitude":33.406666,
     "geom:longitude":-79.93237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Carolina Dr",
     "sg:city":"St Stephen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370432673,
-    "wof:lastmodified":1449029008,
+    "wof:lastmodified":1467082296,
     "wof:name":"St Stephen Middle School",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.93237,33.406666,-79.93237,33.406666],
-  "geometry": {"coordinates":[-79.93237,33.406666],"type":"Point"}
+  "bbox": [
+    -79.93237,
+    33.406666,
+    -79.93237,
+    33.406666
+],
+  "geometry": {"coordinates":[-79.93237000000001,33.406666],"type":"Point"}
 }

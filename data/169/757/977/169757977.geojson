@@ -2,13 +2,14 @@
   "id": 169757977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.944524,32.781721,-79.944524,32.781721",
     "geom:latitude":32.781721,
     "geom:longitude":-79.944524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Ashley Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169757977,
-    "wof:lastmodified":1449034552,
+    "wof:lastmodified":1467082383,
     "wof:name":"Charleston Eye Physicians",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.944524,32.781721,-79.944524,32.781721],
+  "bbox": [
+    -79.944524,
+    32.781721,
+    -79.944524,
+    32.781721
+],
   "geometry": {"coordinates":[-79.944524,32.781721],"type":"Point"}
 }

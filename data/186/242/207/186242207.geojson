@@ -2,13 +2,14 @@
   "id": 186242207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.308238,34.837458,-82.308238,34.837458",
     "geom:latitude":34.837458,
     "geom:longitude":-82.308238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Executive Center Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186242207,
-    "wof:lastmodified":1449052700,
+    "wof:lastmodified":1467082410,
     "wof:name":"Foothills Presbytery",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.308238,34.837458,-82.308238,34.837458],
+  "bbox": [
+    -82.308238,
+    34.837458,
+    -82.308238,
+    34.837458
+],
   "geometry": {"coordinates":[-82.308238,34.837458],"type":"Point"}
 }

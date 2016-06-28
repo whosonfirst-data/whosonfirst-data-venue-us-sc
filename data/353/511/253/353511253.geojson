@@ -2,13 +2,14 @@
   "id": 353511253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.305044,33.913931,-82.305044,33.913931",
     "geom:latitude":33.913931,
     "geom:longitude":-82.305044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Mims Dr",
     "sg:city":"Mc Cormick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353511253,
-    "wof:lastmodified":1449019440,
+    "wof:lastmodified":1467082234,
     "wof:name":"McCormick High School Trnsp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.305044,33.913931,-82.305044,33.913931],
+  "bbox": [
+    -82.305044,
+    33.913931,
+    -82.305044,
+    33.913931
+],
   "geometry": {"coordinates":[-82.305044,33.913931],"type":"Point"}
 }

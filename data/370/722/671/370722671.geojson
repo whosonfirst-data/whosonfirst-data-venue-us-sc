@@ -2,13 +2,14 @@
   "id": 370722671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.343663,34.799665,-82.343663,34.799665",
     "geom:latitude":34.799665,
     "geom:longitude":-82.343663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 United Way",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370722671,
-    "wof:lastmodified":1449030278,
+    "wof:lastmodified":1467082324,
     "wof:name":"A E Drilling Svc Inc",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.343663,34.799665,-82.343663,34.799665],
-  "geometry": {"coordinates":[-82.343663,34.799665],"type":"Point"}
+  "bbox": [
+    -82.343663,
+    34.799665,
+    -82.343663,
+    34.799665
+],
+  "geometry": {"coordinates":[-82.34366300000001,34.799665],"type":"Point"}
 }

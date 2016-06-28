@@ -2,13 +2,14 @@
   "id": 354025209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.195635,33.891263,-81.195635,33.891263",
     "geom:latitude":33.891263,
     "geom:longitude":-81.195635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5548 Beckman Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354025209,
-    "wof:lastmodified":1449067375,
+    "wof:lastmodified":1467082447,
     "wof:name":"Todd's RV Rentals",
     "wof:parent_id":85847855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-81.195635,33.891263,-81.195635,33.891263],
+  "bbox": [
+    -81.195635,
+    33.891263,
+    -81.195635,
+    33.891263
+],
   "geometry": {"coordinates":[-81.195635,33.891263],"type":"Point"}
 }

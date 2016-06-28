@@ -2,13 +2,14 @@
   "id": 354407387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.945775,32.784144,-79.945775,32.784144",
     "geom:latitude":32.784144,
     "geom:longitude":-79.945775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Sabin St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354407387,
-    "wof:lastmodified":1449066891,
+    "wof:lastmodified":1467082436,
     "wof:name":"Barrineaus Sandblasting",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.945775,32.784144,-79.945775,32.784144],
+  "bbox": [
+    -79.945775,
+    32.784144,
+    -79.945775,
+    32.784144
+],
   "geometry": {"coordinates":[-79.945775,32.784144],"type":"Point"}
 }

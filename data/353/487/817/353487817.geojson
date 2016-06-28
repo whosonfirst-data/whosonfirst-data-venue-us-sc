@@ -2,13 +2,14 @@
   "id": 353487817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.950476,32.78864,-79.950476,32.78864",
     "geom:latitude":32.78864,
     "geom:longitude":-79.950476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Spring St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353487817,
-    "wof:lastmodified":1449019084,
+    "wof:lastmodified":1467082226,
     "wof:name":"Family Barber Shop",
     "wof:parent_id":85835201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.950476,32.78864,-79.950476,32.78864],
-  "geometry": {"coordinates":[-79.950476,32.78864],"type":"Point"}
+  "bbox": [
+    -79.950476,
+    32.78864,
+    -79.950476,
+    32.78864
+],
+  "geometry": {"coordinates":[-79.95047599999999,32.78864],"type":"Point"}
 }

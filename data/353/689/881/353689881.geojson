@@ -2,13 +2,14 @@
   "id": 353689881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.157806,32.604519,-80.157806,32.604519",
     "geom:latitude":32.604519,
     "geom:longitude":-80.157806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1944 Marsh Oak Ln",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353689881,
-    "wof:lastmodified":1449020396,
+    "wof:lastmodified":1467082253,
     "wof:name":"Enviro Marine Inc",
     "wof:parent_id":85809109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.157806,32.604519,-80.157806,32.604519],
-  "geometry": {"coordinates":[-80.157806,32.604519],"type":"Point"}
+  "bbox": [
+    -80.157806,
+    32.604519,
+    -80.157806,
+    32.604519
+],
+  "geometry": {"coordinates":[-80.15780599999999,32.604519],"type":"Point"}
 }

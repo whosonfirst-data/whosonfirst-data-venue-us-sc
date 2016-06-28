@@ -2,13 +2,14 @@
   "id": 370812031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.883728,34.273136,-79.883728,34.273136",
     "geom:latitude":34.273136,
     "geom:longitude":-79.883728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1133 Timmonsville Hwy",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370812031,
-    "wof:lastmodified":1449029155,
+    "wof:lastmodified":1467082300,
     "wof:name":"Billy Hardy Home For Boys",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-79.883728,34.273136,-79.883728,34.273136],
+  "bbox": [
+    -79.883728,
+    34.273136,
+    -79.883728,
+    34.273136
+],
   "geometry": {"coordinates":[-79.883728,34.273136],"type":"Point"}
 }

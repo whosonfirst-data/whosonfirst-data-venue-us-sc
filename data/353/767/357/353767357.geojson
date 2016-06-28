@@ -2,13 +2,14 @@
   "id": 353767357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.998798,34.929323,-81.998798,34.929323",
     "geom:latitude":34.929323,
     "geom:longitude":-81.998798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 S Blackstock Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353767357,
-    "wof:lastmodified":1449019006,
+    "wof:lastmodified":1467082225,
     "wof:name":"Flatwoods Soap Co",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-81.998798,34.929323,-81.998798,34.929323],
-  "geometry": {"coordinates":[-81.998798,34.929323],"type":"Point"}
+  "bbox": [
+    -81.998798,
+    34.929323,
+    -81.998798,
+    34.929323
+],
+  "geometry": {"coordinates":[-81.99879799999999,34.929323],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370871603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.355639,33.833462,-80.355639,33.833462",
     "geom:latitude":33.833462,
     "geom:longitude":-80.355639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3065 Tindal Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370871603,
-    "wof:lastmodified":1449030209,
+    "wof:lastmodified":1467082323,
     "wof:name":"Tindal Exteriors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.355639,33.833462,-80.355639,33.833462],
+  "bbox": [
+    -80.355639,
+    33.833462,
+    -80.355639,
+    33.833462
+],
   "geometry": {"coordinates":[-80.355639,33.833462],"type":"Point"}
 }

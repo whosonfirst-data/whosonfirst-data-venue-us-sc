@@ -2,13 +2,14 @@
   "id": 370966557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.360679,33.255181,-81.360679,33.255181",
     "geom:latitude":33.255181,
     "geom:longitude":-81.360679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Reynolds Rd",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370966557,
-    "wof:lastmodified":1449029085,
+    "wof:lastmodified":1467082298,
     "wof:name":"Barnwell County Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-81.360679,33.255181,-81.360679,33.255181],
+  "bbox": [
+    -81.360679,
+    33.255181,
+    -81.360679,
+    33.255181
+],
   "geometry": {"coordinates":[-81.360679,33.255181],"type":"Point"}
 }

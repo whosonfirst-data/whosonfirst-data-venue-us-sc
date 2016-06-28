@@ -2,13 +2,14 @@
   "id": 370375045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.123973,34.045099,-81.123973,34.045099",
     "geom:latitude":34.045099,
     "geom:longitude":-81.123973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"651 Saint Andrews Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370375045,
-    "wof:lastmodified":1449029189,
+    "wof:lastmodified":1467082300,
     "wof:name":"About Face",
     "wof:parent_id":85864289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.123973,34.045099,-81.123973,34.045099],
-  "geometry": {"coordinates":[-81.123973,34.045099],"type":"Point"}
+  "bbox": [
+    -81.123973,
+    34.045099,
+    -81.123973,
+    34.045099
+],
+  "geometry": {"coordinates":[-81.12397300000001,34.045099],"type":"Point"}
 }

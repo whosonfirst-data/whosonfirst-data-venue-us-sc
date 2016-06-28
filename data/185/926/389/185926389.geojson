@@ -2,13 +2,14 @@
   "id": 185926389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.812665,34.416483,-82.812665,34.416483",
     "geom:latitude":34.416483,
     "geom:longitude":-82.812665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Wilderness Ln",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185926389,
-    "wof:lastmodified":1449007150,
+    "wof:lastmodified":1467082191,
     "wof:name":"In Foster Construction Co",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.812665,34.416483,-82.812665,34.416483],
+  "bbox": [
+    -82.812665,
+    34.416483,
+    -82.812665,
+    34.416483
+],
   "geometry": {"coordinates":[-82.812665,34.416483],"type":"Point"}
 }

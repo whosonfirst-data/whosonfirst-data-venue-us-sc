@@ -2,13 +2,14 @@
   "id": 370167341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.651013,34.709573,-80.651013,34.709573",
     "geom:latitude":34.709573,
     "geom:longitude":-80.651013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Apollo Ln",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370167341,
-    "wof:lastmodified":1449030843,
+    "wof:lastmodified":1467082337,
     "wof:name":"Sim's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-80.651013,34.709573,-80.651013,34.709573],
-  "geometry": {"coordinates":[-80.651013,34.709573],"type":"Point"}
+  "bbox": [
+    -80.651013,
+    34.709573,
+    -80.651013,
+    34.709573
+],
+  "geometry": {"coordinates":[-80.65101300000001,34.709573],"type":"Point"}
 }

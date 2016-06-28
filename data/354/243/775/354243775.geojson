@@ -2,13 +2,14 @@
   "id": 354243775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.811279,34.59048,-82.811279,34.59048",
     "geom:latitude":34.59048,
     "geom:longitude":-82.811279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 Fants Grove Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354243775,
-    "wof:lastmodified":1449066473,
+    "wof:lastmodified":1467082427,
     "wof:name":"Dock & Roll",
     "wof:parent_id":85858639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dock"
     ]
 },
-  "bbox": [-82.811279,34.59048,-82.811279,34.59048],
+  "bbox": [
+    -82.811279,
+    34.59048,
+    -82.811279,
+    34.59048
+],
   "geometry": {"coordinates":[-82.811279,34.59048],"type":"Point"}
 }

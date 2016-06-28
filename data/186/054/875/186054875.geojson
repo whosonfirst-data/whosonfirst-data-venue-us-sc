@@ -2,13 +2,14 @@
   "id": 186054875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.210247,34.705199,-81.210247,34.705199",
     "geom:latitude":34.705199,
     "geom:longitude":-81.210247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"183 Gadsden St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186054875,
-    "wof:lastmodified":1449051650,
+    "wof:lastmodified":1467082399,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-81.210247,34.705199,-81.210247,34.705199],
+  "bbox": [
+    -81.210247,
+    34.705199,
+    -81.210247,
+    34.705199
+],
   "geometry": {"coordinates":[-81.210247,34.705199],"type":"Point"}
 }

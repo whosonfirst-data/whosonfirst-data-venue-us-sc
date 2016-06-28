@@ -2,13 +2,14 @@
   "id": 353928949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.054081,34.970766,-81.054081,34.970766",
     "geom:latitude":34.970766,
     "geom:longitude":-81.054081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 Ebenezer Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353928949,
-    "wof:lastmodified":1449020453,
+    "wof:lastmodified":1467082255,
     "wof:name":"Nail Salon",
     "wof:parent_id":85806757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-81.054081,34.970766,-81.054081,34.970766],
+  "bbox": [
+    -81.054081,
+    34.970766,
+    -81.054081,
+    34.970766
+],
   "geometry": {"coordinates":[-81.054081,34.970766],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354387577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.447432,34.847046,-82.447432,34.847046",
     "geom:latitude":34.847046,
     "geom:longitude":-82.447432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 Old Easley Hwy",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354387577,
-    "wof:lastmodified":1449067436,
+    "wof:lastmodified":1467082449,
     "wof:name":"Life Restoration Ctr",
     "wof:parent_id":85838763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.447432,34.847046,-82.447432,34.847046],
-  "geometry": {"coordinates":[-82.447432,34.847046],"type":"Point"}
+  "bbox": [
+    -82.447432,
+    34.847046,
+    -82.447432,
+    34.847046
+],
+  "geometry": {"coordinates":[-82.44743200000001,34.847046],"type":"Point"}
 }

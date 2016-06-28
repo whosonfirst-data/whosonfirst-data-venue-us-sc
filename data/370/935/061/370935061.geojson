@@ -2,13 +2,14 @@
   "id": 370935061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.081506,34.950132,-81.081506,34.950132",
     "geom:latitude":34.950132,
     "geom:longitude":-81.081506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2558 W Main St",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370935061,
-    "wof:lastmodified":1449031866,
+    "wof:lastmodified":1467082360,
     "wof:name":"Bryson Engraving Plus",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engraver"
     ]
 },
-  "bbox": [-81.081506,34.950132,-81.081506,34.950132],
+  "bbox": [
+    -81.081506,
+    34.950132,
+    -81.081506,
+    34.950132
+],
   "geometry": {"coordinates":[-81.081506,34.950132],"type":"Point"}
 }

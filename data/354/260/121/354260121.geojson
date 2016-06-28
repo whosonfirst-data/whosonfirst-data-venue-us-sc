@@ -2,13 +2,14 @@
   "id": 354260121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.114184,32.871238,-81.114184,32.871238",
     "geom:latitude":32.871238,
     "geom:longitude":-81.114184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Mulberry St W",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354260121,
-    "wof:lastmodified":1449066223,
+    "wof:lastmodified":1467082421,
     "wof:name":"Peggy's Day Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.114184,32.871238,-81.114184,32.871238],
-  "geometry": {"coordinates":[-81.114184,32.871238],"type":"Point"}
+  "bbox": [
+    -81.114184,
+    32.871238,
+    -81.114184,
+    32.871238
+],
+  "geometry": {"coordinates":[-81.11418399999999,32.871238],"type":"Point"}
 }

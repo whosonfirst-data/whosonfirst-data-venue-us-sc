@@ -2,13 +2,14 @@
   "id": 337576291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.37444,34.445274,-79.37444,34.445274",
     "geom:latitude":34.445274,
     "geom:longitude":-79.37444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1229 Radford Blvd",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337576291,
-    "wof:lastmodified":1449027560,
+    "wof:lastmodified":1467082288,
     "wof:name":"Missy's One Stop",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.37444,34.445274,-79.37444,34.445274],
-  "geometry": {"coordinates":[-79.37444,34.445274],"type":"Point"}
+  "bbox": [
+    -79.37444,
+    34.445274,
+    -79.37444,
+    34.445274
+],
+  "geometry": {"coordinates":[-79.37444000000001,34.445274],"type":"Point"}
 }

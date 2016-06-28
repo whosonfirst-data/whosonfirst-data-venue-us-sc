@@ -2,13 +2,14 @@
   "id": 354008485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.029512,34.008429,-81.029512,34.008429",
     "geom:latitude":34.008429,
     "geom:longitude":-81.029512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 Pickens St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354008485,
-    "wof:lastmodified":1449066446,
+    "wof:lastmodified":1467082426,
     "wof:name":"Columbia Vet Ctr",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-81.029512,34.008429,-81.029512,34.008429],
+  "bbox": [
+    -81.029512,
+    34.008429,
+    -81.029512,
+    34.008429
+],
   "geometry": {"coordinates":[-81.029512,34.008429],"type":"Point"}
 }

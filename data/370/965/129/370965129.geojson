@@ -2,13 +2,14 @@
   "id": 370965129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.401956,34.870785,-82.401956,34.870785",
     "geom:latitude":34.870785,
     "geom:longitude":-82.401956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Rutherford Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370965129,
-    "wof:lastmodified":1449031451,
+    "wof:lastmodified":1467082350,
     "wof:name":"Habitat-Humanity Thrift Store",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-82.401956,34.870785,-82.401956,34.870785],
+  "bbox": [
+    -82.401956,
+    34.870785,
+    -82.401956,
+    34.870785
+],
   "geometry": {"coordinates":[-82.401956,34.870785],"type":"Point"}
 }

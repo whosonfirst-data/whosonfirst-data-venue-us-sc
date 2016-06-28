@@ -2,13 +2,14 @@
   "id": 370588119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.861366,32.27057,-80.861366,32.27057",
     "geom:latitude":32.27057,
     "geom:longitude":-80.861366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Towne Dr",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370588119,
-    "wof:lastmodified":1449031813,
+    "wof:lastmodified":1467082359,
     "wof:name":"Fingertips By Star",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-80.861366,32.27057,-80.861366,32.27057],
+  "bbox": [
+    -80.861366,
+    32.27057,
+    -80.861366,
+    32.27057
+],
   "geometry": {"coordinates":[-80.861366,32.27057],"type":"Point"}
 }

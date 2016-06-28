@@ -2,13 +2,14 @@
   "id": 370821003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.392023,34.782167,-80.392023,34.782167",
     "geom:latitude":34.782167,
     "geom:longitude":-80.392023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 E Hunter St",
     "sg:city":"Pageland",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":370821003,
-    "wof:lastmodified":1449030911,
+    "wof:lastmodified":1467082338,
     "wof:name":"Hunters Pointe Garden Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-80.392023,34.782167,-80.392023,34.782167],
-  "geometry": {"coordinates":[-80.392023,34.782167],"type":"Point"}
+  "bbox": [
+    -80.392023,
+    34.782167,
+    -80.392023,
+    34.782167
+],
+  "geometry": {"coordinates":[-80.39202299999999,34.782167],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185838601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.157046,33.893238,-81.157046,33.893238",
     "geom:latitude":33.893238,
     "geom:longitude":-81.157046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4824 Edmund Hwy",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185838601,
-    "wof:lastmodified":1449006795,
+    "wof:lastmodified":1467082185,
     "wof:name":"Terrys Auto Sales",
     "wof:parent_id":85847855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-81.157046,33.893238,-81.157046,33.893238],
-  "geometry": {"coordinates":[-81.157046,33.893238],"type":"Point"}
+  "bbox": [
+    -81.157046,
+    33.893238,
+    -81.157046,
+    33.893238
+],
+  "geometry": {"coordinates":[-81.15704599999999,33.893238],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370448875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.860492,33.486495,-80.860492,33.486495",
     "geom:latitude":33.486495,
     "geom:longitude":-80.860492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 Glover St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370448875,
-    "wof:lastmodified":1449032308,
+    "wof:lastmodified":1467082370,
     "wof:name":"Southern Kitchen Concepts",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-80.860492,33.486495,-80.860492,33.486495],
-  "geometry": {"coordinates":[-80.860492,33.486495],"type":"Point"}
+  "bbox": [
+    -80.860492,
+    33.486495,
+    -80.860492,
+    33.486495
+],
+  "geometry": {"coordinates":[-80.86049199999999,33.486495],"type":"Point"}
 }

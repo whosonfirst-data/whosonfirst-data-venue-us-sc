@@ -2,13 +2,14 @@
   "id": 353739805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.093244,35.054511,-82.093244,35.054511",
     "geom:latitude":35.054511,
     "geom:longitude":-82.093244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 N Howard St",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353739805,
-    "wof:lastmodified":1449019322,
+    "wof:lastmodified":1467082231,
     "wof:name":"L H Hallman DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.093244,35.054511,-82.093244,35.054511],
+  "bbox": [
+    -82.093244,
+    35.054511,
+    -82.093244,
+    35.054511
+],
   "geometry": {"coordinates":[-82.093244,35.054511],"type":"Point"}
 }

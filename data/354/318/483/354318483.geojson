@@ -2,13 +2,14 @@
   "id": 354318483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.840642,34.941106,-81.840642,34.941106",
     "geom:latitude":34.941106,
     "geom:longitude":-81.840642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3080 Whitestone Glendale Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354318483,
-    "wof:lastmodified":1449066291,
+    "wof:lastmodified":1467082423,
     "wof:name":"Mack's Metal Fab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "utility"
     ]
 },
-  "bbox": [-81.840642,34.941106,-81.840642,34.941106],
+  "bbox": [
+    -81.840642,
+    34.941106,
+    -81.840642,
+    34.941106
+],
   "geometry": {"coordinates":[-81.840642,34.941106],"type":"Point"}
 }

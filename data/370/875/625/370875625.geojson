@@ -2,13 +2,14 @@
   "id": 370875625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.890327,34.570003,-80.890327,34.570003",
     "geom:latitude":34.570003,
     "geom:longitude":-80.890327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 Dearborn St",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370875625,
-    "wof:lastmodified":1449031615,
+    "wof:lastmodified":1467082354,
     "wof:name":"Eagle Stores",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.890327,34.570003,-80.890327,34.570003],
+  "bbox": [
+    -80.890327,
+    34.570003,
+    -80.890327,
+    34.570003
+],
   "geometry": {"coordinates":[-80.890327,34.570003],"type":"Point"}
 }

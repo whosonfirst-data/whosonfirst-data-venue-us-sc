@@ -2,13 +2,14 @@
   "id": 185898531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.494792,34.770542,-81.494792,34.770542",
     "geom:latitude":34.770542,
     "geom:longitude":-81.494792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 River Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":185898531,
-    "wof:lastmodified":1449006567,
+    "wof:lastmodified":1467082181,
     "wof:name":"Lockhart Power Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-81.494792,34.770542,-81.494792,34.770542],
+  "bbox": [
+    -81.494792,
+    34.770542,
+    -81.494792,
+    34.770542
+],
   "geometry": {"coordinates":[-81.494792,34.770542],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370220875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.969457,35.04013,-81.969457,35.04013",
     "geom:latitude":35.04013,
     "geom:longitude":-81.969457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Scenic Cir",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370220875,
-    "wof:lastmodified":1449032351,
+    "wof:lastmodified":1467082371,
     "wof:name":"Harry & Judy Miller Slipcovers",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.969457,35.04013,-81.969457,35.04013],
-  "geometry": {"coordinates":[-81.969457,35.04013],"type":"Point"}
+  "bbox": [
+    -81.969457,
+    35.04013,
+    -81.969457,
+    35.04013
+],
+  "geometry": {"coordinates":[-81.96945700000001,35.04013],"type":"Point"}
 }

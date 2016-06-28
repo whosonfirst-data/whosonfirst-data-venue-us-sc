@@ -2,13 +2,14 @@
   "id": 370362925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.093069,35.11304,-82.093069,35.11304",
     "geom:latitude":35.11304,
     "geom:longitude":-82.093069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Wall Ct",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":370362925,
-    "wof:lastmodified":1449031260,
+    "wof:lastmodified":1467082346,
     "wof:name":"Appraisal Professionals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-82.093069,35.11304,-82.093069,35.11304],
+  "bbox": [
+    -82.093069,
+    35.11304,
+    -82.093069,
+    35.11304
+],
   "geometry": {"coordinates":[-82.093069,35.11304],"type":"Point"}
 }

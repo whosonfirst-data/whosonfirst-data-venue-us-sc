@@ -2,13 +2,14 @@
   "id": 354311347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.602663,34.886478,-82.602663,34.886478",
     "geom:latitude":34.886478,
     "geom:longitude":-82.602663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1822 Dacusville Hwy",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354311347,
-    "wof:lastmodified":1449066329,
+    "wof:lastmodified":1467082423,
     "wof:name":"PAR-Tee Time",
     "wof:parent_id":85832619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.602663,34.886478,-82.602663,34.886478],
-  "geometry": {"coordinates":[-82.602663,34.886478],"type":"Point"}
+  "bbox": [
+    -82.602663,
+    34.886478,
+    -82.602663,
+    34.886478
+],
+  "geometry": {"coordinates":[-82.60266300000001,34.886478],"type":"Point"}
 }

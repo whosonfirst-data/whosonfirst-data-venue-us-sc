@@ -2,13 +2,14 @@
   "id": 370679525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.744292,32.230517,-80.744292,32.230517",
     "geom:latitude":32.230517,
     "geom:longitude":-80.744292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Chinaberry Cir",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370679525,
-    "wof:lastmodified":1449031254,
+    "wof:lastmodified":1467082346,
     "wof:name":"Tolliver Electric Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.744292,32.230517,-80.744292,32.230517],
+  "bbox": [
+    -80.744292,
+    32.230517,
+    -80.744292,
+    32.230517
+],
   "geometry": {"coordinates":[-80.744292,32.230517],"type":"Point"}
 }

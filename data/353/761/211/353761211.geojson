@@ -2,13 +2,14 @@
   "id": 353761211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.390844,34.773013,-82.390844,34.773013",
     "geom:latitude":34.773013,
     "geom:longitude":-82.390844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Alva St",
     "sg:city":"Fountain Inn",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353761211,
-    "wof:lastmodified":1449020205,
+    "wof:lastmodified":1467082249,
     "wof:name":"Ballet N Boots",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.390844,34.773013,-82.390844,34.773013],
+  "bbox": [
+    -82.390844,
+    34.773013,
+    -82.390844,
+    34.773013
+],
   "geometry": {"coordinates":[-82.390844,34.773013],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185688791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.513601,33.919676,-81.513601,33.919676",
     "geom:latitude":33.919676,
     "geom:longitude":-81.513601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 Main St",
     "sg:city":"Leesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185688791,
-    "wof:lastmodified":1449007211,
+    "wof:lastmodified":1467082191,
     "wof:name":"Barr-Price Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-81.513601,33.919676,-81.513601,33.919676],
-  "geometry": {"coordinates":[-81.513601,33.919676],"type":"Point"}
+  "bbox": [
+    -81.513601,
+    33.919676,
+    -81.513601,
+    33.919676
+],
+  "geometry": {"coordinates":[-81.51360099999999,33.919676],"type":"Point"}
 }

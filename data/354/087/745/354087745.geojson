@@ -2,13 +2,14 @@
   "id": 354087745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.994514,34.091552,-80.994514,34.091552",
     "geom:latitude":34.091552,
     "geom:longitude":-80.994514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8000 Wilson Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354087745,
-    "wof:lastmodified":1449066706,
+    "wof:lastmodified":1467082432,
     "wof:name":"Bentley Pontoons",
     "wof:parent_id":85850805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.994514,34.091552,-80.994514,34.091552],
+  "bbox": [
+    -80.994514,
+    34.091552,
+    -80.994514,
+    34.091552
+],
   "geometry": {"coordinates":[-80.994514,34.091552],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337430833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.356222,34.897756,-81.356222,34.897756",
     "geom:latitude":34.897756,
     "geom:longitude":-81.356222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2480 Sunset Meadow Ln",
     "sg:city":"Sharon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337430833,
-    "wof:lastmodified":1449027473,
+    "wof:lastmodified":1467082285,
     "wof:name":"Sherer's Tree Farm",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-81.356222,34.897756,-81.356222,34.897756],
+  "bbox": [
+    -81.356222,
+    34.897756,
+    -81.356222,
+    34.897756
+],
   "geometry": {"coordinates":[-81.356222,34.897756],"type":"Point"}
 }

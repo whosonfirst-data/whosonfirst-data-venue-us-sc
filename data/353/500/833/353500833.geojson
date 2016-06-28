@@ -2,13 +2,14 @@
   "id": 353500833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.702141,34.514409,-82.702141,34.514409",
     "geom:latitude":34.514409,
     "geom:longitude":-82.702141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Loblolly Dr",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353500833,
-    "wof:lastmodified":1449018904,
+    "wof:lastmodified":1467082223,
     "wof:name":"Fortified Roofing",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.702141,34.514409,-82.702141,34.514409],
+  "bbox": [
+    -82.702141,
+    34.514409,
+    -82.702141,
+    34.514409
+],
   "geometry": {"coordinates":[-82.702141,34.514409],"type":"Point"}
 }

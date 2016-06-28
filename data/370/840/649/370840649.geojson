@@ -2,13 +2,14 @@
   "id": 370840649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.070495,34.374419,-80.070495,34.374419",
     "geom:latitude":34.374419,
     "geom:longitude":-80.070495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S 4th St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370840649,
-    "wof:lastmodified":1449031722,
+    "wof:lastmodified":1467082357,
     "wof:name":"Graham Construction Co",
     "wof:parent_id":85811765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.070495,34.374419,-80.070495,34.374419],
-  "geometry": {"coordinates":[-80.070495,34.374419],"type":"Point"}
+  "bbox": [
+    -80.070495,
+    34.374419,
+    -80.070495,
+    34.374419
+],
+  "geometry": {"coordinates":[-80.07049499999999,34.374419],"type":"Point"}
 }

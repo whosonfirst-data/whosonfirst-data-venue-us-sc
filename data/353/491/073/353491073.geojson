@@ -2,13 +2,14 @@
   "id": 353491073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.036873,33.876345,-81.036873,33.876345",
     "geom:latitude":33.876345,
     "geom:longitude":-81.036873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Access Rd",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":353491073,
-    "wof:lastmodified":1449018214,
+    "wof:lastmodified":1467082209,
     "wof:name":"UTI Integrated Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-81.036873,33.876345,-81.036873,33.876345],
+  "bbox": [
+    -81.036873,
+    33.876345,
+    -81.036873,
+    33.876345
+],
   "geometry": {"coordinates":[-81.036873,33.876345],"type":"Point"}
 }

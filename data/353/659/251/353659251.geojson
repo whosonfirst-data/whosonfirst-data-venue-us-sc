@@ -2,13 +2,14 @@
   "id": 353659251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.229054,33.955259,-81.229054,33.955259",
     "geom:latitude":33.955259,
     "geom:longitude":-81.229054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1449 Two Notch Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353659251,
-    "wof:lastmodified":1449018524,
+    "wof:lastmodified":1467082215,
     "wof:name":"First Community Bank",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.229054,33.955259,-81.229054,33.955259],
+  "bbox": [
+    -81.229054,
+    33.955259,
+    -81.229054,
+    33.955259
+],
   "geometry": {"coordinates":[-81.229054,33.955259],"type":"Point"}
 }

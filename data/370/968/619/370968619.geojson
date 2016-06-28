@@ -2,13 +2,14 @@
   "id": 370968619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.870132,34.918338,-81.870132,34.918338",
     "geom:latitude":34.918338,
     "geom:longitude":-81.870132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Crest Cir",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370968619,
-    "wof:lastmodified":1449029296,
+    "wof:lastmodified":1467082303,
     "wof:name":"Premiere Custom Builders LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bolt"
     ]
 },
-  "bbox": [-81.870132,34.918338,-81.870132,34.918338],
+  "bbox": [
+    -81.870132,
+    34.918338,
+    -81.870132,
+    34.918338
+],
   "geometry": {"coordinates":[-81.870132,34.918338],"type":"Point"}
 }

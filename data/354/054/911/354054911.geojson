@@ -2,13 +2,14 @@
   "id": 354054911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.247683,33.990104,-81.247683,33.990104",
     "geom:latitude":33.990104,
     "geom:longitude":-81.247683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Old Chapin Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354054911,
-    "wof:lastmodified":1449066725,
+    "wof:lastmodified":1467082432,
     "wof:name":"Kutting Room",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.247683,33.990104,-81.247683,33.990104],
-  "geometry": {"coordinates":[-81.247683,33.990104],"type":"Point"}
+  "bbox": [
+    -81.247683,
+    33.990104,
+    -81.247683,
+    33.990104
+],
+  "geometry": {"coordinates":[-81.24768299999999,33.990104],"type":"Point"}
 }

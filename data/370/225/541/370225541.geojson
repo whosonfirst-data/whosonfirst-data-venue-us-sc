@@ -2,13 +2,14 @@
   "id": 370225541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.755986,34.194234,-79.755986,34.194234",
     "geom:latitude":34.194234,
     "geom:longitude":-79.755986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 E Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370225541,
-    "wof:lastmodified":1449030145,
+    "wof:lastmodified":1467082322,
     "wof:name":"Yarborough's Auto Parts",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.755986,34.194234,-79.755986,34.194234],
-  "geometry": {"coordinates":[-79.755986,34.194234],"type":"Point"}
+  "bbox": [
+    -79.755986,
+    34.194234,
+    -79.755986,
+    34.194234
+],
+  "geometry": {"coordinates":[-79.75598599999999,34.194234],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185607835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.039744,34.035173,-81.039744,34.035173",
     "geom:latitude":34.035173,
     "geom:longitude":-81.039744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Elmore St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185607835,
-    "wof:lastmodified":1449006817,
+    "wof:lastmodified":1467082185,
     "wof:name":"Beautee Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.039744,34.035173,-81.039744,34.035173],
+  "bbox": [
+    -81.039744,
+    34.035173,
+    -81.039744,
+    34.035173
+],
   "geometry": {"coordinates":[-81.039744,34.035173],"type":"Point"}
 }

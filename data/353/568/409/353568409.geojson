@@ -2,13 +2,14 @@
   "id": 353568409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.804854,33.956611,-79.804854,33.956611",
     "geom:latitude":33.956611,
     "geom:longitude":-79.804854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2337 McAllister Mill Rd",
     "sg:city":"Scranton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353568409,
-    "wof:lastmodified":1449018194,
+    "wof:lastmodified":1467082208,
     "wof:name":"Salem Freewill Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.804854,33.956611,-79.804854,33.956611],
-  "geometry": {"coordinates":[-79.804854,33.956611],"type":"Point"}
+  "bbox": [
+    -79.804854,
+    33.956611,
+    -79.804854,
+    33.956611
+],
+  "geometry": {"coordinates":[-79.80485400000001,33.956611],"type":"Point"}
 }

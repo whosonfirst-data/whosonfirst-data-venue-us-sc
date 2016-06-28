@@ -2,13 +2,14 @@
   "id": 353790141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.603001,35.082182,-81.603001,35.082182",
     "geom:latitude":35.082182,
     "geom:longitude":-81.603001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Northy St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353790141,
-    "wof:lastmodified":1449020226,
+    "wof:lastmodified":1467082250,
     "wof:name":"Freedom Fellowship Bapt Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.603001,35.082182,-81.603001,35.082182],
-  "geometry": {"coordinates":[-81.603001,35.082182],"type":"Point"}
+  "bbox": [
+    -81.603001,
+    35.082182,
+    -81.603001,
+    35.082182
+],
+  "geometry": {"coordinates":[-81.60300100000001,35.082182],"type":"Point"}
 }

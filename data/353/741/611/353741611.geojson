@@ -2,13 +2,14 @@
   "id": 353741611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.320613,34.842964,-82.320613,34.842964",
     "geom:latitude":34.842964,
     "geom:longitude":-82.320613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Gloucester Ferry Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353741611,
-    "wof:lastmodified":1449018384,
+    "wof:lastmodified":1467082212,
     "wof:name":"Paces Court",
     "wof:parent_id":85829925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.320613,34.842964,-82.320613,34.842964],
-  "geometry": {"coordinates":[-82.320613,34.842964],"type":"Point"}
+  "bbox": [
+    -82.320613,
+    34.842964,
+    -82.320613,
+    34.842964
+],
+  "geometry": {"coordinates":[-82.32061299999999,34.842964],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186114301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.724793,34.906553,-82.724793,34.906553",
     "geom:latitude":34.906553,
     "geom:longitude":-82.724793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"328 Red Hill Rd",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186114301,
-    "wof:lastmodified":1449051496,
+    "wof:lastmodified":1467082398,
     "wof:name":"Bailey Keasler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-82.724793,34.906553,-82.724793,34.906553],
-  "geometry": {"coordinates":[-82.724793,34.906553],"type":"Point"}
+  "bbox": [
+    -82.724793,
+    34.906553,
+    -82.724793,
+    34.906553
+],
+  "geometry": {"coordinates":[-82.72479300000001,34.906553],"type":"Point"}
 }

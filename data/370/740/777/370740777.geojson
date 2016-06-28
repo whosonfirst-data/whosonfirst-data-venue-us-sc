@@ -2,13 +2,14 @@
   "id": 370740777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.983195,34.073445,-78.983195,34.073445",
     "geom:latitude":34.073445,
     "geom:longitude":-78.983195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3064 Coates Rd",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370740777,
-    "wof:lastmodified":1449030631,
+    "wof:lastmodified":1467082332,
     "wof:name":"Henry Backhoe Service",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.983195,34.073445,-78.983195,34.073445],
-  "geometry": {"coordinates":[-78.983195,34.073445],"type":"Point"}
+  "bbox": [
+    -78.983195,
+    34.073445,
+    -78.983195,
+    34.073445
+],
+  "geometry": {"coordinates":[-78.98319499999999,34.073445],"type":"Point"}
 }

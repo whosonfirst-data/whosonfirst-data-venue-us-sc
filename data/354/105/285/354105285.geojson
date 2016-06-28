@@ -2,13 +2,14 @@
   "id": 354105285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.134806,34.908824,-82.134806,34.908824",
     "geom:latitude":34.908824,
     "geom:longitude":-82.134806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 S Danzler Rd",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354105285,
-    "wof:lastmodified":1449066564,
+    "wof:lastmodified":1467082429,
     "wof:name":"GE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "utility"
     ]
 },
-  "bbox": [-82.134806,34.908824,-82.134806,34.908824],
+  "bbox": [
+    -82.134806,
+    34.908824,
+    -82.134806,
+    34.908824
+],
   "geometry": {"coordinates":[-82.134806,34.908824],"type":"Point"}
 }

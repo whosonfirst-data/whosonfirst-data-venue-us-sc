@@ -2,13 +2,14 @@
   "id": 370509965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.488745,34.851706,-82.488745,34.851706",
     "geom:latitude":34.851706,
     "geom:longitude":-82.488745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Midland Dr",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370509965,
-    "wof:lastmodified":1449029209,
+    "wof:lastmodified":1467082301,
     "wof:name":"Day Concrete Finishing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "finishing"
     ]
 },
-  "bbox": [-82.488745,34.851706,-82.488745,34.851706],
-  "geometry": {"coordinates":[-82.488745,34.851706],"type":"Point"}
+  "bbox": [
+    -82.488745,
+    34.851706,
+    -82.488745,
+    34.851706
+],
+  "geometry": {"coordinates":[-82.48874499999999,34.851706],"type":"Point"}
 }

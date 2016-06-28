@@ -2,13 +2,14 @@
   "id": 169750823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.783965,34.196436,-79.783965,34.196436",
     "geom:latitude":34.196436,
     "geom:longitude":-79.783965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 W Evans St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169750823,
-    "wof:lastmodified":1449034679,
+    "wof:lastmodified":1467082384,
     "wof:name":"Pee Dee Mortgage Corp",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-79.783965,34.196436,-79.783965,34.196436],
-  "geometry": {"coordinates":[-79.783965,34.196436],"type":"Point"}
+  "bbox": [
+    -79.783965,
+    34.196436,
+    -79.783965,
+    34.196436
+],
+  "geometry": {"coordinates":[-79.78396499999999,34.196436],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354249681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.31988,32.491116,-80.31988,32.491116",
     "geom:latitude":32.491116,
     "geom:longitude":-80.31988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Nancy St",
     "sg:city":"Edisto Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354249681,
-    "wof:lastmodified":1449066035,
+    "wof:lastmodified":1467082417,
     "wof:name":"Donald L Hartman M D PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-80.31988,32.491116,-80.31988,32.491116],
+  "bbox": [
+    -80.31988,
+    32.491116,
+    -80.31988,
+    32.491116
+],
   "geometry": {"coordinates":[-80.31988,32.491116],"type":"Point"}
 }

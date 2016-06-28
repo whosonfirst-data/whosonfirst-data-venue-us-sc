@@ -2,13 +2,14 @@
   "id": 370901805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.782858,34.10815,-79.782858,34.10815",
     "geom:latitude":34.10815,
     "geom:longitude":-79.782858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3919 S Irby St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370901805,
-    "wof:lastmodified":1449030504,
+    "wof:lastmodified":1467082330,
     "wof:name":"Tans Bay Baptist Church",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.782858,34.10815,-79.782858,34.10815],
+  "bbox": [
+    -79.782858,
+    34.10815,
+    -79.782858,
+    34.10815
+],
   "geometry": {"coordinates":[-79.782858,34.10815],"type":"Point"}
 }

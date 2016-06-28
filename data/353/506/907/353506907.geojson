@@ -2,13 +2,14 @@
   "id": 353506907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.210953,33.975659,-81.210953,33.975659",
     "geom:latitude":33.975659,
     "geom:longitude":-81.210953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5248 Augusta Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353506907,
-    "wof:lastmodified":1449018312,
+    "wof:lastmodified":1467082211,
     "wof:name":"David Paul Builders",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-81.210953,33.975659,-81.210953,33.975659],
+  "bbox": [
+    -81.210953,
+    33.975659,
+    -81.210953,
+    33.975659
+],
   "geometry": {"coordinates":[-81.210953,33.975659],"type":"Point"}
 }

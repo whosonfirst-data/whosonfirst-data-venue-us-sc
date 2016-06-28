@@ -2,13 +2,14 @@
   "id": 370403413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.704375,32.220158,-80.704375,32.220158",
     "geom:latitude":32.220158,
     "geom:longitude":-80.704375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Palmetto Pkwy",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370403413,
-    "wof:lastmodified":1449031991,
+    "wof:lastmodified":1467082363,
     "wof:name":"United States Audio Visual",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leasing"
     ]
 },
-  "bbox": [-80.704375,32.220158,-80.704375,32.220158],
+  "bbox": [
+    -80.704375,
+    32.220158,
+    -80.704375,
+    32.220158
+],
   "geometry": {"coordinates":[-80.704375,32.220158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370159865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.675306,34.106842,-79.675306,34.106842",
     "geom:latitude":34.106842,
     "geom:longitude":-79.675306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4381 Rocking Chair Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":370159865,
-    "wof:lastmodified":1449029497,
+    "wof:lastmodified":1467082307,
     "wof:name":"Carl's Landscaping",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "landscape"
     ]
 },
-  "bbox": [-79.675306,34.106842,-79.675306,34.106842],
-  "geometry": {"coordinates":[-79.675306,34.106842],"type":"Point"}
+  "bbox": [
+    -79.675306,
+    34.106842,
+    -79.675306,
+    34.106842
+],
+  "geometry": {"coordinates":[-79.67530600000001,34.106842],"type":"Point"}
 }

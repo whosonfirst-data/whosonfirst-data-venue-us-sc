@@ -2,13 +2,14 @@
   "id": 370453099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.9562,34.879947,-81.9562,34.879947",
     "geom:latitude":34.879947,
     "geom:longitude":-81.9562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4385 S Church St Exd",
     "sg:city":"Roebuck",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370453099,
-    "wof:lastmodified":1449031639,
+    "wof:lastmodified":1467082355,
     "wof:name":"Southern Printing & Type",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-81.9562,34.879947,-81.9562,34.879947],
+  "bbox": [
+    -81.9562,
+    34.879947,
+    -81.9562,
+    34.879947
+],
   "geometry": {"coordinates":[-81.9562,34.879947],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370280047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.964372,32.84561,-79.964372,32.84561",
     "geom:latitude":32.84561,
     "geom:longitude":-79.964372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2014 Jacksonville Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370280047,
-    "wof:lastmodified":1449030747,
+    "wof:lastmodified":1467082335,
     "wof:name":"Big Red Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "handling"
     ]
 },
-  "bbox": [-79.964372,32.84561,-79.964372,32.84561],
+  "bbox": [
+    -79.964372,
+    32.84561,
+    -79.964372,
+    32.84561
+],
   "geometry": {"coordinates":[-79.964372,32.84561],"type":"Point"}
 }

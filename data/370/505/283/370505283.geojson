@@ -2,13 +2,14 @@
   "id": 370505283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.895669,33.697471,-78.895669,33.697471",
     "geom:latitude":33.697471,
     "geom:longitude":-78.895669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 US Hwy 501",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370505283,
-    "wof:lastmodified":1449031906,
+    "wof:lastmodified":1467082361,
     "wof:name":"Genco Inc",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [-78.895669,33.697471,-78.895669,33.697471],
+  "bbox": [
+    -78.895669,
+    33.697471,
+    -78.895669,
+    33.697471
+],
   "geometry": {"coordinates":[-78.895669,33.697471],"type":"Point"}
 }

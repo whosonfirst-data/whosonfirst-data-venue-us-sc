@@ -2,13 +2,14 @@
   "id": 185629441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.178073,32.999075,-80.178073,32.999075",
     "geom:latitude":32.999075,
     "geom:longitude":-80.178073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Dogwood Cir",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185629441,
-    "wof:lastmodified":1449007851,
+    "wof:lastmodified":1467082201,
     "wof:name":"Trio Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-80.178073,32.999075,-80.178073,32.999075],
+  "bbox": [
+    -80.178073,
+    32.999075,
+    -80.178073,
+    32.999075
+],
   "geometry": {"coordinates":[-80.178073,32.999075],"type":"Point"}
 }

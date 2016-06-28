@@ -2,13 +2,14 @@
   "id": 370523339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.938475,34.700499,-82.938475,34.700499",
     "geom:latitude":34.700499,
     "geom:longitude":-82.938475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Rochester Hwy",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370523339,
-    "wof:lastmodified":1449031022,
+    "wof:lastmodified":1467082341,
     "wof:name":"Silver Bucket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-82.938475,34.700499,-82.938475,34.700499],
+  "bbox": [
+    -82.938475,
+    34.700499,
+    -82.938475,
+    34.700499
+],
   "geometry": {"coordinates":[-82.938475,34.700499],"type":"Point"}
 }

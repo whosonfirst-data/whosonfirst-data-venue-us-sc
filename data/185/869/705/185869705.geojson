@@ -2,13 +2,14 @@
   "id": 185869705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.112596,34.782784,-82.112596,34.782784",
     "geom:latitude":34.782784,
     "geom:longitude":-82.112596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Bellview Rd",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":185869705,
-    "wof:lastmodified":1449008092,
+    "wof:lastmodified":1467082205,
     "wof:name":"Bellview Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.112596,34.782784,-82.112596,34.782784],
+  "bbox": [
+    -82.112596,
+    34.782784,
+    -82.112596,
+    34.782784
+],
   "geometry": {"coordinates":[-82.112596,34.782784],"type":"Point"}
 }

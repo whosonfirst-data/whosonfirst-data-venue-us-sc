@@ -2,13 +2,14 @@
   "id": 370374847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.958247,34.686506,-82.958247,34.686506",
     "geom:latitude":34.686506,
     "geom:longitude":-82.958247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N Pine St",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370374847,
-    "wof:lastmodified":1449030563,
+    "wof:lastmodified":1467082331,
     "wof:name":"Oconee Pediatrics",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.958247,34.686506,-82.958247,34.686506],
+  "bbox": [
+    -82.958247,
+    34.686506,
+    -82.958247,
+    34.686506
+],
   "geometry": {"coordinates":[-82.958247,34.686506],"type":"Point"}
 }

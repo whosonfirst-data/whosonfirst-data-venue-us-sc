@@ -2,13 +2,14 @@
   "id": 370566699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.896335,33.691514,-78.896335,33.691514",
     "geom:latitude":33.691514,
     "geom:longitude":-78.896335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 3rd Ave S",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370566699,
-    "wof:lastmodified":1449029135,
+    "wof:lastmodified":1467082299,
     "wof:name":"MPR",
     "wof:parent_id":85814761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cutlery"
     ]
 },
-  "bbox": [-78.896335,33.691514,-78.896335,33.691514],
-  "geometry": {"coordinates":[-78.896335,33.691514],"type":"Point"}
+  "bbox": [
+    -78.896335,
+    33.691514,
+    -78.896335,
+    33.691514
+],
+  "geometry": {"coordinates":[-78.89633499999999,33.691514],"type":"Point"}
 }

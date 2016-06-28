@@ -2,13 +2,14 @@
   "id": 354358831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.990848,33.202711,-79.990848,33.202711",
     "geom:latitude":33.202711,
     "geom:longitude":-79.990848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"393 Corner Square Plz",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354358831,
-    "wof:lastmodified":1449066639,
+    "wof:lastmodified":1467082431,
     "wof:name":"Glamor Cuts",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.990848,33.202711,-79.990848,33.202711],
+  "bbox": [
+    -79.990848,
+    33.202711,
+    -79.990848,
+    33.202711
+],
   "geometry": {"coordinates":[-79.990848,33.202711],"type":"Point"}
 }

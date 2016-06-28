@@ -2,13 +2,14 @@
   "id": 354020419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.861244,34.278732,-79.861244,34.278732",
     "geom:latitude":34.278732,
     "geom:longitude":-79.861244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Chesterfield Lumber Rd",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354020419,
-    "wof:lastmodified":1449066714,
+    "wof:lastmodified":1467082432,
     "wof:name":"Ezzell Trucking",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.861244,34.278732,-79.861244,34.278732],
+  "bbox": [
+    -79.861244,
+    34.278732,
+    -79.861244,
+    34.278732
+],
   "geometry": {"coordinates":[-79.861244,34.278732],"type":"Point"}
 }

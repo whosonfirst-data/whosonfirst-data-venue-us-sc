@@ -2,13 +2,14 @@
   "id": 186292965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930548,32.776588,-79.930548,32.776588",
     "geom:latitude":32.776588,
     "geom:longitude":-79.930548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Broad St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186292965,
-    "wof:lastmodified":1449050472,
+    "wof:lastmodified":1467082390,
     "wof:name":"Candle Lovers Delight",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "candle"
     ]
 },
-  "bbox": [-79.930548,32.776588,-79.930548,32.776588],
+  "bbox": [
+    -79.930548,
+    32.776588,
+    -79.930548,
+    32.776588
+],
   "geometry": {"coordinates":[-79.930548,32.776588],"type":"Point"}
 }

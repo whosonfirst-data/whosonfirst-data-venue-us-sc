@@ -2,13 +2,14 @@
   "id": 370835233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.127903,33.976039,-81.127903,33.976039",
     "geom:latitude":33.976039,
     "geom:longitude":-81.127903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3254 Augusta Rd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370835233,
-    "wof:lastmodified":1449029579,
+    "wof:lastmodified":1467082309,
     "wof:name":"Mattressmax",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-81.127903,33.976039,-81.127903,33.976039],
+  "bbox": [
+    -81.127903,
+    33.976039,
+    -81.127903,
+    33.976039
+],
   "geometry": {"coordinates":[-81.127903,33.976039],"type":"Point"}
 }

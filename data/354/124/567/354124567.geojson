@@ -2,13 +2,14 @@
   "id": 354124567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.657154,34.504498,-82.657154,34.504498",
     "geom:latitude":34.504498,
     "geom:longitude":-82.657154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"354 Railroad Cir",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354124567,
-    "wof:lastmodified":1449067546,
+    "wof:lastmodified":1467082451,
     "wof:name":"Anderson Mills Development Grp",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-82.657154,34.504498,-82.657154,34.504498],
-  "geometry": {"coordinates":[-82.657154,34.504498],"type":"Point"}
+  "bbox": [
+    -82.657154,
+    34.504498,
+    -82.657154,
+    34.504498
+],
+  "geometry": {"coordinates":[-82.65715400000001,34.504498],"type":"Point"}
 }

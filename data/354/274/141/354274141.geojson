@@ -2,13 +2,14 @@
   "id": 354274141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.675061,33.823648,-78.675061,33.823648",
     "geom:latitude":33.823648,
     "geom:longitude":-78.675061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"457 Main St",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354274141,
-    "wof:lastmodified":1449066146,
+    "wof:lastmodified":1467082419,
     "wof:name":"Welsh & Hughes",
     "wof:parent_id":85826955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-78.675061,33.823648,-78.675061,33.823648],
+  "bbox": [
+    -78.675061,
+    33.823648,
+    -78.675061,
+    33.823648
+],
   "geometry": {"coordinates":[-78.675061,33.823648],"type":"Point"}
 }

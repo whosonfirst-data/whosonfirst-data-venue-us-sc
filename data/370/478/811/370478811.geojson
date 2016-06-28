@@ -2,13 +2,14 @@
   "id": 370478811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.720476,34.199972,-79.720476,34.199972",
     "geom:latitude":34.199972,
     "geom:longitude":-79.720476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 N Koppers Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":370478811,
-    "wof:lastmodified":1449029178,
+    "wof:lastmodified":1467082300,
     "wof:name":"Koppers Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-79.720476,34.199972,-79.720476,34.199972],
-  "geometry": {"coordinates":[-79.720476,34.199972],"type":"Point"}
+  "bbox": [
+    -79.720476,
+    34.199972,
+    -79.720476,
+    34.199972
+],
+  "geometry": {"coordinates":[-79.72047600000001,34.199972],"type":"Point"}
 }

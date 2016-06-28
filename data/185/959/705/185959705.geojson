@@ -2,13 +2,14 @@
   "id": 185959705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.004066,34.512462,-82.004066,34.512462",
     "geom:latitude":34.512462,
     "geom:longitude":-82.004066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 N Harper St",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185959705,
-    "wof:lastmodified":1449008063,
+    "wof:lastmodified":1467082205,
     "wof:name":"Laurens Insurance Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.004066,34.512462,-82.004066,34.512462],
-  "geometry": {"coordinates":[-82.004066,34.512462],"type":"Point"}
+  "bbox": [
+    -82.004066,
+    34.512462,
+    -82.004066,
+    34.512462
+],
+  "geometry": {"coordinates":[-82.00406599999999,34.512462],"type":"Point"}
 }

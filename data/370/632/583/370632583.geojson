@@ -2,13 +2,14 @@
   "id": 370632583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.699911,33.490776,-81.699911,33.490776",
     "geom:latitude":33.490776,
     "geom:longitude":-81.699911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3098 Whiskey Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370632583,
-    "wof:lastmodified":1449031237,
+    "wof:lastmodified":1467082346,
     "wof:name":"Richardson's Southside Florist",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.699911,33.490776,-81.699911,33.490776],
+  "bbox": [
+    -81.699911,
+    33.490776,
+    -81.699911,
+    33.490776
+],
   "geometry": {"coordinates":[-81.699911,33.490776],"type":"Point"}
 }

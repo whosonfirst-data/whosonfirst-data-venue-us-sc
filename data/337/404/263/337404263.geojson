@@ -2,13 +2,14 @@
   "id": 337404263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.89488,33.688857,-78.89488,33.688857",
     "geom:latitude":33.688857,
     "geom:longitude":-78.89488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 3rd Ave S",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337404263,
-    "wof:lastmodified":1449027498,
+    "wof:lastmodified":1467082286,
     "wof:name":"RAW Automotive",
     "wof:parent_id":85859339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.89488,33.688857,-78.89488,33.688857],
+  "bbox": [
+    -78.89488,
+    33.688857,
+    -78.89488,
+    33.688857
+],
   "geometry": {"coordinates":[-78.89488,33.688857],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337440343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.59016,34.520972,-81.59016,34.520972",
     "geom:latitude":34.520972,
     "geom:longitude":-81.59016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6266 Whitmire Hwy",
     "sg:city":"Whitmire",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":337440343,
-    "wof:lastmodified":1449027228,
+    "wof:lastmodified":1467082276,
     "wof:name":"Foothills Forest Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "timber"
     ]
 },
-  "bbox": [-81.59016,34.520972,-81.59016,34.520972],
+  "bbox": [
+    -81.59016,
+    34.520972,
+    -81.59016,
+    34.520972
+],
   "geometry": {"coordinates":[-81.59016,34.520972],"type":"Point"}
 }

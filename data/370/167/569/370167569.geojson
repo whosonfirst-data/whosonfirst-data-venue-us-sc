@@ -2,13 +2,14 @@
   "id": 370167569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.217845,32.947136,-80.217845,32.947136",
     "geom:latitude":32.947136,
     "geom:longitude":-80.217845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 W Walnut Cir",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370167569,
-    "wof:lastmodified":1449030843,
+    "wof:lastmodified":1467082337,
     "wof:name":"Steve Griffin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.217845,32.947136,-80.217845,32.947136],
+  "bbox": [
+    -80.217845,
+    32.947136,
+    -80.217845,
+    32.947136
+],
   "geometry": {"coordinates":[-80.217845,32.947136],"type":"Point"}
 }

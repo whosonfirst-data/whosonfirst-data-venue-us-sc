@@ -2,13 +2,14 @@
   "id": 370938995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.93123,33.939828,-79.93123,33.939828",
     "geom:latitude":33.939828,
     "geom:longitude":-79.93123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"352 N Jones Rd",
     "sg:city":"Olanta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370938995,
-    "wof:lastmodified":1449031620,
+    "wof:lastmodified":1467082354,
     "wof:name":"Dorothy's Diner",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.93123,33.939828,-79.93123,33.939828],
+  "bbox": [
+    -79.93123,
+    33.939828,
+    -79.93123,
+    33.939828
+],
   "geometry": {"coordinates":[-79.93123,33.939828],"type":"Point"}
 }

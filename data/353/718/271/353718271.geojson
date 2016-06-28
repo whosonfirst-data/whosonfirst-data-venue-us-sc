@@ -2,13 +2,14 @@
   "id": 353718271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.896217,33.961364,-80.896217,33.961364",
     "geom:latitude":33.961364,
     "geom:longitude":-80.896217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3018 Twin Oaks Way",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353718271,
-    "wof:lastmodified":1449018817,
+    "wof:lastmodified":1467082221,
     "wof:name":"M V Pets Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.896217,33.961364,-80.896217,33.961364],
-  "geometry": {"coordinates":[-80.896217,33.961364],"type":"Point"}
+  "bbox": [
+    -80.896217,
+    33.961364,
+    -80.896217,
+    33.961364
+],
+  "geometry": {"coordinates":[-80.89621699999999,33.961364],"type":"Point"}
 }

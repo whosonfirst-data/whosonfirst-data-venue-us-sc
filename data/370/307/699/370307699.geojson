@@ -2,13 +2,14 @@
   "id": 370307699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.66797,33.868261,-78.66797,33.868261",
     "geom:latitude":33.868261,
     "geom:longitude":-78.66797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1522 James Pl",
     "sg:city":"Little River",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370307699,
-    "wof:lastmodified":1449029971,
+    "wof:lastmodified":1467082318,
     "wof:name":"Abracadabra Chimney Sweep & Hm",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chimney"
     ]
 },
-  "bbox": [-78.66797,33.868261,-78.66797,33.868261],
+  "bbox": [
+    -78.66797,
+    33.868261,
+    -78.66797,
+    33.868261
+],
   "geometry": {"coordinates":[-78.66797,33.868261],"type":"Point"}
 }

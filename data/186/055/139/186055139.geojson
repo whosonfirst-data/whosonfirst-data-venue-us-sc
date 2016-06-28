@@ -2,13 +2,14 @@
   "id": 186055139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.802421,34.17996,-79.802421,34.17996",
     "geom:latitude":34.17996,
     "geom:longitude":-79.802421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 Fairway Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186055139,
-    "wof:lastmodified":1449050999,
+    "wof:lastmodified":1467082394,
     "wof:name":"Noteworthy Interiors",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-79.802421,34.17996,-79.802421,34.17996],
+  "bbox": [
+    -79.802421,
+    34.17996,
+    -79.802421,
+    34.17996
+],
   "geometry": {"coordinates":[-79.802421,34.17996],"type":"Point"}
 }

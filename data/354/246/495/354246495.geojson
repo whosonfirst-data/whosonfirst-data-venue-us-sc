@@ -2,13 +2,14 @@
   "id": 354246495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.101768,32.900194,-80.101768,32.900194",
     "geom:latitude":32.900194,
     "geom:longitude":-80.101768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Scottswood Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354246495,
-    "wof:lastmodified":1449066048,
+    "wof:lastmodified":1467082417,
     "wof:name":"Island Shading Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "blind"
     ]
 },
-  "bbox": [-80.101768,32.900194,-80.101768,32.900194],
-  "geometry": {"coordinates":[-80.101768,32.900194],"type":"Point"}
+  "bbox": [
+    -80.101768,
+    32.900194,
+    -80.101768,
+    32.900194
+],
+  "geometry": {"coordinates":[-80.10176800000001,32.900194],"type":"Point"}
 }

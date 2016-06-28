@@ -2,13 +2,14 @@
   "id": 353813549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.923882,34.713107,-82.923882,34.713107",
     "geom:latitude":34.713107,
     "geom:longitude":-82.923882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Rochester Hwy",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353813549,
-    "wof:lastmodified":1449018918,
+    "wof:lastmodified":1467082223,
     "wof:name":"Foster Foot Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.923882,34.713107,-82.923882,34.713107],
-  "geometry": {"coordinates":[-82.923882,34.713107],"type":"Point"}
+  "bbox": [
+    -82.923882,
+    34.713107,
+    -82.923882,
+    34.713107
+],
+  "geometry": {"coordinates":[-82.92388200000001,34.713107],"type":"Point"}
 }

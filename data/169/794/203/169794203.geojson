@@ -2,13 +2,14 @@
   "id": 169794203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.019982,32.986226,-80.019982,32.986226",
     "geom:latitude":32.986226,
     "geom:longitude":-80.019982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Greenlawn Ln",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169794203,
-    "wof:lastmodified":1449034267,
+    "wof:lastmodified":1467082382,
     "wof:name":"Mat Flower Landscaping",
     "wof:parent_id":85852091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-80.019982,32.986226,-80.019982,32.986226],
+  "bbox": [
+    -80.019982,
+    32.986226,
+    -80.019982,
+    32.986226
+],
   "geometry": {"coordinates":[-80.019982,32.986226],"type":"Point"}
 }

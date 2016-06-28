@@ -2,13 +2,14 @@
   "id": 354027269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.760014,32.157491,-80.760014,32.157491",
     "geom:latitude":32.157491,
     "geom:longitude":-80.760014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Arrow Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354027269,
-    "wof:lastmodified":1449066246,
+    "wof:lastmodified":1467082422,
     "wof:name":"Swan House Antiques Gallery",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-80.760014,32.157491,-80.760014,32.157491],
+  "bbox": [
+    -80.760014,
+    32.157491,
+    -80.760014,
+    32.157491
+],
   "geometry": {"coordinates":[-80.760014,32.157491],"type":"Point"}
 }

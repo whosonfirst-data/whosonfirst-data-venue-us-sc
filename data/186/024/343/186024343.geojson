@@ -2,13 +2,14 @@
   "id": 186024343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.810246,34.190146,-79.810246,34.190146",
     "geom:latitude":34.190146,
     "geom:longitude":-79.810246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2151 W Evans St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186024343,
-    "wof:lastmodified":1449051669,
+    "wof:lastmodified":1467082399,
     "wof:name":"Thai Cafe & Market LLC",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "market"
     ]
 },
-  "bbox": [-79.810246,34.190146,-79.810246,34.190146],
-  "geometry": {"coordinates":[-79.810246,34.190146],"type":"Point"}
+  "bbox": [
+    -79.810246,
+    34.190146,
+    -79.810246,
+    34.190146
+],
+  "geometry": {"coordinates":[-79.81024600000001,34.190146],"type":"Point"}
 }

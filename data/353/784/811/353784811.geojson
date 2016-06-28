@@ -2,13 +2,14 @@
   "id": 353784811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.894533,34.691556,-79.894533,34.691556",
     "geom:latitude":34.691556,
     "geom:longitude":-79.894533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"763 US Hwy 52",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353784811,
-    "wof:lastmodified":1449019946,
+    "wof:lastmodified":1467082244,
     "wof:name":"Cheraw Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.894533,34.691556,-79.894533,34.691556],
+  "bbox": [
+    -79.894533,
+    34.691556,
+    -79.894533,
+    34.691556
+],
   "geometry": {"coordinates":[-79.894533,34.691556],"type":"Point"}
 }

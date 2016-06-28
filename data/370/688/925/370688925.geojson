@@ -2,13 +2,14 @@
   "id": 370688925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.963862,33.682928,-78.963862,33.682928",
     "geom:latitude":33.682928,
     "geom:longitude":-78.963862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 McDonald Ct",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370688925,
-    "wof:lastmodified":1449030345,
+    "wof:lastmodified":1467082326,
     "wof:name":"MEC Engineering Svc Inc",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-78.963862,33.682928,-78.963862,33.682928],
-  "geometry": {"coordinates":[-78.963862,33.682928],"type":"Point"}
+  "bbox": [
+    -78.963862,
+    33.682928,
+    -78.963862,
+    33.682928
+],
+  "geometry": {"coordinates":[-78.96386200000001,33.682928],"type":"Point"}
 }

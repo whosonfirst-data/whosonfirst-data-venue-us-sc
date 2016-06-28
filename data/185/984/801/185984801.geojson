@@ -2,13 +2,14 @@
   "id": 185984801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.112613,32.994321,-80.112613,32.994321",
     "geom:latitude":32.994321,
     "geom:longitude":-80.112613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3239 Benchmark Dr",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185984801,
-    "wof:lastmodified":1449007514,
+    "wof:lastmodified":1467082196,
     "wof:name":"Le Bleu Bottled Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "company"
     ]
 },
-  "bbox": [-80.112613,32.994321,-80.112613,32.994321],
+  "bbox": [
+    -80.112613,
+    32.994321,
+    -80.112613,
+    32.994321
+],
   "geometry": {"coordinates":[-80.112613,32.994321],"type":"Point"}
 }

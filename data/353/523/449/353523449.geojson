@@ -2,13 +2,14 @@
   "id": 353523449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.956623,32.785761,-79.956623,32.785761",
     "geom:latitude":32.785761,
     "geom:longitude":-79.956623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"176 Lockwood Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353523449,
-    "wof:lastmodified":1449019734,
+    "wof:lastmodified":1467082240,
     "wof:name":"Charleston Employement Securit",
     "wof:parent_id":85835201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "government"
     ]
 },
-  "bbox": [-79.956623,32.785761,-79.956623,32.785761],
-  "geometry": {"coordinates":[-79.956623,32.785761],"type":"Point"}
+  "bbox": [
+    -79.956623,
+    32.785761,
+    -79.956623,
+    32.785761
+],
+  "geometry": {"coordinates":[-79.95662299999999,32.785761],"type":"Point"}
 }

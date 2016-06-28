@@ -2,13 +2,14 @@
   "id": 354232923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.371958,34.89599,-82.371958,34.89599",
     "geom:latitude":34.89599,
     "geom:longitude":-82.371958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 Beverly Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354232923,
-    "wof:lastmodified":1449066464,
+    "wof:lastmodified":1467082427,
     "wof:name":"Eugene Szabos Stl Fabrication",
     "wof:parent_id":85840709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fabrication"
     ]
 },
-  "bbox": [-82.371958,34.89599,-82.371958,34.89599],
-  "geometry": {"coordinates":[-82.371958,34.89599],"type":"Point"}
+  "bbox": [
+    -82.371958,
+    34.89599,
+    -82.371958,
+    34.89599
+],
+  "geometry": {"coordinates":[-82.37195800000001,34.89599],"type":"Point"}
 }

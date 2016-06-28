@@ -2,13 +2,14 @@
   "id": 353560913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.324409,34.877162,-82.324409,34.877162",
     "geom:latitude":34.877162,
     "geom:longitude":-82.324409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Kenilworth Ct",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353560913,
-    "wof:lastmodified":1449020208,
+    "wof:lastmodified":1467082250,
     "wof:name":"Ware Appraisal Associates",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-82.324409,34.877162,-82.324409,34.877162],
+  "bbox": [
+    -82.324409,
+    34.877162,
+    -82.324409,
+    34.877162
+],
   "geometry": {"coordinates":[-82.324409,34.877162],"type":"Point"}
 }

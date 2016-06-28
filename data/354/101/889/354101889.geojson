@@ -2,13 +2,14 @@
   "id": 354101889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.864255,34.549151,-82.864255,34.549151",
     "geom:latitude":34.549151,
     "geom:longitude":-82.864255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7301 State Hwy 24",
     "sg:city":"Townville",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":354101889,
-    "wof:lastmodified":1449066836,
+    "wof:lastmodified":1467082435,
     "wof:name":"M & R Fabrication",
     "wof:parent_id":85858639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.864255,34.549151,-82.864255,34.549151],
+  "bbox": [
+    -82.864255,
+    34.549151,
+    -82.864255,
+    34.549151
+],
   "geometry": {"coordinates":[-82.864255,34.549151],"type":"Point"}
 }

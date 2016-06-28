@@ -2,13 +2,14 @@
   "id": 370925351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.938639,33.690371,-78.938639,33.690371",
     "geom:latitude":33.690371,
     "geom:longitude":-78.938639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3086 Shetland Ln",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370925351,
-    "wof:lastmodified":1449029092,
+    "wof:lastmodified":1467082298,
     "wof:name":"Abrams Properties",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "site"
     ]
 },
-  "bbox": [-78.938639,33.690371,-78.938639,33.690371],
-  "geometry": {"coordinates":[-78.938639,33.690371],"type":"Point"}
+  "bbox": [
+    -78.938639,
+    33.690371,
+    -78.938639,
+    33.690371
+],
+  "geometry": {"coordinates":[-78.93863899999999,33.690371],"type":"Point"}
 }

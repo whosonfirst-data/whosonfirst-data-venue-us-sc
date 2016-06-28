@@ -2,13 +2,14 @@
   "id": 185874887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.728862,32.214377,-80.728862,32.214377",
     "geom:latitude":32.214377,
     "geom:longitude":-80.728862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Main St",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185874887,
-    "wof:lastmodified":1449008107,
+    "wof:lastmodified":1467082205,
     "wof:name":"Thomas L Brooks",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.728862,32.214377,-80.728862,32.214377],
-  "geometry": {"coordinates":[-80.728862,32.214377],"type":"Point"}
+  "bbox": [
+    -80.728862,
+    32.214377,
+    -80.728862,
+    32.214377
+],
+  "geometry": {"coordinates":[-80.72886200000001,32.214377],"type":"Point"}
 }

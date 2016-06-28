@@ -2,13 +2,14 @@
   "id": 185729745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.030412,32.980799,-80.030412,32.980799",
     "geom:latitude":32.980799,
     "geom:longitude":-80.030412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 Red Bank Rd",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185729745,
-    "wof:lastmodified":1449007445,
+    "wof:lastmodified":1467082195,
     "wof:name":"Christian Embassy Intl",
     "wof:parent_id":85852091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.030412,32.980799,-80.030412,32.980799],
+  "bbox": [
+    -80.030412,
+    32.980799,
+    -80.030412,
+    32.980799
+],
   "geometry": {"coordinates":[-80.030412,32.980799],"type":"Point"}
 }

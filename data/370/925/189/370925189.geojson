@@ -2,13 +2,14 @@
   "id": 370925189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.085098,33.998571,-81.085098,33.998571",
     "geom:latitude":33.998571,
     "geom:longitude":-81.085098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1523 Sunset Blvd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370925189,
-    "wof:lastmodified":1449029089,
+    "wof:lastmodified":1467082298,
     "wof:name":"Medical Services-The Midlands",
     "wof:parent_id":85846837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-81.085098,33.998571,-81.085098,33.998571],
+  "bbox": [
+    -81.085098,
+    33.998571,
+    -81.085098,
+    33.998571
+],
   "geometry": {"coordinates":[-81.085098,33.998571],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370171423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.399757,34.839943,-82.399757,34.839943",
     "geom:latitude":34.839943,
     "geom:longitude":-82.399757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 University Ridge",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370171423,
-    "wof:lastmodified":1449032482,
+    "wof:lastmodified":1467082374,
     "wof:name":"Donald L Pilzer",
     "wof:parent_id":85802935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.399757,34.839943,-82.399757,34.839943],
-  "geometry": {"coordinates":[-82.399757,34.839943],"type":"Point"}
+  "bbox": [
+    -82.399757,
+    34.839943,
+    -82.399757,
+    34.839943
+],
+  "geometry": {"coordinates":[-82.39975699999999,34.839943],"type":"Point"}
 }

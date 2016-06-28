@@ -2,13 +2,14 @@
   "id": 370574571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.960743,33.238829,-79.960743,33.238829",
     "geom:latitude":33.238829,
     "geom:longitude":-79.960743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1032 Leslie St",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370574571,
-    "wof:lastmodified":1449029045,
+    "wof:lastmodified":1467082297,
     "wof:name":"Earth Satellite",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-79.960743,33.238829,-79.960743,33.238829],
-  "geometry": {"coordinates":[-79.960743,33.238829],"type":"Point"}
+  "bbox": [
+    -79.960743,
+    33.238829,
+    -79.960743,
+    33.238829
+],
+  "geometry": {"coordinates":[-79.96074299999999,33.238829],"type":"Point"}
 }

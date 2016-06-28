@@ -2,13 +2,14 @@
   "id": 370747293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.889037,34.705883,-79.889037,34.705883",
     "geom:latitude":34.705883,
     "geom:longitude":-79.889037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Front St",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370747293,
-    "wof:lastmodified":1449029707,
+    "wof:lastmodified":1467082312,
     "wof:name":"Walter's Transmission & Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-79.889037,34.705883,-79.889037,34.705883],
+  "bbox": [
+    -79.889037,
+    34.705883,
+    -79.889037,
+    34.705883
+],
   "geometry": {"coordinates":[-79.889037,34.705883],"type":"Point"}
 }

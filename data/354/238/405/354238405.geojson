@@ -2,13 +2,14 @@
   "id": 354238405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.12591,32.879921,-81.12591,32.879921",
     "geom:latitude":32.879921,
     "geom:longitude":-81.12591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Helen St",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354238405,
-    "wof:lastmodified":1449066554,
+    "wof:lastmodified":1467082429,
     "wof:name":"Palmetto Pharmacy Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.12591,32.879921,-81.12591,32.879921],
+  "bbox": [
+    -81.12591,
+    32.879921,
+    -81.12591,
+    32.879921
+],
   "geometry": {"coordinates":[-81.12591,32.879921],"type":"Point"}
 }

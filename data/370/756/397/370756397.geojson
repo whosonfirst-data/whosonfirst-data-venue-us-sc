@@ -2,13 +2,14 @@
   "id": 370756397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.171695,34.90234,-82.171695,34.90234",
     "geom:latitude":34.90234,
     "geom:longitude":-82.171695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 State Hwy 101",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370756397,
-    "wof:lastmodified":1449031102,
+    "wof:lastmodified":1467082343,
     "wof:name":"Bmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "enclosed"
     ]
 },
-  "bbox": [-82.171695,34.90234,-82.171695,34.90234],
+  "bbox": [
+    -82.171695,
+    34.90234,
+    -82.171695,
+    34.90234
+],
   "geometry": {"coordinates":[-82.171695,34.90234],"type":"Point"}
 }

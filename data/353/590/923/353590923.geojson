@@ -2,13 +2,14 @@
   "id": 353590923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.910324,34.703197,-79.910324,34.703197",
     "geom:latitude":34.703197,
     "geom:longitude":-79.910324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Funderburk Dr",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353590923,
-    "wof:lastmodified":1449019790,
+    "wof:lastmodified":1467082241,
     "wof:name":"Mack E Atkinson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-79.910324,34.703197,-79.910324,34.703197],
+  "bbox": [
+    -79.910324,
+    34.703197,
+    -79.910324,
+    34.703197
+],
   "geometry": {"coordinates":[-79.910324,34.703197],"type":"Point"}
 }

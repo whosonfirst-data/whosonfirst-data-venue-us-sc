@@ -2,13 +2,14 @@
   "id": 354325019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.865788,34.466869,-81.865788,34.466869",
     "geom:latitude":34.466869,
     "geom:longitude":-81.865788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 York St",
     "sg:city":"Lockhart",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354325019,
-    "wof:lastmodified":1449066579,
+    "wof:lastmodified":1467082429,
     "wof:name":"Lockhart Telephone Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-81.865788,34.466869,-81.865788,34.466869],
-  "geometry": {"coordinates":[-81.865788,34.466869],"type":"Point"}
+  "bbox": [
+    -81.865788,
+    34.466869,
+    -81.865788,
+    34.466869
+],
+  "geometry": {"coordinates":[-81.86578799999999,34.466869],"type":"Point"}
 }

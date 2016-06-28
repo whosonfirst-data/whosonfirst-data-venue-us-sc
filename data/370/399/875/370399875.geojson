@@ -2,13 +2,14 @@
   "id": 370399875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.318115,34.775535,-82.318115,34.775535",
     "geom:latitude":34.775535,
     "geom:longitude":-82.318115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"447 W Butler Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370399875,
-    "wof:lastmodified":1449029690,
+    "wof:lastmodified":1467082311,
     "wof:name":"Brooks Flowers & Gifts",
     "wof:parent_id":85806237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.318115,34.775535,-82.318115,34.775535],
-  "geometry": {"coordinates":[-82.318115,34.775535],"type":"Point"}
+  "bbox": [
+    -82.318115,
+    34.775535,
+    -82.318115,
+    34.775535
+],
+  "geometry": {"coordinates":[-82.31811500000001,34.775535],"type":"Point"}
 }

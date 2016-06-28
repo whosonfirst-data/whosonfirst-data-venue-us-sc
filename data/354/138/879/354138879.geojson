@@ -2,13 +2,14 @@
   "id": 354138879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.04504,34.955096,-81.04504,34.955096",
     "geom:latitude":34.955096,
     "geom:longitude":-81.04504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 Ebenezer Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354138879,
-    "wof:lastmodified":1449066390,
+    "wof:lastmodified":1467082425,
     "wof:name":"Linda G Snipes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.04504,34.955096,-81.04504,34.955096],
+  "bbox": [
+    -81.04504,
+    34.955096,
+    -81.04504,
+    34.955096
+],
   "geometry": {"coordinates":[-81.04504,34.955096],"type":"Point"}
 }

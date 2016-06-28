@@ -2,13 +2,14 @@
   "id": 353874269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.972556,32.755423,-79.972556,32.755423",
     "geom:latitude":32.755423,
     "geom:longitude":-79.972556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1757 Carlin Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353874269,
-    "wof:lastmodified":1449020633,
+    "wof:lastmodified":1467082258,
     "wof:name":"Kayagroup",
     "wof:parent_id":85832547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "import"
     ]
 },
-  "bbox": [-79.972556,32.755423,-79.972556,32.755423],
+  "bbox": [
+    -79.972556,
+    32.755423,
+    -79.972556,
+    32.755423
+],
   "geometry": {"coordinates":[-79.972556,32.755423],"type":"Point"}
 }

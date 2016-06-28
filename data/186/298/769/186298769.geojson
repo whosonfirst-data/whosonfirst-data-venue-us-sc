@@ -2,13 +2,14 @@
   "id": 186298769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.042257,32.833601,-80.042257,32.833601",
     "geom:latitude":32.833601,
     "geom:longitude":-80.042257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 Sweetgum St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186298769,
-    "wof:lastmodified":1449051109,
+    "wof:lastmodified":1467082395,
     "wof:name":"Wolff & Son Electric Inc",
     "wof:parent_id":85820043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.042257,32.833601,-80.042257,32.833601],
-  "geometry": {"coordinates":[-80.042257,32.833601],"type":"Point"}
+  "bbox": [
+    -80.042257,
+    32.833601,
+    -80.042257,
+    32.833601
+],
+  "geometry": {"coordinates":[-80.04225700000001,32.833601],"type":"Point"}
 }

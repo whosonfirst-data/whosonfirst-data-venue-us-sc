@@ -2,13 +2,14 @@
   "id": 354388945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.778539,34.487775,-82.778539,34.487775",
     "geom:latitude":34.487775,
     "geom:longitude":-82.778539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 Country Meadows",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354388945,
-    "wof:lastmodified":1449066009,
+    "wof:lastmodified":1467082416,
     "wof:name":"Chapman Machine",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.778539,34.487775,-82.778539,34.487775],
-  "geometry": {"coordinates":[-82.778539,34.487775],"type":"Point"}
+  "bbox": [
+    -82.778539,
+    34.487775,
+    -82.778539,
+    34.487775
+],
+  "geometry": {"coordinates":[-82.77853899999999,34.487775],"type":"Point"}
 }

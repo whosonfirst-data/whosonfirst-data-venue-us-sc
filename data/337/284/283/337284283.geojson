@@ -2,13 +2,14 @@
   "id": 337284283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.875719,34.122521,-78.875719,34.122521",
     "geom:latitude":34.122521,
     "geom:longitude":-78.875719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3065 US Hwy 701 N",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337284283,
-    "wof:lastmodified":1449027457,
+    "wof:lastmodified":1467082284,
     "wof:name":"Carolina Baptist Assn",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.875719,34.122521,-78.875719,34.122521],
+  "bbox": [
+    -78.875719,
+    34.122521,
+    -78.875719,
+    34.122521
+],
   "geometry": {"coordinates":[-78.875719,34.122521],"type":"Point"}
 }

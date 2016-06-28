@@ -2,13 +2,14 @@
   "id": 185639115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.19093,33.02394,-80.19093,33.02394",
     "geom:latitude":33.02394,
     "geom:longitude":-80.19093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Drayton Dr",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185639115,
-    "wof:lastmodified":1449008195,
+    "wof:lastmodified":1467082207,
     "wof:name":"Strategic Focus Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [-80.19093,33.02394,-80.19093,33.02394],
-  "geometry": {"coordinates":[-80.19093,33.02394],"type":"Point"}
+  "bbox": [
+    -80.19093,
+    33.02394,
+    -80.19093,
+    33.02394
+],
+  "geometry": {"coordinates":[-80.19092999999999,33.02394],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370466187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.941225,32.772903,-79.941225,32.772903",
     "geom:latitude":32.772903,
     "geom:longitude":-79.941225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 S Battery",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370466187,
-    "wof:lastmodified":1449030113,
+    "wof:lastmodified":1467082321,
     "wof:name":"Bay Area Hyper Sciences",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "developer"
     ]
 },
-  "bbox": [-79.941225,32.772903,-79.941225,32.772903],
+  "bbox": [
+    -79.941225,
+    32.772903,
+    -79.941225,
+    32.772903
+],
   "geometry": {"coordinates":[-79.941225,32.772903],"type":"Point"}
 }

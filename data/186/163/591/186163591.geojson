@@ -2,13 +2,14 @@
   "id": 186163591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.972507,34.943909,-81.972507,34.943909",
     "geom:latitude":34.943909,
     "geom:longitude":-81.972507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Abner Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186163591,
-    "wof:lastmodified":1449052976,
+    "wof:lastmodified":1467082413,
     "wof:name":"Howells Construction LLC",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-81.972507,34.943909,-81.972507,34.943909],
-  "geometry": {"coordinates":[-81.972507,34.943909],"type":"Point"}
+  "bbox": [
+    -81.972507,
+    34.943909,
+    -81.972507,
+    34.943909
+],
+  "geometry": {"coordinates":[-81.97250699999999,34.943909],"type":"Point"}
 }

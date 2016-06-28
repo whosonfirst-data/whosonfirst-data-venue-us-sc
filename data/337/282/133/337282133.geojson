@@ -2,13 +2,14 @@
   "id": 337282133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.3363,34.986587,-82.3363,34.986587",
     "geom:latitude":34.986587,
     "geom:longitude":-82.3363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Eagles Nest Ct",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337282133,
-    "wof:lastmodified":1449027464,
+    "wof:lastmodified":1467082285,
     "wof:name":"Mason Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-82.3363,34.986587,-82.3363,34.986587],
-  "geometry": {"coordinates":[-82.3363,34.986587],"type":"Point"}
+  "bbox": [
+    -82.3363,
+    34.986587,
+    -82.3363,
+    34.986587
+],
+  "geometry": {"coordinates":[-82.33629999999999,34.986587],"type":"Point"}
 }

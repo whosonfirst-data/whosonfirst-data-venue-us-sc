@@ -2,13 +2,14 @@
   "id": 185933373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.988017,34.971716,-80.988017,34.971716",
     "geom:latitude":34.971716,
     "geom:longitude":-80.988017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"975 Riverview Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":185933373,
-    "wof:lastmodified":1449006942,
+    "wof:lastmodified":1467082187,
     "wof:name":"Whitesell Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-80.988017,34.971716,-80.988017,34.971716],
+  "bbox": [
+    -80.988017,
+    34.971716,
+    -80.988017,
+    34.971716
+],
   "geometry": {"coordinates":[-80.988017,34.971716],"type":"Point"}
 }

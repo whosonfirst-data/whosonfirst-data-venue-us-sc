@@ -2,13 +2,14 @@
   "id": 354015691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.118829,32.599275,-80.118829,32.599275",
     "geom:latitude":32.599275,
     "geom:longitude":-80.118829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Crested Flycatcher",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354015691,
-    "wof:lastmodified":1449066314,
+    "wof:lastmodified":1467082423,
     "wof:name":"Jim Mc Lean",
     "wof:parent_id":85809109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.118829,32.599275,-80.118829,32.599275],
-  "geometry": {"coordinates":[-80.118829,32.599275],"type":"Point"}
+  "bbox": [
+    -80.118829,
+    32.599275,
+    -80.118829,
+    32.599275
+],
+  "geometry": {"coordinates":[-80.11882900000001,32.599275],"type":"Point"}
 }

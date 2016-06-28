@@ -2,13 +2,14 @@
   "id": 185703693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.976566,34.94132,-81.976566,34.94132",
     "geom:latitude":34.94132,
     "geom:longitude":-81.976566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Dover Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185703693,
-    "wof:lastmodified":1449007093,
+    "wof:lastmodified":1467082190,
     "wof:name":"Mar-An Associates",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "establishment"
     ]
 },
-  "bbox": [-81.976566,34.94132,-81.976566,34.94132],
-  "geometry": {"coordinates":[-81.976566,34.94132],"type":"Point"}
+  "bbox": [
+    -81.976566,
+    34.94132,
+    -81.976566,
+    34.94132
+],
+  "geometry": {"coordinates":[-81.97656600000001,34.94132],"type":"Point"}
 }

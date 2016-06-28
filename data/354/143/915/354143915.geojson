@@ -2,13 +2,14 @@
   "id": 354143915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.921864,32.751019,-79.921864,32.751019",
     "geom:latitude":32.751019,
     "geom:longitude":-79.921864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 Beauregard St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354143915,
-    "wof:lastmodified":1449067363,
+    "wof:lastmodified":1467082447,
     "wof:name":"Els Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.921864,32.751019,-79.921864,32.751019],
+  "bbox": [
+    -79.921864,
+    32.751019,
+    -79.921864,
+    32.751019
+],
   "geometry": {"coordinates":[-79.921864,32.751019],"type":"Point"}
 }

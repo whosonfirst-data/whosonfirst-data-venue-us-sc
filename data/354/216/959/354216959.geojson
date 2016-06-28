@@ -2,13 +2,14 @@
   "id": 354216959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.040923,34.949038,-81.040923,34.949038",
     "geom:latitude":34.949038,
     "geom:longitude":-81.040923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1326 Ebenezer Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354216959,
-    "wof:lastmodified":1449067477,
+    "wof:lastmodified":1467082450,
     "wof:name":"Coldwell Banker Stepp Tuttle",
     "wof:parent_id":85806915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.040923,34.949038,-81.040923,34.949038],
-  "geometry": {"coordinates":[-81.040923,34.949038],"type":"Point"}
+  "bbox": [
+    -81.040923,
+    34.949038,
+    -81.040923,
+    34.949038
+],
+  "geometry": {"coordinates":[-81.04092300000001,34.949038],"type":"Point"}
 }

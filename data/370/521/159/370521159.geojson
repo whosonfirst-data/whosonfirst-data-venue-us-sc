@@ -2,13 +2,14 @@
   "id": 370521159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.816504,33.76017,-78.816504,33.76017",
     "geom:latitude":33.76017,
     "geom:longitude":-78.816504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Medical Cir",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370521159,
-    "wof:lastmodified":1449032301,
+    "wof:lastmodified":1467082370,
     "wof:name":"Sexton's Dental Clinic",
     "wof:parent_id":85838439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-78.816504,33.76017,-78.816504,33.76017],
-  "geometry": {"coordinates":[-78.816504,33.76017],"type":"Point"}
+  "bbox": [
+    -78.816504,
+    33.76017,
+    -78.816504,
+    33.76017
+],
+  "geometry": {"coordinates":[-78.81650399999999,33.76017],"type":"Point"}
 }

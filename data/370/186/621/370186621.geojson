@@ -2,13 +2,14 @@
   "id": 370186621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.836863,34.091637,-78.836863,34.091637",
     "geom:latitude":34.091637,
     "geom:longitude":-78.836863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 Airport Rd",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370186621,
-    "wof:lastmodified":1449031747,
+    "wof:lastmodified":1467082357,
     "wof:name":"Carolinas Country Club",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-78.836863,34.091637,-78.836863,34.091637],
-  "geometry": {"coordinates":[-78.836863,34.091637],"type":"Point"}
+  "bbox": [
+    -78.836863,
+    34.091637,
+    -78.836863,
+    34.091637
+],
+  "geometry": {"coordinates":[-78.83686299999999,34.091637],"type":"Point"}
 }

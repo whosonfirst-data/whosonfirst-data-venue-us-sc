@@ -2,13 +2,14 @@
   "id": 185952149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.6118,32.487212,-80.6118,32.487212",
     "geom:latitude":32.487212,
     "geom:longitude":-80.6118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Alston Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185952149,
-    "wof:lastmodified":1449007750,
+    "wof:lastmodified":1467082200,
     "wof:name":"Willie Ramsey",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.6118,32.487212,-80.6118,32.487212],
+  "bbox": [
+    -80.6118,
+    32.487212,
+    -80.6118,
+    32.487212
+],
   "geometry": {"coordinates":[-80.6118,32.487212],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186218987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.210336,33.986005,-80.210336,33.986005",
     "geom:latitude":33.986005,
     "geom:longitude":-80.210336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 S Lafayette St",
     "sg:city":"Mayesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186218987,
-    "wof:lastmodified":1449052074,
+    "wof:lastmodified":1467082404,
     "wof:name":"Jefferson Laundromat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.210336,33.986005,-80.210336,33.986005],
+  "bbox": [
+    -80.210336,
+    33.986005,
+    -80.210336,
+    33.986005
+],
   "geometry": {"coordinates":[-80.210336,33.986005],"type":"Point"}
 }

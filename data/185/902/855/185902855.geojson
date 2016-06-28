@@ -2,13 +2,14 @@
   "id": 185902855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.691746,34.51932,-82.691746,34.51932",
     "geom:latitude":34.51932,
     "geom:longitude":-82.691746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Pearman Dairy Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185902855,
-    "wof:lastmodified":1449007793,
+    "wof:lastmodified":1467082200,
     "wof:name":"Precious Moments Specialt",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.691746,34.51932,-82.691746,34.51932],
-  "geometry": {"coordinates":[-82.691746,34.51932],"type":"Point"}
+  "bbox": [
+    -82.691746,
+    34.51932,
+    -82.691746,
+    34.51932
+],
+  "geometry": {"coordinates":[-82.69174599999999,34.51932],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370618505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.122757,33.009849,-80.122757,33.009849",
     "geom:latitude":33.009849,
     "geom:longitude":-80.122757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Limehouse Ln",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370618505,
-    "wof:lastmodified":1449031195,
+    "wof:lastmodified":1467082345,
     "wof:name":"Kids Are First",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.122757,33.009849,-80.122757,33.009849],
-  "geometry": {"coordinates":[-80.122757,33.009849],"type":"Point"}
+  "bbox": [
+    -80.122757,
+    33.009849,
+    -80.122757,
+    33.009849
+],
+  "geometry": {"coordinates":[-80.12275699999999,33.009849],"type":"Point"}
 }

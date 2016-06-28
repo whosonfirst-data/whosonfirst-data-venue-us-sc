@@ -2,13 +2,14 @@
   "id": 186262311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.673796,34.604845,-79.673796,34.604845",
     "geom:latitude":34.604845,
     "geom:longitude":-79.673796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 S Parsonage St",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186262311,
-    "wof:lastmodified":1449052025,
+    "wof:lastmodified":1467082403,
     "wof:name":"National Guard Battery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "security"
     ]
 },
-  "bbox": [-79.673796,34.604845,-79.673796,34.604845],
+  "bbox": [
+    -79.673796,
+    34.604845,
+    -79.673796,
+    34.604845
+],
   "geometry": {"coordinates":[-79.673796,34.604845],"type":"Point"}
 }

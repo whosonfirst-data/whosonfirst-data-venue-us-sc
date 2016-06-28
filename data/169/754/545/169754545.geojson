@@ -2,13 +2,14 @@
   "id": 169754545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.769501,34.193532,-79.769501,34.193532",
     "geom:latitude":34.193532,
     "geom:longitude":-79.769501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 W Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169754545,
-    "wof:lastmodified":1449034848,
+    "wof:lastmodified":1467082384,
     "wof:name":"State Communications",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-79.769501,34.193532,-79.769501,34.193532],
-  "geometry": {"coordinates":[-79.769501,34.193532],"type":"Point"}
+  "bbox": [
+    -79.769501,
+    34.193532,
+    -79.769501,
+    34.193532
+],
+  "geometry": {"coordinates":[-79.76950100000001,34.193532],"type":"Point"}
 }

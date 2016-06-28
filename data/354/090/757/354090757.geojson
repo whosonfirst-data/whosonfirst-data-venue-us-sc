@@ -2,13 +2,14 @@
   "id": 354090757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.156435,34.889387,-82.156435,34.889387",
     "geom:latitude":34.889387,
     "geom:longitude":-82.156435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1880 State Hwy 101",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354090757,
-    "wof:lastmodified":1449067288,
+    "wof:lastmodified":1467082445,
     "wof:name":"Grand Food Stuff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.156435,34.889387,-82.156435,34.889387],
+  "bbox": [
+    -82.156435,
+    34.889387,
+    -82.156435,
+    34.889387
+],
   "geometry": {"coordinates":[-82.156435,34.889387],"type":"Point"}
 }

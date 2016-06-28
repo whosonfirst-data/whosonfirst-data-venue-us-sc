@@ -2,13 +2,14 @@
   "id": 186275267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.261413,34.209714,-80.261413,34.209714",
     "geom:latitude":34.209714,
     "geom:longitude":-80.261413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 US Hwy 15",
     "sg:city":"Bishopville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186275267,
-    "wof:lastmodified":1449051250,
+    "wof:lastmodified":1467082396,
     "wof:name":"Bishopville Housing Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.261413,34.209714,-80.261413,34.209714],
+  "bbox": [
+    -80.261413,
+    34.209714,
+    -80.261413,
+    34.209714
+],
   "geometry": {"coordinates":[-80.261413,34.209714],"type":"Point"}
 }

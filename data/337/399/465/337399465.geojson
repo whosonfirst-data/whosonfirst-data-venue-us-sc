@@ -2,13 +2,14 @@
   "id": 337399465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.108246,32.866189,-81.108246,32.866189",
     "geom:latitude":32.866189,
     "geom:longitude":-81.108246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Elm St E",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337399465,
-    "wof:lastmodified":1449027070,
+    "wof:lastmodified":1467082270,
     "wof:name":"Internet Services-Low Country",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-81.108246,32.866189,-81.108246,32.866189],
-  "geometry": {"coordinates":[-81.108246,32.866189],"type":"Point"}
+  "bbox": [
+    -81.108246,
+    32.866189,
+    -81.108246,
+    32.866189
+],
+  "geometry": {"coordinates":[-81.10824599999999,32.866189],"type":"Point"}
 }

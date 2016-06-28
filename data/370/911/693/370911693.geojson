@@ -2,13 +2,14 @@
   "id": 370911693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.026924,34.77386,-82.026924,34.77386",
     "geom:latitude":34.77386,
     "geom:longitude":-82.026924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10297 US Hwy 221",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370911693,
-    "wof:lastmodified":1449031911,
+    "wof:lastmodified":1467082361,
     "wof:name":"Change It Auto Svc",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-82.026924,34.77386,-82.026924,34.77386],
-  "geometry": {"coordinates":[-82.026924,34.77386],"type":"Point"}
+  "bbox": [
+    -82.026924,
+    34.77386,
+    -82.026924,
+    34.77386
+],
+  "geometry": {"coordinates":[-82.02692399999999,34.77386],"type":"Point"}
 }

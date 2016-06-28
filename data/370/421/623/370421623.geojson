@@ -2,13 +2,14 @@
   "id": 370421623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.022902,34.036849,-81.022902,34.036849",
     "geom:latitude":34.036849,
     "geom:longitude":-81.022902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3914 Farrow Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370421623,
-    "wof:lastmodified":1449031222,
+    "wof:lastmodified":1467082345,
     "wof:name":"Kim's Liquor Store",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.022902,34.036849,-81.022902,34.036849],
+  "bbox": [
+    -81.022902,
+    34.036849,
+    -81.022902,
+    34.036849
+],
   "geometry": {"coordinates":[-81.022902,34.036849],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370676375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.660685,33.843951,-78.660685,33.843951",
     "geom:latitude":33.843951,
     "geom:longitude":-78.660685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1419 Hwy 17",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370676375,
-    "wof:lastmodified":1449031242,
+    "wof:lastmodified":1467082346,
     "wof:name":"Peacock",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.660685,33.843951,-78.660685,33.843951],
+  "bbox": [
+    -78.660685,
+    33.843951,
+    -78.660685,
+    33.843951
+],
   "geometry": {"coordinates":[-78.660685,33.843951],"type":"Point"}
 }

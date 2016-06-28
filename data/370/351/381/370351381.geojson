@@ -2,13 +2,14 @@
   "id": 370351381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.532277,34.825892,-82.532277,34.825892",
     "geom:latitude":34.825892,
     "geom:longitude":-82.532277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Commerce Blvd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370351381,
-    "wof:lastmodified":1449031959,
+    "wof:lastmodified":1467082362,
     "wof:name":"Beeson-Rosier Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-82.532277,34.825892,-82.532277,34.825892],
-  "geometry": {"coordinates":[-82.532277,34.825892],"type":"Point"}
+  "bbox": [
+    -82.532277,
+    34.825892,
+    -82.532277,
+    34.825892
+],
+  "geometry": {"coordinates":[-82.53227699999999,34.825892],"type":"Point"}
 }

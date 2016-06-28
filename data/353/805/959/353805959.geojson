@@ -2,13 +2,14 @@
   "id": 353805959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.206832,34.689533,-82.206832,34.689533",
     "geom:latitude":34.689533,
     "geom:longitude":-82.206832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 Fairview St",
     "sg:city":"Fountain Inn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353805959,
-    "wof:lastmodified":1449019116,
+    "wof:lastmodified":1467082227,
     "wof:name":"Armstrong Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.206832,34.689533,-82.206832,34.689533],
-  "geometry": {"coordinates":[-82.206832,34.689533],"type":"Point"}
+  "bbox": [
+    -82.206832,
+    34.689533,
+    -82.206832,
+    34.689533
+],
+  "geometry": {"coordinates":[-82.20683200000001,34.689533],"type":"Point"}
 }

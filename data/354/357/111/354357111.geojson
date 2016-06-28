@@ -2,13 +2,14 @@
   "id": 354357111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.439061,34.469252,-80.439061,34.469252",
     "geom:latitude":34.469252,
     "geom:longitude":-80.439061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3573 Porter Rd",
     "sg:city":"Bethune",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354357111,
-    "wof:lastmodified":1449067465,
+    "wof:lastmodified":1467082449,
     "wof:name":"Shamrock Baptist Church",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.439061,34.469252,-80.439061,34.469252],
+  "bbox": [
+    -80.439061,
+    34.469252,
+    -80.439061,
+    34.469252
+],
   "geometry": {"coordinates":[-80.439061,34.469252],"type":"Point"}
 }

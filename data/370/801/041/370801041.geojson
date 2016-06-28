@@ -2,13 +2,14 @@
   "id": 370801041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.120715,35.066912,-81.120715,35.066912",
     "geom:latitude":35.066912,
     "geom:longitude":-81.120715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2641 Fox Trail Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370801041,
-    "wof:lastmodified":1449031876,
+    "wof:lastmodified":1467082360,
     "wof:name":"Daniel Perez",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.120715,35.066912,-81.120715,35.066912],
+  "bbox": [
+    -81.120715,
+    35.066912,
+    -81.120715,
+    35.066912
+],
   "geometry": {"coordinates":[-81.120715,35.066912],"type":"Point"}
 }

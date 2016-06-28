@@ -2,13 +2,14 @@
   "id": 370845791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.97861,33.643884,-78.97861,33.643884",
     "geom:latitude":33.643884,
     "geom:longitude":-78.97861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 Windwalk Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370845791,
-    "wof:lastmodified":1449029637,
+    "wof:lastmodified":1467082310,
     "wof:name":"Lynn Com LLC",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.97861,33.643884,-78.97861,33.643884],
+  "bbox": [
+    -78.97861,
+    33.643884,
+    -78.97861,
+    33.643884
+],
   "geometry": {"coordinates":[-78.97861,33.643884],"type":"Point"}
 }

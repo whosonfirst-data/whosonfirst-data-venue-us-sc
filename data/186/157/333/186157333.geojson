@@ -2,13 +2,14 @@
   "id": 186157333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.758636,33.881679,-79.758636,33.881679",
     "geom:latitude":33.881679,
     "geom:longitude":-79.758636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 N Ron McNair Blvd",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186157333,
-    "wof:lastmodified":1449052638,
+    "wof:lastmodified":1467082409,
     "wof:name":"Lake City Ford Mercury Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.758636,33.881679,-79.758636,33.881679],
+  "bbox": [
+    -79.758636,
+    33.881679,
+    -79.758636,
+    33.881679
+],
   "geometry": {"coordinates":[-79.758636,33.881679],"type":"Point"}
 }

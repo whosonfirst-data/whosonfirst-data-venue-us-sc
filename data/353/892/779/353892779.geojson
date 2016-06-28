@@ -2,13 +2,14 @@
   "id": 353892779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.225862,34.693195,-82.225862,34.693195",
     "geom:latitude":34.693195,
     "geom:longitude":-82.225862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"580 N Woods Dr",
     "sg:city":"Fountain Inn",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353892779,
-    "wof:lastmodified":1449018629,
+    "wof:lastmodified":1467082217,
     "wof:name":"Bankers Repo Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.225862,34.693195,-82.225862,34.693195],
-  "geometry": {"coordinates":[-82.225862,34.693195],"type":"Point"}
+  "bbox": [
+    -82.225862,
+    34.693195,
+    -82.225862,
+    34.693195
+],
+  "geometry": {"coordinates":[-82.22586200000001,34.693195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370859295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.966616,33.012802,-80.966616,33.012802",
     "geom:latitude":33.012802,
     "geom:longitude":-80.966616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7622 Ashton Rd",
     "sg:city":"Islandton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370859295,
-    "wof:lastmodified":1449031513,
+    "wof:lastmodified":1467082352,
     "wof:name":"Williams Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.966616,33.012802,-80.966616,33.012802],
+  "bbox": [
+    -80.966616,
+    33.012802,
+    -80.966616,
+    33.012802
+],
   "geometry": {"coordinates":[-80.966616,33.012802],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354002209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.716606,34.881244,-82.716606,34.881244",
     "geom:latitude":34.881244,
     "geom:longitude":-82.716606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 W Main St",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354002209,
-    "wof:lastmodified":1449067338,
+    "wof:lastmodified":1467082447,
     "wof:name":"Pickens Ice Cream Parlor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.716606,34.881244,-82.716606,34.881244],
+  "bbox": [
+    -82.716606,
+    34.881244,
+    -82.716606,
+    34.881244
+],
   "geometry": {"coordinates":[-82.716606,34.881244],"type":"Point"}
 }

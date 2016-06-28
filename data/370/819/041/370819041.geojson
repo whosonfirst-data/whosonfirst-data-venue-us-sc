@@ -2,13 +2,14 @@
   "id": 370819041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.538659,34.054968,-79.538659,34.054968",
     "geom:latitude":34.054968,
     "geom:longitude":-79.538659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1728 N Old River Rd",
     "sg:city":"Pamplico",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370819041,
-    "wof:lastmodified":1449029897,
+    "wof:lastmodified":1467082316,
     "wof:name":"Delta Mills Co",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "fabric"
     ]
 },
-  "bbox": [-79.538659,34.054968,-79.538659,34.054968],
+  "bbox": [
+    -79.538659,
+    34.054968,
+    -79.538659,
+    34.054968
+],
   "geometry": {"coordinates":[-79.538659,34.054968],"type":"Point"}
 }

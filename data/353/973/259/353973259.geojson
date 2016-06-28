@@ -2,13 +2,14 @@
   "id": 353973259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.237576,33.982074,-81.237576,33.982074",
     "geom:latitude":33.982074,
     "geom:longitude":-81.237576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 S Church St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353973259,
-    "wof:lastmodified":1449019804,
+    "wof:lastmodified":1467082241,
     "wof:name":"Lexington Barber Shop",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.237576,33.982074,-81.237576,33.982074],
+  "bbox": [
+    -81.237576,
+    33.982074,
+    -81.237576,
+    33.982074
+],
   "geometry": {"coordinates":[-81.237576,33.982074],"type":"Point"}
 }

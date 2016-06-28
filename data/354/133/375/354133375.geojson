@@ -2,13 +2,14 @@
   "id": 354133375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.864448,32.291022,-80.864448,32.291022",
     "geom:latitude":32.291022,
     "geom:longitude":-80.864448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 N Lake Rd",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354133375,
-    "wof:lastmodified":1449067349,
+    "wof:lastmodified":1467082447,
     "wof:name":"Fire Protection Svc Corp",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-80.864448,32.291022,-80.864448,32.291022],
+  "bbox": [
+    -80.864448,
+    32.291022,
+    -80.864448,
+    32.291022
+],
   "geometry": {"coordinates":[-80.864448,32.291022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354281899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.047809,34.013065,-81.047809,34.013065",
     "geom:latitude":34.013065,
     "geom:longitude":-81.047809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2206 Wayne St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354281899,
-    "wof:lastmodified":1449067394,
+    "wof:lastmodified":1467082448,
     "wof:name":"Plant Express",
     "wof:parent_id":85817947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-81.047809,34.013065,-81.047809,34.013065],
+  "bbox": [
+    -81.047809,
+    34.013065,
+    -81.047809,
+    34.013065
+],
   "geometry": {"coordinates":[-81.047809,34.013065],"type":"Point"}
 }

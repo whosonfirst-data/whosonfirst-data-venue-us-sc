@@ -2,13 +2,14 @@
   "id": 353801185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.866551,33.501099,-80.866551,33.501099",
     "geom:latitude":33.501099,
     "geom:longitude":-80.866551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"857 Holly St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353801185,
-    "wof:lastmodified":1449020382,
+    "wof:lastmodified":1467082253,
     "wof:name":"MEA Entertainment Records",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-80.866551,33.501099,-80.866551,33.501099],
+  "bbox": [
+    -80.866551,
+    33.501099,
+    -80.866551,
+    33.501099
+],
   "geometry": {"coordinates":[-80.866551,33.501099],"type":"Point"}
 }

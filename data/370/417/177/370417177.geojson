@@ -2,13 +2,14 @@
   "id": 370417177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.898229,34.283088,-79.898229,34.283088",
     "geom:latitude":34.283088,
     "geom:longitude":-79.898229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Bonnoitt St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370417177,
-    "wof:lastmodified":1449030473,
+    "wof:lastmodified":1467082329,
     "wof:name":"Tools Unlimited",
     "wof:parent_id":85807743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-79.898229,34.283088,-79.898229,34.283088],
+  "bbox": [
+    -79.898229,
+    34.283088,
+    -79.898229,
+    34.283088
+],
   "geometry": {"coordinates":[-79.898229,34.283088],"type":"Point"}
 }

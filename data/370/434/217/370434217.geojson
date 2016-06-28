@@ -2,13 +2,14 @@
   "id": 370434217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.084869,34.653922,-83.084869,34.653922",
     "geom:latitude":34.653922,
     "geom:longitude":-83.084869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 W Oak Hwy",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370434217,
-    "wof:lastmodified":1449029829,
+    "wof:lastmodified":1467082314,
     "wof:name":"Smith's Cleaning Svc",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-83.084869,34.653922,-83.084869,34.653922],
+  "bbox": [
+    -83.084869,
+    34.653922,
+    -83.084869,
+    34.653922
+],
   "geometry": {"coordinates":[-83.084869,34.653922],"type":"Point"}
 }

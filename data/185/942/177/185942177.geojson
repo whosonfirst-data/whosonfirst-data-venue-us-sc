@@ -2,13 +2,14 @@
   "id": 185942177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.635363,34.485145,-82.635363,34.485145",
     "geom:latitude":34.485145,
     "geom:longitude":-82.635363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 E Shockley Ferry Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185942177,
-    "wof:lastmodified":1449007358,
+    "wof:lastmodified":1467082194,
     "wof:name":"Gillespie Marble Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-82.635363,34.485145,-82.635363,34.485145],
+  "bbox": [
+    -82.635363,
+    34.485145,
+    -82.635363,
+    34.485145
+],
   "geometry": {"coordinates":[-82.635363,34.485145],"type":"Point"}
 }

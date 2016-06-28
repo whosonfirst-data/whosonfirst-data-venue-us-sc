@@ -2,13 +2,14 @@
   "id": 370691733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.942107,32.742903,-79.942107,32.742903",
     "geom:latitude":32.742903,
     "geom:longitude":-79.942107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1136 Wellington Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370691733,
-    "wof:lastmodified":1449029366,
+    "wof:lastmodified":1467082304,
     "wof:name":"China Mist Iced Teas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "coffee"
     ]
 },
-  "bbox": [-79.942107,32.742903,-79.942107,32.742903],
-  "geometry": {"coordinates":[-79.942107,32.742903],"type":"Point"}
+  "bbox": [
+    -79.942107,
+    32.742903,
+    -79.942107,
+    32.742903
+],
+  "geometry": {"coordinates":[-79.94210699999999,32.742903],"type":"Point"}
 }

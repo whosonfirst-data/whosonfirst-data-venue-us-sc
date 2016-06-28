@@ -2,13 +2,14 @@
   "id": 353771259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.118966,33.978289,-81.118966,33.978289",
     "geom:latitude":33.978289,
     "geom:longitude":-81.118966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3037 Augusta Rd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353771259,
-    "wof:lastmodified":1449019643,
+    "wof:lastmodified":1467082238,
     "wof:name":"Title Doc",
     "wof:parent_id":85808009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-81.118966,33.978289,-81.118966,33.978289],
+  "bbox": [
+    -81.118966,
+    33.978289,
+    -81.118966,
+    33.978289
+],
   "geometry": {"coordinates":[-81.118966,33.978289],"type":"Point"}
 }

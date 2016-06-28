@@ -2,13 +2,14 @@
   "id": 354267719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.246255,34.740727,-82.246255,34.740727",
     "geom:latitude":34.740727,
     "geom:longitude":-82.246255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Village Park Dr",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354267719,
-    "wof:lastmodified":1449067513,
+    "wof:lastmodified":1467082450,
     "wof:name":"Village Park Apartments",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.246255,34.740727,-82.246255,34.740727],
+  "bbox": [
+    -82.246255,
+    34.740727,
+    -82.246255,
+    34.740727
+],
   "geometry": {"coordinates":[-82.246255,34.740727],"type":"Point"}
 }

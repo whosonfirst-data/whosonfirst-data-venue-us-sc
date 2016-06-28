@@ -2,13 +2,14 @@
   "id": 337563057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.412411,34.01803,-80.412411,34.01803",
     "geom:latitude":34.01803,
     "geom:longitude":-80.412411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4925 Queen Chapel Rd",
     "sg:city":"Dalzell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337563057,
-    "wof:lastmodified":1449026946,
+    "wof:lastmodified":1467082265,
     "wof:name":"Dalzell Crafts & Ceramics",
     "wof:parent_id":85814545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.412411,34.01803,-80.412411,34.01803],
-  "geometry": {"coordinates":[-80.412411,34.01803],"type":"Point"}
+  "bbox": [
+    -80.412411,
+    34.01803,
+    -80.412411,
+    34.01803
+],
+  "geometry": {"coordinates":[-80.41241100000001,34.01803],"type":"Point"}
 }

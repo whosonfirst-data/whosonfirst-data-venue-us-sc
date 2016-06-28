@@ -2,13 +2,14 @@
   "id": 370182763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.991385,33.681618,-78.991385,33.681618",
     "geom:latitude":33.681618,
     "geom:longitude":-78.991385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Apache Trl",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370182763,
-    "wof:lastmodified":1449031216,
+    "wof:lastmodified":1467082345,
     "wof:name":"Costal Telephone Systems",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "pay"
     ]
 },
-  "bbox": [-78.991385,33.681618,-78.991385,33.681618],
-  "geometry": {"coordinates":[-78.991385,33.681618],"type":"Point"}
+  "bbox": [
+    -78.991385,
+    33.681618,
+    -78.991385,
+    33.681618
+],
+  "geometry": {"coordinates":[-78.99138499999999,33.681618],"type":"Point"}
 }

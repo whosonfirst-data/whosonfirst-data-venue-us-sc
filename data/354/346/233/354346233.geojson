@@ -2,13 +2,14 @@
   "id": 354346233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.531521,34.412588,-80.531521,34.412588",
     "geom:latitude":34.412588,
     "geom:longitude":-80.531521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 Old Georgetown Rd W",
     "sg:city":"Kershaw",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354346233,
-    "wof:lastmodified":1449065922,
+    "wof:lastmodified":1467082414,
     "wof:name":"Freeman Masonry",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.531521,34.412588,-80.531521,34.412588],
+  "bbox": [
+    -80.531521,
+    34.412588,
+    -80.531521,
+    34.412588
+],
   "geometry": {"coordinates":[-80.531521,34.412588],"type":"Point"}
 }

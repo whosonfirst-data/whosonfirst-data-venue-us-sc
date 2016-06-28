@@ -2,13 +2,14 @@
   "id": 353554921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.849025,33.721763,-78.849025,33.721763",
     "geom:latitude":33.721763,
     "geom:longitude":-78.849025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4515 US Hwy 17 Bus",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353554921,
-    "wof:lastmodified":1449018784,
+    "wof:lastmodified":1467082220,
     "wof:name":"Fine Arts Gallery LTD",
     "wof:parent_id":85839155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "frame"
     ]
 },
-  "bbox": [-78.849025,33.721763,-78.849025,33.721763],
+  "bbox": [
+    -78.849025,
+    33.721763,
+    -78.849025,
+    33.721763
+],
   "geometry": {"coordinates":[-78.849025,33.721763],"type":"Point"}
 }

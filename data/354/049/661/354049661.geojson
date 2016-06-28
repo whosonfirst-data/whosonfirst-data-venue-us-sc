@@ -2,13 +2,14 @@
   "id": 354049661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.582117,34.547515,-80.582117,34.547515",
     "geom:latitude":34.547515,
     "geom:longitude":-80.582117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Hampton St",
     "sg:city":"Kershaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354049661,
-    "wof:lastmodified":1449066770,
+    "wof:lastmodified":1467082434,
     "wof:name":"Gus' House Of Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-80.582117,34.547515,-80.582117,34.547515],
+  "bbox": [
+    -80.582117,
+    34.547515,
+    -80.582117,
+    34.547515
+],
   "geometry": {"coordinates":[-80.582117,34.547515],"type":"Point"}
 }

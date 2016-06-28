@@ -2,13 +2,14 @@
   "id": 370386013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.815702,34.242508,-79.815702,34.242508",
     "geom:latitude":34.242508,
     "geom:longitude":-79.815702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2513 W Lucas St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370386013,
-    "wof:lastmodified":1449030859,
+    "wof:lastmodified":1467082337,
     "wof:name":"Indigo Marsh Garden & Gift",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-79.815702,34.242508,-79.815702,34.242508],
+  "bbox": [
+    -79.815702,
+    34.242508,
+    -79.815702,
+    34.242508
+],
   "geometry": {"coordinates":[-79.815702,34.242508],"type":"Point"}
 }

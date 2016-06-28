@@ -2,13 +2,14 @@
   "id": 353698799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.739253,34.153949,-79.739253,34.153949",
     "geom:latitude":34.153949,
     "geom:longitude":-79.739253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Pamplico Hwy",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353698799,
-    "wof:lastmodified":1449020640,
+    "wof:lastmodified":1467082258,
     "wof:name":"Howard Johnson Furn & Appl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.739253,34.153949,-79.739253,34.153949],
-  "geometry": {"coordinates":[-79.739253,34.153949],"type":"Point"}
+  "bbox": [
+    -79.739253,
+    34.153949,
+    -79.739253,
+    34.153949
+],
+  "geometry": {"coordinates":[-79.73925300000001,34.153949],"type":"Point"}
 }

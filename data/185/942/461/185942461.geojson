@@ -2,13 +2,14 @@
   "id": 185942461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.87001,32.810584,-79.87001,32.810584",
     "geom:latitude":32.810584,
     "geom:longitude":-79.87001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"884 Johnnie Dodds Blvd",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185942461,
-    "wof:lastmodified":1449007354,
+    "wof:lastmodified":1467082194,
     "wof:name":"Kelco Metals Inc",
     "wof:parent_id":85848217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.87001,32.810584,-79.87001,32.810584],
-  "geometry": {"coordinates":[-79.87001,32.810584],"type":"Point"}
+  "bbox": [
+    -79.87001,
+    32.810584,
+    -79.87001,
+    32.810584
+],
+  "geometry": {"coordinates":[-79.87000999999999,32.810584],"type":"Point"}
 }

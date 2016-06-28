@@ -2,13 +2,14 @@
   "id": 185610911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.038122,32.65712,-80.038122,32.65712",
     "geom:latitude":32.65712,
     "geom:longitude":-80.038122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3404 Legareville Rd",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":185610911,
-    "wof:lastmodified":1449008166,
+    "wof:lastmodified":1467082206,
     "wof:name":"Applied Engineered Systems LLC",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "engineer"
     ]
 },
-  "bbox": [-80.038122,32.65712,-80.038122,32.65712],
+  "bbox": [
+    -80.038122,
+    32.65712,
+    -80.038122,
+    32.65712
+],
   "geometry": {"coordinates":[-80.038122,32.65712],"type":"Point"}
 }

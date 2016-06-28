@@ -2,13 +2,14 @@
   "id": 186007227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.650557,34.502687,-82.650557,34.502687",
     "geom:latitude":34.502687,
     "geom:longitude":-82.650557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 W Benson St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186007227,
-    "wof:lastmodified":1449052548,
+    "wof:lastmodified":1467082408,
     "wof:name":"Chapman Byrholdt & Yon",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.650557,34.502687,-82.650557,34.502687],
-  "geometry": {"coordinates":[-82.650557,34.502687],"type":"Point"}
+  "bbox": [
+    -82.650557,
+    34.502687,
+    -82.650557,
+    34.502687
+],
+  "geometry": {"coordinates":[-82.65055700000001,34.502687],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370466401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.705605,32.219118,-80.705605,32.219118",
     "geom:latitude":32.219118,
     "geom:longitude":-80.705605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Palmetto Pkwy",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370466401,
-    "wof:lastmodified":1449030115,
+    "wof:lastmodified":1467082321,
     "wof:name":"Floor Fashion Inc",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-80.705605,32.219118,-80.705605,32.219118],
-  "geometry": {"coordinates":[-80.705605,32.219118],"type":"Point"}
+  "bbox": [
+    -80.705605,
+    32.219118,
+    -80.705605,
+    32.219118
+],
+  "geometry": {"coordinates":[-80.70560500000001,32.219118],"type":"Point"}
 }

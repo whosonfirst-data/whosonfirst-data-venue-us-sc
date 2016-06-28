@@ -2,13 +2,14 @@
   "id": 370423343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.95089,32.806933,-79.95089,32.806933",
     "geom:latitude":32.806933,
     "geom:longitude":-79.95089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 King St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370423343,
-    "wof:lastmodified":1449029645,
+    "wof:lastmodified":1467082310,
     "wof:name":"Islamic Center Of Charleston",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mosque"
     ]
 },
-  "bbox": [-79.95089,32.806933,-79.95089,32.806933],
+  "bbox": [
+    -79.95089,
+    32.806933,
+    -79.95089,
+    32.806933
+],
   "geometry": {"coordinates":[-79.95089,32.806933],"type":"Point"}
 }

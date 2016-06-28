@@ -2,13 +2,14 @@
   "id": 353501799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.964263,32.711145,-79.964263,32.711145",
     "geom:latitude":32.711145,
     "geom:longitude":-79.964263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1528 Folly Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353501799,
-    "wof:lastmodified":1449020821,
+    "wof:lastmodified":1467082262,
     "wof:name":"Hope's Treasure Chest",
     "wof:parent_id":85847603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-79.964263,32.711145,-79.964263,32.711145],
+  "bbox": [
+    -79.964263,
+    32.711145,
+    -79.964263,
+    32.711145
+],
   "geometry": {"coordinates":[-79.964263,32.711145],"type":"Point"}
 }

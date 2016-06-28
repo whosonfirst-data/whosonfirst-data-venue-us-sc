@@ -2,13 +2,14 @@
   "id": 370652345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.88588,33.685591,-78.88588,33.685591",
     "geom:latitude":33.685591,
     "geom:longitude":-78.88588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N Ocean Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370652345,
-    "wof:lastmodified":1449031259,
+    "wof:lastmodified":1467082346,
     "wof:name":"Windsurfer Hotel",
     "wof:parent_id":85859339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.88588,33.685591,-78.88588,33.685591],
+  "bbox": [
+    -78.88588,
+    33.685591,
+    -78.88588,
+    33.685591
+],
   "geometry": {"coordinates":[-78.88588,33.685591],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370438379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.375684,34.177503,-82.375684,34.177503",
     "geom:latitude":34.177503,
     "geom:longitude":-82.375684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Henry M Turner St",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370438379,
-    "wof:lastmodified":1449030246,
+    "wof:lastmodified":1467082324,
     "wof:name":"St James AME Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.375684,34.177503,-82.375684,34.177503],
-  "geometry": {"coordinates":[-82.375684,34.177503],"type":"Point"}
+  "bbox": [
+    -82.375684,
+    34.177503,
+    -82.375684,
+    34.177503
+],
+  "geometry": {"coordinates":[-82.37568400000001,34.177503],"type":"Point"}
 }

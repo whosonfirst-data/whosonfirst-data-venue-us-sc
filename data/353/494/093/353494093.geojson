@@ -2,13 +2,14 @@
   "id": 353494093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.798245,34.208452,-79.798245,34.208452",
     "geom:latitude":34.208452,
     "geom:longitude":-79.798245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"753 N Cashua Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353494093,
-    "wof:lastmodified":1449020524,
+    "wof:lastmodified":1467082256,
     "wof:name":"T & S Fire & Security",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-79.798245,34.208452,-79.798245,34.208452],
-  "geometry": {"coordinates":[-79.798245,34.208452],"type":"Point"}
+  "bbox": [
+    -79.798245,
+    34.208452,
+    -79.798245,
+    34.208452
+],
+  "geometry": {"coordinates":[-79.79824499999999,34.208452],"type":"Point"}
 }

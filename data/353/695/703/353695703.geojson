@@ -2,13 +2,14 @@
   "id": 353695703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.7258,34.103092,-79.7258,34.103092",
     "geom:latitude":34.103092,
     "geom:longitude":-79.7258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4533 Cato Rd",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353695703,
-    "wof:lastmodified":1449019223,
+    "wof:lastmodified":1467082229,
     "wof:name":"Carolina Construction & Rmdlng",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.7258,34.103092,-79.7258,34.103092],
-  "geometry": {"coordinates":[-79.7258,34.103092],"type":"Point"}
+  "bbox": [
+    -79.7258,
+    34.103092,
+    -79.7258,
+    34.103092
+],
+  "geometry": {"coordinates":[-79.72580000000001,34.103092],"type":"Point"}
 }

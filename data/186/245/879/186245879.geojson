@@ -2,13 +2,14 @@
   "id": 186245879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.249839,33.880465,-81.249839,33.880465",
     "geom:latitude":33.880465,
     "geom:longitude":-81.249839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Clermont Lakes Dr",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186245879,
-    "wof:lastmodified":1449052946,
+    "wof:lastmodified":1467082412,
     "wof:name":"Lexington Wood Fences",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.249839,33.880465,-81.249839,33.880465],
-  "geometry": {"coordinates":[-81.249839,33.880465],"type":"Point"}
+  "bbox": [
+    -81.249839,
+    33.880465,
+    -81.249839,
+    33.880465
+],
+  "geometry": {"coordinates":[-81.24983899999999,33.880465],"type":"Point"}
 }

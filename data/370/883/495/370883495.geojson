@@ -2,13 +2,14 @@
   "id": 370883495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.073186,34.452655,-82.073186,34.452655",
     "geom:latitude":34.452655,
     "geom:longitude":-82.073186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Ekom Beach Rd",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370883495,
-    "wof:lastmodified":1449031684,
+    "wof:lastmodified":1467082356,
     "wof:name":"Caldwell's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.073186,34.452655,-82.073186,34.452655],
-  "geometry": {"coordinates":[-82.073186,34.452655],"type":"Point"}
+  "bbox": [
+    -82.073186,
+    34.452655,
+    -82.073186,
+    34.452655
+],
+  "geometry": {"coordinates":[-82.07318600000001,34.452655],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370502431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.370224,34.075127,-81.370224,34.075127",
     "geom:latitude":34.075127,
     "geom:longitude":-81.370224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 Cove Trl",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":370502431,
-    "wof:lastmodified":1449030648,
+    "wof:lastmodified":1467082333,
     "wof:name":"Youth Light Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-81.370224,34.075127,-81.370224,34.075127],
-  "geometry": {"coordinates":[-81.370224,34.075127],"type":"Point"}
+  "bbox": [
+    -81.370224,
+    34.075127,
+    -81.370224,
+    34.075127
+],
+  "geometry": {"coordinates":[-81.37022399999999,34.075127],"type":"Point"}
 }

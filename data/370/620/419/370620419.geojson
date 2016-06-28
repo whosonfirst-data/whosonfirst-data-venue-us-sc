@@ -2,13 +2,14 @@
   "id": 370620419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.950644,32.797296,-79.950644,32.797296",
     "geom:latitude":32.797296,
     "geom:longitude":-79.950644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"591 Rutledge Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370620419,
-    "wof:lastmodified":1449032187,
+    "wof:lastmodified":1467082367,
     "wof:name":"Mt Carmel AME Church",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.950644,32.797296,-79.950644,32.797296],
+  "bbox": [
+    -79.950644,
+    32.797296,
+    -79.950644,
+    32.797296
+],
   "geometry": {"coordinates":[-79.950644,32.797296],"type":"Point"}
 }

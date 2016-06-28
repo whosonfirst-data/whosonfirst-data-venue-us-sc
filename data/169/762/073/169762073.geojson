@@ -2,13 +2,14 @@
   "id": 169762073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.4034,34.848742,-82.4034,34.848742",
     "geom:latitude":34.848742,
     "geom:longitude":-82.4034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Reedy View Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169762073,
-    "wof:lastmodified":1449035006,
+    "wof:lastmodified":1467082385,
     "wof:name":"Healthcare Concepts Inc",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hospital"
     ]
 },
-  "bbox": [-82.4034,34.848742,-82.4034,34.848742],
+  "bbox": [
+    -82.4034,
+    34.848742,
+    -82.4034,
+    34.848742
+],
   "geometry": {"coordinates":[-82.4034,34.848742],"type":"Point"}
 }

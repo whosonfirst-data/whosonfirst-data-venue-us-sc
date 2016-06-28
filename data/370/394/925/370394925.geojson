@@ -2,13 +2,14 @@
   "id": 370394925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.240945,35.006749,-81.240945,35.006749",
     "geom:latitude":35.006749,
     "geom:longitude":-81.240945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Kings Mountain St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370394925,
-    "wof:lastmodified":1449029747,
+    "wof:lastmodified":1467082312,
     "wof:name":"William D King DC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.240945,35.006749,-81.240945,35.006749],
+  "bbox": [
+    -81.240945,
+    35.006749,
+    -81.240945,
+    35.006749
+],
   "geometry": {"coordinates":[-81.240945,35.006749],"type":"Point"}
 }

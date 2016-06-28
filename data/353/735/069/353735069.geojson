@@ -2,13 +2,14 @@
   "id": 353735069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.69876,33.589682,-81.69876,33.589682",
     "geom:latitude":33.589682,
     "geom:longitude":-81.69876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Kaolin Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353735069,
-    "wof:lastmodified":1449020714,
+    "wof:lastmodified":1467082260,
     "wof:name":"W R Grace Kaolin Plant",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clay"
     ]
 },
-  "bbox": [-81.69876,33.589682,-81.69876,33.589682],
-  "geometry": {"coordinates":[-81.69876,33.589682],"type":"Point"}
+  "bbox": [
+    -81.69876,
+    33.589682,
+    -81.69876,
+    33.589682
+],
+  "geometry": {"coordinates":[-81.69875999999999,33.589682],"type":"Point"}
 }

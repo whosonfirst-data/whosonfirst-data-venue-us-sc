@@ -2,13 +2,14 @@
   "id": 370858925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.234033,34.947036,-82.234033,34.947036",
     "geom:latitude":34.947036,
     "geom:longitude":-82.234033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Morrow St",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370858925,
-    "wof:lastmodified":1449029422,
+    "wof:lastmodified":1467082305,
     "wof:name":"Beck's Plumbing & Heating",
     "wof:parent_id":85853715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.234033,34.947036,-82.234033,34.947036],
+  "bbox": [
+    -82.234033,
+    34.947036,
+    -82.234033,
+    34.947036
+],
   "geometry": {"coordinates":[-82.234033,34.947036],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370964335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.426416,34.980576,-82.426416,34.980576",
     "geom:latitude":34.980576,
     "geom:longitude":-82.426416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 US Hwy 25",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370964335,
-    "wof:lastmodified":1449031647,
+    "wof:lastmodified":1467082355,
     "wof:name":"Traveler's Gas",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.426416,34.980576,-82.426416,34.980576],
+  "bbox": [
+    -82.426416,
+    34.980576,
+    -82.426416,
+    34.980576
+],
   "geometry": {"coordinates":[-82.426416,34.980576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185859717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.099019,34.673021,-83.099019,34.673021",
     "geom:latitude":34.673021,
     "geom:longitude":-83.099019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Duffie St",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185859717,
-    "wof:lastmodified":1449007743,
+    "wof:lastmodified":1467082200,
     "wof:name":"Phillip H Batson",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-83.099019,34.673021,-83.099019,34.673021],
+  "bbox": [
+    -83.099019,
+    34.673021,
+    -83.099019,
+    34.673021
+],
   "geometry": {"coordinates":[-83.099019,34.673021],"type":"Point"}
 }

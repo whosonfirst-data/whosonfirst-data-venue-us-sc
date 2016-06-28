@@ -2,13 +2,14 @@
   "id": 354084215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.719918,33.524451,-81.719918,33.524451",
     "geom:latitude":33.524451,
     "geom:longitude":-81.719918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 Whiskey Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354084215,
-    "wof:lastmodified":1449066124,
+    "wof:lastmodified":1467082419,
     "wof:name":"Mc Call Thomas Computer Svc",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.719918,33.524451,-81.719918,33.524451],
-  "geometry": {"coordinates":[-81.719918,33.524451],"type":"Point"}
+  "bbox": [
+    -81.719918,
+    33.524451,
+    -81.719918,
+    33.524451
+],
+  "geometry": {"coordinates":[-81.71991800000001,33.524451],"type":"Point"}
 }

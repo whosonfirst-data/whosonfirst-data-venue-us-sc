@@ -2,13 +2,14 @@
   "id": 354240177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.783431,34.188558,-80.783431,34.188558",
     "geom:latitude":34.188558,
     "geom:longitude":-80.783431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 Smyrna Rd",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354240177,
-    "wof:lastmodified":1449066110,
+    "wof:lastmodified":1467082419,
     "wof:name":"Larrys Corner Store",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.783431,34.188558,-80.783431,34.188558],
-  "geometry": {"coordinates":[-80.783431,34.188558],"type":"Point"}
+  "bbox": [
+    -80.783431,
+    34.188558,
+    -80.783431,
+    34.188558
+],
+  "geometry": {"coordinates":[-80.78343099999999,34.188558],"type":"Point"}
 }

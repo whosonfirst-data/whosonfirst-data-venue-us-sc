@@ -2,13 +2,14 @@
   "id": 370209477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.345532,34.926966,-82.345532,34.926966",
     "geom:latitude":34.926966,
     "geom:longitude":-82.345532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Tall Tree Ln",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370209477,
-    "wof:lastmodified":1449032117,
+    "wof:lastmodified":1467082365,
     "wof:name":"Hobbit Plastering Inc",
     "wof:parent_id":85857455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.345532,34.926966,-82.345532,34.926966],
-  "geometry": {"coordinates":[-82.345532,34.926966],"type":"Point"}
+  "bbox": [
+    -82.345532,
+    34.926966,
+    -82.345532,
+    34.926966
+],
+  "geometry": {"coordinates":[-82.34553200000001,34.926966],"type":"Point"}
 }

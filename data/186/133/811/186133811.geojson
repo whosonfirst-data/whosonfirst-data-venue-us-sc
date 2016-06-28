@@ -2,13 +2,14 @@
   "id": 186133811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.017324,33.969689,-81.017324,33.969689",
     "geom:latitude":33.969689,
     "geom:longitude":-81.017324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 Bluff Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186133811,
-    "wof:lastmodified":1449052544,
+    "wof:lastmodified":1467082408,
     "wof:name":"Smoak Insurance Inc",
     "wof:parent_id":85846089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.017324,33.969689,-81.017324,33.969689],
+  "bbox": [
+    -81.017324,
+    33.969689,
+    -81.017324,
+    33.969689
+],
   "geometry": {"coordinates":[-81.017324,33.969689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337430715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.110705,34.671151,-83.110705,34.671151",
     "geom:latitude":34.671151,
     "geom:longitude":-83.110705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 Cornelia Ave",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337430715,
-    "wof:lastmodified":1449027474,
+    "wof:lastmodified":1467082285,
     "wof:name":"Superior Plumbing",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-83.110705,34.671151,-83.110705,34.671151],
+  "bbox": [
+    -83.110705,
+    34.671151,
+    -83.110705,
+    34.671151
+],
   "geometry": {"coordinates":[-83.110705,34.671151],"type":"Point"}
 }

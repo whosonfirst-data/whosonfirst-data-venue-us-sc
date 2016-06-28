@@ -2,13 +2,14 @@
   "id": 370306663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.982495,34.411204,-81.982495,34.411204",
     "geom:latitude":34.411204,
     "geom:longitude":-81.982495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5067 Lisbon Rd",
     "sg:city":"Mountville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370306663,
-    "wof:lastmodified":1449032314,
+    "wof:lastmodified":1467082370,
     "wof:name":"Charles Copoland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-81.982495,34.411204,-81.982495,34.411204],
+  "bbox": [
+    -81.982495,
+    34.411204,
+    -81.982495,
+    34.411204
+],
   "geometry": {"coordinates":[-81.982495,34.411204],"type":"Point"}
 }

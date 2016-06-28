@@ -2,13 +2,14 @@
   "id": 353761485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.400396,34.850001,-82.400396,34.850001",
     "geom:latitude":34.850001,
     "geom:longitude":-82.400396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 W McBee Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353761485,
-    "wof:lastmodified":1449020206,
+    "wof:lastmodified":1467082249,
     "wof:name":"CTS",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-82.400396,34.850001,-82.400396,34.850001],
+  "bbox": [
+    -82.400396,
+    34.850001,
+    -82.400396,
+    34.850001
+],
   "geometry": {"coordinates":[-82.400396,34.850001],"type":"Point"}
 }

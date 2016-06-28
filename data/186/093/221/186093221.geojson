@@ -2,13 +2,14 @@
   "id": 186093221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.979232,33.773323,-80.979232,33.773323",
     "geom:latitude":33.773323,
     "geom:longitude":-80.979232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Glowworm Rd",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186093221,
-    "wof:lastmodified":1449050258,
+    "wof:lastmodified":1467082388,
     "wof:name":"Custom Training Aids Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.979232,33.773323,-80.979232,33.773323],
+  "bbox": [
+    -80.979232,
+    33.773323,
+    -80.979232,
+    33.773323
+],
   "geometry": {"coordinates":[-80.979232,33.773323],"type":"Point"}
 }

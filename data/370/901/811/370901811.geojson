@@ -2,13 +2,14 @@
   "id": 370901811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.899836,33.67873,-78.899836,33.67873",
     "geom:latitude":33.67873,
     "geom:longitude":-78.899836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 S Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370901811,
-    "wof:lastmodified":1449030502,
+    "wof:lastmodified":1467082330,
     "wof:name":"African Beach Wear",
     "wof:parent_id":85858419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.899836,33.67873,-78.899836,33.67873],
-  "geometry": {"coordinates":[-78.899836,33.67873],"type":"Point"}
+  "bbox": [
+    -78.899836,
+    33.67873,
+    -78.899836,
+    33.67873
+],
+  "geometry": {"coordinates":[-78.89983599999999,33.67873],"type":"Point"}
 }

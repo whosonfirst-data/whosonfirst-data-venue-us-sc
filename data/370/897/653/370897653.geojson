@@ -2,13 +2,14 @@
   "id": 370897653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.022264,33.575684,-79.022264,33.575684",
     "geom:latitude":33.575684,
     "geom:longitude":-79.022264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"594 Rum Gully Rd",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370897653,
-    "wof:lastmodified":1449031915,
+    "wof:lastmodified":1467082361,
     "wof:name":"Flynn Properties LLC",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.022264,33.575684,-79.022264,33.575684],
-  "geometry": {"coordinates":[-79.022264,33.575684],"type":"Point"}
+  "bbox": [
+    -79.022264,
+    33.575684,
+    -79.022264,
+    33.575684
+],
+  "geometry": {"coordinates":[-79.02226400000001,33.575684],"type":"Point"}
 }

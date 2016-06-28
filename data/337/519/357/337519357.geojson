@@ -2,13 +2,14 @@
   "id": 337519357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.015329,32.896428,-80.015329,32.896428",
     "geom:latitude":32.896428,
     "geom:longitude":-80.015329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5522 Rivers Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337519357,
-    "wof:lastmodified":1449027686,
+    "wof:lastmodified":1467082293,
     "wof:name":"Check Masters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "check"
     ]
 },
-  "bbox": [-80.015329,32.896428,-80.015329,32.896428],
-  "geometry": {"coordinates":[-80.015329,32.896428],"type":"Point"}
+  "bbox": [
+    -80.015329,
+    32.896428,
+    -80.015329,
+    32.896428
+],
+  "geometry": {"coordinates":[-80.01532899999999,32.896428],"type":"Point"}
 }

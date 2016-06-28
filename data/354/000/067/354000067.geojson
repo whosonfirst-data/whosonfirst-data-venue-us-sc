@@ -2,13 +2,14 @@
   "id": 354000067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.931477,32.780919,-79.931477,32.780919",
     "geom:latitude":32.780919,
     "geom:longitude":-79.931477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 N Market St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354000067,
-    "wof:lastmodified":1449066201,
+    "wof:lastmodified":1467082421,
     "wof:name":"T Bonz Gill & Grill",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-79.931477,32.780919,-79.931477,32.780919],
+  "bbox": [
+    -79.931477,
+    32.780919,
+    -79.931477,
+    32.780919
+],
   "geometry": {"coordinates":[-79.931477,32.780919],"type":"Point"}
 }

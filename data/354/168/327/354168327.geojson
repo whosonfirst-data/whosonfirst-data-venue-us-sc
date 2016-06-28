@@ -2,13 +2,14 @@
   "id": 354168327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.956337,34.880154,-81.956337,34.880154",
     "geom:latitude":34.880154,
     "geom:longitude":-81.956337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4392 S Church St Exd",
     "sg:city":"Roebuck",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354168327,
-    "wof:lastmodified":1449066821,
+    "wof:lastmodified":1467082435,
     "wof:name":"T-Rex Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.956337,34.880154,-81.956337,34.880154],
+  "bbox": [
+    -81.956337,
+    34.880154,
+    -81.956337,
+    34.880154
+],
   "geometry": {"coordinates":[-81.956337,34.880154],"type":"Point"}
 }

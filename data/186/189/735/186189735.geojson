@@ -2,13 +2,14 @@
   "id": 186189735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.123942,34.95561,-82.123942,34.95561",
     "geom:latitude":34.95561,
     "geom:longitude":-82.123942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Spartanburg Hwy",
     "sg:city":"Lyman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186189735,
-    "wof:lastmodified":1449052250,
+    "wof:lastmodified":1467082406,
     "wof:name":"Bobby's Wrecker Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-82.123942,34.95561,-82.123942,34.95561],
+  "bbox": [
+    -82.123942,
+    34.95561,
+    -82.123942,
+    34.95561
+],
   "geometry": {"coordinates":[-82.123942,34.95561],"type":"Point"}
 }

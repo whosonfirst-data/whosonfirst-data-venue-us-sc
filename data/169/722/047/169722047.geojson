@@ -2,13 +2,14 @@
   "id": 169722047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.025169,32.993267,-80.025169,32.993267",
     "geom:latitude":32.993267,
     "geom:longitude":-80.025169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"281 Riverside Cir",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169722047,
-    "wof:lastmodified":1449033847,
+    "wof:lastmodified":1467082381,
     "wof:name":"Shephard's Magic Touch Cncrte",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.025169,32.993267,-80.025169,32.993267],
-  "geometry": {"coordinates":[-80.025169,32.993267],"type":"Point"}
+  "bbox": [
+    -80.025169,
+    32.993267,
+    -80.025169,
+    32.993267
+],
+  "geometry": {"coordinates":[-80.02516900000001,32.993267],"type":"Point"}
 }

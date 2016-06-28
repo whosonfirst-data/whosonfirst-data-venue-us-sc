@@ -2,13 +2,14 @@
   "id": 354281237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.334483,34.109296,-79.334483,34.109296",
     "geom:latitude":34.109296,
     "geom:longitude":-79.334483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2795 US Hwy 501 S",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354281237,
-    "wof:lastmodified":1449067387,
+    "wof:lastmodified":1467082448,
     "wof:name":"Donnas Antiques & Collectables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.334483,34.109296,-79.334483,34.109296],
-  "geometry": {"coordinates":[-79.334483,34.109296],"type":"Point"}
+  "bbox": [
+    -79.334483,
+    34.109296,
+    -79.334483,
+    34.109296
+],
+  "geometry": {"coordinates":[-79.33448300000001,34.109296],"type":"Point"}
 }

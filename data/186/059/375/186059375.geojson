@@ -2,13 +2,14 @@
   "id": 186059375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.080852,35.022941,-81.080852,35.022941",
     "geom:latitude":35.022941,
     "geom:longitude":-81.080852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1577 Springpoint Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186059375,
-    "wof:lastmodified":1449051115,
+    "wof:lastmodified":1467082395,
     "wof:name":"Ellis Chimney Cleaning",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-81.080852,35.022941,-81.080852,35.022941],
-  "geometry": {"coordinates":[-81.080852,35.022941],"type":"Point"}
+  "bbox": [
+    -81.080852,
+    35.022941,
+    -81.080852,
+    35.022941
+],
+  "geometry": {"coordinates":[-81.08085199999999,35.022941],"type":"Point"}
 }

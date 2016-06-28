@@ -2,13 +2,14 @@
   "id": 353568127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.010049,33.992125,-81.010049,33.992125",
     "geom:latitude":33.992125,
     "geom:longitude":-81.010049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Queen St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":353568127,
-    "wof:lastmodified":1449018195,
+    "wof:lastmodified":1467082208,
     "wof:name":"Carolina Graphics Printing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-81.010049,33.992125,-81.010049,33.992125],
+  "bbox": [
+    -81.010049,
+    33.992125,
+    -81.010049,
+    33.992125
+],
   "geometry": {"coordinates":[-81.010049,33.992125],"type":"Point"}
 }

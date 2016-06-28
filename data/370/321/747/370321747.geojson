@@ -2,13 +2,14 @@
   "id": 370321747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.550806,33.200689,-80.550806,33.200689",
     "geom:latitude":33.200689,
     "geom:longitude":-80.550806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 US Hwy 15",
     "sg:city":"Saint George",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370321747,
-    "wof:lastmodified":1449029143,
+    "wof:lastmodified":1467082299,
     "wof:name":"Tag Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.550806,33.200689,-80.550806,33.200689],
-  "geometry": {"coordinates":[-80.550806,33.200689],"type":"Point"}
+  "bbox": [
+    -80.550806,
+    33.200689,
+    -80.550806,
+    33.200689
+],
+  "geometry": {"coordinates":[-80.55080599999999,33.200689],"type":"Point"}
 }

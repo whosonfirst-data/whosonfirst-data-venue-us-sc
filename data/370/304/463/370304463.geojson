@@ -2,13 +2,14 @@
   "id": 370304463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.144062,35.044622,-81.144062,35.044622",
     "geom:latitude":35.044622,
     "geom:longitude":-81.144062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3243 Charlotte Hwy",
     "sg:city":"York",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370304463,
-    "wof:lastmodified":1449031615,
+    "wof:lastmodified":1467082354,
     "wof:name":"Montgomery's Garage & Wrecker",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-81.144062,35.044622,-81.144062,35.044622],
-  "geometry": {"coordinates":[-81.144062,35.044622],"type":"Point"}
+  "bbox": [
+    -81.144062,
+    35.044622,
+    -81.144062,
+    35.044622
+],
+  "geometry": {"coordinates":[-81.14406200000001,35.044622],"type":"Point"}
 }

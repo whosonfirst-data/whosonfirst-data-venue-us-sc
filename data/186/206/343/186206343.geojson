@@ -2,13 +2,14 @@
   "id": 186206343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.713944,33.568025,-81.713944,33.568025",
     "geom:latitude":33.568025,
     "geom:longitude":-81.713944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"566 York St NE",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186206343,
-    "wof:lastmodified":1449052200,
+    "wof:lastmodified":1467082405,
     "wof:name":"Swan Antique Mall",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-81.713944,33.568025,-81.713944,33.568025],
+  "bbox": [
+    -81.713944,
+    33.568025,
+    -81.713944,
+    33.568025
+],
   "geometry": {"coordinates":[-81.713944,33.568025],"type":"Point"}
 }

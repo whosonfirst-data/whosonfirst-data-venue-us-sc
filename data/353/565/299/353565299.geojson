@@ -2,13 +2,14 @@
   "id": 353565299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.128722,34.408534,-80.128722,34.408534",
     "geom:latitude":34.408534,
     "geom:longitude":-80.128722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1547 W Old Camden Rd",
     "sg:city":"Hartsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353565299,
-    "wof:lastmodified":1449020580,
+    "wof:lastmodified":1467082257,
     "wof:name":"Stop Light",
     "wof:parent_id":85825479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.128722,34.408534,-80.128722,34.408534],
+  "bbox": [
+    -80.128722,
+    34.408534,
+    -80.128722,
+    34.408534
+],
   "geometry": {"coordinates":[-80.128722,34.408534],"type":"Point"}
 }

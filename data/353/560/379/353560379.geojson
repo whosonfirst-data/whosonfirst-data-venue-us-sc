@@ -2,13 +2,14 @@
   "id": 353560379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.639606,34.720038,-81.639606,34.720038",
     "geom:latitude":34.720038,
     "geom:longitude":-81.639606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 N Duncan Byp",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353560379,
-    "wof:lastmodified":1449020212,
+    "wof:lastmodified":1467082250,
     "wof:name":"Sagesport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.639606,34.720038,-81.639606,34.720038],
+  "bbox": [
+    -81.639606,
+    34.720038,
+    -81.639606,
+    34.720038
+],
   "geometry": {"coordinates":[-81.639606,34.720038],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353571033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.318921,33.634884,-81.318921,33.634884",
     "geom:latitude":33.634884,
     "geom:longitude":-81.318921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4549 Festival Trail Rd",
     "sg:city":"Wagener",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353571033,
-    "wof:lastmodified":1449019983,
+    "wof:lastmodified":1467082245,
     "wof:name":"This N That",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-81.318921,33.634884,-81.318921,33.634884],
+  "bbox": [
+    -81.318921,
+    33.634884,
+    -81.318921,
+    33.634884
+],
   "geometry": {"coordinates":[-81.318921,33.634884],"type":"Point"}
 }

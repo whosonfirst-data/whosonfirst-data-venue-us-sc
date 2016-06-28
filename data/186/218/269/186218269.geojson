@@ -2,13 +2,14 @@
   "id": 186218269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.91237,34.944184,-81.91237,34.944184",
     "geom:latitude":34.944184,
     "geom:longitude":-81.91237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"497 S Pine St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186218269,
-    "wof:lastmodified":1449052075,
+    "wof:lastmodified":1467082404,
     "wof:name":"Charles D Cox DDS",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.91237,34.944184,-81.91237,34.944184],
+  "bbox": [
+    -81.91237,
+    34.944184,
+    -81.91237,
+    34.944184
+],
   "geometry": {"coordinates":[-81.91237,34.944184],"type":"Point"}
 }

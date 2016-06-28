@@ -2,13 +2,14 @@
   "id": 370796897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.023375,32.818698,-80.023375,32.818698",
     "geom:latitude":32.818698,
     "geom:longitude":-80.023375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1930 Sandcroft Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370796897,
-    "wof:lastmodified":1449030693,
+    "wof:lastmodified":1467082334,
     "wof:name":"Flying Colors Tutoring Inc",
     "wof:parent_id":85809785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tutoring"
     ]
 },
-  "bbox": [-80.023375,32.818698,-80.023375,32.818698],
+  "bbox": [
+    -80.023375,
+    32.818698,
+    -80.023375,
+    32.818698
+],
   "geometry": {"coordinates":[-80.023375,32.818698],"type":"Point"}
 }

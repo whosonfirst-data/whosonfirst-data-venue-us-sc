@@ -2,13 +2,14 @@
   "id": 185732481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.500002,35.017542,-82.500002,35.017542",
     "geom:latitude":35.017542,
     "geom:longitude":-82.500002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Dacusville Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185732481,
-    "wof:lastmodified":1449008276,
+    "wof:lastmodified":1467082208,
     "wof:name":"Tankersley Gutter",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gutter"
     ]
 },
-  "bbox": [-82.500002,35.017542,-82.500002,35.017542],
-  "geometry": {"coordinates":[-82.500002,35.017542],"type":"Point"}
+  "bbox": [
+    -82.500002,
+    35.017542,
+    -82.500002,
+    35.017542
+],
+  "geometry": {"coordinates":[-82.50000199999999,35.017542],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354026271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.018656,34.009083,-81.018656,34.009083",
     "geom:latitude":34.009083,
     "geom:longitude":-81.018656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Pine St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354026271,
-    "wof:lastmodified":1449066949,
+    "wof:lastmodified":1467082438,
     "wof:name":"St Luke's Episcopal Church",
     "wof:parent_id":85854837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.018656,34.009083,-81.018656,34.009083],
-  "geometry": {"coordinates":[-81.018656,34.009083],"type":"Point"}
+  "bbox": [
+    -81.018656,
+    34.009083,
+    -81.018656,
+    34.009083
+],
+  "geometry": {"coordinates":[-81.01865599999999,34.009083],"type":"Point"}
 }

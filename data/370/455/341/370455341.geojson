@@ -2,13 +2,14 @@
   "id": 370455341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.950683,32.80459,-79.950683,32.80459",
     "geom:latitude":32.80459,
     "geom:longitude":-79.950683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Poinsett St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370455341,
-    "wof:lastmodified":1449031928,
+    "wof:lastmodified":1467082361,
     "wof:name":"Green Chapel Baptist Church",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.950683,32.80459,-79.950683,32.80459],
+  "bbox": [
+    -79.950683,
+    32.80459,
+    -79.950683,
+    32.80459
+],
   "geometry": {"coordinates":[-79.950683,32.80459],"type":"Point"}
 }

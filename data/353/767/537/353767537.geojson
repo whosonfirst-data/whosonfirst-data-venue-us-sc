@@ -2,13 +2,14 @@
   "id": 353767537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.377001,33.228322,-79.377001,33.228322",
     "geom:latitude":33.228322,
     "geom:longitude":-79.377001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11228 S Fraser St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353767537,
-    "wof:lastmodified":1449019003,
+    "wof:lastmodified":1467082225,
     "wof:name":"Singleton AME Church",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.377001,33.228322,-79.377001,33.228322],
-  "geometry": {"coordinates":[-79.377001,33.228322],"type":"Point"}
+  "bbox": [
+    -79.377001,
+    33.228322,
+    -79.377001,
+    33.228322
+],
+  "geometry": {"coordinates":[-79.37700100000001,33.228322],"type":"Point"}
 }

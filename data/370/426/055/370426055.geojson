@@ -2,13 +2,14 @@
   "id": 370426055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.55517,34.753761,-80.55517,34.753761",
     "geom:latitude":34.753761,
     "geom:longitude":-80.55517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6152 Pageland Hwy",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370426055,
-    "wof:lastmodified":1449029816,
+    "wof:lastmodified":1467082314,
     "wof:name":"M & R Mini Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.55517,34.753761,-80.55517,34.753761],
+  "bbox": [
+    -80.55517,
+    34.753761,
+    -80.55517,
+    34.753761
+],
   "geometry": {"coordinates":[-80.55517,34.753761],"type":"Point"}
 }

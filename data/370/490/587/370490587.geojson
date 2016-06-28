@@ -2,13 +2,14 @@
   "id": 370490587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.820888,32.269737,-80.820888,32.269737",
     "geom:latitude":32.269737,
     "geom:longitude":-80.820888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Sawmill Creek Rd",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370490587,
-    "wof:lastmodified":1449032131,
+    "wof:lastmodified":1467082366,
     "wof:name":"Bader & Bader",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.820888,32.269737,-80.820888,32.269737],
+  "bbox": [
+    -80.820888,
+    32.269737,
+    -80.820888,
+    32.269737
+],
   "geometry": {"coordinates":[-80.820888,32.269737],"type":"Point"}
 }

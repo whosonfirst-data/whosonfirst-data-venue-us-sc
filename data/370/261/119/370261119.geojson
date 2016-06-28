@@ -2,13 +2,14 @@
   "id": 370261119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.745293,33.496006,-81.745293,33.496006",
     "geom:latitude":33.496006,
     "geom:longitude":-81.745293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Magnolia Lake Ct",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370261119,
-    "wof:lastmodified":1449029124,
+    "wof:lastmodified":1467082299,
     "wof:name":"Concurrent Technologies Corp",
     "wof:parent_id":85812071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-81.745293,33.496006,-81.745293,33.496006],
+  "bbox": [
+    -81.745293,
+    33.496006,
+    -81.745293,
+    33.496006
+],
   "geometry": {"coordinates":[-81.745293,33.496006],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353616431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.023411,32.798026,-80.023411,32.798026",
     "geom:latitude":32.798026,
     "geom:longitude":-80.023411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1937 Sam Rittenberg Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353616431,
-    "wof:lastmodified":1449020114,
+    "wof:lastmodified":1467082248,
     "wof:name":"Jackson's Inc",
     "wof:parent_id":85839787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-80.023411,32.798026,-80.023411,32.798026],
+  "bbox": [
+    -80.023411,
+    32.798026,
+    -80.023411,
+    32.798026
+],
   "geometry": {"coordinates":[-80.023411,32.798026],"type":"Point"}
 }

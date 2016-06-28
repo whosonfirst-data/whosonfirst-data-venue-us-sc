@@ -2,13 +2,14 @@
   "id": 370171475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.767118,34.203743,-79.767118,34.203743",
     "geom:latitude":34.203743,
     "geom:longitude":-79.767118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 W Lucas St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370171475,
-    "wof:lastmodified":1449032485,
+    "wof:lastmodified":1467082374,
     "wof:name":"United Masonic Temple",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-79.767118,34.203743,-79.767118,34.203743],
+  "bbox": [
+    -79.767118,
+    34.203743,
+    -79.767118,
+    34.203743
+],
   "geometry": {"coordinates":[-79.767118,34.203743],"type":"Point"}
 }

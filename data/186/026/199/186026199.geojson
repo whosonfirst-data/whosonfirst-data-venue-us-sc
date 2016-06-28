@@ -2,13 +2,14 @@
   "id": 186026199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.862247,34.157814,-79.862247,34.157814",
     "geom:latitude":34.157814,
     "geom:longitude":-79.862247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1828 Twin Church Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186026199,
-    "wof:lastmodified":1449051950,
+    "wof:lastmodified":1467082402,
     "wof:name":"Matthews Florist",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.862247,34.157814,-79.862247,34.157814],
+  "bbox": [
+    -79.862247,
+    34.157814,
+    -79.862247,
+    34.157814
+],
   "geometry": {"coordinates":[-79.862247,34.157814],"type":"Point"}
 }

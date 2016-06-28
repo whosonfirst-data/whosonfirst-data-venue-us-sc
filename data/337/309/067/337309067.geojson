@@ -2,13 +2,14 @@
   "id": 337309067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.968888,32.73401,-79.968888,32.73401",
     "geom:latitude":32.73401,
     "geom:longitude":-79.968888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 Folly Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337309067,
-    "wof:lastmodified":1449027103,
+    "wof:lastmodified":1467082271,
     "wof:name":"Titlemax LLC",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-79.968888,32.73401,-79.968888,32.73401],
-  "geometry": {"coordinates":[-79.968888,32.73401],"type":"Point"}
+  "bbox": [
+    -79.968888,
+    32.73401,
+    -79.968888,
+    32.73401
+],
+  "geometry": {"coordinates":[-79.96888800000001,32.73401],"type":"Point"}
 }

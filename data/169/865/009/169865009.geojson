@@ -2,13 +2,14 @@
   "id": 169865009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.001074,32.871874,-80.001074,32.871874",
     "geom:latitude":32.871874,
     "geom:longitude":-80.001074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 Piggly Wiggly Dr",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169865009,
-    "wof:lastmodified":1449035153,
+    "wof:lastmodified":1467082385,
     "wof:name":"Acme Distribution Centers",
     "wof:parent_id":85819163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-80.001074,32.871874,-80.001074,32.871874],
+  "bbox": [
+    -80.001074,
+    32.871874,
+    -80.001074,
+    32.871874
+],
   "geometry": {"coordinates":[-80.001074,32.871874],"type":"Point"}
 }

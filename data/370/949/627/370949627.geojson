@@ -2,13 +2,14 @@
   "id": 370949627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.096837,34.665879,-83.096837,34.665879",
     "geom:latitude":34.665879,
     "geom:longitude":-83.096837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E Main St",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370949627,
-    "wof:lastmodified":1449031188,
+    "wof:lastmodified":1467082344,
     "wof:name":"Westminster Hardware",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.096837,34.665879,-83.096837,34.665879],
-  "geometry": {"coordinates":[-83.096837,34.665879],"type":"Point"}
+  "bbox": [
+    -83.096837,
+    34.665879,
+    -83.096837,
+    34.665879
+],
+  "geometry": {"coordinates":[-83.09683699999999,34.665879],"type":"Point"}
 }

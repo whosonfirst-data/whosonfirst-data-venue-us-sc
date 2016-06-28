@@ -2,13 +2,14 @@
   "id": 370191921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.18556,34.257132,-82.18556,34.257132",
     "geom:latitude":34.257132,
     "geom:longitude":-82.18556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 N Acres Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370191921,
-    "wof:lastmodified":1449031135,
+    "wof:lastmodified":1467082343,
     "wof:name":"Harp Wireless",
     "wof:parent_id":85845351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-82.18556,34.257132,-82.18556,34.257132],
+  "bbox": [
+    -82.18556,
+    34.257132,
+    -82.18556,
+    34.257132
+],
   "geometry": {"coordinates":[-82.18556,34.257132],"type":"Point"}
 }

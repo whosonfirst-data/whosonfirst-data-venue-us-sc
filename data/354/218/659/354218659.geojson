@@ -2,13 +2,14 @@
   "id": 354218659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.287127,33.368964,-79.287127,33.368964",
     "geom:latitude":33.368964,
     "geom:longitude":-79.287127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 Front St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354218659,
-    "wof:lastmodified":1449067045,
+    "wof:lastmodified":1467082440,
     "wof:name":"Global Health",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.287127,33.368964,-79.287127,33.368964],
+  "bbox": [
+    -79.287127,
+    33.368964,
+    -79.287127,
+    33.368964
+],
   "geometry": {"coordinates":[-79.287127,33.368964],"type":"Point"}
 }

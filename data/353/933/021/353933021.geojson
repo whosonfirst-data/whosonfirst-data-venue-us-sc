@@ -2,13 +2,14 @@
   "id": 353933021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.951916,35.008342,-81.951916,35.008342",
     "geom:latitude":35.008342,
     "geom:longitude":-81.951916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Parris Bridge Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353933021,
-    "wof:lastmodified":1449018779,
+    "wof:lastmodified":1467082220,
     "wof:name":"Vcc",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "networking"
     ]
 },
-  "bbox": [-81.951916,35.008342,-81.951916,35.008342],
+  "bbox": [
+    -81.951916,
+    35.008342,
+    -81.951916,
+    35.008342
+],
   "geometry": {"coordinates":[-81.951916,35.008342],"type":"Point"}
 }

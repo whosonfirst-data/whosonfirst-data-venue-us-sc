@@ -2,13 +2,14 @@
   "id": 354116747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.36835,33.245236,-81.36835,33.245236",
     "geom:latitude":33.245236,
     "geom:longitude":-81.36835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10000 Dunbarton Blvd",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354116747,
-    "wof:lastmodified":1449066176,
+    "wof:lastmodified":1467082420,
     "wof:name":"Morris Mini Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.36835,33.245236,-81.36835,33.245236],
-  "geometry": {"coordinates":[-81.36835,33.245236],"type":"Point"}
+  "bbox": [
+    -81.36835,
+    33.245236,
+    -81.36835,
+    33.245236
+],
+  "geometry": {"coordinates":[-81.36835000000001,33.245236],"type":"Point"}
 }

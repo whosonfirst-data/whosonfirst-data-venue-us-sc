@@ -2,13 +2,14 @@
   "id": 370163803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.623775,34.718984,-81.623775,34.718984",
     "geom:latitude":34.718984,
     "geom:longitude":-81.623775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Wedgewood Ct",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370163803,
-    "wof:lastmodified":1449032396,
+    "wof:lastmodified":1467082372,
     "wof:name":"Union Awning & Iron Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "floor"
     ]
 },
-  "bbox": [-81.623775,34.718984,-81.623775,34.718984],
-  "geometry": {"coordinates":[-81.623775,34.718984],"type":"Point"}
+  "bbox": [
+    -81.623775,
+    34.718984,
+    -81.623775,
+    34.718984
+],
+  "geometry": {"coordinates":[-81.62377499999999,34.718984],"type":"Point"}
 }

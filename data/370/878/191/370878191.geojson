@@ -2,13 +2,14 @@
   "id": 370878191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.428635,34.779984,-82.428635,34.779984",
     "geom:latitude":34.779984,
     "geom:longitude":-82.428635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1638 Piedmont Hwy",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370878191,
-    "wof:lastmodified":1449030850,
+    "wof:lastmodified":1467082337,
     "wof:name":"Wild Country Saloon",
     "wof:parent_id":85810381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.428635,34.779984,-82.428635,34.779984],
+  "bbox": [
+    -82.428635,
+    34.779984,
+    -82.428635,
+    34.779984
+],
   "geometry": {"coordinates":[-82.428635,34.779984],"type":"Point"}
 }

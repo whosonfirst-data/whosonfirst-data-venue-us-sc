@@ -2,13 +2,14 @@
   "id": 370512379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.949723,34.024011,-80.949723,34.024011",
     "geom:latitude":34.024011,
     "geom:longitude":-80.949723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5550 Forest Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370512379,
-    "wof:lastmodified":1449031556,
+    "wof:lastmodified":1467082353,
     "wof:name":"Sports Actions",
     "wof:parent_id":85813843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [-80.949723,34.024011,-80.949723,34.024011],
-  "geometry": {"coordinates":[-80.949723,34.024011],"type":"Point"}
+  "bbox": [
+    -80.949723,
+    34.024011,
+    -80.949723,
+    34.024011
+],
+  "geometry": {"coordinates":[-80.94972300000001,34.024011],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353802601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.856692,33.47844,-80.856692,33.47844",
     "geom:latitude":33.47844,
     "geom:longitude":-80.856692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Wolfe Trl SW",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353802601,
-    "wof:lastmodified":1449020350,
+    "wof:lastmodified":1467082252,
     "wof:name":"Aimco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.856692,33.47844,-80.856692,33.47844],
+  "bbox": [
+    -80.856692,
+    33.47844,
+    -80.856692,
+    33.47844
+],
   "geometry": {"coordinates":[-80.856692,33.47844],"type":"Point"}
 }

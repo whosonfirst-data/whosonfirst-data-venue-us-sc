@@ -2,13 +2,14 @@
   "id": 370545733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.0828,34.871137,-82.0828,34.871137",
     "geom:latitude":34.871137,
     "geom:longitude":-82.0828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6594 Reidville Rd",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370545733,
-    "wof:lastmodified":1449029910,
+    "wof:lastmodified":1467082316,
     "wof:name":"Robinson Brothers Exterminate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.0828,34.871137,-82.0828,34.871137],
-  "geometry": {"coordinates":[-82.0828,34.871137],"type":"Point"}
+  "bbox": [
+    -82.0828,
+    34.871137,
+    -82.0828,
+    34.871137
+],
+  "geometry": {"coordinates":[-82.08280000000001,34.871137],"type":"Point"}
 }

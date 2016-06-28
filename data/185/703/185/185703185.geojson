@@ -2,13 +2,14 @@
   "id": 185703185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.386991,34.652131,-80.386991,34.652131",
     "geom:latitude":34.652131,
     "geom:longitude":-80.386991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Lee St",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185703185,
-    "wof:lastmodified":1449007094,
+    "wof:lastmodified":1467082190,
     "wof:name":"Jennifer Penegar Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-80.386991,34.652131,-80.386991,34.652131],
-  "geometry": {"coordinates":[-80.386991,34.652131],"type":"Point"}
+  "bbox": [
+    -80.386991,
+    34.652131,
+    -80.386991,
+    34.652131
+],
+  "geometry": {"coordinates":[-80.38699099999999,34.652131],"type":"Point"}
 }

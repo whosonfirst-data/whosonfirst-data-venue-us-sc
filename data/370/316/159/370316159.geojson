@@ -2,13 +2,14 @@
   "id": 370316159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.403899,34.848974,-82.403899,34.848974",
     "geom:latitude":34.848974,
     "geom:longitude":-82.403899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 US Hwy 123",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370316159,
-    "wof:lastmodified":1449031370,
+    "wof:lastmodified":1467082349,
     "wof:name":"Greenville County Public Dfndr",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.403899,34.848974,-82.403899,34.848974],
+  "bbox": [
+    -82.403899,
+    34.848974,
+    -82.403899,
+    34.848974
+],
   "geometry": {"coordinates":[-82.403899,34.848974],"type":"Point"}
 }

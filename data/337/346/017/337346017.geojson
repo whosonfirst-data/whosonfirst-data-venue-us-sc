@@ -2,13 +2,14 @@
   "id": 337346017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.942402,33.331281,-79.942402,33.331281",
     "geom:latitude":33.331281,
     "geom:longitude":-79.942402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"942 Dumasville Cove",
     "sg:city":"Bonneau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337346017,
-    "wof:lastmodified":1449026928,
+    "wof:lastmodified":1467082264,
     "wof:name":"Cabin In Pine",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-79.942402,33.331281,-79.942402,33.331281],
+  "bbox": [
+    -79.942402,
+    33.331281,
+    -79.942402,
+    33.331281
+],
   "geometry": {"coordinates":[-79.942402,33.331281],"type":"Point"}
 }

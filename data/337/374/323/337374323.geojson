@@ -2,13 +2,14 @@
   "id": 337374323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.938656,35.051018,-80.938656,35.051018",
     "geom:latitude":35.051018,
     "geom:longitude":-80.938656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1686 Hwy 21 Byp",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337374323,
-    "wof:lastmodified":1449027293,
+    "wof:lastmodified":1467082278,
     "wof:name":"H & D Wrecker Svc",
     "wof:parent_id":85827769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.938656,35.051018,-80.938656,35.051018],
-  "geometry": {"coordinates":[-80.938656,35.051018],"type":"Point"}
+  "bbox": [
+    -80.938656,
+    35.051018,
+    -80.938656,
+    35.051018
+],
+  "geometry": {"coordinates":[-80.93865599999999,35.051018],"type":"Point"}
 }

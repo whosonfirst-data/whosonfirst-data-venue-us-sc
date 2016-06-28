@@ -2,13 +2,14 @@
   "id": 354100483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.199394,34.716183,-81.199394,34.716183",
     "geom:latitude":34.716183,
     "geom:longitude":-81.199394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"544 Saluda Rd",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354100483,
-    "wof:lastmodified":1449067216,
+    "wof:lastmodified":1467082444,
     "wof:name":"Church Of God-Saluda St",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.199394,34.716183,-81.199394,34.716183],
+  "bbox": [
+    -81.199394,
+    34.716183,
+    -81.199394,
+    34.716183
+],
   "geometry": {"coordinates":[-81.199394,34.716183],"type":"Point"}
 }

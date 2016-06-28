@@ -2,13 +2,14 @@
   "id": 353648891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.666847,34.46549,-82.666847,34.46549",
     "geom:latitude":34.46549,
     "geom:longitude":-82.666847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3606 Shawnee Ave",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353648891,
-    "wof:lastmodified":1449018964,
+    "wof:lastmodified":1467082224,
     "wof:name":"Mersnet Inc",
     "wof:parent_id":85831829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-82.666847,34.46549,-82.666847,34.46549],
+  "bbox": [
+    -82.666847,
+    34.46549,
+    -82.666847,
+    34.46549
+],
   "geometry": {"coordinates":[-82.666847,34.46549],"type":"Point"}
 }

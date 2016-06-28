@@ -2,13 +2,14 @@
   "id": 370840015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.358068,34.881367,-82.358068,34.881367",
     "geom:latitude":34.881367,
     "geom:longitude":-82.358068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2017 Wade Hampton Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370840015,
-    "wof:lastmodified":1449031722,
+    "wof:lastmodified":1467082357,
     "wof:name":"Seven Stars Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.358068,34.881367,-82.358068,34.881367],
+  "bbox": [
+    -82.358068,
+    34.881367,
+    -82.358068,
+    34.881367
+],
   "geometry": {"coordinates":[-82.358068,34.881367],"type":"Point"}
 }

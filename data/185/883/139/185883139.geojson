@@ -2,13 +2,14 @@
   "id": 185883139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.101761,34.833064,-82.101761,34.833064",
     "geom:latitude":34.833064,
     "geom:longitude":-82.101761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3303 Greenpond Rd",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185883139,
-    "wof:lastmodified":1449007848,
+    "wof:lastmodified":1467082201,
     "wof:name":"Bill Chumley Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.101761,34.833064,-82.101761,34.833064],
+  "bbox": [
+    -82.101761,
+    34.833064,
+    -82.101761,
+    34.833064
+],
   "geometry": {"coordinates":[-82.101761,34.833064],"type":"Point"}
 }

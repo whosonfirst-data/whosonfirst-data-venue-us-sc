@@ -2,13 +2,14 @@
   "id": 370263629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.266398,33.355098,-81.266398,33.355098",
     "geom:latitude":33.355098,
     "geom:longitude":-81.266398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Baker St",
     "sg:city":"Blackville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370263629,
-    "wof:lastmodified":1449032373,
+    "wof:lastmodified":1467082371,
     "wof:name":"Vogue Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.266398,33.355098,-81.266398,33.355098],
+  "bbox": [
+    -81.266398,
+    33.355098,
+    -81.266398,
+    33.355098
+],
   "geometry": {"coordinates":[-81.266398,33.355098],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354222201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.574238,33.183314,-80.574238,33.183314",
     "geom:latitude":33.183314,
     "geom:longitude":-80.574238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N Parler Ave",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354222201,
-    "wof:lastmodified":1449067116,
+    "wof:lastmodified":1467082441,
     "wof:name":"Quattlebaum & Murphy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.574238,33.183314,-80.574238,33.183314],
-  "geometry": {"coordinates":[-80.574238,33.183314],"type":"Point"}
+  "bbox": [
+    -80.574238,
+    33.183314,
+    -80.574238,
+    33.183314
+],
+  "geometry": {"coordinates":[-80.57423799999999,33.183314],"type":"Point"}
 }

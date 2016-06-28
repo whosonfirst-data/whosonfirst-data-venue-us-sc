@@ -2,13 +2,14 @@
   "id": 353905121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.106956,32.863695,-81.106956,32.863695",
     "geom:latitude":32.863695,
     "geom:longitude":-81.106956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Oak St E",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353905121,
-    "wof:lastmodified":1449019270,
+    "wof:lastmodified":1467082230,
     "wof:name":"Bethlehem Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.106956,32.863695,-81.106956,32.863695],
+  "bbox": [
+    -81.106956,
+    32.863695,
+    -81.106956,
+    32.863695
+],
   "geometry": {"coordinates":[-81.106956,32.863695],"type":"Point"}
 }

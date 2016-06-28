@@ -2,13 +2,14 @@
   "id": 370418797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.995607,33.681091,-78.995607,33.681091",
     "geom:latitude":33.681091,
     "geom:longitude":-78.995607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Cimmeron Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370418797,
-    "wof:lastmodified":1449031750,
+    "wof:lastmodified":1467082358,
     "wof:name":"Patrick Marble & Tile Co",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.995607,33.681091,-78.995607,33.681091],
-  "geometry": {"coordinates":[-78.995607,33.681091],"type":"Point"}
+  "bbox": [
+    -78.995607,
+    33.681091,
+    -78.995607,
+    33.681091
+],
+  "geometry": {"coordinates":[-78.99560700000001,33.681091],"type":"Point"}
 }

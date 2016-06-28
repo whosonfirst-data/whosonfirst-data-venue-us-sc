@@ -2,13 +2,14 @@
   "id": 169835621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.064373,33.997315,-81.064373,33.997315",
     "geom:latitude":33.997315,
     "geom:longitude":-81.064373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 N Leaphart St",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169835621,
-    "wof:lastmodified":1449033162,
+    "wof:lastmodified":1467082378,
     "wof:name":"Mid-State Auto Electric",
     "wof:parent_id":85840603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-81.064373,33.997315,-81.064373,33.997315],
+  "bbox": [
+    -81.064373,
+    33.997315,
+    -81.064373,
+    33.997315
+],
   "geometry": {"coordinates":[-81.064373,33.997315],"type":"Point"}
 }

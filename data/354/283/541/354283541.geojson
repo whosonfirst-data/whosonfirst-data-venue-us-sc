@@ -2,13 +2,14 @@
   "id": 354283541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.066951,34.768677,-83.066951,34.768677",
     "geom:latitude":34.768677,
     "geom:longitude":-83.066951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Autumnwood Ln",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354283541,
-    "wof:lastmodified":1449066409,
+    "wof:lastmodified":1467082425,
     "wof:name":"Laurel Estates Apartments",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-83.066951,34.768677,-83.066951,34.768677],
+  "bbox": [
+    -83.066951,
+    34.768677,
+    -83.066951,
+    34.768677
+],
   "geometry": {"coordinates":[-83.066951,34.768677],"type":"Point"}
 }

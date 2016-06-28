@@ -2,13 +2,14 @@
   "id": 169784193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.490941,34.783915,-82.490941,34.783915",
     "geom:latitude":34.783915,
     "geom:longitude":-82.490941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"535 Powdersville Main",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169784193,
-    "wof:lastmodified":1449034893,
+    "wof:lastmodified":1467082384,
     "wof:name":"Concrete Elementary School",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.490941,34.783915,-82.490941,34.783915],
-  "geometry": {"coordinates":[-82.490941,34.783915],"type":"Point"}
+  "bbox": [
+    -82.490941,
+    34.783915,
+    -82.490941,
+    34.783915
+],
+  "geometry": {"coordinates":[-82.49094100000001,34.783915],"type":"Point"}
 }

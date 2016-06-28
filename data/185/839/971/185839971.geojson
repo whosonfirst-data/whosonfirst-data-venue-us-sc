@@ -2,13 +2,14 @@
   "id": 185839971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.258027,34.73493,-82.258027,34.73493",
     "geom:latitude":34.73493,
     "geom:longitude":-82.258027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 South St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185839971,
-    "wof:lastmodified":1449007581,
+    "wof:lastmodified":1467082197,
     "wof:name":"Tiger Transport",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "storage"
     ]
 },
-  "bbox": [-82.258027,34.73493,-82.258027,34.73493],
+  "bbox": [
+    -82.258027,
+    34.73493,
+    -82.258027,
+    34.73493
+],
   "geometry": {"coordinates":[-82.258027,34.73493],"type":"Point"}
 }

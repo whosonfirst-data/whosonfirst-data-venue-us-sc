@@ -2,13 +2,14 @@
   "id": 337315867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.724027,32.259086,-80.724027,32.259086",
     "geom:latitude":32.259086,
     "geom:longitude":-80.724027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Trillum Ln",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337315867,
-    "wof:lastmodified":1449027698,
+    "wof:lastmodified":1467082293,
     "wof:name":"Mary P Bjong Ltd",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.724027,32.259086,-80.724027,32.259086],
-  "geometry": {"coordinates":[-80.724027,32.259086],"type":"Point"}
+  "bbox": [
+    -80.724027,
+    32.259086,
+    -80.724027,
+    32.259086
+],
+  "geometry": {"coordinates":[-80.72402700000001,32.259086],"type":"Point"}
 }

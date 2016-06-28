@@ -2,13 +2,14 @@
   "id": 354395409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.374083,33.92575,-80.374083,33.92575",
     "geom:latitude":33.92575,
     "geom:longitude":-80.374083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Burns Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354395409,
-    "wof:lastmodified":1449067404,
+    "wof:lastmodified":1467082448,
     "wof:name":"Sumter County Disabilities",
     "wof:parent_id":85827029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-80.374083,33.92575,-80.374083,33.92575],
+  "bbox": [
+    -80.374083,
+    33.92575,
+    -80.374083,
+    33.92575
+],
   "geometry": {"coordinates":[-80.374083,33.92575],"type":"Point"}
 }

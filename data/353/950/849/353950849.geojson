@@ -2,13 +2,14 @@
   "id": 353950849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.343167,33.923051,-80.343167,33.923051",
     "geom:latitude":33.923051,
     "geom:longitude":-80.343167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Sumter St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353950849,
-    "wof:lastmodified":1449019261,
+    "wof:lastmodified":1467082230,
     "wof:name":"Sumter Ear Nose Throat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.343167,33.923051,-80.343167,33.923051],
-  "geometry": {"coordinates":[-80.343167,33.923051],"type":"Point"}
+  "bbox": [
+    -80.343167,
+    33.923051,
+    -80.343167,
+    33.923051
+],
+  "geometry": {"coordinates":[-80.34316699999999,33.923051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353873029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.260218,34.206081,-79.260218,34.206081",
     "geom:latitude":34.206081,
     "geom:longitude":-79.260218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Seaboard Ave",
     "sg:city":"Johnsonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353873029,
-    "wof:lastmodified":1449018789,
+    "wof:lastmodified":1467082220,
     "wof:name":"Refiner Products Mfg Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.260218,34.206081,-79.260218,34.206081],
-  "geometry": {"coordinates":[-79.260218,34.206081],"type":"Point"}
+  "bbox": [
+    -79.260218,
+    34.206081,
+    -79.260218,
+    34.206081
+],
+  "geometry": {"coordinates":[-79.26021799999999,34.206081],"type":"Point"}
 }

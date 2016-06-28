@@ -2,13 +2,14 @@
   "id": 370756011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.104518,33.008229,-80.104518,33.008229",
     "geom:latitude":33.008229,
     "geom:longitude":-80.104518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Loblolly Cir",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370756011,
-    "wof:lastmodified":1449031105,
+    "wof:lastmodified":1467082343,
     "wof:name":"S P Plumbing",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.104518,33.008229,-80.104518,33.008229],
+  "bbox": [
+    -80.104518,
+    33.008229,
+    -80.104518,
+    33.008229
+],
   "geometry": {"coordinates":[-80.104518,33.008229],"type":"Point"}
 }

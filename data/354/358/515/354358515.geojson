@@ -2,13 +2,14 @@
   "id": 354358515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.446483,33.213954,-80.446483,33.213954",
     "geom:latitude":33.213954,
     "geom:longitude":-80.446483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 E Main St",
     "sg:city":"Harleyville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354358515,
-    "wof:lastmodified":1449066637,
+    "wof:lastmodified":1467082431,
     "wof:name":"Wolfe & Britt Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drilling"
     ]
 },
-  "bbox": [-80.446483,33.213954,-80.446483,33.213954],
+  "bbox": [
+    -80.446483,
+    33.213954,
+    -80.446483,
+    33.213954
+],
   "geometry": {"coordinates":[-80.446483,33.213954],"type":"Point"}
 }

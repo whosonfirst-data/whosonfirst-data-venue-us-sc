@@ -2,13 +2,14 @@
   "id": 353599789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.612377,34.570802,-80.612377,34.570802",
     "geom:latitude":34.570802,
     "geom:longitude":-80.612377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6925 Kershaw Camden Hwy",
     "sg:city":"Kershaw",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353599789,
-    "wof:lastmodified":1449019441,
+    "wof:lastmodified":1467082234,
     "wof:name":"WCRE Radio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-80.612377,34.570802,-80.612377,34.570802],
+  "bbox": [
+    -80.612377,
+    34.570802,
+    -80.612377,
+    34.570802
+],
   "geometry": {"coordinates":[-80.612377,34.570802],"type":"Point"}
 }

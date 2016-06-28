@@ -2,13 +2,14 @@
   "id": 185648813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.311503,33.354129,-80.311503,33.354129",
     "geom:latitude":33.354129,
     "geom:longitude":-80.311503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 Horizon St",
     "sg:city":"Eutawville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185648813,
-    "wof:lastmodified":1449007048,
+    "wof:lastmodified":1467082189,
     "wof:name":"Peter Wright",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-80.311503,33.354129,-80.311503,33.354129],
+  "bbox": [
+    -80.311503,
+    33.354129,
+    -80.311503,
+    33.354129
+],
   "geometry": {"coordinates":[-80.311503,33.354129],"type":"Point"}
 }

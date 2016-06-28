@@ -2,13 +2,14 @@
   "id": 353677363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.313223,34.876842,-82.313223,34.876842",
     "geom:latitude":34.876842,
     "geom:longitude":-82.313223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Terra Woods Ln",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353677363,
-    "wof:lastmodified":1449019173,
+    "wof:lastmodified":1467082228,
     "wof:name":"Asphalt Equipment Co LLC",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-82.313223,34.876842,-82.313223,34.876842],
-  "geometry": {"coordinates":[-82.313223,34.876842],"type":"Point"}
+  "bbox": [
+    -82.313223,
+    34.876842,
+    -82.313223,
+    34.876842
+],
+  "geometry": {"coordinates":[-82.31322299999999,34.876842],"type":"Point"}
 }

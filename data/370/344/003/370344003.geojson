@@ -2,13 +2,14 @@
   "id": 370344003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.852753,32.236636,-80.852753,32.236636",
     "geom:latitude":32.236636,
     "geom:longitude":-80.852753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Burnt Church Rd",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370344003,
-    "wof:lastmodified":1449029248,
+    "wof:lastmodified":1467082302,
     "wof:name":"Calibogue House Furniture",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.852753,32.236636,-80.852753,32.236636],
-  "geometry": {"coordinates":[-80.852753,32.236636],"type":"Point"}
+  "bbox": [
+    -80.852753,
+    32.236636,
+    -80.852753,
+    32.236636
+],
+  "geometry": {"coordinates":[-80.85275300000001,32.236636],"type":"Point"}
 }

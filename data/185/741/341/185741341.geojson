@@ -2,13 +2,14 @@
   "id": 185741341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.088506,33.015184,-80.088506,33.015184",
     "geom:latitude":33.015184,
     "geom:longitude":-80.088506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"572 College Park Rd",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185741341,
-    "wof:lastmodified":1449006671,
+    "wof:lastmodified":1467082183,
     "wof:name":"Coastal Termite Control",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.088506,33.015184,-80.088506,33.015184],
+  "bbox": [
+    -80.088506,
+    33.015184,
+    -80.088506,
+    33.015184
+],
   "geometry": {"coordinates":[-80.088506,33.015184],"type":"Point"}
 }

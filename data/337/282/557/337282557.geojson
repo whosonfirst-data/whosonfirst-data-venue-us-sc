@@ -2,13 +2,14 @@
   "id": 337282557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.429262,33.754221,-79.429262,33.754221",
     "geom:latitude":33.754221,
     "geom:longitude":-79.429262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1593 Hemingway Hwy",
     "sg:city":"Hemingway",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337282557,
-    "wof:lastmodified":1449027465,
+    "wof:lastmodified":1467082285,
     "wof:name":"Hemingway Vocational Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.429262,33.754221,-79.429262,33.754221],
-  "geometry": {"coordinates":[-79.429262,33.754221],"type":"Point"}
+  "bbox": [
+    -79.429262,
+    33.754221,
+    -79.429262,
+    33.754221
+],
+  "geometry": {"coordinates":[-79.42926199999999,33.754221],"type":"Point"}
 }

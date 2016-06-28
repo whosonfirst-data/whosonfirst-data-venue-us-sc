@@ -2,13 +2,14 @@
   "id": 185814701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.90359,33.68455,-78.90359,33.68455",
     "geom:latitude":33.68455,
     "geom:longitude":-78.90359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 Scott Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185814701,
-    "wof:lastmodified":1449006912,
+    "wof:lastmodified":1467082187,
     "wof:name":"Giggles & Wiggles Children's",
     "wof:parent_id":85858419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.90359,33.68455,-78.90359,33.68455],
-  "geometry": {"coordinates":[-78.90359,33.68455],"type":"Point"}
+  "bbox": [
+    -78.90359,
+    33.68455,
+    -78.90359,
+    33.68455
+],
+  "geometry": {"coordinates":[-78.90358999999999,33.68455],"type":"Point"}
 }

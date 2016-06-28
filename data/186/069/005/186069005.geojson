@@ -2,13 +2,14 @@
   "id": 186069005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.720897,33.572604,-81.720897,33.572604",
     "geom:latitude":33.572604,
     "geom:longitude":-81.720897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 Plunkett Ave NW",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186069005,
-    "wof:lastmodified":1449052069,
+    "wof:lastmodified":1467082404,
     "wof:name":"Betty's Day Care",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.720897,33.572604,-81.720897,33.572604],
-  "geometry": {"coordinates":[-81.720897,33.572604],"type":"Point"}
+  "bbox": [
+    -81.720897,
+    33.572604,
+    -81.720897,
+    33.572604
+],
+  "geometry": {"coordinates":[-81.72089699999999,33.572604],"type":"Point"}
 }

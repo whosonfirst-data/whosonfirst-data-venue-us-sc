@@ -2,13 +2,14 @@
   "id": 370631451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.095194,34.441202,-82.095194,34.441202",
     "geom:latitude":34.441202,
     "geom:longitude":-82.095194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Bethel Church Rd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370631451,
-    "wof:lastmodified":1449030144,
+    "wof:lastmodified":1467082322,
     "wof:name":"New Bethel AME Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.095194,34.441202,-82.095194,34.441202],
-  "geometry": {"coordinates":[-82.095194,34.441202],"type":"Point"}
+  "bbox": [
+    -82.095194,
+    34.441202,
+    -82.095194,
+    34.441202
+],
+  "geometry": {"coordinates":[-82.09519400000001,34.441202],"type":"Point"}
 }

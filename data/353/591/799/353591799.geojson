@@ -2,13 +2,14 @@
   "id": 353591799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.860525,33.504996,-80.860525,33.504996",
     "geom:latitude":33.504996,
     "geom:longitude":-80.860525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1070 Boulevard St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353591799,
-    "wof:lastmodified":1449019632,
+    "wof:lastmodified":1467082238,
     "wof:name":"Boulevard Auto Sales & Svc",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.860525,33.504996,-80.860525,33.504996],
+  "bbox": [
+    -80.860525,
+    33.504996,
+    -80.860525,
+    33.504996
+],
   "geometry": {"coordinates":[-80.860525,33.504996],"type":"Point"}
 }

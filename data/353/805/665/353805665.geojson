@@ -2,13 +2,14 @@
   "id": 353805665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.889819,34.969052,-81.889819,34.969052",
     "geom:latitude":34.969052,
     "geom:longitude":-81.889819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1985 E Main St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353805665,
-    "wof:lastmodified":1449019114,
+    "wof:lastmodified":1467082227,
     "wof:name":"Ultra Tan",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-81.889819,34.969052,-81.889819,34.969052],
+  "bbox": [
+    -81.889819,
+    34.969052,
+    -81.889819,
+    34.969052
+],
   "geometry": {"coordinates":[-81.889819,34.969052],"type":"Point"}
 }

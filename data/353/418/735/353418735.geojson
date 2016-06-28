@@ -2,13 +2,14 @@
   "id": 353418735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.109635,35.07962,-81.109635,35.07962",
     "geom:latitude":35.07962,
     "geom:longitude":-81.109635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6403 Crosswinds Dr",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353418735,
-    "wof:lastmodified":1449020272,
+    "wof:lastmodified":1467082251,
     "wof:name":"Curwood Packaging",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.109635,35.07962,-81.109635,35.07962],
+  "bbox": [
+    -81.109635,
+    35.07962,
+    -81.109635,
+    35.07962
+],
   "geometry": {"coordinates":[-81.109635,35.07962],"type":"Point"}
 }

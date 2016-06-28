@@ -2,13 +2,14 @@
   "id": 354145715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.970876,34.695188,-82.970876,34.695188",
     "geom:latitude":34.695188,
     "geom:longitude":-82.970876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 US Hwy 123",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354145715,
-    "wof:lastmodified":1449066425,
+    "wof:lastmodified":1467082426,
     "wof:name":"LBS Properties",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.970876,34.695188,-82.970876,34.695188],
+  "bbox": [
+    -82.970876,
+    34.695188,
+    -82.970876,
+    34.695188
+],
   "geometry": {"coordinates":[-82.970876,34.695188],"type":"Point"}
 }

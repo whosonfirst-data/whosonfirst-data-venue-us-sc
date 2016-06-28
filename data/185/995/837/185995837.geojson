@@ -2,13 +2,14 @@
   "id": 185995837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.338443,33.921649,-80.338443,33.921649",
     "geom:latitude":33.921649,
     "geom:longitude":-80.338443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 E Hampton Ave",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":185995837,
-    "wof:lastmodified":1449008042,
+    "wof:lastmodified":1467082204,
     "wof:name":"Sumter Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-80.338443,33.921649,-80.338443,33.921649],
+  "bbox": [
+    -80.338443,
+    33.921649,
+    -80.338443,
+    33.921649
+],
   "geometry": {"coordinates":[-80.338443,33.921649],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186061047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.711111,32.439603,-80.711111,32.439603",
     "geom:latitude":32.439603,
     "geom:longitude":-80.711111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 Boundary St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186061047,
-    "wof:lastmodified":1449052296,
+    "wof:lastmodified":1467082406,
     "wof:name":"Scientific Games Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-80.711111,32.439603,-80.711111,32.439603],
+  "bbox": [
+    -80.711111,
+    32.439603,
+    -80.711111,
+    32.439603
+],
   "geometry": {"coordinates":[-80.711111,32.439603],"type":"Point"}
 }

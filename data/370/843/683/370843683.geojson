@@ -2,13 +2,14 @@
   "id": 370843683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.089534,34.017797,-81.089534,34.017797",
     "geom:latitude":34.017797,
     "geom:longitude":-81.089534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"830 Gracern Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370843683,
-    "wof:lastmodified":1449029382,
+    "wof:lastmodified":1467082304,
     "wof:name":"Atlantic Leasing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-81.089534,34.017797,-81.089534,34.017797],
+  "bbox": [
+    -81.089534,
+    34.017797,
+    -81.089534,
+    34.017797
+],
   "geometry": {"coordinates":[-81.089534,34.017797],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186232427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.672759,32.438686,-80.672759,32.438686",
     "geom:latitude":32.438686,
     "geom:longitude":-80.672759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Charles St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186232427,
-    "wof:lastmodified":1449051254,
+    "wof:lastmodified":1467082396,
     "wof:name":"Charles Street Development Co",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.672759,32.438686,-80.672759,32.438686],
+  "bbox": [
+    -80.672759,
+    32.438686,
+    -80.672759,
+    32.438686
+],
   "geometry": {"coordinates":[-80.672759,32.438686],"type":"Point"}
 }

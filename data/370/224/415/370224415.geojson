@@ -2,13 +2,14 @@
   "id": 370224415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.704779,33.551443,-81.704779,33.551443",
     "geom:latitude":33.551443,
     "geom:longitude":-81.704779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 Colleton Ave SE",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370224415,
-    "wof:lastmodified":1449031568,
+    "wof:lastmodified":1467082353,
     "wof:name":"Hart Builders",
     "wof:parent_id":85815399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.704779,33.551443,-81.704779,33.551443],
+  "bbox": [
+    -81.704779,
+    33.551443,
+    -81.704779,
+    33.551443
+],
   "geometry": {"coordinates":[-81.704779,33.551443],"type":"Point"}
 }

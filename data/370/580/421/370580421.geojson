@@ -2,13 +2,14 @@
   "id": 370580421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.932397,34.201803,-80.932397,34.201803",
     "geom:latitude":34.201803,
     "geom:longitude":-80.932397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Round Top Church Ct",
     "sg:city":"Blythewood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370580421,
-    "wof:lastmodified":1449031359,
+    "wof:lastmodified":1467082348,
     "wof:name":"Blythewood Roundtop Senior Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "citizen"
     ]
 },
-  "bbox": [-80.932397,34.201803,-80.932397,34.201803],
-  "geometry": {"coordinates":[-80.932397,34.201803],"type":"Point"}
+  "bbox": [
+    -80.932397,
+    34.201803,
+    -80.932397,
+    34.201803
+],
+  "geometry": {"coordinates":[-80.93239699999999,34.201803],"type":"Point"}
 }

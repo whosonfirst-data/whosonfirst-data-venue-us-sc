@@ -2,13 +2,14 @@
   "id": 337566487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.472448,34.729961,-82.472448,34.729961",
     "geom:latitude":34.729961,
     "geom:longitude":-82.472448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 River Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337566487,
-    "wof:lastmodified":1449026948,
+    "wof:lastmodified":1467082265,
     "wof:name":"Mid State Consultants Inc",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-82.472448,34.729961,-82.472448,34.729961],
+  "bbox": [
+    -82.472448,
+    34.729961,
+    -82.472448,
+    34.729961
+],
   "geometry": {"coordinates":[-82.472448,34.729961],"type":"Point"}
 }

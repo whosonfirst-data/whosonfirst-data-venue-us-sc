@@ -2,13 +2,14 @@
   "id": 370838669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.903544,33.708392,-78.903544,33.708392",
     "geom:latitude":33.708392,
     "geom:longitude":-78.903544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 Enterprise Ave",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370838669,
-    "wof:lastmodified":1449029498,
+    "wof:lastmodified":1467082307,
     "wof:name":"C C Dickson Co",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-78.903544,33.708392,-78.903544,33.708392],
+  "bbox": [
+    -78.903544,
+    33.708392,
+    -78.903544,
+    33.708392
+],
   "geometry": {"coordinates":[-78.903544,33.708392],"type":"Point"}
 }

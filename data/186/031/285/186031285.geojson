@@ -2,13 +2,14 @@
   "id": 186031285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.991201,33.337605,-79.991201,33.337605",
     "geom:latitude":33.337605,
     "geom:longitude":-79.991201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Canal St",
     "sg:city":"Bonneau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186031285,
-    "wof:lastmodified":1449051375,
+    "wof:lastmodified":1467082397,
     "wof:name":"Thrower Upholstery",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-79.991201,33.337605,-79.991201,33.337605],
+  "bbox": [
+    -79.991201,
+    33.337605,
+    -79.991201,
+    33.337605
+],
   "geometry": {"coordinates":[-79.991201,33.337605],"type":"Point"}
 }

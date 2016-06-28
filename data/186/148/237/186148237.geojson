@@ -2,13 +2,14 @@
   "id": 186148237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.832248,32.831928,-79.832248,32.831928",
     "geom:latitude":32.831928,
     "geom:longitude":-79.832248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1861 Montclair Dr",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186148237,
-    "wof:lastmodified":1449052580,
+    "wof:lastmodified":1467082409,
     "wof:name":"Mont Clair Apartments",
     "wof:parent_id":85840345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-79.832248,32.831928,-79.832248,32.831928],
-  "geometry": {"coordinates":[-79.832248,32.831928],"type":"Point"}
+  "bbox": [
+    -79.832248,
+    32.831928,
+    -79.832248,
+    32.831928
+],
+  "geometry": {"coordinates":[-79.83224800000001,32.831928],"type":"Point"}
 }

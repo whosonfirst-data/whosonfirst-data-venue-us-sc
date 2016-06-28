@@ -2,13 +2,14 @@
   "id": 370363565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.76412,34.008456,-81.76412,34.008456",
     "geom:latitude":34.008456,
     "geom:longitude":-81.76412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 Travis Ave",
     "sg:city":"Saluda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370363565,
-    "wof:lastmodified":1449032066,
+    "wof:lastmodified":1467082364,
     "wof:name":"Saluda Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.76412,34.008456,-81.76412,34.008456],
-  "geometry": {"coordinates":[-81.76412,34.008456],"type":"Point"}
+  "bbox": [
+    -81.76412,
+    34.008456,
+    -81.76412,
+    34.008456
+],
+  "geometry": {"coordinates":[-81.76412000000001,34.008456],"type":"Point"}
 }

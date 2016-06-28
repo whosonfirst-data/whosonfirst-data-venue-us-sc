@@ -2,13 +2,14 @@
   "id": 370648513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.235574,33.013222,-80.235574,33.013222",
     "geom:latitude":33.013222,
     "geom:longitude":-80.235574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 Central Ave",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370648513,
-    "wof:lastmodified":1449030030,
+    "wof:lastmodified":1467082319,
     "wof:name":"Knight's Trucking",
     "wof:parent_id":85812305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-80.235574,33.013222,-80.235574,33.013222],
+  "bbox": [
+    -80.235574,
+    33.013222,
+    -80.235574,
+    33.013222
+],
   "geometry": {"coordinates":[-80.235574,33.013222],"type":"Point"}
 }

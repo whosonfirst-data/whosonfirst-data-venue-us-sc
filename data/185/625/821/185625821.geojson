@@ -2,13 +2,14 @@
   "id": 185625821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.840932,32.255545,-80.840932,32.255545",
     "geom:latitude":32.255545,
     "geom:longitude":-80.840932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Chipwood Ln",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185625821,
-    "wof:lastmodified":1449008240,
+    "wof:lastmodified":1467082208,
     "wof:name":"T W Paperhanging",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.840932,32.255545,-80.840932,32.255545],
+  "bbox": [
+    -80.840932,
+    32.255545,
+    -80.840932,
+    32.255545
+],
   "geometry": {"coordinates":[-80.840932,32.255545],"type":"Point"}
 }

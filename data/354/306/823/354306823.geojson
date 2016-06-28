@@ -2,13 +2,14 @@
   "id": 354306823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.123046,34.060586,-81.123046,34.060586",
     "geom:latitude":34.060586,
     "geom:longitude":-81.123046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Brookgreen Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354306823,
-    "wof:lastmodified":1449067596,
+    "wof:lastmodified":1467082453,
     "wof:name":"Brown & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.123046,34.060586,-81.123046,34.060586],
+  "bbox": [
+    -81.123046,
+    34.060586,
+    -81.123046,
+    34.060586
+],
   "geometry": {"coordinates":[-81.123046,34.060586],"type":"Point"}
 }

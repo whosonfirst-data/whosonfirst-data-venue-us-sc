@@ -2,13 +2,14 @@
   "id": 370489483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.444589,34.068288,-80.444589,34.068288",
     "geom:latitude":34.068288,
     "geom:longitude":-80.444589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5265 Black River Rd",
     "sg:city":"Rembert",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370489483,
-    "wof:lastmodified":1449030919,
+    "wof:lastmodified":1467082339,
     "wof:name":"AK Trucking",
     "wof:parent_id":85848059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.444589,34.068288,-80.444589,34.068288],
-  "geometry": {"coordinates":[-80.444589,34.068288],"type":"Point"}
+  "bbox": [
+    -80.444589,
+    34.068288,
+    -80.444589,
+    34.068288
+],
+  "geometry": {"coordinates":[-80.44458899999999,34.068288],"type":"Point"}
 }

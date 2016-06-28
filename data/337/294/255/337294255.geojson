@@ -2,13 +2,14 @@
   "id": 337294255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.248466,34.942108,-82.248466,34.942108",
     "geom:latitude":34.942108,
     "geom:longitude":-82.248466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 W Poinsett St",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337294255,
-    "wof:lastmodified":1449027529,
+    "wof:lastmodified":1467082287,
     "wof:name":"American Realty LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.248466,34.942108,-82.248466,34.942108],
-  "geometry": {"coordinates":[-82.248466,34.942108],"type":"Point"}
+  "bbox": [
+    -82.248466,
+    34.942108,
+    -82.248466,
+    34.942108
+],
+  "geometry": {"coordinates":[-82.24846599999999,34.942108],"type":"Point"}
 }

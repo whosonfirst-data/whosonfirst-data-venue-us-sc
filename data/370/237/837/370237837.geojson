@@ -2,13 +2,14 @@
   "id": 370237837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.396524,34.776373,-80.396524,34.776373",
     "geom:latitude":34.776373,
     "geom:longitude":-80.396524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 W Elizabeth St",
     "sg:city":"Pageland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370237837,
-    "wof:lastmodified":1449029148,
+    "wof:lastmodified":1467082300,
     "wof:name":"Paradise Game Room",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-80.396524,34.776373,-80.396524,34.776373],
+  "bbox": [
+    -80.396524,
+    34.776373,
+    -80.396524,
+    34.776373
+],
   "geometry": {"coordinates":[-80.396524,34.776373],"type":"Point"}
 }

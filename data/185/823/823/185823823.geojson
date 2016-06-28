@@ -2,13 +2,14 @@
   "id": 185823823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.742778,32.202359,-80.742778,32.202359",
     "geom:latitude":32.202359,
     "geom:longitude":-80.742778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Berwick Dr",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185823823,
-    "wof:lastmodified":1449008183,
+    "wof:lastmodified":1467082207,
     "wof:name":"Golf Club At Indigo",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "golf"
     ]
 },
-  "bbox": [-80.742778,32.202359,-80.742778,32.202359],
+  "bbox": [
+    -80.742778,
+    32.202359,
+    -80.742778,
+    32.202359
+],
   "geometry": {"coordinates":[-80.742778,32.202359],"type":"Point"}
 }

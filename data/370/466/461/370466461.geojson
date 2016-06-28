@@ -2,13 +2,14 @@
   "id": 370466461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.086507,34.375698,-81.086507,34.375698",
     "geom:latitude":34.375698,
     "geom:longitude":-81.086507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 S Vanderhorst St",
     "sg:city":"Winnsboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370466461,
-    "wof:lastmodified":1449030114,
+    "wof:lastmodified":1467082321,
     "wof:name":"Winnsboro Builders Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.086507,34.375698,-81.086507,34.375698],
+  "bbox": [
+    -81.086507,
+    34.375698,
+    -81.086507,
+    34.375698
+],
   "geometry": {"coordinates":[-81.086507,34.375698],"type":"Point"}
 }

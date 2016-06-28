@@ -2,13 +2,14 @@
   "id": 370505167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.941347,35.06318,-80.941347,35.06318",
     "geom:latitude":35.06318,
     "geom:longitude":-80.941347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Forest Way Dr",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370505167,
-    "wof:lastmodified":1449031907,
+    "wof:lastmodified":1467082361,
     "wof:name":"Forest Lake Candles",
     "wof:parent_id":85843859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.941347,35.06318,-80.941347,35.06318],
-  "geometry": {"coordinates":[-80.941347,35.06318],"type":"Point"}
+  "bbox": [
+    -80.941347,
+    35.06318,
+    -80.941347,
+    35.06318
+],
+  "geometry": {"coordinates":[-80.94134699999999,35.06318],"type":"Point"}
 }

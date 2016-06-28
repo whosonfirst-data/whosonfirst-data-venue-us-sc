@@ -2,13 +2,14 @@
   "id": 370744861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.892169,33.496812,-81.892169,33.496812",
     "geom:latitude":33.496812,
     "geom:longitude":-81.892169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"176 Augusta Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370744861,
-    "wof:lastmodified":1449030311,
+    "wof:lastmodified":1467082325,
     "wof:name":"Homechek Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-81.892169,33.496812,-81.892169,33.496812],
+  "bbox": [
+    -81.892169,
+    33.496812,
+    -81.892169,
+    33.496812
+],
   "geometry": {"coordinates":[-81.892169,33.496812],"type":"Point"}
 }

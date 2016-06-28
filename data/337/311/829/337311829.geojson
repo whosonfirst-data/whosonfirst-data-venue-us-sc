@@ -2,13 +2,14 @@
   "id": 337311829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.031053,33.998776,-81.031053,33.998776",
     "geom:latitude":33.998776,
     "geom:longitude":-81.031053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1226 Pendleton St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337311829,
-    "wof:lastmodified":1449027114,
+    "wof:lastmodified":1467082271,
     "wof:name":"Sunny Daze",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.031053,33.998776,-81.031053,33.998776],
+  "bbox": [
+    -81.031053,
+    33.998776,
+    -81.031053,
+    33.998776
+],
   "geometry": {"coordinates":[-81.031053,33.998776],"type":"Point"}
 }

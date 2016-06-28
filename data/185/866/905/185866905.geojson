@@ -2,13 +2,14 @@
   "id": 185866905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.13966,33.449239,-79.13966,33.449239",
     "geom:latitude":33.449239,
     "geom:longitude":-79.13966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Shorerush Dr",
     "sg:city":"Pawleys Island",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185866905,
-    "wof:lastmodified":1449007385,
+    "wof:lastmodified":1467082194,
     "wof:name":"J Bell Construction Inc",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-79.13966,33.449239,-79.13966,33.449239],
-  "geometry": {"coordinates":[-79.13966,33.449239],"type":"Point"}
+  "bbox": [
+    -79.13966,
+    33.449239,
+    -79.13966,
+    33.449239
+],
+  "geometry": {"coordinates":[-79.13966000000001,33.449239],"type":"Point"}
 }

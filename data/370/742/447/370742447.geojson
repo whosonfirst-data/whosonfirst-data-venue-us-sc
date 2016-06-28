@@ -2,13 +2,14 @@
   "id": 370742447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.947738,33.420871,-79.947738,33.420871",
     "geom:latitude":33.420871,
     "geom:longitude":-79.947738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 McKelveys Rd",
     "sg:city":"Saint Stephen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370742447,
-    "wof:lastmodified":1449029306,
+    "wof:lastmodified":1467082303,
     "wof:name":"Gourdine Celia",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.947738,33.420871,-79.947738,33.420871],
+  "bbox": [
+    -79.947738,
+    33.420871,
+    -79.947738,
+    33.420871
+],
   "geometry": {"coordinates":[-79.947738,33.420871],"type":"Point"}
 }

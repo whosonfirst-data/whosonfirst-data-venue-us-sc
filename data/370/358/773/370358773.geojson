@@ -2,13 +2,14 @@
   "id": 370358773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.783943,34.196512,-79.783943,34.196512",
     "geom:latitude":34.196512,
     "geom:longitude":-79.783943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 W Evans St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370358773,
-    "wof:lastmodified":1449030504,
+    "wof:lastmodified":1467082330,
     "wof:name":"Nuview Glass Express",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.783943,34.196512,-79.783943,34.196512],
-  "geometry": {"coordinates":[-79.783943,34.196512],"type":"Point"}
+  "bbox": [
+    -79.783943,
+    34.196512,
+    -79.783943,
+    34.196512
+],
+  "geometry": {"coordinates":[-79.78394299999999,34.196512],"type":"Point"}
 }

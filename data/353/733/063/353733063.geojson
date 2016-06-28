@@ -2,13 +2,14 @@
   "id": 353733063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.312703,34.785388,-82.312703,34.785388",
     "geom:latitude":34.785388,
     "geom:longitude":-82.312703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 N Main St",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353733063,
-    "wof:lastmodified":1449018604,
+    "wof:lastmodified":1467082217,
     "wof:name":"Powerhouse Gym Aerobics",
     "wof:parent_id":85828723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "fitness"
     ]
 },
-  "bbox": [-82.312703,34.785388,-82.312703,34.785388],
+  "bbox": [
+    -82.312703,
+    34.785388,
+    -82.312703,
+    34.785388
+],
   "geometry": {"coordinates":[-82.312703,34.785388],"type":"Point"}
 }

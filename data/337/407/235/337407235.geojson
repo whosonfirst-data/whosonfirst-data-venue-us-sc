@@ -2,13 +2,14 @@
   "id": 337407235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.368219,34.815546,-82.368219,34.815546",
     "geom:latitude":34.815546,
     "geom:longitude":-82.368219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"856 S Pleasantburg Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337407235,
-    "wof:lastmodified":1449027391,
+    "wof:lastmodified":1467082282,
     "wof:name":"Wellstone",
     "wof:parent_id":85809831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.368219,34.815546,-82.368219,34.815546],
+  "bbox": [
+    -82.368219,
+    34.815546,
+    -82.368219,
+    34.815546
+],
   "geometry": {"coordinates":[-82.368219,34.815546],"type":"Point"}
 }

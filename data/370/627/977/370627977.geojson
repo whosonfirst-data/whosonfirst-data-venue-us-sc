@@ -2,13 +2,14 @@
   "id": 370627977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.073313,32.919944,-80.073313,32.919944",
     "geom:latitude":32.919944,
     "geom:longitude":-80.073313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7239 Cross Park Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370627977,
-    "wof:lastmodified":1449032552,
+    "wof:lastmodified":1467082375,
     "wof:name":"Southeast Service Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.073313,32.919944,-80.073313,32.919944],
+  "bbox": [
+    -80.073313,
+    32.919944,
+    -80.073313,
+    32.919944
+],
   "geometry": {"coordinates":[-80.073313,32.919944],"type":"Point"}
 }

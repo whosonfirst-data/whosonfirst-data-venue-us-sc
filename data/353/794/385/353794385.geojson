@@ -2,13 +2,14 @@
   "id": 353794385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.155236,33.964577,-79.155236,33.964577",
     "geom:latitude":33.964577,
     "geom:longitude":-79.155236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 William Nobles Rd",
     "sg:city":"Aynor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353794385,
-    "wof:lastmodified":1449019490,
+    "wof:lastmodified":1467082235,
     "wof:name":"Charlie Nobles Well Drilling",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [-79.155236,33.964577,-79.155236,33.964577],
+  "bbox": [
+    -79.155236,
+    33.964577,
+    -79.155236,
+    33.964577
+],
   "geometry": {"coordinates":[-79.155236,33.964577],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370253411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.465334,34.986063,-82.465334,34.986063",
     "geom:latitude":34.986063,
     "geom:longitude":-82.465334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Geer Hwy",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370253411,
-    "wof:lastmodified":1449032056,
+    "wof:lastmodified":1467082364,
     "wof:name":"Stone Cove Pools",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-82.465334,34.986063,-82.465334,34.986063],
+  "bbox": [
+    -82.465334,
+    34.986063,
+    -82.465334,
+    34.986063
+],
   "geometry": {"coordinates":[-82.465334,34.986063],"type":"Point"}
 }

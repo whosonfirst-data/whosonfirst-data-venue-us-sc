@@ -2,13 +2,14 @@
   "id": 370431427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.93492,33.717795,-78.93492,33.717795",
     "geom:latitude":33.717795,
     "geom:longitude":-78.93492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3926 Wesley St",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370431427,
-    "wof:lastmodified":1449029551,
+    "wof:lastmodified":1467082308,
     "wof:name":"Air Medic Air Duct Clean",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [-78.93492,33.717795,-78.93492,33.717795],
-  "geometry": {"coordinates":[-78.93492,33.717795],"type":"Point"}
+  "bbox": [
+    -78.93492,
+    33.717795,
+    -78.93492,
+    33.717795
+],
+  "geometry": {"coordinates":[-78.93492000000001,33.717795],"type":"Point"}
 }

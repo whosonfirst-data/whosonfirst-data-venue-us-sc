@@ -2,13 +2,14 @@
   "id": 370464013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.456623,32.755952,-80.456623,32.755952",
     "geom:latitude":32.755952,
     "geom:longitude":-80.456623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 Hope Plantation Ln",
     "sg:city":"Jacksonboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370464013,
-    "wof:lastmodified":1449030019,
+    "wof:lastmodified":1467082319,
     "wof:name":"Jacksonboro Community Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-80.456623,32.755952,-80.456623,32.755952],
-  "geometry": {"coordinates":[-80.456623,32.755952],"type":"Point"}
+  "bbox": [
+    -80.456623,
+    32.755952,
+    -80.456623,
+    32.755952
+],
+  "geometry": {"coordinates":[-80.45662299999999,32.755952],"type":"Point"}
 }

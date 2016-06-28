@@ -2,13 +2,14 @@
   "id": 370264629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.93607,33.940078,-79.93607,33.940078",
     "geom:latitude":33.940078,
     "geom:longitude":-79.93607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 W Main St",
     "sg:city":"Olanta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370264629,
-    "wof:lastmodified":1449031276,
+    "wof:lastmodified":1467082346,
     "wof:name":"James Donald Co Inc",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.93607,33.940078,-79.93607,33.940078],
+  "bbox": [
+    -79.93607,
+    33.940078,
+    -79.93607,
+    33.940078
+],
   "geometry": {"coordinates":[-79.93607,33.940078],"type":"Point"}
 }

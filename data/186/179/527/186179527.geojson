@@ -2,13 +2,14 @@
   "id": 186179527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.856181,33.491553,-80.856181,33.491553",
     "geom:latitude":33.491553,
     "geom:longitude":-80.856181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Whitman St SE",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186179527,
-    "wof:lastmodified":1449052744,
+    "wof:lastmodified":1467082410,
     "wof:name":"Shear Sensations Beauty Salon",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.856181,33.491553,-80.856181,33.491553],
-  "geometry": {"coordinates":[-80.856181,33.491553],"type":"Point"}
+  "bbox": [
+    -80.856181,
+    33.491553,
+    -80.856181,
+    33.491553
+],
+  "geometry": {"coordinates":[-80.85618100000001,33.491553],"type":"Point"}
 }

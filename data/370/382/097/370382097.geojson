@@ -2,13 +2,14 @@
   "id": 370382097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.091278,33.861109,-79.091278,33.861109",
     "geom:latitude":33.861109,
     "geom:longitude":-79.091278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2776 Church St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370382097,
-    "wof:lastmodified":1449030003,
+    "wof:lastmodified":1467082318,
     "wof:name":"Hugo Citgo",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-79.091278,33.861109,-79.091278,33.861109],
+  "bbox": [
+    -79.091278,
+    33.861109,
+    -79.091278,
+    33.861109
+],
   "geometry": {"coordinates":[-79.091278,33.861109],"type":"Point"}
 }

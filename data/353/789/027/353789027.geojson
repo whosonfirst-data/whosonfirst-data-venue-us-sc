@@ -2,13 +2,14 @@
   "id": 353789027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.953839,34.794449,-80.953839,34.794449",
     "geom:latitude":34.794449,
     "geom:longitude":-80.953839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2125 Killian Rd",
     "sg:city":"Richburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353789027,
-    "wof:lastmodified":1449019410,
+    "wof:lastmodified":1467082233,
     "wof:name":"S C Pipeline",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "company"
     ]
 },
-  "bbox": [-80.953839,34.794449,-80.953839,34.794449],
+  "bbox": [
+    -80.953839,
+    34.794449,
+    -80.953839,
+    34.794449
+],
   "geometry": {"coordinates":[-80.953839,34.794449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185767141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.763299,32.153468,-80.763299,32.153468",
     "geom:latitude":32.153468,
     "geom:longitude":-80.763299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Office Park Rd",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185767141,
-    "wof:lastmodified":1449007076,
+    "wof:lastmodified":1467082189,
     "wof:name":"Park Plz Liquors & Fine Wines",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-80.763299,32.153468,-80.763299,32.153468],
+  "bbox": [
+    -80.763299,
+    32.153468,
+    -80.763299,
+    32.153468
+],
   "geometry": {"coordinates":[-80.763299,32.153468],"type":"Point"}
 }

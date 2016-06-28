@@ -2,13 +2,14 @@
   "id": 370901461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.678184,33.824038,-78.678184,33.824038",
     "geom:latitude":33.824038,
     "geom:longitude":-78.678184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 1st Ave S",
     "sg:city":"North Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370901461,
-    "wof:lastmodified":1449030503,
+    "wof:lastmodified":1467082330,
     "wof:name":"Paint Masters",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.678184,33.824038,-78.678184,33.824038],
+  "bbox": [
+    -78.678184,
+    33.824038,
+    -78.678184,
+    33.824038
+],
   "geometry": {"coordinates":[-78.678184,33.824038],"type":"Point"}
 }

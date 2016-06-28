@@ -2,13 +2,14 @@
   "id": 353846985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.885257,34.295245,-79.885257,34.295245",
     "geom:latitude":34.295245,
     "geom:longitude":-79.885257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Pearl St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353846985,
-    "wof:lastmodified":1449020249,
+    "wof:lastmodified":1467082250,
     "wof:name":"Men's World Inc",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furnishing"
     ]
 },
-  "bbox": [-79.885257,34.295245,-79.885257,34.295245],
+  "bbox": [
+    -79.885257,
+    34.295245,
+    -79.885257,
+    34.295245
+],
   "geometry": {"coordinates":[-79.885257,34.295245],"type":"Point"}
 }

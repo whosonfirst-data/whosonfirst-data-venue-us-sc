@@ -2,13 +2,14 @@
   "id": 186155349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.824571,33.081843,-80.824571,33.081843",
     "geom:latitude":33.081843,
     "geom:longitude":-80.824571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2034 Drawdy Rd",
     "sg:city":"Smoaks",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186155349,
-    "wof:lastmodified":1449052534,
+    "wof:lastmodified":1467082408,
     "wof:name":"Hiott Logging LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-80.824571,33.081843,-80.824571,33.081843],
-  "geometry": {"coordinates":[-80.824571,33.081843],"type":"Point"}
+  "bbox": [
+    -80.824571,
+    33.081843,
+    -80.824571,
+    33.081843
+],
+  "geometry": {"coordinates":[-80.82457100000001,33.081843],"type":"Point"}
 }

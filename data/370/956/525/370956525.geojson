@@ -2,13 +2,14 @@
   "id": 370956525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.345249,34.87064,-82.345249,34.87064",
     "geom:latitude":34.87064,
     "geom:longitude":-82.345249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 E North St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370956525,
-    "wof:lastmodified":1449029664,
+    "wof:lastmodified":1467082311,
     "wof:name":"Ramblewood Apartments",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.345249,34.87064,-82.345249,34.87064],
+  "bbox": [
+    -82.345249,
+    34.87064,
+    -82.345249,
+    34.87064
+],
   "geometry": {"coordinates":[-82.345249,34.87064],"type":"Point"}
 }

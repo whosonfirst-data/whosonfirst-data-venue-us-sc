@@ -2,13 +2,14 @@
   "id": 370175965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.709888,32.421138,-80.709888,32.421138",
     "geom:latitude":32.421138,
     "geom:longitude":-80.709888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Petigru Dr",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370175965,
-    "wof:lastmodified":1449031427,
+    "wof:lastmodified":1467082350,
     "wof:name":"Marilyn Levesque",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-80.709888,32.421138,-80.709888,32.421138],
-  "geometry": {"coordinates":[-80.709888,32.421138],"type":"Point"}
+  "bbox": [
+    -80.709888,
+    32.421138,
+    -80.709888,
+    32.421138
+],
+  "geometry": {"coordinates":[-80.70988800000001,32.421138],"type":"Point"}
 }

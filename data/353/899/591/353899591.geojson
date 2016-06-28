@@ -2,13 +2,14 @@
   "id": 353899591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.35832,33.934815,-80.35832,33.934815",
     "geom:latitude":33.934815,
     "geom:longitude":-80.35832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Frazier Ave",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353899591,
-    "wof:lastmodified":1449020656,
+    "wof:lastmodified":1467082259,
     "wof:name":"Squeaky Clean Janitorial Svc",
     "wof:parent_id":85827029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.35832,33.934815,-80.35832,33.934815],
-  "geometry": {"coordinates":[-80.35832,33.934815],"type":"Point"}
+  "bbox": [
+    -80.35832,
+    33.934815,
+    -80.35832,
+    33.934815
+],
+  "geometry": {"coordinates":[-80.35832000000001,33.934815],"type":"Point"}
 }

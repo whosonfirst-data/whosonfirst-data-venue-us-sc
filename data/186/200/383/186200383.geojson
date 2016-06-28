@@ -2,13 +2,14 @@
   "id": 186200383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.939552,33.370738,-79.939552,33.370738",
     "geom:latitude":33.370738,
     "geom:longitude":-79.939552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"356 Dingle Ln",
     "sg:city":"St Stephen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186200383,
-    "wof:lastmodified":1449051444,
+    "wof:lastmodified":1467082398,
     "wof:name":"Steven Ford",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-79.939552,33.370738,-79.939552,33.370738],
-  "geometry": {"coordinates":[-79.939552,33.370738],"type":"Point"}
+  "bbox": [
+    -79.939552,
+    33.370738,
+    -79.939552,
+    33.370738
+],
+  "geometry": {"coordinates":[-79.93955200000001,33.370738],"type":"Point"}
 }

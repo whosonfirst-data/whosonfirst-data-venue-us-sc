@@ -2,13 +2,14 @@
   "id": 186112331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.867669,32.271369,-80.867669,32.271369",
     "geom:latitude":32.271369,
     "geom:longitude":-80.867669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Plantation Park Dr",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186112331,
-    "wof:lastmodified":1449051608,
+    "wof:lastmodified":1467082399,
     "wof:name":"Back Pain Institute",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.867669,32.271369,-80.867669,32.271369],
-  "geometry": {"coordinates":[-80.867669,32.271369],"type":"Point"}
+  "bbox": [
+    -80.867669,
+    32.271369,
+    -80.867669,
+    32.271369
+],
+  "geometry": {"coordinates":[-80.86766900000001,32.271369],"type":"Point"}
 }

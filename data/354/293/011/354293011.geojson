@@ -2,13 +2,14 @@
   "id": 354293011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.490312,33.481534,-80.490312,33.481534",
     "geom:latitude":33.481534,
     "geom:longitude":-80.490312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Montegue St",
     "sg:city":"Santee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354293011,
-    "wof:lastmodified":1449066264,
+    "wof:lastmodified":1467082422,
     "wof:name":"S & P Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.490312,33.481534,-80.490312,33.481534],
+  "bbox": [
+    -80.490312,
+    33.481534,
+    -80.490312,
+    33.481534
+],
   "geometry": {"coordinates":[-80.490312,33.481534],"type":"Point"}
 }

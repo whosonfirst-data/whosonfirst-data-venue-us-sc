@@ -2,13 +2,14 @@
   "id": 354264875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.485081,34.796034,-81.485081,34.796034",
     "geom:latitude":34.796034,
     "geom:longitude":-81.485081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Armory Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354264875,
-    "wof:lastmodified":1449067077,
+    "wof:lastmodified":1467082441,
     "wof:name":"Mc Intyre Sand Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gravel"
     ]
 },
-  "bbox": [-81.485081,34.796034,-81.485081,34.796034],
-  "geometry": {"coordinates":[-81.485081,34.796034],"type":"Point"}
+  "bbox": [
+    -81.485081,
+    34.796034,
+    -81.485081,
+    34.796034
+],
+  "geometry": {"coordinates":[-81.48508099999999,34.796034],"type":"Point"}
 }

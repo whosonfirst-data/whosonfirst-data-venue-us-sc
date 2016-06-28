@@ -2,13 +2,14 @@
   "id": 354311189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.695314,32.971649,-80.695314,32.971649",
     "geom:latitude":32.971649,
     "geom:longitude":-80.695314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 Mount Carmel Rd",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354311189,
-    "wof:lastmodified":1449066330,
+    "wof:lastmodified":1467082423,
     "wof:name":"Padgett M Beach Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.695314,32.971649,-80.695314,32.971649],
+  "bbox": [
+    -80.695314,
+    32.971649,
+    -80.695314,
+    32.971649
+],
   "geometry": {"coordinates":[-80.695314,32.971649],"type":"Point"}
 }

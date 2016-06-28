@@ -2,13 +2,14 @@
   "id": 337327491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.275635,33.01503,-80.275635,33.01503",
     "geom:latitude":33.01503,
     "geom:longitude":-80.275635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Belle Meade Rd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337327491,
-    "wof:lastmodified":1449026996,
+    "wof:lastmodified":1467082267,
     "wof:name":"R W's Automotive",
     "wof:parent_id":85812305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.275635,33.01503,-80.275635,33.01503],
-  "geometry": {"coordinates":[-80.275635,33.01503],"type":"Point"}
+  "bbox": [
+    -80.275635,
+    33.01503,
+    -80.275635,
+    33.01503
+],
+  "geometry": {"coordinates":[-80.27563499999999,33.01503],"type":"Point"}
 }

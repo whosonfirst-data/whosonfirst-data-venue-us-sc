@@ -2,13 +2,14 @@
   "id": 353573789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.856224,34.905319,-81.856224,34.905319",
     "geom:latitude":34.905319,
     "geom:longitude":-81.856224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 Patch Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353573789,
-    "wof:lastmodified":1449020128,
+    "wof:lastmodified":1467082248,
     "wof:name":"Lutheran Brotherhood Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.856224,34.905319,-81.856224,34.905319],
+  "bbox": [
+    -81.856224,
+    34.905319,
+    -81.856224,
+    34.905319
+],
   "geometry": {"coordinates":[-81.856224,34.905319],"type":"Point"}
 }

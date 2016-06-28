@@ -2,13 +2,14 @@
   "id": 353550115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.774426,34.196844,-79.774426,34.196844",
     "geom:latitude":34.196844,
     "geom:longitude":-79.774426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"478 W Evans St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353550115,
-    "wof:lastmodified":1449019639,
+    "wof:lastmodified":1467082238,
     "wof:name":"Carolina Mobility Center",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hospital"
     ]
 },
-  "bbox": [-79.774426,34.196844,-79.774426,34.196844],
-  "geometry": {"coordinates":[-79.774426,34.196844],"type":"Point"}
+  "bbox": [
+    -79.774426,
+    34.196844,
+    -79.774426,
+    34.196844
+],
+  "geometry": {"coordinates":[-79.77442600000001,34.196844],"type":"Point"}
 }

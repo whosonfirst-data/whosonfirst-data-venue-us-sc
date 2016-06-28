@@ -2,13 +2,14 @@
   "id": 353934317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.966101,34.879298,-81.966101,34.879298",
     "geom:latitude":34.879298,
     "geom:longitude":-81.966101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2099 E Blackstock Rd",
     "sg:city":"Roebuck",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353934317,
-    "wof:lastmodified":1449018372,
+    "wof:lastmodified":1467082212,
     "wof:name":"Flower House",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.966101,34.879298,-81.966101,34.879298],
-  "geometry": {"coordinates":[-81.966101,34.879298],"type":"Point"}
+  "bbox": [
+    -81.966101,
+    34.879298,
+    -81.966101,
+    34.879298
+],
+  "geometry": {"coordinates":[-81.96610099999999,34.879298],"type":"Point"}
 }

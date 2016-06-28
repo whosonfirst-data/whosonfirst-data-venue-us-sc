@@ -2,13 +2,14 @@
   "id": 353523629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.02753,32.792009,-80.02753,32.792009",
     "geom:latitude":32.792009,
     "geom:longitude":-80.02753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 Orleans Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353523629,
-    "wof:lastmodified":1449019733,
+    "wof:lastmodified":1467082240,
     "wof:name":"Prudential Carolina Real Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.02753,32.792009,-80.02753,32.792009],
+  "bbox": [
+    -80.02753,
+    32.792009,
+    -80.02753,
+    32.792009
+],
   "geometry": {"coordinates":[-80.02753,32.792009],"type":"Point"}
 }

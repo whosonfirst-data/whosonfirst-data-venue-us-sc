@@ -2,13 +2,14 @@
   "id": 370893389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.789926,32.173178,-80.789926,32.173178",
     "geom:latitude":32.173178,
     "geom:longitude":-80.789926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Brams Point Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370893389,
-    "wof:lastmodified":1449031836,
+    "wof:lastmodified":1467082359,
     "wof:name":"Edward A Bush CPA",
     "wof:parent_id":85850409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-80.789926,32.173178,-80.789926,32.173178],
-  "geometry": {"coordinates":[-80.789926,32.173178],"type":"Point"}
+  "bbox": [
+    -80.789926,
+    32.173178,
+    -80.789926,
+    32.173178
+],
+  "geometry": {"coordinates":[-80.78992599999999,32.173178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353602821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.172941,33.021085,-80.172941,33.021085",
     "geom:latitude":33.021085,
     "geom:longitude":-80.172941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 E 1st North St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353602821,
-    "wof:lastmodified":1449019454,
+    "wof:lastmodified":1467082234,
     "wof:name":"Stephen L Beaty MD",
     "wof:parent_id":85833421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.172941,33.021085,-80.172941,33.021085],
-  "geometry": {"coordinates":[-80.172941,33.021085],"type":"Point"}
+  "bbox": [
+    -80.172941,
+    33.021085,
+    -80.172941,
+    33.021085
+],
+  "geometry": {"coordinates":[-80.17294099999999,33.021085],"type":"Point"}
 }

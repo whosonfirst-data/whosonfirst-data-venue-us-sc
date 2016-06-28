@@ -2,13 +2,14 @@
   "id": 370262039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.87716,34.967656,-81.87716,34.967656",
     "geom:latitude":34.967656,
     "geom:longitude":-81.87716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Henson St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370262039,
-    "wof:lastmodified":1449031184,
+    "wof:lastmodified":1467082344,
     "wof:name":"Bryan Painting Co",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.87716,34.967656,-81.87716,34.967656],
+  "bbox": [
+    -81.87716,
+    34.967656,
+    -81.87716,
+    34.967656
+],
   "geometry": {"coordinates":[-81.87716,34.967656],"type":"Point"}
 }

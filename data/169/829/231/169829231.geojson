@@ -2,13 +2,14 @@
   "id": 169829231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.008499,32.785914,-80.008499,32.785914",
     "geom:latitude":32.785914,
     "geom:longitude":-80.008499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1591 Savannah Hwy",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169829231,
-    "wof:lastmodified":1449035744,
+    "wof:lastmodified":1467082387,
     "wof:name":"J & L Home Improvements",
     "wof:parent_id":85846627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-80.008499,32.785914,-80.008499,32.785914],
+  "bbox": [
+    -80.008499,
+    32.785914,
+    -80.008499,
+    32.785914
+],
   "geometry": {"coordinates":[-80.008499,32.785914],"type":"Point"}
 }

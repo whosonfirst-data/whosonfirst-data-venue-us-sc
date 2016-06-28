@@ -2,13 +2,14 @@
   "id": 354173807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.149708,34.299475,-79.149708,34.299475",
     "geom:latitude":34.299475,
     "geom:longitude":-79.149708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Ayres Loop",
     "sg:city":"Nichols",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354173807,
-    "wof:lastmodified":1449066254,
+    "wof:lastmodified":1467082422,
     "wof:name":"Ayres Backhoe",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-79.149708,34.299475,-79.149708,34.299475],
+  "bbox": [
+    -79.149708,
+    34.299475,
+    -79.149708,
+    34.299475
+],
   "geometry": {"coordinates":[-79.149708,34.299475],"type":"Point"}
 }

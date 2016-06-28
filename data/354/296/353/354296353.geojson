@@ -2,13 +2,14 @@
   "id": 354296353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.93847,32.797103,-79.93847,32.797103",
     "geom:latitude":32.797103,
     "geom:longitude":-79.93847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Hanover St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354296353,
-    "wof:lastmodified":1449067324,
+    "wof:lastmodified":1467082446,
     "wof:name":"Knight's Supermarket",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-79.93847,32.797103,-79.93847,32.797103],
+  "bbox": [
+    -79.93847,
+    32.797103,
+    -79.93847,
+    32.797103
+],
   "geometry": {"coordinates":[-79.93847,32.797103],"type":"Point"}
 }

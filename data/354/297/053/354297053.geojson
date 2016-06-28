@@ -2,13 +2,14 @@
   "id": 354297053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.04235,33.213353,-80.04235,33.213353",
     "geom:latitude":33.213353,
     "geom:longitude":-80.04235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 Pinopolis Rd",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354297053,
-    "wof:lastmodified":1449067050,
+    "wof:lastmodified":1467082440,
     "wof:name":"Village Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.04235,33.213353,-80.04235,33.213353],
+  "bbox": [
+    -80.04235,
+    33.213353,
+    -80.04235,
+    33.213353
+],
   "geometry": {"coordinates":[-80.04235,33.213353],"type":"Point"}
 }

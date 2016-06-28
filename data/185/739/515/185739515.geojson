@@ -2,13 +2,14 @@
   "id": 185739515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.255744,34.068531,-81.255744,34.068531",
     "geom:latitude":34.068531,
     "geom:longitude":-81.255744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Pine Island Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185739515,
-    "wof:lastmodified":1449007280,
+    "wof:lastmodified":1467082193,
     "wof:name":"South Carolina Elc & Gas Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "electric"
     ]
 },
-  "bbox": [-81.255744,34.068531,-81.255744,34.068531],
-  "geometry": {"coordinates":[-81.255744,34.068531],"type":"Point"}
+  "bbox": [
+    -81.255744,
+    34.068531,
+    -81.255744,
+    34.068531
+],
+  "geometry": {"coordinates":[-81.25574400000001,34.068531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370503637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.135826,33.037287,-80.135826,33.037287",
     "geom:latitude":33.037287,
     "geom:longitude":-80.135826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Pebble Creek Rd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370503637,
-    "wof:lastmodified":1449032479,
+    "wof:lastmodified":1467082374,
     "wof:name":"Hudson's Carpet Cleaning Inc",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-80.135826,33.037287,-80.135826,33.037287],
-  "geometry": {"coordinates":[-80.135826,33.037287],"type":"Point"}
+  "bbox": [
+    -80.135826,
+    33.037287,
+    -80.135826,
+    33.037287
+],
+  "geometry": {"coordinates":[-80.13582599999999,33.037287],"type":"Point"}
 }

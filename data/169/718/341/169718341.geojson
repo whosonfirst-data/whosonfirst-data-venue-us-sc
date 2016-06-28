@@ -2,13 +2,14 @@
   "id": 169718341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.73589,33.515359,-81.73589,33.515359",
     "geom:latitude":33.515359,
     "geom:longitude":-81.73589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"991 Pine Logging Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169718341,
-    "wof:lastmodified":1449033399,
+    "wof:lastmodified":1467082380,
     "wof:name":"Kentuky Fried Chicken",
     "wof:parent_id":85812071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.73589,33.515359,-81.73589,33.515359],
+  "bbox": [
+    -81.73589,
+    33.515359,
+    -81.73589,
+    33.515359
+],
   "geometry": {"coordinates":[-81.73589,33.515359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370159193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.809722,32.234346,-80.809722,32.234346",
     "geom:latitude":32.234346,
     "geom:longitude":-80.809722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Black Watch Dr",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370159193,
-    "wof:lastmodified":1449029493,
+    "wof:lastmodified":1467082307,
     "wof:name":"Abundance Builders",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.809722,32.234346,-80.809722,32.234346],
-  "geometry": {"coordinates":[-80.809722,32.234346],"type":"Point"}
+  "bbox": [
+    -80.809722,
+    32.234346,
+    -80.809722,
+    32.234346
+],
+  "geometry": {"coordinates":[-80.80972199999999,32.234346],"type":"Point"}
 }

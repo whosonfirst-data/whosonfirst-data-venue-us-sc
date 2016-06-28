@@ -2,13 +2,14 @@
   "id": 370869677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.330868,34.841635,-82.330868,34.841635",
     "geom:latitude":34.841635,
     "geom:longitude":-82.330868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Halton Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370869677,
-    "wof:lastmodified":1449032200,
+    "wof:lastmodified":1467082367,
     "wof:name":"School Bus Maintenance Shop",
     "wof:parent_id":85829925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bus"
     ]
 },
-  "bbox": [-82.330868,34.841635,-82.330868,34.841635],
+  "bbox": [
+    -82.330868,
+    34.841635,
+    -82.330868,
+    34.841635
+],
   "geometry": {"coordinates":[-82.330868,34.841635],"type":"Point"}
 }

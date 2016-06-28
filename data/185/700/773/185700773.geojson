@@ -2,13 +2,14 @@
   "id": 185700773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.272404,34.759096,-82.272404,34.759096",
     "geom:latitude":34.759096,
     "geom:longitude":-82.272404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Old Laurens Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185700773,
-    "wof:lastmodified":1449008076,
+    "wof:lastmodified":1467082205,
     "wof:name":"Weekened Warrior Sportz",
     "wof:parent_id":85834923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-82.272404,34.759096,-82.272404,34.759096],
-  "geometry": {"coordinates":[-82.272404,34.759096],"type":"Point"}
+  "bbox": [
+    -82.272404,
+    34.759096,
+    -82.272404,
+    34.759096
+],
+  "geometry": {"coordinates":[-82.27240399999999,34.759096],"type":"Point"}
 }

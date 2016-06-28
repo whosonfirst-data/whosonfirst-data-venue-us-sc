@@ -2,13 +2,14 @@
   "id": 354081153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.026712,32.915702,-80.026712,32.915702",
     "geom:latitude":32.915702,
     "geom:longitude":-80.026712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6540 Rivers Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354081153,
-    "wof:lastmodified":1449066435,
+    "wof:lastmodified":1467082426,
     "wof:name":"Rivers Package Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-80.026712,32.915702,-80.026712,32.915702],
+  "bbox": [
+    -80.026712,
+    32.915702,
+    -80.026712,
+    32.915702
+],
   "geometry": {"coordinates":[-80.026712,32.915702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337419021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.874642,34.302285,-79.874642,34.302285",
     "geom:latitude":34.302285,
     "geom:longitude":-79.874642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N Sycamore St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337419021,
-    "wof:lastmodified":1449027725,
+    "wof:lastmodified":1467082295,
     "wof:name":"Kellys",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.874642,34.302285,-79.874642,34.302285],
-  "geometry": {"coordinates":[-79.874642,34.302285],"type":"Point"}
+  "bbox": [
+    -79.874642,
+    34.302285,
+    -79.874642,
+    34.302285
+],
+  "geometry": {"coordinates":[-79.87464199999999,34.302285],"type":"Point"}
 }

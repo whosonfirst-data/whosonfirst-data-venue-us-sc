@@ -2,13 +2,14 @@
   "id": 353787413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.778039,33.786236,-78.778039,33.786236",
     "geom:latitude":33.786236,
     "geom:longitude":-78.778039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9662 N Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353787413,
-    "wof:lastmodified":1449019413,
+    "wof:lastmodified":1467082233,
     "wof:name":"Endless Summer Vacations",
     "wof:parent_id":85815435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vacation"
     ]
 },
-  "bbox": [-78.778039,33.786236,-78.778039,33.786236],
-  "geometry": {"coordinates":[-78.778039,33.786236],"type":"Point"}
+  "bbox": [
+    -78.778039,
+    33.786236,
+    -78.778039,
+    33.786236
+],
+  "geometry": {"coordinates":[-78.77803900000001,33.786236],"type":"Point"}
 }

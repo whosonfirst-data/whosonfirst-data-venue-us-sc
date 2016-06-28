@@ -2,13 +2,14 @@
   "id": 337386219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.082674,34.733827,-80.082674,34.733827",
     "geom:latitude":34.733827,
     "geom:longitude":-80.082674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 East Blvd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337386219,
-    "wof:lastmodified":1449027374,
+    "wof:lastmodified":1467082282,
     "wof:name":"Chesterfield Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.082674,34.733827,-80.082674,34.733827],
+  "bbox": [
+    -80.082674,
+    34.733827,
+    -80.082674,
+    34.733827
+],
   "geometry": {"coordinates":[-80.082674,34.733827],"type":"Point"}
 }

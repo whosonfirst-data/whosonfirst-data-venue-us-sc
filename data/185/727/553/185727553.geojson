@@ -2,13 +2,14 @@
   "id": 185727553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.085206,34.37653,-81.085206,34.37653",
     "geom:latitude":34.37653,
     "geom:longitude":-81.085206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 S Congress St",
     "sg:city":"Winnsboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185727553,
-    "wof:lastmodified":1449006850,
+    "wof:lastmodified":1467082186,
     "wof:name":"First Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.085206,34.37653,-81.085206,34.37653],
+  "bbox": [
+    -81.085206,
+    34.37653,
+    -81.085206,
+    34.37653
+],
   "geometry": {"coordinates":[-81.085206,34.37653],"type":"Point"}
 }

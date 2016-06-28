@@ -2,13 +2,14 @@
   "id": 354364265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.858058,32.812558,-79.858058,32.812558",
     "geom:latitude":32.812558,
     "geom:longitude":-79.858058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1055 Johnnie Dodds Blvd",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354364265,
-    "wof:lastmodified":1449066905,
+    "wof:lastmodified":1467082437,
     "wof:name":"East Side Bakery & Cafe",
     "wof:parent_id":85840511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.858058,32.812558,-79.858058,32.812558],
+  "bbox": [
+    -79.858058,
+    32.812558,
+    -79.858058,
+    32.812558
+],
   "geometry": {"coordinates":[-79.858058,32.812558],"type":"Point"}
 }

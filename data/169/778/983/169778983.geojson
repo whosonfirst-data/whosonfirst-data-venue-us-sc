@@ -2,13 +2,14 @@
   "id": 169778983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.007173,33.586017,-79.007173,33.586017",
     "geom:latitude":33.586017,
     "geom:longitude":-79.007173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"599 Boundary Dr",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169778983,
-    "wof:lastmodified":1449032752,
+    "wof:lastmodified":1467082376,
     "wof:name":"Carnes Signs Inc",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.007173,33.586017,-79.007173,33.586017],
-  "geometry": {"coordinates":[-79.007173,33.586017],"type":"Point"}
+  "bbox": [
+    -79.007173,
+    33.586017,
+    -79.007173,
+    33.586017
+],
+  "geometry": {"coordinates":[-79.00717299999999,33.586017],"type":"Point"}
 }

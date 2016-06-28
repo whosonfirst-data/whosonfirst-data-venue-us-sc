@@ -2,13 +2,14 @@
   "id": 370782285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.47271,34.700295,-82.47271,34.700295",
     "geom:latitude":34.700295,
     "geom:longitude":-82.47271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Anderson St",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370782285,
-    "wof:lastmodified":1449029050,
+    "wof:lastmodified":1467082297,
     "wof:name":"Just Hair & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.47271,34.700295,-82.47271,34.700295],
-  "geometry": {"coordinates":[-82.47271,34.700295],"type":"Point"}
+  "bbox": [
+    -82.47271,
+    34.700295,
+    -82.47271,
+    34.700295
+],
+  "geometry": {"coordinates":[-82.47271000000001,34.700295],"type":"Point"}
 }

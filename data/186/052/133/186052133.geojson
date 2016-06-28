@@ -2,13 +2,14 @@
   "id": 186052133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.050581,32.837167,-80.050581,32.837167",
     "geom:latitude":32.837167,
     "geom:longitude":-80.050581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2234 Plainview Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186052133,
-    "wof:lastmodified":1449051586,
+    "wof:lastmodified":1467082399,
     "wof:name":"Charleston Christian School",
     "wof:parent_id":85820043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.050581,32.837167,-80.050581,32.837167],
-  "geometry": {"coordinates":[-80.050581,32.837167],"type":"Point"}
+  "bbox": [
+    -80.050581,
+    32.837167,
+    -80.050581,
+    32.837167
+],
+  "geometry": {"coordinates":[-80.05058099999999,32.837167],"type":"Point"}
 }

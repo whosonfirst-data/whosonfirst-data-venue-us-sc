@@ -2,13 +2,14 @@
   "id": 354283291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.006903,33.785547,-79.006903,33.785547",
     "geom:latitude":33.785547,
     "geom:longitude":-79.006903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Furman Cir",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354283291,
-    "wof:lastmodified":1449066411,
+    "wof:lastmodified":1467082425,
     "wof:name":"John C Horton CPA",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-79.006903,33.785547,-79.006903,33.785547],
-  "geometry": {"coordinates":[-79.006903,33.785547],"type":"Point"}
+  "bbox": [
+    -79.006903,
+    33.785547,
+    -79.006903,
+    33.785547
+],
+  "geometry": {"coordinates":[-79.00690299999999,33.785547],"type":"Point"}
 }

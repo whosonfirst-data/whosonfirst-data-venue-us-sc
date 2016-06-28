@@ -2,13 +2,14 @@
   "id": 370711171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.941131,32.656243,-79.941131,32.656243",
     "geom:latitude":32.656243,
     "geom:longitude":-79.941131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Center St",
     "sg:city":"Folly Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370711171,
-    "wof:lastmodified":1449031855,
+    "wof:lastmodified":1467082360,
     "wof:name":"Crab Shack",
     "wof:parent_id":85847603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.941131,32.656243,-79.941131,32.656243],
+  "bbox": [
+    -79.941131,
+    32.656243,
+    -79.941131,
+    32.656243
+],
   "geometry": {"coordinates":[-79.941131,32.656243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370265083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.14691,34.090175,-81.14691,34.090175",
     "geom:latitude":34.090175,
     "geom:longitude":-81.14691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Foxglove Cir",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370265083,
-    "wof:lastmodified":1449030253,
+    "wof:lastmodified":1467082324,
     "wof:name":"Apex Sweeping",
     "wof:parent_id":85868499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sweeping"
     ]
 },
-  "bbox": [-81.14691,34.090175,-81.14691,34.090175],
-  "geometry": {"coordinates":[-81.14691,34.090175],"type":"Point"}
+  "bbox": [
+    -81.14691,
+    34.090175,
+    -81.14691,
+    34.090175
+],
+  "geometry": {"coordinates":[-81.14691000000001,34.090175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337314053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.015594,33.201215,-80.015594,33.201215",
     "geom:latitude":33.201215,
     "geom:longitude":-80.015594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Hill St",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337314053,
-    "wof:lastmodified":1449027715,
+    "wof:lastmodified":1467082294,
     "wof:name":"Higgins Consulting",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-80.015594,33.201215,-80.015594,33.201215],
-  "geometry": {"coordinates":[-80.015594,33.201215],"type":"Point"}
+  "bbox": [
+    -80.015594,
+    33.201215,
+    -80.015594,
+    33.201215
+],
+  "geometry": {"coordinates":[-80.01559399999999,33.201215],"type":"Point"}
 }

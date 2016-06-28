@@ -2,13 +2,14 @@
   "id": 370532263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.585057,34.836664,-82.585057,34.836664",
     "geom:latitude":34.836664,
     "geom:longitude":-82.585057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"177 Turner St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370532263,
-    "wof:lastmodified":1449030239,
+    "wof:lastmodified":1467082324,
     "wof:name":"Brooks Septic Tank Svc",
     "wof:parent_id":85804075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "septic"
     ]
 },
-  "bbox": [-82.585057,34.836664,-82.585057,34.836664],
-  "geometry": {"coordinates":[-82.585057,34.836664],"type":"Point"}
+  "bbox": [
+    -82.585057,
+    34.836664,
+    -82.585057,
+    34.836664
+],
+  "geometry": {"coordinates":[-82.58505700000001,34.836664],"type":"Point"}
 }

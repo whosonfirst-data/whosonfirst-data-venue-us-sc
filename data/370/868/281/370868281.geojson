@@ -2,13 +2,14 @@
   "id": 370868281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.700423,32.402666,-80.700423,32.402666",
     "geom:latitude":32.402666,
     "geom:longitude":-80.700423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Forest Ln",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370868281,
-    "wof:lastmodified":1449029227,
+    "wof:lastmodified":1467082301,
     "wof:name":"John M Novak",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hypnotherapy"
     ]
 },
-  "bbox": [-80.700423,32.402666,-80.700423,32.402666],
+  "bbox": [
+    -80.700423,
+    32.402666,
+    -80.700423,
+    32.402666
+],
   "geometry": {"coordinates":[-80.700423,32.402666],"type":"Point"}
 }

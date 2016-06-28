@@ -2,13 +2,14 @@
   "id": 186297491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.861105,35.093241,-81.861105,35.093241",
     "geom:latitude":35.093241,
     "geom:longitude":-81.861105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Dorchester Rd",
     "sg:city":"Chesnee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186297491,
-    "wof:lastmodified":1449052081,
+    "wof:lastmodified":1467082404,
     "wof:name":"Battleground Investments",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.861105,35.093241,-81.861105,35.093241],
-  "geometry": {"coordinates":[-81.861105,35.093241],"type":"Point"}
+  "bbox": [
+    -81.861105,
+    35.093241,
+    -81.861105,
+    35.093241
+],
+  "geometry": {"coordinates":[-81.86110499999999,35.093241],"type":"Point"}
 }

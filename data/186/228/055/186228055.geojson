@@ -2,13 +2,14 @@
   "id": 186228055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.947301,34.943907,-81.947301,34.943907",
     "geom:latitude":34.943907,
     "geom:longitude":-81.947301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 W Main St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186228055,
-    "wof:lastmodified":1449051216,
+    "wof:lastmodified":1467082396,
     "wof:name":"Mary Underwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-81.947301,34.943907,-81.947301,34.943907],
+  "bbox": [
+    -81.947301,
+    34.943907,
+    -81.947301,
+    34.943907
+],
   "geometry": {"coordinates":[-81.947301,34.943907],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370221793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.340169,34.883024,-82.340169,34.883024",
     "geom:latitude":34.883024,
     "geom:longitude":-82.340169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Hiawatha Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370221793,
-    "wof:lastmodified":1449030581,
+    "wof:lastmodified":1467082331,
     "wof:name":"Dep Properties LLC",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-82.340169,34.883024,-82.340169,34.883024],
+  "bbox": [
+    -82.340169,
+    34.883024,
+    -82.340169,
+    34.883024
+],
   "geometry": {"coordinates":[-82.340169,34.883024],"type":"Point"}
 }

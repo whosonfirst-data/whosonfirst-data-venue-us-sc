@@ -2,13 +2,14 @@
   "id": 186288679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930112,32.788451,-79.930112,32.788451",
     "geom:latitude":32.788451,
     "geom:longitude":-79.930112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Calhoun St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186288679,
-    "wof:lastmodified":1449050528,
+    "wof:lastmodified":1467082391,
     "wof:name":"Atlantic Realty & Investments",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.930112,32.788451,-79.930112,32.788451],
-  "geometry": {"coordinates":[-79.930112,32.788451],"type":"Point"}
+  "bbox": [
+    -79.930112,
+    32.788451,
+    -79.930112,
+    32.788451
+],
+  "geometry": {"coordinates":[-79.93011199999999,32.788451],"type":"Point"}
 }

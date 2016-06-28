@@ -2,13 +2,14 @@
   "id": 353761873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.083227,34.001719,-81.083227,34.001719",
     "geom:latitude":34.001719,
     "geom:longitude":-81.083227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1423 Duke St",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353761873,
-    "wof:lastmodified":1449020205,
+    "wof:lastmodified":1467082249,
     "wof:name":"Superior Shutter & Blind Co",
     "wof:parent_id":85846837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shutter"
     ]
 },
-  "bbox": [-81.083227,34.001719,-81.083227,34.001719],
-  "geometry": {"coordinates":[-81.083227,34.001719],"type":"Point"}
+  "bbox": [
+    -81.083227,
+    34.001719,
+    -81.083227,
+    34.001719
+],
+  "geometry": {"coordinates":[-81.08322699999999,34.001719],"type":"Point"}
 }

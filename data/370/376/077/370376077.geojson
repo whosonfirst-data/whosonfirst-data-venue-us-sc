@@ -2,13 +2,14 @@
   "id": 370376077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.687405,32.436191,-80.687405,32.436191",
     "geom:latitude":32.436191,
     "geom:longitude":-80.687405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Duke St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370376077,
-    "wof:lastmodified":1449030255,
+    "wof:lastmodified":1467082324,
     "wof:name":"Palmetto Apartments",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.687405,32.436191,-80.687405,32.436191],
+  "bbox": [
+    -80.687405,
+    32.436191,
+    -80.687405,
+    32.436191
+],
   "geometry": {"coordinates":[-80.687405,32.436191],"type":"Point"}
 }

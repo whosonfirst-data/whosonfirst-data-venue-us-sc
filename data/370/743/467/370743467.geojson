@@ -2,13 +2,14 @@
   "id": 370743467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.884219,34.698459,-79.884219,34.698459",
     "geom:latitude":34.698459,
     "geom:longitude":-79.884219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 2nd St",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370743467,
-    "wof:lastmodified":1449032448,
+    "wof:lastmodified":1467082373,
     "wof:name":"Regional Finance Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-79.884219,34.698459,-79.884219,34.698459],
+  "bbox": [
+    -79.884219,
+    34.698459,
+    -79.884219,
+    34.698459
+],
   "geometry": {"coordinates":[-79.884219,34.698459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370796933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.760867,34.283806,-80.760867,34.283806",
     "geom:latitude":34.283806,
     "geom:longitude":-80.760867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Sutton Branch Rd",
     "sg:city":"Lugoff",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370796933,
-    "wof:lastmodified":1449030689,
+    "wof:lastmodified":1467082333,
     "wof:name":"Herb Painting",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.760867,34.283806,-80.760867,34.283806],
+  "bbox": [
+    -80.760867,
+    34.283806,
+    -80.760867,
+    34.283806
+],
   "geometry": {"coordinates":[-80.760867,34.283806],"type":"Point"}
 }

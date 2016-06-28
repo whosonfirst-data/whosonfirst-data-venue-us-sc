@@ -2,13 +2,14 @@
   "id": 370804987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.988661,33.684395,-78.988661,33.684395",
     "geom:latitude":33.684395,
     "geom:longitude":-78.988661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Manor Cir",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370804987,
-    "wof:lastmodified":1449031441,
+    "wof:lastmodified":1467082350,
     "wof:name":"Coastal Plumbing Service",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.988661,33.684395,-78.988661,33.684395],
-  "geometry": {"coordinates":[-78.988661,33.684395],"type":"Point"}
+  "bbox": [
+    -78.988661,
+    33.684395,
+    -78.988661,
+    33.684395
+],
+  "geometry": {"coordinates":[-78.98866099999999,33.684395],"type":"Point"}
 }

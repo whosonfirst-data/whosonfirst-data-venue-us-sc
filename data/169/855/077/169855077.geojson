@@ -2,13 +2,14 @@
   "id": 169855077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.087376,33.000495,-80.087376,33.000495",
     "geom:latitude":33.000495,
     "geom:longitude":-80.087376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1447 Gleason Dr",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169855077,
-    "wof:lastmodified":1449035107,
+    "wof:lastmodified":1467082385,
     "wof:name":"Blessed Hope Baptist Church",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.087376,33.000495,-80.087376,33.000495],
-  "geometry": {"coordinates":[-80.087376,33.000495],"type":"Point"}
+  "bbox": [
+    -80.087376,
+    33.000495,
+    -80.087376,
+    33.000495
+],
+  "geometry": {"coordinates":[-80.08737600000001,33.000495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370385551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.977179,32.854802,-79.977179,32.854802",
     "geom:latitude":32.854802,
     "geom:longitude":-79.977179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 Cosgrove Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370385551,
-    "wof:lastmodified":1449031087,
+    "wof:lastmodified":1467082342,
     "wof:name":"Computer Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [-79.977179,32.854802,-79.977179,32.854802],
-  "geometry": {"coordinates":[-79.977179,32.854802],"type":"Point"}
+  "bbox": [
+    -79.977179,
+    32.854802,
+    -79.977179,
+    32.854802
+],
+  "geometry": {"coordinates":[-79.97717900000001,32.854802],"type":"Point"}
 }

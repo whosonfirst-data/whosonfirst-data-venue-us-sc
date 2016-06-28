@@ -2,13 +2,14 @@
   "id": 354346543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.732666,33.865868,-78.732666,33.865868",
     "geom:latitude":33.865868,
     "geom:longitude":-78.732666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2040 Jones Rd",
     "sg:city":"Longs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354346543,
-    "wof:lastmodified":1449065919,
+    "wof:lastmodified":1467082414,
     "wof:name":"Jones R I General Contractors",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-78.732666,33.865868,-78.732666,33.865868],
-  "geometry": {"coordinates":[-78.732666,33.865868],"type":"Point"}
+  "bbox": [
+    -78.732666,
+    33.865868,
+    -78.732666,
+    33.865868
+],
+  "geometry": {"coordinates":[-78.73266599999999,33.865868],"type":"Point"}
 }

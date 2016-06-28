@@ -2,13 +2,14 @@
   "id": 337408949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.969349,34.024594,-80.969349,34.024594",
     "geom:latitude":34.024594,
     "geom:longitude":-80.969349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Daniel St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337408949,
-    "wof:lastmodified":1449027035,
+    "wof:lastmodified":1467082269,
     "wof:name":"Bethel United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.969349,34.024594,-80.969349,34.024594],
-  "geometry": {"coordinates":[-80.969349,34.024594],"type":"Point"}
+  "bbox": [
+    -80.969349,
+    34.024594,
+    -80.969349,
+    34.024594
+],
+  "geometry": {"coordinates":[-80.96934899999999,34.024594],"type":"Point"}
 }

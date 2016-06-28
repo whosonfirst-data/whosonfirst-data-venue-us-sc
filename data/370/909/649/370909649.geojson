@@ -2,13 +2,14 @@
   "id": 370909649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.662232,34.851518,-82.662232,34.851518",
     "geom:latitude":34.851518,
     "geom:longitude":-82.662232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1454 Gentry Memorial Hwy",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370909649,
-    "wof:lastmodified":1449031643,
+    "wof:lastmodified":1467082355,
     "wof:name":"Graystone Medical Mgr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-82.662232,34.851518,-82.662232,34.851518],
+  "bbox": [
+    -82.662232,
+    34.851518,
+    -82.662232,
+    34.851518
+],
   "geometry": {"coordinates":[-82.662232,34.851518],"type":"Point"}
 }

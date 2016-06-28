@@ -2,13 +2,14 @@
   "id": 337310551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.058919,32.729352,-80.058919,32.729352",
     "geom:latitude":32.729352,
     "geom:longitude":-80.058919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3227 Walter Dr",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337310551,
-    "wof:lastmodified":1449027453,
+    "wof:lastmodified":1467082284,
     "wof:name":"Sunmarsh Development Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.058919,32.729352,-80.058919,32.729352],
+  "bbox": [
+    -80.058919,
+    32.729352,
+    -80.058919,
+    32.729352
+],
   "geometry": {"coordinates":[-80.058919,32.729352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186018267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.817458,33.756991,-78.817458,33.756991",
     "geom:latitude":33.756991,
     "geom:longitude":-78.817458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8171 Rourk St",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186018267,
-    "wof:lastmodified":1449051715,
+    "wof:lastmodified":1467082400,
     "wof:name":"Osmo Physical Therapy",
     "wof:parent_id":85838439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-78.817458,33.756991,-78.817458,33.756991],
+  "bbox": [
+    -78.817458,
+    33.756991,
+    -78.817458,
+    33.756991
+],
   "geometry": {"coordinates":[-78.817458,33.756991],"type":"Point"}
 }

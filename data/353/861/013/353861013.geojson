@@ -2,13 +2,14 @@
   "id": 353861013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.911048,34.148018,-80.911048,34.148018",
     "geom:latitude":34.148018,
     "geom:longitude":-80.911048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4525 Hard Scrabble Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353861013,
-    "wof:lastmodified":1449020766,
+    "wof:lastmodified":1467082261,
     "wof:name":"Santorini Grill",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.911048,34.148018,-80.911048,34.148018],
-  "geometry": {"coordinates":[-80.911048,34.148018],"type":"Point"}
+  "bbox": [
+    -80.911048,
+    34.148018,
+    -80.911048,
+    34.148018
+],
+  "geometry": {"coordinates":[-80.91104799999999,34.148018],"type":"Point"}
 }

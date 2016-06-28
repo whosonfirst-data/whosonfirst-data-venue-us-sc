@@ -2,13 +2,14 @@
   "id": 354219221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.180817,34.094553,-81.180817,34.094553",
     "geom:latitude":34.094553,
     "geom:longitude":-81.180817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Doncaster Ct",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354219221,
-    "wof:lastmodified":1449067609,
+    "wof:lastmodified":1467082453,
     "wof:name":"John W Harding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.180817,34.094553,-81.180817,34.094553],
+  "bbox": [
+    -81.180817,
+    34.094553,
+    -81.180817,
+    34.094553
+],
   "geometry": {"coordinates":[-81.180817,34.094553],"type":"Point"}
 }

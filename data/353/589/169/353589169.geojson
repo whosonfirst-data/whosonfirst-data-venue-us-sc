@@ -2,13 +2,14 @@
   "id": 353589169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.420533,34.809621,-82.420533,34.809621",
     "geom:latitude":34.809621,
     "geom:longitude":-82.420533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 Grove Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353589169,
-    "wof:lastmodified":1449019627,
+    "wof:lastmodified":1467082238,
     "wof:name":"Zimmerman Kistler Woodward",
     "wof:parent_id":85810381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "operates"
     ]
 },
-  "bbox": [-82.420533,34.809621,-82.420533,34.809621],
-  "geometry": {"coordinates":[-82.420533,34.809621],"type":"Point"}
+  "bbox": [
+    -82.420533,
+    34.809621,
+    -82.420533,
+    34.809621
+],
+  "geometry": {"coordinates":[-82.42053300000001,34.809621],"type":"Point"}
 }

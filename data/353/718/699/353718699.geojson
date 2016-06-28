@@ -2,13 +2,14 @@
   "id": 353718699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.821784,33.73879,-78.821784,33.73879",
     "geom:latitude":33.73879,
     "geom:longitude":-78.821784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6804 N Ocean Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353718699,
-    "wof:lastmodified":1449018814,
+    "wof:lastmodified":1467082221,
     "wof:name":"Monterey Bay Suites",
     "wof:parent_id":85809243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-78.821784,33.73879,-78.821784,33.73879],
-  "geometry": {"coordinates":[-78.821784,33.73879],"type":"Point"}
+  "bbox": [
+    -78.821784,
+    33.73879,
+    -78.821784,
+    33.73879
+],
+  "geometry": {"coordinates":[-78.82178399999999,33.73879],"type":"Point"}
 }

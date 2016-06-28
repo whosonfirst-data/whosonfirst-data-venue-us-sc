@@ -2,13 +2,14 @@
   "id": 353491727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.762558,34.259547,-81.762558,34.259547",
     "geom:latitude":34.259547,
     "geom:longitude":-81.762558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1369 Island Ford Rd",
     "sg:city":"Silverstreet",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353491727,
-    "wof:lastmodified":1449018215,
+    "wof:lastmodified":1467082209,
     "wof:name":"Sand Hill Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.762558,34.259547,-81.762558,34.259547],
+  "bbox": [
+    -81.762558,
+    34.259547,
+    -81.762558,
+    34.259547
+],
   "geometry": {"coordinates":[-81.762558,34.259547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370675159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.196713,35.088471,-81.196713,35.088471",
     "geom:latitude":35.088471,
     "geom:longitude":-81.196713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 Saint Paul Church Rd",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370675159,
-    "wof:lastmodified":1449030803,
+    "wof:lastmodified":1467082336,
     "wof:name":"St Paul United Methodist Chr",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.196713,35.088471,-81.196713,35.088471],
+  "bbox": [
+    -81.196713,
+    35.088471,
+    -81.196713,
+    35.088471
+],
   "geometry": {"coordinates":[-81.196713,35.088471],"type":"Point"}
 }

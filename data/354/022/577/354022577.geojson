@@ -2,13 +2,14 @@
   "id": 354022577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.18595,34.905648,-82.18595,34.905648",
     "geom:latitude":34.905648,
     "geom:longitude":-82.18595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 Brookshire Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354022577,
-    "wof:lastmodified":1449066481,
+    "wof:lastmodified":1467082427,
     "wof:name":"Integrity Tool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-82.18595,34.905648,-82.18595,34.905648],
-  "geometry": {"coordinates":[-82.18595,34.905648],"type":"Point"}
+  "bbox": [
+    -82.18595,
+    34.905648,
+    -82.18595,
+    34.905648
+],
+  "geometry": {"coordinates":[-82.18595000000001,34.905648],"type":"Point"}
 }

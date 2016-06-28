@@ -2,13 +2,14 @@
   "id": 186111353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.921963,34.95217,-81.921963,34.95217",
     "geom:latitude":34.95217,
     "geom:longitude":-81.921963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Oakland Ave",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186111353,
-    "wof:lastmodified":1449053105,
+    "wof:lastmodified":1467082414,
     "wof:name":"Stone Lighting",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fixture"
     ]
 },
-  "bbox": [-81.921963,34.95217,-81.921963,34.95217],
-  "geometry": {"coordinates":[-81.921963,34.95217],"type":"Point"}
+  "bbox": [
+    -81.921963,
+    34.95217,
+    -81.921963,
+    34.95217
+],
+  "geometry": {"coordinates":[-81.92196300000001,34.95217],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370715143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.032515,32.780405,-80.032515,32.780405",
     "geom:latitude":32.780405,
     "geom:longitude":-80.032515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2079 S Shore Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370715143,
-    "wof:lastmodified":1449031801,
+    "wof:lastmodified":1467082359,
     "wof:name":"Premier Homes Of Charleston",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.032515,32.780405,-80.032515,32.780405],
+  "bbox": [
+    -80.032515,
+    32.780405,
+    -80.032515,
+    32.780405
+],
   "geometry": {"coordinates":[-80.032515,32.780405],"type":"Point"}
 }

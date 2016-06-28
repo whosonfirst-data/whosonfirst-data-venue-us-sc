@@ -2,13 +2,14 @@
   "id": 185933305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.326028,34.846839,-82.326028,34.846839",
     "geom:latitude":34.846839,
     "geom:longitude":-82.326028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Halton Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185933305,
-    "wof:lastmodified":1449006943,
+    "wof:lastmodified":1467082187,
     "wof:name":"James C White Co Inc",
     "wof:parent_id":85829925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.326028,34.846839,-82.326028,34.846839],
-  "geometry": {"coordinates":[-82.326028,34.846839],"type":"Point"}
+  "bbox": [
+    -82.326028,
+    34.846839,
+    -82.326028,
+    34.846839
+],
+  "geometry": {"coordinates":[-82.32602799999999,34.846839],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169784405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.144159,32.639112,-80.144159,32.639112",
     "geom:latitude":32.639112,
     "geom:longitude":-80.144159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3990 Betsy Kerrison Pkwy",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169784405,
-    "wof:lastmodified":1449034897,
+    "wof:lastmodified":1467082384,
     "wof:name":"Mack Watson Inc",
     "wof:parent_id":85809109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-80.144159,32.639112,-80.144159,32.639112],
+  "bbox": [
+    -80.144159,
+    32.639112,
+    -80.144159,
+    32.639112
+],
   "geometry": {"coordinates":[-80.144159,32.639112],"type":"Point"}
 }

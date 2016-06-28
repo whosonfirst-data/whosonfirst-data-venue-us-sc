@@ -2,13 +2,14 @@
   "id": 185885175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.405678,34.88973,-82.405678,34.88973",
     "geom:latitude":34.88973,
     "geom:longitude":-82.405678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Poinsett Hwy",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185885175,
-    "wof:lastmodified":1449007481,
+    "wof:lastmodified":1467082196,
     "wof:name":"Morgan Motor Co",
     "wof:parent_id":85825355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motor"
     ]
 },
-  "bbox": [-82.405678,34.88973,-82.405678,34.88973],
-  "geometry": {"coordinates":[-82.405678,34.88973],"type":"Point"}
+  "bbox": [
+    -82.405678,
+    34.88973,
+    -82.405678,
+    34.88973
+],
+  "geometry": {"coordinates":[-82.40567799999999,34.88973],"type":"Point"}
 }

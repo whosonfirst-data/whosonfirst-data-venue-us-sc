@@ -2,13 +2,14 @@
   "id": 185807557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.747975,34.42477,-80.747975,34.42477",
     "geom:latitude":34.42477,
     "geom:longitude":-80.747975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2394 River Rd",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185807557,
-    "wof:lastmodified":1449007019,
+    "wof:lastmodified":1467082188,
     "wof:name":"Wateree Exchange",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.747975,34.42477,-80.747975,34.42477],
+  "bbox": [
+    -80.747975,
+    34.42477,
+    -80.747975,
+    34.42477
+],
   "geometry": {"coordinates":[-80.747975,34.42477],"type":"Point"}
 }

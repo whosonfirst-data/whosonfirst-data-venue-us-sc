@@ -2,13 +2,14 @@
   "id": 169837315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.037393,35.089788,-82.037393,35.089788",
     "geom:latitude":35.089788,
     "geom:longitude":-82.037393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7250 State Hwy 9",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169837315,
-    "wof:lastmodified":1449033208,
+    "wof:lastmodified":1467082379,
     "wof:name":"Geri's Cafeteria",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.037393,35.089788,-82.037393,35.089788],
-  "geometry": {"coordinates":[-82.037393,35.089788],"type":"Point"}
+  "bbox": [
+    -82.037393,
+    35.089788,
+    -82.037393,
+    35.089788
+],
+  "geometry": {"coordinates":[-82.03739299999999,35.089788],"type":"Point"}
 }

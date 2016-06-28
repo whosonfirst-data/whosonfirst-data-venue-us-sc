@@ -2,13 +2,14 @@
   "id": 354114001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.040049,34.015699,-81.040049,34.015699",
     "geom:latitude":34.015699,
     "geom:longitude":-81.040049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2329 Main St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354114001,
-    "wof:lastmodified":1449066630,
+    "wof:lastmodified":1467082430,
     "wof:name":"Auto Electric Exchange",
     "wof:parent_id":85805491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-81.040049,34.015699,-81.040049,34.015699],
+  "bbox": [
+    -81.040049,
+    34.015699,
+    -81.040049,
+    34.015699
+],
   "geometry": {"coordinates":[-81.040049,34.015699],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337553195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.944976,34.859701,-80.944976,34.859701",
     "geom:latitude":34.859701,
     "geom:longitude":-80.944976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 Wildwood Creek Trl",
     "sg:city":"Catawba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337553195,
-    "wof:lastmodified":1449026936,
+    "wof:lastmodified":1467082265,
     "wof:name":"Rockybells Buffett",
     "wof:parent_id":85833915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-80.944976,34.859701,-80.944976,34.859701],
+  "bbox": [
+    -80.944976,
+    34.859701,
+    -80.944976,
+    34.859701
+],
   "geometry": {"coordinates":[-80.944976,34.859701],"type":"Point"}
 }

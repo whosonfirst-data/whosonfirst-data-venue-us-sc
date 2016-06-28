@@ -2,13 +2,14 @@
   "id": 185944607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.779296,33.785838,-78.779296,33.785838",
     "geom:latitude":33.785838,
     "geom:longitude":-78.779296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9702 N Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185944607,
-    "wof:lastmodified":1449007432,
+    "wof:lastmodified":1467082195,
     "wof:name":"Willard's Fireworks",
     "wof:parent_id":85815435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "firework"
     ]
 },
-  "bbox": [-78.779296,33.785838,-78.779296,33.785838],
+  "bbox": [
+    -78.779296,
+    33.785838,
+    -78.779296,
+    33.785838
+],
   "geometry": {"coordinates":[-78.779296,33.785838],"type":"Point"}
 }

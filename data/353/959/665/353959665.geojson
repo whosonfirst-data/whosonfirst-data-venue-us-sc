@@ -2,13 +2,14 @@
   "id": 353959665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.107683,34.899048,-82.107683,34.899048",
     "geom:latitude":34.899048,
     "geom:longitude":-82.107683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Parkway E",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":353959665,
-    "wof:lastmodified":1449020547,
+    "wof:lastmodified":1467082256,
     "wof:name":"Seeber USA LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-82.107683,34.899048,-82.107683,34.899048],
-  "geometry": {"coordinates":[-82.107683,34.899048],"type":"Point"}
+  "bbox": [
+    -82.107683,
+    34.899048,
+    -82.107683,
+    34.899048
+],
+  "geometry": {"coordinates":[-82.10768299999999,34.899048],"type":"Point"}
 }

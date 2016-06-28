@@ -2,13 +2,14 @@
   "id": 354266173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.42743,33.938149,-79.42743,33.938149",
     "geom:latitude":33.938149,
     "geom:longitude":-79.42743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 Bishop Rd",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354266173,
-    "wof:lastmodified":1449065997,
+    "wof:lastmodified":1467082416,
     "wof:name":"Goose Pond Kennel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.42743,33.938149,-79.42743,33.938149],
+  "bbox": [
+    -79.42743,
+    33.938149,
+    -79.42743,
+    33.938149
+],
   "geometry": {"coordinates":[-79.42743,33.938149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337485229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.083312,32.927105,-80.083312,32.927105",
     "geom:latitude":32.927105,
     "geom:longitude":-80.083312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Peppertree Ln",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337485229,
-    "wof:lastmodified":1449027444,
+    "wof:lastmodified":1467082284,
     "wof:name":"Repairall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "equipment"
     ]
 },
-  "bbox": [-80.083312,32.927105,-80.083312,32.927105],
-  "geometry": {"coordinates":[-80.083312,32.927105],"type":"Point"}
+  "bbox": [
+    -80.083312,
+    32.927105,
+    -80.083312,
+    32.927105
+],
+  "geometry": {"coordinates":[-80.08331200000001,32.927105],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169796813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.422575,34.986001,-82.422575,34.986001",
     "geom:latitude":34.986001,
     "geom:longitude":-82.422575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 US Hwy 25",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169796813,
-    "wof:lastmodified":1449034234,
+    "wof:lastmodified":1467082382,
     "wof:name":"Riverside Antique Mall",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-82.422575,34.986001,-82.422575,34.986001],
-  "geometry": {"coordinates":[-82.422575,34.986001],"type":"Point"}
+  "bbox": [
+    -82.422575,
+    34.986001,
+    -82.422575,
+    34.986001
+],
+  "geometry": {"coordinates":[-82.42257499999999,34.986001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370194217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.817268,33.66119,-79.817268,33.66119",
     "geom:latitude":33.66119,
     "geom:longitude":-79.817268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Thurgood Marshall Hwy",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370194217,
-    "wof:lastmodified":1449031980,
+    "wof:lastmodified":1467082363,
     "wof:name":"Lucius F Wates DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-79.817268,33.66119,-79.817268,33.66119],
+  "bbox": [
+    -79.817268,
+    33.66119,
+    -79.817268,
+    33.66119
+],
   "geometry": {"coordinates":[-79.817268,33.66119],"type":"Point"}
 }

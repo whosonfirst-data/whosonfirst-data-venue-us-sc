@@ -2,13 +2,14 @@
   "id": 169787827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.883074,33.732055,-78.883074,33.732055",
     "geom:latitude":33.732055,
     "geom:longitude":-78.883074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1945 Arundel Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169787827,
-    "wof:lastmodified":1449034163,
+    "wof:lastmodified":1467082382,
     "wof:name":"Eagle Point Construction",
     "wof:parent_id":85816109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-78.883074,33.732055,-78.883074,33.732055],
-  "geometry": {"coordinates":[-78.883074,33.732055],"type":"Point"}
+  "bbox": [
+    -78.883074,
+    33.732055,
+    -78.883074,
+    33.732055
+],
+  "geometry": {"coordinates":[-78.88307399999999,33.732055],"type":"Point"}
 }

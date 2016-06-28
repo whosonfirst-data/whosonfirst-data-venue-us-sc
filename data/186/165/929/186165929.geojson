@@ -2,13 +2,14 @@
   "id": 186165929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.874993,33.514569,-80.874993,33.514569",
     "geom:latitude":33.514569,
     "geom:longitude":-80.874993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1271 Hillsboro Rd",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186165929,
-    "wof:lastmodified":1449053034,
+    "wof:lastmodified":1467082413,
     "wof:name":"Prospects Resume Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resume"
     ]
 },
-  "bbox": [-80.874993,33.514569,-80.874993,33.514569],
+  "bbox": [
+    -80.874993,
+    33.514569,
+    -80.874993,
+    33.514569
+],
   "geometry": {"coordinates":[-80.874993,33.514569],"type":"Point"}
 }

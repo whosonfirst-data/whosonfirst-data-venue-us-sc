@@ -2,13 +2,14 @@
   "id": 354041363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.422692,34.804351,-82.422692,34.804351",
     "geom:latitude":34.804351,
     "geom:longitude":-82.422692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 N Old Grove Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354041363,
-    "wof:lastmodified":1449066527,
+    "wof:lastmodified":1467082428,
     "wof:name":"County Line Auto Sales",
     "wof:parent_id":85810381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.422692,34.804351,-82.422692,34.804351],
+  "bbox": [
+    -82.422692,
+    34.804351,
+    -82.422692,
+    34.804351
+],
   "geometry": {"coordinates":[-82.422692,34.804351],"type":"Point"}
 }

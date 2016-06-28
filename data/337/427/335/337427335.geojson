@@ -2,13 +2,14 @@
   "id": 337427335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.911987,34.957054,-81.911987,34.957054",
     "geom:latitude":34.957054,
     "geom:longitude":-81.911987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"756 E Main St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":337427335,
-    "wof:lastmodified":1449027188,
+    "wof:lastmodified":1467082275,
     "wof:name":"Arthur State Bank",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.911987,34.957054,-81.911987,34.957054],
+  "bbox": [
+    -81.911987,
+    34.957054,
+    -81.911987,
+    34.957054
+],
   "geometry": {"coordinates":[-81.911987,34.957054],"type":"Point"}
 }

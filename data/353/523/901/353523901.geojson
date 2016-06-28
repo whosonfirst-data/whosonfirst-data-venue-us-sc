@@ -2,13 +2,14 @@
   "id": 353523901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.230966,34.319575,-79.230966,34.319575",
     "geom:latitude":34.319575,
     "geom:longitude":-79.230966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 Pineview Dr",
     "sg:city":"Lake View",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353523901,
-    "wof:lastmodified":1449019729,
+    "wof:lastmodified":1467082240,
     "wof:name":"Neils Metal Works",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.230966,34.319575,-79.230966,34.319575],
+  "bbox": [
+    -79.230966,
+    34.319575,
+    -79.230966,
+    34.319575
+],
   "geometry": {"coordinates":[-79.230966,34.319575],"type":"Point"}
 }

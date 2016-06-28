@@ -2,13 +2,14 @@
   "id": 354333793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.722213,33.797491,-78.722213,33.797491",
     "geom:latitude":33.797491,
     "geom:longitude":-78.722213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 S Ocean Blvd",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354333793,
-    "wof:lastmodified":1449067559,
+    "wof:lastmodified":1467082452,
     "wof:name":"Beach Hut Inc",
     "wof:parent_id":85852275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.722213,33.797491,-78.722213,33.797491],
+  "bbox": [
+    -78.722213,
+    33.797491,
+    -78.722213,
+    33.797491
+],
   "geometry": {"coordinates":[-78.722213,33.797491],"type":"Point"}
 }

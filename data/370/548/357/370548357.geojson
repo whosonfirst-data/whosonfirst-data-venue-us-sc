@@ -2,13 +2,14 @@
   "id": 370548357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.06222,35.129467,-81.06222,35.129467",
     "geom:latitude":35.129467,
     "geom:longitude":-81.06222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4435 River Oaks Rd",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370548357,
-    "wof:lastmodified":1449031424,
+    "wof:lastmodified":1467082350,
     "wof:name":"Home Crafters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.06222,35.129467,-81.06222,35.129467],
+  "bbox": [
+    -81.06222,
+    35.129467,
+    -81.06222,
+    35.129467
+],
   "geometry": {"coordinates":[-81.06222,35.129467],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337297349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.84193,34.205657,-79.84193,34.205657",
     "geom:latitude":34.205657,
     "geom:longitude":-79.84193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 Edenderry Way",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337297349,
-    "wof:lastmodified":1449027471,
+    "wof:lastmodified":1467082285,
     "wof:name":"Servpro Of Florence",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-79.84193,34.205657,-79.84193,34.205657],
+  "bbox": [
+    -79.84193,
+    34.205657,
+    -79.84193,
+    34.205657
+],
   "geometry": {"coordinates":[-79.84193,34.205657],"type":"Point"}
 }

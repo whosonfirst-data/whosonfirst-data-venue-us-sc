@@ -2,13 +2,14 @@
   "id": 353624521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.080742,35.038948,-82.080742,35.038948",
     "geom:latitude":35.038948,
     "geom:longitude":-82.080742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11471 Asheville Hwy",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353624521,
-    "wof:lastmodified":1449019996,
+    "wof:lastmodified":1467082245,
     "wof:name":"Souther Land Surveying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-82.080742,35.038948,-82.080742,35.038948],
+  "bbox": [
+    -82.080742,
+    35.038948,
+    -82.080742,
+    35.038948
+],
   "geometry": {"coordinates":[-82.080742,35.038948],"type":"Point"}
 }

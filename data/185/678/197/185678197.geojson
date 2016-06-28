@@ -2,13 +2,14 @@
   "id": 185678197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.102071,34.366609,-80.102071,34.366609",
     "geom:latitude":34.366609,
     "geom:longitude":-80.102071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 State Hwy 151 Bus",
     "sg:city":"Hartsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185678197,
-    "wof:lastmodified":1449007401,
+    "wof:lastmodified":1467082194,
     "wof:name":"Mid Carolina Homes",
     "wof:parent_id":85855615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-80.102071,34.366609,-80.102071,34.366609],
+  "bbox": [
+    -80.102071,
+    34.366609,
+    -80.102071,
+    34.366609
+],
   "geometry": {"coordinates":[-80.102071,34.366609],"type":"Point"}
 }

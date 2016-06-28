@@ -2,13 +2,14 @@
   "id": 370833097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.714002,32.185661,-80.714002,32.185661",
     "geom:latitude":32.185661,
     "geom:longitude":-80.714002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Off Shore Dr",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370833097,
-    "wof:lastmodified":1449029528,
+    "wof:lastmodified":1467082308,
     "wof:name":"Mld Heating",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.714002,32.185661,-80.714002,32.185661],
-  "geometry": {"coordinates":[-80.714002,32.185661],"type":"Point"}
+  "bbox": [
+    -80.714002,
+    32.185661,
+    -80.714002,
+    32.185661
+],
+  "geometry": {"coordinates":[-80.71400199999999,32.185661],"type":"Point"}
 }

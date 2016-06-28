@@ -2,13 +2,14 @@
   "id": 185931539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.491285,34.895668,-82.491285,34.895668",
     "geom:latitude":34.895668,
     "geom:longitude":-82.491285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Quinlan Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185931539,
-    "wof:lastmodified":1449008074,
+    "wof:lastmodified":1467082205,
     "wof:name":"Portraits By Joanne Kennedy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [-82.491285,34.895668,-82.491285,34.895668],
+  "bbox": [
+    -82.491285,
+    34.895668,
+    -82.491285,
+    34.895668
+],
   "geometry": {"coordinates":[-82.491285,34.895668],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354314531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.326907,33.395608,-79.326907,33.395608",
     "geom:latitude":33.395608,
     "geom:longitude":-79.326907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Mercer Ave",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354314531,
-    "wof:lastmodified":1449067604,
+    "wof:lastmodified":1467082453,
     "wof:name":"Reid Home Building & Remodel",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.326907,33.395608,-79.326907,33.395608],
-  "geometry": {"coordinates":[-79.326907,33.395608],"type":"Point"}
+  "bbox": [
+    -79.326907,
+    33.395608,
+    -79.326907,
+    33.395608
+],
+  "geometry": {"coordinates":[-79.32690700000001,33.395608],"type":"Point"}
 }

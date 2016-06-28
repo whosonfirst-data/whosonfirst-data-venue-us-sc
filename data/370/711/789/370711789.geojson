@@ -2,13 +2,14 @@
   "id": 370711789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.309366,34.76656,-82.309366,34.76656",
     "geom:latitude":34.76656,
     "geom:longitude":-82.309366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Woodhedge Ct",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370711789,
-    "wof:lastmodified":1449031854,
+    "wof:lastmodified":1467082360,
     "wof:name":"Swicegood By Design",
     "wof:parent_id":85858653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-82.309366,34.76656,-82.309366,34.76656],
+  "bbox": [
+    -82.309366,
+    34.76656,
+    -82.309366,
+    34.76656
+],
   "geometry": {"coordinates":[-82.309366,34.76656],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353804055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.567542,34.827318,-82.567542,34.827318",
     "geom:latitude":34.827318,
     "geom:longitude":-82.567542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1735 E Main St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353804055,
-    "wof:lastmodified":1449020016,
+    "wof:lastmodified":1467082246,
     "wof:name":"123 Auto Sales",
     "wof:parent_id":85819785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.567542,34.827318,-82.567542,34.827318],
+  "bbox": [
+    -82.567542,
+    34.827318,
+    -82.567542,
+    34.827318
+],
   "geometry": {"coordinates":[-82.567542,34.827318],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370375091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.720193,33.572906,-81.720193,33.572906",
     "geom:latitude":33.572906,
     "geom:longitude":-81.720193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 Laurens St NW",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370375091,
-    "wof:lastmodified":1449029184,
+    "wof:lastmodified":1467082300,
     "wof:name":"Salvation Army Boys & Girls",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.720193,33.572906,-81.720193,33.572906],
-  "geometry": {"coordinates":[-81.720193,33.572906],"type":"Point"}
+  "bbox": [
+    -81.720193,
+    33.572906,
+    -81.720193,
+    33.572906
+],
+  "geometry": {"coordinates":[-81.72019299999999,33.572906],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354396433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.929251,34.109019,-80.929251,34.109019",
     "geom:latitude":34.109019,
     "geom:longitude":-80.929251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Olde Springs Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354396433,
-    "wof:lastmodified":1449067089,
+    "wof:lastmodified":1467082441,
     "wof:name":"Lynn M Burnett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "speech"
     ]
 },
-  "bbox": [-80.929251,34.109019,-80.929251,34.109019],
-  "geometry": {"coordinates":[-80.929251,34.109019],"type":"Point"}
+  "bbox": [
+    -80.929251,
+    34.109019,
+    -80.929251,
+    34.109019
+],
+  "geometry": {"coordinates":[-80.92925099999999,34.109019],"type":"Point"}
 }

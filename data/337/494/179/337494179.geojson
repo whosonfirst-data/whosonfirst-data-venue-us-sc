@@ -2,13 +2,14 @@
   "id": 337494179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.920375,32.735913,-79.920375,32.735913",
     "geom:latitude":32.735913,
     "geom:longitude":-79.920375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"875 Amanda Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337494179,
-    "wof:lastmodified":1449027655,
+    "wof:lastmodified":1467082292,
     "wof:name":"Ouidoo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.920375,32.735913,-79.920375,32.735913],
-  "geometry": {"coordinates":[-79.920375,32.735913],"type":"Point"}
+  "bbox": [
+    -79.920375,
+    32.735913,
+    -79.920375,
+    32.735913
+],
+  "geometry": {"coordinates":[-79.92037500000001,32.735913],"type":"Point"}
 }

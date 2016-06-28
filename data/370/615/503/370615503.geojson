@@ -2,13 +2,14 @@
   "id": 370615503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.340081,33.902355,-80.340081,33.902355",
     "geom:latitude":33.902355,
     "geom:longitude":-80.340081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 Manning Ave",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":370615503,
-    "wof:lastmodified":1449030170,
+    "wof:lastmodified":1467082322,
     "wof:name":"Canty Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.340081,33.902355,-80.340081,33.902355],
+  "bbox": [
+    -80.340081,
+    33.902355,
+    -80.340081,
+    33.902355
+],
   "geometry": {"coordinates":[-80.340081,33.902355],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185658855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.030695,33.598381,-79.030695,33.598381",
     "geom:latitude":33.598381,
     "geom:longitude":-79.030695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10622 McDowell Short Cut Rd",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185658855,
-    "wof:lastmodified":1449006565,
+    "wof:lastmodified":1467082181,
     "wof:name":"Recycle Yard",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-79.030695,33.598381,-79.030695,33.598381],
-  "geometry": {"coordinates":[-79.030695,33.598381],"type":"Point"}
+  "bbox": [
+    -79.030695,
+    33.598381,
+    -79.030695,
+    33.598381
+],
+  "geometry": {"coordinates":[-79.03069499999999,33.598381],"type":"Point"}
 }

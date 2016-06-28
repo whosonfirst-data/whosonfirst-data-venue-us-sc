@@ -2,13 +2,14 @@
   "id": 353744187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.862566,33.503392,-80.862566,33.503392",
     "geom:latitude":33.503392,
     "geom:longitude":-80.862566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1992 Carolina Ave",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353744187,
-    "wof:lastmodified":1449019177,
+    "wof:lastmodified":1467082228,
     "wof:name":"At Home Hospital Equipment",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "home"
     ]
 },
-  "bbox": [-80.862566,33.503392,-80.862566,33.503392],
+  "bbox": [
+    -80.862566,
+    33.503392,
+    -80.862566,
+    33.503392
+],
   "geometry": {"coordinates":[-80.862566,33.503392],"type":"Point"}
 }

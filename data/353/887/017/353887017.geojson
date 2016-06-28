@@ -2,13 +2,14 @@
   "id": 353887017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.038501,34.49448,-82.038501,34.49448",
     "geom:latitude":34.49448,
     "geom:longitude":-82.038501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1027 W Main St",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353887017,
-    "wof:lastmodified":1449020315,
+    "wof:lastmodified":1467082252,
     "wof:name":"Palmetto Heritage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.038501,34.49448,-82.038501,34.49448],
+  "bbox": [
+    -82.038501,
+    34.49448,
+    -82.038501,
+    34.49448
+],
   "geometry": {"coordinates":[-82.038501,34.49448],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185841313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.369023,34.884843,-82.369023,34.884843",
     "geom:latitude":34.884843,
     "geom:longitude":-82.369023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1818 N Pleasantburg Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185841313,
-    "wof:lastmodified":1449006951,
+    "wof:lastmodified":1467082187,
     "wof:name":"Hendrix Personal Water Craft",
     "wof:parent_id":85857455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "miscellaneous"
     ]
 },
-  "bbox": [-82.369023,34.884843,-82.369023,34.884843],
+  "bbox": [
+    -82.369023,
+    34.884843,
+    -82.369023,
+    34.884843
+],
   "geometry": {"coordinates":[-82.369023,34.884843],"type":"Point"}
 }

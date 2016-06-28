@@ -2,13 +2,14 @@
   "id": 370457695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.234606,34.124712,-81.234606,34.124712",
     "geom:latitude":34.124712,
     "geom:longitude":-81.234606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1331 Dutch Fork Rd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370457695,
-    "wof:lastmodified":1449031349,
+    "wof:lastmodified":1467082348,
     "wof:name":"New To You",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.234606,34.124712,-81.234606,34.124712],
+  "bbox": [
+    -81.234606,
+    34.124712,
+    -81.234606,
+    34.124712
+],
   "geometry": {"coordinates":[-81.234606,34.124712],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185872331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.797518,34.158256,-79.797518,34.158256",
     "geom:latitude":34.158256,
     "geom:longitude":-79.797518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1918 W Sandhurst Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185872331,
-    "wof:lastmodified":1449006752,
+    "wof:lastmodified":1467082184,
     "wof:name":"Smith's Electronics",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "circuit"
     ]
 },
-  "bbox": [-79.797518,34.158256,-79.797518,34.158256],
+  "bbox": [
+    -79.797518,
+    34.158256,
+    -79.797518,
+    34.158256
+],
   "geometry": {"coordinates":[-79.797518,34.158256],"type":"Point"}
 }

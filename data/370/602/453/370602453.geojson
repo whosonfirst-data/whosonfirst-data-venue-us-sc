@@ -2,13 +2,14 @@
   "id": 370602453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.260192,34.20599,-79.260192,34.20599",
     "geom:latitude":34.20599,
     "geom:longitude":-79.260192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"248 Seaboard Ave",
     "sg:city":"Johnsonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370602453,
-    "wof:lastmodified":1449030683,
+    "wof:lastmodified":1467082333,
     "wof:name":"Marlow Fabrication Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-79.260192,34.20599,-79.260192,34.20599],
+  "bbox": [
+    -79.260192,
+    34.20599,
+    -79.260192,
+    34.20599
+],
   "geometry": {"coordinates":[-79.260192,34.20599],"type":"Point"}
 }

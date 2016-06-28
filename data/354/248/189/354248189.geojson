@@ -2,13 +2,14 @@
   "id": 354248189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.926941,32.779279,-79.926941,32.779279",
     "geom:latitude":32.779279,
     "geom:longitude":-79.926941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"182 E Bay St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354248189,
-    "wof:lastmodified":1449066874,
+    "wof:lastmodified":1467082436,
     "wof:name":"Chalmers Johnson Law Firm",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.926941,32.779279,-79.926941,32.779279],
+  "bbox": [
+    -79.926941,
+    32.779279,
+    -79.926941,
+    32.779279
+],
   "geometry": {"coordinates":[-79.926941,32.779279],"type":"Point"}
 }

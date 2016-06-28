@@ -2,13 +2,14 @@
   "id": 353987805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.343771,34.167748,-81.343771,34.167748",
     "geom:latitude":34.167748,
     "geom:longitude":-81.343771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Columbia Ave",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353987805,
-    "wof:lastmodified":1449019680,
+    "wof:lastmodified":1467082239,
     "wof:name":"Chapin Nutrition & Healing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.343771,34.167748,-81.343771,34.167748],
+  "bbox": [
+    -81.343771,
+    34.167748,
+    -81.343771,
+    34.167748
+],
   "geometry": {"coordinates":[-81.343771,34.167748],"type":"Point"}
 }

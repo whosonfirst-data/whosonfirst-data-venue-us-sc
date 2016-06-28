@@ -2,13 +2,14 @@
   "id": 370349915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.447472,34.967168,-82.447472,34.967168",
     "geom:latitude":34.967168,
     "geom:longitude":-82.447472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Cooper St",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370349915,
-    "wof:lastmodified":1449030367,
+    "wof:lastmodified":1467082327,
     "wof:name":"Contract Partnership Inc",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.447472,34.967168,-82.447472,34.967168],
+  "bbox": [
+    -82.447472,
+    34.967168,
+    -82.447472,
+    34.967168
+],
   "geometry": {"coordinates":[-82.447472,34.967168],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337608331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.254288,33.053575,-80.254288,33.053575",
     "geom:latitude":33.053575,
     "geom:longitude":-80.254288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 Orangeburg Rd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":337608331,
-    "wof:lastmodified":1449027284,
+    "wof:lastmodified":1467082278,
     "wof:name":"Pinewood Preparatory School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.254288,33.053575,-80.254288,33.053575],
+  "bbox": [
+    -80.254288,
+    33.053575,
+    -80.254288,
+    33.053575
+],
   "geometry": {"coordinates":[-80.254288,33.053575],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169853981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.29899,34.773091,-82.29899,34.773091",
     "geom:latitude":34.773091,
     "geom:longitude":-82.29899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 S Main St",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169853981,
-    "wof:lastmodified":1449034012,
+    "wof:lastmodified":1467082381,
     "wof:name":"AGS Inc",
     "wof:parent_id":85834923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.29899,34.773091,-82.29899,34.773091],
+  "bbox": [
+    -82.29899,
+    34.773091,
+    -82.29899,
+    34.773091
+],
   "geometry": {"coordinates":[-82.29899,34.773091],"type":"Point"}
 }

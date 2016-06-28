@@ -2,13 +2,14 @@
   "id": 370468733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.230191,32.944248,-80.230191,32.944248",
     "geom:latitude":32.944248,
     "geom:longitude":-80.230191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Crooked Oak Rd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370468733,
-    "wof:lastmodified":1449031515,
+    "wof:lastmodified":1467082352,
     "wof:name":"Classic Hotels Woodwork",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.230191,32.944248,-80.230191,32.944248],
+  "bbox": [
+    -80.230191,
+    32.944248,
+    -80.230191,
+    32.944248
+],
   "geometry": {"coordinates":[-80.230191,32.944248],"type":"Point"}
 }

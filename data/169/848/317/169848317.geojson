@@ -2,13 +2,14 @@
   "id": 169848317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.298428,33.977691,-80.298428,33.977691",
     "geom:latitude":33.977691,
     "geom:longitude":-80.298428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 Oswego Hwy",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169848317,
-    "wof:lastmodified":1449033154,
+    "wof:lastmodified":1467082378,
     "wof:name":"Apteryx Farm",
     "wof:parent_id":85855087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farm"
     ]
 },
-  "bbox": [-80.298428,33.977691,-80.298428,33.977691],
+  "bbox": [
+    -80.298428,
+    33.977691,
+    -80.298428,
+    33.977691
+],
   "geometry": {"coordinates":[-80.298428,33.977691],"type":"Point"}
 }

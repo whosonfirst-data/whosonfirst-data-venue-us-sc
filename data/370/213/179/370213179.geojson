@@ -2,13 +2,14 @@
   "id": 370213179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.163086,34.787108,-82.163086,34.787108",
     "geom:latitude":34.787108,
     "geom:longitude":-82.163086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2824 E Georgia Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370213179,
-    "wof:lastmodified":1449029107,
+    "wof:lastmodified":1467082299,
     "wof:name":"Western Carolina Sewer Athorty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "system"
     ]
 },
-  "bbox": [-82.163086,34.787108,-82.163086,34.787108],
-  "geometry": {"coordinates":[-82.163086,34.787108],"type":"Point"}
+  "bbox": [
+    -82.163086,
+    34.787108,
+    -82.163086,
+    34.787108
+],
+  "geometry": {"coordinates":[-82.16308600000001,34.787108],"type":"Point"}
 }

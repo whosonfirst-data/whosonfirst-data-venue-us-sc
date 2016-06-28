@@ -2,13 +2,14 @@
   "id": 353942013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.938459,33.664294,-78.938459,33.664294",
     "geom:latitude":33.664294,
     "geom:longitude":-78.938459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Howard Pkwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353942013,
-    "wof:lastmodified":1449019429,
+    "wof:lastmodified":1467082233,
     "wof:name":"Harvest Investments LLC",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.938459,33.664294,-78.938459,33.664294],
-  "geometry": {"coordinates":[-78.938459,33.664294],"type":"Point"}
+  "bbox": [
+    -78.938459,
+    33.664294,
+    -78.938459,
+    33.664294
+],
+  "geometry": {"coordinates":[-78.93845899999999,33.664294],"type":"Point"}
 }

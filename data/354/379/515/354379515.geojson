@@ -2,13 +2,14 @@
   "id": 354379515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.860297,32.23721,-80.860297,32.23721",
     "geom:latitude":32.23721,
     "geom:longitude":-80.860297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Bruin Rd",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354379515,
-    "wof:lastmodified":1449066930,
+    "wof:lastmodified":1467082437,
     "wof:name":"Giclee Gallery",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.860297,32.23721,-80.860297,32.23721],
+  "bbox": [
+    -80.860297,
+    32.23721,
+    -80.860297,
+    32.23721
+],
   "geometry": {"coordinates":[-80.860297,32.23721],"type":"Point"}
 }

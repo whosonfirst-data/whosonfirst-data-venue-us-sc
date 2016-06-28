@@ -2,13 +2,14 @@
   "id": 186002485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.50359,35.106213,-81.50359,35.106213",
     "geom:latitude":35.106213,
     "geom:longitude":-81.50359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 S Rutherford St",
     "sg:city":"Blacksburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186002485,
-    "wof:lastmodified":1449052524,
+    "wof:lastmodified":1467082408,
     "wof:name":"Cherokee Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "residential"
     ]
 },
-  "bbox": [-81.50359,35.106213,-81.50359,35.106213],
+  "bbox": [
+    -81.50359,
+    35.106213,
+    -81.50359,
+    35.106213
+],
   "geometry": {"coordinates":[-81.50359,35.106213],"type":"Point"}
 }

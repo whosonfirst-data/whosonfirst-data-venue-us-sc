@@ -2,13 +2,14 @@
   "id": 354235685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.035848,34.321131,-80.035848,34.321131",
     "geom:latitude":34.321131,
     "geom:longitude":-80.035848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 E Bobo Newsome Hwy",
     "sg:city":"Hartsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354235685,
-    "wof:lastmodified":1449066232,
+    "wof:lastmodified":1467082421,
     "wof:name":"A 1 Mini Storage",
     "wof:parent_id":85811765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-80.035848,34.321131,-80.035848,34.321131],
+  "bbox": [
+    -80.035848,
+    34.321131,
+    -80.035848,
+    34.321131
+],
   "geometry": {"coordinates":[-80.035848,34.321131],"type":"Point"}
 }

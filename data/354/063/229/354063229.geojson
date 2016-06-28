@@ -2,13 +2,14 @@
   "id": 354063229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.988719,33.989077,-80.988719,33.989077",
     "geom:latitude":33.989077,
     "geom:longitude":-80.988719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 S Kilbourne Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354063229,
-    "wof:lastmodified":1449066079,
+    "wof:lastmodified":1467082418,
     "wof:name":"Rocky Bottom Camp Of The Blind",
     "wof:parent_id":85876829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-80.988719,33.989077,-80.988719,33.989077],
+  "bbox": [
+    -80.988719,
+    33.989077,
+    -80.988719,
+    33.989077
+],
   "geometry": {"coordinates":[-80.988719,33.989077],"type":"Point"}
 }

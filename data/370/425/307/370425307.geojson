@@ -2,13 +2,14 @@
   "id": 370425307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.014686,35.070215,-82.014686,35.070215",
     "geom:latitude":35.070215,
     "geom:longitude":-82.014686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5535 State Hwy 9",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370425307,
-    "wof:lastmodified":1449030282,
+    "wof:lastmodified":1467082325,
     "wof:name":"Allstate",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.014686,35.070215,-82.014686,35.070215],
+  "bbox": [
+    -82.014686,
+    35.070215,
+    -82.014686,
+    35.070215
+],
   "geometry": {"coordinates":[-82.014686,35.070215],"type":"Point"}
 }

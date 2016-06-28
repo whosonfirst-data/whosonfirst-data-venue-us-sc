@@ -2,13 +2,14 @@
   "id": 370780513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.117873,34.223588,-82.117873,34.223588",
     "geom:latitude":34.223588,
     "geom:longitude":-82.117873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2223 US Hwy 221",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370780513,
-    "wof:lastmodified":1449031628,
+    "wof:lastmodified":1467082355,
     "wof:name":"S & J's Hair Castle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.117873,34.223588,-82.117873,34.223588],
+  "bbox": [
+    -82.117873,
+    34.223588,
+    -82.117873,
+    34.223588
+],
   "geometry": {"coordinates":[-82.117873,34.223588],"type":"Point"}
 }

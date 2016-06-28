@@ -2,13 +2,14 @@
   "id": 353575517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.746585,32.14344,-80.746585,32.14344",
     "geom:latitude":32.14344,
     "geom:longitude":-80.746585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Dune Ln",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353575517,
-    "wof:lastmodified":1449019012,
+    "wof:lastmodified":1467082225,
     "wof:name":"Sea Mist",
     "wof:parent_id":85819787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.746585,32.14344,-80.746585,32.14344],
+  "bbox": [
+    -80.746585,
+    32.14344,
+    -80.746585,
+    32.14344
+],
   "geometry": {"coordinates":[-80.746585,32.14344],"type":"Point"}
 }

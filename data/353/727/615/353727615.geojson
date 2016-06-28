@@ -2,13 +2,14 @@
   "id": 353727615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.351868,34.898262,-82.351868,34.898262",
     "geom:latitude":34.898262,
     "geom:longitude":-82.351868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Wynette Ave",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353727615,
-    "wof:lastmodified":1449018637,
+    "wof:lastmodified":1467082217,
     "wof:name":"Austin Fashions",
     "wof:parent_id":85857455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.351868,34.898262,-82.351868,34.898262],
+  "bbox": [
+    -82.351868,
+    34.898262,
+    -82.351868,
+    34.898262
+],
   "geometry": {"coordinates":[-82.351868,34.898262],"type":"Point"}
 }

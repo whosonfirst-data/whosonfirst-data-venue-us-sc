@@ -2,13 +2,14 @@
   "id": 370882713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.708678,33.498767,-81.708678,33.498767",
     "geom:latitude":33.498767,
     "geom:longitude":-81.708678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Antietam Dr",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370882713,
-    "wof:lastmodified":1449029698,
+    "wof:lastmodified":1467082311,
     "wof:name":"Glass Investments and Insur",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.708678,33.498767,-81.708678,33.498767],
-  "geometry": {"coordinates":[-81.708678,33.498767],"type":"Point"}
+  "bbox": [
+    -81.708678,
+    33.498767,
+    -81.708678,
+    33.498767
+],
+  "geometry": {"coordinates":[-81.70867800000001,33.498767],"type":"Point"}
 }

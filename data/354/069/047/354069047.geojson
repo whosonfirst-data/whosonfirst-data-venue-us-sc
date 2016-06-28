@@ -2,13 +2,14 @@
   "id": 354069047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.190381,32.994361,-80.190381,32.994361",
     "geom:latitude":32.994361,
     "geom:longitude":-80.190381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Cavalier Dr",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354069047,
-    "wof:lastmodified":1449067039,
+    "wof:lastmodified":1467082440,
     "wof:name":"Hanslip Construction",
     "wof:parent_id":85851889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.190381,32.994361,-80.190381,32.994361],
+  "bbox": [
+    -80.190381,
+    32.994361,
+    -80.190381,
+    32.994361
+],
   "geometry": {"coordinates":[-80.190381,32.994361],"type":"Point"}
 }

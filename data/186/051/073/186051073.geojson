@@ -2,13 +2,14 @@
   "id": 186051073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.983585,34.997023,-81.983585,34.997023",
     "geom:latitude":34.997023,
     "geom:longitude":-81.983585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Access Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186051073,
-    "wof:lastmodified":1449052020,
+    "wof:lastmodified":1467082403,
     "wof:name":"Exel",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packaging"
     ]
 },
-  "bbox": [-81.983585,34.997023,-81.983585,34.997023],
-  "geometry": {"coordinates":[-81.983585,34.997023],"type":"Point"}
+  "bbox": [
+    -81.983585,
+    34.997023,
+    -81.983585,
+    34.997023
+],
+  "geometry": {"coordinates":[-81.98358500000001,34.997023],"type":"Point"}
 }

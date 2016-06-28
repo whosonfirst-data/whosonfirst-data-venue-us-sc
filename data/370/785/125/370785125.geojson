@@ -2,13 +2,14 @@
   "id": 370785125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.055838,33.904542,-79.055838,33.904542",
     "geom:latitude":33.904542,
     "geom:longitude":-79.055838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4413 Shanlee Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370785125,
-    "wof:lastmodified":1449031894,
+    "wof:lastmodified":1467082360,
     "wof:name":"Meggs Roofing",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.055838,33.904542,-79.055838,33.904542],
-  "geometry": {"coordinates":[-79.055838,33.904542],"type":"Point"}
+  "bbox": [
+    -79.055838,
+    33.904542,
+    -79.055838,
+    33.904542
+],
+  "geometry": {"coordinates":[-79.05583799999999,33.904542],"type":"Point"}
 }

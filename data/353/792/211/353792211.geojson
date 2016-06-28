@@ -2,13 +2,14 @@
   "id": 353792211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.120259,33.031009,-80.120259,33.031009",
     "geom:latitude":33.031009,
     "geom:longitude":-80.120259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Lancashire Rd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353792211,
-    "wof:lastmodified":1449018811,
+    "wof:lastmodified":1467082221,
     "wof:name":"Saturn Tours",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-80.120259,33.031009,-80.120259,33.031009],
+  "bbox": [
+    -80.120259,
+    33.031009,
+    -80.120259,
+    33.031009
+],
   "geometry": {"coordinates":[-80.120259,33.031009],"type":"Point"}
 }

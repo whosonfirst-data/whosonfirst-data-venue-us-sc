@@ -2,13 +2,14 @@
   "id": 370825343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.99743,34.908369,-80.99743,34.908369",
     "geom:latitude":34.908369,
     "geom:longitude":-80.99743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Porter Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370825343,
-    "wof:lastmodified":1449029200,
+    "wof:lastmodified":1467082301,
     "wof:name":"Boyd & Son",
     "wof:parent_id":85833915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.99743,34.908369,-80.99743,34.908369],
-  "geometry": {"coordinates":[-80.99743,34.908369],"type":"Point"}
+  "bbox": [
+    -80.99743,
+    34.908369,
+    -80.99743,
+    34.908369
+],
+  "geometry": {"coordinates":[-80.99742999999999,34.908369],"type":"Point"}
 }

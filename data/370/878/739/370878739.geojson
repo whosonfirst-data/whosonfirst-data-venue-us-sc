@@ -2,13 +2,14 @@
   "id": 370878739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.795702,34.791907,-82.795702,34.791907",
     "geom:latitude":34.791907,
     "geom:longitude":-82.795702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Sharon Dr",
     "sg:city":"Central",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370878739,
-    "wof:lastmodified":1449030850,
+    "wof:lastmodified":1467082337,
     "wof:name":"William Murphree",
     "wof:parent_id":85824489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.795702,34.791907,-82.795702,34.791907],
-  "geometry": {"coordinates":[-82.795702,34.791907],"type":"Point"}
+  "bbox": [
+    -82.795702,
+    34.791907,
+    -82.795702,
+    34.791907
+],
+  "geometry": {"coordinates":[-82.79570200000001,34.791907],"type":"Point"}
 }

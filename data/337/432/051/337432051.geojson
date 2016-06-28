@@ -2,13 +2,14 @@
   "id": 337432051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.843825,34.169387,-79.843825,34.169387",
     "geom:latitude":34.169387,
     "geom:longitude":-79.843825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3203 W Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337432051,
-    "wof:lastmodified":1449026914,
+    "wof:lastmodified":1467082264,
     "wof:name":"Neighbor Care Pharmacy",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.843825,34.169387,-79.843825,34.169387],
+  "bbox": [
+    -79.843825,
+    34.169387,
+    -79.843825,
+    34.169387
+],
   "geometry": {"coordinates":[-79.843825,34.169387],"type":"Point"}
 }

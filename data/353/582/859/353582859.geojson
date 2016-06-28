@@ -2,13 +2,14 @@
   "id": 353582859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.608713,34.838858,-82.608713,34.838858",
     "geom:latitude":34.838858,
     "geom:longitude":-82.608713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Whitmire Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353582859,
-    "wof:lastmodified":1449019637,
+    "wof:lastmodified":1467082238,
     "wof:name":"Easley Dialysis Ctr",
     "wof:parent_id":85832619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-82.608713,34.838858,-82.608713,34.838858],
-  "geometry": {"coordinates":[-82.608713,34.838858],"type":"Point"}
+  "bbox": [
+    -82.608713,
+    34.838858,
+    -82.608713,
+    34.838858
+],
+  "geometry": {"coordinates":[-82.60871299999999,34.838858],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185976921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.966958,34.916631,-80.966958,34.916631",
     "geom:latitude":34.916631,
     "geom:longitude":-80.966958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"479 E Springdale Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185976921,
-    "wof:lastmodified":1449007270,
+    "wof:lastmodified":1467082192,
     "wof:name":"Laminated Industries",
     "wof:parent_id":85858367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-80.966958,34.916631,-80.966958,34.916631],
-  "geometry": {"coordinates":[-80.966958,34.916631],"type":"Point"}
+  "bbox": [
+    -80.966958,
+    34.916631,
+    -80.966958,
+    34.916631
+],
+  "geometry": {"coordinates":[-80.96695800000001,34.916631],"type":"Point"}
 }

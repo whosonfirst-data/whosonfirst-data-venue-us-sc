@@ -2,13 +2,14 @@
   "id": 353855767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.330688,33.948925,-81.330688,33.948925",
     "geom:latitude":33.948925,
     "geom:longitude":-81.330688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 Calks Ferry Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353855767,
-    "wof:lastmodified":1449020122,
+    "wof:lastmodified":1467082248,
     "wof:name":"S & W Mulch",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.330688,33.948925,-81.330688,33.948925],
-  "geometry": {"coordinates":[-81.330688,33.948925],"type":"Point"}
+  "bbox": [
+    -81.330688,
+    33.948925,
+    -81.330688,
+    33.948925
+],
+  "geometry": {"coordinates":[-81.33068799999999,33.948925],"type":"Point"}
 }

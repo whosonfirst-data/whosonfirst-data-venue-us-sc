@@ -2,13 +2,14 @@
   "id": 353510061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.235733,33.981147,-81.235733,33.981147",
     "geom:latitude":33.981147,
     "geom:longitude":-81.235733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 E Main St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353510061,
-    "wof:lastmodified":1449019817,
+    "wof:lastmodified":1467082241,
     "wof:name":"Lexington County Public Def",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.235733,33.981147,-81.235733,33.981147],
+  "bbox": [
+    -81.235733,
+    33.981147,
+    -81.235733,
+    33.981147
+],
   "geometry": {"coordinates":[-81.235733,33.981147],"type":"Point"}
 }

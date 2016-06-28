@@ -2,13 +2,14 @@
   "id": 353575501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.696488,32.230717,-80.696488,32.230717",
     "geom:latitude":32.230717,
     "geom:longitude":-80.696488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Beach City Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353575501,
-    "wof:lastmodified":1449019013,
+    "wof:lastmodified":1467082225,
     "wof:name":"Environmental Graphics Inc",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.696488,32.230717,-80.696488,32.230717],
+  "bbox": [
+    -80.696488,
+    32.230717,
+    -80.696488,
+    32.230717
+],
   "geometry": {"coordinates":[-80.696488,32.230717],"type":"Point"}
 }

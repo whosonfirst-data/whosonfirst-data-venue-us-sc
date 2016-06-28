@@ -2,13 +2,14 @@
   "id": 370286713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.094529,33.937823,-81.094529,33.937823",
     "geom:latitude":33.937823,
     "geom:longitude":-81.094529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1861 Old Dunbar Rd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370286713,
-    "wof:lastmodified":1449029988,
+    "wof:lastmodified":1467082318,
     "wof:name":"B C James Auto Unloading Co",
     "wof:parent_id":85847855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "unloading"
     ]
 },
-  "bbox": [-81.094529,33.937823,-81.094529,33.937823],
-  "geometry": {"coordinates":[-81.094529,33.937823],"type":"Point"}
+  "bbox": [
+    -81.094529,
+    33.937823,
+    -81.094529,
+    33.937823
+],
+  "geometry": {"coordinates":[-81.09452899999999,33.937823],"type":"Point"}
 }

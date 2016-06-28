@@ -2,13 +2,14 @@
   "id": 370378911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.224907,32.948099,-80.224907,32.948099",
     "geom:latitude":32.948099,
     "geom:longitude":-80.224907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4206 Sweet Gum Dr",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370378911,
-    "wof:lastmodified":1449031365,
+    "wof:lastmodified":1467082348,
     "wof:name":"Fuentez Real Estate LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-80.224907,32.948099,-80.224907,32.948099],
+  "bbox": [
+    -80.224907,
+    32.948099,
+    -80.224907,
+    32.948099
+],
   "geometry": {"coordinates":[-80.224907,32.948099],"type":"Point"}
 }

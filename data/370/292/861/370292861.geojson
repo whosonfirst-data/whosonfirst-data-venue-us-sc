@@ -2,13 +2,14 @@
   "id": 370292861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.243165,34.921826,-82.243165,34.921826",
     "geom:latitude":34.921826,
     "geom:longitude":-82.243165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"842 S Buncombe Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370292861,
-    "wof:lastmodified":1449029373,
+    "wof:lastmodified":1467082304,
     "wof:name":"Anglertrek Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.243165,34.921826,-82.243165,34.921826],
+  "bbox": [
+    -82.243165,
+    34.921826,
+    -82.243165,
+    34.921826
+],
   "geometry": {"coordinates":[-82.243165,34.921826],"type":"Point"}
 }

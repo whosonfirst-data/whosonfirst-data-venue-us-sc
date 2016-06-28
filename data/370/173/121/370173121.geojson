@@ -2,13 +2,14 @@
   "id": 370173121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.330811,34.85555,-82.330811,34.85555",
     "geom:latitude":34.85555,
     "geom:longitude":-82.330811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Orchard Park Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370173121,
-    "wof:lastmodified":1449029744,
+    "wof:lastmodified":1467082312,
     "wof:name":"Vintner's Cellar",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [-82.330811,34.85555,-82.330811,34.85555],
+  "bbox": [
+    -82.330811,
+    34.85555,
+    -82.330811,
+    34.85555
+],
   "geometry": {"coordinates":[-82.330811,34.85555],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370546239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.547772,34.728263,-82.547772,34.728263",
     "geom:latitude":34.728263,
     "geom:longitude":-82.547772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Wren Ct",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370546239,
-    "wof:lastmodified":1449029058,
+    "wof:lastmodified":1467082297,
     "wof:name":"Shockley Construction",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-82.547772,34.728263,-82.547772,34.728263],
-  "geometry": {"coordinates":[-82.547772,34.728263],"type":"Point"}
+  "bbox": [
+    -82.547772,
+    34.728263,
+    -82.547772,
+    34.728263
+],
+  "geometry": {"coordinates":[-82.54777199999999,34.728263],"type":"Point"}
 }

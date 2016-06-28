@@ -2,13 +2,14 @@
   "id": 354061465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.400557,34.889787,-82.400557,34.889787",
     "geom:latitude":34.889787,
     "geom:longitude":-82.400557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3221 N Pleasantburg Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354061465,
-    "wof:lastmodified":1449067191,
+    "wof:lastmodified":1467082443,
     "wof:name":"Cherrydale Cinemas",
     "wof:parent_id":85825355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.400557,34.889787,-82.400557,34.889787],
-  "geometry": {"coordinates":[-82.400557,34.889787],"type":"Point"}
+  "bbox": [
+    -82.400557,
+    34.889787,
+    -82.400557,
+    34.889787
+],
+  "geometry": {"coordinates":[-82.40055700000001,34.889787],"type":"Point"}
 }

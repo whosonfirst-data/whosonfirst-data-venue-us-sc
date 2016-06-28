@@ -2,13 +2,14 @@
   "id": 370756495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.859132,33.938167,-78.859132,33.938167",
     "geom:latitude":33.938167,
     "geom:longitude":-78.859132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1867 Emery Rd",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370756495,
-    "wof:lastmodified":1449031102,
+    "wof:lastmodified":1467082343,
     "wof:name":"Cooke Supply",
     "wof:parent_id":85815435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-78.859132,33.938167,-78.859132,33.938167],
+  "bbox": [
+    -78.859132,
+    33.938167,
+    -78.859132,
+    33.938167
+],
   "geometry": {"coordinates":[-78.859132,33.938167],"type":"Point"}
 }

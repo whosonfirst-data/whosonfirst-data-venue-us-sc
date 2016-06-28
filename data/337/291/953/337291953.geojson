@@ -2,13 +2,14 @@
   "id": 337291953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.94456,32.796918,-79.94456,32.796918",
     "geom:latitude":32.796918,
     "geom:longitude":-79.94456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"670 King St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337291953,
-    "wof:lastmodified":1449027194,
+    "wof:lastmodified":1467082275,
     "wof:name":"VOA Crosstown Apartments",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-79.94456,32.796918,-79.94456,32.796918],
+  "bbox": [
+    -79.94456,
+    32.796918,
+    -79.94456,
+    32.796918
+],
   "geometry": {"coordinates":[-79.94456,32.796918],"type":"Point"}
 }

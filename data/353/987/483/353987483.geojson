@@ -2,13 +2,14 @@
   "id": 353987483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.940282,32.827688,-79.940282,32.827688",
     "geom:latitude":32.827688,
     "geom:longitude":-79.940282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Milford St",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353987483,
-    "wof:lastmodified":1449019683,
+    "wof:lastmodified":1467082239,
     "wof:name":"Shipyard River Terminals",
     "wof:parent_id":85836137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-79.940282,32.827688,-79.940282,32.827688],
+  "bbox": [
+    -79.940282,
+    32.827688,
+    -79.940282,
+    32.827688
+],
   "geometry": {"coordinates":[-79.940282,32.827688],"type":"Point"}
 }

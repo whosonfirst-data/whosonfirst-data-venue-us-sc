@@ -2,13 +2,14 @@
   "id": 370257821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.760872,33.87465,-79.760872,33.87465",
     "geom:latitude":33.87465,
     "geom:longitude":-79.760872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 S Ron McNair Blvd",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370257821,
-    "wof:lastmodified":1449030103,
+    "wof:lastmodified":1467082321,
     "wof:name":"Bradford's Custom Wheel & Tire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tire"
     ]
 },
-  "bbox": [-79.760872,33.87465,-79.760872,33.87465],
-  "geometry": {"coordinates":[-79.760872,33.87465],"type":"Point"}
+  "bbox": [
+    -79.760872,
+    33.87465,
+    -79.760872,
+    33.87465
+],
+  "geometry": {"coordinates":[-79.76087200000001,33.87465],"type":"Point"}
 }

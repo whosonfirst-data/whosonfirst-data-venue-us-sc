@@ -2,13 +2,14 @@
   "id": 169719897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.818694,33.755925,-78.818694,33.755925",
     "geom:latitude":33.755925,
     "geom:longitude":-78.818694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8121 Rourk St",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169719897,
-    "wof:lastmodified":1449033110,
+    "wof:lastmodified":1467082378,
     "wof:name":"Associated Medical Specialists",
     "wof:parent_id":85838439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.818694,33.755925,-78.818694,33.755925],
-  "geometry": {"coordinates":[-78.818694,33.755925],"type":"Point"}
+  "bbox": [
+    -78.818694,
+    33.755925,
+    -78.818694,
+    33.755925
+],
+  "geometry": {"coordinates":[-78.81869399999999,33.755925],"type":"Point"}
 }

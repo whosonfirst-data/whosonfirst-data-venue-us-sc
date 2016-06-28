@@ -2,13 +2,14 @@
   "id": 354163519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.858854,32.269187,-80.858854,32.269187",
     "geom:latitude":32.269187,
     "geom:longitude":-80.858854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Oak Forest Rd",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354163519,
-    "wof:lastmodified":1449067648,
+    "wof:lastmodified":1467082454,
     "wof:name":"Global Family Medicine",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.858854,32.269187,-80.858854,32.269187],
-  "geometry": {"coordinates":[-80.858854,32.269187],"type":"Point"}
+  "bbox": [
+    -80.858854,
+    32.269187,
+    -80.858854,
+    32.269187
+],
+  "geometry": {"coordinates":[-80.85885399999999,32.269187],"type":"Point"}
 }

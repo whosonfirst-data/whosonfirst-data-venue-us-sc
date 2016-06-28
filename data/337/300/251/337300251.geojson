@@ -2,13 +2,14 @@
   "id": 337300251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.337116,33.896922,-80.337116,33.896922",
     "geom:latitude":33.896922,
     "geom:longitude":-80.337116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 E Red Bay Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337300251,
-    "wof:lastmodified":1449027407,
+    "wof:lastmodified":1467082283,
     "wof:name":"Monti Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.337116,33.896922,-80.337116,33.896922],
-  "geometry": {"coordinates":[-80.337116,33.896922],"type":"Point"}
+  "bbox": [
+    -80.337116,
+    33.896922,
+    -80.337116,
+    33.896922
+],
+  "geometry": {"coordinates":[-80.33711599999999,33.896922],"type":"Point"}
 }

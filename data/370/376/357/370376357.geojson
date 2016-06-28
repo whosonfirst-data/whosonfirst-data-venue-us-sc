@@ -2,13 +2,14 @@
   "id": 370376357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.248201,34.899279,-82.248201,34.899279",
     "geom:latitude":34.899279,
     "geom:longitude":-82.248201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Four Meadows Ln",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370376357,
-    "wof:lastmodified":1449030260,
+    "wof:lastmodified":1467082324,
     "wof:name":"Frontier Adjusters America Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.248201,34.899279,-82.248201,34.899279],
-  "geometry": {"coordinates":[-82.248201,34.899279],"type":"Point"}
+  "bbox": [
+    -82.248201,
+    34.899279,
+    -82.248201,
+    34.899279
+],
+  "geometry": {"coordinates":[-82.24820099999999,34.899279],"type":"Point"}
 }

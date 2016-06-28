@@ -2,13 +2,14 @@
   "id": 185810453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.409458,34.8728,-82.409458,34.8728",
     "geom:latitude":34.8728,
     "geom:longitude":-82.409458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Goldsmith St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185810453,
-    "wof:lastmodified":1449007083,
+    "wof:lastmodified":1467082189,
     "wof:name":"Pitts Garage",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engine"
     ]
 },
-  "bbox": [-82.409458,34.8728,-82.409458,34.8728],
+  "bbox": [
+    -82.409458,
+    34.8728,
+    -82.409458,
+    34.8728
+],
   "geometry": {"coordinates":[-82.409458,34.8728],"type":"Point"}
 }

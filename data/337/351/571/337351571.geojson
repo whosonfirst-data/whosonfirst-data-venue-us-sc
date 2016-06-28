@@ -2,13 +2,14 @@
   "id": 337351571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.972408,32.750846,-79.972408,32.750846",
     "geom:latitude":32.750846,
     "geom:longitude":-79.972408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"571 Folly Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337351571,
-    "wof:lastmodified":1449027622,
+    "wof:lastmodified":1467082291,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":85832547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.972408,32.750846,-79.972408,32.750846],
+  "bbox": [
+    -79.972408,
+    32.750846,
+    -79.972408,
+    32.750846
+],
   "geometry": {"coordinates":[-79.972408,32.750846],"type":"Point"}
 }

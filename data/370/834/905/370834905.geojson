@@ -2,13 +2,14 @@
   "id": 370834905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.902979,35.027991,-81.902979,35.027991",
     "geom:latitude":35.027991,
     "geom:longitude":-81.902979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 Fairway Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370834905,
-    "wof:lastmodified":1449029403,
+    "wof:lastmodified":1467082305,
     "wof:name":"Fixed Point Inc",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-81.902979,35.027991,-81.902979,35.027991],
+  "bbox": [
+    -81.902979,
+    35.027991,
+    -81.902979,
+    35.027991
+],
   "geometry": {"coordinates":[-81.902979,35.027991],"type":"Point"}
 }

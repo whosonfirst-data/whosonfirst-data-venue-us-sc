@@ -2,13 +2,14 @@
   "id": 370940251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.104948,34.953072,-82.104948,34.953072",
     "geom:latitude":34.953072,
     "geom:longitude":-82.104948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Craft St",
     "sg:city":"Wellford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370940251,
-    "wof:lastmodified":1449029920,
+    "wof:lastmodified":1467082316,
     "wof:name":"Monarch Place Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.104948,34.953072,-82.104948,34.953072],
-  "geometry": {"coordinates":[-82.104948,34.953072],"type":"Point"}
+  "bbox": [
+    -82.104948,
+    34.953072,
+    -82.104948,
+    34.953072
+],
+  "geometry": {"coordinates":[-82.10494799999999,34.953072],"type":"Point"}
 }

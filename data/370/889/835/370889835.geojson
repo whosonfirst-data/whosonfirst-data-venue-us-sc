@@ -2,13 +2,14 @@
   "id": 370889835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.655422,34.195975,-79.655422,34.195975",
     "geom:latitude":34.195975,
     "geom:longitude":-79.655422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Francis Marion Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":370889835,
-    "wof:lastmodified":1449029004,
+    "wof:lastmodified":1467082296,
     "wof:name":"Concentric Project Controllers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-79.655422,34.195975,-79.655422,34.195975],
+  "bbox": [
+    -79.655422,
+    34.195975,
+    -79.655422,
+    34.195975
+],
   "geometry": {"coordinates":[-79.655422,34.195975],"type":"Point"}
 }

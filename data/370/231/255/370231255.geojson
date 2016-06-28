@@ -2,13 +2,14 @@
   "id": 370231255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.302121,34.780359,-82.302121,34.780359",
     "geom:latitude":34.780359,
     "geom:longitude":-82.302121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 E Butler Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370231255,
-    "wof:lastmodified":1449030812,
+    "wof:lastmodified":1467082336,
     "wof:name":"Mauldin Clinic",
     "wof:parent_id":85851381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.302121,34.780359,-82.302121,34.780359],
+  "bbox": [
+    -82.302121,
+    34.780359,
+    -82.302121,
+    34.780359
+],
   "geometry": {"coordinates":[-82.302121,34.780359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353666275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.857039,33.52321,-80.857039,33.52321",
     "geom:latitude":33.52321,
     "geom:longitude":-80.857039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 Village Park Dr",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353666275,
-    "wof:lastmodified":1449019190,
+    "wof:lastmodified":1467082229,
     "wof:name":"Whitley Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.857039,33.52321,-80.857039,33.52321],
+  "bbox": [
+    -80.857039,
+    33.52321,
+    -80.857039,
+    33.52321
+],
   "geometry": {"coordinates":[-80.857039,33.52321],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337582495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.904395,34.580809,-80.904395,34.580809",
     "geom:latitude":34.580809,
     "geom:longitude":-80.904395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Chester Ave",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337582495,
-    "wof:lastmodified":1449027385,
+    "wof:lastmodified":1467082282,
     "wof:name":"Trilogy Designs",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [-80.904395,34.580809,-80.904395,34.580809],
-  "geometry": {"coordinates":[-80.904395,34.580809],"type":"Point"}
+  "bbox": [
+    -80.904395,
+    34.580809,
+    -80.904395,
+    34.580809
+],
+  "geometry": {"coordinates":[-80.90439499999999,34.580809],"type":"Point"}
 }

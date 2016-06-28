@@ -2,13 +2,14 @@
   "id": 337330369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.021598,34.010957,-81.021598,34.010957",
     "geom:latitude":34.010957,
     "geom:longitude":-81.021598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 Taylor St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337330369,
-    "wof:lastmodified":1449027358,
+    "wof:lastmodified":1467082281,
     "wof:name":"Bert's Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.021598,34.010957,-81.021598,34.010957],
+  "bbox": [
+    -81.021598,
+    34.010957,
+    -81.021598,
+    34.010957
+],
   "geometry": {"coordinates":[-81.021598,34.010957],"type":"Point"}
 }

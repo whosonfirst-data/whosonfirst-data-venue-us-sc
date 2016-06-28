@@ -2,13 +2,14 @@
   "id": 370348771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.58203,34.542184,-80.58203,34.542184",
     "geom:latitude":34.542184,
     "geom:longitude":-80.58203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S Hampton St",
     "sg:city":"Kershaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370348771,
-    "wof:lastmodified":1449029217,
+    "wof:lastmodified":1467082301,
     "wof:name":"Executive Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.58203,34.542184,-80.58203,34.542184],
+  "bbox": [
+    -80.58203,
+    34.542184,
+    -80.58203,
+    34.542184
+],
   "geometry": {"coordinates":[-80.58203,34.542184],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186026619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.996592,33.719741,-78.996592,33.719741",
     "geom:latitude":33.719741,
     "geom:longitude":-78.996592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2775 Canvasback Trl",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186026619,
-    "wof:lastmodified":1449051950,
+    "wof:lastmodified":1467082403,
     "wof:name":"East Coast Fence Co",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.996592,33.719741,-78.996592,33.719741],
-  "geometry": {"coordinates":[-78.996592,33.719741],"type":"Point"}
+  "bbox": [
+    -78.996592,
+    33.719741,
+    -78.996592,
+    33.719741
+],
+  "geometry": {"coordinates":[-78.99659200000001,33.719741],"type":"Point"}
 }

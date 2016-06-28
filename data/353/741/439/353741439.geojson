@@ -2,13 +2,14 @@
   "id": 353741439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.362796,33.255458,-81.362796,33.255458",
     "geom:latitude":33.255458,
     "geom:longitude":-81.362796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Wren St",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353741439,
-    "wof:lastmodified":1449018381,
+    "wof:lastmodified":1467082212,
     "wof:name":"Palmetto Internal Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.362796,33.255458,-81.362796,33.255458],
+  "bbox": [
+    -81.362796,
+    33.255458,
+    -81.362796,
+    33.255458
+],
   "geometry": {"coordinates":[-81.362796,33.255458],"type":"Point"}
 }

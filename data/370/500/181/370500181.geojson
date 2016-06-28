@@ -2,13 +2,14 @@
   "id": 370500181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.820783,35.114784,-81.820783,35.114784",
     "geom:latitude":35.114784,
     "geom:longitude":-81.820783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3126 Battleground Rd",
     "sg:city":"Cowpens",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370500181,
-    "wof:lastmodified":1449029945,
+    "wof:lastmodified":1467082317,
     "wof:name":"Prices Parts & Farm Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-81.820783,35.114784,-81.820783,35.114784],
-  "geometry": {"coordinates":[-81.820783,35.114784],"type":"Point"}
+  "bbox": [
+    -81.820783,
+    35.114784,
+    -81.820783,
+    35.114784
+],
+  "geometry": {"coordinates":[-81.82078300000001,35.114784],"type":"Point"}
 }

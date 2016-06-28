@@ -2,13 +2,14 @@
   "id": 353867109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.341745,33.929448,-80.341745,33.929448",
     "geom:latitude":33.929448,
     "geom:longitude":-80.341745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 N Main St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":353867109,
-    "wof:lastmodified":1449019353,
+    "wof:lastmodified":1467082232,
     "wof:name":"Sumter Gallery Of Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.341745,33.929448,-80.341745,33.929448],
+  "bbox": [
+    -80.341745,
+    33.929448,
+    -80.341745,
+    33.929448
+],
   "geometry": {"coordinates":[-80.341745,33.929448],"type":"Point"}
 }

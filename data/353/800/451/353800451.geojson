@@ -2,13 +2,14 @@
   "id": 353800451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.003902,32.798348,-80.003902,32.798348",
     "geom:latitude":32.798348,
     "geom:longitude":-80.003902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Ashley River Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353800451,
-    "wof:lastmodified":1449018461,
+    "wof:lastmodified":1467082214,
     "wof:name":"New South Mortgage Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-80.003902,32.798348,-80.003902,32.798348],
+  "bbox": [
+    -80.003902,
+    32.798348,
+    -80.003902,
+    32.798348
+],
   "geometry": {"coordinates":[-80.003902,32.798348],"type":"Point"}
 }

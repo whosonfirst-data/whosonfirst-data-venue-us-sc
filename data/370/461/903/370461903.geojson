@@ -2,13 +2,14 @@
   "id": 370461903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.229491,34.955703,-82.229491,34.955703",
     "geom:latitude":34.955703,
     "geom:longitude":-82.229491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 N Main St",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370461903,
-    "wof:lastmodified":1449030358,
+    "wof:lastmodified":1467082326,
     "wof:name":"Motolinx LLC",
     "wof:parent_id":85853715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.229491,34.955703,-82.229491,34.955703],
+  "bbox": [
+    -82.229491,
+    34.955703,
+    -82.229491,
+    34.955703
+],
   "geometry": {"coordinates":[-82.229491,34.955703],"type":"Point"}
 }

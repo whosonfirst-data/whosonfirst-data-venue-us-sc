@@ -2,13 +2,14 @@
   "id": 337365003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.750644,33.874656,-79.750644,33.874656",
     "geom:latitude":33.874656,
     "geom:longitude":-79.750644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"268 N Church St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337365003,
-    "wof:lastmodified":1449027056,
+    "wof:lastmodified":1467082269,
     "wof:name":"Bobby's Auto Repair",
     "wof:parent_id":85827939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-79.750644,33.874656,-79.750644,33.874656],
-  "geometry": {"coordinates":[-79.750644,33.874656],"type":"Point"}
+  "bbox": [
+    -79.750644,
+    33.874656,
+    -79.750644,
+    33.874656
+],
+  "geometry": {"coordinates":[-79.75064399999999,33.874656],"type":"Point"}
 }

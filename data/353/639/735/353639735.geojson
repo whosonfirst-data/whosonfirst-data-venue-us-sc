@@ -2,13 +2,14 @@
   "id": 353639735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.069561,32.922029,-80.069561,32.922029",
     "geom:latitude":32.922029,
     "geom:longitude":-80.069561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3349 Business Cir",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353639735,
-    "wof:lastmodified":1449020779,
+    "wof:lastmodified":1467082261,
     "wof:name":"Southeast Associated Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "conveying"
     ]
 },
-  "bbox": [-80.069561,32.922029,-80.069561,32.922029],
-  "geometry": {"coordinates":[-80.069561,32.922029],"type":"Point"}
+  "bbox": [
+    -80.069561,
+    32.922029,
+    -80.069561,
+    32.922029
+],
+  "geometry": {"coordinates":[-80.06956099999999,32.922029],"type":"Point"}
 }

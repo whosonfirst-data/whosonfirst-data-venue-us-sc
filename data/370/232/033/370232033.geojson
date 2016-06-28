@@ -2,13 +2,14 @@
   "id": 370232033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.136825,33.42517,-80.136825,33.42517",
     "geom:latitude":33.42517,
     "geom:longitude":-80.136825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1872 Pleasant Ln",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370232033,
-    "wof:lastmodified":1449030188,
+    "wof:lastmodified":1467082323,
     "wof:name":"S & J Inc",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.136825,33.42517,-80.136825,33.42517],
+  "bbox": [
+    -80.136825,
+    33.42517,
+    -80.136825,
+    33.42517
+],
   "geometry": {"coordinates":[-80.136825,33.42517],"type":"Point"}
 }

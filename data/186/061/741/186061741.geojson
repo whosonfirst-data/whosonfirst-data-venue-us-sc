@@ -2,13 +2,14 @@
   "id": 186061741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.695848,32.441419,-80.695848,32.441419",
     "geom:latitude":32.441419,
     "geom:longitude":-80.695848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 Boundary St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186061741,
-    "wof:lastmodified":1449052292,
+    "wof:lastmodified":1467082406,
     "wof:name":"Palmetto Shores Property Mgmt",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-80.695848,32.441419,-80.695848,32.441419],
+  "bbox": [
+    -80.695848,
+    32.441419,
+    -80.695848,
+    32.441419
+],
   "geometry": {"coordinates":[-80.695848,32.441419],"type":"Point"}
 }

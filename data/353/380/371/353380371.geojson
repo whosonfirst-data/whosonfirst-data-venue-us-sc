@@ -2,13 +2,14 @@
   "id": 353380371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.423015,33.374191,-80.423015,33.374191",
     "geom:latitude":33.374191,
     "geom:longitude":-80.423015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1931 Camden Rd",
     "sg:city":"Holly Hill",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353380371,
-    "wof:lastmodified":1449019439,
+    "wof:lastmodified":1467082234,
     "wof:name":"Mother Nature Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.423015,33.374191,-80.423015,33.374191],
-  "geometry": {"coordinates":[-80.423015,33.374191],"type":"Point"}
+  "bbox": [
+    -80.423015,
+    33.374191,
+    -80.423015,
+    33.374191
+],
+  "geometry": {"coordinates":[-80.42301500000001,33.374191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354418609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.572815,34.890174,-82.572815,34.890174",
     "geom:latitude":34.890174,
     "geom:longitude":-82.572815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2875 Farrs Bridge Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354418609,
-    "wof:lastmodified":1449067270,
+    "wof:lastmodified":1467082445,
     "wof:name":"Eagle Heights Baptist Church",
     "wof:parent_id":85832619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.572815,34.890174,-82.572815,34.890174],
-  "geometry": {"coordinates":[-82.572815,34.890174],"type":"Point"}
+  "bbox": [
+    -82.572815,
+    34.890174,
+    -82.572815,
+    34.890174
+],
+  "geometry": {"coordinates":[-82.57281500000001,34.890174],"type":"Point"}
 }

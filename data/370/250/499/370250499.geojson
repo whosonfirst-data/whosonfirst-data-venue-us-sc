@@ -2,13 +2,14 @@
   "id": 370250499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.171123,35.110502,-81.171123,35.110502",
     "geom:latitude":35.110502,
     "geom:longitude":-81.171123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2048 State Hwy 557",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370250499,
-    "wof:lastmodified":1449030999,
+    "wof:lastmodified":1467082340,
     "wof:name":"Express Mart",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "store"
     ]
 },
-  "bbox": [-81.171123,35.110502,-81.171123,35.110502],
-  "geometry": {"coordinates":[-81.171123,35.110502],"type":"Point"}
+  "bbox": [
+    -81.171123,
+    35.110502,
+    -81.171123,
+    35.110502
+],
+  "geometry": {"coordinates":[-81.17112299999999,35.110502],"type":"Point"}
 }

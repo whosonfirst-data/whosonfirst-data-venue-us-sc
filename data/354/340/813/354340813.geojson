@@ -2,13 +2,14 @@
   "id": 354340813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.647693,34.84287,-82.647693,34.84287",
     "geom:latitude":34.84287,
     "geom:longitude":-82.647693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Gentry Memorial Hwy",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354340813,
-    "wof:lastmodified":1449067250,
+    "wof:lastmodified":1467082445,
     "wof:name":"Options",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.647693,34.84287,-82.647693,34.84287],
+  "bbox": [
+    -82.647693,
+    34.84287,
+    -82.647693,
+    34.84287
+],
   "geometry": {"coordinates":[-82.647693,34.84287],"type":"Point"}
 }

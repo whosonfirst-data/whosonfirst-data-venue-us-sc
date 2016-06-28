@@ -2,13 +2,14 @@
   "id": 354000073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.227403,35.117659,-81.227403,35.117659",
     "geom:latitude":35.117659,
     "geom:longitude":-81.227403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Shady Ln",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354000073,
-    "wof:lastmodified":1449066200,
+    "wof:lastmodified":1467082421,
     "wof:name":"Spain Construction",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-81.227403,35.117659,-81.227403,35.117659],
+  "bbox": [
+    -81.227403,
+    35.117659,
+    -81.227403,
+    35.117659
+],
   "geometry": {"coordinates":[-81.227403,35.117659],"type":"Point"}
 }

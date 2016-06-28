@@ -2,13 +2,14 @@
   "id": 185931861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.575218,33.180622,-80.575218,33.180622",
     "geom:latitude":33.180622,
     "geom:longitude":-80.575218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 S Parler Ave",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185931861,
-    "wof:lastmodified":1449008074,
+    "wof:lastmodified":1467082205,
     "wof:name":"Smith's Auction & Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.575218,33.180622,-80.575218,33.180622],
-  "geometry": {"coordinates":[-80.575218,33.180622],"type":"Point"}
+  "bbox": [
+    -80.575218,
+    33.180622,
+    -80.575218,
+    33.180622
+],
+  "geometry": {"coordinates":[-80.57521800000001,33.180622],"type":"Point"}
 }

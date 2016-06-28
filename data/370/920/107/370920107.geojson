@@ -2,13 +2,14 @@
   "id": 370920107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.642738,34.682052,-81.642738,34.682052",
     "geom:latitude":34.682052,
     "geom:longitude":-81.642738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Airport Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370920107,
-    "wof:lastmodified":1449031715,
+    "wof:lastmodified":1467082357,
     "wof:name":"Union County Airport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.642738,34.682052,-81.642738,34.682052],
-  "geometry": {"coordinates":[-81.642738,34.682052],"type":"Point"}
+  "bbox": [
+    -81.642738,
+    34.682052,
+    -81.642738,
+    34.682052
+],
+  "geometry": {"coordinates":[-81.64273799999999,34.682052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169726209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.39152,34.819415,-82.39152,34.819415",
     "geom:latitude":34.819415,
     "geom:longitude":-82.39152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 W Augusta Pl",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169726209,
-    "wof:lastmodified":1449034955,
+    "wof:lastmodified":1467082384,
     "wof:name":"David P Reese MD",
     "wof:parent_id":85832615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.39152,34.819415,-82.39152,34.819415],
+  "bbox": [
+    -82.39152,
+    34.819415,
+    -82.39152,
+    34.819415
+],
   "geometry": {"coordinates":[-82.39152,34.819415],"type":"Point"}
 }

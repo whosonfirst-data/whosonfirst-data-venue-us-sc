@@ -2,13 +2,14 @@
   "id": 370237903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.019651,34.722834,-81.019651,34.722834",
     "geom:latitude":34.722834,
     "geom:longitude":-81.019651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 N Main St",
     "sg:city":"Richburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370237903,
-    "wof:lastmodified":1449029147,
+    "wof:lastmodified":1467082300,
     "wof:name":"Ophthalmic Research Svc",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.019651,34.722834,-81.019651,34.722834],
+  "bbox": [
+    -81.019651,
+    34.722834,
+    -81.019651,
+    34.722834
+],
   "geometry": {"coordinates":[-81.019651,34.722834],"type":"Point"}
 }

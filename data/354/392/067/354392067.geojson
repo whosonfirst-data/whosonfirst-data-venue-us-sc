@@ -2,13 +2,14 @@
   "id": 354392067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.004891,33.987351,-81.004891,33.987351",
     "geom:latitude":33.987351,
     "geom:longitude":-81.004891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2769 Rosewood Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354392067,
-    "wof:lastmodified":1449067297,
+    "wof:lastmodified":1467082446,
     "wof:name":"LA T Da",
     "wof:parent_id":85826029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-81.004891,33.987351,-81.004891,33.987351],
+  "bbox": [
+    -81.004891,
+    33.987351,
+    -81.004891,
+    33.987351
+],
   "geometry": {"coordinates":[-81.004891,33.987351],"type":"Point"}
 }

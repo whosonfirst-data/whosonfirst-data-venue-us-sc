@@ -2,13 +2,14 @@
   "id": 337302821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.146622,32.785517,-80.146622,32.785517",
     "geom:latitude":32.785517,
     "geom:longitude":-80.146622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4246 Savannah Hwy",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337302821,
-    "wof:lastmodified":1449027215,
+    "wof:lastmodified":1467082276,
     "wof:name":"Federation Of Southern Coop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cooperative"
     ]
 },
-  "bbox": [-80.146622,32.785517,-80.146622,32.785517],
-  "geometry": {"coordinates":[-80.146622,32.785517],"type":"Point"}
+  "bbox": [
+    -80.146622,
+    32.785517,
+    -80.146622,
+    32.785517
+],
+  "geometry": {"coordinates":[-80.14662199999999,32.785517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353925507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.324661,34.845963,-82.324661,34.845963",
     "geom:latitude":34.845963,
     "geom:longitude":-82.324661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 Congaree Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353925507,
-    "wof:lastmodified":1449018283,
+    "wof:lastmodified":1467082210,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85829925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.324661,34.845963,-82.324661,34.845963],
-  "geometry": {"coordinates":[-82.324661,34.845963],"type":"Point"}
+  "bbox": [
+    -82.324661,
+    34.845963,
+    -82.324661,
+    34.845963
+],
+  "geometry": {"coordinates":[-82.32466100000001,34.845963],"type":"Point"}
 }

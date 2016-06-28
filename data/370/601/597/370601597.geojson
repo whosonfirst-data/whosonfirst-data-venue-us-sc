@@ -2,13 +2,14 @@
   "id": 370601597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.462151,33.948729,-80.462151,33.948729",
     "geom:latitude":33.948729,
     "geom:longitude":-80.462151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Furman Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370601597,
-    "wof:lastmodified":1449030611,
+    "wof:lastmodified":1467082332,
     "wof:name":"Home Repair & Organizers",
     "wof:parent_id":85848059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.462151,33.948729,-80.462151,33.948729],
-  "geometry": {"coordinates":[-80.462151,33.948729],"type":"Point"}
+  "bbox": [
+    -80.462151,
+    33.948729,
+    -80.462151,
+    33.948729
+],
+  "geometry": {"coordinates":[-80.46215100000001,33.948729],"type":"Point"}
 }

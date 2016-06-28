@@ -2,13 +2,14 @@
   "id": 353827707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.157355,32.581894,-80.157355,32.581894",
     "geom:latitude":32.581894,
     "geom:longitude":-80.157355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 Marsh Haven",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353827707,
-    "wof:lastmodified":1449019170,
+    "wof:lastmodified":1467082228,
     "wof:name":"Reliable Property Management",
     "wof:parent_id":85809109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-80.157355,32.581894,-80.157355,32.581894],
+  "bbox": [
+    -80.157355,
+    32.581894,
+    -80.157355,
+    32.581894
+],
   "geometry": {"coordinates":[-80.157355,32.581894],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370586811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.799663,34.22993,-79.799663,34.22993",
     "geom:latitude":34.22993,
     "geom:longitude":-79.799663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 W Lucas St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370586811,
-    "wof:lastmodified":1449032087,
+    "wof:lastmodified":1467082365,
     "wof:name":"Center 337",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-79.799663,34.22993,-79.799663,34.22993],
+  "bbox": [
+    -79.799663,
+    34.22993,
+    -79.799663,
+    34.22993
+],
   "geometry": {"coordinates":[-79.799663,34.22993],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354114751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.339284,33.895612,-80.339284,33.895612",
     "geom:latitude":33.895612,
     "geom:longitude":-80.339284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Pocalla Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354114751,
-    "wof:lastmodified":1449066631,
+    "wof:lastmodified":1467082430,
     "wof:name":"S & W Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.339284,33.895612,-80.339284,33.895612],
-  "geometry": {"coordinates":[-80.339284,33.895612],"type":"Point"}
+  "bbox": [
+    -80.339284,
+    33.895612,
+    -80.339284,
+    33.895612
+],
+  "geometry": {"coordinates":[-80.33928400000001,33.895612],"type":"Point"}
 }

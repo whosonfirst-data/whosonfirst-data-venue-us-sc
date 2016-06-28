@@ -2,13 +2,14 @@
   "id": 354407465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.349372,33.914518,-80.349372,33.914518",
     "geom:latitude":33.914518,
     "geom:longitude":-80.349372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Dingle St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354407465,
-    "wof:lastmodified":1449066893,
+    "wof:lastmodified":1467082436,
     "wof:name":"Church Of Good Shepherd",
     "wof:parent_id":85850119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.349372,33.914518,-80.349372,33.914518],
+  "bbox": [
+    -80.349372,
+    33.914518,
+    -80.349372,
+    33.914518
+],
   "geometry": {"coordinates":[-80.349372,33.914518],"type":"Point"}
 }

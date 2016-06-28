@@ -2,13 +2,14 @@
   "id": 353748227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.016634,32.967785,-80.016634,32.967785",
     "geom:latitude":32.967785,
     "geom:longitude":-80.016634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Crystal Springs Dr",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353748227,
-    "wof:lastmodified":1449020162,
+    "wof:lastmodified":1467082249,
     "wof:name":"Tile Rite",
     "wof:parent_id":85823911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.016634,32.967785,-80.016634,32.967785],
+  "bbox": [
+    -80.016634,
+    32.967785,
+    -80.016634,
+    32.967785
+],
   "geometry": {"coordinates":[-80.016634,32.967785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337374263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.723756,32.215558,-80.723756,32.215558",
     "geom:latitude":32.215558,
     "geom:longitude":-80.723756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 Main St",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337374263,
-    "wof:lastmodified":1449027293,
+    "wof:lastmodified":1467082278,
     "wof:name":"Classic Kitchens & Renovations",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.723756,32.215558,-80.723756,32.215558],
-  "geometry": {"coordinates":[-80.723756,32.215558],"type":"Point"}
+  "bbox": [
+    -80.723756,
+    32.215558,
+    -80.723756,
+    32.215558
+],
+  "geometry": {"coordinates":[-80.72375599999999,32.215558],"type":"Point"}
 }

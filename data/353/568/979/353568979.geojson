@@ -2,13 +2,14 @@
   "id": 353568979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.780947,32.161691,-80.780947,32.161691",
     "geom:latitude":32.161691,
     "geom:longitude":-80.780947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Sand Fiddler Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353568979,
-    "wof:lastmodified":1449018194,
+    "wof:lastmodified":1467082208,
     "wof:name":"Yellow Dog LLC",
     "wof:parent_id":85830025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "design"
     ]
 },
-  "bbox": [-80.780947,32.161691,-80.780947,32.161691],
+  "bbox": [
+    -80.780947,
+    32.161691,
+    -80.780947,
+    32.161691
+],
   "geometry": {"coordinates":[-80.780947,32.161691],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337422597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.173398,34.690405,-81.173398,34.690405",
     "geom:latitude":34.690405,
     "geom:longitude":-81.173398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 Briarcliff Cir",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337422597,
-    "wof:lastmodified":1449026995,
+    "wof:lastmodified":1467082267,
     "wof:name":"Catawba Communications Svc",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-81.173398,34.690405,-81.173398,34.690405],
-  "geometry": {"coordinates":[-81.173398,34.690405],"type":"Point"}
+  "bbox": [
+    -81.173398,
+    34.690405,
+    -81.173398,
+    34.690405
+],
+  "geometry": {"coordinates":[-81.17339800000001,34.690405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370720045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.403339,34.856623,-82.403339,34.856623",
     "geom:latitude":34.856623,
     "geom:longitude":-82.403339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Buncombe St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370720045,
-    "wof:lastmodified":1449029903,
+    "wof:lastmodified":1467082316,
     "wof:name":"Castle The Window People",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-82.403339,34.856623,-82.403339,34.856623],
+  "bbox": [
+    -82.403339,
+    34.856623,
+    -82.403339,
+    34.856623
+],
   "geometry": {"coordinates":[-82.403339,34.856623],"type":"Point"}
 }

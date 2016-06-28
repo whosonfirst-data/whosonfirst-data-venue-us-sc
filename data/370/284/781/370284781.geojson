@@ -2,13 +2,14 @@
   "id": 370284781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.284024,33.918584,-82.284024,33.918584",
     "geom:latitude":33.918584,
     "geom:longitude":-82.284024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 E Gold St",
     "sg:city":"Mc Cormick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370284781,
-    "wof:lastmodified":1449031187,
+    "wof:lastmodified":1467082344,
     "wof:name":"Mc Cormick Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.284024,33.918584,-82.284024,33.918584],
+  "bbox": [
+    -82.284024,
+    33.918584,
+    -82.284024,
+    33.918584
+],
   "geometry": {"coordinates":[-82.284024,33.918584],"type":"Point"}
 }

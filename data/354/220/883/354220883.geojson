@@ -2,13 +2,14 @@
   "id": 354220883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.003631,33.19255,-80.003631,33.19255",
     "geom:latitude":33.19255,
     "geom:longitude":-80.003631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 E Main St",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354220883,
-    "wof:lastmodified":1449067615,
+    "wof:lastmodified":1467082453,
     "wof:name":"Rice Hope Flrcvg & Interiors",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.003631,33.19255,-80.003631,33.19255],
+  "bbox": [
+    -80.003631,
+    33.19255,
+    -80.003631,
+    33.19255
+],
   "geometry": {"coordinates":[-80.003631,33.19255],"type":"Point"}
 }

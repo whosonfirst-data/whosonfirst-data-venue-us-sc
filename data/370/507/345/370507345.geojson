@@ -2,13 +2,14 @@
   "id": 370507345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.846093,33.47086,-80.846093,33.47086",
     "geom:latitude":33.47086,
     "geom:longitude":-80.846093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 Charleston Hwy",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370507345,
-    "wof:lastmodified":1449030822,
+    "wof:lastmodified":1467082336,
     "wof:name":"Engineering District Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.846093,33.47086,-80.846093,33.47086],
+  "bbox": [
+    -80.846093,
+    33.47086,
+    -80.846093,
+    33.47086
+],
   "geometry": {"coordinates":[-80.846093,33.47086],"type":"Point"}
 }

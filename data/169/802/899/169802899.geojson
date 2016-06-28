@@ -2,13 +2,14 @@
   "id": 169802899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.89091,34.056139,-78.89091,34.056139",
     "geom:latitude":34.056139,
     "geom:longitude":-78.89091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3997 Meeting St",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169802899,
-    "wof:lastmodified":1449035343,
+    "wof:lastmodified":1467082386,
     "wof:name":"Gateway Drug Store Inc Nights",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.89091,34.056139,-78.89091,34.056139],
-  "geometry": {"coordinates":[-78.89091,34.056139],"type":"Point"}
+  "bbox": [
+    -78.89091,
+    34.056139,
+    -78.89091,
+    34.056139
+],
+  "geometry": {"coordinates":[-78.89091000000001,34.056139],"type":"Point"}
 }

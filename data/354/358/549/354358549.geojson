@@ -2,13 +2,14 @@
   "id": 354358549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.001931,32.853832,-80.001931,32.853832",
     "geom:latitude":32.853832,
     "geom:longitude":-80.001931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4142 Dorchester Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354358549,
-    "wof:lastmodified":1449066637,
+    "wof:lastmodified":1467082431,
     "wof:name":"Darby Development Co Inc",
     "wof:parent_id":85807225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-80.001931,32.853832,-80.001931,32.853832],
+  "bbox": [
+    -80.001931,
+    32.853832,
+    -80.001931,
+    32.853832
+],
   "geometry": {"coordinates":[-80.001931,32.853832],"type":"Point"}
 }

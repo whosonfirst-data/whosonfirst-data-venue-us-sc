@@ -2,13 +2,14 @@
   "id": 354201447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.075789,33.987187,-79.075789,33.987187",
     "geom:latitude":33.987187,
     "geom:longitude":-79.075789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3786 Valley Forge Rd",
     "sg:city":"Aynor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354201447,
-    "wof:lastmodified":1449067439,
+    "wof:lastmodified":1467082449,
     "wof:name":"Jones Dolphus Construction",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.075789,33.987187,-79.075789,33.987187],
+  "bbox": [
+    -79.075789,
+    33.987187,
+    -79.075789,
+    33.987187
+],
   "geometry": {"coordinates":[-79.075789,33.987187],"type":"Point"}
 }

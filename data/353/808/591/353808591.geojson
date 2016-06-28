@@ -2,13 +2,14 @@
   "id": 353808591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.568768,33.192384,-80.568768,33.192384",
     "geom:latitude":33.192384,
     "geom:longitude":-80.568768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 N Parler Ave",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353808591,
-    "wof:lastmodified":1449018362,
+    "wof:lastmodified":1467082212,
     "wof:name":"Realty Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.568768,33.192384,-80.568768,33.192384],
-  "geometry": {"coordinates":[-80.568768,33.192384],"type":"Point"}
+  "bbox": [
+    -80.568768,
+    33.192384,
+    -80.568768,
+    33.192384
+],
+  "geometry": {"coordinates":[-80.56876800000001,33.192384],"type":"Point"}
 }

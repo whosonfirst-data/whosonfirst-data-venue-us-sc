@@ -2,13 +2,14 @@
   "id": 186071241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.981801,34.99848,-81.981801,34.99848",
     "geom:latitude":34.99848,
     "geom:longitude":-81.981801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Pepperidge Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186071241,
-    "wof:lastmodified":1449052059,
+    "wof:lastmodified":1467082404,
     "wof:name":"One Fine Stop Inc",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-81.981801,34.99848,-81.981801,34.99848],
+  "bbox": [
+    -81.981801,
+    34.99848,
+    -81.981801,
+    34.99848
+],
   "geometry": {"coordinates":[-81.981801,34.99848],"type":"Point"}
 }

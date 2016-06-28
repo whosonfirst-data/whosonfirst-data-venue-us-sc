@@ -2,13 +2,14 @@
   "id": 354144225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.810473,34.185683,-80.810473,34.185683",
     "geom:latitude":34.185683,
     "geom:longitude":-80.810473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1238 Pawlick Ln",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354144225,
-    "wof:lastmodified":1449067210,
+    "wof:lastmodified":1467082444,
     "wof:name":"Newman & Assoc",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-80.810473,34.185683,-80.810473,34.185683],
+  "bbox": [
+    -80.810473,
+    34.185683,
+    -80.810473,
+    34.185683
+],
   "geometry": {"coordinates":[-80.810473,34.185683],"type":"Point"}
 }

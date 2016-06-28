@@ -2,13 +2,14 @@
   "id": 353926461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.461372,34.792923,-81.461372,34.792923",
     "geom:latitude":34.792923,
     "geom:longitude":-81.461372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"393 Lockhart Dr",
     "sg:city":"Lockhart",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353926461,
-    "wof:lastmodified":1449019141,
+    "wof:lastmodified":1467082228,
     "wof:name":"Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.461372,34.792923,-81.461372,34.792923],
+  "bbox": [
+    -81.461372,
+    34.792923,
+    -81.461372,
+    34.792923
+],
   "geometry": {"coordinates":[-81.461372,34.792923],"type":"Point"}
 }

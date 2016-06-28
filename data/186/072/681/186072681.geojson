@@ -2,13 +2,14 @@
   "id": 186072681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.374612,32.699442,-80.374612,32.699442",
     "geom:latitude":32.699442,
     "geom:longitude":-80.374612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8548 Willtown Rd",
     "sg:city":"Yonges Island",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186072681,
-    "wof:lastmodified":1449051790,
+    "wof:lastmodified":1467082401,
     "wof:name":"Minnie Hughes Elementary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.374612,32.699442,-80.374612,32.699442],
+  "bbox": [
+    -80.374612,
+    32.699442,
+    -80.374612,
+    32.699442
+],
   "geometry": {"coordinates":[-80.374612,32.699442],"type":"Point"}
 }

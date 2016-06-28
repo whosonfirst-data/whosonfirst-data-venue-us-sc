@@ -2,13 +2,14 @@
   "id": 353846251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.995891,34.503783,-81.995891,34.503783",
     "geom:latitude":34.503783,
     "geom:longitude":-81.995891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Garlington St",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353846251,
-    "wof:lastmodified":1449020249,
+    "wof:lastmodified":1467082250,
     "wof:name":"Donnelly Bros Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-81.995891,34.503783,-81.995891,34.503783],
+  "bbox": [
+    -81.995891,
+    34.503783,
+    -81.995891,
+    34.503783
+],
   "geometry": {"coordinates":[-81.995891,34.503783],"type":"Point"}
 }

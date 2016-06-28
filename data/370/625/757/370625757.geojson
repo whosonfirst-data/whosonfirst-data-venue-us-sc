@@ -2,13 +2,14 @@
   "id": 370625757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.89212,33.496841,-81.89212,33.496841",
     "geom:latitude":33.496841,
     "geom:longitude":-81.89212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 Augusta Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370625757,
-    "wof:lastmodified":1449032529,
+    "wof:lastmodified":1467082375,
     "wof:name":"Builders Firstsource Southeast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.89212,33.496841,-81.89212,33.496841],
-  "geometry": {"coordinates":[-81.89212,33.496841],"type":"Point"}
+  "bbox": [
+    -81.89212,
+    33.496841,
+    -81.89212,
+    33.496841
+],
+  "geometry": {"coordinates":[-81.89212000000001,33.496841],"type":"Point"}
 }

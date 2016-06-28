@@ -2,13 +2,14 @@
   "id": 354375023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.155246,34.876794,-81.155246,34.876794",
     "geom:latitude":34.876794,
     "geom:longitude":-81.155246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4586 Percival Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354375023,
-    "wof:lastmodified":1449066004,
+    "wof:lastmodified":1467082416,
     "wof:name":"Outdoor Products & Service",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.155246,34.876794,-81.155246,34.876794],
-  "geometry": {"coordinates":[-81.155246,34.876794],"type":"Point"}
+  "bbox": [
+    -81.155246,
+    34.876794,
+    -81.155246,
+    34.876794
+],
+  "geometry": {"coordinates":[-81.15524600000001,34.876794],"type":"Point"}
 }

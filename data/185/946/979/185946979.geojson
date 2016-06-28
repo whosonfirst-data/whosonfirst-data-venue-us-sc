@@ -2,13 +2,14 @@
   "id": 185946979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.724679,33.560497,-81.724679,33.560497",
     "geom:latitude":33.560497,
     "geom:longitude":-81.724679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Hayne Ave SW",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185946979,
-    "wof:lastmodified":1449008027,
+    "wof:lastmodified":1467082204,
     "wof:name":"Phil Wittenberg",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-81.724679,33.560497,-81.724679,33.560497],
-  "geometry": {"coordinates":[-81.724679,33.560497],"type":"Point"}
+  "bbox": [
+    -81.724679,
+    33.560497,
+    -81.724679,
+    33.560497
+],
+  "geometry": {"coordinates":[-81.72467899999999,33.560497],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185926505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.029857,34.938122,-82.029857,34.938122",
     "geom:latitude":34.938122,
     "geom:longitude":-82.029857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9110 Greenville Hwy",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185926505,
-    "wof:lastmodified":1449007151,
+    "wof:lastmodified":1467082191,
     "wof:name":"Westside Collision",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-82.029857,34.938122,-82.029857,34.938122],
-  "geometry": {"coordinates":[-82.029857,34.938122],"type":"Point"}
+  "bbox": [
+    -82.029857,
+    34.938122,
+    -82.029857,
+    34.938122
+],
+  "geometry": {"coordinates":[-82.02985700000001,34.938122],"type":"Point"}
 }

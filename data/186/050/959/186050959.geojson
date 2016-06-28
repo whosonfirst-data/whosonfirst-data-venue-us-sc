@@ -2,13 +2,14 @@
   "id": 186050959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.934313,34.945191,-81.934313,34.945191",
     "geom:latitude":34.945191,
     "geom:longitude":-81.934313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 W Henry St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186050959,
-    "wof:lastmodified":1449051859,
+    "wof:lastmodified":1467082402,
     "wof:name":"International Hairport & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.934313,34.945191,-81.934313,34.945191],
+  "bbox": [
+    -81.934313,
+    34.945191,
+    -81.934313,
+    34.945191
+],
   "geometry": {"coordinates":[-81.934313,34.945191],"type":"Point"}
 }

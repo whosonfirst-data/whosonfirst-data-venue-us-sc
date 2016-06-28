@@ -2,13 +2,14 @@
   "id": 370632197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.673493,34.776867,-82.673493,34.776867",
     "geom:latitude":34.776867,
     "geom:longitude":-82.673493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6025 Moorefield Memorial Hwy",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370632197,
-    "wof:lastmodified":1449031237,
+    "wof:lastmodified":1467082346,
     "wof:name":"Four Paws Pet Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-82.673493,34.776867,-82.673493,34.776867],
-  "geometry": {"coordinates":[-82.673493,34.776867],"type":"Point"}
+  "bbox": [
+    -82.673493,
+    34.776867,
+    -82.673493,
+    34.776867
+],
+  "geometry": {"coordinates":[-82.67349299999999,34.776867],"type":"Point"}
 }

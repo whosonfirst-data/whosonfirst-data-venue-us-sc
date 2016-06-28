@@ -2,13 +2,14 @@
   "id": 337397587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.700314,34.582859,-80.700314,34.582859",
     "geom:latitude":34.582859,
     "geom:longitude":-80.700314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6386 Beecher Horton Rd",
     "sg:city":"Heath Springs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337397587,
-    "wof:lastmodified":1449027251,
+    "wof:lastmodified":1467082277,
     "wof:name":"Stovers Electrical Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.700314,34.582859,-80.700314,34.582859],
-  "geometry": {"coordinates":[-80.700314,34.582859],"type":"Point"}
+  "bbox": [
+    -80.700314,
+    34.582859,
+    -80.700314,
+    34.582859
+],
+  "geometry": {"coordinates":[-80.70031400000001,34.582859],"type":"Point"}
 }

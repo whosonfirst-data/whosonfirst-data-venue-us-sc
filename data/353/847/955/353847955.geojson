@@ -2,13 +2,14 @@
   "id": 353847955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.759383,33.878929,-79.759383,33.878929",
     "geom:latitude":33.878929,
     "geom:longitude":-79.759383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 N Ron McNair Blvd",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353847955,
-    "wof:lastmodified":1449019181,
+    "wof:lastmodified":1467082229,
     "wof:name":"Revco Drug Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.759383,33.878929,-79.759383,33.878929],
+  "bbox": [
+    -79.759383,
+    33.878929,
+    -79.759383,
+    33.878929
+],
   "geometry": {"coordinates":[-79.759383,33.878929],"type":"Point"}
 }

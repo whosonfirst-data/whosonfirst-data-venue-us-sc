@@ -2,13 +2,14 @@
   "id": 370277731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.754451,33.875599,-79.754451,33.875599",
     "geom:latitude":33.875599,
     "geom:longitude":-79.754451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N McAlister St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370277731,
-    "wof:lastmodified":1449029471,
+    "wof:lastmodified":1467082306,
     "wof:name":"WPDT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-79.754451,33.875599,-79.754451,33.875599],
+  "bbox": [
+    -79.754451,
+    33.875599,
+    -79.754451,
+    33.875599
+],
   "geometry": {"coordinates":[-79.754451,33.875599],"type":"Point"}
 }

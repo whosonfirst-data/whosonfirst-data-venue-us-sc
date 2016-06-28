@@ -2,13 +2,14 @@
   "id": 354350723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.760269,32.1539,-80.760269,32.1539",
     "geom:latitude":32.1539,
     "geom:longitude":-80.760269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 New Orleans Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354350723,
-    "wof:lastmodified":1449066793,
+    "wof:lastmodified":1467082434,
     "wof:name":"Volunteer Center-United Way",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-80.760269,32.1539,-80.760269,32.1539],
-  "geometry": {"coordinates":[-80.760269,32.1539],"type":"Point"}
+  "bbox": [
+    -80.760269,
+    32.1539,
+    -80.760269,
+    32.1539
+],
+  "geometry": {"coordinates":[-80.76026899999999,32.1539],"type":"Point"}
 }

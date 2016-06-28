@@ -2,13 +2,14 @@
   "id": 185910747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.734845,33.790884,-78.734845,33.790884",
     "geom:latitude":33.790884,
     "geom:longitude":-78.734845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 S Ocean Blvd",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185910747,
-    "wof:lastmodified":1449007273,
+    "wof:lastmodified":1467082192,
     "wof:name":"Beach Cove Homeowners Assn",
     "wof:parent_id":85852275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.734845,33.790884,-78.734845,33.790884],
-  "geometry": {"coordinates":[-78.734845,33.790884],"type":"Point"}
+  "bbox": [
+    -78.734845,
+    33.790884,
+    -78.734845,
+    33.790884
+],
+  "geometry": {"coordinates":[-78.73484500000001,33.790884],"type":"Point"}
 }

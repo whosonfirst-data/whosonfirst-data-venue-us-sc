@@ -2,13 +2,14 @@
   "id": 354173173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.322124,34.098149,-79.322124,34.098149",
     "geom:latitude":34.098149,
     "geom:longitude":-79.322124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3007 US Hwy 501 S",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354173173,
-    "wof:lastmodified":1449066254,
+    "wof:lastmodified":1467082422,
     "wof:name":"Marion County School Of Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "music"
     ]
 },
-  "bbox": [-79.322124,34.098149,-79.322124,34.098149],
+  "bbox": [
+    -79.322124,
+    34.098149,
+    -79.322124,
+    34.098149
+],
   "geometry": {"coordinates":[-79.322124,34.098149],"type":"Point"}
 }

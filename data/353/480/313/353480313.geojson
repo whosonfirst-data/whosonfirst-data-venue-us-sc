@@ -2,13 +2,14 @@
   "id": 353480313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.719681,34.523976,-82.719681,34.523976",
     "geom:latitude":34.523976,
     "geom:longitude":-82.719681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Whitehall Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353480313,
-    "wof:lastmodified":1449019081,
+    "wof:lastmodified":1467082226,
     "wof:name":"Sav-Way",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.719681,34.523976,-82.719681,34.523976],
-  "geometry": {"coordinates":[-82.719681,34.523976],"type":"Point"}
+  "bbox": [
+    -82.719681,
+    34.523976,
+    -82.719681,
+    34.523976
+],
+  "geometry": {"coordinates":[-82.71968099999999,34.523976],"type":"Point"}
 }

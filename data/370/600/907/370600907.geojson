@@ -2,13 +2,14 @@
   "id": 370600907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.187618,33.977336,-81.187618,33.977336",
     "geom:latitude":33.977336,
     "geom:longitude":-81.187618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4856 Augusta Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370600907,
-    "wof:lastmodified":1449029401,
+    "wof:lastmodified":1467082305,
     "wof:name":"Four Oaks Farm",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packer"
     ]
 },
-  "bbox": [-81.187618,33.977336,-81.187618,33.977336],
+  "bbox": [
+    -81.187618,
+    33.977336,
+    -81.187618,
+    33.977336
+],
   "geometry": {"coordinates":[-81.187618,33.977336],"type":"Point"}
 }

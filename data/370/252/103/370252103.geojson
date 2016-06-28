@@ -2,13 +2,14 @@
   "id": 370252103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.020275,32.846371,-80.020275,32.846371",
     "geom:latitude":32.846371,
     "geom:longitude":-80.020275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3955 Faber Place Dr",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370252103,
-    "wof:lastmodified":1449029540,
+    "wof:lastmodified":1467082308,
     "wof:name":"Regional Acceptance Corp",
     "wof:parent_id":85818395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-80.020275,32.846371,-80.020275,32.846371],
+  "bbox": [
+    -80.020275,
+    32.846371,
+    -80.020275,
+    32.846371
+],
   "geometry": {"coordinates":[-80.020275,32.846371],"type":"Point"}
 }

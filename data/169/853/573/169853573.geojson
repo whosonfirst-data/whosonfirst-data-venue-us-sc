@@ -2,13 +2,14 @@
   "id": 169853573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.668296,33.866244,-78.668296,33.866244",
     "geom:latitude":33.866244,
     "geom:longitude":-78.668296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4253 Sea Mountain Hwy",
     "sg:city":"Little River",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169853573,
-    "wof:lastmodified":1449034010,
+    "wof:lastmodified":1467082381,
     "wof:name":"Savage Tan",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-78.668296,33.866244,-78.668296,33.866244],
+  "bbox": [
+    -78.668296,
+    33.866244,
+    -78.668296,
+    33.866244
+],
   "geometry": {"coordinates":[-78.668296,33.866244],"type":"Point"}
 }

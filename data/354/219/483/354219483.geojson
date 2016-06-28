@@ -2,13 +2,14 @@
   "id": 354219483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.144008,33.903499,-81.144008,33.903499",
     "geom:latitude":33.903499,
     "geom:longitude":-81.144008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Main St",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354219483,
-    "wof:lastmodified":1449067609,
+    "wof:lastmodified":1467082453,
     "wof:name":"Congaree Dairy Bar",
     "wof:parent_id":85847855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.144008,33.903499,-81.144008,33.903499],
+  "bbox": [
+    -81.144008,
+    33.903499,
+    -81.144008,
+    33.903499
+],
   "geometry": {"coordinates":[-81.144008,33.903499],"type":"Point"}
 }

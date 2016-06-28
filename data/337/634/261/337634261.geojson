@@ -2,13 +2,14 @@
   "id": 337634261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.395355,32.751633,-80.395355,32.751633",
     "geom:latitude":32.751633,
     "geom:longitude":-80.395355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5779 Parkers Ferry Rd",
     "sg:city":"Adams Run",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337634261,
-    "wof:lastmodified":1449027338,
+    "wof:lastmodified":1467082280,
     "wof:name":"Wiltown Community Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-80.395355,32.751633,-80.395355,32.751633],
+  "bbox": [
+    -80.395355,
+    32.751633,
+    -80.395355,
+    32.751633
+],
   "geometry": {"coordinates":[-80.395355,32.751633],"type":"Point"}
 }

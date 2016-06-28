@@ -2,13 +2,14 @@
   "id": 370316559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.888882,33.810276,-81.888882,33.810276",
     "geom:latitude":33.810276,
     "geom:longitude":-81.888882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Country Club Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370316559,
-    "wof:lastmodified":1449031373,
+    "wof:lastmodified":1467082349,
     "wof:name":"H G Reynolds Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.888882,33.810276,-81.888882,33.810276],
+  "bbox": [
+    -81.888882,
+    33.810276,
+    -81.888882,
+    33.810276
+],
   "geometry": {"coordinates":[-81.888882,33.810276],"type":"Point"}
 }

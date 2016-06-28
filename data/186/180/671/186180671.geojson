@@ -2,13 +2,14 @@
   "id": 186180671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.25622,33.95451,-81.25622,33.95451",
     "geom:latitude":33.95451,
     "geom:longitude":-81.25622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Wildlife Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186180671,
-    "wof:lastmodified":1449050379,
+    "wof:lastmodified":1467082390,
     "wof:name":"U S Systems",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-81.25622,33.95451,-81.25622,33.95451],
+  "bbox": [
+    -81.25622,
+    33.95451,
+    -81.25622,
+    33.95451
+],
   "geometry": {"coordinates":[-81.25622,33.95451],"type":"Point"}
 }

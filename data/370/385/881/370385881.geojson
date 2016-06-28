@@ -2,13 +2,14 @@
   "id": 370385881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.703873,34.80118,-81.703873,34.80118",
     "geom:latitude":34.80118,
     "geom:longitude":-81.703873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"592 Rogerstown Rd",
     "sg:city":"Jonesville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370385881,
-    "wof:lastmodified":1449031087,
+    "wof:lastmodified":1467082342,
     "wof:name":"Miracle Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "logging"
     ]
 },
-  "bbox": [-81.703873,34.80118,-81.703873,34.80118],
+  "bbox": [
+    -81.703873,
+    34.80118,
+    -81.703873,
+    34.80118
+],
   "geometry": {"coordinates":[-81.703873,34.80118],"type":"Point"}
 }

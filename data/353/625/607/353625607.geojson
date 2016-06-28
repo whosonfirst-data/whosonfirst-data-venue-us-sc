@@ -2,13 +2,14 @@
   "id": 353625607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.517044,34.829614,-82.517044,34.829614",
     "geom:latitude":34.829614,
     "geom:longitude":-82.517044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4043 Calhoun Memorial Hwy",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353625607,
-    "wof:lastmodified":1449020840,
+    "wof:lastmodified":1467082263,
     "wof:name":"Auto Barn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.517044,34.829614,-82.517044,34.829614],
+  "bbox": [
+    -82.517044,
+    34.829614,
+    -82.517044,
+    34.829614
+],
   "geometry": {"coordinates":[-82.517044,34.829614],"type":"Point"}
 }

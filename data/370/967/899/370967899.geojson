@@ -2,13 +2,14 @@
   "id": 370967899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.877958,35.169044,-81.877958,35.169044",
     "geom:latitude":35.169044,
     "geom:longitude":-81.877958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"288 Mc Abee Rd",
     "sg:city":"Chesnee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370967899,
-    "wof:lastmodified":1449032215,
+    "wof:lastmodified":1467082368,
     "wof:name":"Jerry Hord Real Estate",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.877958,35.169044,-81.877958,35.169044],
-  "geometry": {"coordinates":[-81.877958,35.169044],"type":"Point"}
+  "bbox": [
+    -81.877958,
+    35.169044,
+    -81.877958,
+    35.169044
+],
+  "geometry": {"coordinates":[-81.87795800000001,35.169044],"type":"Point"}
 }

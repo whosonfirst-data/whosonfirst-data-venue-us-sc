@@ -2,13 +2,14 @@
   "id": 185629037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.012819,33.998829,-81.012819,33.998829",
     "geom:latitude":33.998829,
     "geom:longitude":-81.012819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2231 Devine St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185629037,
-    "wof:lastmodified":1449007856,
+    "wof:lastmodified":1467082201,
     "wof:name":"S Carolina Nature Conservancy",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "org"
     ]
 },
-  "bbox": [-81.012819,33.998829,-81.012819,33.998829],
-  "geometry": {"coordinates":[-81.012819,33.998829],"type":"Point"}
+  "bbox": [
+    -81.012819,
+    33.998829,
+    -81.012819,
+    33.998829
+],
+  "geometry": {"coordinates":[-81.01281899999999,33.998829],"type":"Point"}
 }

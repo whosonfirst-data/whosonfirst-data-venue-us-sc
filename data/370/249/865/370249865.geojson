@@ -2,13 +2,14 @@
   "id": 370249865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.055318,34.932052,-81.055318,34.932052",
     "geom:latitude":34.932052,
     "geom:longitude":-81.055318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1089 Finley Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370249865,
-    "wof:lastmodified":1449029251,
+    "wof:lastmodified":1467082302,
     "wof:name":"Finley Road Elementary School",
     "wof:parent_id":85806915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.055318,34.932052,-81.055318,34.932052],
+  "bbox": [
+    -81.055318,
+    34.932052,
+    -81.055318,
+    34.932052
+],
   "geometry": {"coordinates":[-81.055318,34.932052],"type":"Point"}
 }

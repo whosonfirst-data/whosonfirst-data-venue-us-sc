@@ -2,13 +2,14 @@
   "id": 353893909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.102423,33.737912,-81.102423,33.737912",
     "geom:latitude":33.737912,
     "geom:longitude":-81.102423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 W 2nd St",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353893909,
-    "wof:lastmodified":1449020348,
+    "wof:lastmodified":1467082252,
     "wof:name":"Swansea Bi-Rite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-81.102423,33.737912,-81.102423,33.737912],
+  "bbox": [
+    -81.102423,
+    33.737912,
+    -81.102423,
+    33.737912
+],
   "geometry": {"coordinates":[-81.102423,33.737912],"type":"Point"}
 }

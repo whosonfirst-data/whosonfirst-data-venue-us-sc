@@ -2,13 +2,14 @@
   "id": 185762959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.705779,32.216449,-80.705779,32.216449",
     "geom:latitude":32.216449,
     "geom:longitude":-80.705779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Northridge Dr",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185762959,
-    "wof:lastmodified":1449007742,
+    "wof:lastmodified":1467082200,
     "wof:name":"Southern Weddings With Style",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.705779,32.216449,-80.705779,32.216449],
-  "geometry": {"coordinates":[-80.705779,32.216449],"type":"Point"}
+  "bbox": [
+    -80.705779,
+    32.216449,
+    -80.705779,
+    32.216449
+],
+  "geometry": {"coordinates":[-80.70577900000001,32.216449],"type":"Point"}
 }

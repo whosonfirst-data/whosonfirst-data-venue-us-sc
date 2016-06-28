@@ -2,13 +2,14 @@
   "id": 370806223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.040411,34.448326,-80.040411,34.448326",
     "geom:latitude":34.448326,
     "geom:longitude":-80.040411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 Web Dr",
     "sg:city":"Hartsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370806223,
-    "wof:lastmodified":1449029055,
+    "wof:lastmodified":1467082297,
     "wof:name":"5th Street Bakery Cafe",
     "wof:parent_id":85825479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.040411,34.448326,-80.040411,34.448326],
-  "geometry": {"coordinates":[-80.040411,34.448326],"type":"Point"}
+  "bbox": [
+    -80.040411,
+    34.448326,
+    -80.040411,
+    34.448326
+],
+  "geometry": {"coordinates":[-80.04041100000001,34.448326],"type":"Point"}
 }

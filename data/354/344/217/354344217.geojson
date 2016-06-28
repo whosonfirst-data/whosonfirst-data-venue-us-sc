@@ -2,13 +2,14 @@
   "id": 354344217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.853395,33.501527,-80.853395,33.501527",
     "geom:latitude":33.501527,
     "geom:longitude":-80.853395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"862 Magnolia St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354344217,
-    "wof:lastmodified":1449066032,
+    "wof:lastmodified":1467082417,
     "wof:name":"Young's Repair & Finishing Shp",
     "wof:parent_id":85843475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "restoring"
     ]
 },
-  "bbox": [-80.853395,33.501527,-80.853395,33.501527],
-  "geometry": {"coordinates":[-80.853395,33.501527],"type":"Point"}
+  "bbox": [
+    -80.853395,
+    33.501527,
+    -80.853395,
+    33.501527
+],
+  "geometry": {"coordinates":[-80.85339500000001,33.501527],"type":"Point"}
 }

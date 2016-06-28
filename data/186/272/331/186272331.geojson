@@ -2,13 +2,14 @@
   "id": 186272331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.160553,34.197914,-82.160553,34.197914",
     "geom:latitude":34.197914,
     "geom:longitude":-82.160553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 State Hwy 72 Bus",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186272331,
-    "wof:lastmodified":1449052846,
+    "wof:lastmodified":1467082411,
     "wof:name":"Lee Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-82.160553,34.197914,-82.160553,34.197914],
-  "geometry": {"coordinates":[-82.160553,34.197914],"type":"Point"}
+  "bbox": [
+    -82.160553,
+    34.197914,
+    -82.160553,
+    34.197914
+],
+  "geometry": {"coordinates":[-82.16055299999999,34.197914],"type":"Point"}
 }

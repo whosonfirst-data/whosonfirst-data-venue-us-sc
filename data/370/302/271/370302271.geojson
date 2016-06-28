@@ -2,13 +2,14 @@
   "id": 370302271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.973128,33.60482,-78.973128,33.60482",
     "geom:latitude":33.60482,
     "geom:longitude":-78.973128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91 S Ocean Blvd",
     "sg:city":"Surfside Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370302271,
-    "wof:lastmodified":1449030241,
+    "wof:lastmodified":1467082324,
     "wof:name":"Wheel Fun Rentals",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cover"
     ]
 },
-  "bbox": [-78.973128,33.60482,-78.973128,33.60482],
+  "bbox": [
+    -78.973128,
+    33.60482,
+    -78.973128,
+    33.60482
+],
   "geometry": {"coordinates":[-78.973128,33.60482],"type":"Point"}
 }

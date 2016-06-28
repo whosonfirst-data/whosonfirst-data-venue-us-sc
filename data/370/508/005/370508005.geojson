@@ -2,13 +2,14 @@
   "id": 370508005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.649445,33.865871,-78.649445,33.865871",
     "geom:latitude":33.865871,
     "geom:longitude":-78.649445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4254 Villas Dr",
     "sg:city":"Longs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370508005,
-    "wof:lastmodified":1449030969,
+    "wof:lastmodified":1467082340,
     "wof:name":"Encompass Electrical Tech",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-78.649445,33.865871,-78.649445,33.865871],
+  "bbox": [
+    -78.649445,
+    33.865871,
+    -78.649445,
+    33.865871
+],
   "geometry": {"coordinates":[-78.649445,33.865871],"type":"Point"}
 }

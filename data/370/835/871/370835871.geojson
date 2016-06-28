@@ -2,13 +2,14 @@
   "id": 370835871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.863154,33.709851,-78.863154,33.709851",
     "geom:latitude":33.709851,
     "geom:longitude":-78.863154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 N Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370835871,
-    "wof:lastmodified":1449029576,
+    "wof:lastmodified":1467082309,
     "wof:name":"Drifters Saloon",
     "wof:parent_id":85816109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.863154,33.709851,-78.863154,33.709851],
-  "geometry": {"coordinates":[-78.863154,33.709851],"type":"Point"}
+  "bbox": [
+    -78.863154,
+    33.709851,
+    -78.863154,
+    33.709851
+],
+  "geometry": {"coordinates":[-78.86315399999999,33.709851],"type":"Point"}
 }

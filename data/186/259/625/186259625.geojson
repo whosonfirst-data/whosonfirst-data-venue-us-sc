@@ -2,13 +2,14 @@
   "id": 186259625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.8226,33.665516,-79.8226,33.665516",
     "geom:latitude":33.665516,
     "geom:longitude":-79.8226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Martin Luther King Jr Ave",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186259625,
-    "wof:lastmodified":1449051018,
+    "wof:lastmodified":1467082394,
     "wof:name":"Scott's Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-79.8226,33.665516,-79.8226,33.665516],
-  "geometry": {"coordinates":[-79.8226,33.665516],"type":"Point"}
+  "bbox": [
+    -79.8226,
+    33.665516,
+    -79.8226,
+    33.665516
+],
+  "geometry": {"coordinates":[-79.82259999999999,33.665516],"type":"Point"}
 }

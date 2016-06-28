@@ -2,13 +2,14 @@
   "id": 370817573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.97433,32.854371,-79.97433,32.854371",
     "geom:latitude":32.854371,
     "geom:longitude":-79.97433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3324 Rivers Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370817573,
-    "wof:lastmodified":1449031818,
+    "wof:lastmodified":1467082359,
     "wof:name":"Gold Mine Pawn Shop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pawn"
     ]
 },
-  "bbox": [-79.97433,32.854371,-79.97433,32.854371],
-  "geometry": {"coordinates":[-79.97433,32.854371],"type":"Point"}
+  "bbox": [
+    -79.97433,
+    32.854371,
+    -79.97433,
+    32.854371
+],
+  "geometry": {"coordinates":[-79.97432999999999,32.854371],"type":"Point"}
 }

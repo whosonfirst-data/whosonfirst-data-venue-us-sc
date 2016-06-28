@@ -2,13 +2,14 @@
   "id": 186081433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.083024,33.107827,-80.083024,33.107827",
     "geom:latitude":33.107827,
     "geom:longitude":-80.083024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Spring Ln",
     "sg:city":"Wando",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186081433,
-    "wof:lastmodified":1449051209,
+    "wof:lastmodified":1467082395,
     "wof:name":"US Customs Centralized Exam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "taxation"
     ]
 },
-  "bbox": [-80.083024,33.107827,-80.083024,33.107827],
-  "geometry": {"coordinates":[-80.083024,33.107827],"type":"Point"}
+  "bbox": [
+    -80.083024,
+    33.107827,
+    -80.083024,
+    33.107827
+],
+  "geometry": {"coordinates":[-80.08302399999999,33.107827],"type":"Point"}
 }

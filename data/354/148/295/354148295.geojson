@@ -2,13 +2,14 @@
   "id": 354148295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.647441,34.511412,-82.647441,34.511412",
     "geom:latitude":34.511412,
     "geom:longitude":-82.647441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 N Fant St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354148295,
-    "wof:lastmodified":1449067382,
+    "wof:lastmodified":1467082448,
     "wof:name":"Anderson Area Medical Ctr",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.647441,34.511412,-82.647441,34.511412],
+  "bbox": [
+    -82.647441,
+    34.511412,
+    -82.647441,
+    34.511412
+],
   "geometry": {"coordinates":[-82.647441,34.511412],"type":"Point"}
 }

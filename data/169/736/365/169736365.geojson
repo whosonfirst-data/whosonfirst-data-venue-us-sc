@@ -2,13 +2,14 @@
   "id": 169736365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.722451,33.559135,-81.722451,33.559135",
     "geom:latitude":33.559135,
     "geom:longitude":-81.722451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Park Ave SW",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169736365,
-    "wof:lastmodified":1449035929,
+    "wof:lastmodified":1467082387,
     "wof:name":"Ann Mc Crowey",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.722451,33.559135,-81.722451,33.559135],
-  "geometry": {"coordinates":[-81.722451,33.559135],"type":"Point"}
+  "bbox": [
+    -81.722451,
+    33.559135,
+    -81.722451,
+    33.559135
+],
+  "geometry": {"coordinates":[-81.72245100000001,33.559135],"type":"Point"}
 }

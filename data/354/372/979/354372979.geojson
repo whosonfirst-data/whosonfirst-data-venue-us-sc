@@ -2,13 +2,14 @@
   "id": 354372979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.050947,33.021865,-80.050947,33.021865",
     "geom:latitude":33.021865,
     "geom:longitude":-80.050947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Reynard Dr",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354372979,
-    "wof:lastmodified":1449066970,
+    "wof:lastmodified":1467082438,
     "wof:name":"Smalls Limo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-80.050947,33.021865,-80.050947,33.021865],
-  "geometry": {"coordinates":[-80.050947,33.021865],"type":"Point"}
+  "bbox": [
+    -80.050947,
+    33.021865,
+    -80.050947,
+    33.021865
+],
+  "geometry": {"coordinates":[-80.05094699999999,33.021865],"type":"Point"}
 }

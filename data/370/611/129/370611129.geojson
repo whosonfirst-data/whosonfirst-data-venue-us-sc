@@ -2,13 +2,14 @@
   "id": 370611129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.997948,32.86753,-79.997948,32.86753",
     "geom:latitude":32.86753,
     "geom:longitude":-79.997948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4255 Piggly Wiggly Dr",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370611129,
-    "wof:lastmodified":1449031764,
+    "wof:lastmodified":1467082358,
     "wof:name":"Roper C Trucking Co",
     "wof:parent_id":85819163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-79.997948,32.86753,-79.997948,32.86753],
-  "geometry": {"coordinates":[-79.997948,32.86753],"type":"Point"}
+  "bbox": [
+    -79.997948,
+    32.86753,
+    -79.997948,
+    32.86753
+],
+  "geometry": {"coordinates":[-79.99794799999999,32.86753],"type":"Point"}
 }

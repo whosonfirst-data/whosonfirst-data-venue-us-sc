@@ -2,13 +2,14 @@
   "id": 370426957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.272593,33.373827,-81.272593,33.373827",
     "geom:latitude":33.373827,
     "geom:longitude":-81.272593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20807 Solomon Blatt Ave",
     "sg:city":"Blackville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370426957,
-    "wof:lastmodified":1449029818,
+    "wof:lastmodified":1467082314,
     "wof:name":"Office Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.272593,33.373827,-81.272593,33.373827],
+  "bbox": [
+    -81.272593,
+    33.373827,
+    -81.272593,
+    33.373827
+],
   "geometry": {"coordinates":[-81.272593,33.373827],"type":"Point"}
 }

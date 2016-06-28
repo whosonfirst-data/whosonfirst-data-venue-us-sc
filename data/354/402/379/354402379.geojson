@@ -2,13 +2,14 @@
   "id": 354402379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.193026,33.01083,-80.193026,33.01083",
     "geom:latitude":33.01083,
     "geom:longitude":-80.193026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Gadsden St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354402379,
-    "wof:lastmodified":1449066452,
+    "wof:lastmodified":1467082426,
     "wof:name":"Ice Age Ice Scultures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.193026,33.01083,-80.193026,33.01083],
+  "bbox": [
+    -80.193026,
+    33.01083,
+    -80.193026,
+    33.01083
+],
   "geometry": {"coordinates":[-80.193026,33.01083],"type":"Point"}
 }

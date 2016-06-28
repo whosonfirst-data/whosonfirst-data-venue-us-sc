@@ -2,13 +2,14 @@
   "id": 370532441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.232353,34.70762,-81.232353,34.70762",
     "geom:latitude":34.70762,
     "geom:longitude":-81.232353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2678 Dawson Dr",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370532441,
-    "wof:lastmodified":1449030235,
+    "wof:lastmodified":1467082324,
     "wof:name":"Arthur Underwood Manor",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.232353,34.70762,-81.232353,34.70762],
+  "bbox": [
+    -81.232353,
+    34.70762,
+    -81.232353,
+    34.70762
+],
   "geometry": {"coordinates":[-81.232353,34.70762],"type":"Point"}
 }

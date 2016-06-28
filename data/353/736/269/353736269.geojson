@@ -2,13 +2,14 @@
   "id": 353736269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.042857,32.856561,-80.042857,32.856561",
     "geom:latitude":32.856561,
     "geom:longitude":-80.042857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5267 Dorchester Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353736269,
-    "wof:lastmodified":1449020751,
+    "wof:lastmodified":1467082261,
     "wof:name":"Sandy's Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-80.042857,32.856561,-80.042857,32.856561],
+  "bbox": [
+    -80.042857,
+    32.856561,
+    -80.042857,
+    32.856561
+],
   "geometry": {"coordinates":[-80.042857,32.856561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169766035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.776755,33.651925,-80.776755,33.651925",
     "geom:latitude":33.651925,
     "geom:longitude":-80.776755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Rucker Dr N",
     "sg:city":"Saint Matthews",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169766035,
-    "wof:lastmodified":1449032640,
+    "wof:lastmodified":1467082376,
     "wof:name":"Govans Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.776755,33.651925,-80.776755,33.651925],
-  "geometry": {"coordinates":[-80.776755,33.651925],"type":"Point"}
+  "bbox": [
+    -80.776755,
+    33.651925,
+    -80.776755,
+    33.651925
+],
+  "geometry": {"coordinates":[-80.77675499999999,33.651925],"type":"Point"}
 }

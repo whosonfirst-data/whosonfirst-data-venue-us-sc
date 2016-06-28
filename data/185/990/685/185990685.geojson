@@ -2,13 +2,14 @@
   "id": 185990685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.025754,32.898873,-80.025754,32.898873",
     "geom:latitude":32.898873,
     "geom:longitude":-80.025754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2442 Remount Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":185990685,
-    "wof:lastmodified":1449007671,
+    "wof:lastmodified":1467082199,
     "wof:name":"TDS Inc",
     "wof:parent_id":85825199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.025754,32.898873,-80.025754,32.898873],
-  "geometry": {"coordinates":[-80.025754,32.898873],"type":"Point"}
+  "bbox": [
+    -80.025754,
+    32.898873,
+    -80.025754,
+    32.898873
+],
+  "geometry": {"coordinates":[-80.02575400000001,32.898873],"type":"Point"}
 }

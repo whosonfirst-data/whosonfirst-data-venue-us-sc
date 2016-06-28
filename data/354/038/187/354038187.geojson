@@ -2,13 +2,14 @@
   "id": 354038187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.051427,32.939156,-80.051427,32.939156",
     "geom:latitude":32.939156,
     "geom:longitude":-80.051427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7535 Northside Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354038187,
-    "wof:lastmodified":1449067060,
+    "wof:lastmodified":1467082440,
     "wof:name":"Jeter & Welch",
     "wof:parent_id":85803745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.051427,32.939156,-80.051427,32.939156],
+  "bbox": [
+    -80.051427,
+    32.939156,
+    -80.051427,
+    32.939156
+],
   "geometry": {"coordinates":[-80.051427,32.939156],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370745313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.737759,33.501949,-81.737759,33.501949",
     "geom:latitude":33.501949,
     "geom:longitude":-81.737759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"248 Willow Lake Dr",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370745313,
-    "wof:lastmodified":1449032317,
+    "wof:lastmodified":1467082370,
     "wof:name":"Kisner Construction Inc",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.737759,33.501949,-81.737759,33.501949],
+  "bbox": [
+    -81.737759,
+    33.501949,
+    -81.737759,
+    33.501949
+],
   "geometry": {"coordinates":[-81.737759,33.501949],"type":"Point"}
 }

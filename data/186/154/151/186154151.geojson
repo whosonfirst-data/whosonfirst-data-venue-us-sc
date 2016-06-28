@@ -2,13 +2,14 @@
   "id": 186154151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.763947,33.848022,-80.763947,33.848022",
     "geom:latitude":33.848022,
     "geom:longitude":-80.763947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2869 Congaree Rd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186154151,
-    "wof:lastmodified":1449053056,
+    "wof:lastmodified":1467082413,
     "wof:name":"A&G Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.763947,33.848022,-80.763947,33.848022],
+  "bbox": [
+    -80.763947,
+    33.848022,
+    -80.763947,
+    33.848022
+],
   "geometry": {"coordinates":[-80.763947,33.848022],"type":"Point"}
 }

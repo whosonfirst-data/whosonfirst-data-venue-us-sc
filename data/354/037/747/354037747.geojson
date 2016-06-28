@@ -2,13 +2,14 @@
   "id": 354037747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.761266,32.158935,-80.761266,32.158935",
     "geom:latitude":32.158935,
     "geom:longitude":-80.761266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Arrow Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354037747,
-    "wof:lastmodified":1449067686,
+    "wof:lastmodified":1467082455,
     "wof:name":"IWL Photography",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-80.761266,32.158935,-80.761266,32.158935],
-  "geometry": {"coordinates":[-80.761266,32.158935],"type":"Point"}
+  "bbox": [
+    -80.761266,
+    32.158935,
+    -80.761266,
+    32.158935
+],
+  "geometry": {"coordinates":[-80.76126600000001,32.158935],"type":"Point"}
 }

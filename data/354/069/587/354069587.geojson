@@ -2,13 +2,14 @@
   "id": 354069587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.081021,34.015977,-81.081021,34.015977",
     "geom:latitude":34.015977,
     "geom:longitude":-81.081021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Stoneridge Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354069587,
-    "wof:lastmodified":1449067038,
+    "wof:lastmodified":1467082440,
     "wof:name":"Coleman & Ureda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-81.081021,34.015977,-81.081021,34.015977],
-  "geometry": {"coordinates":[-81.081021,34.015977],"type":"Point"}
+  "bbox": [
+    -81.081021,
+    34.015977,
+    -81.081021,
+    34.015977
+],
+  "geometry": {"coordinates":[-81.08102100000001,34.015977],"type":"Point"}
 }

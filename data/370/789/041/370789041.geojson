@@ -2,13 +2,14 @@
   "id": 370789041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.003079,32.798035,-80.003079,32.798035",
     "geom:latitude":32.798035,
     "geom:longitude":-80.003079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1385 Ashley River Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370789041,
-    "wof:lastmodified":1449030622,
+    "wof:lastmodified":1467082332,
     "wof:name":"Gina Saundrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sales"
     ]
 },
-  "bbox": [-80.003079,32.798035,-80.003079,32.798035],
+  "bbox": [
+    -80.003079,
+    32.798035,
+    -80.003079,
+    32.798035
+],
   "geometry": {"coordinates":[-80.003079,32.798035],"type":"Point"}
 }

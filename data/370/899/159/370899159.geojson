@@ -2,13 +2,14 @@
   "id": 370899159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.237423,34.917036,-82.237423,34.917036",
     "geom:latitude":34.917036,
     "geom:longitude":-82.237423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 State Hwy 14",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370899159,
-    "wof:lastmodified":1449032296,
+    "wof:lastmodified":1467082369,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.237423,34.917036,-82.237423,34.917036],
-  "geometry": {"coordinates":[-82.237423,34.917036],"type":"Point"}
+  "bbox": [
+    -82.237423,
+    34.917036,
+    -82.237423,
+    34.917036
+],
+  "geometry": {"coordinates":[-82.23742300000001,34.917036],"type":"Point"}
 }

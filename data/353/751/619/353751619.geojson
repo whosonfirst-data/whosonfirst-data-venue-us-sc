@@ -2,13 +2,14 @@
   "id": 353751619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.175433,34.089951,-81.175433,34.089951",
     "geom:latitude":34.089951,
     "geom:longitude":-81.175433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7434 Forest Ct",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353751619,
-    "wof:lastmodified":1449018393,
+    "wof:lastmodified":1467082213,
     "wof:name":"Prime Benefits",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accident"
     ]
 },
-  "bbox": [-81.175433,34.089951,-81.175433,34.089951],
+  "bbox": [
+    -81.175433,
+    34.089951,
+    -81.175433,
+    34.089951
+],
   "geometry": {"coordinates":[-81.175433,34.089951],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370170721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.686309,33.530485,-81.686309,33.530485",
     "geom:latitude":33.530485,
     "geom:longitude":-81.686309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1266 Banks Mill Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370170721,
-    "wof:lastmodified":1449029406,
+    "wof:lastmodified":1467082305,
     "wof:name":"GMT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "wool"
     ]
 },
-  "bbox": [-81.686309,33.530485,-81.686309,33.530485],
-  "geometry": {"coordinates":[-81.686309,33.530485],"type":"Point"}
+  "bbox": [
+    -81.686309,
+    33.530485,
+    -81.686309,
+    33.530485
+],
+  "geometry": {"coordinates":[-81.68630899999999,33.530485],"type":"Point"}
 }

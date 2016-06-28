@@ -2,13 +2,14 @@
   "id": 370656269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.122566,34.920557,-81.122566,34.920557",
     "geom:latitude":34.920557,
     "geom:longitude":-81.122566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1688 Holland Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370656269,
-    "wof:lastmodified":1449031280,
+    "wof:lastmodified":1467082347,
     "wof:name":"Morningstar Waste Services",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-81.122566,34.920557,-81.122566,34.920557],
-  "geometry": {"coordinates":[-81.122566,34.920557],"type":"Point"}
+  "bbox": [
+    -81.122566,
+    34.920557,
+    -81.122566,
+    34.920557
+],
+  "geometry": {"coordinates":[-81.12256600000001,34.920557],"type":"Point"}
 }

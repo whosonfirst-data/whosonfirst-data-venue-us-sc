@@ -2,13 +2,14 @@
   "id": 370696011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.630425,34.509581,-82.630425,34.509581",
     "geom:latitude":34.509581,
     "geom:longitude":-82.630425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Williamston Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370696011,
-    "wof:lastmodified":1449029339,
+    "wof:lastmodified":1467082303,
     "wof:name":"Plez U Food Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-82.630425,34.509581,-82.630425,34.509581],
+  "bbox": [
+    -82.630425,
+    34.509581,
+    -82.630425,
+    34.509581
+],
   "geometry": {"coordinates":[-82.630425,34.509581],"type":"Point"}
 }

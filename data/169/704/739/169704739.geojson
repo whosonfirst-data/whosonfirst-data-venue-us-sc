@@ -2,13 +2,14 @@
   "id": 169704739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.318339,33.701094,-79.318339,33.701094",
     "geom:latitude":33.701094,
     "geom:longitude":-79.318339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1758 Folly Grove Rd",
     "sg:city":"Hemingway",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":169704739,
-    "wof:lastmodified":1449033554,
+    "wof:lastmodified":1467082380,
     "wof:name":"H Floyd Miller & Son's Grocery",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.318339,33.701094,-79.318339,33.701094],
-  "geometry": {"coordinates":[-79.318339,33.701094],"type":"Point"}
+  "bbox": [
+    -79.318339,
+    33.701094,
+    -79.318339,
+    33.701094
+],
+  "geometry": {"coordinates":[-79.31833899999999,33.701094],"type":"Point"}
 }

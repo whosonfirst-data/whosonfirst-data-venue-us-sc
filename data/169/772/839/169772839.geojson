@@ -2,13 +2,14 @@
   "id": 169772839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.844817,34.209191,-80.844817,34.209191",
     "geom:latitude":34.209191,
     "geom:longitude":-80.844817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2940 Chippewa Trl",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169772839,
-    "wof:lastmodified":1449034151,
+    "wof:lastmodified":1467082382,
     "wof:name":"B Wise Painting Co",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.844817,34.209191,-80.844817,34.209191],
-  "geometry": {"coordinates":[-80.844817,34.209191],"type":"Point"}
+  "bbox": [
+    -80.844817,
+    34.209191,
+    -80.844817,
+    34.209191
+],
+  "geometry": {"coordinates":[-80.84481700000001,34.209191],"type":"Point"}
 }

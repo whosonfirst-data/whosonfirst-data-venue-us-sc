@@ -2,13 +2,14 @@
   "id": 370596749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.960246,35.059737,-81.960246,35.059737",
     "geom:latitude":35.059737,
     "geom:longitude":-81.960246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Jason Ct",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370596749,
-    "wof:lastmodified":1449030816,
+    "wof:lastmodified":1467082336,
     "wof:name":"Roy Jolley",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.960246,35.059737,-81.960246,35.059737],
+  "bbox": [
+    -81.960246,
+    35.059737,
+    -81.960246,
+    35.059737
+],
   "geometry": {"coordinates":[-81.960246,35.059737],"type":"Point"}
 }

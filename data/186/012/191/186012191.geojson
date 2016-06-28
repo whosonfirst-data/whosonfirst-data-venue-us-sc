@@ -2,13 +2,14 @@
   "id": 186012191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.721216,33.572669,-81.721216,33.572669",
     "geom:latitude":33.572669,
     "geom:longitude":-81.721216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Rogers Ter",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186012191,
-    "wof:lastmodified":1449052751,
+    "wof:lastmodified":1467082410,
     "wof:name":"Aiken Housing Authority",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-81.721216,33.572669,-81.721216,33.572669],
+  "bbox": [
+    -81.721216,
+    33.572669,
+    -81.721216,
+    33.572669
+],
   "geometry": {"coordinates":[-81.721216,33.572669],"type":"Point"}
 }

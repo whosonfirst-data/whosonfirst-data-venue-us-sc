@@ -2,13 +2,14 @@
   "id": 185861425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.23888,34.80899,-82.23888,34.80899",
     "geom:latitude":34.80899,
     "geom:longitude":-82.23888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Birchstone Ct",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185861425,
-    "wof:lastmodified":1449008189,
+    "wof:lastmodified":1467082207,
     "wof:name":"O Q P Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "agent"
     ]
 },
-  "bbox": [-82.23888,34.80899,-82.23888,34.80899],
-  "geometry": {"coordinates":[-82.23888,34.80899],"type":"Point"}
+  "bbox": [
+    -82.23888,
+    34.80899,
+    -82.23888,
+    34.80899
+],
+  "geometry": {"coordinates":[-82.23887999999999,34.80899],"type":"Point"}
 }

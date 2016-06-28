@@ -2,13 +2,14 @@
   "id": 370498861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.769802,34.187721,-79.769802,34.187721",
     "geom:latitude":34.187721,
     "geom:longitude":-79.769802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 S Coit St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370498861,
-    "wof:lastmodified":1449031666,
+    "wof:lastmodified":1467082356,
     "wof:name":"Gilbert Construction",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.769802,34.187721,-79.769802,34.187721],
+  "bbox": [
+    -79.769802,
+    34.187721,
+    -79.769802,
+    34.187721
+],
   "geometry": {"coordinates":[-79.769802,34.187721],"type":"Point"}
 }

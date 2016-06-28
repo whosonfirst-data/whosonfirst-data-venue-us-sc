@@ -2,13 +2,14 @@
   "id": 370345313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.568055,33.193674,-80.568055,33.193674",
     "geom:latitude":33.193674,
     "geom:longitude":-80.568055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 US Hwy 15",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370345313,
-    "wof:lastmodified":1449032204,
+    "wof:lastmodified":1467082367,
     "wof:name":"Buddy's Auto Restore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-80.568055,33.193674,-80.568055,33.193674],
+  "bbox": [
+    -80.568055,
+    33.193674,
+    -80.568055,
+    33.193674
+],
   "geometry": {"coordinates":[-80.568055,33.193674],"type":"Point"}
 }

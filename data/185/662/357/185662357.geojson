@@ -2,13 +2,14 @@
   "id": 185662357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.01553,34.771957,-81.01553,34.771957",
     "geom:latitude":34.771957,
     "geom:longitude":-81.01553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3639 Lando Rd",
     "sg:city":"Richburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185662357,
-    "wof:lastmodified":1449007678,
+    "wof:lastmodified":1467082199,
     "wof:name":"Lando Hardwood Floors",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.01553,34.771957,-81.01553,34.771957],
+  "bbox": [
+    -81.01553,
+    34.771957,
+    -81.01553,
+    34.771957
+],
   "geometry": {"coordinates":[-81.01553,34.771957],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185914343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.015542,34.045671,-81.015542,34.045671",
     "geom:latitude":34.045671,
     "geom:longitude":-81.015542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5350 Farrow Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185914343,
-    "wof:lastmodified":1449007223,
+    "wof:lastmodified":1467082192,
     "wof:name":"Brown's Original Seafood",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-81.015542,34.045671,-81.015542,34.045671],
+  "bbox": [
+    -81.015542,
+    34.045671,
+    -81.015542,
+    34.045671
+],
   "geometry": {"coordinates":[-81.015542,34.045671],"type":"Point"}
 }

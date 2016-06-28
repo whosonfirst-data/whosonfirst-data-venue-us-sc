@@ -2,13 +2,14 @@
   "id": 354079609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.876031,34.132294,-78.876031,34.132294",
     "geom:latitude":34.132294,
     "geom:longitude":-78.876031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3220 US Hwy 701 N",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354079609,
-    "wof:lastmodified":1449067365,
+    "wof:lastmodified":1467082447,
     "wof:name":"Horry Auto Sales",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.876031,34.132294,-78.876031,34.132294],
+  "bbox": [
+    -78.876031,
+    34.132294,
+    -78.876031,
+    34.132294
+],
   "geometry": {"coordinates":[-78.876031,34.132294],"type":"Point"}
 }

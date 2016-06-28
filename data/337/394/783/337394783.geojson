@@ -2,13 +2,14 @@
   "id": 337394783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.396786,33.921039,-80.396786,33.921039",
     "geom:latitude":33.921039,
     "geom:longitude":-80.396786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Loring Mill Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337394783,
-    "wof:lastmodified":1449027076,
+    "wof:lastmodified":1467082270,
     "wof:name":"Mt Zion United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.396786,33.921039,-80.396786,33.921039],
-  "geometry": {"coordinates":[-80.396786,33.921039],"type":"Point"}
+  "bbox": [
+    -80.396786,
+    33.921039,
+    -80.396786,
+    33.921039
+],
+  "geometry": {"coordinates":[-80.39678600000001,33.921039],"type":"Point"}
 }

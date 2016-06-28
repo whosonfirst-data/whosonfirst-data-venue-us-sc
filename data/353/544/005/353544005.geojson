@@ -2,13 +2,14 @@
   "id": 353544005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.625129,34.71694,-81.625129,34.71694",
     "geom:latitude":34.71694,
     "geom:longitude":-81.625129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 N Herndon St",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353544005,
-    "wof:lastmodified":1449020793,
+    "wof:lastmodified":1467082261,
     "wof:name":"Corinth Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.625129,34.71694,-81.625129,34.71694],
+  "bbox": [
+    -81.625129,
+    34.71694,
+    -81.625129,
+    34.71694
+],
   "geometry": {"coordinates":[-81.625129,34.71694],"type":"Point"}
 }

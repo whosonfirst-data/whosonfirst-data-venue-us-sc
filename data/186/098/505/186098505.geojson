@@ -2,13 +2,14 @@
   "id": 186098505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.04479,34.204514,-79.04479,34.204514",
     "geom:latitude":34.204514,
     "geom:longitude":-79.04479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4217 Little Rd",
     "sg:city":"Little River",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186098505,
-    "wof:lastmodified":1449052740,
+    "wof:lastmodified":1467082410,
     "wof:name":"H S Pile Driving",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heavy"
     ]
 },
-  "bbox": [-79.04479,34.204514,-79.04479,34.204514],
-  "geometry": {"coordinates":[-79.04479,34.204514],"type":"Point"}
+  "bbox": [
+    -79.04479,
+    34.204514,
+    -79.04479,
+    34.204514
+],
+  "geometry": {"coordinates":[-79.04479000000001,34.204514],"type":"Point"}
 }

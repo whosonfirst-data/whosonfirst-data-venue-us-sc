@@ -2,13 +2,14 @@
   "id": 370863977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.536899,34.778319,-82.536899,34.778319",
     "geom:latitude":34.778319,
     "geom:longitude":-82.536899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 Brushy Creek Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370863977,
-    "wof:lastmodified":1449031420,
+    "wof:lastmodified":1467082350,
     "wof:name":"Cel Chemical & Supplies Inc",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.536899,34.778319,-82.536899,34.778319],
-  "geometry": {"coordinates":[-82.536899,34.778319],"type":"Point"}
+  "bbox": [
+    -82.536899,
+    34.778319,
+    -82.536899,
+    34.778319
+],
+  "geometry": {"coordinates":[-82.53689900000001,34.778319],"type":"Point"}
 }

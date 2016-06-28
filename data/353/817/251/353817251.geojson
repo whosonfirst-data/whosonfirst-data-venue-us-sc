@@ -2,13 +2,14 @@
   "id": 353817251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.69912,32.399268,-80.69912,32.399268",
     "geom:latitude":32.399268,
     "geom:longitude":-80.69912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Battery Creek Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353817251,
-    "wof:lastmodified":1449020323,
+    "wof:lastmodified":1467082252,
     "wof:name":"Wynn Electric",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.69912,32.399268,-80.69912,32.399268],
-  "geometry": {"coordinates":[-80.69912,32.399268],"type":"Point"}
+  "bbox": [
+    -80.69912,
+    32.399268,
+    -80.69912,
+    32.399268
+],
+  "geometry": {"coordinates":[-80.69911999999999,32.399268],"type":"Point"}
 }

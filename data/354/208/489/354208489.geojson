@@ -2,13 +2,14 @@
   "id": 354208489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.372569,33.944646,-80.372569,33.944646",
     "geom:latitude":33.944646,
     "geom:longitude":-80.372569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Bultman Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354208489,
-    "wof:lastmodified":1449066134,
+    "wof:lastmodified":1467082419,
     "wof:name":"Corley Vision Ctr",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "optician"
     ]
 },
-  "bbox": [-80.372569,33.944646,-80.372569,33.944646],
+  "bbox": [
+    -80.372569,
+    33.944646,
+    -80.372569,
+    33.944646
+],
   "geometry": {"coordinates":[-80.372569,33.944646],"type":"Point"}
 }

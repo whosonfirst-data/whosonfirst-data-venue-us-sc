@@ -2,13 +2,14 @@
   "id": 370765147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.025828,34.003604,-81.025828,34.003604",
     "geom:latitude":34.003604,
     "geom:longitude":-81.025828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 Gervais St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370765147,
-    "wof:lastmodified":1449031033,
+    "wof:lastmodified":1467082341,
     "wof:name":"Foundation For American Ed",
     "wof:parent_id":85876831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "philanthropic"
     ]
 },
-  "bbox": [-81.025828,34.003604,-81.025828,34.003604],
+  "bbox": [
+    -81.025828,
+    34.003604,
+    -81.025828,
+    34.003604
+],
   "geometry": {"coordinates":[-81.025828,34.003604],"type":"Point"}
 }

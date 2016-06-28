@@ -2,13 +2,14 @@
   "id": 370689933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.155661,34.139829,-81.155661,34.139829",
     "geom:latitude":34.139829,
     "geom:longitude":-81.155661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Riverbottom Rd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370689933,
-    "wof:lastmodified":1449031897,
+    "wof:lastmodified":1467082361,
     "wof:name":"H & H Insurance Brokers",
     "wof:parent_id":85831475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plan"
     ]
 },
-  "bbox": [-81.155661,34.139829,-81.155661,34.139829],
-  "geometry": {"coordinates":[-81.155661,34.139829],"type":"Point"}
+  "bbox": [
+    -81.155661,
+    34.139829,
+    -81.155661,
+    34.139829
+],
+  "geometry": {"coordinates":[-81.15566099999999,34.139829],"type":"Point"}
 }

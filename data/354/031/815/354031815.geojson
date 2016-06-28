@@ -2,13 +2,14 @@
   "id": 354031815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.075618,32.90223,-80.075618,32.90223",
     "geom:latitude":32.90223,
     "geom:longitude":-80.075618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7150 Cross County Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354031815,
-    "wof:lastmodified":1449066546,
+    "wof:lastmodified":1467082428,
     "wof:name":"Cregger Co Inc",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-80.075618,32.90223,-80.075618,32.90223],
-  "geometry": {"coordinates":[-80.075618,32.90223],"type":"Point"}
+  "bbox": [
+    -80.075618,
+    32.90223,
+    -80.075618,
+    32.90223
+],
+  "geometry": {"coordinates":[-80.07561800000001,32.90223],"type":"Point"}
 }

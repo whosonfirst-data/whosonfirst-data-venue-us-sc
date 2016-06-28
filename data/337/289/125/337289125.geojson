@@ -2,13 +2,14 @@
   "id": 337289125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.904278,34.69593,-82.904278,34.69593",
     "geom:latitude":34.69593,
     "geom:longitude":-82.904278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1437 Davis Mill Rd",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337289125,
-    "wof:lastmodified":1449027606,
+    "wof:lastmodified":1467082290,
     "wof:name":"Wells Highway Land Clearing",
     "wof:parent_id":85828189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "leveling"
     ]
 },
-  "bbox": [-82.904278,34.69593,-82.904278,34.69593],
-  "geometry": {"coordinates":[-82.904278,34.69593],"type":"Point"}
+  "bbox": [
+    -82.904278,
+    34.69593,
+    -82.904278,
+    34.69593
+],
+  "geometry": {"coordinates":[-82.90427800000001,34.69593],"type":"Point"}
 }

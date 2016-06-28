@@ -2,13 +2,14 @@
   "id": 185882043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.928973,32.786361,-79.928973,32.786361",
     "geom:latitude":32.786361,
     "geom:longitude":-79.928973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"332 E Bay St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185882043,
-    "wof:lastmodified":1449006897,
+    "wof:lastmodified":1467082187,
     "wof:name":"Blakeney Photography",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-79.928973,32.786361,-79.928973,32.786361],
+  "bbox": [
+    -79.928973,
+    32.786361,
+    -79.928973,
+    32.786361
+],
   "geometry": {"coordinates":[-79.928973,32.786361],"type":"Point"}
 }

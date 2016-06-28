@@ -2,13 +2,14 @@
   "id": 370280903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.952946,34.765028,-82.952946,34.765028",
     "geom:latitude":34.765028,
     "geom:longitude":-82.952946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4058 Keowee School Rd",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370280903,
-    "wof:lastmodified":1449030744,
+    "wof:lastmodified":1467082335,
     "wof:name":"Frankie's Marine Svc",
     "wof:parent_id":85854689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "boat"
     ]
 },
-  "bbox": [-82.952946,34.765028,-82.952946,34.765028],
+  "bbox": [
+    -82.952946,
+    34.765028,
+    -82.952946,
+    34.765028
+],
   "geometry": {"coordinates":[-82.952946,34.765028],"type":"Point"}
 }

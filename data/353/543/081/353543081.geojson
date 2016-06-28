@@ -2,13 +2,14 @@
   "id": 353543081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.002411,33.783278,-79.002411,33.783278",
     "geom:latitude":33.783278,
     "geom:longitude":-79.002411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2361 Cypress Cir",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353543081,
-    "wof:lastmodified":1449018752,
+    "wof:lastmodified":1467082220,
     "wof:name":"Associates In Surgery",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.002411,33.783278,-79.002411,33.783278],
+  "bbox": [
+    -79.002411,
+    33.783278,
+    -79.002411,
+    33.783278
+],
   "geometry": {"coordinates":[-79.002411,33.783278],"type":"Point"}
 }

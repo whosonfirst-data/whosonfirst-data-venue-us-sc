@@ -2,13 +2,14 @@
   "id": 186223659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.125559,35.055518,-81.125559,35.055518",
     "geom:latitude":35.055518,
     "geom:longitude":-81.125559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4049 Charlotte Hwy",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186223659,
-    "wof:lastmodified":1449050438,
+    "wof:lastmodified":1467082390,
     "wof:name":"George's Car Wash",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-81.125559,35.055518,-81.125559,35.055518],
+  "bbox": [
+    -81.125559,
+    35.055518,
+    -81.125559,
+    35.055518
+],
   "geometry": {"coordinates":[-81.125559,35.055518],"type":"Point"}
 }

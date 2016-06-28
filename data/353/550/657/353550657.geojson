@@ -2,13 +2,14 @@
   "id": 353550657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.810634,34.731353,-80.810634,34.731353",
     "geom:latitude":34.731353,
     "geom:longitude":-80.810634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1585 State Hwy 9 Byp",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353550657,
-    "wof:lastmodified":1449019638,
+    "wof:lastmodified":1467082238,
     "wof:name":"Lancaster Animal Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-80.810634,34.731353,-80.810634,34.731353],
-  "geometry": {"coordinates":[-80.810634,34.731353],"type":"Point"}
+  "bbox": [
+    -80.810634,
+    34.731353,
+    -80.810634,
+    34.731353
+],
+  "geometry": {"coordinates":[-80.81063399999999,34.731353],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353531191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.415183,34.826312,-82.415183,34.826312",
     "geom:latitude":34.826312,
     "geom:longitude":-82.415183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Brock Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353531191,
-    "wof:lastmodified":1449018853,
+    "wof:lastmodified":1467082222,
     "wof:name":"R H Post & Assoc",
     "wof:parent_id":85811527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.415183,34.826312,-82.415183,34.826312],
+  "bbox": [
+    -82.415183,
+    34.826312,
+    -82.415183,
+    34.826312
+],
   "geometry": {"coordinates":[-82.415183,34.826312],"type":"Point"}
 }

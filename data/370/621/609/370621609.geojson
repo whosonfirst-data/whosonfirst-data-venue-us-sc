@@ -2,13 +2,14 @@
   "id": 370621609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.56621,34.826959,-82.56621,34.826959",
     "geom:latitude":34.826959,
     "geom:longitude":-82.56621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 E Main St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370621609,
-    "wof:lastmodified":1449032072,
+    "wof:lastmodified":1467082364,
     "wof:name":"Bryant Office Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.56621,34.826959,-82.56621,34.826959],
+  "bbox": [
+    -82.56621,
+    34.826959,
+    -82.56621,
+    34.826959
+],
   "geometry": {"coordinates":[-82.56621,34.826959],"type":"Point"}
 }

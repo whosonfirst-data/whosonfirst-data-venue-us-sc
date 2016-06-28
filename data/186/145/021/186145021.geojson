@@ -2,13 +2,14 @@
   "id": 186145021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.030863,35.02537,-81.030863,35.02537",
     "geom:latitude":35.02537,
     "geom:longitude":-81.030863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31014 Executive Pt",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186145021,
-    "wof:lastmodified":1449051194,
+    "wof:lastmodified":1467082395,
     "wof:name":"ARC Consultants",
     "wof:parent_id":85810107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-81.030863,35.02537,-81.030863,35.02537],
+  "bbox": [
+    -81.030863,
+    35.02537,
+    -81.030863,
+    35.02537
+],
   "geometry": {"coordinates":[-81.030863,35.02537],"type":"Point"}
 }

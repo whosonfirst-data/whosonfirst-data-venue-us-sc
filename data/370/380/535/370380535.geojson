@@ -2,13 +2,14 @@
   "id": 370380535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.873945,32.791099,-79.873945,32.791099",
     "geom:latitude":32.791099,
     "geom:longitude":-79.873945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"646 Coleman Blvd",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370380535,
-    "wof:lastmodified":1449030660,
+    "wof:lastmodified":1467082333,
     "wof:name":"Glidden Paint",
     "wof:parent_id":85807781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "glass"
     ]
 },
-  "bbox": [-79.873945,32.791099,-79.873945,32.791099],
-  "geometry": {"coordinates":[-79.873945,32.791099],"type":"Point"}
+  "bbox": [
+    -79.873945,
+    32.791099,
+    -79.873945,
+    32.791099
+],
+  "geometry": {"coordinates":[-79.87394500000001,32.791099],"type":"Point"}
 }

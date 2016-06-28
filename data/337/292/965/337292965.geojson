@@ -2,13 +2,14 @@
   "id": 337292965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.070348,34.758819,-83.070348,34.758819",
     "geom:latitude":34.758819,
     "geom:longitude":-83.070348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 W Diedrich St",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337292965,
-    "wof:lastmodified":1449027009,
+    "wof:lastmodified":1467082268,
     "wof:name":"William Parisi Inc",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.070348,34.758819,-83.070348,34.758819],
+  "bbox": [
+    -83.070348,
+    34.758819,
+    -83.070348,
+    34.758819
+],
   "geometry": {"coordinates":[-83.070348,34.758819],"type":"Point"}
 }

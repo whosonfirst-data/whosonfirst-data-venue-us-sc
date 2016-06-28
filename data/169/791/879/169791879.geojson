@@ -2,13 +2,14 @@
   "id": 169791879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.765345,34.606486,-82.765345,34.606486",
     "geom:latitude":34.606486,
     "geom:longitude":-82.765345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6515 US Hwy 76",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169791879,
-    "wof:lastmodified":1449035190,
+    "wof:lastmodified":1467082385,
     "wof:name":"Residue Recycling Inc",
     "wof:parent_id":85854499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plastic"
     ]
 },
-  "bbox": [-82.765345,34.606486,-82.765345,34.606486],
+  "bbox": [
+    -82.765345,
+    34.606486,
+    -82.765345,
+    34.606486
+],
   "geometry": {"coordinates":[-82.765345,34.606486],"type":"Point"}
 }

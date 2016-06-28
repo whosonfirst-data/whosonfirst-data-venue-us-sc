@@ -2,13 +2,14 @@
   "id": 370198399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.777606,34.196831,-79.777606,34.196831",
     "geom:latitude":34.196831,
     "geom:longitude":-79.777606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 W Evans St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370198399,
-    "wof:lastmodified":1449030312,
+    "wof:lastmodified":1467082325,
     "wof:name":"Woodard's Community Care Home",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-79.777606,34.196831,-79.777606,34.196831],
-  "geometry": {"coordinates":[-79.777606,34.196831],"type":"Point"}
+  "bbox": [
+    -79.777606,
+    34.196831,
+    -79.777606,
+    34.196831
+],
+  "geometry": {"coordinates":[-79.77760600000001,34.196831],"type":"Point"}
 }

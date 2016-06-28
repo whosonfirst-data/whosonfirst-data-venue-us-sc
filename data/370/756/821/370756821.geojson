@@ -2,13 +2,14 @@
   "id": 370756821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.960731,32.687542,-79.960731,32.687542",
     "geom:latitude":32.687542,
     "geom:longitude":-79.960731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1985 Folly Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370756821,
-    "wof:lastmodified":1449031102,
+    "wof:lastmodified":1467082343,
     "wof:name":"Piggly Wiggly #17",
     "wof:parent_id":85847603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-79.960731,32.687542,-79.960731,32.687542],
+  "bbox": [
+    -79.960731,
+    32.687542,
+    -79.960731,
+    32.687542
+],
   "geometry": {"coordinates":[-79.960731,32.687542],"type":"Point"}
 }

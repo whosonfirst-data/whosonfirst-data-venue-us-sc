@@ -2,13 +2,14 @@
   "id": 370910281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.988054,35.050845,-81.988054,35.050845",
     "geom:latitude":35.050845,
     "geom:longitude":-81.988054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4370 State Hwy 9",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370910281,
-    "wof:lastmodified":1449030495,
+    "wof:lastmodified":1467082329,
     "wof:name":"Boiling Springs Animal Clinic",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-81.988054,35.050845,-81.988054,35.050845],
-  "geometry": {"coordinates":[-81.988054,35.050845],"type":"Point"}
+  "bbox": [
+    -81.988054,
+    35.050845,
+    -81.988054,
+    35.050845
+],
+  "geometry": {"coordinates":[-81.98805400000001,35.050845],"type":"Point"}
 }

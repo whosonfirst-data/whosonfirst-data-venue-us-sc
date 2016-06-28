@@ -2,13 +2,14 @@
   "id": 353880587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.024912,34.724786,-82.024912,34.724786",
     "geom:latitude":34.724786,
     "geom:longitude":-82.024912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11471 US Hwy 221",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353880587,
-    "wof:lastmodified":1449020824,
+    "wof:lastmodified":1467082262,
     "wof:name":"Laurens Electric Cooperative",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cooperative"
     ]
 },
-  "bbox": [-82.024912,34.724786,-82.024912,34.724786],
+  "bbox": [
+    -82.024912,
+    34.724786,
+    -82.024912,
+    34.724786
+],
   "geometry": {"coordinates":[-82.024912,34.724786],"type":"Point"}
 }

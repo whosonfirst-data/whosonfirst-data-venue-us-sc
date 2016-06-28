@@ -2,13 +2,14 @@
   "id": 354330699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.771726,34.197138,-79.771726,34.197138",
     "geom:latitude":34.197138,
     "geom:longitude":-79.771726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"349 W Evans St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354330699,
-    "wof:lastmodified":1449066779,
+    "wof:lastmodified":1467082434,
     "wof:name":"Guardian Ad Litem",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "human"
     ]
 },
-  "bbox": [-79.771726,34.197138,-79.771726,34.197138],
+  "bbox": [
+    -79.771726,
+    34.197138,
+    -79.771726,
+    34.197138
+],
   "geometry": {"coordinates":[-79.771726,34.197138],"type":"Point"}
 }

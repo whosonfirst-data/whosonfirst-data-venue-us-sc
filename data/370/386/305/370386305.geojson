@@ -2,13 +2,14 @@
   "id": 370386305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.692721,32.381474,-80.692721,32.381474",
     "geom:latitude":32.381474,
     "geom:longitude":-80.692721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 Paris Ave",
     "sg:city":"Port Royal",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370386305,
-    "wof:lastmodified":1449030857,
+    "wof:lastmodified":1467082337,
     "wof:name":"Port Royal Business License",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-80.692721,32.381474,-80.692721,32.381474],
-  "geometry": {"coordinates":[-80.692721,32.381474],"type":"Point"}
+  "bbox": [
+    -80.692721,
+    32.381474,
+    -80.692721,
+    32.381474
+],
+  "geometry": {"coordinates":[-80.69272100000001,32.381474],"type":"Point"}
 }

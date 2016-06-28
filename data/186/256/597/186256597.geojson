@@ -2,13 +2,14 @@
   "id": 186256597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.322404,34.924954,-82.322404,34.924954",
     "geom:latitude":34.924954,
     "geom:longitude":-82.322404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Wood Creek Dr",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186256597,
-    "wof:lastmodified":1449052373,
+    "wof:lastmodified":1467082407,
     "wof:name":"CMS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-82.322404,34.924954,-82.322404,34.924954],
-  "geometry": {"coordinates":[-82.322404,34.924954],"type":"Point"}
+  "bbox": [
+    -82.322404,
+    34.924954,
+    -82.322404,
+    34.924954
+],
+  "geometry": {"coordinates":[-82.32240400000001,34.924954],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353391081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.21085,34.001801,-81.21085,34.001801",
     "geom:latitude":34.001801,
     "geom:longitude":-81.21085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5343 Sunset Blvd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353391081,
-    "wof:lastmodified":1449019879,
+    "wof:lastmodified":1467082243,
     "wof:name":"Palmetto Pcs",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-81.21085,34.001801,-81.21085,34.001801],
-  "geometry": {"coordinates":[-81.21085,34.001801],"type":"Point"}
+  "bbox": [
+    -81.21085,
+    34.001801,
+    -81.21085,
+    34.001801
+],
+  "geometry": {"coordinates":[-81.21084999999999,34.001801],"type":"Point"}
 }

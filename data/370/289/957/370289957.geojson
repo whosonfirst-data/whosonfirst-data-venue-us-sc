@@ -2,13 +2,14 @@
   "id": 370289957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.934594,32.790828,-79.934594,32.790828",
     "geom:latitude":32.790828,
     "geom:longitude":-79.934594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Elizabeth St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370289957,
-    "wof:lastmodified":1449031904,
+    "wof:lastmodified":1467082361,
     "wof:name":"Tiedemann Playground",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-79.934594,32.790828,-79.934594,32.790828],
+  "bbox": [
+    -79.934594,
+    32.790828,
+    -79.934594,
+    32.790828
+],
   "geometry": {"coordinates":[-79.934594,32.790828],"type":"Point"}
 }

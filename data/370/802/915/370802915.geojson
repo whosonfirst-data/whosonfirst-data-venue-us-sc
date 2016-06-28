@@ -2,13 +2,14 @@
   "id": 370802915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.339903,34.859312,-82.339903,34.859312",
     "geom:latitude":34.859312,
     "geom:longitude":-82.339903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Villa Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370802915,
-    "wof:lastmodified":1449031842,
+    "wof:lastmodified":1467082359,
     "wof:name":"Richco Enterprises",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.339903,34.859312,-82.339903,34.859312],
-  "geometry": {"coordinates":[-82.339903,34.859312],"type":"Point"}
+  "bbox": [
+    -82.339903,
+    34.859312,
+    -82.339903,
+    34.859312
+],
+  "geometry": {"coordinates":[-82.33990300000001,34.859312],"type":"Point"}
 }

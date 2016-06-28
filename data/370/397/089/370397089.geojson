@@ -2,13 +2,14 @@
   "id": 370397089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.819871,35.132537,-81.819871,35.132537",
     "geom:latitude":35.132537,
     "geom:longitude":-81.819871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3677 Battleground Rd",
     "sg:city":"Chesnee",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370397089,
-    "wof:lastmodified":1449030434,
+    "wof:lastmodified":1467082328,
     "wof:name":"Pro Pacs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packaging"
     ]
 },
-  "bbox": [-81.819871,35.132537,-81.819871,35.132537],
-  "geometry": {"coordinates":[-81.819871,35.132537],"type":"Point"}
+  "bbox": [
+    -81.819871,
+    35.132537,
+    -81.819871,
+    35.132537
+],
+  "geometry": {"coordinates":[-81.81987100000001,35.132537],"type":"Point"}
 }

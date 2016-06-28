@@ -2,13 +2,14 @@
   "id": 354313235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.732996,32.229549,-80.732996,32.229549",
     "geom:latitude":32.229549,
     "geom:longitude":-80.732996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Winding Trail Ln",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354313235,
-    "wof:lastmodified":1449065991,
+    "wof:lastmodified":1467082416,
     "wof:name":"J W Home Inspections Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-80.732996,32.229549,-80.732996,32.229549],
+  "bbox": [
+    -80.732996,
+    32.229549,
+    -80.732996,
+    32.229549
+],
   "geometry": {"coordinates":[-80.732996,32.229549],"type":"Point"}
 }

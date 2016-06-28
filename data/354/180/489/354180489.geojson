@@ -2,13 +2,14 @@
   "id": 354180489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.420961,33.239052,-81.420961,33.239052",
     "geom:latitude":33.239052,
     "geom:longitude":-81.420961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Fairway Ln",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354180489,
-    "wof:lastmodified":1449066017,
+    "wof:lastmodified":1467082416,
     "wof:name":"Ole South Exteriors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "improvement"
     ]
 },
-  "bbox": [-81.420961,33.239052,-81.420961,33.239052],
-  "geometry": {"coordinates":[-81.420961,33.239052],"type":"Point"}
+  "bbox": [
+    -81.420961,
+    33.239052,
+    -81.420961,
+    33.239052
+],
+  "geometry": {"coordinates":[-81.42096100000001,33.239052],"type":"Point"}
 }

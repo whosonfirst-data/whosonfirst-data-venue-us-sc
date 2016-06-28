@@ -2,13 +2,14 @@
   "id": 185886681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.401406,33.444256,-80.401406,33.444256",
     "geom:latitude":33.444256,
     "geom:longitude":-80.401406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Lake Marion Ln",
     "sg:city":"Vance",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185886681,
-    "wof:lastmodified":1449007503,
+    "wof:lastmodified":1467082196,
     "wof:name":"Santee Dock Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "grading"
     ]
 },
-  "bbox": [-80.401406,33.444256,-80.401406,33.444256],
-  "geometry": {"coordinates":[-80.401406,33.444256],"type":"Point"}
+  "bbox": [
+    -80.401406,
+    33.444256,
+    -80.401406,
+    33.444256
+],
+  "geometry": {"coordinates":[-80.40140599999999,33.444256],"type":"Point"}
 }

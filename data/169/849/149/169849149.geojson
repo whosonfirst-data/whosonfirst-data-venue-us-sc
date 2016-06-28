@@ -2,13 +2,14 @@
   "id": 169849149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.560111,33.453677,-79.560111,33.453677",
     "geom:latitude":33.453677,
     "geom:longitude":-79.560111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N Morgan Ave",
     "sg:city":"Andrews",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169849149,
-    "wof:lastmodified":1449033298,
+    "wof:lastmodified":1467082379,
     "wof:name":"Odyssey Kid's Club",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-79.560111,33.453677,-79.560111,33.453677],
-  "geometry": {"coordinates":[-79.560111,33.453677],"type":"Point"}
+  "bbox": [
+    -79.560111,
+    33.453677,
+    -79.560111,
+    33.453677
+],
+  "geometry": {"coordinates":[-79.56011100000001,33.453677],"type":"Point"}
 }

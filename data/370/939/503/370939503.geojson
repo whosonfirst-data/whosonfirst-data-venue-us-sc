@@ -2,13 +2,14 @@
   "id": 370939503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.851779,32.789214,-79.851779,32.789214",
     "geom:latitude":32.789214,
     "geom:longitude":-79.851779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1470 Ben Sawyer Blvd",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370939503,
-    "wof:lastmodified":1449030100,
+    "wof:lastmodified":1467082321,
     "wof:name":"Webb Clements Inc",
     "wof:parent_id":85823907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-79.851779,32.789214,-79.851779,32.789214],
-  "geometry": {"coordinates":[-79.851779,32.789214],"type":"Point"}
+  "bbox": [
+    -79.851779,
+    32.789214,
+    -79.851779,
+    32.789214
+],
+  "geometry": {"coordinates":[-79.85177899999999,32.789214],"type":"Point"}
 }

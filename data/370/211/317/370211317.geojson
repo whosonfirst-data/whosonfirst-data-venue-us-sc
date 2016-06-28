@@ -2,13 +2,14 @@
   "id": 370211317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.75432,32.225355,-80.75432,32.225355",
     "geom:latitude":32.225355,
     "geom:longitude":-80.75432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Squire Pope Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":370211317,
-    "wof:lastmodified":1449029929,
+    "wof:lastmodified":1467082317,
     "wof:name":"Benny Hudson Seafood Corp",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.75432,32.225355,-80.75432,32.225355],
-  "geometry": {"coordinates":[-80.75432,32.225355],"type":"Point"}
+  "bbox": [
+    -80.75432,
+    32.225355,
+    -80.75432,
+    32.225355
+],
+  "geometry": {"coordinates":[-80.75432000000001,32.225355],"type":"Point"}
 }

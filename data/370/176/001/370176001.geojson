@@ -2,13 +2,14 @@
   "id": 370176001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.907967,33.372908,-79.907967,33.372908",
     "geom:latitude":33.372908,
     "geom:longitude":-79.907967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Sandy Acres",
     "sg:city":"Saint Stephen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370176001,
-    "wof:lastmodified":1449031281,
+    "wof:lastmodified":1467082347,
     "wof:name":"D and M Kennels",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kennel"
     ]
 },
-  "bbox": [-79.907967,33.372908,-79.907967,33.372908],
+  "bbox": [
+    -79.907967,
+    33.372908,
+    -79.907967,
+    33.372908
+],
   "geometry": {"coordinates":[-79.907967,33.372908],"type":"Point"}
 }

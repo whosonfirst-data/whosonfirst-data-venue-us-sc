@@ -2,13 +2,14 @@
   "id": 353537549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.883835,34.450435,-81.883835,34.450435",
     "geom:latitude":34.450435,
     "geom:longitude":-81.883835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2451 State Hwy 72",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353537549,
-    "wof:lastmodified":1449018887,
+    "wof:lastmodified":1467082222,
     "wof:name":"Crossroad Farmer's Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-81.883835,34.450435,-81.883835,34.450435],
+  "bbox": [
+    -81.883835,
+    34.450435,
+    -81.883835,
+    34.450435
+],
   "geometry": {"coordinates":[-81.883835,34.450435],"type":"Point"}
 }

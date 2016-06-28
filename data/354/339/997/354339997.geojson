@@ -2,13 +2,14 @@
   "id": 354339997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.123635,33.868693,-81.123635,33.868693",
     "geom:latitude":33.868693,
     "geom:longitude":-81.123635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Manor Dr",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354339997,
-    "wof:lastmodified":1449066672,
+    "wof:lastmodified":1467082431,
     "wof:name":"Brentwood Mobile HM Prk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "site"
     ]
 },
-  "bbox": [-81.123635,33.868693,-81.123635,33.868693],
-  "geometry": {"coordinates":[-81.123635,33.868693],"type":"Point"}
+  "bbox": [
+    -81.123635,
+    33.868693,
+    -81.123635,
+    33.868693
+],
+  "geometry": {"coordinates":[-81.12363499999999,33.868693],"type":"Point"}
 }

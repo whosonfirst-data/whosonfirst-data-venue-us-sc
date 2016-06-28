@@ -2,13 +2,14 @@
   "id": 370742957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.02651,34.934703,-81.02651,34.934703",
     "geom:latitude":34.934703,
     "geom:longitude":-81.02651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"362 Oakland Ave",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370742957,
-    "wof:lastmodified":1449029305,
+    "wof:lastmodified":1467082303,
     "wof:name":"Pure Escape",
     "wof:parent_id":85806915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.02651,34.934703,-81.02651,34.934703],
+  "bbox": [
+    -81.02651,
+    34.934703,
+    -81.02651,
+    34.934703
+],
   "geometry": {"coordinates":[-81.02651,34.934703],"type":"Point"}
 }

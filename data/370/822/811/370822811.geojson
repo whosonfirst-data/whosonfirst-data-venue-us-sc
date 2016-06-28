@@ -2,13 +2,14 @@
   "id": 370822811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.253938,34.726312,-82.253938,34.726312",
     "geom:latitude":34.726312,
     "geom:longitude":-82.253938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 SE Main St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370822811,
-    "wof:lastmodified":1449032366,
+    "wof:lastmodified":1467082371,
     "wof:name":"Tommy's Rent To Own",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [-82.253938,34.726312,-82.253938,34.726312],
-  "geometry": {"coordinates":[-82.253938,34.726312],"type":"Point"}
+  "bbox": [
+    -82.253938,
+    34.726312,
+    -82.253938,
+    34.726312
+],
+  "geometry": {"coordinates":[-82.25393800000001,34.726312],"type":"Point"}
 }

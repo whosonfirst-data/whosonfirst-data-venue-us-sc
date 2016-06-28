@@ -2,13 +2,14 @@
   "id": 370509699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.39136,34.860682,-82.39136,34.860682",
     "geom:latitude":34.860682,
     "geom:longitude":-82.39136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 E Stone Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370509699,
-    "wof:lastmodified":1449029208,
+    "wof:lastmodified":1467082301,
     "wof:name":"Poinsett Cleaners",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-82.39136,34.860682,-82.39136,34.860682],
-  "geometry": {"coordinates":[-82.39136,34.860682],"type":"Point"}
+  "bbox": [
+    -82.39136,
+    34.860682,
+    -82.39136,
+    34.860682
+],
+  "geometry": {"coordinates":[-82.39136000000001,34.860682],"type":"Point"}
 }

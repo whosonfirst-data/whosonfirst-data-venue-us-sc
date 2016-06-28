@@ -2,13 +2,14 @@
   "id": 370922131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.034098,34.002621,-81.034098,34.002621",
     "geom:latitude":34.002621,
     "geom:longitude":-81.034098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Main St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370922131,
-    "wof:lastmodified":1449029393,
+    "wof:lastmodified":1467082305,
     "wof:name":"Architectural Div",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.034098,34.002621,-81.034098,34.002621],
+  "bbox": [
+    -81.034098,
+    34.002621,
+    -81.034098,
+    34.002621
+],
   "geometry": {"coordinates":[-81.034098,34.002621],"type":"Point"}
 }

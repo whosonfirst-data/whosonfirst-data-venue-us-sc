@@ -2,13 +2,14 @@
   "id": 354293961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.953251,34.697323,-82.953251,34.697323",
     "geom:latitude":34.697323,
     "geom:longitude":-82.953251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 US Hwy 123",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354293961,
-    "wof:lastmodified":1449066264,
+    "wof:lastmodified":1467082422,
     "wof:name":"Southern Star Tire Service",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.953251,34.697323,-82.953251,34.697323],
-  "geometry": {"coordinates":[-82.953251,34.697323],"type":"Point"}
+  "bbox": [
+    -82.953251,
+    34.697323,
+    -82.953251,
+    34.697323
+],
+  "geometry": {"coordinates":[-82.95325099999999,34.697323],"type":"Point"}
 }

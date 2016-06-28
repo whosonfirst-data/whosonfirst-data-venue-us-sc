@@ -2,13 +2,14 @@
   "id": 337328913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.213039,33.865112,-81.213039,33.865112",
     "geom:latitude":33.865112,
     "geom:longitude":-81.213039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Sandy Peach Ln",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337328913,
-    "wof:lastmodified":1449027425,
+    "wof:lastmodified":1467082283,
     "wof:name":"Marshan Enterprises",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.213039,33.865112,-81.213039,33.865112],
-  "geometry": {"coordinates":[-81.213039,33.865112],"type":"Point"}
+  "bbox": [
+    -81.213039,
+    33.865112,
+    -81.213039,
+    33.865112
+],
+  "geometry": {"coordinates":[-81.21303899999999,33.865112],"type":"Point"}
 }

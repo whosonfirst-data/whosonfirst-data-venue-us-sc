@@ -2,13 +2,14 @@
   "id": 353959291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.296185,34.89106,-82.296185,34.89106",
     "geom:latitude":34.89106,
     "geom:longitude":-82.296185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5016 Old Spartanburg Rd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353959291,
-    "wof:lastmodified":1449020547,
+    "wof:lastmodified":1467082256,
     "wof:name":"Gifts At The Creek",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-82.296185,34.89106,-82.296185,34.89106],
-  "geometry": {"coordinates":[-82.296185,34.89106],"type":"Point"}
+  "bbox": [
+    -82.296185,
+    34.89106,
+    -82.296185,
+    34.89106
+],
+  "geometry": {"coordinates":[-82.29618499999999,34.89106],"type":"Point"}
 }

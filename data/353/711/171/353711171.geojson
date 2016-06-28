@@ -2,13 +2,14 @@
   "id": 353711171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.500931,33.426363,-80.500931,33.426363",
     "geom:latitude":33.426363,
     "geom:longitude":-80.500931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2336 Bonner Ave",
     "sg:city":"Santee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353711171,
-    "wof:lastmodified":1449020358,
+    "wof:lastmodified":1467082253,
     "wof:name":"Dantzler Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.500931,33.426363,-80.500931,33.426363],
-  "geometry": {"coordinates":[-80.500931,33.426363],"type":"Point"}
+  "bbox": [
+    -80.500931,
+    33.426363,
+    -80.500931,
+    33.426363
+],
+  "geometry": {"coordinates":[-80.50093099999999,33.426363],"type":"Point"}
 }

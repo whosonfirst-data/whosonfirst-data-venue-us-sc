@@ -2,13 +2,14 @@
   "id": 370772311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.762048,34.709645,-80.762048,34.709645",
     "geom:latitude":34.709645,
     "geom:longitude":-80.762048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 S Market St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370772311,
-    "wof:lastmodified":1449030615,
+    "wof:lastmodified":1467082332,
     "wof:name":"Crawford Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-80.762048,34.709645,-80.762048,34.709645],
-  "geometry": {"coordinates":[-80.762048,34.709645],"type":"Point"}
+  "bbox": [
+    -80.762048,
+    34.709645,
+    -80.762048,
+    34.709645
+],
+  "geometry": {"coordinates":[-80.76204799999999,34.709645],"type":"Point"}
 }

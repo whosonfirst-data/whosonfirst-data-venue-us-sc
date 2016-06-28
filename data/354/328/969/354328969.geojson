@@ -2,13 +2,14 @@
   "id": 354328969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.07583,33.87807,-81.07583,33.87807",
     "geom:latitude":33.87807,
     "geom:longitude":-81.07583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Glenn Rd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354328969,
-    "wof:lastmodified":1449066943,
+    "wof:lastmodified":1467082437,
     "wof:name":"Donald G Platt & Assoc",
     "wof:parent_id":85828499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-81.07583,33.87807,-81.07583,33.87807],
+  "bbox": [
+    -81.07583,
+    33.87807,
+    -81.07583,
+    33.87807
+],
   "geometry": {"coordinates":[-81.07583,33.87807],"type":"Point"}
 }

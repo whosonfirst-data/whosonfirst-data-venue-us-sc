@@ -2,13 +2,14 @@
   "id": 370811419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.673848,34.605122,-79.673848,34.605122",
     "geom:latitude":34.605122,
     "geom:longitude":-79.673848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 S Parsonage St",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370811419,
-    "wof:lastmodified":1449030724,
+    "wof:lastmodified":1467082334,
     "wof:name":"Marlboro County Child Prtctv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.673848,34.605122,-79.673848,34.605122],
-  "geometry": {"coordinates":[-79.673848,34.605122],"type":"Point"}
+  "bbox": [
+    -79.673848,
+    34.605122,
+    -79.673848,
+    34.605122
+],
+  "geometry": {"coordinates":[-79.67384800000001,34.605122],"type":"Point"}
 }

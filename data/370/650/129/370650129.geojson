@@ -2,13 +2,14 @@
   "id": 370650129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.62963,34.554062,-82.62963,34.554062",
     "geom:latitude":34.554062,
     "geom:longitude":-82.62963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Edgebrook Dr",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370650129,
-    "wof:lastmodified":1449031151,
+    "wof:lastmodified":1467082344,
     "wof:name":"Datatrac Receivables Recovery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-82.62963,34.554062,-82.62963,34.554062],
-  "geometry": {"coordinates":[-82.62963,34.554062],"type":"Point"}
+  "bbox": [
+    -82.62963,
+    34.554062,
+    -82.62963,
+    34.554062
+],
+  "geometry": {"coordinates":[-82.62963000000001,34.554062],"type":"Point"}
 }

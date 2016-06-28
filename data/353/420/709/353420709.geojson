@@ -2,13 +2,14 @@
   "id": 353420709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.981289,32.48231,-80.981289,32.48231",
     "geom:latitude":32.48231,
     "geom:longitude":-80.981289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N Green St",
     "sg:city":"Ridgeland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353420709,
-    "wof:lastmodified":1449019485,
+    "wof:lastmodified":1467082235,
     "wof:name":"KMA Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-80.981289,32.48231,-80.981289,32.48231],
+  "bbox": [
+    -80.981289,
+    32.48231,
+    -80.981289,
+    32.48231
+],
   "geometry": {"coordinates":[-80.981289,32.48231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169750765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.201805,34.714148,-81.201805,34.714148",
     "geom:latitude":34.714148,
     "geom:longitude":-81.201805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"186 Saluda St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169750765,
-    "wof:lastmodified":1449034674,
+    "wof:lastmodified":1467082384,
     "wof:name":"Textile Arts & Film",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "printing"
     ]
 },
-  "bbox": [-81.201805,34.714148,-81.201805,34.714148],
-  "geometry": {"coordinates":[-81.201805,34.714148],"type":"Point"}
+  "bbox": [
+    -81.201805,
+    34.714148,
+    -81.201805,
+    34.714148
+],
+  "geometry": {"coordinates":[-81.20180499999999,34.714148],"type":"Point"}
 }

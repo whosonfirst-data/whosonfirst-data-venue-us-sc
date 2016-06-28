@@ -2,13 +2,14 @@
   "id": 370251863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.069737,32.883647,-80.069737,32.883647",
     "geom:latitude":32.883647,
     "geom:longitude":-80.069737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4791 Apartment Blvd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370251863,
-    "wof:lastmodified":1449029127,
+    "wof:lastmodified":1467082299,
     "wof:name":"Wedgewood Townhouses",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.069737,32.883647,-80.069737,32.883647],
+  "bbox": [
+    -80.069737,
+    32.883647,
+    -80.069737,
+    32.883647
+],
   "geometry": {"coordinates":[-80.069737,32.883647],"type":"Point"}
 }

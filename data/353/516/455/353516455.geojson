@@ -2,13 +2,14 @@
   "id": 353516455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.001728,34.922816,-82.001728,34.922816",
     "geom:latitude":34.922816,
     "geom:longitude":-82.001728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 Oak Grove Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353516455,
-    "wof:lastmodified":1449018747,
+    "wof:lastmodified":1467082220,
     "wof:name":"Anderson Pest Control",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pest"
     ]
 },
-  "bbox": [-82.001728,34.922816,-82.001728,34.922816],
+  "bbox": [
+    -82.001728,
+    34.922816,
+    -82.001728,
+    34.922816
+],
   "geometry": {"coordinates":[-82.001728,34.922816],"type":"Point"}
 }

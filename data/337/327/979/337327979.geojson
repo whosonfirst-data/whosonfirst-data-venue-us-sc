@@ -2,13 +2,14 @@
   "id": 337327979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.381587,34.865093,-82.381587,34.865093",
     "geom:latitude":34.865093,
     "geom:longitude":-82.381587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"426 Wade Hampton Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337327979,
-    "wof:lastmodified":1449026997,
+    "wof:lastmodified":1467082267,
     "wof:name":"CVS",
     "wof:parent_id":85839969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-82.381587,34.865093,-82.381587,34.865093],
+  "bbox": [
+    -82.381587,
+    34.865093,
+    -82.381587,
+    34.865093
+],
   "geometry": {"coordinates":[-82.381587,34.865093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353643493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.227218,32.940984,-80.227218,32.940984",
     "geom:latitude":32.940984,
     "geom:longitude":-80.227218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Pointe of Oaks Rd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353643493,
-    "wof:lastmodified":1449020466,
+    "wof:lastmodified":1467082255,
     "wof:name":"Pointe At Legend Oaks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.227218,32.940984,-80.227218,32.940984],
-  "geometry": {"coordinates":[-80.227218,32.940984],"type":"Point"}
+  "bbox": [
+    -80.227218,
+    32.940984,
+    -80.227218,
+    32.940984
+],
+  "geometry": {"coordinates":[-80.22721799999999,32.940984],"type":"Point"}
 }

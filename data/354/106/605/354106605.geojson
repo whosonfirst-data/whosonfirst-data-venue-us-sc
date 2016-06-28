@@ -2,13 +2,14 @@
   "id": 354106605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.149656,33.878248,-81.149656,33.878248",
     "geom:latitude":33.878248,
     "geom:longitude":-81.149656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Luther Dr",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354106605,
-    "wof:lastmodified":1449065908,
+    "wof:lastmodified":1467082414,
     "wof:name":"J & H Insulation Co",
     "wof:parent_id":85847855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.149656,33.878248,-81.149656,33.878248],
-  "geometry": {"coordinates":[-81.149656,33.878248],"type":"Point"}
+  "bbox": [
+    -81.149656,
+    33.878248,
+    -81.149656,
+    33.878248
+],
+  "geometry": {"coordinates":[-81.14965599999999,33.878248],"type":"Point"}
 }

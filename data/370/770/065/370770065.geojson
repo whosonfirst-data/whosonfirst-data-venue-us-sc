@@ -2,13 +2,14 @@
   "id": 370770065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.085125,32.905355,-80.085125,32.905355",
     "geom:latitude":32.905355,
     "geom:longitude":-80.085125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4680 Purcell Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370770065,
-    "wof:lastmodified":1449032544,
+    "wof:lastmodified":1467082375,
     "wof:name":"Singleton Unlimited",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "frame"
     ]
 },
-  "bbox": [-80.085125,32.905355,-80.085125,32.905355],
-  "geometry": {"coordinates":[-80.085125,32.905355],"type":"Point"}
+  "bbox": [
+    -80.085125,
+    32.905355,
+    -80.085125,
+    32.905355
+],
+  "geometry": {"coordinates":[-80.08512500000001,32.905355],"type":"Point"}
 }

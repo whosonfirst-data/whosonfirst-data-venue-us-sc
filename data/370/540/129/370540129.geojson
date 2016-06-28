@@ -2,13 +2,14 @@
   "id": 370540129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.007874,33.586852,-79.007874,33.586852",
     "geom:latitude":33.586852,
     "geom:longitude":-79.007874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Boundary Dr",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370540129,
-    "wof:lastmodified":1449030417,
+    "wof:lastmodified":1467082328,
     "wof:name":"Myrtle Beach Golfing News Inc",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.007874,33.586852,-79.007874,33.586852],
+  "bbox": [
+    -79.007874,
+    33.586852,
+    -79.007874,
+    33.586852
+],
   "geometry": {"coordinates":[-79.007874,33.586852],"type":"Point"}
 }

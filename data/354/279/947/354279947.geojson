@@ -2,13 +2,14 @@
   "id": 354279947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.375698,33.923683,-80.375698,33.923683",
     "geom:latitude":33.923683,
     "geom:longitude":-80.375698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Alice Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354279947,
-    "wof:lastmodified":1449066695,
+    "wof:lastmodified":1467082432,
     "wof:name":"T & J Supply Inc",
     "wof:parent_id":85827029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "establishment"
     ]
 },
-  "bbox": [-80.375698,33.923683,-80.375698,33.923683],
+  "bbox": [
+    -80.375698,
+    33.923683,
+    -80.375698,
+    33.923683
+],
   "geometry": {"coordinates":[-80.375698,33.923683],"type":"Point"}
 }

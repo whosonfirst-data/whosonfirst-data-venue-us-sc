@@ -2,13 +2,14 @@
   "id": 370844593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.576618,34.475986,-82.576618,34.475986",
     "geom:latitude":34.475986,
     "geom:longitude":-82.576618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4926 Belton Hwy",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370844593,
-    "wof:lastmodified":1449030529,
+    "wof:lastmodified":1467082330,
     "wof:name":"Broadway Wtr & Sewerage Dst An",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "district"
     ]
 },
-  "bbox": [-82.576618,34.475986,-82.576618,34.475986],
+  "bbox": [
+    -82.576618,
+    34.475986,
+    -82.576618,
+    34.475986
+],
   "geometry": {"coordinates":[-82.576618,34.475986],"type":"Point"}
 }

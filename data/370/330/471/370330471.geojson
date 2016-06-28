@@ -2,13 +2,14 @@
   "id": 370330471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.995629,32.809524,-79.995629,32.809524",
     "geom:latitude":32.809524,
     "geom:longitude":-79.995629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 Old Towne Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370330471,
-    "wof:lastmodified":1449030764,
+    "wof:lastmodified":1467082335,
     "wof:name":"Pantry Store 3353",
     "wof:parent_id":85839447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.995629,32.809524,-79.995629,32.809524],
-  "geometry": {"coordinates":[-79.995629,32.809524],"type":"Point"}
+  "bbox": [
+    -79.995629,
+    32.809524,
+    -79.995629,
+    32.809524
+],
+  "geometry": {"coordinates":[-79.99562899999999,32.809524],"type":"Point"}
 }

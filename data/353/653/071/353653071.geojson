@@ -2,13 +2,14 @@
   "id": 353653071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.770323,32.875091,-80.770323,32.875091",
     "geom:latitude":32.875091,
     "geom:longitude":-80.770323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 Cane St",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353653071,
-    "wof:lastmodified":1449018444,
+    "wof:lastmodified":1467082214,
     "wof:name":"Home Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "improvement"
     ]
 },
-  "bbox": [-80.770323,32.875091,-80.770323,32.875091],
+  "bbox": [
+    -80.770323,
+    32.875091,
+    -80.770323,
+    32.875091
+],
   "geometry": {"coordinates":[-80.770323,32.875091],"type":"Point"}
 }

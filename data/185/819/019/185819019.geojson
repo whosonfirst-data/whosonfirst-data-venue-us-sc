@@ -2,13 +2,14 @@
   "id": 185819019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.55305,34.689926,-82.55305,34.689926",
     "geom:latitude":34.689926,
     "geom:longitude":-82.55305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6419 Hwy 81 N",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185819019,
-    "wof:lastmodified":1449006991,
+    "wof:lastmodified":1467082188,
     "wof:name":"Contract Maintenance Spc",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.55305,34.689926,-82.55305,34.689926],
+  "bbox": [
+    -82.55305,
+    34.689926,
+    -82.55305,
+    34.689926
+],
   "geometry": {"coordinates":[-82.55305,34.689926],"type":"Point"}
 }

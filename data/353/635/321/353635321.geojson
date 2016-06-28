@@ -2,13 +2,14 @@
   "id": 353635321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.314502,34.918571,-82.314502,34.918571",
     "geom:latitude":34.918571,
     "geom:longitude":-82.314502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3303 Wade Hampton Blvd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353635321,
-    "wof:lastmodified":1449019357,
+    "wof:lastmodified":1467082232,
     "wof:name":"Carolina Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.314502,34.918571,-82.314502,34.918571],
+  "bbox": [
+    -82.314502,
+    34.918571,
+    -82.314502,
+    34.918571
+],
   "geometry": {"coordinates":[-82.314502,34.918571],"type":"Point"}
 }

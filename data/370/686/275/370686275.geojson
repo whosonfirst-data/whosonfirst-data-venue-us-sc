@@ -2,13 +2,14 @@
   "id": 370686275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.749023,33.969647,-79.749023,33.969647",
     "geom:latitude":33.969647,
     "geom:longitude":-79.749023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3506 US Hwy 52",
     "sg:city":"Coward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370686275,
-    "wof:lastmodified":1449031658,
+    "wof:lastmodified":1467082355,
     "wof:name":"Le Sweet's Hats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hat"
     ]
 },
-  "bbox": [-79.749023,33.969647,-79.749023,33.969647],
-  "geometry": {"coordinates":[-79.749023,33.969647],"type":"Point"}
+  "bbox": [
+    -79.749023,
+    33.969647,
+    -79.749023,
+    33.969647
+],
+  "geometry": {"coordinates":[-79.74902299999999,33.969647],"type":"Point"}
 }

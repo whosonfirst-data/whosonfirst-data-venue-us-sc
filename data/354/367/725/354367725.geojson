@@ -2,13 +2,14 @@
   "id": 354367725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.98687,34.963198,-80.98687,34.963198",
     "geom:latitude":34.963198,
     "geom:longitude":-80.98687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 Eden Ter",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354367725,
-    "wof:lastmodified":1449066952,
+    "wof:lastmodified":1467082438,
     "wof:name":"Cross Road Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.98687,34.963198,-80.98687,34.963198],
+  "bbox": [
+    -80.98687,
+    34.963198,
+    -80.98687,
+    34.963198
+],
   "geometry": {"coordinates":[-80.98687,34.963198],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185598941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.310648,34.222843,-81.310648,34.222843",
     "geom:latitude":34.222843,
     "geom:longitude":-81.310648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Mike Stuck Rd",
     "sg:city":"Little Mountain",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185598941,
-    "wof:lastmodified":1449006665,
+    "wof:lastmodified":1467082183,
     "wof:name":"Solutions Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.310648,34.222843,-81.310648,34.222843],
+  "bbox": [
+    -81.310648,
+    34.222843,
+    -81.310648,
+    34.222843
+],
   "geometry": {"coordinates":[-81.310648,34.222843],"type":"Point"}
 }

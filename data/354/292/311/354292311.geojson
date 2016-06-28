@@ -2,13 +2,14 @@
   "id": 354292311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.883423,34.06275,-78.883423,34.06275",
     "geom:latitude":34.06275,
     "geom:longitude":-78.883423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5201 Broad St",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354292311,
-    "wof:lastmodified":1449066068,
+    "wof:lastmodified":1467082418,
     "wof:name":"HCSB Financial Corp",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-78.883423,34.06275,-78.883423,34.06275],
-  "geometry": {"coordinates":[-78.883423,34.06275],"type":"Point"}
+  "bbox": [
+    -78.883423,
+    34.06275,
+    -78.883423,
+    34.06275
+],
+  "geometry": {"coordinates":[-78.88342299999999,34.06275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337300219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.929594,33.583134,-81.929594,33.583134",
     "geom:latitude":33.583134,
     "geom:longitude":-81.929594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Farrington Way",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337300219,
-    "wof:lastmodified":1449027413,
+    "wof:lastmodified":1467082283,
     "wof:name":"Gazebo Weddings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-81.929594,33.583134,-81.929594,33.583134],
-  "geometry": {"coordinates":[-81.929594,33.583134],"type":"Point"}
+  "bbox": [
+    -81.929594,
+    33.583134,
+    -81.929594,
+    33.583134
+],
+  "geometry": {"coordinates":[-81.92959399999999,33.583134],"type":"Point"}
 }

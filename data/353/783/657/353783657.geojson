@@ -2,13 +2,14 @@
   "id": 353783657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.245288,34.114106,-81.245288,34.114106",
     "geom:latitude":34.114106,
     "geom:longitude":-81.245288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1063 Amick Dr",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353783657,
-    "wof:lastmodified":1449018323,
+    "wof:lastmodified":1467082211,
     "wof:name":"Homes Made Easy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.245288,34.114106,-81.245288,34.114106],
+  "bbox": [
+    -81.245288,
+    34.114106,
+    -81.245288,
+    34.114106
+],
   "geometry": {"coordinates":[-81.245288,34.114106],"type":"Point"}
 }

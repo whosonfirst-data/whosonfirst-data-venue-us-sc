@@ -2,13 +2,14 @@
   "id": 186172067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.771152,34.720859,-80.771152,34.720859",
     "geom:latitude":34.720859,
     "geom:longitude":-80.771152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Main St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186172067,
-    "wof:lastmodified":1449051451,
+    "wof:lastmodified":1467082398,
     "wof:name":"NORTH South Wholesale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-80.771152,34.720859,-80.771152,34.720859],
+  "bbox": [
+    -80.771152,
+    34.720859,
+    -80.771152,
+    34.720859
+],
   "geometry": {"coordinates":[-80.771152,34.720859],"type":"Point"}
 }

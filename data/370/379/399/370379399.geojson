@@ -2,13 +2,14 @@
   "id": 370379399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.976019,33.61793,-78.976019,33.61793",
     "geom:latitude":33.61793,
     "geom:longitude":-78.976019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 US Hwy 17 N",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370379399,
-    "wof:lastmodified":1449031042,
+    "wof:lastmodified":1467082341,
     "wof:name":"Ronis Lounge",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-78.976019,33.61793,-78.976019,33.61793],
-  "geometry": {"coordinates":[-78.976019,33.61793],"type":"Point"}
+  "bbox": [
+    -78.976019,
+    33.61793,
+    -78.976019,
+    33.61793
+],
+  "geometry": {"coordinates":[-78.97601899999999,33.61793],"type":"Point"}
 }

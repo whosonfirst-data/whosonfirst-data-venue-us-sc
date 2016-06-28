@@ -2,13 +2,14 @@
   "id": 186280143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.019875,33.660245,-79.019875,33.660245",
     "geom:latitude":33.660245,
     "geom:longitude":-79.019875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5760 Leonard Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186280143,
-    "wof:lastmodified":1449051699,
+    "wof:lastmodified":1467082400,
     "wof:name":"Sweetbrier Stables",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-79.019875,33.660245,-79.019875,33.660245],
+  "bbox": [
+    -79.019875,
+    33.660245,
+    -79.019875,
+    33.660245
+],
   "geometry": {"coordinates":[-79.019875,33.660245],"type":"Point"}
 }

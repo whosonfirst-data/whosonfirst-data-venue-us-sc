@@ -2,13 +2,14 @@
   "id": 353387567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.694919,34.559943,-82.694919,34.559943",
     "geom:latitude":34.559943,
     "geom:longitude":-82.694919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Station Dr",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353387567,
-    "wof:lastmodified":1449020464,
+    "wof:lastmodified":1467082255,
     "wof:name":"Bed Bath & Beyond Inc",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "housewares"
     ]
 },
-  "bbox": [-82.694919,34.559943,-82.694919,34.559943],
+  "bbox": [
+    -82.694919,
+    34.559943,
+    -82.694919,
+    34.559943
+],
   "geometry": {"coordinates":[-82.694919,34.559943],"type":"Point"}
 }

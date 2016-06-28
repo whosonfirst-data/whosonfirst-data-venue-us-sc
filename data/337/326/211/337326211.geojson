@@ -2,13 +2,14 @@
   "id": 337326211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.357779,34.87343,-82.357779,34.87343",
     "geom:latitude":34.87343,
     "geom:longitude":-82.357779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Regency Hill Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337326211,
-    "wof:lastmodified":1449027280,
+    "wof:lastmodified":1467082278,
     "wof:name":"Urban League Of The Upstate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.357779,34.87343,-82.357779,34.87343],
-  "geometry": {"coordinates":[-82.357779,34.87343],"type":"Point"}
+  "bbox": [
+    -82.357779,
+    34.87343,
+    -82.357779,
+    34.87343
+],
+  "geometry": {"coordinates":[-82.35777899999999,34.87343],"type":"Point"}
 }

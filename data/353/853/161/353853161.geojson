@@ -2,13 +2,14 @@
   "id": 353853161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.008565,32.803045,-80.008565,32.803045",
     "geom:latitude":32.803045,
     "geom:longitude":-80.008565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 Wappoo Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353853161,
-    "wof:lastmodified":1449019285,
+    "wof:lastmodified":1467082231,
     "wof:name":"Charles Towne Child Dev Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.008565,32.803045,-80.008565,32.803045],
+  "bbox": [
+    -80.008565,
+    32.803045,
+    -80.008565,
+    32.803045
+],
   "geometry": {"coordinates":[-80.008565,32.803045],"type":"Point"}
 }

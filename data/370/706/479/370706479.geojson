@@ -2,13 +2,14 @@
   "id": 370706479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.240607,34.864429,-82.240607,34.864429",
     "geom:latitude":34.864429,
     "geom:longitude":-82.240607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1443 S Batesville Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370706479,
-    "wof:lastmodified":1449029324,
+    "wof:lastmodified":1467082303,
     "wof:name":"Upstate Mulch Greer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "installation"
     ]
 },
-  "bbox": [-82.240607,34.864429,-82.240607,34.864429],
+  "bbox": [
+    -82.240607,
+    34.864429,
+    -82.240607,
+    34.864429
+],
   "geometry": {"coordinates":[-82.240607,34.864429],"type":"Point"}
 }

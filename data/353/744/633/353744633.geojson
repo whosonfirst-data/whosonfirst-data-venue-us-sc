@@ -2,13 +2,14 @@
   "id": 353744633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.697619,33.881759,-80.697619,33.881759",
     "geom:latitude":33.881759,
     "geom:longitude":-80.697619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Nelson",
     "sg:city":"Eastover",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353744633,
-    "wof:lastmodified":1449019179,
+    "wof:lastmodified":1467082228,
     "wof:name":"Kenneth Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-80.697619,33.881759,-80.697619,33.881759],
+  "bbox": [
+    -80.697619,
+    33.881759,
+    -80.697619,
+    33.881759
+],
   "geometry": {"coordinates":[-80.697619,33.881759],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370265551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.777796,34.177872,-79.777796,34.177872",
     "geom:latitude":34.177872,
     "geom:longitude":-79.777796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Iris Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370265551,
-    "wof:lastmodified":1449030254,
+    "wof:lastmodified":1467082324,
     "wof:name":"Edge of Creation",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-79.777796,34.177872,-79.777796,34.177872],
+  "bbox": [
+    -79.777796,
+    34.177872,
+    -79.777796,
+    34.177872
+],
   "geometry": {"coordinates":[-79.777796,34.177872],"type":"Point"}
 }

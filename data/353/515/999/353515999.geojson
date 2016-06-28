@@ -2,13 +2,14 @@
   "id": 353515999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.667099,35.066114,-81.667099,35.066114",
     "geom:latitude":35.066114,
     "geom:longitude":-81.667099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 Hyatt St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353515999,
-    "wof:lastmodified":1449018844,
+    "wof:lastmodified":1467082222,
     "wof:name":"Abrasive Belt Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "product"
     ]
 },
-  "bbox": [-81.667099,35.066114,-81.667099,35.066114],
-  "geometry": {"coordinates":[-81.667099,35.066114],"type":"Point"}
+  "bbox": [
+    -81.667099,
+    35.066114,
+    -81.667099,
+    35.066114
+],
+  "geometry": {"coordinates":[-81.66709899999999,35.066114],"type":"Point"}
 }

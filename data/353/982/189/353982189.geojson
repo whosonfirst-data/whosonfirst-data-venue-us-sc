@@ -2,13 +2,14 @@
   "id": 353982189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.926684,33.185581,-79.926684,33.185581",
     "geom:latitude":33.185581,
     "geom:longitude":-79.926684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1780 State Hwy 402",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353982189,
-    "wof:lastmodified":1449018681,
+    "wof:lastmodified":1467082218,
     "wof:name":"C & C Bar-B-Que",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.926684,33.185581,-79.926684,33.185581],
-  "geometry": {"coordinates":[-79.926684,33.185581],"type":"Point"}
+  "bbox": [
+    -79.926684,
+    33.185581,
+    -79.926684,
+    33.185581
+],
+  "geometry": {"coordinates":[-79.92668399999999,33.185581],"type":"Point"}
 }

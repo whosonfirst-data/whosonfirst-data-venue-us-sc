@@ -2,13 +2,14 @@
   "id": 370289131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.668202,34.738086,-80.668202,34.738086",
     "geom:latitude":34.738086,
     "geom:longitude":-80.668202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3422 Pageland Hwy",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370289131,
-    "wof:lastmodified":1449031903,
+    "wof:lastmodified":1467082361,
     "wof:name":"Lyles Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.668202,34.738086,-80.668202,34.738086],
-  "geometry": {"coordinates":[-80.668202,34.738086],"type":"Point"}
+  "bbox": [
+    -80.668202,
+    34.738086,
+    -80.668202,
+    34.738086
+],
+  "geometry": {"coordinates":[-80.66820199999999,34.738086],"type":"Point"}
 }

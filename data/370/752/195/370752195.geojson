@@ -2,13 +2,14 @@
   "id": 370752195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.372646,33.944218,-80.372646,33.944218",
     "geom:latitude":33.944218,
     "geom:longitude":-80.372646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Bultman Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370752195,
-    "wof:lastmodified":1449029655,
+    "wof:lastmodified":1467082310,
     "wof:name":"Roper Personnel Svc",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-80.372646,33.944218,-80.372646,33.944218],
+  "bbox": [
+    -80.372646,
+    33.944218,
+    -80.372646,
+    33.944218
+],
   "geometry": {"coordinates":[-80.372646,33.944218],"type":"Point"}
 }

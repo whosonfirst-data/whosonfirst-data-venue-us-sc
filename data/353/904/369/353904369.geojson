@@ -2,13 +2,14 @@
   "id": 353904369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.600152,34.830853,-82.600152,34.830853",
     "geom:latitude":34.830853,
     "geom:longitude":-82.600152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E Main St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353904369,
-    "wof:lastmodified":1449020870,
+    "wof:lastmodified":1467082263,
     "wof:name":"Butch's Front End & Alignment",
     "wof:parent_id":85832619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.600152,34.830853,-82.600152,34.830853],
-  "geometry": {"coordinates":[-82.600152,34.830853],"type":"Point"}
+  "bbox": [
+    -82.600152,
+    34.830853,
+    -82.600152,
+    34.830853
+],
+  "geometry": {"coordinates":[-82.60015199999999,34.830853],"type":"Point"}
 }

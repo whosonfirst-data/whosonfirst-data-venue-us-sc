@@ -2,13 +2,14 @@
   "id": 185766081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.323238,33.979253,-81.323238,33.979253",
     "geom:latitude":33.979253,
     "geom:longitude":-81.323238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2650 Augusta Hwy",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185766081,
-    "wof:lastmodified":1449006578,
+    "wof:lastmodified":1467082182,
     "wof:name":"Tidwell Agency Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.323238,33.979253,-81.323238,33.979253],
+  "bbox": [
+    -81.323238,
+    33.979253,
+    -81.323238,
+    33.979253
+],
   "geometry": {"coordinates":[-81.323238,33.979253],"type":"Point"}
 }

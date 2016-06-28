@@ -2,13 +2,14 @@
   "id": 370291783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.499039,34.012151,-81.499039,34.012151",
     "geom:latitude":34.012151,
     "geom:longitude":-81.499039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1798 Utopia School Rd",
     "sg:city":"Leesville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370291783,
-    "wof:lastmodified":1449030137,
+    "wof:lastmodified":1467082321,
     "wof:name":"Community Christian Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.499039,34.012151,-81.499039,34.012151],
+  "bbox": [
+    -81.499039,
+    34.012151,
+    -81.499039,
+    34.012151
+],
   "geometry": {"coordinates":[-81.499039,34.012151],"type":"Point"}
 }

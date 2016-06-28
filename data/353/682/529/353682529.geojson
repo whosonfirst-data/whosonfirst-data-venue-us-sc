@@ -2,13 +2,14 @@
   "id": 353682529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.695676,34.560953,-82.695676,34.560953",
     "geom:latitude":34.560953,
     "geom:longitude":-82.695676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4110 Clemson Blvd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353682529,
-    "wof:lastmodified":1449018687,
+    "wof:lastmodified":1467082218,
     "wof:name":"Harley-Davidson-Anderson",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-82.695676,34.560953,-82.695676,34.560953],
-  "geometry": {"coordinates":[-82.695676,34.560953],"type":"Point"}
+  "bbox": [
+    -82.695676,
+    34.560953,
+    -82.695676,
+    34.560953
+],
+  "geometry": {"coordinates":[-82.69567600000001,34.560953],"type":"Point"}
 }

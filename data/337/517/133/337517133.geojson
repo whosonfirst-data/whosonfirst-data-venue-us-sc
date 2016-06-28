@@ -2,13 +2,14 @@
   "id": 337517133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.015384,32.844005,-80.015384,32.844005",
     "geom:latitude":32.844005,
     "geom:longitude":-80.015384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3896 Leeds Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337517133,
-    "wof:lastmodified":1449027413,
+    "wof:lastmodified":1467082283,
     "wof:name":"Ducks Unlimited",
     "wof:parent_id":85807225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "org"
     ]
 },
-  "bbox": [-80.015384,32.844005,-80.015384,32.844005],
+  "bbox": [
+    -80.015384,
+    32.844005,
+    -80.015384,
+    32.844005
+],
   "geometry": {"coordinates":[-80.015384,32.844005],"type":"Point"}
 }

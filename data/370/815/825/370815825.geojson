@@ -2,13 +2,14 @@
   "id": 370815825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.582112,34.598002,-82.582112,34.598002",
     "geom:latitude":34.598002,
     "geom:longitude":-82.582112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4740 Midway Rd",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370815825,
-    "wof:lastmodified":1449030730,
+    "wof:lastmodified":1467082334,
     "wof:name":"Lyman Ducworth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-82.582112,34.598002,-82.582112,34.598002],
+  "bbox": [
+    -82.582112,
+    34.598002,
+    -82.582112,
+    34.598002
+],
   "geometry": {"coordinates":[-82.582112,34.598002],"type":"Point"}
 }

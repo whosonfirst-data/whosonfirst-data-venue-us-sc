@@ -2,13 +2,14 @@
   "id": 337455007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.430225,34.82503,-82.430225,34.82503",
     "geom:latitude":34.82503,
     "geom:longitude":-82.430225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1909 Anderson Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337455007,
-    "wof:lastmodified":1449027609,
+    "wof:lastmodified":1467082290,
     "wof:name":"Freddies Tile",
     "wof:parent_id":85810381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.430225,34.82503,-82.430225,34.82503],
-  "geometry": {"coordinates":[-82.430225,34.82503],"type":"Point"}
+  "bbox": [
+    -82.430225,
+    34.82503,
+    -82.430225,
+    34.82503
+],
+  "geometry": {"coordinates":[-82.43022499999999,34.82503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370704693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.970749,32.755187,-79.970749,32.755187",
     "geom:latitude":32.755187,
     "geom:longitude":-79.970749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Harbor View Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370704693,
-    "wof:lastmodified":1449029980,
+    "wof:lastmodified":1467082318,
     "wof:name":"Martin Luther Lutheran Church",
     "wof:parent_id":85832547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.970749,32.755187,-79.970749,32.755187],
+  "bbox": [
+    -79.970749,
+    32.755187,
+    -79.970749,
+    32.755187
+],
   "geometry": {"coordinates":[-79.970749,32.755187],"type":"Point"}
 }

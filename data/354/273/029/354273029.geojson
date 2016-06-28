@@ -2,13 +2,14 @@
   "id": 354273029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.257926,34.706453,-82.257926,34.706453",
     "geom:latitude":34.706453,
     "geom:longitude":-82.257926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 Fairview Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354273029,
-    "wof:lastmodified":1449066813,
+    "wof:lastmodified":1467082434,
     "wof:name":"Ingles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.257926,34.706453,-82.257926,34.706453],
+  "bbox": [
+    -82.257926,
+    34.706453,
+    -82.257926,
+    34.706453
+],
   "geometry": {"coordinates":[-82.257926,34.706453],"type":"Point"}
 }

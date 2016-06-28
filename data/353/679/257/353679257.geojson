@@ -2,13 +2,14 @@
   "id": 353679257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.931558,34.983201,-81.931558,34.983201",
     "geom:latitude":34.983201,
     "geom:longitude":-81.931558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Fir St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353679257,
-    "wof:lastmodified":1449019889,
+    "wof:lastmodified":1467082243,
     "wof:name":"Carolina Investigations Inc",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "server"
     ]
 },
-  "bbox": [-81.931558,34.983201,-81.931558,34.983201],
+  "bbox": [
+    -81.931558,
+    34.983201,
+    -81.931558,
+    34.983201
+],
   "geometry": {"coordinates":[-81.931558,34.983201],"type":"Point"}
 }

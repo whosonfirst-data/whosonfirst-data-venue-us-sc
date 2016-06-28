@@ -2,13 +2,14 @@
   "id": 353963783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.103229,35.146209,-82.103229,35.146209",
     "geom:latitude":35.146209,
     "geom:longitude":-82.103229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Melvin Hill Rd",
     "sg:city":"Campobello",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353963783,
-    "wof:lastmodified":1449018501,
+    "wof:lastmodified":1467082215,
     "wof:name":"A&S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "door"
     ]
 },
-  "bbox": [-82.103229,35.146209,-82.103229,35.146209],
+  "bbox": [
+    -82.103229,
+    35.146209,
+    -82.103229,
+    35.146209
+],
   "geometry": {"coordinates":[-82.103229,35.146209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186193903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.702934,32.206425,-80.702934,32.206425",
     "geom:latitude":32.206425,
     "geom:longitude":-80.702934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Island Dr",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186193903,
-    "wof:lastmodified":1449050846,
+    "wof:lastmodified":1467082392,
     "wof:name":"Karla's Kleaners",
     "wof:parent_id":85819729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.702934,32.206425,-80.702934,32.206425],
+  "bbox": [
+    -80.702934,
+    32.206425,
+    -80.702934,
+    32.206425
+],
   "geometry": {"coordinates":[-80.702934,32.206425],"type":"Point"}
 }

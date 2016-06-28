@@ -2,13 +2,14 @@
   "id": 370593489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.030571,32.792449,-80.030571,32.792449",
     "geom:latitude":32.792449,
     "geom:longitude":-80.030571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2070 Sam Rittenberg Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370593489,
-    "wof:lastmodified":1449031322,
+    "wof:lastmodified":1467082348,
     "wof:name":"All About Cellular",
     "wof:parent_id":85809785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-80.030571,32.792449,-80.030571,32.792449],
-  "geometry": {"coordinates":[-80.030571,32.792449],"type":"Point"}
+  "bbox": [
+    -80.030571,
+    32.792449,
+    -80.030571,
+    32.792449
+],
+  "geometry": {"coordinates":[-80.03057099999999,32.792449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354071379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.033099,34.954049,-81.033099,34.954049",
     "geom:latitude":34.954049,
     "geom:longitude":-81.033099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 Thornwell Ave",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354071379,
-    "wof:lastmodified":1449067031,
+    "wof:lastmodified":1467082439,
     "wof:name":"Blueagle Professional Cleaning",
     "wof:parent_id":85847885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-81.033099,34.954049,-81.033099,34.954049],
-  "geometry": {"coordinates":[-81.033099,34.954049],"type":"Point"}
+  "bbox": [
+    -81.033099,
+    34.954049,
+    -81.033099,
+    34.954049
+],
+  "geometry": {"coordinates":[-81.03309900000001,34.954049],"type":"Point"}
 }

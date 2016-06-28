@@ -2,13 +2,14 @@
   "id": 370181919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.866047,33.484521,-80.866047,33.484521",
     "geom:latitude":33.484521,
     "geom:longitude":-80.866047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1297 John C Calhoun Dr",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370181919,
-    "wof:lastmodified":1449031166,
+    "wof:lastmodified":1467082344,
     "wof:name":"Titlemax Of Orangeburg Inc",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-80.866047,33.484521,-80.866047,33.484521],
-  "geometry": {"coordinates":[-80.866047,33.484521],"type":"Point"}
+  "bbox": [
+    -80.866047,
+    33.484521,
+    -80.866047,
+    33.484521
+],
+  "geometry": {"coordinates":[-80.86604699999999,33.484521],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185599785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.40553,34.87603,-82.40553,34.87603",
     "geom:latitude":34.87603,
     "geom:longitude":-82.40553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Goldsmith St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185599785,
-    "wof:lastmodified":1449007359,
+    "wof:lastmodified":1467082194,
     "wof:name":"Davis Electrical Constructors",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.40553,34.87603,-82.40553,34.87603],
+  "bbox": [
+    -82.40553,
+    34.87603,
+    -82.40553,
+    34.87603
+],
   "geometry": {"coordinates":[-82.40553,34.87603],"type":"Point"}
 }

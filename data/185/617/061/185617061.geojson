@@ -2,13 +2,14 @@
   "id": 185617061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.044322,33.01971,-80.044322,33.01971",
     "geom:latitude":33.01971,
     "geom:longitude":-80.044322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Thurgood Rd",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185617061,
-    "wof:lastmodified":1449006635,
+    "wof:lastmodified":1467082183,
     "wof:name":"South Berkeley Seniors Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "citizen"
     ]
 },
-  "bbox": [-80.044322,33.01971,-80.044322,33.01971],
-  "geometry": {"coordinates":[-80.044322,33.01971],"type":"Point"}
+  "bbox": [
+    -80.044322,
+    33.01971,
+    -80.044322,
+    33.01971
+],
+  "geometry": {"coordinates":[-80.04432199999999,33.01971],"type":"Point"}
 }

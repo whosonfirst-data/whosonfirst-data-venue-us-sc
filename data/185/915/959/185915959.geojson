@@ -2,13 +2,14 @@
   "id": 185915959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.978019,32.485697,-80.978019,32.485697",
     "geom:latitude":32.485697,
     "geom:longitude":-80.978019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"535 Captain Bill Rd",
     "sg:city":"Ridgeland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185915959,
-    "wof:lastmodified":1449008177,
+    "wof:lastmodified":1467082207,
     "wof:name":"Devenwood Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.978019,32.485697,-80.978019,32.485697],
+  "bbox": [
+    -80.978019,
+    32.485697,
+    -80.978019,
+    32.485697
+],
   "geometry": {"coordinates":[-80.978019,32.485697],"type":"Point"}
 }

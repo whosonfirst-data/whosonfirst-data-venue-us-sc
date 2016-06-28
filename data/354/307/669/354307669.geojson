@@ -2,13 +2,14 @@
   "id": 354307669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.751579,32.800464,-79.751579,32.800464",
     "geom:latitude":32.800464,
     "geom:longitude":-79.751579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4700 Palm Blvd",
     "sg:city":"Isle Of Palms",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354307669,
-    "wof:lastmodified":1449066351,
+    "wof:lastmodified":1467082424,
     "wof:name":"Citadel Beach Club",
     "wof:parent_id":85819989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-79.751579,32.800464,-79.751579,32.800464],
-  "geometry": {"coordinates":[-79.751579,32.800464],"type":"Point"}
+  "bbox": [
+    -79.751579,
+    32.800464,
+    -79.751579,
+    32.800464
+],
+  "geometry": {"coordinates":[-79.75157900000001,32.800464],"type":"Point"}
 }

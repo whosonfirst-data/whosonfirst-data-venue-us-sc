@@ -2,13 +2,14 @@
   "id": 353567625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.999903,33.618572,-78.999903,33.618572",
     "geom:latitude":33.618572,
     "geom:longitude":-78.999903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2286 Glenns Bay Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353567625,
-    "wof:lastmodified":1449020817,
+    "wof:lastmodified":1467082262,
     "wof:name":"Swan Cleaners",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-78.999903,33.618572,-78.999903,33.618572],
+  "bbox": [
+    -78.999903,
+    33.618572,
+    -78.999903,
+    33.618572
+],
   "geometry": {"coordinates":[-78.999903,33.618572],"type":"Point"}
 }

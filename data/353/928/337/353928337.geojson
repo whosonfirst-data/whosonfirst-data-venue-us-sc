@@ -2,13 +2,14 @@
   "id": 353928337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.329084,34.855024,-82.329084,34.855024",
     "geom:latitude":34.855024,
     "geom:longitude":-82.329084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Brendan Way",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353928337,
-    "wof:lastmodified":1449020452,
+    "wof:lastmodified":1467082255,
     "wof:name":"Piedmont Gastroenterology",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.329084,34.855024,-82.329084,34.855024],
-  "geometry": {"coordinates":[-82.329084,34.855024],"type":"Point"}
+  "bbox": [
+    -82.329084,
+    34.855024,
+    -82.329084,
+    34.855024
+],
+  "geometry": {"coordinates":[-82.32908399999999,34.855024],"type":"Point"}
 }

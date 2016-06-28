@@ -2,13 +2,14 @@
   "id": 354333315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.017406,33.998563,-81.017406,33.998563",
     "geom:latitude":33.998563,
     "geom:longitude":-81.017406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2091 Devine St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354333315,
-    "wof:lastmodified":1449067561,
+    "wof:lastmodified":1467082452,
     "wof:name":"Birds On A Wire Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.017406,33.998563,-81.017406,33.998563],
-  "geometry": {"coordinates":[-81.017406,33.998563],"type":"Point"}
+  "bbox": [
+    -81.017406,
+    33.998563,
+    -81.017406,
+    33.998563
+],
+  "geometry": {"coordinates":[-81.01740599999999,33.998563],"type":"Point"}
 }

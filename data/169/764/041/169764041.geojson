@@ -2,13 +2,14 @@
   "id": 169764041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930627,32.776428,-79.930627,32.776428",
     "geom:latitude":32.776428,
     "geom:longitude":-79.930627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Broad St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169764041,
-    "wof:lastmodified":1449035804,
+    "wof:lastmodified":1467082387,
     "wof:name":"Spencer Art Gallery",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.930627,32.776428,-79.930627,32.776428],
+  "bbox": [
+    -79.930627,
+    32.776428,
+    -79.930627,
+    32.776428
+],
   "geometry": {"coordinates":[-79.930627,32.776428],"type":"Point"}
 }

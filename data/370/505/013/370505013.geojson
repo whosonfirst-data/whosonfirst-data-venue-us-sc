@@ -2,13 +2,14 @@
   "id": 370505013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.106566,32.763,-80.106566,32.763",
     "geom:latitude":32.763,
     "geom:longitude":-80.106566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"842 Main Rd",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370505013,
-    "wof:lastmodified":1449031906,
+    "wof:lastmodified":1467082361,
     "wof:name":"Stono Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "market"
     ]
 },
-  "bbox": [-80.106566,32.763,-80.106566,32.763],
+  "bbox": [
+    -80.106566,
+    32.763,
+    -80.106566,
+    32.763
+],
   "geometry": {"coordinates":[-80.106566,32.763],"type":"Point"}
 }

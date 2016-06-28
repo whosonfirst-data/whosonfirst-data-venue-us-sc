@@ -2,13 +2,14 @@
   "id": 186035703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.758353,33.288269,-79.758353,33.288269",
     "geom:latitude":33.288269,
     "geom:longitude":-79.758353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 Santee River Rd",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186035703,
-    "wof:lastmodified":1449052494,
+    "wof:lastmodified":1467082408,
     "wof:name":"Josiah Boone",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-79.758353,33.288269,-79.758353,33.288269],
+  "bbox": [
+    -79.758353,
+    33.288269,
+    -79.758353,
+    33.288269
+],
   "geometry": {"coordinates":[-79.758353,33.288269],"type":"Point"}
 }

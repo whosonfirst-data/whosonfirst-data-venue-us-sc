@@ -2,13 +2,14 @@
   "id": 354097145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.003565,34.076083,-81.003565,34.076083",
     "geom:latitude":34.076083,
     "geom:longitude":-81.003565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Hanbury Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354097145,
-    "wof:lastmodified":1449066581,
+    "wof:lastmodified":1467082429,
     "wof:name":"Anapest Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.003565,34.076083,-81.003565,34.076083],
-  "geometry": {"coordinates":[-81.003565,34.076083],"type":"Point"}
+  "bbox": [
+    -81.003565,
+    34.076083,
+    -81.003565,
+    34.076083
+],
+  "geometry": {"coordinates":[-81.00356499999999,34.076083],"type":"Point"}
 }

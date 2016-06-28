@@ -2,13 +2,14 @@
   "id": 353632793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.39186,34.96685,-82.39186,34.96685",
     "geom:latitude":34.96685,
     "geom:longitude":-82.39186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Robertson Way",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353632793,
-    "wof:lastmodified":1449019876,
+    "wof:lastmodified":1467082243,
     "wof:name":"Hightower Racing Transmission",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-82.39186,34.96685,-82.39186,34.96685],
-  "geometry": {"coordinates":[-82.39186,34.96685],"type":"Point"}
+  "bbox": [
+    -82.39186,
+    34.96685,
+    -82.39186,
+    34.96685
+],
+  "geometry": {"coordinates":[-82.39185999999999,34.96685],"type":"Point"}
 }

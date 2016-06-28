@@ -2,13 +2,14 @@
   "id": 370362045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.934445,35.058854,-81.934445,35.058854",
     "geom:latitude":35.058854,
     "geom:longitude":-81.934445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Brookwood Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370362045,
-    "wof:lastmodified":1449031262,
+    "wof:lastmodified":1467082346,
     "wof:name":"M & T Trash Svc",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "collection"
     ]
 },
-  "bbox": [-81.934445,35.058854,-81.934445,35.058854],
+  "bbox": [
+    -81.934445,
+    35.058854,
+    -81.934445,
+    35.058854
+],
   "geometry": {"coordinates":[-81.934445,35.058854],"type":"Point"}
 }

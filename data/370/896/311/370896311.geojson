@@ -2,13 +2,14 @@
   "id": 370896311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.694228,34.792223,-82.694228,34.792223",
     "geom:latitude":34.792223,
     "geom:longitude":-82.694228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Blue Ridge Dr",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370896311,
-    "wof:lastmodified":1449030322,
+    "wof:lastmodified":1467082326,
     "wof:name":"Leonard Owen Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.694228,34.792223,-82.694228,34.792223],
+  "bbox": [
+    -82.694228,
+    34.792223,
+    -82.694228,
+    34.792223
+],
   "geometry": {"coordinates":[-82.694228,34.792223],"type":"Point"}
 }

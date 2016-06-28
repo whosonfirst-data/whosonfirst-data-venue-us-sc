@@ -2,13 +2,14 @@
   "id": 370917911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.546635,35.121083,-81.546635,35.121083",
     "geom:latitude":35.121083,
     "geom:longitude":-81.546635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"853 Blacksburg Hwy",
     "sg:city":"Blacksburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370917911,
-    "wof:lastmodified":1449032025,
+    "wof:lastmodified":1467082363,
     "wof:name":"Al's Auto Sales & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-81.546635,35.121083,-81.546635,35.121083],
-  "geometry": {"coordinates":[-81.546635,35.121083],"type":"Point"}
+  "bbox": [
+    -81.546635,
+    35.121083,
+    -81.546635,
+    35.121083
+],
+  "geometry": {"coordinates":[-81.54663499999999,35.121083],"type":"Point"}
 }

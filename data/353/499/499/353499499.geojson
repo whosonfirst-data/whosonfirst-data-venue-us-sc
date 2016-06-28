@@ -2,13 +2,14 @@
   "id": 353499499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.160169,34.189886,-82.160169,34.189886",
     "geom:latitude":34.189886,
     "geom:longitude":-82.160169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Main St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353499499,
-    "wof:lastmodified":1449018742,
+    "wof:lastmodified":1467082219,
     "wof:name":"Watson Law Firm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.160169,34.189886,-82.160169,34.189886],
+  "bbox": [
+    -82.160169,
+    34.189886,
+    -82.160169,
+    34.189886
+],
   "geometry": {"coordinates":[-82.160169,34.189886],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353612469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.001527,34.518025,-82.001527,34.518025",
     "geom:latitude":34.518025,
     "geom:longitude":-82.001527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Ranch Rd",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353612469,
-    "wof:lastmodified":1449019387,
+    "wof:lastmodified":1467082233,
     "wof:name":"Laurens County Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-82.001527,34.518025,-82.001527,34.518025],
+  "bbox": [
+    -82.001527,
+    34.518025,
+    -82.001527,
+    34.518025
+],
   "geometry": {"coordinates":[-82.001527,34.518025],"type":"Point"}
 }

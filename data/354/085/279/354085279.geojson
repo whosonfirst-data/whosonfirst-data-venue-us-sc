@@ -2,13 +2,14 @@
   "id": 354085279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.014371,33.9932,-81.014371,33.9932",
     "geom:latitude":33.9932,
     "geom:longitude":-81.014371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Waccamaw Ave",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":354085279,
-    "wof:lastmodified":1449066338,
+    "wof:lastmodified":1467082424,
     "wof:name":"Congaree Cleaning Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.014371,33.9932,-81.014371,33.9932],
+  "bbox": [
+    -81.014371,
+    33.9932,
+    -81.014371,
+    33.9932
+],
   "geometry": {"coordinates":[-81.014371,33.9932],"type":"Point"}
 }

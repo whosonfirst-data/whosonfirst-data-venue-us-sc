@@ -2,13 +2,14 @@
   "id": 186207727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.047945,33.788631,-81.047945,33.788631",
     "geom:latitude":33.788631,
     "geom:longitude":-81.047945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 Pine Plain Rd",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186207727,
-    "wof:lastmodified":1449052234,
+    "wof:lastmodified":1467082405,
     "wof:name":"A Plus Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "covering"
     ]
 },
-  "bbox": [-81.047945,33.788631,-81.047945,33.788631],
+  "bbox": [
+    -81.047945,
+    33.788631,
+    -81.047945,
+    33.788631
+],
   "geometry": {"coordinates":[-81.047945,33.788631],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370181993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.018077,32.85441,-80.018077,32.85441",
     "geom:latitude":32.85441,
     "geom:longitude":-80.018077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4620 Dorchester Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370181993,
-    "wof:lastmodified":1449031165,
+    "wof:lastmodified":1467082344,
     "wof:name":"International Lounge",
     "wof:parent_id":85807225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-80.018077,32.85441,-80.018077,32.85441],
-  "geometry": {"coordinates":[-80.018077,32.85441],"type":"Point"}
+  "bbox": [
+    -80.018077,
+    32.85441,
+    -80.018077,
+    32.85441
+],
+  "geometry": {"coordinates":[-80.01807700000001,32.85441],"type":"Point"}
 }

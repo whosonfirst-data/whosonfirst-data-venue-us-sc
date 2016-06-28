@@ -2,13 +2,14 @@
   "id": 353573209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.129403,33.042229,-80.129403,33.042229",
     "geom:latitude":33.042229,
     "geom:longitude":-80.129403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 N Main St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353573209,
-    "wof:lastmodified":1449020131,
+    "wof:lastmodified":1467082248,
     "wof:name":"First National Bank Of Sc",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-80.129403,33.042229,-80.129403,33.042229],
+  "bbox": [
+    -80.129403,
+    33.042229,
+    -80.129403,
+    33.042229
+],
   "geometry": {"coordinates":[-80.129403,33.042229],"type":"Point"}
 }

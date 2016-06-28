@@ -2,13 +2,14 @@
   "id": 353991427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.981301,34.940014,-81.981301,34.940014",
     "geom:latitude":34.940014,
     "geom:longitude":-81.981301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 Dover Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353991427,
-    "wof:lastmodified":1449019056,
+    "wof:lastmodified":1467082226,
     "wof:name":"Dominion Jewelry",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-81.981301,34.940014,-81.981301,34.940014],
+  "bbox": [
+    -81.981301,
+    34.940014,
+    -81.981301,
+    34.940014
+],
   "geometry": {"coordinates":[-81.981301,34.940014],"type":"Point"}
 }

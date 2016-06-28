@@ -2,13 +2,14 @@
   "id": 185735171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.991588,33.953642,-80.991588,33.953642",
     "geom:latitude":33.953642,
     "geom:longitude":-80.991588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 S Beltline Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185735171,
-    "wof:lastmodified":1449008152,
+    "wof:lastmodified":1467082206,
     "wof:name":"Custom Rides & Accessories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-80.991588,33.953642,-80.991588,33.953642],
-  "geometry": {"coordinates":[-80.991588,33.953642],"type":"Point"}
+  "bbox": [
+    -80.991588,
+    33.953642,
+    -80.991588,
+    33.953642
+],
+  "geometry": {"coordinates":[-80.99158799999999,33.953642],"type":"Point"}
 }

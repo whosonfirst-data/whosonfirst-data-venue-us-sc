@@ -2,13 +2,14 @@
   "id": 370552771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.917842,34.991561,-81.917842,34.991561",
     "geom:latitude":34.991561,
     "geom:longitude":-81.917842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Bryant Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370552771,
-    "wof:lastmodified":1449030497,
+    "wof:lastmodified":1467082329,
     "wof:name":"Patrick's Hair",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.917842,34.991561,-81.917842,34.991561],
-  "geometry": {"coordinates":[-81.917842,34.991561],"type":"Point"}
+  "bbox": [
+    -81.917842,
+    34.991561,
+    -81.917842,
+    34.991561
+],
+  "geometry": {"coordinates":[-81.91784199999999,34.991561],"type":"Point"}
 }

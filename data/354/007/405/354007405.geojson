@@ -2,13 +2,14 @@
   "id": 354007405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.729738,32.215138,-80.729738,32.215138",
     "geom:latitude":32.215138,
     "geom:longitude":-80.729738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 Main St",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354007405,
-    "wof:lastmodified":1449067359,
+    "wof:lastmodified":1467082447,
     "wof:name":"Hilton Head Medical & Dental",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.729738,32.215138,-80.729738,32.215138],
+  "bbox": [
+    -80.729738,
+    32.215138,
+    -80.729738,
+    32.215138
+],
   "geometry": {"coordinates":[-80.729738,32.215138],"type":"Point"}
 }

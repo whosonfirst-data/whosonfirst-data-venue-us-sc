@@ -2,13 +2,14 @@
   "id": 186144265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.060532,32.957135,-80.060532,32.957135",
     "geom:latitude":32.957135,
     "geom:longitude":-80.060532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8304 Greenridge Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186144265,
-    "wof:lastmodified":1449052322,
+    "wof:lastmodified":1467082406,
     "wof:name":"There Is Hope Ministries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.060532,32.957135,-80.060532,32.957135],
-  "geometry": {"coordinates":[-80.060532,32.957135],"type":"Point"}
+  "bbox": [
+    -80.060532,
+    32.957135,
+    -80.060532,
+    32.957135
+],
+  "geometry": {"coordinates":[-80.06053199999999,32.957135],"type":"Point"}
 }

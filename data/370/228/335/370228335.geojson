@@ -2,13 +2,14 @@
   "id": 370228335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.324451,33.399965,-79.324451,33.399965",
     "geom:latitude":33.399965,
     "geom:longitude":-79.324451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Player St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370228335,
-    "wof:lastmodified":1449030154,
+    "wof:lastmodified":1467082322,
     "wof:name":"B M Christian Travel Agency",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-79.324451,33.399965,-79.324451,33.399965],
+  "bbox": [
+    -79.324451,
+    33.399965,
+    -79.324451,
+    33.399965
+],
   "geometry": {"coordinates":[-79.324451,33.399965],"type":"Point"}
 }

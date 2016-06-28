@@ -2,13 +2,14 @@
   "id": 370574101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.222461,34.756751,-82.222461,34.756751",
     "geom:latitude":34.756751,
     "geom:longitude":-82.222461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 League Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":370574101,
-    "wof:lastmodified":1449029041,
+    "wof:lastmodified":1467082297,
     "wof:name":"Laurel & Holly Farm LLC",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-82.222461,34.756751,-82.222461,34.756751],
+  "bbox": [
+    -82.222461,
+    34.756751,
+    -82.222461,
+    34.756751
+],
   "geometry": {"coordinates":[-82.222461,34.756751],"type":"Point"}
 }

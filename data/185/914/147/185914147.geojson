@@ -2,13 +2,14 @@
   "id": 185914147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.854998,32.801388,-79.854998,32.801388",
     "geom:latitude":32.801388,
     "geom:longitude":-79.854998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Pleasant Oaks Dr",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185914147,
-    "wof:lastmodified":1449007224,
+    "wof:lastmodified":1467082192,
     "wof:name":"H M Northcutt Corp",
     "wof:parent_id":85824823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "treatment"
     ]
 },
-  "bbox": [-79.854998,32.801388,-79.854998,32.801388],
-  "geometry": {"coordinates":[-79.854998,32.801388],"type":"Point"}
+  "bbox": [
+    -79.854998,
+    32.801388,
+    -79.854998,
+    32.801388
+],
+  "geometry": {"coordinates":[-79.85499799999999,32.801388],"type":"Point"}
 }

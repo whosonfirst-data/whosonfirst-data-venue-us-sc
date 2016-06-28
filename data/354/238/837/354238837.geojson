@@ -2,13 +2,14 @@
   "id": 354238837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.289341,34.719778,-81.289341,34.719778",
     "geom:latitude":34.719778,
     "geom:longitude":-81.289341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1690 Pinckney Rd",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354238837,
-    "wof:lastmodified":1449066553,
+    "wof:lastmodified":1467082429,
     "wof:name":"West Chester Rural Fire Dept",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.289341,34.719778,-81.289341,34.719778],
-  "geometry": {"coordinates":[-81.289341,34.719778],"type":"Point"}
+  "bbox": [
+    -81.289341,
+    34.719778,
+    -81.289341,
+    34.719778
+],
+  "geometry": {"coordinates":[-81.28934099999999,34.719778],"type":"Point"}
 }

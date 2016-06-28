@@ -2,13 +2,14 @@
   "id": 186111185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.039417,34.068049,-81.039417,34.068049",
     "geom:latitude":34.068049,
     "geom:longitude":-81.039417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Sunbelt Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186111185,
-    "wof:lastmodified":1449053105,
+    "wof:lastmodified":1467082414,
     "wof:name":"Mason Corp",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "building"
     ]
 },
-  "bbox": [-81.039417,34.068049,-81.039417,34.068049],
+  "bbox": [
+    -81.039417,
+    34.068049,
+    -81.039417,
+    34.068049
+],
   "geometry": {"coordinates":[-81.039417,34.068049],"type":"Point"}
 }

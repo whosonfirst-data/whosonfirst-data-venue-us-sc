@@ -2,13 +2,14 @@
   "id": 353422291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.872845,32.806391,-79.872845,32.806391",
     "geom:latitude":32.806391,
     "geom:longitude":-79.872845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"943 Shetland Ct",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353422291,
-    "wof:lastmodified":1449018435,
+    "wof:lastmodified":1467082213,
     "wof:name":"Heritage Healthcare",
     "wof:parent_id":85848217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.872845,32.806391,-79.872845,32.806391],
+  "bbox": [
+    -79.872845,
+    32.806391,
+    -79.872845,
+    32.806391
+],
   "geometry": {"coordinates":[-79.872845,32.806391],"type":"Point"}
 }

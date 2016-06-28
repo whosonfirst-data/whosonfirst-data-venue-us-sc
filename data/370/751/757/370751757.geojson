@@ -2,13 +2,14 @@
   "id": 370751757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.623204,34.603728,-82.623204,34.603728",
     "geom:latitude":34.603728,
     "geom:longitude":-82.623204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Dandelion Trl",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370751757,
-    "wof:lastmodified":1449029270,
+    "wof:lastmodified":1467082302,
     "wof:name":"Meadows Pool",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-82.623204,34.603728,-82.623204,34.603728],
+  "bbox": [
+    -82.623204,
+    34.603728,
+    -82.623204,
+    34.603728
+],
   "geometry": {"coordinates":[-82.623204,34.603728],"type":"Point"}
 }

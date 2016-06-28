@@ -2,13 +2,14 @@
   "id": 370534623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.969794,34.919917,-81.969794,34.919917",
     "geom:latitude":34.919917,
     "geom:longitude":-81.969794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Southport Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370534623,
-    "wof:lastmodified":1449029978,
+    "wof:lastmodified":1467082318,
     "wof:name":"Young Office Supply Co",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.969794,34.919917,-81.969794,34.919917],
-  "geometry": {"coordinates":[-81.969794,34.919917],"type":"Point"}
+  "bbox": [
+    -81.969794,
+    34.919917,
+    -81.969794,
+    34.919917
+],
+  "geometry": {"coordinates":[-81.96979399999999,34.919917],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370489261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.399542,34.856233,-82.399542,34.856233",
     "geom:latitude":34.856233,
     "geom:longitude":-82.399542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"480 N Academy St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370489261,
-    "wof:lastmodified":1449030917,
+    "wof:lastmodified":1467082339,
     "wof:name":"St Anthonys Catholic Store",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "religious"
     ]
 },
-  "bbox": [-82.399542,34.856233,-82.399542,34.856233],
+  "bbox": [
+    -82.399542,
+    34.856233,
+    -82.399542,
+    34.856233
+],
   "geometry": {"coordinates":[-82.399542,34.856233],"type":"Point"}
 }

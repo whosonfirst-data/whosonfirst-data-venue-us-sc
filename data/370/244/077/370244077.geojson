@@ -2,13 +2,14 @@
   "id": 370244077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.994655,32.800368,-79.994655,32.800368",
     "geom:latitude":32.800368,
     "geom:longitude":-79.994655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Old English Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370244077,
-    "wof:lastmodified":1449030429,
+    "wof:lastmodified":1467082328,
     "wof:name":"New Pro Video Systems Inc",
     "wof:parent_id":85825621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "video"
     ]
 },
-  "bbox": [-79.994655,32.800368,-79.994655,32.800368],
-  "geometry": {"coordinates":[-79.994655,32.800368],"type":"Point"}
+  "bbox": [
+    -79.994655,
+    32.800368,
+    -79.994655,
+    32.800368
+],
+  "geometry": {"coordinates":[-79.99465499999999,32.800368],"type":"Point"}
 }

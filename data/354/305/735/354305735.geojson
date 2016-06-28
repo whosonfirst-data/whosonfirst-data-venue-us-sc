@@ -2,13 +2,14 @@
   "id": 354305735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.345909,33.39556,-80.345909,33.39556",
     "geom:latitude":33.39556,
     "geom:longitude":-80.345909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Porcher Ave",
     "sg:city":"Eutawville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354305735,
-    "wof:lastmodified":1449066192,
+    "wof:lastmodified":1467082420,
     "wof:name":"Xtreme Beauty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.345909,33.39556,-80.345909,33.39556],
-  "geometry": {"coordinates":[-80.345909,33.39556],"type":"Point"}
+  "bbox": [
+    -80.345909,
+    33.39556,
+    -80.345909,
+    33.39556
+],
+  "geometry": {"coordinates":[-80.34590900000001,33.39556],"type":"Point"}
 }

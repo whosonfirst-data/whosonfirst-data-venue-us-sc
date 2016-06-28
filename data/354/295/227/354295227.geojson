@@ -2,13 +2,14 @@
   "id": 354295227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.825352,33.741506,-78.825352,33.741506",
     "geom:latitude":33.741506,
     "geom:longitude":-78.825352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6800 N Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354295227,
-    "wof:lastmodified":1449066608,
+    "wof:lastmodified":1467082430,
     "wof:name":"Swanson Family Dentistry",
     "wof:parent_id":85809243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-78.825352,33.741506,-78.825352,33.741506],
+  "bbox": [
+    -78.825352,
+    33.741506,
+    -78.825352,
+    33.741506
+],
   "geometry": {"coordinates":[-78.825352,33.741506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186127955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.965161,33.958277,-80.965161,33.958277",
     "geom:latitude":33.958277,
     "geom:longitude":-80.965161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6928 Cheval St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186127955,
-    "wof:lastmodified":1449052807,
+    "wof:lastmodified":1467082411,
     "wof:name":"Cherokee Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.965161,33.958277,-80.965161,33.958277],
-  "geometry": {"coordinates":[-80.965161,33.958277],"type":"Point"}
+  "bbox": [
+    -80.965161,
+    33.958277,
+    -80.965161,
+    33.958277
+],
+  "geometry": {"coordinates":[-80.96516099999999,33.958277],"type":"Point"}
 }

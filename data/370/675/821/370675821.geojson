@@ -2,13 +2,14 @@
   "id": 370675821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.883528,34.1396,-78.883528,34.1396",
     "geom:latitude":34.1396,
     "geom:longitude":-78.883528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4151 Green Sea Rd",
     "sg:city":"Green Sea",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370675821,
-    "wof:lastmodified":1449030803,
+    "wof:lastmodified":1467082336,
     "wof:name":"Emery's Garage",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-78.883528,34.1396,-78.883528,34.1396],
+  "bbox": [
+    -78.883528,
+    34.1396,
+    -78.883528,
+    34.1396
+],
   "geometry": {"coordinates":[-78.883528,34.1396],"type":"Point"}
 }

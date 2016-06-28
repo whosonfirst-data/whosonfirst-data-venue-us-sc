@@ -2,13 +2,14 @@
   "id": 370920283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.931399,32.749291,-79.931399,32.749291",
     "geom:latitude":32.749291,
     "geom:longitude":-79.931399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"677 Castle Pinckney Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370920283,
-    "wof:lastmodified":1449031715,
+    "wof:lastmodified":1467082357,
     "wof:name":"Harmon Solutions Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "processing"
     ]
 },
-  "bbox": [-79.931399,32.749291,-79.931399,32.749291],
+  "bbox": [
+    -79.931399,
+    32.749291,
+    -79.931399,
+    32.749291
+],
   "geometry": {"coordinates":[-79.931399,32.749291],"type":"Point"}
 }

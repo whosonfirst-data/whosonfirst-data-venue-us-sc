@@ -2,13 +2,14 @@
   "id": 370372789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.058521,33.594306,-79.058521,33.594306",
     "geom:latitude":33.594306,
     "geom:longitude":-79.058521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9010 Teal Dr",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370372789,
-    "wof:lastmodified":1449031138,
+    "wof:lastmodified":1467082343,
     "wof:name":"Gilleys Flooring",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.058521,33.594306,-79.058521,33.594306],
+  "bbox": [
+    -79.058521,
+    33.594306,
+    -79.058521,
+    33.594306
+],
   "geometry": {"coordinates":[-79.058521,33.594306],"type":"Point"}
 }

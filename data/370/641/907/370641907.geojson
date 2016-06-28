@@ -2,13 +2,14 @@
   "id": 370641907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.977802,34.020947,-80.977802,34.020947",
     "geom:latitude":34.020947,
     "geom:longitude":-80.977802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4558 Forest Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370641907,
-    "wof:lastmodified":1449031671,
+    "wof:lastmodified":1467082356,
     "wof:name":"High Maintenance",
     "wof:parent_id":85819781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-80.977802,34.020947,-80.977802,34.020947],
+  "bbox": [
+    -80.977802,
+    34.020947,
+    -80.977802,
+    34.020947
+],
   "geometry": {"coordinates":[-80.977802,34.020947],"type":"Point"}
 }

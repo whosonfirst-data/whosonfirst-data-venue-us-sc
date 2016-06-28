@@ -2,13 +2,14 @@
   "id": 353718127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.957337,34.697469,-82.957337,34.697469",
     "geom:latitude":34.697469,
     "geom:longitude":-82.957337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 US Hwy 123",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353718127,
-    "wof:lastmodified":1449018820,
+    "wof:lastmodified":1467082221,
     "wof:name":"Talon Communications Inc",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-82.957337,34.697469,-82.957337,34.697469],
+  "bbox": [
+    -82.957337,
+    34.697469,
+    -82.957337,
+    34.697469
+],
   "geometry": {"coordinates":[-82.957337,34.697469],"type":"Point"}
 }

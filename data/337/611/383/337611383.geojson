@@ -2,13 +2,14 @@
   "id": 337611383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.433836,34.8396,-82.433836,34.8396",
     "geom:latitude":34.8396,
     "geom:longitude":-82.433836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 West Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337611383,
-    "wof:lastmodified":1449027580,
+    "wof:lastmodified":1467082289,
     "wof:name":"Green City Couriers",
     "wof:parent_id":85838763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-82.433836,34.8396,-82.433836,34.8396],
+  "bbox": [
+    -82.433836,
+    34.8396,
+    -82.433836,
+    34.8396
+],
   "geometry": {"coordinates":[-82.433836,34.8396],"type":"Point"}
 }

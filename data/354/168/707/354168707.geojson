@@ -2,13 +2,14 @@
   "id": 354168707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.345409,33.920562,-80.345409,33.920562",
     "geom:latitude":33.920562,
     "geom:longitude":-80.345409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 W Liberty St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354168707,
-    "wof:lastmodified":1449066824,
+    "wof:lastmodified":1467082435,
     "wof:name":"Henry A Mc Faddin CPA",
     "wof:parent_id":85850119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-80.345409,33.920562,-80.345409,33.920562],
+  "bbox": [
+    -80.345409,
+    33.920562,
+    -80.345409,
+    33.920562
+],
   "geometry": {"coordinates":[-80.345409,33.920562],"type":"Point"}
 }

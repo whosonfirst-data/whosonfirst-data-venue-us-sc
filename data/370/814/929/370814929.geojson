@@ -2,13 +2,14 @@
   "id": 370814929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.098965,33.843319,-79.098965,33.843319",
     "geom:latitude":33.843319,
     "geom:longitude":-79.098965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2530 US Hwy 378",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370814929,
-    "wof:lastmodified":1449029713,
+    "wof:lastmodified":1467082312,
     "wof:name":"Waste Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.098965,33.843319,-79.098965,33.843319],
-  "geometry": {"coordinates":[-79.098965,33.843319],"type":"Point"}
+  "bbox": [
+    -79.098965,
+    33.843319,
+    -79.098965,
+    33.843319
+],
+  "geometry": {"coordinates":[-79.09896500000001,33.843319],"type":"Point"}
 }

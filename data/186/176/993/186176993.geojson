@@ -2,13 +2,14 @@
   "id": 186176993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.272962,34.829154,-82.272962,34.829154",
     "geom:latitude":34.829154,
     "geom:longitude":-82.272962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Brookford Ct",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186176993,
-    "wof:lastmodified":1449052124,
+    "wof:lastmodified":1467082404,
     "wof:name":"Showcase Automotive",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.272962,34.829154,-82.272962,34.829154],
-  "geometry": {"coordinates":[-82.272962,34.829154],"type":"Point"}
+  "bbox": [
+    -82.272962,
+    34.829154,
+    -82.272962,
+    34.829154
+],
+  "geometry": {"coordinates":[-82.27296200000001,34.829154],"type":"Point"}
 }

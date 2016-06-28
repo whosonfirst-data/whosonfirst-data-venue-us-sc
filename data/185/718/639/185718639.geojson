@@ -2,13 +2,14 @@
   "id": 185718639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.093668,33.979592,-81.093668,33.979592",
     "geom:latitude":33.979592,
     "geom:longitude":-81.093668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Dreher Rd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185718639,
-    "wof:lastmodified":1449006968,
+    "wof:lastmodified":1467082188,
     "wof:name":"H & P Delivery Svc",
     "wof:parent_id":85808009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-81.093668,33.979592,-81.093668,33.979592],
-  "geometry": {"coordinates":[-81.093668,33.979592],"type":"Point"}
+  "bbox": [
+    -81.093668,
+    33.979592,
+    -81.093668,
+    33.979592
+],
+  "geometry": {"coordinates":[-81.09366799999999,33.979592],"type":"Point"}
 }

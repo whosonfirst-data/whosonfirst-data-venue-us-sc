@@ -2,13 +2,14 @@
   "id": 185764673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.082299,32.902107,-80.082299,32.902107",
     "geom:latitude":32.902107,
     "geom:longitude":-80.082299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7645 Allwood Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185764673,
-    "wof:lastmodified":1449008121,
+    "wof:lastmodified":1467082206,
     "wof:name":"T J Janitorial Svc",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.082299,32.902107,-80.082299,32.902107],
-  "geometry": {"coordinates":[-80.082299,32.902107],"type":"Point"}
+  "bbox": [
+    -80.082299,
+    32.902107,
+    -80.082299,
+    32.902107
+],
+  "geometry": {"coordinates":[-80.08229900000001,32.902107],"type":"Point"}
 }

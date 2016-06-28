@@ -2,13 +2,14 @@
   "id": 370670073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.312329,34.784283,-82.312329,34.784283",
     "geom:latitude":34.784283,
     "geom:longitude":-82.312329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 N Main St",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370670073,
-    "wof:lastmodified":1449029595,
+    "wof:lastmodified":1467082309,
     "wof:name":"Huggins Tae KWON Do Academy",
     "wof:parent_id":85828723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-82.312329,34.784283,-82.312329,34.784283],
-  "geometry": {"coordinates":[-82.312329,34.784283],"type":"Point"}
+  "bbox": [
+    -82.312329,
+    34.784283,
+    -82.312329,
+    34.784283
+],
+  "geometry": {"coordinates":[-82.31232900000001,34.784283],"type":"Point"}
 }

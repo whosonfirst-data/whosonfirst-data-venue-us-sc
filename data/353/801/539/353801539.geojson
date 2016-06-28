@@ -2,13 +2,14 @@
   "id": 353801539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.136756,33.040482,-80.136756,33.040482",
     "geom:latitude":33.040482,
     "geom:longitude":-80.136756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1661 N Main St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353801539,
-    "wof:lastmodified":1449020384,
+    "wof:lastmodified":1467082253,
     "wof:name":"Hawkins Investigations",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-80.136756,33.040482,-80.136756,33.040482],
-  "geometry": {"coordinates":[-80.136756,33.040482],"type":"Point"}
+  "bbox": [
+    -80.136756,
+    33.040482,
+    -80.136756,
+    33.040482
+],
+  "geometry": {"coordinates":[-80.13675600000001,33.040482],"type":"Point"}
 }

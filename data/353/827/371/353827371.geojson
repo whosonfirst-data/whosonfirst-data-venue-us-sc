@@ -2,13 +2,14 @@
   "id": 353827371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.395812,34.717066,-82.395812,34.717066",
     "geom:latitude":34.717066,
     "geom:longitude":-82.395812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 Pine Dr",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353827371,
-    "wof:lastmodified":1449019170,
+    "wof:lastmodified":1467082228,
     "wof:name":"Maddox Race Cars",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.395812,34.717066,-82.395812,34.717066],
-  "geometry": {"coordinates":[-82.395812,34.717066],"type":"Point"}
+  "bbox": [
+    -82.395812,
+    34.717066,
+    -82.395812,
+    34.717066
+],
+  "geometry": {"coordinates":[-82.39581200000001,34.717066],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353515791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.176269,34.195751,-82.176269,34.195751",
     "geom:latitude":34.195751,
     "geom:longitude":-82.176269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 State Hwy 72 Bus",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353515791,
-    "wof:lastmodified":1449018843,
+    "wof:lastmodified":1467082222,
     "wof:name":"Greenwood Saw Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mower"
     ]
 },
-  "bbox": [-82.176269,34.195751,-82.176269,34.195751],
+  "bbox": [
+    -82.176269,
+    34.195751,
+    -82.176269,
+    34.195751
+],
   "geometry": {"coordinates":[-82.176269,34.195751],"type":"Point"}
 }

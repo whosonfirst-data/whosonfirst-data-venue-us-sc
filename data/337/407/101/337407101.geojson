@@ -2,13 +2,14 @@
   "id": 337407101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.396312,34.887435,-82.396312,34.887435",
     "geom:latitude":34.887435,
     "geom:longitude":-82.396312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3113 N Pleasantburg Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337407101,
-    "wof:lastmodified":1449027393,
+    "wof:lastmodified":1467082282,
     "wof:name":"Party Time Liquor & Wine LLC",
     "wof:parent_id":85840709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.396312,34.887435,-82.396312,34.887435],
-  "geometry": {"coordinates":[-82.396312,34.887435],"type":"Point"}
+  "bbox": [
+    -82.396312,
+    34.887435,
+    -82.396312,
+    34.887435
+],
+  "geometry": {"coordinates":[-82.39631199999999,34.887435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370166035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.681035,34.608244,-79.681035,34.608244",
     "geom:latitude":34.608244,
     "geom:longitude":-79.681035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Fleet St",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370166035,
-    "wof:lastmodified":1449030959,
+    "wof:lastmodified":1467082340,
     "wof:name":"Odoms BP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.681035,34.608244,-79.681035,34.608244],
-  "geometry": {"coordinates":[-79.681035,34.608244],"type":"Point"}
+  "bbox": [
+    -79.681035,
+    34.608244,
+    -79.681035,
+    34.608244
+],
+  "geometry": {"coordinates":[-79.68103499999999,34.608244],"type":"Point"}
 }

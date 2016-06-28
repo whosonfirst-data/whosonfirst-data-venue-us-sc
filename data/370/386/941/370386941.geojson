@@ -2,13 +2,14 @@
   "id": 370386941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.082983,34.651889,-83.082983,34.651889",
     "geom:latitude":34.651889,
     "geom:longitude":-83.082983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"590 W Oak Hwy",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370386941,
-    "wof:lastmodified":1449030857,
+    "wof:lastmodified":1467082337,
     "wof:name":"Brock's Used Cars",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-83.082983,34.651889,-83.082983,34.651889],
+  "bbox": [
+    -83.082983,
+    34.651889,
+    -83.082983,
+    34.651889
+],
   "geometry": {"coordinates":[-83.082983,34.651889],"type":"Point"}
 }

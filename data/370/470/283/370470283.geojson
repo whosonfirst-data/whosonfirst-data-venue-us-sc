@@ -2,13 +2,14 @@
   "id": 370470283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.703333,32.205289,-80.703333,32.205289",
     "geom:latitude":32.205289,
     "geom:longitude":-80.703333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Marshland Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370470283,
-    "wof:lastmodified":1449029913,
+    "wof:lastmodified":1467082316,
     "wof:name":"Billy Wood Appliances",
     "wof:parent_id":85819729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.703333,32.205289,-80.703333,32.205289],
+  "bbox": [
+    -80.703333,
+    32.205289,
+    -80.703333,
+    32.205289
+],
   "geometry": {"coordinates":[-80.703333,32.205289],"type":"Point"}
 }

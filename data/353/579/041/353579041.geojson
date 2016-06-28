@@ -2,13 +2,14 @@
   "id": 353579041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.866787,32.79348,-79.866787,32.79348",
     "geom:latitude":32.79348,
     "geom:longitude":-79.866787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Vincent Dr",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353579041,
-    "wof:lastmodified":1449019072,
+    "wof:lastmodified":1467082226,
     "wof:name":"Balance",
     "wof:parent_id":85807781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-79.866787,32.79348,-79.866787,32.79348],
+  "bbox": [
+    -79.866787,
+    32.79348,
+    -79.866787,
+    32.79348
+],
   "geometry": {"coordinates":[-79.866787,32.79348],"type":"Point"}
 }

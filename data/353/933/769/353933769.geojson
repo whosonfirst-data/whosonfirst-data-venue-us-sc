@@ -2,13 +2,14 @@
   "id": 353933769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.946781,34.987606,-80.946781,34.987606",
     "geom:latitude":34.987606,
     "geom:longitude":-80.946781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"927 Pine Knoll Rd",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353933769,
-    "wof:lastmodified":1449018779,
+    "wof:lastmodified":1467082220,
     "wof:name":"Eclipse Combustion Inc",
     "wof:parent_id":85839383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "burner"
     ]
 },
-  "bbox": [-80.946781,34.987606,-80.946781,34.987606],
+  "bbox": [
+    -80.946781,
+    34.987606,
+    -80.946781,
+    34.987606
+],
   "geometry": {"coordinates":[-80.946781,34.987606],"type":"Point"}
 }

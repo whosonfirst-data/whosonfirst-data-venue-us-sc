@@ -2,13 +2,14 @@
   "id": 370608351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.433946,34.972589,-82.433946,34.972589",
     "geom:latitude":34.972589,
     "geom:longitude":-82.433946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 N Poinsett Hwy",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370608351,
-    "wof:lastmodified":1449030535,
+    "wof:lastmodified":1467082330,
     "wof:name":"Travelers Rest Alterations",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-82.433946,34.972589,-82.433946,34.972589],
-  "geometry": {"coordinates":[-82.433946,34.972589],"type":"Point"}
+  "bbox": [
+    -82.433946,
+    34.972589,
+    -82.433946,
+    34.972589
+],
+  "geometry": {"coordinates":[-82.43394600000001,34.972589],"type":"Point"}
 }

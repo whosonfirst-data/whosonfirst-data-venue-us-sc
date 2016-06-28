@@ -2,13 +2,14 @@
   "id": 370749693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.257456,33.849844,-81.257456,33.849844",
     "geom:latitude":33.849844,
     "geom:longitude":-81.257456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Founders Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370749693,
-    "wof:lastmodified":1449030070,
+    "wof:lastmodified":1467082320,
     "wof:name":"American Metal Fabrication",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.257456,33.849844,-81.257456,33.849844],
+  "bbox": [
+    -81.257456,
+    33.849844,
+    -81.257456,
+    33.849844
+],
   "geometry": {"coordinates":[-81.257456,33.849844],"type":"Point"}
 }

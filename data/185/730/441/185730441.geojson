@@ -2,13 +2,14 @@
   "id": 185730441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.839667,32.827844,-79.839667,32.827844",
     "geom:latitude":32.827844,
     "geom:longitude":-79.839667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Nantahala Blvd",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185730441,
-    "wof:lastmodified":1449007976,
+    "wof:lastmodified":1467082203,
     "wof:name":"Wando East Townhouse Apts",
     "wof:parent_id":85840345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-79.839667,32.827844,-79.839667,32.827844],
-  "geometry": {"coordinates":[-79.839667,32.827844],"type":"Point"}
+  "bbox": [
+    -79.839667,
+    32.827844,
+    -79.839667,
+    32.827844
+],
+  "geometry": {"coordinates":[-79.83966700000001,32.827844],"type":"Point"}
 }

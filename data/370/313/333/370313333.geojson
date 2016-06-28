@@ -2,13 +2,14 @@
   "id": 370313333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930528,32.74883,-79.930528,32.74883",
     "geom:latitude":32.74883,
     "geom:longitude":-79.930528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"661 Old Plantation Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370313333,
-    "wof:lastmodified":1449029169,
+    "wof:lastmodified":1467082300,
     "wof:name":"Larry Craven Plumbing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.930528,32.74883,-79.930528,32.74883],
+  "bbox": [
+    -79.930528,
+    32.74883,
+    -79.930528,
+    32.74883
+],
   "geometry": {"coordinates":[-79.930528,32.74883],"type":"Point"}
 }

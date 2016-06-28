@@ -2,13 +2,14 @@
   "id": 169868389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.025866,33.58452,-79.025866,33.58452",
     "geom:latitude":33.58452,
     "geom:longitude":-79.025866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 Inlet Square Dr",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169868389,
-    "wof:lastmodified":1449032841,
+    "wof:lastmodified":1467082377,
     "wof:name":"Inlet Medical Surgical Ctr",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.025866,33.58452,-79.025866,33.58452],
-  "geometry": {"coordinates":[-79.025866,33.58452],"type":"Point"}
+  "bbox": [
+    -79.025866,
+    33.58452,
+    -79.025866,
+    33.58452
+],
+  "geometry": {"coordinates":[-79.02586599999999,33.58452],"type":"Point"}
 }

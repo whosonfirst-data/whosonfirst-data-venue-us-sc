@@ -2,13 +2,14 @@
   "id": 337362893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.134825,34.213794,-82.134825,34.213794",
     "geom:latitude":34.213794,
     "geom:longitude":-82.134825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 US Hwy 221",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337362893,
-    "wof:lastmodified":1449027481,
+    "wof:lastmodified":1467082285,
     "wof:name":"Greenwood Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.134825,34.213794,-82.134825,34.213794],
-  "geometry": {"coordinates":[-82.134825,34.213794],"type":"Point"}
+  "bbox": [
+    -82.134825,
+    34.213794,
+    -82.134825,
+    34.213794
+],
+  "geometry": {"coordinates":[-82.13482500000001,34.213794],"type":"Point"}
 }

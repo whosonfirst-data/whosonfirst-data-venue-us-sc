@@ -2,13 +2,14 @@
   "id": 370352167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.297388,33.365038,-79.297388,33.365038",
     "geom:latitude":33.365038,
     "geom:longitude":-79.297388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1514 Bourne St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370352167,
-    "wof:lastmodified":1449031167,
+    "wof:lastmodified":1467082344,
     "wof:name":"International Paper Co",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.297388,33.365038,-79.297388,33.365038],
+  "bbox": [
+    -79.297388,
+    33.365038,
+    -79.297388,
+    33.365038
+],
   "geometry": {"coordinates":[-79.297388,33.365038],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353745867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.075968,33.997965,-81.075968,33.997965",
     "geom:latitude":33.997965,
     "geom:longitude":-81.075968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1078 Sunset Blvd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353745867,
-    "wof:lastmodified":1449020673,
+    "wof:lastmodified":1467082259,
     "wof:name":"Furniture & Wallpaper Factory",
     "wof:parent_id":85840603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wallpaper"
     ]
 },
-  "bbox": [-81.075968,33.997965,-81.075968,33.997965],
+  "bbox": [
+    -81.075968,
+    33.997965,
+    -81.075968,
+    33.997965
+],
   "geometry": {"coordinates":[-81.075968,33.997965],"type":"Point"}
 }

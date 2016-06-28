@@ -2,13 +2,14 @@
   "id": 370283219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.398209,34.869795,-82.398209,34.869795",
     "geom:latitude":34.869795,
     "geom:longitude":-82.398209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 W Mountainview Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370283219,
-    "wof:lastmodified":1449030108,
+    "wof:lastmodified":1467082321,
     "wof:name":"Nicholson Stained Glass Studio",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.398209,34.869795,-82.398209,34.869795],
-  "geometry": {"coordinates":[-82.398209,34.869795],"type":"Point"}
+  "bbox": [
+    -82.398209,
+    34.869795,
+    -82.398209,
+    34.869795
+],
+  "geometry": {"coordinates":[-82.39820899999999,34.869795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370233779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.276768,33.367067,-79.276768,33.367067",
     "geom:latitude":33.367067,
     "geom:longitude":-79.276768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Cannon St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370233779,
-    "wof:lastmodified":1449032536,
+    "wof:lastmodified":1467082375,
     "wof:name":"Melbar Holdings LLC",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.276768,33.367067,-79.276768,33.367067],
+  "bbox": [
+    -79.276768,
+    33.367067,
+    -79.276768,
+    33.367067
+],
   "geometry": {"coordinates":[-79.276768,33.367067],"type":"Point"}
 }

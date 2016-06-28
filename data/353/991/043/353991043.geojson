@@ -2,13 +2,14 @@
   "id": 353991043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.583097,34.818954,-82.583097,34.818954",
     "geom:latitude":34.818954,
     "geom:longitude":-82.583097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Ballentine St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353991043,
-    "wof:lastmodified":1449019058,
+    "wof:lastmodified":1467082226,
     "wof:name":"Smith Chapel Wesleyan Church",
     "wof:parent_id":85804075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.583097,34.818954,-82.583097,34.818954],
+  "bbox": [
+    -82.583097,
+    34.818954,
+    -82.583097,
+    34.818954
+],
   "geometry": {"coordinates":[-82.583097,34.818954],"type":"Point"}
 }

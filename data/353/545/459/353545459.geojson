@@ -2,13 +2,14 @@
   "id": 353545459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.300206,34.817275,-82.300206,34.817275",
     "geom:latitude":34.817275,
     "geom:longitude":-82.300206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Oak Glen Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353545459,
-    "wof:lastmodified":1449018873,
+    "wof:lastmodified":1467082222,
     "wof:name":"ADS Holdings Inc",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "holding"
     ]
 },
-  "bbox": [-82.300206,34.817275,-82.300206,34.817275],
+  "bbox": [
+    -82.300206,
+    34.817275,
+    -82.300206,
+    34.817275
+],
   "geometry": {"coordinates":[-82.300206,34.817275],"type":"Point"}
 }

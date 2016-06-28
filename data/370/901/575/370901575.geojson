@@ -2,13 +2,14 @@
   "id": 370901575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.882069,33.731277,-78.882069,33.731277",
     "geom:latitude":33.731277,
     "geom:longitude":-78.882069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3758 Annandale Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370901575,
-    "wof:lastmodified":1449030503,
+    "wof:lastmodified":1467082330,
     "wof:name":"Harper Freeman & Assoc",
     "wof:parent_id":85816109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-78.882069,33.731277,-78.882069,33.731277],
+  "bbox": [
+    -78.882069,
+    33.731277,
+    -78.882069,
+    33.731277
+],
   "geometry": {"coordinates":[-78.882069,33.731277],"type":"Point"}
 }

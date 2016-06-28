@@ -2,13 +2,14 @@
   "id": 353836751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.422778,35.093598,-81.422778,35.093598",
     "geom:latitude":35.093598,
     "geom:longitude":-81.422778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"792 Caldwell Rd",
     "sg:city":"Blacksburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353836751,
-    "wof:lastmodified":1449019925,
+    "wof:lastmodified":1467082244,
     "wof:name":"Bluetick Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.422778,35.093598,-81.422778,35.093598],
-  "geometry": {"coordinates":[-81.422778,35.093598],"type":"Point"}
+  "bbox": [
+    -81.422778,
+    35.093598,
+    -81.422778,
+    35.093598
+],
+  "geometry": {"coordinates":[-81.42277799999999,35.093598],"type":"Point"}
 }

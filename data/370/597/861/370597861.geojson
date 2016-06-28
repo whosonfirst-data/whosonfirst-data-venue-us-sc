@@ -2,13 +2,14 @@
   "id": 370597861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.991281,32.762056,-79.991281,32.762056",
     "geom:latitude":32.762056,
     "geom:longitude":-79.991281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2041 Wappoo Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370597861,
-    "wof:lastmodified":1449032422,
+    "wof:lastmodified":1467082372,
     "wof:name":"Katko Antiques Restoration",
     "wof:parent_id":85810731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-79.991281,32.762056,-79.991281,32.762056],
+  "bbox": [
+    -79.991281,
+    32.762056,
+    -79.991281,
+    32.762056
+],
   "geometry": {"coordinates":[-79.991281,32.762056],"type":"Point"}
 }

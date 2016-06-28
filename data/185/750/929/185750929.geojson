@@ -2,13 +2,14 @@
   "id": 185750929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.82461,34.188544,-79.82461,34.188544",
     "geom:latitude":34.188544,
     "geom:longitude":-79.82461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N Beltline Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185750929,
-    "wof:lastmodified":1449007591,
+    "wof:lastmodified":1467082197,
     "wof:name":"Morgan & Allman Dev Corp",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.82461,34.188544,-79.82461,34.188544],
-  "geometry": {"coordinates":[-79.82461,34.188544],"type":"Point"}
+  "bbox": [
+    -79.82461,
+    34.188544,
+    -79.82461,
+    34.188544
+],
+  "geometry": {"coordinates":[-79.82461000000001,34.188544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353793415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.037095,34.020536,-81.037095,34.020536",
     "geom:latitude":34.020536,
     "geom:longitude":-81.037095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 Confederate Ave",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353793415,
-    "wof:lastmodified":1449019669,
+    "wof:lastmodified":1467082238,
     "wof:name":"Blind Commission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "resource"
     ]
 },
-  "bbox": [-81.037095,34.020536,-81.037095,34.020536],
-  "geometry": {"coordinates":[-81.037095,34.020536],"type":"Point"}
+  "bbox": [
+    -81.037095,
+    34.020536,
+    -81.037095,
+    34.020536
+],
+  "geometry": {"coordinates":[-81.03709499999999,34.020536],"type":"Point"}
 }

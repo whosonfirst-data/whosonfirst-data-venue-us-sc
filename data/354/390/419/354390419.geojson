@@ -2,13 +2,14 @@
   "id": 354390419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.560994,34.823246,-82.560994,34.823246",
     "geom:latitude":34.823246,
     "geom:longitude":-82.560994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Powdersville Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354390419,
-    "wof:lastmodified":1449067678,
+    "wof:lastmodified":1467082454,
     "wof:name":"Martin Printing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-82.560994,34.823246,-82.560994,34.823246],
-  "geometry": {"coordinates":[-82.560994,34.823246],"type":"Point"}
+  "bbox": [
+    -82.560994,
+    34.823246,
+    -82.560994,
+    34.823246
+],
+  "geometry": {"coordinates":[-82.56099399999999,34.823246],"type":"Point"}
 }

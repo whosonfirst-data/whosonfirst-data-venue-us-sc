@@ -2,13 +2,14 @@
   "id": 337318123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.973632,34.020883,-80.973632,34.020883",
     "geom:latitude":34.020883,
     "geom:longitude":-80.973632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 Forest Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337318123,
-    "wof:lastmodified":1449027101,
+    "wof:lastmodified":1467082271,
     "wof:name":"Spencer Fleming",
     "wof:parent_id":85813843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.973632,34.020883,-80.973632,34.020883],
-  "geometry": {"coordinates":[-80.973632,34.020883],"type":"Point"}
+  "bbox": [
+    -80.973632,
+    34.020883,
+    -80.973632,
+    34.020883
+],
+  "geometry": {"coordinates":[-80.97363199999999,34.020883],"type":"Point"}
 }

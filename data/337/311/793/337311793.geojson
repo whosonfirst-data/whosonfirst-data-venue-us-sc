@@ -2,13 +2,14 @@
   "id": 337311793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.253735,34.202673,-79.253735,34.202673",
     "geom:latitude":34.202673,
     "geom:longitude":-79.253735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 S Main St",
     "sg:city":"Mullins",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337311793,
-    "wof:lastmodified":1449027113,
+    "wof:lastmodified":1467082271,
     "wof:name":"Garden Alley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.253735,34.202673,-79.253735,34.202673],
-  "geometry": {"coordinates":[-79.253735,34.202673],"type":"Point"}
+  "bbox": [
+    -79.253735,
+    34.202673,
+    -79.253735,
+    34.202673
+],
+  "geometry": {"coordinates":[-79.25373500000001,34.202673],"type":"Point"}
 }

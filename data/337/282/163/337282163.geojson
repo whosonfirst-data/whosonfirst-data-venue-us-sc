@@ -2,13 +2,14 @@
   "id": 337282163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.749774,34.158525,-79.749774,34.158525",
     "geom:latitude":34.158525,
     "geom:longitude":-79.749774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 S Vance Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337282163,
-    "wof:lastmodified":1449027463,
+    "wof:lastmodified":1467082285,
     "wof:name":"Wilner Medical Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.749774,34.158525,-79.749774,34.158525],
+  "bbox": [
+    -79.749774,
+    34.158525,
+    -79.749774,
+    34.158525
+],
   "geometry": {"coordinates":[-79.749774,34.158525],"type":"Point"}
 }

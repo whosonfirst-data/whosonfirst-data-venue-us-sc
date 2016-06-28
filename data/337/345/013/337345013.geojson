@@ -2,13 +2,14 @@
   "id": 337345013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.408479,34.845622,-82.408479,34.845622",
     "geom:latitude":34.845622,
     "geom:longitude":-82.408479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Ferguson St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337345013,
-    "wof:lastmodified":1449027672,
+    "wof:lastmodified":1467082292,
     "wof:name":"Florez Fine Woodworking",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-82.408479,34.845622,-82.408479,34.845622],
+  "bbox": [
+    -82.408479,
+    34.845622,
+    -82.408479,
+    34.845622
+],
   "geometry": {"coordinates":[-82.408479,34.845622],"type":"Point"}
 }

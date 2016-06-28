@@ -2,13 +2,14 @@
   "id": 337354257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.736015,33.80444,-79.736015,33.80444",
     "geom:latitude":33.80444,
     "geom:longitude":-79.736015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Beulah Rd",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337354257,
-    "wof:lastmodified":1449027652,
+    "wof:lastmodified":1467082292,
     "wof:name":"Tender Loving Care Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.736015,33.80444,-79.736015,33.80444],
-  "geometry": {"coordinates":[-79.736015,33.80444],"type":"Point"}
+  "bbox": [
+    -79.736015,
+    33.80444,
+    -79.736015,
+    33.80444
+],
+  "geometry": {"coordinates":[-79.73601499999999,33.80444],"type":"Point"}
 }

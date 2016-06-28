@@ -2,13 +2,14 @@
   "id": 370893161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.702657,32.212781,-80.702657,32.212781",
     "geom:latitude":32.212781,
     "geom:longitude":-80.702657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Mathews Dr",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370893161,
-    "wof:lastmodified":1449031835,
+    "wof:lastmodified":1467082359,
     "wof:name":"Citizens Finance Inc",
     "wof:parent_id":85819729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "finance"
     ]
 },
-  "bbox": [-80.702657,32.212781,-80.702657,32.212781],
+  "bbox": [
+    -80.702657,
+    32.212781,
+    -80.702657,
+    32.212781
+],
   "geometry": {"coordinates":[-80.702657,32.212781],"type":"Point"}
 }

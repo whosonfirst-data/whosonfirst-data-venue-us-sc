@@ -2,13 +2,14 @@
   "id": 370516665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.855547,34.128546,-80.855547,34.128546",
     "geom:latitude":34.128546,
     "geom:longitude":-80.855547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10541 Two Notch Rd",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370516665,
-    "wof:lastmodified":1449029739,
+    "wof:lastmodified":1467082312,
     "wof:name":"Pantry Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.855547,34.128546,-80.855547,34.128546],
+  "bbox": [
+    -80.855547,
+    34.128546,
+    -80.855547,
+    34.128546
+],
   "geometry": {"coordinates":[-80.855547,34.128546],"type":"Point"}
 }

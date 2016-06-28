@@ -2,13 +2,14 @@
   "id": 370351195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.414494,33.879212,-81.414494,33.879212",
     "geom:latitude":33.879212,
     "geom:longitude":-81.414494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Reedy O Smith Rd",
     "sg:city":"Leesville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370351195,
-    "wof:lastmodified":1449031961,
+    "wof:lastmodified":1467082362,
     "wof:name":"Pond Branch Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.414494,33.879212,-81.414494,33.879212],
+  "bbox": [
+    -81.414494,
+    33.879212,
+    -81.414494,
+    33.879212
+],
   "geometry": {"coordinates":[-81.414494,33.879212],"type":"Point"}
 }

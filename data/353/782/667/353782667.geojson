@@ -2,13 +2,14 @@
   "id": 353782667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.937777,34.677724,-82.937777,34.677724",
     "geom:latitude":34.677724,
     "geom:longitude":-82.937777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Overbrook Dr",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353782667,
-    "wof:lastmodified":1449018246,
+    "wof:lastmodified":1467082209,
     "wof:name":"Holland Enterprise",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dept"
     ]
 },
-  "bbox": [-82.937777,34.677724,-82.937777,34.677724],
+  "bbox": [
+    -82.937777,
+    34.677724,
+    -82.937777,
+    34.677724
+],
   "geometry": {"coordinates":[-82.937777,34.677724],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169723731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.392674,34.179828,-79.392674,34.179828",
     "geom:latitude":34.179828,
     "geom:longitude":-79.392674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 Bee St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169723731,
-    "wof:lastmodified":1449034619,
+    "wof:lastmodified":1467082384,
     "wof:name":"Jesus Only Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.392674,34.179828,-79.392674,34.179828],
+  "bbox": [
+    -79.392674,
+    34.179828,
+    -79.392674,
+    34.179828
+],
   "geometry": {"coordinates":[-79.392674,34.179828],"type":"Point"}
 }

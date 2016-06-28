@@ -2,13 +2,14 @@
   "id": 353708669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.305603,34.70227,-82.305603,34.70227",
     "geom:latitude":34.70227,
     "geom:longitude":-82.305603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Cherrystone Ct",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353708669,
-    "wof:lastmodified":1449018658,
+    "wof:lastmodified":1467082218,
     "wof:name":"Goodys Restaurant",
     "wof:parent_id":85857259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.305603,34.70227,-82.305603,34.70227],
+  "bbox": [
+    -82.305603,
+    34.70227,
+    -82.305603,
+    34.70227
+],
   "geometry": {"coordinates":[-82.305603,34.70227],"type":"Point"}
 }

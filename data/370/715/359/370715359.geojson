@@ -2,13 +2,14 @@
   "id": 370715359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.588233,34.557748,-80.588233,34.557748",
     "geom:latitude":34.557748,
     "geom:longitude":-80.588233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 W 3rd St",
     "sg:city":"Kershaw",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370715359,
-    "wof:lastmodified":1449031799,
+    "wof:lastmodified":1467082359,
     "wof:name":"Looking Good Fashions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.588233,34.557748,-80.588233,34.557748],
+  "bbox": [
+    -80.588233,
+    34.557748,
+    -80.588233,
+    34.557748
+],
   "geometry": {"coordinates":[-80.588233,34.557748],"type":"Point"}
 }

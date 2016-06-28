@@ -2,13 +2,14 @@
   "id": 353985323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.257854,34.705831,-82.257854,34.705831",
     "geom:latitude":34.705831,
     "geom:longitude":-82.257854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"655 Fairview Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353985323,
-    "wof:lastmodified":1449019526,
+    "wof:lastmodified":1467082235,
     "wof:name":"Nelson & Verostek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-82.257854,34.705831,-82.257854,34.705831],
-  "geometry": {"coordinates":[-82.257854,34.705831],"type":"Point"}
+  "bbox": [
+    -82.257854,
+    34.705831,
+    -82.257854,
+    34.705831
+],
+  "geometry": {"coordinates":[-82.25785399999999,34.705831],"type":"Point"}
 }

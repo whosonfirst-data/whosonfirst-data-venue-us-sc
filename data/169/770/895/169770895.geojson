@@ -2,13 +2,14 @@
   "id": 169770895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.998307,32.764642,-79.998307,32.764642",
     "geom:latitude":32.764642,
     "geom:longitude":-79.998307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2136 Coker Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169770895,
-    "wof:lastmodified":1449036033,
+    "wof:lastmodified":1467082388,
     "wof:name":"Charleston Post Card Co Inc",
     "wof:parent_id":85810731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "souvenir"
     ]
 },
-  "bbox": [-79.998307,32.764642,-79.998307,32.764642],
+  "bbox": [
+    -79.998307,
+    32.764642,
+    -79.998307,
+    32.764642
+],
   "geometry": {"coordinates":[-79.998307,32.764642],"type":"Point"}
 }

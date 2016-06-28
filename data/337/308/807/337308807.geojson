@@ -2,13 +2,14 @@
   "id": 337308807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.899236,34.713313,-80.899236,34.713313",
     "geom:latitude":34.713313,
     "geom:longitude":-80.899236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2760 Catawba River Rd",
     "sg:city":"Fort Lawn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337308807,
-    "wof:lastmodified":1449027751,
+    "wof:lastmodified":1467082295,
     "wof:name":"Ft Lawn Church Of God",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.899236,34.713313,-80.899236,34.713313],
+  "bbox": [
+    -80.899236,
+    34.713313,
+    -80.899236,
+    34.713313
+],
   "geometry": {"coordinates":[-80.899236,34.713313],"type":"Point"}
 }

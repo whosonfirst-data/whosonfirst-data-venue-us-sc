@@ -2,13 +2,14 @@
   "id": 354356223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.646094,34.825002,-81.646094,34.825002",
     "geom:latitude":34.825002,
     "geom:longitude":-81.646094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"288 Belue Rd",
     "sg:city":"Jonesville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354356223,
-    "wof:lastmodified":1449067338,
+    "wof:lastmodified":1467082447,
     "wof:name":"Wicks Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-81.646094,34.825002,-81.646094,34.825002],
-  "geometry": {"coordinates":[-81.646094,34.825002],"type":"Point"}
+  "bbox": [
+    -81.646094,
+    34.825002,
+    -81.646094,
+    34.825002
+],
+  "geometry": {"coordinates":[-81.64609400000001,34.825002],"type":"Point"}
 }

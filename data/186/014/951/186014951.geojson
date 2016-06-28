@@ -2,13 +2,14 @@
   "id": 186014951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.425989,33.899131,-80.425989,33.899131",
     "geom:latitude":33.899131,
     "geom:longitude":-80.425989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"780 Santa Fe Trl",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186014951,
-    "wof:lastmodified":1449051691,
+    "wof:lastmodified":1467082400,
     "wof:name":"MLC Svc",
     "wof:parent_id":85817433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.425989,33.899131,-80.425989,33.899131],
+  "bbox": [
+    -80.425989,
+    33.899131,
+    -80.425989,
+    33.899131
+],
   "geometry": {"coordinates":[-80.425989,33.899131],"type":"Point"}
 }

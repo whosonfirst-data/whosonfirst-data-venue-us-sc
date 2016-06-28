@@ -2,13 +2,14 @@
   "id": 354340363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.003533,32.876134,-80.003533,32.876134",
     "geom:latitude":32.876134,
     "geom:longitude":-80.003533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4614 Rivers Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354340363,
-    "wof:lastmodified":1449067251,
+    "wof:lastmodified":1467082445,
     "wof:name":"Livingston's Auto Parts",
     "wof:parent_id":85819163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-80.003533,32.876134,-80.003533,32.876134],
+  "bbox": [
+    -80.003533,
+    32.876134,
+    -80.003533,
+    32.876134
+],
   "geometry": {"coordinates":[-80.003533,32.876134],"type":"Point"}
 }

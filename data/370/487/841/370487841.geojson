@@ -2,13 +2,14 @@
   "id": 370487841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.231154,33.795135,-81.231154,33.795135",
     "geom:latitude":33.795135,
     "geom:longitude":-81.231154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7468 Edmund Hwy",
     "sg:city":"Pelion",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370487841,
-    "wof:lastmodified":1449030201,
+    "wof:lastmodified":1467082323,
     "wof:name":"Save A Buck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.231154,33.795135,-81.231154,33.795135],
+  "bbox": [
+    -81.231154,
+    33.795135,
+    -81.231154,
+    33.795135
+],
   "geometry": {"coordinates":[-81.231154,33.795135],"type":"Point"}
 }

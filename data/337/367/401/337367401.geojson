@@ -2,13 +2,14 @@
   "id": 337367401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.011916,33.967508,-81.011916,33.967508",
     "geom:latitude":33.967508,
     "geom:longitude":-81.011916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 Bluff Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":337367401,
-    "wof:lastmodified":1449027432,
+    "wof:lastmodified":1467082283,
     "wof:name":"Starting Point LLC",
     "wof:parent_id":85846089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "drug"
     ]
 },
-  "bbox": [-81.011916,33.967508,-81.011916,33.967508],
+  "bbox": [
+    -81.011916,
+    33.967508,
+    -81.011916,
+    33.967508
+],
   "geometry": {"coordinates":[-81.011916,33.967508],"type":"Point"}
 }

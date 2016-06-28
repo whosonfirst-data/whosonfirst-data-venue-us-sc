@@ -2,13 +2,14 @@
   "id": 370717265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.53448,34.751281,-82.53448,34.751281",
     "geom:latitude":34.751281,
     "geom:longitude":-82.53448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Hattie Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370717265,
-    "wof:lastmodified":1449029152,
+    "wof:lastmodified":1467082300,
     "wof:name":"Robert T Merritt Properties",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.53448,34.751281,-82.53448,34.751281],
+  "bbox": [
+    -82.53448,
+    34.751281,
+    -82.53448,
+    34.751281
+],
   "geometry": {"coordinates":[-82.53448,34.751281],"type":"Point"}
 }

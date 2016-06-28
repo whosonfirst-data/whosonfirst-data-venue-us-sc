@@ -2,13 +2,14 @@
   "id": 353915881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.923465,33.328814,-79.923465,33.328814",
     "geom:latitude":33.328814,
     "geom:longitude":-79.923465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1299 Mendel Rivers Rd",
     "sg:city":"Bonneau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353915881,
-    "wof:lastmodified":1449020754,
+    "wof:lastmodified":1467082261,
     "wof:name":"St Peter AME Church",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.923465,33.328814,-79.923465,33.328814],
-  "geometry": {"coordinates":[-79.923465,33.328814],"type":"Point"}
+  "bbox": [
+    -79.923465,
+    33.328814,
+    -79.923465,
+    33.328814
+],
+  "geometry": {"coordinates":[-79.92346499999999,33.328814],"type":"Point"}
 }

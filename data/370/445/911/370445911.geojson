@@ -2,13 +2,14 @@
   "id": 370445911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.023553,34.032036,-81.023553,34.032036",
     "geom:latitude":34.032036,
     "geom:longitude":-81.023553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3409 Farrow Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370445911,
-    "wof:lastmodified":1449029547,
+    "wof:lastmodified":1467082308,
     "wof:name":"Olorunsola Amoco",
     "wof:parent_id":85811921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-81.023553,34.032036,-81.023553,34.032036],
-  "geometry": {"coordinates":[-81.023553,34.032036],"type":"Point"}
+  "bbox": [
+    -81.023553,
+    34.032036,
+    -81.023553,
+    34.032036
+],
+  "geometry": {"coordinates":[-81.02355300000001,34.032036],"type":"Point"}
 }

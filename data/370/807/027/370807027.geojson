@@ -2,13 +2,14 @@
   "id": 370807027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.895037,33.984575,-79.895037,33.984575",
     "geom:latitude":33.984575,
     "geom:longitude":-79.895037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3302 Starburst Rd",
     "sg:city":"Olanta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370807027,
-    "wof:lastmodified":1449029963,
+    "wof:lastmodified":1467082317,
     "wof:name":"301 Auto Parts",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.895037,33.984575,-79.895037,33.984575],
+  "bbox": [
+    -79.895037,
+    33.984575,
+    -79.895037,
+    33.984575
+],
   "geometry": {"coordinates":[-79.895037,33.984575],"type":"Point"}
 }

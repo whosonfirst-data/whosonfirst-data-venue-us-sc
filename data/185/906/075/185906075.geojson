@@ -2,13 +2,14 @@
   "id": 185906075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.943142,33.6456,-78.943142,33.6456",
     "geom:latitude":33.6456,
     "geom:longitude":-78.943142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4825 S Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185906075,
-    "wof:lastmodified":1449007217,
+    "wof:lastmodified":1467082192,
     "wof:name":"Coastal Atm",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automated"
     ]
 },
-  "bbox": [-78.943142,33.6456,-78.943142,33.6456],
-  "geometry": {"coordinates":[-78.943142,33.6456],"type":"Point"}
+  "bbox": [
+    -78.943142,
+    33.6456,
+    -78.943142,
+    33.6456
+],
+  "geometry": {"coordinates":[-78.94314199999999,33.6456],"type":"Point"}
 }

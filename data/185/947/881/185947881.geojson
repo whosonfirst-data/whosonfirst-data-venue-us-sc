@@ -2,13 +2,14 @@
   "id": 185947881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.004686,34.916695,-82.004686,34.916695",
     "geom:latitude":34.916695,
     "geom:longitude":-82.004686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2890 Reidville Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185947881,
-    "wof:lastmodified":1449007757,
+    "wof:lastmodified":1467082200,
     "wof:name":"Century 21",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.004686,34.916695,-82.004686,34.916695],
-  "geometry": {"coordinates":[-82.004686,34.916695],"type":"Point"}
+  "bbox": [
+    -82.004686,
+    34.916695,
+    -82.004686,
+    34.916695
+],
+  "geometry": {"coordinates":[-82.00468600000001,34.916695],"type":"Point"}
 }

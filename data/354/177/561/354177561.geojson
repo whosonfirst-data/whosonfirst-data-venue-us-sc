@@ -2,13 +2,14 @@
   "id": 354177561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.221088,34.863639,-82.221088,34.863639",
     "geom:latitude":34.863639,
     "geom:longitude":-82.221088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2755 State Hwy 14",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354177561,
-    "wof:lastmodified":1449067663,
+    "wof:lastmodified":1467082454,
     "wof:name":"Surgery Center At Pelham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.221088,34.863639,-82.221088,34.863639],
-  "geometry": {"coordinates":[-82.221088,34.863639],"type":"Point"}
+  "bbox": [
+    -82.221088,
+    34.863639,
+    -82.221088,
+    34.863639
+],
+  "geometry": {"coordinates":[-82.22108799999999,34.863639],"type":"Point"}
 }

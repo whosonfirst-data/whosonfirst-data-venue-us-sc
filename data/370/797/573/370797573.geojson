@@ -2,13 +2,14 @@
   "id": 370797573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.74643,33.002416,-79.74643,33.002416",
     "geom:latitude":33.002416,
     "geom:longitude":-79.74643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5387 Halfway Creek Rd",
     "sg:city":"Huger",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370797573,
-    "wof:lastmodified":1449032143,
+    "wof:lastmodified":1467082366,
     "wof:name":"A Wright Construction",
     "wof:parent_id":85814443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-79.74643,33.002416,-79.74643,33.002416],
+  "bbox": [
+    -79.74643,
+    33.002416,
+    -79.74643,
+    33.002416
+],
   "geometry": {"coordinates":[-79.74643,33.002416],"type":"Point"}
 }

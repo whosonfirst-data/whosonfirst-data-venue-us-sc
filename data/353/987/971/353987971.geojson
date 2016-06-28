@@ -2,13 +2,14 @@
   "id": 353987971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.639456,34.720024,-81.639456,34.720024",
     "geom:latitude":34.720024,
     "geom:longitude":-81.639456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 N Duncan Byp",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353987971,
-    "wof:lastmodified":1449019682,
+    "wof:lastmodified":1467082239,
     "wof:name":"State Of South Carolina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-81.639456,34.720024,-81.639456,34.720024],
+  "bbox": [
+    -81.639456,
+    34.720024,
+    -81.639456,
+    34.720024
+],
   "geometry": {"coordinates":[-81.639456,34.720024],"type":"Point"}
 }

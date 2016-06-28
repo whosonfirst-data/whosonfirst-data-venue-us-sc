@@ -2,13 +2,14 @@
   "id": 370639767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.069375,34.37567,-80.069375,34.37567",
     "geom:latitude":34.37567,
     "geom:longitude":-80.069375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 E Carolina Ave",
     "sg:city":"Hartsville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370639767,
-    "wof:lastmodified":1449032449,
+    "wof:lastmodified":1467082373,
     "wof:name":"Pee Dee Mental Health Ctr",
     "wof:parent_id":85811765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "health"
     ]
 },
-  "bbox": [-80.069375,34.37567,-80.069375,34.37567],
-  "geometry": {"coordinates":[-80.069375,34.37567],"type":"Point"}
+  "bbox": [
+    -80.069375,
+    34.37567,
+    -80.069375,
+    34.37567
+],
+  "geometry": {"coordinates":[-80.06937499999999,34.37567],"type":"Point"}
 }

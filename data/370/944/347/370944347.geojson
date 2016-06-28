@@ -2,13 +2,14 @@
   "id": 370944347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.371825,34.418252,-79.371825,34.418252",
     "geom:latitude":34.418252,
     "geom:longitude":-79.371825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N Railroad Ave",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370944347,
-    "wof:lastmodified":1449030773,
+    "wof:lastmodified":1467082335,
     "wof:name":"Hayes & Hayes",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.371825,34.418252,-79.371825,34.418252],
+  "bbox": [
+    -79.371825,
+    34.418252,
+    -79.371825,
+    34.418252
+],
   "geometry": {"coordinates":[-79.371825,34.418252],"type":"Point"}
 }

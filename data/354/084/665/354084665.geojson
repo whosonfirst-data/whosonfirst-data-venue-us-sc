@@ -2,13 +2,14 @@
   "id": 354084665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.445957,34.012955,-81.445957,34.012955",
     "geom:latitude":34.012955,
     "geom:longitude":-81.445957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Payes Pt",
     "sg:city":"Leesville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354084665,
-    "wof:lastmodified":1449066120,
+    "wof:lastmodified":1467082419,
     "wof:name":"William D Camp Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-81.445957,34.012955,-81.445957,34.012955],
-  "geometry": {"coordinates":[-81.445957,34.012955],"type":"Point"}
+  "bbox": [
+    -81.445957,
+    34.012955,
+    -81.445957,
+    34.012955
+],
+  "geometry": {"coordinates":[-81.44595700000001,34.012955],"type":"Point"}
 }

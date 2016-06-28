@@ -2,13 +2,14 @@
   "id": 370573039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.003584,32.87624,-80.003584,32.87624",
     "geom:latitude":32.87624,
     "geom:longitude":-80.003584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4608 Rivers Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370573039,
-    "wof:lastmodified":1449031594,
+    "wof:lastmodified":1467082354,
     "wof:name":"Port City Auto Supply Co Inc",
     "wof:parent_id":85819163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-80.003584,32.87624,-80.003584,32.87624],
+  "bbox": [
+    -80.003584,
+    32.87624,
+    -80.003584,
+    32.87624
+],
   "geometry": {"coordinates":[-80.003584,32.87624],"type":"Point"}
 }

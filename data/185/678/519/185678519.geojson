@@ -2,13 +2,14 @@
   "id": 185678519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.030633,34.928998,-82.030633,34.928998",
     "geom:latitude":34.928998,
     "geom:longitude":-82.030633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N Oakley Ln",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185678519,
-    "wof:lastmodified":1449007401,
+    "wof:lastmodified":1467082194,
     "wof:name":"Southern Planter Inc",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "grounds"
     ]
 },
-  "bbox": [-82.030633,34.928998,-82.030633,34.928998],
-  "geometry": {"coordinates":[-82.030633,34.928998],"type":"Point"}
+  "bbox": [
+    -82.030633,
+    34.928998,
+    -82.030633,
+    34.928998
+],
+  "geometry": {"coordinates":[-82.03063299999999,34.928998],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354073537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.985737,32.762529,-79.985737,32.762529",
     "geom:latitude":32.762529,
     "geom:longitude":-79.985737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1966 Maybank Hwy",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354073537,
-    "wof:lastmodified":1449066166,
+    "wof:lastmodified":1467082420,
     "wof:name":"Trim Team",
     "wof:parent_id":85810731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.985737,32.762529,-79.985737,32.762529],
+  "bbox": [
+    -79.985737,
+    32.762529,
+    -79.985737,
+    32.762529
+],
   "geometry": {"coordinates":[-79.985737,32.762529],"type":"Point"}
 }

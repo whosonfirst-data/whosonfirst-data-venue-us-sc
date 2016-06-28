@@ -2,13 +2,14 @@
   "id": 370155551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.248838,34.662919,-82.248838,34.662919",
     "geom:latitude":34.662919,
     "geom:longitude":-82.248838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Nash Mill Rd",
     "sg:city":"Fountain Inn",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370155551,
-    "wof:lastmodified":1449031882,
+    "wof:lastmodified":1467082360,
     "wof:name":"M & M Used Furniture & Appls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.248838,34.662919,-82.248838,34.662919],
-  "geometry": {"coordinates":[-82.248838,34.662919],"type":"Point"}
+  "bbox": [
+    -82.248838,
+    34.662919,
+    -82.248838,
+    34.662919
+],
+  "geometry": {"coordinates":[-82.24883800000001,34.662919],"type":"Point"}
 }

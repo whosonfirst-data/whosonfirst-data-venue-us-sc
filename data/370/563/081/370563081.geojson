@@ -2,13 +2,14 @@
   "id": 370563081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.424799,33.403326,-81.424799,33.403326",
     "geom:latitude":33.403326,
     "geom:longitude":-81.424799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 W Main St",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370563081,
-    "wof:lastmodified":1449029117,
+    "wof:lastmodified":1467082299,
     "wof:name":"Jr Food Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.424799,33.403326,-81.424799,33.403326],
-  "geometry": {"coordinates":[-81.424799,33.403326],"type":"Point"}
+  "bbox": [
+    -81.424799,
+    33.403326,
+    -81.424799,
+    33.403326
+],
+  "geometry": {"coordinates":[-81.42479899999999,33.403326],"type":"Point"}
 }

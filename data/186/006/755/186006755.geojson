@@ -2,13 +2,14 @@
   "id": 186006755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.376439,34.172205,-82.376439,34.172205",
     "geom:latitude":34.172205,
     "geom:longitude":-82.376439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 State Hwy 72",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186006755,
-    "wof:lastmodified":1449052486,
+    "wof:lastmodified":1467082407,
     "wof:name":"Nickles Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.376439,34.172205,-82.376439,34.172205],
+  "bbox": [
+    -82.376439,
+    34.172205,
+    -82.376439,
+    34.172205
+],
   "geometry": {"coordinates":[-82.376439,34.172205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185842383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.088173,33.847385,-79.088173,33.847385",
     "geom:latitude":33.847385,
     "geom:longitude":-79.088173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2330 Acie Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185842383,
-    "wof:lastmodified":1449006727,
+    "wof:lastmodified":1467082184,
     "wof:name":"CTI Surface Works",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "waterproofing"
     ]
 },
-  "bbox": [-79.088173,33.847385,-79.088173,33.847385],
+  "bbox": [
+    -79.088173,
+    33.847385,
+    -79.088173,
+    33.847385
+],
   "geometry": {"coordinates":[-79.088173,33.847385],"type":"Point"}
 }

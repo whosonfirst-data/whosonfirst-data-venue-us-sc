@@ -2,13 +2,14 @@
   "id": 370415521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.01585,34.967966,-82.01585,34.967966",
     "geom:latitude":34.967966,
     "geom:longitude":-82.01585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 I- Park",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370415521,
-    "wof:lastmodified":1449031537,
+    "wof:lastmodified":1467082352,
     "wof:name":"Shop Atchison Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.01585,34.967966,-82.01585,34.967966],
+  "bbox": [
+    -82.01585,
+    34.967966,
+    -82.01585,
+    34.967966
+],
   "geometry": {"coordinates":[-82.01585,34.967966],"type":"Point"}
 }

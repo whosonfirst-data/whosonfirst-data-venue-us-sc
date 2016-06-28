@@ -2,13 +2,14 @@
   "id": 186240583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.962927,35.036429,-80.962927,35.036429",
     "geom:latitude":35.036429,
     "geom:longitude":-80.962927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Carolina Place Dr",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186240583,
-    "wof:lastmodified":1449050525,
+    "wof:lastmodified":1467082391,
     "wof:name":"Sterling Entertainment",
     "wof:parent_id":85839383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "music"
     ]
 },
-  "bbox": [-80.962927,35.036429,-80.962927,35.036429],
-  "geometry": {"coordinates":[-80.962927,35.036429],"type":"Point"}
+  "bbox": [
+    -80.962927,
+    35.036429,
+    -80.962927,
+    35.036429
+],
+  "geometry": {"coordinates":[-80.96292699999999,35.036429],"type":"Point"}
 }

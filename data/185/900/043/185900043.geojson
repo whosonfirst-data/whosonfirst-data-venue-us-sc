@@ -2,13 +2,14 @@
   "id": 185900043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.032311,32.953648,-80.032311,32.953648",
     "geom:latitude":32.953648,
     "geom:longitude":-80.032311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Lark Ln",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185900043,
-    "wof:lastmodified":1449007303,
+    "wof:lastmodified":1467082193,
     "wof:name":"Fair Haven Homes",
     "wof:parent_id":85839931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.032311,32.953648,-80.032311,32.953648],
-  "geometry": {"coordinates":[-80.032311,32.953648],"type":"Point"}
+  "bbox": [
+    -80.032311,
+    32.953648,
+    -80.032311,
+    32.953648
+],
+  "geometry": {"coordinates":[-80.03231100000001,32.953648],"type":"Point"}
 }

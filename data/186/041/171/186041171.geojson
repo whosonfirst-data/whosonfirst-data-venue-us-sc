@@ -2,13 +2,14 @@
   "id": 186041171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.93022,32.747027,-79.93022,32.747027",
     "geom:latitude":32.747027,
     "geom:longitude":-79.93022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"693 Whispering Marsh Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186041171,
-    "wof:lastmodified":1449051358,
+    "wof:lastmodified":1467082397,
     "wof:name":"Aycock Piano Tuning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-79.93022,32.747027,-79.93022,32.747027],
-  "geometry": {"coordinates":[-79.93022,32.747027],"type":"Point"}
+  "bbox": [
+    -79.93022,
+    32.747027,
+    -79.93022,
+    32.747027
+],
+  "geometry": {"coordinates":[-79.93022000000001,32.747027],"type":"Point"}
 }

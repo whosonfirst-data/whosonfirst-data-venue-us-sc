@@ -2,13 +2,14 @@
   "id": 370222547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.825998,35.039865,-81.825998,35.039865",
     "geom:latitude":35.039865,
     "geom:longitude":-81.825998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"291 Bud Arthur Bridge Rd",
     "sg:city":"Cowpens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370222547,
-    "wof:lastmodified":1449031340,
+    "wof:lastmodified":1467082348,
     "wof:name":"Abbott Fruit Market",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-81.825998,35.039865,-81.825998,35.039865],
+  "bbox": [
+    -81.825998,
+    35.039865,
+    -81.825998,
+    35.039865
+],
   "geometry": {"coordinates":[-81.825998,35.039865],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186074555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.950176,32.784372,-79.950176,32.784372",
     "geom:latitude":32.784372,
     "geom:longitude":-79.950176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Doughty St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186074555,
-    "wof:lastmodified":1449051829,
+    "wof:lastmodified":1467082401,
     "wof:name":"Infectious Diseases Div",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.950176,32.784372,-79.950176,32.784372],
+  "bbox": [
+    -79.950176,
+    32.784372,
+    -79.950176,
+    32.784372
+],
   "geometry": {"coordinates":[-79.950176,32.784372],"type":"Point"}
 }

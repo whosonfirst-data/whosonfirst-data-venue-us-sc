@@ -2,13 +2,14 @@
   "id": 370935857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.8928,32.305116,-80.8928,32.305116",
     "geom:latitude":32.305116,
     "geom:longitude":-80.8928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Pinckney Colony Rd",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370935857,
-    "wof:lastmodified":1449031866,
+    "wof:lastmodified":1467082360,
     "wof:name":"Smith Metal Works",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.8928,32.305116,-80.8928,32.305116],
-  "geometry": {"coordinates":[-80.8928,32.305116],"type":"Point"}
+  "bbox": [
+    -80.8928,
+    32.305116,
+    -80.8928,
+    32.305116
+],
+  "geometry": {"coordinates":[-80.89279999999999,32.305116],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370688287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.953302,34.685053,-82.953302,34.685053",
     "geom:latitude":34.685053,
     "geom:longitude":-82.953302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Ram Cat Aly",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370688287,
-    "wof:lastmodified":1449030344,
+    "wof:lastmodified":1467082326,
     "wof:name":"Circa 1930",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.953302,34.685053,-82.953302,34.685053],
-  "geometry": {"coordinates":[-82.953302,34.685053],"type":"Point"}
+  "bbox": [
+    -82.953302,
+    34.685053,
+    -82.953302,
+    34.685053
+],
+  "geometry": {"coordinates":[-82.95330199999999,34.685053],"type":"Point"}
 }

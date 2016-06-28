@@ -2,13 +2,14 @@
   "id": 354052689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.712845,32.20218,-80.712845,32.20218",
     "geom:latitude":32.20218,
     "geom:longitude":-80.712845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Marshland Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354052689,
-    "wof:lastmodified":1449066682,
+    "wof:lastmodified":1467082432,
     "wof:name":"Baby's Away",
     "wof:parent_id":85819729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-80.712845,32.20218,-80.712845,32.20218],
+  "bbox": [
+    -80.712845,
+    32.20218,
+    -80.712845,
+    32.20218
+],
   "geometry": {"coordinates":[-80.712845,32.20218],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354320785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.331634,33.383566,-81.331634,33.383566",
     "geom:latitude":33.383566,
     "geom:longitude":-81.331634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 Legion Rd",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354320785,
-    "wof:lastmodified":1449066342,
+    "wof:lastmodified":1467082424,
     "wof:name":"James L Miley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-81.331634,33.383566,-81.331634,33.383566],
-  "geometry": {"coordinates":[-81.331634,33.383566],"type":"Point"}
+  "bbox": [
+    -81.331634,
+    33.383566,
+    -81.331634,
+    33.383566
+],
+  "geometry": {"coordinates":[-81.33163399999999,33.383566],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354368635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.288659,33.264959,-80.288659,33.264959",
     "geom:latitude":33.264959,
     "geom:longitude":-80.288659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2504 State Hwy 311",
     "sg:city":"Cross",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354368635,
-    "wof:lastmodified":1449066324,
+    "wof:lastmodified":1467082423,
     "wof:name":"L & M Health Care Facilities",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-80.288659,33.264959,-80.288659,33.264959],
+  "bbox": [
+    -80.288659,
+    33.264959,
+    -80.288659,
+    33.264959
+],
   "geometry": {"coordinates":[-80.288659,33.264959],"type":"Point"}
 }

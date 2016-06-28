@@ -2,13 +2,14 @@
   "id": 370755233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.387966,34.658462,-80.387966,34.658462",
     "geom:latitude":34.658462,
     "geom:longitude":-80.387966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Main St",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370755233,
-    "wof:lastmodified":1449030066,
+    "wof:lastmodified":1467082320,
     "wof:name":"Our Attic On Main",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.387966,34.658462,-80.387966,34.658462],
-  "geometry": {"coordinates":[-80.387966,34.658462],"type":"Point"}
+  "bbox": [
+    -80.387966,
+    34.658462,
+    -80.387966,
+    34.658462
+],
+  "geometry": {"coordinates":[-80.38796600000001,34.658462],"type":"Point"}
 }

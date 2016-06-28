@@ -2,13 +2,14 @@
   "id": 337306125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.693649,34.787255,-82.693649,34.787255",
     "geom:latitude":34.787255,
     "geom:longitude":-82.693649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 S Commerce St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337306125,
-    "wof:lastmodified":1449027709,
+    "wof:lastmodified":1467082294,
     "wof:name":"Framery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "frame"
     ]
 },
-  "bbox": [-82.693649,34.787255,-82.693649,34.787255],
-  "geometry": {"coordinates":[-82.693649,34.787255],"type":"Point"}
+  "bbox": [
+    -82.693649,
+    34.787255,
+    -82.693649,
+    34.787255
+],
+  "geometry": {"coordinates":[-82.69364899999999,34.787255],"type":"Point"}
 }

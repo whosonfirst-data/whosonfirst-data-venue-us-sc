@@ -2,13 +2,14 @@
   "id": 370291577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.02476,33.52028,-81.02476,33.52028",
     "geom:latitude":33.52028,
     "geom:longitude":-81.02476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Boyleston Pond Rd",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370291577,
-    "wof:lastmodified":1449030142,
+    "wof:lastmodified":1467082322,
     "wof:name":"Mount Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.02476,33.52028,-81.02476,33.52028],
+  "bbox": [
+    -81.02476,
+    33.52028,
+    -81.02476,
+    33.52028
+],
   "geometry": {"coordinates":[-81.02476,33.52028],"type":"Point"}
 }

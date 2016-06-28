@@ -2,13 +2,14 @@
   "id": 353787457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.211188,34.708404,-81.211188,34.708404",
     "geom:latitude":34.708404,
     "geom:longitude":-81.211188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 York St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353787457,
-    "wof:lastmodified":1449019417,
+    "wof:lastmodified":1467082233,
     "wof:name":"Chester Telephone Co",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-81.211188,34.708404,-81.211188,34.708404],
-  "geometry": {"coordinates":[-81.211188,34.708404],"type":"Point"}
+  "bbox": [
+    -81.211188,
+    34.708404,
+    -81.211188,
+    34.708404
+],
+  "geometry": {"coordinates":[-81.21118800000001,34.708404],"type":"Point"}
 }

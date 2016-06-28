@@ -2,13 +2,14 @@
   "id": 354329501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.894361,34.696879,-80.894361,34.696879",
     "geom:latitude":34.696879,
     "geom:longitude":-80.894361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2251 Catawba River Rd",
     "sg:city":"Fort Lawn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354329501,
-    "wof:lastmodified":1449066378,
+    "wof:lastmodified":1467082424,
     "wof:name":"H W Close Plant",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "comforter"
     ]
 },
-  "bbox": [-80.894361,34.696879,-80.894361,34.696879],
+  "bbox": [
+    -80.894361,
+    34.696879,
+    -80.894361,
+    34.696879
+],
   "geometry": {"coordinates":[-80.894361,34.696879],"type":"Point"}
 }

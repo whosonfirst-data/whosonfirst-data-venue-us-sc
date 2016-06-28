@@ -2,13 +2,14 @@
   "id": 337290319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.389446,34.864912,-82.389446,34.864912",
     "geom:latitude":34.864912,
     "geom:longitude":-82.389446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 McDonald St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337290319,
-    "wof:lastmodified":1449027289,
+    "wof:lastmodified":1467082278,
     "wof:name":"Kate Carlyle",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.389446,34.864912,-82.389446,34.864912],
-  "geometry": {"coordinates":[-82.389446,34.864912],"type":"Point"}
+  "bbox": [
+    -82.389446,
+    34.864912,
+    -82.389446,
+    34.864912
+],
+  "geometry": {"coordinates":[-82.38944600000001,34.864912],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370477331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.004716,32.784034,-80.004716,32.784034",
     "geom:latitude":32.784034,
     "geom:longitude":-80.004716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Leinbach Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370477331,
-    "wof:lastmodified":1449029671,
+    "wof:lastmodified":1467082311,
     "wof:name":"George West Offshore Bait",
     "wof:parent_id":85838657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fishing"
     ]
 },
-  "bbox": [-80.004716,32.784034,-80.004716,32.784034],
+  "bbox": [
+    -80.004716,
+    32.784034,
+    -80.004716,
+    32.784034
+],
   "geometry": {"coordinates":[-80.004716,32.784034],"type":"Point"}
 }

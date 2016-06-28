@@ -2,13 +2,14 @@
   "id": 337606787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.062203,33.914205,-81.062203,33.914205",
     "geom:latitude":33.914205,
     "geom:longitude":-81.062203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"682 Dixiana Rd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337606787,
-    "wof:lastmodified":1449027050,
+    "wof:lastmodified":1467082269,
     "wof:name":"Lexco Sales & Engineering Inc",
     "wof:parent_id":85828499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-81.062203,33.914205,-81.062203,33.914205],
+  "bbox": [
+    -81.062203,
+    33.914205,
+    -81.062203,
+    33.914205
+],
   "geometry": {"coordinates":[-81.062203,33.914205],"type":"Point"}
 }

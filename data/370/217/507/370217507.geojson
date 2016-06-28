@@ -2,13 +2,14 @@
   "id": 370217507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.033246,34.495991,-82.033246,34.495991",
     "geom:latitude":34.495991,
     "geom:longitude":-82.033246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Brookwood Dr",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370217507,
-    "wof:lastmodified":1449032265,
+    "wof:lastmodified":1467082369,
     "wof:name":"Midway Auto Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-82.033246,34.495991,-82.033246,34.495991],
-  "geometry": {"coordinates":[-82.033246,34.495991],"type":"Point"}
+  "bbox": [
+    -82.033246,
+    34.495991,
+    -82.033246,
+    34.495991
+],
+  "geometry": {"coordinates":[-82.03324600000001,34.495991],"type":"Point"}
 }

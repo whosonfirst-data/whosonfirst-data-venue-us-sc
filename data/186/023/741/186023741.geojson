@@ -2,13 +2,14 @@
   "id": 186023741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.938353,34.757764,-82.938353,34.757764",
     "geom:latitude":34.757764,
     "geom:longitude":-82.938353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Luther Land Rd",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186023741,
-    "wof:lastmodified":1449052754,
+    "wof:lastmodified":1467082411,
     "wof:name":"Marie E Land",
     "wof:parent_id":85828189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "operative"
     ]
 },
-  "bbox": [-82.938353,34.757764,-82.938353,34.757764],
-  "geometry": {"coordinates":[-82.938353,34.757764],"type":"Point"}
+  "bbox": [
+    -82.938353,
+    34.757764,
+    -82.938353,
+    34.757764
+],
+  "geometry": {"coordinates":[-82.93835300000001,34.757764],"type":"Point"}
 }

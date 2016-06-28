@@ -2,13 +2,14 @@
   "id": 370778981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.848396,32.759207,-79.848396,32.759207",
     "geom:latitude":32.759207,
     "geom:longitude":-79.848396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Florence St",
     "sg:city":"Sullivans Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370778981,
-    "wof:lastmodified":1449029135,
+    "wof:lastmodified":1467082299,
     "wof:name":"Country Way",
     "wof:parent_id":85820163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.848396,32.759207,-79.848396,32.759207],
-  "geometry": {"coordinates":[-79.848396,32.759207],"type":"Point"}
+  "bbox": [
+    -79.848396,
+    32.759207,
+    -79.848396,
+    32.759207
+],
+  "geometry": {"coordinates":[-79.84839599999999,32.759207],"type":"Point"}
 }

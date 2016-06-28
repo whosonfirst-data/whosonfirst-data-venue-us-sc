@@ -2,13 +2,14 @@
   "id": 354367919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.824525,34.204337,-79.824525,34.204337",
     "geom:latitude":34.204337,
     "geom:longitude":-79.824525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2656 W Andover Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354367919,
-    "wof:lastmodified":1449066954,
+    "wof:lastmodified":1467082438,
     "wof:name":"Graves Bros Hardwood Floors",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.824525,34.204337,-79.824525,34.204337],
-  "geometry": {"coordinates":[-79.824525,34.204337],"type":"Point"}
+  "bbox": [
+    -79.824525,
+    34.204337,
+    -79.824525,
+    34.204337
+],
+  "geometry": {"coordinates":[-79.82452499999999,34.204337],"type":"Point"}
 }

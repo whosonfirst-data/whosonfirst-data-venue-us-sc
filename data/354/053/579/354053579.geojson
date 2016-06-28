@@ -2,13 +2,14 @@
   "id": 354053579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.948457,32.834773,-79.948457,32.834773",
     "geom:latitude":32.834773,
     "geom:longitude":-79.948457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1875 Pittsburgh Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354053579,
-    "wof:lastmodified":1449066248,
+    "wof:lastmodified":1467082422,
     "wof:name":"Palmetto Pile Driving Inc",
     "wof:parent_id":85824749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driving"
     ]
 },
-  "bbox": [-79.948457,32.834773,-79.948457,32.834773],
+  "bbox": [
+    -79.948457,
+    32.834773,
+    -79.948457,
+    32.834773
+],
   "geometry": {"coordinates":[-79.948457,32.834773],"type":"Point"}
 }

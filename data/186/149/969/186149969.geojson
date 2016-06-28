@@ -2,13 +2,14 @@
   "id": 186149969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.001828,34.932475,-82.001828,34.932475",
     "geom:latitude":34.932475,
     "geom:longitude":-82.001828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Blackstock Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186149969,
-    "wof:lastmodified":1449050261,
+    "wof:lastmodified":1467082389,
     "wof:name":"Noah's Ark Kennels",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-82.001828,34.932475,-82.001828,34.932475],
+  "bbox": [
+    -82.001828,
+    34.932475,
+    -82.001828,
+    34.932475
+],
   "geometry": {"coordinates":[-82.001828,34.932475],"type":"Point"}
 }

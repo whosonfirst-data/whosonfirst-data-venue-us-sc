@@ -2,13 +2,14 @@
   "id": 337511101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.436138,34.970999,-82.436138,34.970999",
     "geom:latitude":34.970999,
     "geom:longitude":-82.436138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 N Poinsett Hwy",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337511101,
-    "wof:lastmodified":1449027322,
+    "wof:lastmodified":1467082279,
     "wof:name":"Classic Events",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rooms"
     ]
 },
-  "bbox": [-82.436138,34.970999,-82.436138,34.970999],
+  "bbox": [
+    -82.436138,
+    34.970999,
+    -82.436138,
+    34.970999
+],
   "geometry": {"coordinates":[-82.436138,34.970999],"type":"Point"}
 }

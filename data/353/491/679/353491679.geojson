@@ -2,13 +2,14 @@
   "id": 353491679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.964656,34.014331,-80.964656,34.014331",
     "geom:latitude":34.014331,
     "geom:longitude":-80.964656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Calender Ct",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353491679,
-    "wof:lastmodified":1449018215,
+    "wof:lastmodified":1467082209,
     "wof:name":"Palmetto Performing Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-80.964656,34.014331,-80.964656,34.014331],
-  "geometry": {"coordinates":[-80.964656,34.014331],"type":"Point"}
+  "bbox": [
+    -80.964656,
+    34.014331,
+    -80.964656,
+    34.014331
+],
+  "geometry": {"coordinates":[-80.96465600000001,34.014331],"type":"Point"}
 }

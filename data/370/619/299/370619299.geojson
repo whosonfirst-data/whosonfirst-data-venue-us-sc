@@ -2,13 +2,14 @@
   "id": 370619299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.476768,34.646166,-82.476768,34.646166",
     "geom:latitude":34.646166,
     "geom:longitude":-82.476768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Main St",
     "sg:city":"Pelzer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370619299,
-    "wof:lastmodified":1449029701,
+    "wof:lastmodified":1467082311,
     "wof:name":"Pete's Of West Pelzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.476768,34.646166,-82.476768,34.646166],
-  "geometry": {"coordinates":[-82.476768,34.646166],"type":"Point"}
+  "bbox": [
+    -82.476768,
+    34.646166,
+    -82.476768,
+    34.646166
+],
+  "geometry": {"coordinates":[-82.47676800000001,34.646166],"type":"Point"}
 }

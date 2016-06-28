@@ -2,13 +2,14 @@
   "id": 185767163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.300256,34.827317,-82.300256,34.827317",
     "geom:latitude":34.827317,
     "geom:longitude":-82.300256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1139 Woodruff Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185767163,
-    "wof:lastmodified":1449007079,
+    "wof:lastmodified":1467082189,
     "wof:name":"Blue Jay Convenience Store",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.300256,34.827317,-82.300256,34.827317],
+  "bbox": [
+    -82.300256,
+    34.827317,
+    -82.300256,
+    34.827317
+],
   "geometry": {"coordinates":[-82.300256,34.827317],"type":"Point"}
 }

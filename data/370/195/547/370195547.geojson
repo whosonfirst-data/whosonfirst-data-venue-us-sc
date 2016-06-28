@@ -2,13 +2,14 @@
   "id": 370195547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.825527,32.559927,-80.825527,32.559927",
     "geom:latitude":32.559927,
     "geom:longitude":-80.825527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Eagle Island Pl",
     "sg:city":"Sheldon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370195547,
-    "wof:lastmodified":1449031298,
+    "wof:lastmodified":1467082347,
     "wof:name":"Sheldon Assoc LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.825527,32.559927,-80.825527,32.559927],
-  "geometry": {"coordinates":[-80.825527,32.559927],"type":"Point"}
+  "bbox": [
+    -80.825527,
+    32.559927,
+    -80.825527,
+    32.559927
+],
+  "geometry": {"coordinates":[-80.82552699999999,32.559927],"type":"Point"}
 }

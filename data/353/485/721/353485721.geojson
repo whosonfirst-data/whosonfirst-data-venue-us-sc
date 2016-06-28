@@ -2,13 +2,14 @@
   "id": 353485721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.618112,34.58784,-82.618112,34.58784",
     "geom:latitude":34.58784,
     "geom:longitude":-82.618112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Devon Way",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353485721,
-    "wof:lastmodified":1449019835,
+    "wof:lastmodified":1467082242,
     "wof:name":"Electro Phase",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.618112,34.58784,-82.618112,34.58784],
+  "bbox": [
+    -82.618112,
+    34.58784,
+    -82.618112,
+    34.58784
+],
   "geometry": {"coordinates":[-82.618112,34.58784],"type":"Point"}
 }

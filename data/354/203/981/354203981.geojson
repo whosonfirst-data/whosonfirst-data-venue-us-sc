@@ -2,13 +2,14 @@
   "id": 354203981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.842607,33.723559,-78.842607,33.723559",
     "geom:latitude":33.723559,
     "geom:longitude":-78.842607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5156 N Ocean Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354203981,
-    "wof:lastmodified":1449066670,
+    "wof:lastmodified":1467082431,
     "wof:name":"Sea Cloisters I",
     "wof:parent_id":85839155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.842607,33.723559,-78.842607,33.723559],
+  "bbox": [
+    -78.842607,
+    33.723559,
+    -78.842607,
+    33.723559
+],
   "geometry": {"coordinates":[-78.842607,33.723559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354039533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.056814,33.831964,-79.056814,33.831964",
     "geom:latitude":33.831964,
     "geom:longitude":-79.056814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Smith St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354039533,
-    "wof:lastmodified":1449067449,
+    "wof:lastmodified":1467082449,
     "wof:name":"Conway AC & Rfrgn",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.056814,33.831964,-79.056814,33.831964],
+  "bbox": [
+    -79.056814,
+    33.831964,
+    -79.056814,
+    33.831964
+],
   "geometry": {"coordinates":[-79.056814,33.831964],"type":"Point"}
 }

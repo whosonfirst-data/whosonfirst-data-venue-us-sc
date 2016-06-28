@@ -2,13 +2,14 @@
   "id": 337375671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.341856,33.918799,-80.341856,33.918799",
     "geom:latitude":33.918799,
     "geom:longitude":-80.341856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Main St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":337375671,
-    "wof:lastmodified":1449026966,
+    "wof:lastmodified":1467082266,
     "wof:name":"Kimbrell's Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.341856,33.918799,-80.341856,33.918799],
-  "geometry": {"coordinates":[-80.341856,33.918799],"type":"Point"}
+  "bbox": [
+    -80.341856,
+    33.918799,
+    -80.341856,
+    33.918799
+],
+  "geometry": {"coordinates":[-80.34185600000001,33.918799],"type":"Point"}
 }

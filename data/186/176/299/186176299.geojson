@@ -2,13 +2,14 @@
   "id": 186176299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.677358,34.859929,-82.677358,34.859929",
     "geom:latitude":34.859929,
     "geom:longitude":-82.677358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2316 Gentry Memorial Hwy",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186176299,
-    "wof:lastmodified":1449052120,
+    "wof:lastmodified":1467082404,
     "wof:name":"Bethlehem Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "warehousing"
     ]
 },
-  "bbox": [-82.677358,34.859929,-82.677358,34.859929],
+  "bbox": [
+    -82.677358,
+    34.859929,
+    -82.677358,
+    34.859929
+],
   "geometry": {"coordinates":[-82.677358,34.859929],"type":"Point"}
 }

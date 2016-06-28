@@ -2,13 +2,14 @@
   "id": 354277949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.137892,32.646085,-80.137892,32.646085",
     "geom:latitude":32.646085,
     "geom:longitude":-80.137892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3714 Betsy Kerrison Pkwy",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354277949,
-    "wof:lastmodified":1449066129,
+    "wof:lastmodified":1467082419,
     "wof:name":"Prudential Carolina Real Est",
     "wof:parent_id":85809109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-80.137892,32.646085,-80.137892,32.646085],
-  "geometry": {"coordinates":[-80.137892,32.646085],"type":"Point"}
+  "bbox": [
+    -80.137892,
+    32.646085,
+    -80.137892,
+    32.646085
+],
+  "geometry": {"coordinates":[-80.13789199999999,32.646085],"type":"Point"}
 }

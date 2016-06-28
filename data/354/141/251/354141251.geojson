@@ -2,13 +2,14 @@
   "id": 354141251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.936462,33.670246,-78.936462,33.670246",
     "geom:latitude":33.670246,
     "geom:longitude":-78.936462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1144 Shine Ave",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354141251,
-    "wof:lastmodified":1449066516,
+    "wof:lastmodified":1467082428,
     "wof:name":"Thomas & Hutton Engineering",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-78.936462,33.670246,-78.936462,33.670246],
-  "geometry": {"coordinates":[-78.936462,33.670246],"type":"Point"}
+  "bbox": [
+    -78.936462,
+    33.670246,
+    -78.936462,
+    33.670246
+],
+  "geometry": {"coordinates":[-78.93646200000001,33.670246],"type":"Point"}
 }

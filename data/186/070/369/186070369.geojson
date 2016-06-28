@@ -2,13 +2,14 @@
   "id": 186070369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.213779,33.996379,-81.213779,33.996379",
     "geom:latitude":33.996379,
     "geom:longitude":-81.213779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Scotland Dr",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186070369,
-    "wof:lastmodified":1449051683,
+    "wof:lastmodified":1467082400,
     "wof:name":"Hudson Brothers Barbecue",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbecue"
     ]
 },
-  "bbox": [-81.213779,33.996379,-81.213779,33.996379],
+  "bbox": [
+    -81.213779,
+    33.996379,
+    -81.213779,
+    33.996379
+],
   "geometry": {"coordinates":[-81.213779,33.996379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185663377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.331531,32.655745,-80.331531,32.655745",
     "geom:latitude":32.655745,
     "geom:longitude":-80.331531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7994 White Point Rd",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185663377,
-    "wof:lastmodified":1449007779,
+    "wof:lastmodified":1467082200,
     "wof:name":"Southland Fisheries",
     "wof:parent_id":85809109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fish"
     ]
 },
-  "bbox": [-80.331531,32.655745,-80.331531,32.655745],
+  "bbox": [
+    -80.331531,
+    32.655745,
+    -80.331531,
+    32.655745
+],
   "geometry": {"coordinates":[-80.331531,32.655745],"type":"Point"}
 }

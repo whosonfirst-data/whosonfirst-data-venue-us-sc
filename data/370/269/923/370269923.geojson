@@ -2,13 +2,14 @@
   "id": 370269923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.223718,33.696034,-80.223718,33.696034",
     "geom:latitude":33.696034,
     "geom:longitude":-80.223718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Commerce St",
     "sg:city":"Manning",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370269923,
-    "wof:lastmodified":1449031208,
+    "wof:lastmodified":1467082345,
     "wof:name":"Clarendon Mental Health Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-80.223718,33.696034,-80.223718,33.696034],
-  "geometry": {"coordinates":[-80.223718,33.696034],"type":"Point"}
+  "bbox": [
+    -80.223718,
+    33.696034,
+    -80.223718,
+    33.696034
+],
+  "geometry": {"coordinates":[-80.22371800000001,33.696034],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169700277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.061344,34.75511,-81.061344,34.75511",
     "geom:latitude":34.75511,
     "geom:longitude":-81.061344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2756 Gaston Farm Rd",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169700277,
-    "wof:lastmodified":1449035668,
+    "wof:lastmodified":1467082387,
     "wof:name":"Landscaping & Mower",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.061344,34.75511,-81.061344,34.75511],
-  "geometry": {"coordinates":[-81.061344,34.75511],"type":"Point"}
+  "bbox": [
+    -81.061344,
+    34.75511,
+    -81.061344,
+    34.75511
+],
+  "geometry": {"coordinates":[-81.06134400000001,34.75511],"type":"Point"}
 }

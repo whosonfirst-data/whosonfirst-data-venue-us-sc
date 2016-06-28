@@ -2,13 +2,14 @@
   "id": 353590779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.013581,34.010866,-81.013581,34.010866",
     "geom:latitude":34.010866,
     "geom:longitude":-81.013581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1527 Lyon St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353590779,
-    "wof:lastmodified":1449019788,
+    "wof:lastmodified":1467082241,
     "wof:name":"Harley College Of Barbering",
     "wof:parent_id":85854837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [-81.013581,34.010866,-81.013581,34.010866],
+  "bbox": [
+    -81.013581,
+    34.010866,
+    -81.013581,
+    34.010866
+],
   "geometry": {"coordinates":[-81.013581,34.010866],"type":"Point"}
 }

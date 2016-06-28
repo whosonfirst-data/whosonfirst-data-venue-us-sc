@@ -2,13 +2,14 @@
   "id": 354079283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.008242,34.976448,-81.008242,34.976448",
     "geom:latitude":34.976448,
     "geom:longitude":-81.008242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2124 Celanese Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354079283,
-    "wof:lastmodified":1449067365,
+    "wof:lastmodified":1467082447,
     "wof:name":"Mayflower Seafood Restaurant",
     "wof:parent_id":85841095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.008242,34.976448,-81.008242,34.976448],
+  "bbox": [
+    -81.008242,
+    34.976448,
+    -81.008242,
+    34.976448
+],
   "geometry": {"coordinates":[-81.008242,34.976448],"type":"Point"}
 }

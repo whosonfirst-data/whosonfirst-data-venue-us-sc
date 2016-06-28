@@ -2,13 +2,14 @@
   "id": 370147963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.934543,34.950595,-81.934543,34.950595",
     "geom:latitude":34.950595,
     "geom:longitude":-81.934543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 W Saint John St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370147963,
-    "wof:lastmodified":1449032110,
+    "wof:lastmodified":1467082365,
     "wof:name":"Bean & Bean",
     "wof:parent_id":85854631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.934543,34.950595,-81.934543,34.950595],
-  "geometry": {"coordinates":[-81.934543,34.950595],"type":"Point"}
+  "bbox": [
+    -81.934543,
+    34.950595,
+    -81.934543,
+    34.950595
+],
+  "geometry": {"coordinates":[-81.93454300000001,34.950595],"type":"Point"}
 }

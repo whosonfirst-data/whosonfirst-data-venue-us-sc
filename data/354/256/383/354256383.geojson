@@ -2,13 +2,14 @@
   "id": 354256383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.727758,32.177891,-80.727758,32.177891",
     "geom:latitude":32.177891,
     "geom:longitude":-80.727758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 William Hilton Pkwy",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354256383,
-    "wof:lastmodified":1449067237,
+    "wof:lastmodified":1467082444,
     "wof:name":"West Marine",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.727758,32.177891,-80.727758,32.177891],
-  "geometry": {"coordinates":[-80.727758,32.177891],"type":"Point"}
+  "bbox": [
+    -80.727758,
+    32.177891,
+    -80.727758,
+    32.177891
+],
+  "geometry": {"coordinates":[-80.72775799999999,32.177891],"type":"Point"}
 }

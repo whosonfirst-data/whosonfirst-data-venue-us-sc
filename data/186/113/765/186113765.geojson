@@ -2,13 +2,14 @@
   "id": 186113765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.054128,34.107809,-81.054128,34.107809",
     "geom:latitude":34.107809,
     "geom:longitude":-81.054128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1814 Heyward Brockington Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186113765,
-    "wof:lastmodified":1449052803,
+    "wof:lastmodified":1467082411,
     "wof:name":"Charles Yon Body Shop",
     "wof:parent_id":85804585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "used"
     ]
 },
-  "bbox": [-81.054128,34.107809,-81.054128,34.107809],
-  "geometry": {"coordinates":[-81.054128,34.107809],"type":"Point"}
+  "bbox": [
+    -81.054128,
+    34.107809,
+    -81.054128,
+    34.107809
+],
+  "geometry": {"coordinates":[-81.05412800000001,34.107809],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185739023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.02539,35.033663,-81.02539,35.033663",
     "geom:latitude":35.033663,
     "geom:longitude":-81.02539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5018 Tara Tea Dr",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185739023,
-    "wof:lastmodified":1449007285,
+    "wof:lastmodified":1467082193,
     "wof:name":"Pritchard Mortgage Inc",
     "wof:parent_id":85810107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-81.02539,35.033663,-81.02539,35.033663],
+  "bbox": [
+    -81.02539,
+    35.033663,
+    -81.02539,
+    35.033663
+],
   "geometry": {"coordinates":[-81.02539,35.033663],"type":"Point"}
 }

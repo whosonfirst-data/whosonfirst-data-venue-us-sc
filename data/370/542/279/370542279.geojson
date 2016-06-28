@@ -2,13 +2,14 @@
   "id": 370542279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.33673,33.931142,-80.33673,33.931142",
     "geom:latitude":33.931142,
     "geom:longitude":-80.33673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 E Charlotte Ave",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":370542279,
-    "wof:lastmodified":1449031730,
+    "wof:lastmodified":1467082357,
     "wof:name":"Gemini Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.33673,33.931142,-80.33673,33.931142],
+  "bbox": [
+    -80.33673,
+    33.931142,
+    -80.33673,
+    33.931142
+],
   "geometry": {"coordinates":[-80.33673,33.931142],"type":"Point"}
 }

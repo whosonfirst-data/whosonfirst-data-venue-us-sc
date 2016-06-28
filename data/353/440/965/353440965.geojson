@@ -2,13 +2,14 @@
   "id": 353440965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.385999,34.851901,-82.385999,34.851901",
     "geom:latitude":34.851901,
     "geom:longitude":-82.385999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Whitsett St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353440965,
-    "wof:lastmodified":1449019151,
+    "wof:lastmodified":1467082228,
     "wof:name":"Johnstone & Assoc",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-82.385999,34.851901,-82.385999,34.851901],
+  "bbox": [
+    -82.385999,
+    34.851901,
+    -82.385999,
+    34.851901
+],
   "geometry": {"coordinates":[-82.385999,34.851901],"type":"Point"}
 }

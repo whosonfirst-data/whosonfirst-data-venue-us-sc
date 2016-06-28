@@ -2,13 +2,14 @@
   "id": 354399623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.886844,35.019279,-81.886844,35.019279",
     "geom:latitude":35.019279,
     "geom:longitude":-81.886844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Jones Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354399623,
-    "wof:lastmodified":1449066239,
+    "wof:lastmodified":1467082421,
     "wof:name":"R R Donnelley & Sons Co",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-81.886844,35.019279,-81.886844,35.019279],
+  "bbox": [
+    -81.886844,
+    35.019279,
+    -81.886844,
+    35.019279
+],
   "geometry": {"coordinates":[-81.886844,35.019279],"type":"Point"}
 }

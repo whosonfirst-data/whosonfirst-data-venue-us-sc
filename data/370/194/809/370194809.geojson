@@ -2,13 +2,14 @@
   "id": 370194809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.013846,32.972379,-80.013846,32.972379",
     "geom:latitude":32.972379,
     "geom:longitude":-80.013846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Plainfield Ave",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370194809,
-    "wof:lastmodified":1449031980,
+    "wof:lastmodified":1467082363,
     "wof:name":"R & R Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.013846,32.972379,-80.013846,32.972379],
+  "bbox": [
+    -80.013846,
+    32.972379,
+    -80.013846,
+    32.972379
+],
   "geometry": {"coordinates":[-80.013846,32.972379],"type":"Point"}
 }

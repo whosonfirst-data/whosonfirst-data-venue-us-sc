@@ -2,13 +2,14 @@
   "id": 353938567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.300577,34.850975,-82.300577,34.850975",
     "geom:latitude":34.850975,
     "geom:longitude":-82.300577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Weybridge Ct",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353938567,
-    "wof:lastmodified":1449020150,
+    "wof:lastmodified":1467082248,
     "wof:name":"TICO Credit Co",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-82.300577,34.850975,-82.300577,34.850975],
+  "bbox": [
+    -82.300577,
+    34.850975,
+    -82.300577,
+    34.850975
+],
   "geometry": {"coordinates":[-82.300577,34.850975],"type":"Point"}
 }

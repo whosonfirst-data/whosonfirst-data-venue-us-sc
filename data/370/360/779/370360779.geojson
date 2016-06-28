@@ -2,13 +2,14 @@
   "id": 370360779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.394054,34.448275,-82.394054,34.448275",
     "geom:latitude":34.448275,
     "geom:longitude":-82.394054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Main St",
     "sg:city":"Honea Path",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370360779,
-    "wof:lastmodified":1449031708,
+    "wof:lastmodified":1467082356,
     "wof:name":"Covenant Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.394054,34.448275,-82.394054,34.448275],
+  "bbox": [
+    -82.394054,
+    34.448275,
+    -82.394054,
+    34.448275
+],
   "geometry": {"coordinates":[-82.394054,34.448275],"type":"Point"}
 }

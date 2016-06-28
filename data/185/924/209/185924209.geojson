@@ -2,13 +2,14 @@
   "id": 185924209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.905597,33.701107,-78.905597,33.701107",
     "geom:latitude":33.701107,
     "geom:longitude":-78.905597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1693 Shannondora St",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185924209,
-    "wof:lastmodified":1449007056,
+    "wof:lastmodified":1467082189,
     "wof:name":"Pryor Landscaping",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-78.905597,33.701107,-78.905597,33.701107],
+  "bbox": [
+    -78.905597,
+    33.701107,
+    -78.905597,
+    33.701107
+],
   "geometry": {"coordinates":[-78.905597,33.701107],"type":"Point"}
 }

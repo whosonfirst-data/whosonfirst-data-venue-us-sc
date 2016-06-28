@@ -2,13 +2,14 @@
   "id": 370603517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.604589,34.26956,-81.604589,34.26956",
     "geom:latitude":34.26956,
     "geom:longitude":-81.604589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2114 Bouknight St",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370603517,
-    "wof:lastmodified":1449031942,
+    "wof:lastmodified":1467082362,
     "wof:name":"Delightful Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.604589,34.26956,-81.604589,34.26956],
+  "bbox": [
+    -81.604589,
+    34.26956,
+    -81.604589,
+    34.26956
+],
   "geometry": {"coordinates":[-81.604589,34.26956],"type":"Point"}
 }

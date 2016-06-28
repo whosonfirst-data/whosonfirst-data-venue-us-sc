@@ -2,13 +2,14 @@
   "id": 185889815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.773798,34.413948,-80.773798,34.413948",
     "geom:latitude":34.413948,
     "geom:longitude":-80.773798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1886 Sailing Club Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185889815,
-    "wof:lastmodified":1449006574,
+    "wof:lastmodified":1467082182,
     "wof:name":"Wateree Sail Club",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-80.773798,34.413948,-80.773798,34.413948],
+  "bbox": [
+    -80.773798,
+    34.413948,
+    -80.773798,
+    34.413948
+],
   "geometry": {"coordinates":[-80.773798,34.413948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353712883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.339693,33.924187,-80.339693,33.924187",
     "geom:latitude":33.924187,
     "geom:longitude":-80.339693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Harvin St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":353712883,
-    "wof:lastmodified":1449019344,
+    "wof:lastmodified":1467082232,
     "wof:name":"Newman Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.339693,33.924187,-80.339693,33.924187],
+  "bbox": [
+    -80.339693,
+    33.924187,
+    -80.339693,
+    33.924187
+],
   "geometry": {"coordinates":[-80.339693,33.924187],"type":"Point"}
 }

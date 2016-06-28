@@ -2,13 +2,14 @@
   "id": 169754141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.245545,34.808111,-82.245545,34.808111",
     "geom:latitude":34.808111,
     "geom:longitude":-82.245545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Glenbriar Ct",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169754141,
-    "wof:lastmodified":1449034847,
+    "wof:lastmodified":1467082384,
     "wof:name":"Legendary Headwear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.245545,34.808111,-82.245545,34.808111],
-  "geometry": {"coordinates":[-82.245545,34.808111],"type":"Point"}
+  "bbox": [
+    -82.245545,
+    34.808111,
+    -82.245545,
+    34.808111
+],
+  "geometry": {"coordinates":[-82.24554500000001,34.808111],"type":"Point"}
 }

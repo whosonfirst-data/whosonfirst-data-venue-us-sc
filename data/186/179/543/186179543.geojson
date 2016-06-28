@@ -2,13 +2,14 @@
   "id": 186179543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.507096,34.790766,-81.507096,34.790766",
     "geom:latitude":34.790766,
     "geom:longitude":-81.507096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Adams Lake Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186179543,
-    "wof:lastmodified":1449052742,
+    "wof:lastmodified":1467082410,
     "wof:name":"Brown's Creek Water Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sewage"
     ]
 },
-  "bbox": [-81.507096,34.790766,-81.507096,34.790766],
+  "bbox": [
+    -81.507096,
+    34.790766,
+    -81.507096,
+    34.790766
+],
   "geometry": {"coordinates":[-81.507096,34.790766],"type":"Point"}
 }

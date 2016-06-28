@@ -2,13 +2,14 @@
   "id": 337634187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.219495,34.00959,-81.219495,34.00959",
     "geom:latitude":34.00959,
     "geom:longitude":-81.219495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Cranford Ct",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337634187,
-    "wof:lastmodified":1449027340,
+    "wof:lastmodified":1467082280,
     "wof:name":"Palmetto Air Conditioning Co",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.219495,34.00959,-81.219495,34.00959],
-  "geometry": {"coordinates":[-81.219495,34.00959],"type":"Point"}
+  "bbox": [
+    -81.219495,
+    34.00959,
+    -81.219495,
+    34.00959
+],
+  "geometry": {"coordinates":[-81.21949499999999,34.00959],"type":"Point"}
 }

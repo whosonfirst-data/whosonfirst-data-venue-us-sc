@@ -2,13 +2,14 @@
   "id": 353405181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.610396,34.964142,-82.610396,34.964142",
     "geom:latitude":34.964142,
     "geom:longitude":-82.610396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4173 Dacusville Hwy",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353405181,
-    "wof:lastmodified":1449020602,
+    "wof:lastmodified":1467082258,
     "wof:name":"Quality Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.610396,34.964142,-82.610396,34.964142],
-  "geometry": {"coordinates":[-82.610396,34.964142],"type":"Point"}
+  "bbox": [
+    -82.610396,
+    34.964142,
+    -82.610396,
+    34.964142
+],
+  "geometry": {"coordinates":[-82.61039599999999,34.964142],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370594235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.117106,33.688602,-79.117106,33.688602",
     "geom:latitude":33.688602,
     "geom:longitude":-79.117106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1756 Bucksport Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370594235,
-    "wof:lastmodified":1449029580,
+    "wof:lastmodified":1467082309,
     "wof:name":"Bucksport Grocery",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-79.117106,33.688602,-79.117106,33.688602],
-  "geometry": {"coordinates":[-79.117106,33.688602],"type":"Point"}
+  "bbox": [
+    -79.117106,
+    33.688602,
+    -79.117106,
+    33.688602
+],
+  "geometry": {"coordinates":[-79.11710600000001,33.688602],"type":"Point"}
 }

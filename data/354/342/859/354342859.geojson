@@ -2,13 +2,14 @@
   "id": 354342859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.097944,32.994382,-80.097944,32.994382",
     "geom:latitude":32.994382,
     "geom:longitude":-80.097944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"183 College Park Rd",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354342859,
-    "wof:lastmodified":1449067558,
+    "wof:lastmodified":1467082452,
     "wof:name":"Auto Vision",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.097944,32.994382,-80.097944,32.994382],
+  "bbox": [
+    -80.097944,
+    32.994382,
+    -80.097944,
+    32.994382
+],
   "geometry": {"coordinates":[-80.097944,32.994382],"type":"Point"}
 }

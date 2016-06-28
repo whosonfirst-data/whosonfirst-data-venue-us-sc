@@ -2,13 +2,14 @@
   "id": 353789141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.002959,34.003292,-81.002959,34.003292",
     "geom:latitude":34.003292,
     "geom:longitude":-81.002959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2738 Millwood Ave",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353789141,
-    "wof:lastmodified":1449019410,
+    "wof:lastmodified":1467082233,
     "wof:name":"EIC Research Inc",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-81.002959,34.003292,-81.002959,34.003292],
+  "bbox": [
+    -81.002959,
+    34.003292,
+    -81.002959,
+    34.003292
+],
   "geometry": {"coordinates":[-81.002959,34.003292],"type":"Point"}
 }

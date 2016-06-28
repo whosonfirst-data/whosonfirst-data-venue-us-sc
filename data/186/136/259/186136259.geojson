@@ -2,13 +2,14 @@
   "id": 186136259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.674873,33.953014,-80.674873,33.953014",
     "geom:latitude":33.953014,
     "geom:longitude":-80.674873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Cooks Mountain Rd",
     "sg:city":"Eastover",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186136259,
-    "wof:lastmodified":1449052993,
+    "wof:lastmodified":1467082413,
     "wof:name":"Buckeye AG Services LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-80.674873,33.953014,-80.674873,33.953014],
-  "geometry": {"coordinates":[-80.674873,33.953014],"type":"Point"}
+  "bbox": [
+    -80.674873,
+    33.953014,
+    -80.674873,
+    33.953014
+],
+  "geometry": {"coordinates":[-80.67487300000001,33.953014],"type":"Point"}
 }

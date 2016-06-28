@@ -2,13 +2,14 @@
   "id": 370523293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.438356,33.83486,-80.438356,33.83486",
     "geom:latitude":33.83486,
     "geom:longitude":-80.438356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2990 Pinewood Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370523293,
-    "wof:lastmodified":1449031018,
+    "wof:lastmodified":1467082341,
     "wof:name":"Enon Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.438356,33.83486,-80.438356,33.83486],
+  "bbox": [
+    -80.438356,
+    33.83486,
+    -80.438356,
+    33.83486
+],
   "geometry": {"coordinates":[-80.438356,33.83486],"type":"Point"}
 }

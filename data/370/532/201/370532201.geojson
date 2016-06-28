@@ -2,13 +2,14 @@
   "id": 370532201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.996047,34.947414,-80.996047,34.947414",
     "geom:latitude":34.947414,
     "geom:longitude":-80.996047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 Mount Phillips St",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370532201,
-    "wof:lastmodified":1449030239,
+    "wof:lastmodified":1467082324,
     "wof:name":"A Porta Jon",
     "wof:parent_id":85858367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "toilet"
     ]
 },
-  "bbox": [-80.996047,34.947414,-80.996047,34.947414],
+  "bbox": [
+    -80.996047,
+    34.947414,
+    -80.996047,
+    34.947414
+],
   "geometry": {"coordinates":[-80.996047,34.947414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337420673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.889426,34.69416,-79.889426,34.69416",
     "geom:latitude":34.69416,
     "geom:longitude":-79.889426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Market St",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337420673,
-    "wof:lastmodified":1449027342,
+    "wof:lastmodified":1467082280,
     "wof:name":"Sentry Bank & Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.889426,34.69416,-79.889426,34.69416],
+  "bbox": [
+    -79.889426,
+    34.69416,
+    -79.889426,
+    34.69416
+],
   "geometry": {"coordinates":[-79.889426,34.69416],"type":"Point"}
 }

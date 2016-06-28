@@ -2,13 +2,14 @@
   "id": 353712619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.194629,35.100433,-82.194629,35.100433",
     "geom:latitude":35.100433,
     "geom:longitude":-82.194629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Oak Rd",
     "sg:city":"Campobello",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353712619,
-    "wof:lastmodified":1449019342,
+    "wof:lastmodified":1467082232,
     "wof:name":"Campobello Cutting Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "skid"
     ]
 },
-  "bbox": [-82.194629,35.100433,-82.194629,35.100433],
-  "geometry": {"coordinates":[-82.194629,35.100433],"type":"Point"}
+  "bbox": [
+    -82.194629,
+    35.100433,
+    -82.194629,
+    35.100433
+],
+  "geometry": {"coordinates":[-82.19462900000001,35.100433],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185830703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.370128,34.829801,-82.370128,34.829801",
     "geom:latitude":34.829801,
     "geom:longitude":-82.370128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 S Pleasantburg Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185830703,
-    "wof:lastmodified":1449006959,
+    "wof:lastmodified":1467082187,
     "wof:name":"Greenville Technical College",
     "wof:parent_id":85809831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-82.370128,34.829801,-82.370128,34.829801],
-  "geometry": {"coordinates":[-82.370128,34.829801],"type":"Point"}
+  "bbox": [
+    -82.370128,
+    34.829801,
+    -82.370128,
+    34.829801
+],
+  "geometry": {"coordinates":[-82.37012799999999,34.829801],"type":"Point"}
 }

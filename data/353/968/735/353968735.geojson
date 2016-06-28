@@ -2,13 +2,14 @@
   "id": 353968735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.858371,33.516581,-80.858371,33.516581",
     "geom:latitude":33.516581,
     "geom:longitude":-80.858371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1380 Wingate St NE",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353968735,
-    "wof:lastmodified":1449018418,
+    "wof:lastmodified":1467082213,
     "wof:name":"Beauty Time",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.858371,33.516581,-80.858371,33.516581],
-  "geometry": {"coordinates":[-80.858371,33.516581],"type":"Point"}
+  "bbox": [
+    -80.858371,
+    33.516581,
+    -80.858371,
+    33.516581
+],
+  "geometry": {"coordinates":[-80.85837100000001,33.516581],"type":"Point"}
 }

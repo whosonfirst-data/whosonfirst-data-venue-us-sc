@@ -2,13 +2,14 @@
   "id": 337607813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.073382,34.379241,-80.073382,34.379241",
     "geom:latitude":34.379241,
     "geom:longitude":-80.073382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N 4th St",
     "sg:city":"Hartsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337607813,
-    "wof:lastmodified":1449027042,
+    "wof:lastmodified":1467082269,
     "wof:name":"Bambinos Restaurant",
     "wof:parent_id":85811765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.073382,34.379241,-80.073382,34.379241],
+  "bbox": [
+    -80.073382,
+    34.379241,
+    -80.073382,
+    34.379241
+],
   "geometry": {"coordinates":[-80.073382,34.379241],"type":"Point"}
 }

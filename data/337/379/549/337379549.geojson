@@ -2,13 +2,14 @@
   "id": 337379549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.112747,34.00372,-81.112747,34.00372",
     "geom:latitude":34.00372,
     "geom:longitude":-81.112747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Medical Cir",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337379549,
-    "wof:lastmodified":1449027417,
+    "wof:lastmodified":1467082283,
     "wof:name":"V W Intl Inc",
     "wof:parent_id":85857097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.112747,34.00372,-81.112747,34.00372],
+  "bbox": [
+    -81.112747,
+    34.00372,
+    -81.112747,
+    34.00372
+],
   "geometry": {"coordinates":[-81.112747,34.00372],"type":"Point"}
 }

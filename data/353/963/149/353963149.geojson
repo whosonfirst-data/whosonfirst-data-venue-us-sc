@@ -2,13 +2,14 @@
   "id": 353963149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.007766,33.986479,-81.007766,33.986479",
     "geom:latitude":33.986479,
     "geom:longitude":-81.007766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2206 Rosewood Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353963149,
-    "wof:lastmodified":1449018501,
+    "wof:lastmodified":1467082215,
     "wof:name":"Roberts Tax Svc",
     "wof:parent_id":85826029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-81.007766,33.986479,-81.007766,33.986479],
+  "bbox": [
+    -81.007766,
+    33.986479,
+    -81.007766,
+    33.986479
+],
   "geometry": {"coordinates":[-81.007766,33.986479],"type":"Point"}
 }

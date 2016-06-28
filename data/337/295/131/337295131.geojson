@@ -2,13 +2,14 @@
   "id": 337295131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.349305,34.167328,-81.349305,34.167328",
     "geom:latitude":34.167328,
     "geom:longitude":-81.349305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Columbia Ave",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337295131,
-    "wof:lastmodified":1449027257,
+    "wof:lastmodified":1467082277,
     "wof:name":"Wilder Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.349305,34.167328,-81.349305,34.167328],
+  "bbox": [
+    -81.349305,
+    34.167328,
+    -81.349305,
+    34.167328
+],
   "geometry": {"coordinates":[-81.349305,34.167328],"type":"Point"}
 }

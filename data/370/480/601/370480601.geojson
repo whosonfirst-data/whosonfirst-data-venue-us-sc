@@ -2,13 +2,14 @@
   "id": 370480601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.77638,34.730292,-80.77638,34.730292",
     "geom:latitude":34.730292,
     "geom:longitude":-80.77638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 N Main St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370480601,
-    "wof:lastmodified":1449030199,
+    "wof:lastmodified":1467082323,
     "wof:name":"Annette's Hallmark House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.77638,34.730292,-80.77638,34.730292],
+  "bbox": [
+    -80.77638,
+    34.730292,
+    -80.77638,
+    34.730292
+],
   "geometry": {"coordinates":[-80.77638,34.730292],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337293461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.205199,34.713641,-81.205199,34.713641",
     "geom:latitude":34.713641,
     "geom:longitude":-81.205199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Brawley St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337293461,
-    "wof:lastmodified":1449027083,
+    "wof:lastmodified":1467082270,
     "wof:name":"Williams Concrete Works",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.205199,34.713641,-81.205199,34.713641],
-  "geometry": {"coordinates":[-81.205199,34.713641],"type":"Point"}
+  "bbox": [
+    -81.205199,
+    34.713641,
+    -81.205199,
+    34.713641
+],
+  "geometry": {"coordinates":[-81.20519899999999,34.713641],"type":"Point"}
 }

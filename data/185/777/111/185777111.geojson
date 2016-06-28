@@ -2,13 +2,14 @@
   "id": 185777111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.384499,34.762649,-82.384499,34.762649",
     "geom:latitude":34.762649,
     "geom:longitude":-82.384499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Donaldson Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185777111,
-    "wof:lastmodified":1449007474,
+    "wof:lastmodified":1467082195,
     "wof:name":"Rhyants Body Shop",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-82.384499,34.762649,-82.384499,34.762649],
-  "geometry": {"coordinates":[-82.384499,34.762649],"type":"Point"}
+  "bbox": [
+    -82.384499,
+    34.762649,
+    -82.384499,
+    34.762649
+],
+  "geometry": {"coordinates":[-82.38449900000001,34.762649],"type":"Point"}
 }

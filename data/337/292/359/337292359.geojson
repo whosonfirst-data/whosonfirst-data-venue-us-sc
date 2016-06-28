@@ -2,13 +2,14 @@
   "id": 337292359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.605539,33.842465,-81.605539,33.842465",
     "geom:latitude":33.842465,
     "geom:longitude":-81.605539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Old Ninety Six Indian Trl",
     "sg:city":"Monetta",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":337292359,
-    "wof:lastmodified":1449027007,
+    "wof:lastmodified":1467082267,
     "wof:name":"Hartley's Quick Stop",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "leasing"
     ]
 },
-  "bbox": [-81.605539,33.842465,-81.605539,33.842465],
-  "geometry": {"coordinates":[-81.605539,33.842465],"type":"Point"}
+  "bbox": [
+    -81.605539,
+    33.842465,
+    -81.605539,
+    33.842465
+],
+  "geometry": {"coordinates":[-81.60553899999999,33.842465],"type":"Point"}
 }

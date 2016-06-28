@@ -2,13 +2,14 @@
   "id": 370380649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.996677,32.799027,-79.996677,32.799027",
     "geom:latitude":32.799027,
     "geom:longitude":-79.996677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Carriage Ln",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370380649,
-    "wof:lastmodified":1449030661,
+    "wof:lastmodified":1467082333,
     "wof:name":"Management Recruiters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.996677,32.799027,-79.996677,32.799027],
-  "geometry": {"coordinates":[-79.996677,32.799027],"type":"Point"}
+  "bbox": [
+    -79.996677,
+    32.799027,
+    -79.996677,
+    32.799027
+],
+  "geometry": {"coordinates":[-79.99667700000001,32.799027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353951765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.837959,34.388387,-79.837959,34.388387",
     "geom:latitude":34.388387,
     "geom:longitude":-79.837959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Society Hill Rd",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353951765,
-    "wof:lastmodified":1449018350,
+    "wof:lastmodified":1467082212,
     "wof:name":"Round-O Baptist Church",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.837959,34.388387,-79.837959,34.388387],
+  "bbox": [
+    -79.837959,
+    34.388387,
+    -79.837959,
+    34.388387
+],
   "geometry": {"coordinates":[-79.837959,34.388387],"type":"Point"}
 }

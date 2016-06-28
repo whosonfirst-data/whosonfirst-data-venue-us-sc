@@ -2,13 +2,14 @@
   "id": 370500591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.150536,32.619569,-80.150536,32.619569",
     "geom:latitude":32.619569,
     "geom:longitude":-80.150536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3206 Waverly Ln",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370500591,
-    "wof:lastmodified":1449029941,
+    "wof:lastmodified":1467082317,
     "wof:name":"Pointe Garages LLC",
     "wof:parent_id":85809109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.150536,32.619569,-80.150536,32.619569],
+  "bbox": [
+    -80.150536,
+    32.619569,
+    -80.150536,
+    32.619569
+],
   "geometry": {"coordinates":[-80.150536,32.619569],"type":"Point"}
 }

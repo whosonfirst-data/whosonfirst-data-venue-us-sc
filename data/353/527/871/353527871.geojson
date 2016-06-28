@@ -2,13 +2,14 @@
   "id": 353527871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.172052,33.022351,-80.172052,33.022351",
     "geom:latitude":33.022351,
     "geom:longitude":-80.172052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 E 2nd North St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353527871,
-    "wof:lastmodified":1449020301,
+    "wof:lastmodified":1467082251,
     "wof:name":"Flowertown Chiropractic",
     "wof:parent_id":85833421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.172052,33.022351,-80.172052,33.022351],
-  "geometry": {"coordinates":[-80.172052,33.022351],"type":"Point"}
+  "bbox": [
+    -80.172052,
+    33.022351,
+    -80.172052,
+    33.022351
+],
+  "geometry": {"coordinates":[-80.17205199999999,33.022351],"type":"Point"}
 }

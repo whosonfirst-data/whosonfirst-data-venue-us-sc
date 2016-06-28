@@ -2,13 +2,14 @@
   "id": 337414609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.29121,34.737435,-82.29121,34.737435",
     "geom:latitude":34.737435,
     "geom:longitude":-82.29121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Hammond Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337414609,
-    "wof:lastmodified":1449027329,
+    "wof:lastmodified":1467082280,
     "wof:name":"Fisher's Locksmith Svc",
     "wof:parent_id":85857259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-82.29121,34.737435,-82.29121,34.737435],
-  "geometry": {"coordinates":[-82.29121,34.737435],"type":"Point"}
+  "bbox": [
+    -82.29121,
+    34.737435,
+    -82.29121,
+    34.737435
+],
+  "geometry": {"coordinates":[-82.29121000000001,34.737435],"type":"Point"}
 }

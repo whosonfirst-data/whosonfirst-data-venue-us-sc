@@ -2,13 +2,14 @@
   "id": 353891785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.053311,34.062182,-81.053311,34.062182",
     "geom:latitude":34.062182,
     "geom:longitude":-81.053311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1729 Peeples St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353891785,
-    "wof:lastmodified":1449019823,
+    "wof:lastmodified":1467082242,
     "wof:name":"Columbia Glass Inc",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glazier"
     ]
 },
-  "bbox": [-81.053311,34.062182,-81.053311,34.062182],
-  "geometry": {"coordinates":[-81.053311,34.062182],"type":"Point"}
+  "bbox": [
+    -81.053311,
+    34.062182,
+    -81.053311,
+    34.062182
+],
+  "geometry": {"coordinates":[-81.05331099999999,34.062182],"type":"Point"}
 }

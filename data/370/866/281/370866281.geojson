@@ -2,13 +2,14 @@
   "id": 370866281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.69846,33.532399,-81.69846,33.532399",
     "geom:latitude":33.532399,
     "geom:longitude":-81.69846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"790 E Pine Logging Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370866281,
-    "wof:lastmodified":1449030698,
+    "wof:lastmodified":1467082334,
     "wof:name":"Called To All Nations",
     "wof:parent_id":85815399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.69846,33.532399,-81.69846,33.532399],
+  "bbox": [
+    -81.69846,
+    33.532399,
+    -81.69846,
+    33.532399
+],
   "geometry": {"coordinates":[-81.69846,33.532399],"type":"Point"}
 }

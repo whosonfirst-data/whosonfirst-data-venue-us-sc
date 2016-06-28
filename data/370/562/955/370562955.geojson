@@ -2,13 +2,14 @@
   "id": 370562955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.293906,34.763582,-82.293906,34.763582",
     "geom:latitude":34.763582,
     "geom:longitude":-82.293906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Old Stage Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370562955,
-    "wof:lastmodified":1449030871,
+    "wof:lastmodified":1467082337,
     "wof:name":"SOUTH Carolina Box",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "box"
     ]
 },
-  "bbox": [-82.293906,34.763582,-82.293906,34.763582],
-  "geometry": {"coordinates":[-82.293906,34.763582],"type":"Point"}
+  "bbox": [
+    -82.293906,
+    34.763582,
+    -82.293906,
+    34.763582
+],
+  "geometry": {"coordinates":[-82.29390600000001,34.763582],"type":"Point"}
 }

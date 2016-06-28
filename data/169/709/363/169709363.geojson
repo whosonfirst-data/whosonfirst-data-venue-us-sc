@@ -2,13 +2,14 @@
   "id": 169709363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.023117,32.778949,-80.023117,32.778949",
     "geom:latitude":32.778949,
     "geom:longitude":-80.023117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Marsh Oaks Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":169709363,
-    "wof:lastmodified":1449033351,
+    "wof:lastmodified":1467082379,
     "wof:name":"Alexander & Assoc LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.023117,32.778949,-80.023117,32.778949],
+  "bbox": [
+    -80.023117,
+    32.778949,
+    -80.023117,
+    32.778949
+],
   "geometry": {"coordinates":[-80.023117,32.778949],"type":"Point"}
 }

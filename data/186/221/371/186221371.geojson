@@ -2,13 +2,14 @@
   "id": 186221371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.773282,33.305352,-79.773282,33.305352",
     "geom:latitude":33.305352,
     "geom:longitude":-79.773282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 Santee River Rd",
     "sg:city":"Alvin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186221371,
-    "wof:lastmodified":1449051555,
+    "wof:lastmodified":1467082399,
     "wof:name":"S & W Community Care Home",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-79.773282,33.305352,-79.773282,33.305352],
-  "geometry": {"coordinates":[-79.773282,33.305352],"type":"Point"}
+  "bbox": [
+    -79.773282,
+    33.305352,
+    -79.773282,
+    33.305352
+],
+  "geometry": {"coordinates":[-79.77328199999999,33.305352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186207409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.511968,34.832528,-82.511968,34.832528",
     "geom:latitude":34.832528,
     "geom:longitude":-82.511968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Lamar Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186207409,
-    "wof:lastmodified":1449052238,
+    "wof:lastmodified":1467082405,
     "wof:name":"M & N Truck Svc & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "industrial"
     ]
 },
-  "bbox": [-82.511968,34.832528,-82.511968,34.832528],
+  "bbox": [
+    -82.511968,
+    34.832528,
+    -82.511968,
+    34.832528
+],
   "geometry": {"coordinates":[-82.511968,34.832528],"type":"Point"}
 }

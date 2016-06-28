@@ -2,13 +2,14 @@
   "id": 337395813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.770401,34.19712,-79.770401,34.19712",
     "geom:latitude":34.19712,
     "geom:longitude":-79.770401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Evans St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337395813,
-    "wof:lastmodified":1449027626,
+    "wof:lastmodified":1467082291,
     "wof:name":"Surge Unlimited",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-79.770401,34.19712,-79.770401,34.19712],
-  "geometry": {"coordinates":[-79.770401,34.19712],"type":"Point"}
+  "bbox": [
+    -79.770401,
+    34.19712,
+    -79.770401,
+    34.19712
+],
+  "geometry": {"coordinates":[-79.77040100000001,34.19712],"type":"Point"}
 }

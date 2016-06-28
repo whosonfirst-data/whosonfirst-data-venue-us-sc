@@ -2,13 +2,14 @@
   "id": 186274623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.968859,34.008486,-80.968859,34.008486",
     "geom:latitude":34.008486,
     "geom:longitude":-80.968859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4540 Trenholm Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186274623,
-    "wof:lastmodified":1449050598,
+    "wof:lastmodified":1467082391,
     "wof:name":"Jewish Community Ctr",
     "wof:parent_id":85813843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.968859,34.008486,-80.968859,34.008486],
-  "geometry": {"coordinates":[-80.968859,34.008486],"type":"Point"}
+  "bbox": [
+    -80.968859,
+    34.008486,
+    -80.968859,
+    34.008486
+],
+  "geometry": {"coordinates":[-80.96885899999999,34.008486],"type":"Point"}
 }

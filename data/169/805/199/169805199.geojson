@@ -2,13 +2,14 @@
   "id": 169805199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.262205,34.716643,-82.262205,34.716643",
     "geom:latitude":34.716643,
     "geom:longitude":-82.262205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Hunters Moor Ct",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169805199,
-    "wof:lastmodified":1449033788,
+    "wof:lastmodified":1467082381,
     "wof:name":"A E Petsche Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wire"
     ]
 },
-  "bbox": [-82.262205,34.716643,-82.262205,34.716643],
-  "geometry": {"coordinates":[-82.262205,34.716643],"type":"Point"}
+  "bbox": [
+    -82.262205,
+    34.716643,
+    -82.262205,
+    34.716643
+],
+  "geometry": {"coordinates":[-82.26220499999999,34.716643],"type":"Point"}
 }

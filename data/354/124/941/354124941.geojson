@@ -2,13 +2,14 @@
   "id": 354124941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.186675,34.097554,-81.186675,34.097554",
     "geom:latitude":34.097554,
     "geom:longitude":-81.186675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 Boulters Lock Rd",
     "sg:city":"Lynchburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354124941,
-    "wof:lastmodified":1449067542,
+    "wof:lastmodified":1467082451,
     "wof:name":"Bell South",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-81.186675,34.097554,-81.186675,34.097554],
-  "geometry": {"coordinates":[-81.186675,34.097554],"type":"Point"}
+  "bbox": [
+    -81.186675,
+    34.097554,
+    -81.186675,
+    34.097554
+],
+  "geometry": {"coordinates":[-81.18667499999999,34.097554],"type":"Point"}
 }

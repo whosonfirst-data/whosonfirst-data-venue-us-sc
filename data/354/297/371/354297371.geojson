@@ -2,13 +2,14 @@
   "id": 354297371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.812999,34.173827,-79.812999,34.173827",
     "geom:latitude":34.173827,
     "geom:longitude":-79.812999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2424 Third Loop Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354297371,
-    "wof:lastmodified":1449067054,
+    "wof:lastmodified":1467082440,
     "wof:name":"Leris Mobile Court",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "site"
     ]
 },
-  "bbox": [-79.812999,34.173827,-79.812999,34.173827],
+  "bbox": [
+    -79.812999,
+    34.173827,
+    -79.812999,
+    34.173827
+],
   "geometry": {"coordinates":[-79.812999,34.173827],"type":"Point"}
 }

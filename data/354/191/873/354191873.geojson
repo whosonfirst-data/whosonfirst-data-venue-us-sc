@@ -2,13 +2,14 @@
   "id": 354191873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.68452,34.555849,-82.68452,34.555849",
     "geom:latitude":34.555849,
     "geom:longitude":-82.68452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4002 Clemson Blvd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354191873,
-    "wof:lastmodified":1449066964,
+    "wof:lastmodified":1467082438,
     "wof:name":"Community First Bank",
     "wof:parent_id":85835733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-82.68452,34.555849,-82.68452,34.555849],
-  "geometry": {"coordinates":[-82.68452,34.555849],"type":"Point"}
+  "bbox": [
+    -82.68452,
+    34.555849,
+    -82.68452,
+    34.555849
+],
+  "geometry": {"coordinates":[-82.68452000000001,34.555849],"type":"Point"}
 }

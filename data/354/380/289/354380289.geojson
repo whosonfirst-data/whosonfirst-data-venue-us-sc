@@ -2,13 +2,14 @@
   "id": 354380289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.690271,34.553422,-82.690271,34.553422",
     "geom:latitude":34.553422,
     "geom:longitude":-82.690271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Hudson Cir",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354380289,
-    "wof:lastmodified":1449066709,
+    "wof:lastmodified":1467082432,
     "wof:name":"Hampton's",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.690271,34.553422,-82.690271,34.553422],
+  "bbox": [
+    -82.690271,
+    34.553422,
+    -82.690271,
+    34.553422
+],
   "geometry": {"coordinates":[-82.690271,34.553422],"type":"Point"}
 }

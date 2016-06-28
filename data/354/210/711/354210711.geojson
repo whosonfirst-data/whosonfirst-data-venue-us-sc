@@ -2,13 +2,14 @@
   "id": 354210711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.18359,34.012119,-81.18359,34.012119",
     "geom:latitude":34.012119,
     "geom:longitude":-81.18359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5032 US Hwy 378",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354210711,
-    "wof:lastmodified":1449066488,
+    "wof:lastmodified":1467082427,
     "wof:name":"Carolina System Build Homes",
     "wof:parent_id":85897271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-81.18359,34.012119,-81.18359,34.012119],
+  "bbox": [
+    -81.18359,
+    34.012119,
+    -81.18359,
+    34.012119
+],
   "geometry": {"coordinates":[-81.18359,34.012119],"type":"Point"}
 }

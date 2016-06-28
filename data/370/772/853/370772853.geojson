@@ -2,13 +2,14 @@
   "id": 370772853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.253833,35.029956,-81.253833,35.029956",
     "geom:latitude":35.029956,
     "geom:longitude":-81.253833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1803 Filbert Hwy",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370772853,
-    "wof:lastmodified":1449030613,
+    "wof:lastmodified":1467082332,
     "wof:name":"Bargain City",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-81.253833,35.029956,-81.253833,35.029956],
+  "bbox": [
+    -81.253833,
+    35.029956,
+    -81.253833,
+    35.029956
+],
   "geometry": {"coordinates":[-81.253833,35.029956],"type":"Point"}
 }

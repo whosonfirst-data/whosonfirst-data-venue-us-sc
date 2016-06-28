@@ -2,13 +2,14 @@
   "id": 337292499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.652522,34.505741,-82.652522,34.505741",
     "geom:latitude":34.505741,
     "geom:longitude":-82.652522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 N Murray Ave",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337292499,
-    "wof:lastmodified":1449027010,
+    "wof:lastmodified":1467082268,
     "wof:name":"Metco Inc",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.652522,34.505741,-82.652522,34.505741],
+  "bbox": [
+    -82.652522,
+    34.505741,
+    -82.652522,
+    34.505741
+],
   "geometry": {"coordinates":[-82.652522,34.505741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185805237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.027892,33.980744,-81.027892,33.980744",
     "geom:latitude":33.980744,
     "geom:longitude":-81.027892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 Ferguson St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185805237,
-    "wof:lastmodified":1449007138,
+    "wof:lastmodified":1467082190,
     "wof:name":"Industrial Battery & Charger",
     "wof:parent_id":85826029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "battery"
     ]
 },
-  "bbox": [-81.027892,33.980744,-81.027892,33.980744],
-  "geometry": {"coordinates":[-81.027892,33.980744],"type":"Point"}
+  "bbox": [
+    -81.027892,
+    33.980744,
+    -81.027892,
+    33.980744
+],
+  "geometry": {"coordinates":[-81.02789199999999,33.980744],"type":"Point"}
 }

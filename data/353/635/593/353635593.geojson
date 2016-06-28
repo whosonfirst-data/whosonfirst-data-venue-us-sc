@@ -2,13 +2,14 @@
   "id": 353635593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.012326,32.886438,-80.012326,32.886438",
     "geom:latitude":32.886438,
     "geom:longitude":-80.012326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5129 Delta St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353635593,
-    "wof:lastmodified":1449019364,
+    "wof:lastmodified":1467082232,
     "wof:name":"Ceramic Haven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.012326,32.886438,-80.012326,32.886438],
+  "bbox": [
+    -80.012326,
+    32.886438,
+    -80.012326,
+    32.886438
+],
   "geometry": {"coordinates":[-80.012326,32.886438],"type":"Point"}
 }

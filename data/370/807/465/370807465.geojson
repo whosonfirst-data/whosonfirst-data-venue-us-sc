@@ -2,13 +2,14 @@
   "id": 370807465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.227421,34.948239,-82.227421,34.948239",
     "geom:latitude":34.948239,
     "geom:longitude":-82.227421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 W Wade Hampton Blvd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370807465,
-    "wof:lastmodified":1449029966,
+    "wof:lastmodified":1467082317,
     "wof:name":"Sharp Car Ctr",
     "wof:parent_id":85853715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.227421,34.948239,-82.227421,34.948239],
-  "geometry": {"coordinates":[-82.227421,34.948239],"type":"Point"}
+  "bbox": [
+    -82.227421,
+    34.948239,
+    -82.227421,
+    34.948239
+],
+  "geometry": {"coordinates":[-82.22742100000001,34.948239],"type":"Point"}
 }

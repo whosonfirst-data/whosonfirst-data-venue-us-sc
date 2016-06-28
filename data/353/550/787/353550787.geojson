@@ -2,13 +2,14 @@
   "id": 353550787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.620593,34.759674,-81.620593,34.759674",
     "geom:latitude":34.759674,
     "geom:longitude":-81.620593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"381 Kelly Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353550787,
-    "wof:lastmodified":1449019639,
+    "wof:lastmodified":1467082238,
     "wof:name":"Mitchell Chapel Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.620593,34.759674,-81.620593,34.759674],
+  "bbox": [
+    -81.620593,
+    34.759674,
+    -81.620593,
+    34.759674
+],
   "geometry": {"coordinates":[-81.620593,34.759674],"type":"Point"}
 }

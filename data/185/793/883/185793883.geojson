@@ -2,13 +2,14 @@
   "id": 185793883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.680337,32.215562,-80.680337,32.215562",
     "geom:latitude":32.215562,
     "geom:longitude":-80.680337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Royal Crest Dr",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185793883,
-    "wof:lastmodified":1449007499,
+    "wof:lastmodified":1467082196,
     "wof:name":"Isle Care Inc",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-80.680337,32.215562,-80.680337,32.215562],
-  "geometry": {"coordinates":[-80.680337,32.215562],"type":"Point"}
+  "bbox": [
+    -80.680337,
+    32.215562,
+    -80.680337,
+    32.215562
+],
+  "geometry": {"coordinates":[-80.68033699999999,32.215562],"type":"Point"}
 }

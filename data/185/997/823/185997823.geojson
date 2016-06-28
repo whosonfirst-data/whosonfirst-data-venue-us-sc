@@ -2,13 +2,14 @@
   "id": 185997823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.384024,34.755845,-82.384024,34.755845",
     "geom:latitude":34.755845,
     "geom:longitude":-82.384024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2288 Perimeter Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185997823,
-    "wof:lastmodified":1449007951,
+    "wof:lastmodified":1467082203,
     "wof:name":"Extra Connection",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "charter"
     ]
 },
-  "bbox": [-82.384024,34.755845,-82.384024,34.755845],
+  "bbox": [
+    -82.384024,
+    34.755845,
+    -82.384024,
+    34.755845
+],
   "geometry": {"coordinates":[-82.384024,34.755845],"type":"Point"}
 }

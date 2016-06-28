@@ -2,13 +2,14 @@
   "id": 370686873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.119557,34.955475,-82.119557,34.955475",
     "geom:latitude":34.955475,
     "geom:longitude":-82.119557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Spartanburg Hwy",
     "sg:city":"Lyman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370686873,
-    "wof:lastmodified":1449031657,
+    "wof:lastmodified":1467082355,
     "wof:name":"Southern Convenience",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.119557,34.955475,-82.119557,34.955475],
+  "bbox": [
+    -82.119557,
+    34.955475,
+    -82.119557,
+    34.955475
+],
   "geometry": {"coordinates":[-82.119557,34.955475],"type":"Point"}
 }

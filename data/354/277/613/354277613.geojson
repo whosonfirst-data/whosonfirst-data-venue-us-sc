@@ -2,13 +2,14 @@
   "id": 354277613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.053057,34.026884,-81.053057,34.026884",
     "geom:latitude":34.026884,
     "geom:longitude":-81.053057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3329 River Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354277613,
-    "wof:lastmodified":1449066129,
+    "wof:lastmodified":1467082419,
     "wof:name":"Head Of Style",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.053057,34.026884,-81.053057,34.026884],
+  "bbox": [
+    -81.053057,
+    34.026884,
+    -81.053057,
+    34.026884
+],
   "geometry": {"coordinates":[-81.053057,34.026884],"type":"Point"}
 }

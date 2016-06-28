@@ -2,13 +2,14 @@
   "id": 337282035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.613289,34.786013,-81.613289,34.786013",
     "geom:latitude":34.786013,
     "geom:longitude":-81.613289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Hidden Forest Dr",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337282035,
-    "wof:lastmodified":1449027463,
+    "wof:lastmodified":1467082285,
     "wof:name":"Stillinger's Gun Dogs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dog"
     ]
 },
-  "bbox": [-81.613289,34.786013,-81.613289,34.786013],
-  "geometry": {"coordinates":[-81.613289,34.786013],"type":"Point"}
+  "bbox": [
+    -81.613289,
+    34.786013,
+    -81.613289,
+    34.786013
+],
+  "geometry": {"coordinates":[-81.61328899999999,34.786013],"type":"Point"}
 }

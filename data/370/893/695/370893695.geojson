@@ -2,13 +2,14 @@
   "id": 370893695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.459882,34.705488,-82.459882,34.705488",
     "geom:latitude":34.705488,
     "geom:longitude":-82.459882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Main St",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370893695,
-    "wof:lastmodified":1449031836,
+    "wof:lastmodified":1467082359,
     "wof:name":"Downtown Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.459882,34.705488,-82.459882,34.705488],
-  "geometry": {"coordinates":[-82.459882,34.705488],"type":"Point"}
+  "bbox": [
+    -82.459882,
+    34.705488,
+    -82.459882,
+    34.705488
+],
+  "geometry": {"coordinates":[-82.45988199999999,34.705488],"type":"Point"}
 }

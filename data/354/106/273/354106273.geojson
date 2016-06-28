@@ -2,13 +2,14 @@
   "id": 354106273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.318014,34.908703,-82.318014,34.908703",
     "geom:latitude":34.908703,
     "geom:longitude":-82.318014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5003 Edwards Rd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354106273,
-    "wof:lastmodified":1449065908,
+    "wof:lastmodified":1467082414,
     "wof:name":"Kellys Landscaping Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.318014,34.908703,-82.318014,34.908703],
-  "geometry": {"coordinates":[-82.318014,34.908703],"type":"Point"}
+  "bbox": [
+    -82.318014,
+    34.908703,
+    -82.318014,
+    34.908703
+],
+  "geometry": {"coordinates":[-82.31801400000001,34.908703],"type":"Point"}
 }

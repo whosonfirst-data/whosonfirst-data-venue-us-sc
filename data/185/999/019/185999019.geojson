@@ -2,13 +2,14 @@
   "id": 185999019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.172816,34.013088,-81.172816,34.013088",
     "geom:latitude":34.013088,
     "geom:longitude":-81.172816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4766 Sunset Blvd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185999019,
-    "wof:lastmodified":1449008023,
+    "wof:lastmodified":1467082204,
     "wof:name":"Plumb Krazy Plumbing Service",
     "wof:parent_id":85897271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.172816,34.013088,-81.172816,34.013088],
+  "bbox": [
+    -81.172816,
+    34.013088,
+    -81.172816,
+    34.013088
+],
   "geometry": {"coordinates":[-81.172816,34.013088],"type":"Point"}
 }

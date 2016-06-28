@@ -2,13 +2,14 @@
   "id": 370151211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.935634,32.745429,-79.935634,32.745429",
     "geom:latitude":32.745429,
     "geom:longitude":-79.935634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"778 Shell Sand Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370151211,
-    "wof:lastmodified":1449029100,
+    "wof:lastmodified":1467082298,
     "wof:name":"Discover Charleston By Hearld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-79.935634,32.745429,-79.935634,32.745429],
-  "geometry": {"coordinates":[-79.935634,32.745429],"type":"Point"}
+  "bbox": [
+    -79.935634,
+    32.745429,
+    -79.935634,
+    32.745429
+],
+  "geometry": {"coordinates":[-79.93563399999999,32.745429],"type":"Point"}
 }

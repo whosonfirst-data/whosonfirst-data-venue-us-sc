@@ -2,13 +2,14 @@
   "id": 370388237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.856584,33.722627,-78.856584,33.722627",
     "geom:latitude":33.722627,
     "geom:longitude":-78.856584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 Bay St",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370388237,
-    "wof:lastmodified":1449029193,
+    "wof:lastmodified":1467082301,
     "wof:name":"Palmetto Tours & Receptive Svc",
     "wof:parent_id":85839155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bureau"
     ]
 },
-  "bbox": [-78.856584,33.722627,-78.856584,33.722627],
+  "bbox": [
+    -78.856584,
+    33.722627,
+    -78.856584,
+    33.722627
+],
   "geometry": {"coordinates":[-78.856584,33.722627],"type":"Point"}
 }

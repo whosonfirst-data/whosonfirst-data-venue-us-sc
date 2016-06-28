@@ -2,13 +2,14 @@
   "id": 354105727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.060696,33.993107,-81.060696,33.993107",
     "geom:latitude":33.993107,
     "geom:longitude":-81.060696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Meeting St",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354105727,
-    "wof:lastmodified":1449066565,
+    "wof:lastmodified":1467082429,
     "wof:name":"Pager Warehouse",
     "wof:parent_id":85876823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "signaling"
     ]
 },
-  "bbox": [-81.060696,33.993107,-81.060696,33.993107],
-  "geometry": {"coordinates":[-81.060696,33.993107],"type":"Point"}
+  "bbox": [
+    -81.060696,
+    33.993107,
+    -81.060696,
+    33.993107
+],
+  "geometry": {"coordinates":[-81.06069599999999,33.993107],"type":"Point"}
 }

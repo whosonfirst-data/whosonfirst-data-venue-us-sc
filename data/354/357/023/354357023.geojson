@@ -2,13 +2,14 @@
   "id": 354357023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.47347,32.437816,-80.47347,32.437816",
     "geom:latitude":32.437816,
     "geom:longitude":-80.47347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Salt Winds Dr",
     "sg:city":"St Helena Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354357023,
-    "wof:lastmodified":1449067463,
+    "wof:lastmodified":1467082449,
     "wof:name":"Bister Agency",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-80.47347,32.437816,-80.47347,32.437816],
-  "geometry": {"coordinates":[-80.47347,32.437816],"type":"Point"}
+  "bbox": [
+    -80.47347,
+    32.437816,
+    -80.47347,
+    32.437816
+],
+  "geometry": {"coordinates":[-80.47347000000001,32.437816],"type":"Point"}
 }

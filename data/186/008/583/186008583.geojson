@@ -2,13 +2,14 @@
   "id": 186008583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.689956,34.605806,-79.689956,34.605806",
     "geom:latitude":34.605806,
     "geom:longitude":-79.689956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Marshall St",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186008583,
-    "wof:lastmodified":1449051225,
+    "wof:lastmodified":1467082396,
     "wof:name":"Fed Tax One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.689956,34.605806,-79.689956,34.605806],
+  "bbox": [
+    -79.689956,
+    34.605806,
+    -79.689956,
+    34.605806
+],
   "geometry": {"coordinates":[-79.689956,34.605806],"type":"Point"}
 }

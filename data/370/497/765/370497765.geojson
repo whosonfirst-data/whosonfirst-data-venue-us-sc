@@ -2,13 +2,14 @@
   "id": 370497765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.0041,34.034999,-81.0041,34.034999",
     "geom:latitude":34.034999,
     "geom:longitude":-81.0041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Notch Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370497765,
-    "wof:lastmodified":1449032416,
+    "wof:lastmodified":1467082372,
     "wof:name":"Parts Delivery Systems",
     "wof:parent_id":85827291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-81.0041,34.034999,-81.0041,34.034999],
-  "geometry": {"coordinates":[-81.0041,34.034999],"type":"Point"}
+  "bbox": [
+    -81.0041,
+    34.034999,
+    -81.0041,
+    34.034999
+],
+  "geometry": {"coordinates":[-81.00409999999999,34.034999],"type":"Point"}
 }

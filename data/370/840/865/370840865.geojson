@@ -2,13 +2,14 @@
   "id": 370840865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.960691,32.714784,-79.960691,32.714784",
     "geom:latitude":32.714784,
     "geom:longitude":-79.960691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1538 Westwood Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370840865,
-    "wof:lastmodified":1449031721,
+    "wof:lastmodified":1467082357,
     "wof:name":"Bessie Mae Inc",
     "wof:parent_id":85847603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hauling"
     ]
 },
-  "bbox": [-79.960691,32.714784,-79.960691,32.714784],
+  "bbox": [
+    -79.960691,
+    32.714784,
+    -79.960691,
+    32.714784
+],
   "geometry": {"coordinates":[-79.960691,32.714784],"type":"Point"}
 }

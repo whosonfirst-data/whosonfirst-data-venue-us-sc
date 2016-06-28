@@ -2,13 +2,14 @@
   "id": 354245423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.807348,34.701655,-82.807348,34.701655",
     "geom:latitude":34.701655,
     "geom:longitude":-82.807348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1148 Old Central Rd",
     "sg:city":"Central",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354245423,
-    "wof:lastmodified":1449067620,
+    "wof:lastmodified":1467082453,
     "wof:name":"Bell South",
     "wof:parent_id":85808845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-82.807348,34.701655,-82.807348,34.701655],
+  "bbox": [
+    -82.807348,
+    34.701655,
+    -82.807348,
+    34.701655
+],
   "geometry": {"coordinates":[-82.807348,34.701655],"type":"Point"}
 }

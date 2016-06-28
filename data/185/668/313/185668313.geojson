@@ -2,13 +2,14 @@
   "id": 185668313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.188699,34.9252,-82.188699,34.9252",
     "geom:latitude":34.9252,
     "geom:longitude":-82.188699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Victor Hill Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185668313,
-    "wof:lastmodified":1449007711,
+    "wof:lastmodified":1467082199,
     "wof:name":"Triple R Sanitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-82.188699,34.9252,-82.188699,34.9252],
+  "bbox": [
+    -82.188699,
+    34.9252,
+    -82.188699,
+    34.9252
+],
   "geometry": {"coordinates":[-82.188699,34.9252],"type":"Point"}
 }

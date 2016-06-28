@@ -2,13 +2,14 @@
   "id": 186284703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.223591,33.695954,-80.223591,33.695954",
     "geom:latitude":33.695954,
     "geom:longitude":-80.223591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Commerce St",
     "sg:city":"Manning",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186284703,
-    "wof:lastmodified":1449052029,
+    "wof:lastmodified":1467082403,
     "wof:name":"Wilson Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.223591,33.695954,-80.223591,33.695954],
+  "bbox": [
+    -80.223591,
+    33.695954,
+    -80.223591,
+    33.695954
+],
   "geometry": {"coordinates":[-80.223591,33.695954],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337350353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.125646,35.055693,-81.125646,35.055693",
     "geom:latitude":35.055693,
     "geom:longitude":-81.125646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4044 Charlotte Hwy",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337350353,
-    "wof:lastmodified":1449027365,
+    "wof:lastmodified":1467082281,
     "wof:name":"Handy Pantry Food Stores 44",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "store"
     ]
 },
-  "bbox": [-81.125646,35.055693,-81.125646,35.055693],
+  "bbox": [
+    -81.125646,
+    35.055693,
+    -81.125646,
+    35.055693
+],
   "geometry": {"coordinates":[-81.125646,35.055693],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370522983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.364237,34.840651,-82.364237,34.840651",
     "geom:latitude":34.840651,
     "geom:longitude":-82.364237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 S Pleasantburg Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370522983,
-    "wof:lastmodified":1449030705,
+    "wof:lastmodified":1467082334,
     "wof:name":"Mc Alister Square Mall",
     "wof:parent_id":85836955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "center"
     ]
 },
-  "bbox": [-82.364237,34.840651,-82.364237,34.840651],
+  "bbox": [
+    -82.364237,
+    34.840651,
+    -82.364237,
+    34.840651
+],
   "geometry": {"coordinates":[-82.364237,34.840651],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370438635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.949173,34.977457,-81.949173,34.977457",
     "geom:latitude":34.977457,
     "geom:longitude":-81.949173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Metro Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370438635,
-    "wof:lastmodified":1449030245,
+    "wof:lastmodified":1467082324,
     "wof:name":"Funspecs Inc",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "professional"
     ]
 },
-  "bbox": [-81.949173,34.977457,-81.949173,34.977457],
+  "bbox": [
+    -81.949173,
+    34.977457,
+    -81.949173,
+    34.977457
+],
   "geometry": {"coordinates":[-81.949173,34.977457],"type":"Point"}
 }

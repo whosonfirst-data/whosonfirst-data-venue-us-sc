@@ -2,13 +2,14 @@
   "id": 370752815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.623431,35.156696,-81.623431,35.156696",
     "geom:latitude":35.156696,
     "geom:longitude":-81.623431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Old Mill Rd",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370752815,
-    "wof:lastmodified":1449029655,
+    "wof:lastmodified":1467082310,
     "wof:name":"Hong Kong Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.623431,35.156696,-81.623431,35.156696],
+  "bbox": [
+    -81.623431,
+    35.156696,
+    -81.623431,
+    35.156696
+],
   "geometry": {"coordinates":[-81.623431,35.156696],"type":"Point"}
 }

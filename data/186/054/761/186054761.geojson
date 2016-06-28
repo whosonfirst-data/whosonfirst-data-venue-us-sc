@@ -2,13 +2,14 @@
   "id": 186054761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.187255,32.981032,-80.187255,32.981032",
     "geom:latitude":32.981032,
     "geom:longitude":-80.187255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Bosquet Ct",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186054761,
-    "wof:lastmodified":1449051648,
+    "wof:lastmodified":1467082399,
     "wof:name":"Bosquet Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "complex"
     ]
 },
-  "bbox": [-80.187255,32.981032,-80.187255,32.981032],
-  "geometry": {"coordinates":[-80.187255,32.981032],"type":"Point"}
+  "bbox": [
+    -80.187255,
+    32.981032,
+    -80.187255,
+    32.981032
+],
+  "geometry": {"coordinates":[-80.18725499999999,32.981032],"type":"Point"}
 }

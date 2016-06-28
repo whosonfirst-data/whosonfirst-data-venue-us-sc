@@ -2,13 +2,14 @@
   "id": 185666457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.970952,33.994806,-80.970952,33.994806",
     "geom:latitude":33.994806,
     "geom:longitude":-80.970952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4808 Datura Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185666457,
-    "wof:lastmodified":1449007188,
+    "wof:lastmodified":1467082191,
     "wof:name":"Window Master of Columbia",
     "wof:parent_id":85876829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shudder"
     ]
 },
-  "bbox": [-80.970952,33.994806,-80.970952,33.994806],
+  "bbox": [
+    -80.970952,
+    33.994806,
+    -80.970952,
+    33.994806
+],
   "geometry": {"coordinates":[-80.970952,33.994806],"type":"Point"}
 }

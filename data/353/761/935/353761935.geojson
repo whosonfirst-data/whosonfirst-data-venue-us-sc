@@ -2,13 +2,14 @@
   "id": 353761935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.484501,34.527304,-82.484501,34.527304",
     "geom:latitude":34.527304,
     "geom:longitude":-82.484501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 River St",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353761935,
-    "wof:lastmodified":1449020206,
+    "wof:lastmodified":1467082250,
     "wof:name":"Kountry Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.484501,34.527304,-82.484501,34.527304],
-  "geometry": {"coordinates":[-82.484501,34.527304],"type":"Point"}
+  "bbox": [
+    -82.484501,
+    34.527304,
+    -82.484501,
+    34.527304
+],
+  "geometry": {"coordinates":[-82.48450099999999,34.527304],"type":"Point"}
 }

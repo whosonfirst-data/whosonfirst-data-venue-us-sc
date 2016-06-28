@@ -2,13 +2,14 @@
   "id": 370622397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.189451,34.087371,-81.189451,34.087371",
     "geom:latitude":34.087371,
     "geom:longitude":-81.189451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7451 Irmo Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370622397,
-    "wof:lastmodified":1449031856,
+    "wof:lastmodified":1467082360,
     "wof:name":"South Carolina Golf Assn",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "athletic"
     ]
 },
-  "bbox": [-81.189451,34.087371,-81.189451,34.087371],
-  "geometry": {"coordinates":[-81.189451,34.087371],"type":"Point"}
+  "bbox": [
+    -81.189451,
+    34.087371,
+    -81.189451,
+    34.087371
+],
+  "geometry": {"coordinates":[-81.18945100000001,34.087371],"type":"Point"}
 }

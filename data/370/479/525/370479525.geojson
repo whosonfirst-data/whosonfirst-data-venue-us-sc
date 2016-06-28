@@ -2,13 +2,14 @@
   "id": 370479525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.571721,34.828579,-82.571721,34.828579",
     "geom:latitude":34.828579,
     "geom:longitude":-82.571721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 E Main St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370479525,
-    "wof:lastmodified":1449031394,
+    "wof:lastmodified":1467082349,
     "wof:name":"Peter C Holsen DDS",
     "wof:parent_id":85819785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.571721,34.828579,-82.571721,34.828579],
+  "bbox": [
+    -82.571721,
+    34.828579,
+    -82.571721,
+    34.828579
+],
   "geometry": {"coordinates":[-82.571721,34.828579],"type":"Point"}
 }

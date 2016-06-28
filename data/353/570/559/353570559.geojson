@@ -2,13 +2,14 @@
   "id": 353570559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.082421,34.759423,-83.082421,34.759423",
     "geom:latitude":34.759423,
     "geom:longitude":-83.082421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"543 Greens Pl",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353570559,
-    "wof:lastmodified":1449019782,
+    "wof:lastmodified":1467082241,
     "wof:name":"D & L Sales & Svc",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mower"
     ]
 },
-  "bbox": [-83.082421,34.759423,-83.082421,34.759423],
+  "bbox": [
+    -83.082421,
+    34.759423,
+    -83.082421,
+    34.759423
+],
   "geometry": {"coordinates":[-83.082421,34.759423],"type":"Point"}
 }

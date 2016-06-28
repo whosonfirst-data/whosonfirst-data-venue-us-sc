@@ -2,13 +2,14 @@
   "id": 185626331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.481582,34.78951,-82.481582,34.78951",
     "geom:latitude":34.78951,
     "geom:longitude":-82.481582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11023 Anderson Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185626331,
-    "wof:lastmodified":1449008210,
+    "wof:lastmodified":1467082207,
     "wof:name":"Kaley's Photography",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-82.481582,34.78951,-82.481582,34.78951],
+  "bbox": [
+    -82.481582,
+    34.78951,
+    -82.481582,
+    34.78951
+],
   "geometry": {"coordinates":[-82.481582,34.78951],"type":"Point"}
 }

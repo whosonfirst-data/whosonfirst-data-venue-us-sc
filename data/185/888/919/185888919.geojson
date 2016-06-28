@@ -2,13 +2,14 @@
   "id": 185888919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.366804,33.92949,-80.366804,33.92949",
     "geom:latitude":33.92949,
     "geom:longitude":-80.366804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"457 N Guignard Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185888919,
-    "wof:lastmodified":1449007614,
+    "wof:lastmodified":1467082198,
     "wof:name":"LA Mer Tanning Salon",
     "wof:parent_id":85827029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-80.366804,33.92949,-80.366804,33.92949],
+  "bbox": [
+    -80.366804,
+    33.92949,
+    -80.366804,
+    33.92949
+],
   "geometry": {"coordinates":[-80.366804,33.92949],"type":"Point"}
 }

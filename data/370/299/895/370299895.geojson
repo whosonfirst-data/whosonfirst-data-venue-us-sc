@@ -2,13 +2,14 @@
   "id": 370299895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.880189,34.473626,-81.880189,34.473626",
     "geom:latitude":34.473626,
     "geom:longitude":-81.880189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Musgrove St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370299895,
-    "wof:lastmodified":1449029958,
+    "wof:lastmodified":1467082317,
     "wof:name":"Doctor's Vision Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.880189,34.473626,-81.880189,34.473626],
+  "bbox": [
+    -81.880189,
+    34.473626,
+    -81.880189,
+    34.473626
+],
   "geometry": {"coordinates":[-81.880189,34.473626],"type":"Point"}
 }

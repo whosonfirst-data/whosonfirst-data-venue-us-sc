@@ -2,13 +2,14 @@
   "id": 186070093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.946259,32.809413,-79.946259,32.809413",
     "geom:latitude":32.809413,
     "geom:longitude":-79.946259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Williman St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186070093,
-    "wof:lastmodified":1449051679,
+    "wof:lastmodified":1467082399,
     "wof:name":"William B Leland Engineering",
     "wof:parent_id":85836137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-79.946259,32.809413,-79.946259,32.809413],
+  "bbox": [
+    -79.946259,
+    32.809413,
+    -79.946259,
+    32.809413
+],
   "geometry": {"coordinates":[-79.946259,32.809413],"type":"Point"}
 }

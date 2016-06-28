@@ -2,13 +2,14 @@
   "id": 337533983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.791568,33.777643,-78.791568,33.777643",
     "geom:latitude":33.777643,
     "geom:longitude":-78.791568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"944 Lake Arrowhead Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337533983,
-    "wof:lastmodified":1449026920,
+    "wof:lastmodified":1467082264,
     "wof:name":"Arrowhead Liquor",
     "wof:parent_id":85815435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.791568,33.777643,-78.791568,33.777643],
+  "bbox": [
+    -78.791568,
+    33.777643,
+    -78.791568,
+    33.777643
+],
   "geometry": {"coordinates":[-78.791568,33.777643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353871631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.979814,34.977998,-81.979814,34.977998",
     "geom:latitude":34.977998,
     "geom:longitude":-81.979814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"485 Simuel Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353871631,
-    "wof:lastmodified":1449019089,
+    "wof:lastmodified":1467082227,
     "wof:name":"Spartanburg Medical Research",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.979814,34.977998,-81.979814,34.977998],
+  "bbox": [
+    -81.979814,
+    34.977998,
+    -81.979814,
+    34.977998
+],
   "geometry": {"coordinates":[-81.979814,34.977998],"type":"Point"}
 }

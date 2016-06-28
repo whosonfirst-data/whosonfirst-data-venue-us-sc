@@ -2,13 +2,14 @@
   "id": 370147991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.62884,33.892074,-78.62884,33.892074",
     "geom:latitude":33.892074,
     "geom:longitude":-78.62884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3319 Cypress Dr",
     "sg:city":"Little River",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370147991,
-    "wof:lastmodified":1449032111,
+    "wof:lastmodified":1467082365,
     "wof:name":"Country House Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.62884,33.892074,-78.62884,33.892074],
+  "bbox": [
+    -78.62884,
+    33.892074,
+    -78.62884,
+    33.892074
+],
   "geometry": {"coordinates":[-78.62884,33.892074],"type":"Point"}
 }

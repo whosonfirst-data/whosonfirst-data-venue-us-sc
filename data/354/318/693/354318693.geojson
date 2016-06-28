@@ -2,13 +2,14 @@
   "id": 354318693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.93143,32.780703,-79.93143,32.780703",
     "geom:latitude":32.780703,
     "geom:longitude":-79.93143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74 S Market St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354318693,
-    "wof:lastmodified":1449066288,
+    "wof:lastmodified":1467082422,
     "wof:name":"Gold Creations",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.93143,32.780703,-79.93143,32.780703],
-  "geometry": {"coordinates":[-79.93143,32.780703],"type":"Point"}
+  "bbox": [
+    -79.93143,
+    32.780703,
+    -79.93143,
+    32.780703
+],
+  "geometry": {"coordinates":[-79.93143000000001,32.780703],"type":"Point"}
 }

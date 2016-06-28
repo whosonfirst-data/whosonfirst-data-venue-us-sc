@@ -2,13 +2,14 @@
   "id": 370698385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.579703,34.726326,-82.579703,34.726326",
     "geom:latitude":34.726326,
     "geom:longitude":-82.579703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Pisgah Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370698385,
-    "wof:lastmodified":1449032260,
+    "wof:lastmodified":1467082369,
     "wof:name":"Lisa's Sign Co",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.579703,34.726326,-82.579703,34.726326],
-  "geometry": {"coordinates":[-82.579703,34.726326],"type":"Point"}
+  "bbox": [
+    -82.579703,
+    34.726326,
+    -82.579703,
+    34.726326
+],
+  "geometry": {"coordinates":[-82.57970299999999,34.726326],"type":"Point"}
 }

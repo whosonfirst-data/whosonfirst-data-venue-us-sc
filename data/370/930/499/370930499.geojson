@@ -2,13 +2,14 @@
   "id": 370930499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.659445,32.900346,-80.659445,32.900346",
     "geom:latitude":32.900346,
     "geom:longitude":-80.659445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Carn St",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370930499,
-    "wof:lastmodified":1449030179,
+    "wof:lastmodified":1467082322,
     "wof:name":"Hickory Valley Inv Group LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-80.659445,32.900346,-80.659445,32.900346],
-  "geometry": {"coordinates":[-80.659445,32.900346],"type":"Point"}
+  "bbox": [
+    -80.659445,
+    32.900346,
+    -80.659445,
+    32.900346
+],
+  "geometry": {"coordinates":[-80.65944500000001,32.900346],"type":"Point"}
 }

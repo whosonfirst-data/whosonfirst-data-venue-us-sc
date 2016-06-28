@@ -2,13 +2,14 @@
   "id": 354097483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.037979,34.946429,-81.037979,34.946429",
     "geom:latitude":34.946429,
     "geom:longitude":-81.037979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1318 Ebenezer Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354097483,
-    "wof:lastmodified":1449066583,
+    "wof:lastmodified":1467082429,
     "wof:name":"Carolina Smile Ctr",
     "wof:parent_id":85806915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.037979,34.946429,-81.037979,34.946429],
-  "geometry": {"coordinates":[-81.037979,34.946429],"type":"Point"}
+  "bbox": [
+    -81.037979,
+    34.946429,
+    -81.037979,
+    34.946429
+],
+  "geometry": {"coordinates":[-81.03797900000001,34.946429],"type":"Point"}
 }

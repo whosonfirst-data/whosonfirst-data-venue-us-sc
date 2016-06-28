@@ -2,13 +2,14 @@
   "id": 169699715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.570182,33.687383,-81.570182,33.687383",
     "geom:latitude":33.687383,
     "geom:longitude":-81.570182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"339 Gooseneck Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169699715,
-    "wof:lastmodified":1449033140,
+    "wof:lastmodified":1467082378,
     "wof:name":"Mpl Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.570182,33.687383,-81.570182,33.687383],
+  "bbox": [
+    -81.570182,
+    33.687383,
+    -81.570182,
+    33.687383
+],
   "geometry": {"coordinates":[-81.570182,33.687383],"type":"Point"}
 }

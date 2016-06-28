@@ -2,13 +2,14 @@
   "id": 353371161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.784066,32.136781,-80.784066,32.136781",
     "geom:latitude":32.136781,
     "geom:longitude":-80.784066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Lawton Rd",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353371161,
-    "wof:lastmodified":1449020259,
+    "wof:lastmodified":1467082251,
     "wof:name":"Mike Gochnauer Construction",
     "wof:parent_id":85830025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.784066,32.136781,-80.784066,32.136781],
+  "bbox": [
+    -80.784066,
+    32.136781,
+    -80.784066,
+    32.136781
+],
   "geometry": {"coordinates":[-80.784066,32.136781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370578975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.288427,33.929242,-80.288427,33.929242",
     "geom:latitude":33.929242,
     "geom:longitude":-80.288427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1540 Bradham Blvd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370578975,
-    "wof:lastmodified":1449029951,
+    "wof:lastmodified":1467082317,
     "wof:name":"Grace Fwb Church Of Pf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.288427,33.929242,-80.288427,33.929242],
+  "bbox": [
+    -80.288427,
+    33.929242,
+    -80.288427,
+    33.929242
+],
   "geometry": {"coordinates":[-80.288427,33.929242],"type":"Point"}
 }

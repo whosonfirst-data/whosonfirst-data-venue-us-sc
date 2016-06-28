@@ -2,13 +2,14 @@
   "id": 370468063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.4506,33.817184,-79.4506,33.817184",
     "geom:latitude":33.817184,
     "geom:longitude":-79.4506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 W Broadway St",
     "sg:city":"Johnsonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370468063,
-    "wof:lastmodified":1449031515,
+    "wof:lastmodified":1467082352,
     "wof:name":"Insurance Partners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.4506,33.817184,-79.4506,33.817184],
-  "geometry": {"coordinates":[-79.4506,33.817184],"type":"Point"}
+  "bbox": [
+    -79.4506,
+    33.817184,
+    -79.4506,
+    33.817184
+],
+  "geometry": {"coordinates":[-79.45059999999999,33.817184],"type":"Point"}
 }

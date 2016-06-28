@@ -2,13 +2,14 @@
   "id": 370492649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.635194,34.707587,-81.635194,34.707587",
     "geom:latitude":34.707587,
     "geom:longitude":-81.635194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S Duncan Byp",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370492649,
-    "wof:lastmodified":1449029066,
+    "wof:lastmodified":1467082298,
     "wof:name":"Mike & Son's Buildings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.635194,34.707587,-81.635194,34.707587],
+  "bbox": [
+    -81.635194,
+    34.707587,
+    -81.635194,
+    34.707587
+],
   "geometry": {"coordinates":[-81.635194,34.707587],"type":"Point"}
 }

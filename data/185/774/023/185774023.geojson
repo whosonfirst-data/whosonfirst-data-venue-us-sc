@@ -2,13 +2,14 @@
   "id": 185774023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.033077,33.824725,-79.033077,33.824725",
     "geom:latitude":33.824725,
     "geom:longitude":-79.033077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1262 US Hwy 501 Bus",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185774023,
-    "wof:lastmodified":1449007247,
+    "wof:lastmodified":1467082192,
     "wof:name":"Second Chance Exchange",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consignment"
     ]
 },
-  "bbox": [-79.033077,33.824725,-79.033077,33.824725],
-  "geometry": {"coordinates":[-79.033077,33.824725],"type":"Point"}
+  "bbox": [
+    -79.033077,
+    33.824725,
+    -79.033077,
+    33.824725
+],
+  "geometry": {"coordinates":[-79.03307700000001,33.824725],"type":"Point"}
 }

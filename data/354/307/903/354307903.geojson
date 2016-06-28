@@ -2,13 +2,14 @@
   "id": 354307903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.559897,34.819768,-82.559897,34.819768",
     "geom:latitude":34.819768,
     "geom:longitude":-82.559897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Couch Ln",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354307903,
-    "wof:lastmodified":1449066352,
+    "wof:lastmodified":1467082424,
     "wof:name":"Magnolias Of Easley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-82.559897,34.819768,-82.559897,34.819768],
-  "geometry": {"coordinates":[-82.559897,34.819768],"type":"Point"}
+  "bbox": [
+    -82.559897,
+    34.819768,
+    -82.559897,
+    34.819768
+],
+  "geometry": {"coordinates":[-82.55989700000001,34.819768],"type":"Point"}
 }

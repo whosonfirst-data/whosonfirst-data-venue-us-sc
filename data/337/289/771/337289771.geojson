@@ -2,13 +2,14 @@
   "id": 337289771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.174752,33.020468,-80.174752,33.020468",
     "geom:latitude":33.020468,
     "geom:longitude":-80.174752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Main St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337289771,
-    "wof:lastmodified":1449027605,
+    "wof:lastmodified":1467082290,
     "wof:name":"Mustard Seed Summerville",
     "wof:parent_id":85833421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.174752,33.020468,-80.174752,33.020468],
+  "bbox": [
+    -80.174752,
+    33.020468,
+    -80.174752,
+    33.020468
+],
   "geometry": {"coordinates":[-80.174752,33.020468],"type":"Point"}
 }

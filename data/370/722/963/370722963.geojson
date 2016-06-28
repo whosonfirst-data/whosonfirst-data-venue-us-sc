@@ -2,13 +2,14 @@
   "id": 370722963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.833534,34.681597,-82.833534,34.681597",
     "geom:latitude":34.681597,
     "geom:longitude":-82.833534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Daniel Dr",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370722963,
-    "wof:lastmodified":1449030276,
+    "wof:lastmodified":1467082324,
     "wof:name":"Baptist Collegiate Ministry",
     "wof:parent_id":85808859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.833534,34.681597,-82.833534,34.681597],
+  "bbox": [
+    -82.833534,
+    34.681597,
+    -82.833534,
+    34.681597
+],
   "geometry": {"coordinates":[-82.833534,34.681597],"type":"Point"}
 }

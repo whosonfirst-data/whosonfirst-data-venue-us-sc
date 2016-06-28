@@ -2,13 +2,14 @@
   "id": 353857003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.576154,34.829736,-82.576154,34.829736",
     "geom:latitude":34.829736,
     "geom:longitude":-82.576154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 E Main St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353857003,
-    "wof:lastmodified":1449019902,
+    "wof:lastmodified":1467082243,
     "wof:name":"Main Street Medical & Rehab",
     "wof:parent_id":85804075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-82.576154,34.829736,-82.576154,34.829736],
+  "bbox": [
+    -82.576154,
+    34.829736,
+    -82.576154,
+    34.829736
+],
   "geometry": {"coordinates":[-82.576154,34.829736],"type":"Point"}
 }

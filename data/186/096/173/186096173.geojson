@@ -2,13 +2,14 @@
   "id": 186096173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.987732,34.071995,-78.987732,34.071995",
     "geom:latitude":34.071995,
     "geom:longitude":-78.987732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1131 Green Sea Rd S",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186096173,
-    "wof:lastmodified":1449051256,
+    "wof:lastmodified":1467082396,
     "wof:name":"Green Sea Floyds Head Start",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.987732,34.071995,-78.987732,34.071995],
-  "geometry": {"coordinates":[-78.987732,34.071995],"type":"Point"}
+  "bbox": [
+    -78.987732,
+    34.071995,
+    -78.987732,
+    34.071995
+],
+  "geometry": {"coordinates":[-78.98773199999999,34.071995],"type":"Point"}
 }

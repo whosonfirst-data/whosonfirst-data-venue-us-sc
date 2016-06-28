@@ -2,13 +2,14 @@
   "id": 370159933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.034474,34.003567,-81.034474,34.003567",
     "geom:latitude":34.003567,
     "geom:longitude":-81.034474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1330 Main St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370159933,
-    "wof:lastmodified":1449029494,
+    "wof:lastmodified":1467082307,
     "wof:name":"Nelson Mullins Riley",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.034474,34.003567,-81.034474,34.003567],
+  "bbox": [
+    -81.034474,
+    34.003567,
+    -81.034474,
+    34.003567
+],
   "geometry": {"coordinates":[-81.034474,34.003567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337289507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.750937,34.01799,-79.750937,34.01799",
     "geom:latitude":34.01799,
     "geom:longitude":-79.750937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6005 N Old Georgetown Rd",
     "sg:city":"Coward",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337289507,
-    "wof:lastmodified":1449027606,
+    "wof:lastmodified":1467082290,
     "wof:name":"L & J's Flooring",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-79.750937,34.01799,-79.750937,34.01799],
-  "geometry": {"coordinates":[-79.750937,34.01799],"type":"Point"}
+  "bbox": [
+    -79.750937,
+    34.01799,
+    -79.750937,
+    34.01799
+],
+  "geometry": {"coordinates":[-79.75093699999999,34.01799],"type":"Point"}
 }

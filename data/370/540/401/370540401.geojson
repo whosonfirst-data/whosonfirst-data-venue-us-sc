@@ -2,13 +2,14 @@
   "id": 370540401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.006071,34.006499,-81.006071,34.006499",
     "geom:latitude":34.006499,
     "geom:longitude":-81.006071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 King St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370540401,
-    "wof:lastmodified":1449030416,
+    "wof:lastmodified":1467082328,
     "wof:name":"Youngbloods Consulting Agency",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "court"
     ]
 },
-  "bbox": [-81.006071,34.006499,-81.006071,34.006499],
-  "geometry": {"coordinates":[-81.006071,34.006499],"type":"Point"}
+  "bbox": [
+    -81.006071,
+    34.006499,
+    -81.006071,
+    34.006499
+],
+  "geometry": {"coordinates":[-81.00607100000001,34.006499],"type":"Point"}
 }

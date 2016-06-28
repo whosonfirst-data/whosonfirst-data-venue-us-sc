@@ -2,13 +2,14 @@
   "id": 186044003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.046257,33.835794,-79.046257,33.835794",
     "geom:latitude":33.835794,
     "geom:longitude":-79.046257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Norman Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186044003,
-    "wof:lastmodified":1449051771,
+    "wof:lastmodified":1467082401,
     "wof:name":"Lively & Ciaccio",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.046257,33.835794,-79.046257,33.835794],
+  "bbox": [
+    -79.046257,
+    33.835794,
+    -79.046257,
+    33.835794
+],
   "geometry": {"coordinates":[-79.046257,33.835794],"type":"Point"}
 }

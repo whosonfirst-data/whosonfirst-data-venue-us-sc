@@ -2,13 +2,14 @@
   "id": 337353707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.235661,34.985203,-82.235661,34.985203",
     "geom:latitude":34.985203,
     "geom:longitude":-82.235661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 E Gap Creek Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":337353707,
-    "wof:lastmodified":1449027174,
+    "wof:lastmodified":1467082274,
     "wof:name":"Greer High School",
     "wof:parent_id":85853715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.235661,34.985203,-82.235661,34.985203],
-  "geometry": {"coordinates":[-82.235661,34.985203],"type":"Point"}
+  "bbox": [
+    -82.235661,
+    34.985203,
+    -82.235661,
+    34.985203
+],
+  "geometry": {"coordinates":[-82.23566099999999,34.985203],"type":"Point"}
 }

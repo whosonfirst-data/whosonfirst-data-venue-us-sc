@@ -2,13 +2,14 @@
   "id": 370666591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.041593,33.998796,-81.041593,33.998796",
     "geom:latitude":33.998796,
     "geom:longitude":-81.041593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Gervais St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370666591,
-    "wof:lastmodified":1449030326,
+    "wof:lastmodified":1467082326,
     "wof:name":"Solarte Services",
     "wof:parent_id":85876827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sale"
     ]
 },
-  "bbox": [-81.041593,33.998796,-81.041593,33.998796],
-  "geometry": {"coordinates":[-81.041593,33.998796],"type":"Point"}
+  "bbox": [
+    -81.041593,
+    33.998796,
+    -81.041593,
+    33.998796
+],
+  "geometry": {"coordinates":[-81.04159300000001,33.998796],"type":"Point"}
 }

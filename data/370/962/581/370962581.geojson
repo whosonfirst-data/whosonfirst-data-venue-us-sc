@@ -2,13 +2,14 @@
   "id": 370962581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.003316,32.900769,-80.003316,32.900769",
     "geom:latitude":32.900769,
     "geom:longitude":-80.003316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1544 Remount Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370962581,
-    "wof:lastmodified":1449031066,
+    "wof:lastmodified":1467082342,
     "wof:name":"Best Cleaning Svc-Charleston",
     "wof:parent_id":85830427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-80.003316,32.900769,-80.003316,32.900769],
+  "bbox": [
+    -80.003316,
+    32.900769,
+    -80.003316,
+    32.900769
+],
   "geometry": {"coordinates":[-80.003316,32.900769],"type":"Point"}
 }

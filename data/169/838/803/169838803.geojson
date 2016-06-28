@@ -2,13 +2,14 @@
   "id": 169838803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.023674,34.923626,-81.023674,34.923626",
     "geom:latitude":34.923626,
     "geom:longitude":-81.023674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 E Main St",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169838803,
-    "wof:lastmodified":1449033084,
+    "wof:lastmodified":1467082378,
     "wof:name":"E Stacy Lewis",
     "wof:parent_id":85851537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.023674,34.923626,-81.023674,34.923626],
+  "bbox": [
+    -81.023674,
+    34.923626,
+    -81.023674,
+    34.923626
+],
   "geometry": {"coordinates":[-81.023674,34.923626],"type":"Point"}
 }

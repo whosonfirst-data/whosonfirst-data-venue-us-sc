@@ -2,13 +2,14 @@
   "id": 370357071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.747528,32.218604,-80.747528,32.218604",
     "geom:latitude":32.218604,
     "geom:longitude":-80.747528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Wild Horse Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370357071,
-    "wof:lastmodified":1449032060,
+    "wof:lastmodified":1467082364,
     "wof:name":"O'Dell Architects",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.747528,32.218604,-80.747528,32.218604],
+  "bbox": [
+    -80.747528,
+    32.218604,
+    -80.747528,
+    32.218604
+],
   "geometry": {"coordinates":[-80.747528,32.218604],"type":"Point"}
 }

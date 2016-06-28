@@ -2,13 +2,14 @@
   "id": 370753217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.876669,33.707987,-78.876669,33.707987",
     "geom:latitude":33.707987,
     "geom:longitude":-78.876669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2107 Farlow St",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370753217,
-    "wof:lastmodified":1449029487,
+    "wof:lastmodified":1467082307,
     "wof:name":"Du Rant & Martin",
     "wof:parent_id":85816109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-78.876669,33.707987,-78.876669,33.707987],
-  "geometry": {"coordinates":[-78.876669,33.707987],"type":"Point"}
+  "bbox": [
+    -78.876669,
+    33.707987,
+    -78.876669,
+    33.707987
+],
+  "geometry": {"coordinates":[-78.87666900000001,33.707987],"type":"Point"}
 }

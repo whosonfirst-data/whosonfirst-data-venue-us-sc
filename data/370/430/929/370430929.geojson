@@ -2,13 +2,14 @@
   "id": 370430929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.720627,32.177387,-80.720627,32.177387",
     "geom:latitude":32.177387,
     "geom:longitude":-80.720627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 High Water",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370430929,
-    "wof:lastmodified":1449031231,
+    "wof:lastmodified":1467082345,
     "wof:name":"Exposition Managers Orgnztn",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "show"
     ]
 },
-  "bbox": [-80.720627,32.177387,-80.720627,32.177387],
-  "geometry": {"coordinates":[-80.720627,32.177387],"type":"Point"}
+  "bbox": [
+    -80.720627,
+    32.177387,
+    -80.720627,
+    32.177387
+],
+  "geometry": {"coordinates":[-80.72062699999999,32.177387],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370872205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.747091,34.018751,-78.747091,34.018751",
     "geom:latitude":34.018751,
     "geom:longitude":-78.747091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"853 Camp Swamp Rd",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370872205,
-    "wof:lastmodified":1449029392,
+    "wof:lastmodified":1467082305,
     "wof:name":"Camp Swamp Church Parsonage",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-78.747091,34.018751,-78.747091,34.018751],
+  "bbox": [
+    -78.747091,
+    34.018751,
+    -78.747091,
+    34.018751
+],
   "geometry": {"coordinates":[-78.747091,34.018751],"type":"Point"}
 }

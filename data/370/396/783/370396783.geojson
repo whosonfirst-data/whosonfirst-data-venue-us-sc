@@ -2,13 +2,14 @@
   "id": 370396783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.130425,33.994263,-79.130425,33.994263",
     "geom:latitude":33.994263,
     "geom:longitude":-79.130425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2151 Grainger Rd",
     "sg:city":"Aynor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370396783,
-    "wof:lastmodified":1449031292,
+    "wof:lastmodified":1467082347,
     "wof:name":"Woodman of World Lf Insur Soc",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-79.130425,33.994263,-79.130425,33.994263],
+  "bbox": [
+    -79.130425,
+    33.994263,
+    -79.130425,
+    33.994263
+],
   "geometry": {"coordinates":[-79.130425,33.994263],"type":"Point"}
 }

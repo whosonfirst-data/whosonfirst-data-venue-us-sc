@@ -2,13 +2,14 @@
   "id": 370224861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.914512,34.116103,-79.914512,34.116103",
     "geom:latitude":34.116103,
     "geom:longitude":-79.914512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Honda Way",
     "sg:city":"Timmonsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370224861,
-    "wof:lastmodified":1449031569,
+    "wof:lastmodified":1467082353,
     "wof:name":"Meiko America Inc",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"
     ]
 },
-  "bbox": [-79.914512,34.116103,-79.914512,34.116103],
+  "bbox": [
+    -79.914512,
+    34.116103,
+    -79.914512,
+    34.116103
+],
   "geometry": {"coordinates":[-79.914512,34.116103],"type":"Point"}
 }

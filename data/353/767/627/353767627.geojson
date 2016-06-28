@@ -2,13 +2,14 @@
   "id": 353767627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.355742,33.934743,-80.355742,33.934743",
     "geom:latitude":33.934743,
     "geom:longitude":-80.355742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Broad St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353767627,
-    "wof:lastmodified":1449019008,
+    "wof:lastmodified":1467082225,
     "wof:name":"Reliable Medical Equipment",
     "wof:parent_id":85855087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-80.355742,33.934743,-80.355742,33.934743],
-  "geometry": {"coordinates":[-80.355742,33.934743],"type":"Point"}
+  "bbox": [
+    -80.355742,
+    33.934743,
+    -80.355742,
+    33.934743
+],
+  "geometry": {"coordinates":[-80.35574200000001,33.934743],"type":"Point"}
 }

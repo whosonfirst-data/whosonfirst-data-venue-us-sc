@@ -2,13 +2,14 @@
   "id": 337587881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.028192,32.789356,-80.028192,32.789356",
     "geom:latitude":32.789356,
     "geom:longitude":-80.028192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1968 Savannah Hwy",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337587881,
-    "wof:lastmodified":1449027222,
+    "wof:lastmodified":1467082276,
     "wof:name":"Charleston Mitsubishi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealership"
     ]
 },
-  "bbox": [-80.028192,32.789356,-80.028192,32.789356],
+  "bbox": [
+    -80.028192,
+    32.789356,
+    -80.028192,
+    32.789356
+],
   "geometry": {"coordinates":[-80.028192,32.789356],"type":"Point"}
 }

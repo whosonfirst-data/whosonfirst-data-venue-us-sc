@@ -2,13 +2,14 @@
   "id": 354066969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.296198,33.346701,-79.296198,33.346701",
     "geom:latitude":33.346701,
     "geom:longitude":-79.296198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1935 S Fraser St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354066969,
-    "wof:lastmodified":1449066396,
+    "wof:lastmodified":1467082425,
     "wof:name":"Georgetown Family Pizza LLC",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.296198,33.346701,-79.296198,33.346701],
+  "bbox": [
+    -79.296198,
+    33.346701,
+    -79.296198,
+    33.346701
+],
   "geometry": {"coordinates":[-79.296198,33.346701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370289023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.281124,34.00847,-81.281124,34.00847",
     "geom:latitude":34.00847,
     "geom:longitude":-81.281124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Marlee Ct",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370289023,
-    "wof:lastmodified":1449031904,
+    "wof:lastmodified":1467082361,
     "wof:name":"S K Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.281124,34.00847,-81.281124,34.00847],
-  "geometry": {"coordinates":[-81.281124,34.00847],"type":"Point"}
+  "bbox": [
+    -81.281124,
+    34.00847,
+    -81.281124,
+    34.00847
+],
+  "geometry": {"coordinates":[-81.28112400000001,34.00847],"type":"Point"}
 }

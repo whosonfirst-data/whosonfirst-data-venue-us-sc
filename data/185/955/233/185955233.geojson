@@ -2,13 +2,14 @@
   "id": 185955233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.551339,33.531401,-79.551339,33.531401",
     "geom:latitude":33.531401,
     "geom:longitude":-79.551339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"677 Morrisville Rd",
     "sg:city":"Andrews",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185955233,
-    "wof:lastmodified":1449007710,
+    "wof:lastmodified":1467082199,
     "wof:name":"Moree's Bar-B-Que",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.551339,33.531401,-79.551339,33.531401],
+  "bbox": [
+    -79.551339,
+    33.531401,
+    -79.551339,
+    33.531401
+],
   "geometry": {"coordinates":[-79.551339,33.531401],"type":"Point"}
 }

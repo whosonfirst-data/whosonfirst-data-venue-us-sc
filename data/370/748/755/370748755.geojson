@@ -2,13 +2,14 @@
   "id": 370748755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.063217,33.834562,-79.063217,33.834562",
     "geom:latitude":33.834562,
     "geom:longitude":-79.063217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Wright Blvd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370748755,
-    "wof:lastmodified":1449031630,
+    "wof:lastmodified":1467082355,
     "wof:name":"Waccamaw Community Dev Corp",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.063217,33.834562,-79.063217,33.834562],
-  "geometry": {"coordinates":[-79.063217,33.834562],"type":"Point"}
+  "bbox": [
+    -79.063217,
+    33.834562,
+    -79.063217,
+    33.834562
+],
+  "geometry": {"coordinates":[-79.06321699999999,33.834562],"type":"Point"}
 }

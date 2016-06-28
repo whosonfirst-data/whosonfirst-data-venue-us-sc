@@ -2,13 +2,14 @@
   "id": 337480597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.673274,33.820281,-78.673274,33.820281",
     "geom:latitude":33.820281,
     "geom:longitude":-78.673274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Main St",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":337480597,
-    "wof:lastmodified":1449027207,
+    "wof:lastmodified":1467082275,
     "wof:name":"Raining Cats & Dogs Inc",
     "wof:parent_id":85826955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pet"
     ]
 },
-  "bbox": [-78.673274,33.820281,-78.673274,33.820281],
-  "geometry": {"coordinates":[-78.673274,33.820281],"type":"Point"}
+  "bbox": [
+    -78.673274,
+    33.820281,
+    -78.673274,
+    33.820281
+],
+  "geometry": {"coordinates":[-78.67327400000001,33.820281],"type":"Point"}
 }

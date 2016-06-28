@@ -2,13 +2,14 @@
   "id": 354348537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.700011,33.491033,-81.700011,33.491033",
     "geom:latitude":33.491033,
     "geom:longitude":-81.700011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3108 Whiskey Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354348537,
-    "wof:lastmodified":1449066020,
+    "wof:lastmodified":1467082416,
     "wof:name":"Aiken Electric Cooperative",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-81.700011,33.491033,-81.700011,33.491033],
+  "bbox": [
+    -81.700011,
+    33.491033,
+    -81.700011,
+    33.491033
+],
   "geometry": {"coordinates":[-81.700011,33.491033],"type":"Point"}
 }

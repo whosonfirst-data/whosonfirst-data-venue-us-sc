@@ -2,13 +2,14 @@
   "id": 353848043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.781851,33.770973,-78.781851,33.770973",
     "geom:latitude":33.770973,
     "geom:longitude":-78.781851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Laurel Ct",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353848043,
-    "wof:lastmodified":1449018613,
+    "wof:lastmodified":1467082217,
     "wof:name":"Lawson & Assoc",
     "wof:parent_id":85815435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-78.781851,33.770973,-78.781851,33.770973],
+  "bbox": [
+    -78.781851,
+    33.770973,
+    -78.781851,
+    33.770973
+],
   "geometry": {"coordinates":[-78.781851,33.770973],"type":"Point"}
 }

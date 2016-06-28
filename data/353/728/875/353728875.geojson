@@ -2,13 +2,14 @@
   "id": 353728875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.799903,32.602288,-80.799903,32.602288",
     "geom:latitude":32.602288,
     "geom:longitude":-80.799903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 Trask Pkwy",
     "sg:city":"Seabrook",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353728875,
-    "wof:lastmodified":1449018849,
+    "wof:lastmodified":1467082222,
     "wof:name":"Sheldon's Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.799903,32.602288,-80.799903,32.602288],
+  "bbox": [
+    -80.799903,
+    32.602288,
+    -80.799903,
+    32.602288
+],
   "geometry": {"coordinates":[-80.799903,32.602288],"type":"Point"}
 }

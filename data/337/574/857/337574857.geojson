@@ -2,13 +2,14 @@
   "id": 337574857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.117313,34.066761,-81.117313,34.066761",
     "geom:latitude":34.066761,
     "geom:longitude":-81.117313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4403 Broad River Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337574857,
-    "wof:lastmodified":1449026926,
+    "wof:lastmodified":1467082264,
     "wof:name":"Mechanical Design Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-81.117313,34.066761,-81.117313,34.066761],
+  "bbox": [
+    -81.117313,
+    34.066761,
+    -81.117313,
+    34.066761
+],
   "geometry": {"coordinates":[-81.117313,34.066761],"type":"Point"}
 }

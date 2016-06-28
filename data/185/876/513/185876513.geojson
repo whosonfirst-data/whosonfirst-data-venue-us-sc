@@ -2,13 +2,14 @@
   "id": 185876513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.862451,32.23483,-80.862451,32.23483",
     "geom:latitude":32.23483,
     "geom:longitude":-80.862451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Calhoun St",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185876513,
-    "wof:lastmodified":1449006940,
+    "wof:lastmodified":1467082187,
     "wof:name":"Calhoun Street Art Gallery Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.862451,32.23483,-80.862451,32.23483],
-  "geometry": {"coordinates":[-80.862451,32.23483],"type":"Point"}
+  "bbox": [
+    -80.862451,
+    32.23483,
+    -80.862451,
+    32.23483
+],
+  "geometry": {"coordinates":[-80.86245099999999,32.23483],"type":"Point"}
 }

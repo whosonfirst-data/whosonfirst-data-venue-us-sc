@@ -2,13 +2,14 @@
   "id": 353742613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.014164,32.80005,-80.014164,32.80005",
     "geom:latitude":32.80005,
     "geom:longitude":-80.014164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1716 Ashley River Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353742613,
-    "wof:lastmodified":1449018428,
+    "wof:lastmodified":1467082213,
     "wof:name":"Collection Box",
     "wof:parent_id":85839787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-80.014164,32.80005,-80.014164,32.80005],
-  "geometry": {"coordinates":[-80.014164,32.80005],"type":"Point"}
+  "bbox": [
+    -80.014164,
+    32.80005,
+    -80.014164,
+    32.80005
+],
+  "geometry": {"coordinates":[-80.01416399999999,32.80005],"type":"Point"}
 }

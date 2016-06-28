@@ -2,13 +2,14 @@
   "id": 185638103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.123877,33.83625,-79.123877,33.83625",
     "geom:latitude":33.83625,
     "geom:longitude":-79.123877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3389 US Hwy 378",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185638103,
-    "wof:lastmodified":1449006675,
+    "wof:lastmodified":1467082183,
     "wof:name":"Pee Dee Day Care",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.123877,33.83625,-79.123877,33.83625],
-  "geometry": {"coordinates":[-79.123877,33.83625],"type":"Point"}
+  "bbox": [
+    -79.123877,
+    33.83625,
+    -79.123877,
+    33.83625
+],
+  "geometry": {"coordinates":[-79.12387699999999,33.83625],"type":"Point"}
 }

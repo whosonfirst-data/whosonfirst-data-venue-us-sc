@@ -2,13 +2,14 @@
   "id": 354116289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.630477,33.926521,-78.630477,33.926521",
     "geom:latitude":33.926521,
     "geom:longitude":-78.630477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 State Hwy 57 N",
     "sg:city":"Little River",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354116289,
-    "wof:lastmodified":1449066177,
+    "wof:lastmodified":1467082420,
     "wof:name":"Indigo Farms Produce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-78.630477,33.926521,-78.630477,33.926521],
+  "bbox": [
+    -78.630477,
+    33.926521,
+    -78.630477,
+    33.926521
+],
   "geometry": {"coordinates":[-78.630477,33.926521],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337532831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.246614,34.99481,-82.246614,34.99481",
     "geom:latitude":34.99481,
     "geom:longitude":-82.246614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Becky Gibson Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337532831,
-    "wof:lastmodified":1449027212,
+    "wof:lastmodified":1467082275,
     "wof:name":"Hendrix Excavation & Paving",
     "wof:parent_id":85853715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.246614,34.99481,-82.246614,34.99481],
-  "geometry": {"coordinates":[-82.246614,34.99481],"type":"Point"}
+  "bbox": [
+    -82.246614,
+    34.99481,
+    -82.246614,
+    34.99481
+],
+  "geometry": {"coordinates":[-82.24661399999999,34.99481],"type":"Point"}
 }

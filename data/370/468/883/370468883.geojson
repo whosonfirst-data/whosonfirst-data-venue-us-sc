@@ -2,13 +2,14 @@
   "id": 370468883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.694955,34.559829,-82.694955,34.559829",
     "geom:latitude":34.559829,
     "geom:longitude":-82.694955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Station Dr",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370468883,
-    "wof:lastmodified":1449031518,
+    "wof:lastmodified":1467082352,
     "wof:name":"Shoe Carnival",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.694955,34.559829,-82.694955,34.559829],
-  "geometry": {"coordinates":[-82.694955,34.559829],"type":"Point"}
+  "bbox": [
+    -82.694955,
+    34.559829,
+    -82.694955,
+    34.559829
+],
+  "geometry": {"coordinates":[-82.69495499999999,34.559829],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370505603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.942065,32.950117,-79.942065,32.950117",
     "geom:latitude":32.950117,
     "geom:longitude":-79.942065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2464 Red Bank Rd",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370505603,
-    "wof:lastmodified":1449031910,
+    "wof:lastmodified":1467082361,
     "wof:name":"Eds Nmci",
     "wof:parent_id":85814443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.942065,32.950117,-79.942065,32.950117],
+  "bbox": [
+    -79.942065,
+    32.950117,
+    -79.942065,
+    32.950117
+],
   "geometry": {"coordinates":[-79.942065,32.950117],"type":"Point"}
 }

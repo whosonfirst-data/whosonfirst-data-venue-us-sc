@@ -2,13 +2,14 @@
   "id": 370882641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.924405,33.39944,-79.924405,33.39944",
     "geom:latitude":33.39944,
     "geom:longitude":-79.924405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 S Main St",
     "sg:city":"St Stephen",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":370882641,
-    "wof:lastmodified":1449029698,
+    "wof:lastmodified":1467082311,
     "wof:name":"Unique Creations",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.924405,33.39944,-79.924405,33.39944],
-  "geometry": {"coordinates":[-79.924405,33.39944],"type":"Point"}
+  "bbox": [
+    -79.924405,
+    33.39944,
+    -79.924405,
+    33.39944
+],
+  "geometry": {"coordinates":[-79.92440499999999,33.39944],"type":"Point"}
 }

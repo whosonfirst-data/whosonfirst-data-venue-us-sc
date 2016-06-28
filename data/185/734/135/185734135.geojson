@@ -2,13 +2,14 @@
   "id": 185734135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.77373,34.513482,-82.77373,34.513482",
     "geom:latitude":34.513482,
     "geom:longitude":-82.77373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1228 Pearl Harbor Way",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185734135,
-    "wof:lastmodified":1449008017,
+    "wof:lastmodified":1467082204,
     "wof:name":"Ace Fence",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.77373,34.513482,-82.77373,34.513482],
+  "bbox": [
+    -82.77373,
+    34.513482,
+    -82.77373,
+    34.513482
+],
   "geometry": {"coordinates":[-82.77373,34.513482],"type":"Point"}
 }

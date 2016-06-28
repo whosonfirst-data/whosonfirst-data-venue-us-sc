@@ -2,13 +2,14 @@
   "id": 370152807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.002135,34.023876,-79.002135,34.023876",
     "geom:latitude":34.023876,
     "geom:longitude":-79.002135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3850 Danny Rd",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370152807,
-    "wof:lastmodified":1449031705,
+    "wof:lastmodified":1467082356,
     "wof:name":"Allens Scrap Metal",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-79.002135,34.023876,-79.002135,34.023876],
+  "bbox": [
+    -79.002135,
+    34.023876,
+    -79.002135,
+    34.023876
+],
   "geometry": {"coordinates":[-79.002135,34.023876],"type":"Point"}
 }

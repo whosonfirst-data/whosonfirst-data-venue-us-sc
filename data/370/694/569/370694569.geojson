@@ -2,13 +2,14 @@
   "id": 370694569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.353512,33.900297,-80.353512,33.900297",
     "geom:latitude":33.900297,
     "geom:longitude":-80.353512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 S Guignard Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370694569,
-    "wof:lastmodified":1449030060,
+    "wof:lastmodified":1467082320,
     "wof:name":"City Supply Co",
     "wof:parent_id":85850119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.353512,33.900297,-80.353512,33.900297],
-  "geometry": {"coordinates":[-80.353512,33.900297],"type":"Point"}
+  "bbox": [
+    -80.353512,
+    33.900297,
+    -80.353512,
+    33.900297
+],
+  "geometry": {"coordinates":[-80.35351199999999,33.900297],"type":"Point"}
 }

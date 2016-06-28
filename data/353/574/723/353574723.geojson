@@ -2,13 +2,14 @@
   "id": 353574723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.236702,33.969029,-81.236702,33.969029",
     "geom:latitude":33.969029,
     "geom:longitude":-81.236702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Gibson Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353574723,
-    "wof:lastmodified":1449018240,
+    "wof:lastmodified":1467082209,
     "wof:name":"Suzanne's School Of Dance",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-81.236702,33.969029,-81.236702,33.969029],
-  "geometry": {"coordinates":[-81.236702,33.969029],"type":"Point"}
+  "bbox": [
+    -81.236702,
+    33.969029,
+    -81.236702,
+    33.969029
+],
+  "geometry": {"coordinates":[-81.23670199999999,33.969029],"type":"Point"}
 }

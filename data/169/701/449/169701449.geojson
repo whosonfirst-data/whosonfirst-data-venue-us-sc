@@ -2,13 +2,14 @@
   "id": 169701449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.929048,34.969153,-81.929048,34.969153",
     "geom:latitude":34.969153,
     "geom:longitude":-81.929048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 McMillan Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169701449,
-    "wof:lastmodified":1449035272,
+    "wof:lastmodified":1467082386,
     "wof:name":"Delta Loans",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-81.929048,34.969153,-81.929048,34.969153],
-  "geometry": {"coordinates":[-81.929048,34.969153],"type":"Point"}
+  "bbox": [
+    -81.929048,
+    34.969153,
+    -81.929048,
+    34.969153
+],
+  "geometry": {"coordinates":[-81.92904799999999,34.969153],"type":"Point"}
 }

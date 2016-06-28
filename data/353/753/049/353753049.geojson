@@ -2,13 +2,14 @@
   "id": 353753049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.92776,34.108855,-80.92776,34.108855",
     "geom:latitude":34.108855,
     "geom:longitude":-80.92776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Olde Springs Ct",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353753049,
-    "wof:lastmodified":1449018550,
+    "wof:lastmodified":1467082216,
     "wof:name":"Drive Safe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.92776,34.108855,-80.92776,34.108855],
-  "geometry": {"coordinates":[-80.92776,34.108855],"type":"Point"}
+  "bbox": [
+    -80.92776,
+    34.108855,
+    -80.92776,
+    34.108855
+],
+  "geometry": {"coordinates":[-80.92776000000001,34.108855],"type":"Point"}
 }

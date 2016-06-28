@@ -2,13 +2,14 @@
   "id": 353873033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.848233,33.728145,-78.848233,33.728145",
     "geom:latitude":33.728145,
     "geom:longitude":-78.848233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 Camellia Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353873033,
-    "wof:lastmodified":1449018789,
+    "wof:lastmodified":1467082220,
     "wof:name":"G & S Painting & Cstm Finishes",
     "wof:parent_id":85839155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.848233,33.728145,-78.848233,33.728145],
-  "geometry": {"coordinates":[-78.848233,33.728145],"type":"Point"}
+  "bbox": [
+    -78.848233,
+    33.728145,
+    -78.848233,
+    33.728145
+],
+  "geometry": {"coordinates":[-78.84823299999999,33.728145],"type":"Point"}
 }

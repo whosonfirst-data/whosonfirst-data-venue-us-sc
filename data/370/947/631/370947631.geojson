@@ -2,13 +2,14 @@
   "id": 370947631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.302011,34.835546,-82.302011,34.835546",
     "geom:latitude":34.835546,
     "geom:longitude":-82.302011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Independence Pt",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370947631,
-    "wof:lastmodified":1449031541,
+    "wof:lastmodified":1467082353,
     "wof:name":"Beano Brothers Coffee & Cafe",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-82.302011,34.835546,-82.302011,34.835546],
-  "geometry": {"coordinates":[-82.302011,34.835546],"type":"Point"}
+  "bbox": [
+    -82.302011,
+    34.835546,
+    -82.302011,
+    34.835546
+],
+  "geometry": {"coordinates":[-82.30201099999999,34.835546],"type":"Point"}
 }

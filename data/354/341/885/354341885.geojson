@@ -2,13 +2,14 @@
   "id": 354341885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.828243,33.679555,-79.828243,33.679555",
     "geom:latitude":33.679555,
     "geom:longitude":-79.828243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 N Longstreet St",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354341885,
-    "wof:lastmodified":1449067598,
+    "wof:lastmodified":1467082453,
     "wof:name":"Kingstree Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "eating"
     ]
 },
-  "bbox": [-79.828243,33.679555,-79.828243,33.679555],
+  "bbox": [
+    -79.828243,
+    33.679555,
+    -79.828243,
+    33.679555
+],
   "geometry": {"coordinates":[-79.828243,33.679555],"type":"Point"}
 }

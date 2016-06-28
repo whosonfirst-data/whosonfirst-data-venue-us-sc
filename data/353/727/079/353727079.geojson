@@ -2,13 +2,14 @@
   "id": 353727079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.01675,32.839891,-80.01675,32.839891",
     "geom:latitude":32.839891,
     "geom:longitude":-80.01675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4045 Bridge View Dr",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353727079,
-    "wof:lastmodified":1449018641,
+    "wof:lastmodified":1467082217,
     "wof:name":"Charleston County Small Claims",
     "wof:parent_id":85818395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.01675,32.839891,-80.01675,32.839891],
+  "bbox": [
+    -80.01675,
+    32.839891,
+    -80.01675,
+    32.839891
+],
   "geometry": {"coordinates":[-80.01675,32.839891],"type":"Point"}
 }

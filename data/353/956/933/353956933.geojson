@@ -2,13 +2,14 @@
   "id": 353956933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.904898,34.71343,-82.904898,34.71343",
     "geom:latitude":34.71343,
     "geom:longitude":-82.904898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Old Clemson Hwy",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353956933,
-    "wof:lastmodified":1449018670,
+    "wof:lastmodified":1467082218,
     "wof:name":"Palmetto Appraisal Svc-Clemson",
     "wof:parent_id":85828189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-82.904898,34.71343,-82.904898,34.71343],
+  "bbox": [
+    -82.904898,
+    34.71343,
+    -82.904898,
+    34.71343
+],
   "geometry": {"coordinates":[-82.904898,34.71343],"type":"Point"}
 }

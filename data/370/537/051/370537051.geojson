@@ -2,13 +2,14 @@
   "id": 370537051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.475732,34.457323,-82.475732,34.457323",
     "geom:latitude":34.457323,
     "geom:longitude":-82.475732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Trail Rd",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370537051,
-    "wof:lastmodified":1449029927,
+    "wof:lastmodified":1467082317,
     "wof:name":"Snap-On Tools Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "accessory"
     ]
 },
-  "bbox": [-82.475732,34.457323,-82.475732,34.457323],
-  "geometry": {"coordinates":[-82.475732,34.457323],"type":"Point"}
+  "bbox": [
+    -82.475732,
+    34.457323,
+    -82.475732,
+    34.457323
+],
+  "geometry": {"coordinates":[-82.47573199999999,34.457323],"type":"Point"}
 }

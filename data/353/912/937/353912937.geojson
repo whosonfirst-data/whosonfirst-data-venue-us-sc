@@ -2,13 +2,14 @@
   "id": 353912937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.210449,33.991106,-81.210449,33.991106",
     "geom:latitude":33.991106,
     "geom:longitude":-81.210449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Highland Cir",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353912937,
-    "wof:lastmodified":1449019523,
+    "wof:lastmodified":1467082235,
     "wof:name":"Purvis & Jeffcoat",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-81.210449,33.991106,-81.210449,33.991106],
+  "bbox": [
+    -81.210449,
+    33.991106,
+    -81.210449,
+    33.991106
+],
   "geometry": {"coordinates":[-81.210449,33.991106],"type":"Point"}
 }

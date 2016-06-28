@@ -2,13 +2,14 @@
   "id": 370393131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.126366,35.054798,-81.126366,35.054798",
     "geom:latitude":35.054798,
     "geom:longitude":-81.126366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4078 Charlotte Hwy",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370393131,
-    "wof:lastmodified":1449030155,
+    "wof:lastmodified":1467082322,
     "wof:name":"Design Depot",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "interior"
     ]
 },
-  "bbox": [-81.126366,35.054798,-81.126366,35.054798],
+  "bbox": [
+    -81.126366,
+    35.054798,
+    -81.126366,
+    35.054798
+],
   "geometry": {"coordinates":[-81.126366,35.054798],"type":"Point"}
 }

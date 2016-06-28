@@ -2,13 +2,14 @@
   "id": 370294561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.493985,34.525731,-82.493985,34.525731",
     "geom:latitude":34.525731,
     "geom:longitude":-82.493985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Thompson St",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370294561,
-    "wof:lastmodified":1449031504,
+    "wof:lastmodified":1467082352,
     "wof:name":"Belton Street Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-82.493985,34.525731,-82.493985,34.525731],
+  "bbox": [
+    -82.493985,
+    34.525731,
+    -82.493985,
+    34.525731
+],
   "geometry": {"coordinates":[-82.493985,34.525731],"type":"Point"}
 }

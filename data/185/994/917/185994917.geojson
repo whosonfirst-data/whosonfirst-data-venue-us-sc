@@ -2,13 +2,14 @@
   "id": 185994917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.288266,33.354953,-79.288266,33.354953",
     "geom:latitude":33.354953,
     "geom:longitude":-79.288266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1368 Harbor St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185994917,
-    "wof:lastmodified":1449006659,
+    "wof:lastmodified":1467082183,
     "wof:name":"Road Scholar Tours Inc",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "tour"
     ]
 },
-  "bbox": [-79.288266,33.354953,-79.288266,33.354953],
-  "geometry": {"coordinates":[-79.288266,33.354953],"type":"Point"}
+  "bbox": [
+    -79.288266,
+    33.354953,
+    -79.288266,
+    33.354953
+],
+  "geometry": {"coordinates":[-79.28826599999999,33.354953],"type":"Point"}
 }

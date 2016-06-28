@@ -2,13 +2,14 @@
   "id": 353411661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.854918,32.669929,-80.854918,32.669929",
     "geom:latitude":32.669929,
     "geom:longitude":-80.854918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 US Hwy 17 Alt",
     "sg:city":"Hardeeville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353411661,
-    "wof:lastmodified":1449018361,
+    "wof:lastmodified":1467082212,
     "wof:name":"Acme Auto & Wrecker Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.854918,32.669929,-80.854918,32.669929],
+  "bbox": [
+    -80.854918,
+    32.669929,
+    -80.854918,
+    32.669929
+],
   "geometry": {"coordinates":[-80.854918,32.669929],"type":"Point"}
 }

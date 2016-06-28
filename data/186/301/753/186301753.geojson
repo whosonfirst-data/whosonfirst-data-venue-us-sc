@@ -2,13 +2,14 @@
   "id": 186301753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.956344,32.807572,-79.956344,32.807572",
     "geom:latitude":32.807572,
     "geom:longitude":-79.956344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 Ashley Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186301753,
-    "wof:lastmodified":1449051080,
+    "wof:lastmodified":1467082394,
     "wof:name":"Art Forms & Theatre Concepts",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.956344,32.807572,-79.956344,32.807572],
+  "bbox": [
+    -79.956344,
+    32.807572,
+    -79.956344,
+    32.807572
+],
   "geometry": {"coordinates":[-79.956344,32.807572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354152675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.265926,34.753645,-82.265926,34.753645",
     "geom:latitude":34.753645,
     "geom:longitude":-82.265926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 NE Main St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354152675,
-    "wof:lastmodified":1449067241,
+    "wof:lastmodified":1467082444,
     "wof:name":"Hipps Automotive Svc Ctr",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.265926,34.753645,-82.265926,34.753645],
-  "geometry": {"coordinates":[-82.265926,34.753645],"type":"Point"}
+  "bbox": [
+    -82.265926,
+    34.753645,
+    -82.265926,
+    34.753645
+],
+  "geometry": {"coordinates":[-82.26592599999999,34.753645],"type":"Point"}
 }

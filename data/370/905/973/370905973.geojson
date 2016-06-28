@@ -2,13 +2,14 @@
   "id": 370905973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.436851,33.964498,-80.436851,33.964498",
     "geom:latitude":33.964498,
     "geom:longitude":-80.436851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3745 Broad St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370905973,
-    "wof:lastmodified":1449030406,
+    "wof:lastmodified":1467082327,
     "wof:name":"Roadhouse Customs",
     "wof:parent_id":85814545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.436851,33.964498,-80.436851,33.964498],
+  "bbox": [
+    -80.436851,
+    33.964498,
+    -80.436851,
+    33.964498
+],
   "geometry": {"coordinates":[-80.436851,33.964498],"type":"Point"}
 }

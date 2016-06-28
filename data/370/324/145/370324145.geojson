@@ -2,13 +2,14 @@
   "id": 370324145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.682268,32.923968,-80.682268,32.923968",
     "geom:latitude":32.923968,
     "geom:longitude":-80.682268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1260 Bells Hwy",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370324145,
-    "wof:lastmodified":1449031052,
+    "wof:lastmodified":1467082341,
     "wof:name":"Baskets & Bows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.682268,32.923968,-80.682268,32.923968],
-  "geometry": {"coordinates":[-80.682268,32.923968],"type":"Point"}
+  "bbox": [
+    -80.682268,
+    32.923968,
+    -80.682268,
+    32.923968
+],
+  "geometry": {"coordinates":[-80.68226799999999,32.923968],"type":"Point"}
 }

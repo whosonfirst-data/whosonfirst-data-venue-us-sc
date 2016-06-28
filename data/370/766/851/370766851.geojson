@@ -2,13 +2,14 @@
   "id": 370766851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.66255,34.85174,-82.66255,34.85174",
     "geom:latitude":34.85174,
     "geom:longitude":-82.66255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1424 Gentry Memorial Hwy",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370766851,
-    "wof:lastmodified":1449029022,
+    "wof:lastmodified":1467082297,
     "wof:name":"Grant Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-82.66255,34.85174,-82.66255,34.85174],
+  "bbox": [
+    -82.66255,
+    34.85174,
+    -82.66255,
+    34.85174
+],
   "geometry": {"coordinates":[-82.66255,34.85174],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354042201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.977224,32.762704,-79.977224,32.762704",
     "geom:latitude":32.762704,
     "geom:longitude":-79.977224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Wappoo Creek Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354042201,
-    "wof:lastmodified":1449067234,
+    "wof:lastmodified":1467082444,
     "wof:name":"Hugh D Durrence MD",
     "wof:parent_id":85832547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.977224,32.762704,-79.977224,32.762704],
-  "geometry": {"coordinates":[-79.977224,32.762704],"type":"Point"}
+  "bbox": [
+    -79.977224,
+    32.762704,
+    -79.977224,
+    32.762704
+],
+  "geometry": {"coordinates":[-79.97722400000001,32.762704],"type":"Point"}
 }

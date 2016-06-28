@@ -2,13 +2,14 @@
   "id": 353908551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.330487,34.865569,-82.330487,34.865569",
     "geom:latitude":34.865569,
     "geom:longitude":-82.330487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Arborland Way",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353908551,
-    "wof:lastmodified":1449019705,
+    "wof:lastmodified":1467082239,
     "wof:name":"Donnan Morton Davis & Snyder",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.330487,34.865569,-82.330487,34.865569],
-  "geometry": {"coordinates":[-82.330487,34.865569],"type":"Point"}
+  "bbox": [
+    -82.330487,
+    34.865569,
+    -82.330487,
+    34.865569
+],
+  "geometry": {"coordinates":[-82.33048700000001,34.865569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186290473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.610416,33.437378,-80.610416,33.437378",
     "geom:latitude":33.437378,
     "geom:longitude":-80.610416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3311 Old State Rd",
     "sg:city":"Santee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186290473,
-    "wof:lastmodified":1449051524,
+    "wof:lastmodified":1467082398,
     "wof:name":"Providence Collection Site",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "collection"
     ]
 },
-  "bbox": [-80.610416,33.437378,-80.610416,33.437378],
+  "bbox": [
+    -80.610416,
+    33.437378,
+    -80.610416,
+    33.437378
+],
   "geometry": {"coordinates":[-80.610416,33.437378],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337292365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.842611,33.530833,-81.842611,33.530833",
     "geom:latitude":33.530833,
     "geom:longitude":-81.842611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2444 Jefferson Davis Hwy",
     "sg:city":"Graniteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337292365,
-    "wof:lastmodified":1449027010,
+    "wof:lastmodified":1467082268,
     "wof:name":"Langley Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.842611,33.530833,-81.842611,33.530833],
-  "geometry": {"coordinates":[-81.842611,33.530833],"type":"Point"}
+  "bbox": [
+    -81.842611,
+    33.530833,
+    -81.842611,
+    33.530833
+],
+  "geometry": {"coordinates":[-81.84261100000001,33.530833],"type":"Point"}
 }

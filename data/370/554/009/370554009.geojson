@@ -2,13 +2,14 @@
   "id": 370554009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.99601,32.901435,-79.99601,32.901435",
     "geom:latitude":32.901435,
     "geom:longitude":-79.99601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1328 Remount Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370554009,
-    "wof:lastmodified":1449029791,
+    "wof:lastmodified":1467082313,
     "wof:name":"Eastern Personnel Svc",
     "wof:parent_id":85830427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-79.99601,32.901435,-79.99601,32.901435],
+  "bbox": [
+    -79.99601,
+    32.901435,
+    -79.99601,
+    32.901435
+],
   "geometry": {"coordinates":[-79.99601,32.901435],"type":"Point"}
 }

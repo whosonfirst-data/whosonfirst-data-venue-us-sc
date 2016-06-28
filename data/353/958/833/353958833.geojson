@@ -2,13 +2,14 @@
   "id": 353958833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.880905,34.297646,-79.880905,34.297646",
     "geom:latitude":34.297646,
     "geom:longitude":-79.880905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Pearl St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353958833,
-    "wof:lastmodified":1449020260,
+    "wof:lastmodified":1467082251,
     "wof:name":"Jewelry Cove",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.880905,34.297646,-79.880905,34.297646],
+  "bbox": [
+    -79.880905,
+    34.297646,
+    -79.880905,
+    34.297646
+],
   "geometry": {"coordinates":[-79.880905,34.297646],"type":"Point"}
 }

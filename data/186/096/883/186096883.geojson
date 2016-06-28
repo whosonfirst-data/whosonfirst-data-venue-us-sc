@@ -2,13 +2,14 @@
   "id": 186096883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.125394,34.957519,-82.125394,34.957519",
     "geom:latitude":34.957519,
     "geom:longitude":-82.125394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Charlotte Hwy",
     "sg:city":"Lyman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186096883,
-    "wof:lastmodified":1449051257,
+    "wof:lastmodified":1467082396,
     "wof:name":"Springaire Heating & AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.125394,34.957519,-82.125394,34.957519],
+  "bbox": [
+    -82.125394,
+    34.957519,
+    -82.125394,
+    34.957519
+],
   "geometry": {"coordinates":[-82.125394,34.957519],"type":"Point"}
 }

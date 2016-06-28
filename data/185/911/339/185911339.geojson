@@ -2,13 +2,14 @@
   "id": 185911339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.031572,32.910747,-80.031572,32.910747",
     "geom:latitude":32.910747,
     "geom:longitude":-80.031572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2290 Technical Pkwy",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185911339,
-    "wof:lastmodified":1449007970,
+    "wof:lastmodified":1467082203,
     "wof:name":"Willard Termite & Pest Control",
     "wof:parent_id":85825199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.031572,32.910747,-80.031572,32.910747],
+  "bbox": [
+    -80.031572,
+    32.910747,
+    -80.031572,
+    32.910747
+],
   "geometry": {"coordinates":[-80.031572,32.910747],"type":"Point"}
 }

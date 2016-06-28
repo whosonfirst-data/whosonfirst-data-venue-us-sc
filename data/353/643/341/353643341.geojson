@@ -2,13 +2,14 @@
   "id": 353643341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.376851,34.175433,-82.376851,34.175433",
     "geom:latitude":34.175433,
     "geom:longitude":-82.376851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 S Main St",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353643341,
-    "wof:lastmodified":1449020467,
+    "wof:lastmodified":1467082255,
     "wof:name":"Cambridge Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-82.376851,34.175433,-82.376851,34.175433],
+  "bbox": [
+    -82.376851,
+    34.175433,
+    -82.376851,
+    34.175433
+],
   "geometry": {"coordinates":[-82.376851,34.175433],"type":"Point"}
 }

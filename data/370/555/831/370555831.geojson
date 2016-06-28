@@ -2,13 +2,14 @@
   "id": 370555831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.139385,33.434549,-79.139385,33.434549",
     "geom:latitude":33.434549,
     "geom:longitude":-79.139385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Wilder Trl",
     "sg:city":"Pawleys Island",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370555831,
-    "wof:lastmodified":1449031983,
+    "wof:lastmodified":1467082363,
     "wof:name":"Litchfield Outdoor Power",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mower"
     ]
 },
-  "bbox": [-79.139385,33.434549,-79.139385,33.434549],
+  "bbox": [
+    -79.139385,
+    33.434549,
+    -79.139385,
+    33.434549
+],
   "geometry": {"coordinates":[-79.139385,33.434549],"type":"Point"}
 }

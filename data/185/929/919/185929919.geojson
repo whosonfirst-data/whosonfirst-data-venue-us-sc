@@ -2,13 +2,14 @@
   "id": 185929919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.607194,34.287666,-81.607194,34.287666",
     "geom:latitude":34.287666,
     "geom:longitude":-81.607194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1728 Indianland Dr",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185929919,
-    "wof:lastmodified":1449007229,
+    "wof:lastmodified":1467082192,
     "wof:name":"Indian Land Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.607194,34.287666,-81.607194,34.287666],
-  "geometry": {"coordinates":[-81.607194,34.287666],"type":"Point"}
+  "bbox": [
+    -81.607194,
+    34.287666,
+    -81.607194,
+    34.287666
+],
+  "geometry": {"coordinates":[-81.60719400000001,34.287666],"type":"Point"}
 }

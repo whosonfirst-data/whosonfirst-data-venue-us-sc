@@ -2,13 +2,14 @@
   "id": 185703403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.23431,34.165627,-79.23431,34.165627",
     "geom:latitude":34.165627,
     "geom:longitude":-79.23431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2343 Old Stage Rd",
     "sg:city":"Mullins",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185703403,
-    "wof:lastmodified":1449007097,
+    "wof:lastmodified":1467082190,
     "wof:name":"Norman's Body Shop & Wrecker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-79.23431,34.165627,-79.23431,34.165627],
-  "geometry": {"coordinates":[-79.23431,34.165627],"type":"Point"}
+  "bbox": [
+    -79.23431,
+    34.165627,
+    -79.23431,
+    34.165627
+],
+  "geometry": {"coordinates":[-79.23430999999999,34.165627],"type":"Point"}
 }

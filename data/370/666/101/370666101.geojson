@@ -2,13 +2,14 @@
   "id": 370666101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.432372,34.337724,-79.432372,34.337724",
     "geom:latitude":34.337724,
     "geom:longitude":-79.432372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Main St",
     "sg:city":"Latta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370666101,
-    "wof:lastmodified":1449030326,
+    "wof:lastmodified":1467082326,
     "wof:name":"Treasures From The Attic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clocks"
     ]
 },
-  "bbox": [-79.432372,34.337724,-79.432372,34.337724],
+  "bbox": [
+    -79.432372,
+    34.337724,
+    -79.432372,
+    34.337724
+],
   "geometry": {"coordinates":[-79.432372,34.337724],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354257067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.998792,34.006714,-80.998792,34.006714",
     "geom:latitude":34.006714,
     "geom:longitude":-80.998792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2919 Kershaw St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354257067,
-    "wof:lastmodified":1449066406,
+    "wof:lastmodified":1467082425,
     "wof:name":"Buying Time",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "miscellaneous"
     ]
 },
-  "bbox": [-80.998792,34.006714,-80.998792,34.006714],
-  "geometry": {"coordinates":[-80.998792,34.006714],"type":"Point"}
+  "bbox": [
+    -80.998792,
+    34.006714,
+    -80.998792,
+    34.006714
+],
+  "geometry": {"coordinates":[-80.99879199999999,34.006714],"type":"Point"}
 }

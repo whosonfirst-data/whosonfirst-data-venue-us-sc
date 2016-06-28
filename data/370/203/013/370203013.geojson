@@ -2,13 +2,14 @@
   "id": 370203013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.160905,33.982682,-81.160905,33.982682",
     "geom:latitude":33.982682,
     "geom:longitude":-81.160905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Ashe St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370203013,
-    "wof:lastmodified":1449030599,
+    "wof:lastmodified":1467082332,
     "wof:name":"Mack Heating & Cooling Inc",
     "wof:parent_id":85864289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.160905,33.982682,-81.160905,33.982682],
+  "bbox": [
+    -81.160905,
+    33.982682,
+    -81.160905,
+    33.982682
+],
   "geometry": {"coordinates":[-81.160905,33.982682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370322999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.001083,33.695289,-79.001083,33.695289",
     "geom:latitude":33.695289,
     "geom:longitude":-79.001083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3448 Forestbrook Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370322999,
-    "wof:lastmodified":1449029032,
+    "wof:lastmodified":1467082297,
     "wof:name":"Stephanie's Hair Salon",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.001083,33.695289,-79.001083,33.695289],
-  "geometry": {"coordinates":[-79.001083,33.695289],"type":"Point"}
+  "bbox": [
+    -79.001083,
+    33.695289,
+    -79.001083,
+    33.695289
+],
+  "geometry": {"coordinates":[-79.00108299999999,33.695289],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370825309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.698207,32.441325,-80.698207,32.441325",
     "geom:latitude":32.441325,
     "geom:longitude":-80.698207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2249 Boundary St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370825309,
-    "wof:lastmodified":1449029198,
+    "wof:lastmodified":1467082301,
     "wof:name":"Atlantic Inn",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.698207,32.441325,-80.698207,32.441325],
+  "bbox": [
+    -80.698207,
+    32.441325,
+    -80.698207,
+    32.441325
+],
   "geometry": {"coordinates":[-80.698207,32.441325],"type":"Point"}
 }

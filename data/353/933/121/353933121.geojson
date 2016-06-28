@@ -2,13 +2,14 @@
   "id": 353933121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.702508,34.606288,-82.702508,34.606288",
     "geom:latitude":34.606288,
     "geom:longitude":-82.702508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2703 Lebanon Rd",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353933121,
-    "wof:lastmodified":1449018779,
+    "wof:lastmodified":1467082220,
     "wof:name":"Speedliner Of Anderson",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-82.702508,34.606288,-82.702508,34.606288],
-  "geometry": {"coordinates":[-82.702508,34.606288],"type":"Point"}
+  "bbox": [
+    -82.702508,
+    34.606288,
+    -82.702508,
+    34.606288
+],
+  "geometry": {"coordinates":[-82.70250799999999,34.606288],"type":"Point"}
 }

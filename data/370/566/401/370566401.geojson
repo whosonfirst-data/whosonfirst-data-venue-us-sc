@@ -2,13 +2,14 @@
   "id": 370566401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.961059,33.630513,-78.961059,33.630513",
     "geom:latitude":33.630513,
     "geom:longitude":-78.961059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5901 S Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370566401,
-    "wof:lastmodified":1449029138,
+    "wof:lastmodified":1467082299,
     "wof:name":"Sorrells & Sorrells",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.961059,33.630513,-78.961059,33.630513],
-  "geometry": {"coordinates":[-78.961059,33.630513],"type":"Point"}
+  "bbox": [
+    -78.961059,
+    33.630513,
+    -78.961059,
+    33.630513
+],
+  "geometry": {"coordinates":[-78.96105900000001,33.630513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337365113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.40789,34.9053,-82.40789,34.9053",
     "geom:latitude":34.9053,
     "geom:longitude":-82.40789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Hillandale Cir",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337365113,
-    "wof:lastmodified":1449027057,
+    "wof:lastmodified":1467082269,
     "wof:name":"Bunn Diversified Inc",
     "wof:parent_id":85825355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.40789,34.9053,-82.40789,34.9053],
-  "geometry": {"coordinates":[-82.40789,34.9053],"type":"Point"}
+  "bbox": [
+    -82.40789,
+    34.9053,
+    -82.40789,
+    34.9053
+],
+  "geometry": {"coordinates":[-82.40788999999999,34.9053],"type":"Point"}
 }

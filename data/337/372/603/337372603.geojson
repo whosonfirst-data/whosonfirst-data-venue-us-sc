@@ -2,13 +2,14 @@
   "id": 337372603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.631631,33.831222,-78.631631,33.831222",
     "geom:latitude":33.831222,
     "geom:longitude":-78.631631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 N Ocean Blvd",
     "sg:city":"Cherry Grove Bch",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":337372603,
-    "wof:lastmodified":1449027438,
+    "wof:lastmodified":1467082284,
     "wof:name":"Holiday House Motel",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.631631,33.831222,-78.631631,33.831222],
+  "bbox": [
+    -78.631631,
+    33.831222,
+    -78.631631,
+    33.831222
+],
   "geometry": {"coordinates":[-78.631631,33.831222],"type":"Point"}
 }

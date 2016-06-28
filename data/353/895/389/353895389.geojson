@@ -2,13 +2,14 @@
   "id": 353895389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.890875,34.056195,-78.890875,34.056195",
     "geom:latitude":34.056195,
     "geom:longitude":-78.890875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3985 Meeting St",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353895389,
-    "wof:lastmodified":1449019333,
+    "wof:lastmodified":1467082232,
     "wof:name":"Powers Health Systems Inc",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.890875,34.056195,-78.890875,34.056195],
-  "geometry": {"coordinates":[-78.890875,34.056195],"type":"Point"}
+  "bbox": [
+    -78.890875,
+    34.056195,
+    -78.890875,
+    34.056195
+],
+  "geometry": {"coordinates":[-78.89087499999999,34.056195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354048463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.00211,34.281527,-81.00211,34.281527",
     "geom:latitude":34.281527,
     "geom:longitude":-81.00211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1278 Cook Rd",
     "sg:city":"Ridgeway",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354048463,
-    "wof:lastmodified":1449066513,
+    "wof:lastmodified":1467082428,
     "wof:name":"Donald's Repair Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-81.00211,34.281527,-81.00211,34.281527],
+  "bbox": [
+    -81.00211,
+    34.281527,
+    -81.00211,
+    34.281527
+],
   "geometry": {"coordinates":[-81.00211,34.281527],"type":"Point"}
 }

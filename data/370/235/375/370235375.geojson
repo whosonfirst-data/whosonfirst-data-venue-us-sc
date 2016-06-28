@@ -2,13 +2,14 @@
   "id": 370235375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.499686,35.02172,-82.499686,35.02172",
     "geom:latitude":35.02172,
     "geom:longitude":-82.499686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 Slater Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370235375,
-    "wof:lastmodified":1449029672,
+    "wof:lastmodified":1467082311,
     "wof:name":"Marietta Woodworks",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-82.499686,35.02172,-82.499686,35.02172],
+  "bbox": [
+    -82.499686,
+    35.02172,
+    -82.499686,
+    35.02172
+],
   "geometry": {"coordinates":[-82.499686,35.02172],"type":"Point"}
 }

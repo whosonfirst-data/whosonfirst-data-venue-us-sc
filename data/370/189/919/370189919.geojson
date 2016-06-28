@@ -2,13 +2,14 @@
   "id": 370189919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.01195,32.805165,-80.01195,32.805165",
     "geom:latitude":32.805165,
     "geom:longitude":-80.01195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1660 Sam Rittenberg Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370189919,
-    "wof:lastmodified":1449031485,
+    "wof:lastmodified":1467082351,
     "wof:name":"AGE Of Aquariums",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "aquarium"
     ]
 },
-  "bbox": [-80.01195,32.805165,-80.01195,32.805165],
+  "bbox": [
+    -80.01195,
+    32.805165,
+    -80.01195,
+    32.805165
+],
   "geometry": {"coordinates":[-80.01195,32.805165],"type":"Point"}
 }

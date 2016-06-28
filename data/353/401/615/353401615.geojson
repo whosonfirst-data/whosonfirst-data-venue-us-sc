@@ -2,13 +2,14 @@
   "id": 353401615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.249254,34.762509,-81.249254,34.762509",
     "geom:latitude":34.762509,
     "geom:longitude":-81.249254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"958 Dublin Rd",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353401615,
-    "wof:lastmodified":1449020440,
+    "wof:lastmodified":1467082254,
     "wof:name":"Jarvis Colvin Logging",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-81.249254,34.762509,-81.249254,34.762509],
-  "geometry": {"coordinates":[-81.249254,34.762509],"type":"Point"}
+  "bbox": [
+    -81.249254,
+    34.762509,
+    -81.249254,
+    34.762509
+],
+  "geometry": {"coordinates":[-81.24925399999999,34.762509],"type":"Point"}
 }

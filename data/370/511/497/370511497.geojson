@@ -2,13 +2,14 @@
   "id": 370511497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.294617,34.818256,-82.294617,34.818256",
     "geom:latitude":34.818256,
     "geom:longitude":-82.294617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Thousand Oaks Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370511497,
-    "wof:lastmodified":1449030659,
+    "wof:lastmodified":1467082333,
     "wof:name":"Alpine Electronics Of America",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.294617,34.818256,-82.294617,34.818256],
+  "bbox": [
+    -82.294617,
+    34.818256,
+    -82.294617,
+    34.818256
+],
   "geometry": {"coordinates":[-82.294617,34.818256],"type":"Point"}
 }

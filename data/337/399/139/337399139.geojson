@@ -2,13 +2,14 @@
   "id": 337399139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.059206,33.832169,-79.059206,33.832169",
     "geom:latitude":33.832169,
     "geom:longitude":-79.059206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Church St",
     "sg:city":"Pawleys Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337399139,
-    "wof:lastmodified":1449027066,
+    "wof:lastmodified":1467082270,
     "wof:name":"Attorney David L Hood Pawleys",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.059206,33.832169,-79.059206,33.832169],
+  "bbox": [
+    -79.059206,
+    33.832169,
+    -79.059206,
+    33.832169
+],
   "geometry": {"coordinates":[-79.059206,33.832169],"type":"Point"}
 }

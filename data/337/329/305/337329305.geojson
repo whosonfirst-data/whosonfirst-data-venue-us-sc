@@ -2,13 +2,14 @@
   "id": 337329305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.896962,32.81737,-79.896962,32.81737",
     "geom:latitude":32.81737,
     "geom:longitude":-79.896962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Molasses Ln",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337329305,
-    "wof:lastmodified":1449027163,
+    "wof:lastmodified":1467082274,
     "wof:name":"R & H Consultants Inc",
     "wof:parent_id":85847309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-79.896962,32.81737,-79.896962,32.81737],
+  "bbox": [
+    -79.896962,
+    32.81737,
+    -79.896962,
+    32.81737
+],
   "geometry": {"coordinates":[-79.896962,32.81737],"type":"Point"}
 }

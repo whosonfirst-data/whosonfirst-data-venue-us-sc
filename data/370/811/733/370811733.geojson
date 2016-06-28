@@ -2,13 +2,14 @@
   "id": 370811733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.904135,33.708616,-78.904135,33.708616",
     "geom:latitude":33.708616,
     "geom:longitude":-78.904135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Seaboard St",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370811733,
-    "wof:lastmodified":1449030718,
+    "wof:lastmodified":1467082334,
     "wof:name":"Hi Tech Inc",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "amusement"
     ]
 },
-  "bbox": [-78.904135,33.708616,-78.904135,33.708616],
+  "bbox": [
+    -78.904135,
+    33.708616,
+    -78.904135,
+    33.708616
+],
   "geometry": {"coordinates":[-78.904135,33.708616],"type":"Point"}
 }

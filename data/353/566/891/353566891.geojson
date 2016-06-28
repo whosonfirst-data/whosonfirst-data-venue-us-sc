@@ -2,13 +2,14 @@
   "id": 353566891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.751089,32.144529,-80.751089,32.144529",
     "geom:latitude":32.144529,
     "geom:longitude":-80.751089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Lagoon Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353566891,
-    "wof:lastmodified":1449018304,
+    "wof:lastmodified":1467082211,
     "wof:name":"Warehouse Fine Wines & Spirits",
     "wof:parent_id":85819787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ale"
     ]
 },
-  "bbox": [-80.751089,32.144529,-80.751089,32.144529],
-  "geometry": {"coordinates":[-80.751089,32.144529],"type":"Point"}
+  "bbox": [
+    -80.751089,
+    32.144529,
+    -80.751089,
+    32.144529
+],
+  "geometry": {"coordinates":[-80.75108899999999,32.144529],"type":"Point"}
 }

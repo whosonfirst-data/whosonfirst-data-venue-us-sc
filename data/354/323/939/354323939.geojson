@@ -2,13 +2,14 @@
   "id": 354323939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.63247,34.535406,-82.63247,34.535406",
     "geom:latitude":34.535406,
     "geom:longitude":-82.63247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Professional Ct",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354323939,
-    "wof:lastmodified":1449066072,
+    "wof:lastmodified":1467082418,
     "wof:name":"Smith Family Dentistry",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.63247,34.535406,-82.63247,34.535406],
+  "bbox": [
+    -82.63247,
+    34.535406,
+    -82.63247,
+    34.535406
+],
   "geometry": {"coordinates":[-82.63247,34.535406],"type":"Point"}
 }

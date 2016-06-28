@@ -2,13 +2,14 @@
   "id": 353951195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.603755,34.830163,-82.603755,34.830163",
     "geom:latitude":34.830163,
     "geom:longitude":-82.603755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Main St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353951195,
-    "wof:lastmodified":1449018351,
+    "wof:lastmodified":1467082212,
     "wof:name":"Village Timepiece",
     "wof:parent_id":85832619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "parts"
     ]
 },
-  "bbox": [-82.603755,34.830163,-82.603755,34.830163],
-  "geometry": {"coordinates":[-82.603755,34.830163],"type":"Point"}
+  "bbox": [
+    -82.603755,
+    34.830163,
+    -82.603755,
+    34.830163
+],
+  "geometry": {"coordinates":[-82.60375500000001,34.830163],"type":"Point"}
 }

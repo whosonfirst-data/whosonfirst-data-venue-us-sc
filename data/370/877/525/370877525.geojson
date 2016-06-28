@@ -2,13 +2,14 @@
   "id": 370877525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.155414,34.172084,-82.155414,34.172084",
     "geom:latitude":34.172084,
     "geom:longitude":-82.155414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 Spring St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370877525,
-    "wof:lastmodified":1449031465,
+    "wof:lastmodified":1467082351,
     "wof:name":"Family Physicians Of Greenwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.155414,34.172084,-82.155414,34.172084],
-  "geometry": {"coordinates":[-82.155414,34.172084],"type":"Point"}
+  "bbox": [
+    -82.155414,
+    34.172084,
+    -82.155414,
+    34.172084
+],
+  "geometry": {"coordinates":[-82.15541399999999,34.172084],"type":"Point"}
 }

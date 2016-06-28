@@ -2,13 +2,14 @@
   "id": 186176401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.203279,33.842539,-81.203279,33.842539",
     "geom:latitude":33.842539,
     "geom:longitude":-81.203279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Glenda Ct",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186176401,
-    "wof:lastmodified":1449052125,
+    "wof:lastmodified":1467082405,
     "wof:name":"J&S Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.203279,33.842539,-81.203279,33.842539],
-  "geometry": {"coordinates":[-81.203279,33.842539],"type":"Point"}
+  "bbox": [
+    -81.203279,
+    33.842539,
+    -81.203279,
+    33.842539
+],
+  "geometry": {"coordinates":[-81.20327899999999,33.842539],"type":"Point"}
 }

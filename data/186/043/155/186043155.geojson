@@ -2,13 +2,14 @@
   "id": 186043155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.245362,34.867505,-82.245362,34.867505",
     "geom:latitude":34.867505,
     "geom:longitude":-82.245362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 S Batesville Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186043155,
-    "wof:lastmodified":1449052351,
+    "wof:lastmodified":1467082407,
     "wof:name":"T N T Logistx",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.245362,34.867505,-82.245362,34.867505],
+  "bbox": [
+    -82.245362,
+    34.867505,
+    -82.245362,
+    34.867505
+],
   "geometry": {"coordinates":[-82.245362,34.867505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353779363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.902408,33.672435,-78.902408,33.672435",
     "geom:latitude":33.672435,
     "geom:longitude":-78.902408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 S Ocean Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353779363,
-    "wof:lastmodified":1449018645,
+    "wof:lastmodified":1467082218,
     "wof:name":"San A Bel Towers Maint Off",
     "wof:parent_id":85826641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manager"
     ]
 },
-  "bbox": [-78.902408,33.672435,-78.902408,33.672435],
-  "geometry": {"coordinates":[-78.902408,33.672435],"type":"Point"}
+  "bbox": [
+    -78.902408,
+    33.672435,
+    -78.902408,
+    33.672435
+],
+  "geometry": {"coordinates":[-78.90240799999999,33.672435],"type":"Point"}
 }

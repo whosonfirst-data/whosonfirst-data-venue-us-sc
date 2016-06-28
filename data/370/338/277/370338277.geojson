@@ -2,13 +2,14 @@
   "id": 370338277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.060748,35.010765,-81.060748,35.010765",
     "geom:latitude":35.010765,
     "geom:longitude":-81.060748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4621 Mount Gallant Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370338277,
-    "wof:lastmodified":1449030270,
+    "wof:lastmodified":1467082324,
     "wof:name":"Museum Of York County",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.060748,35.010765,-81.060748,35.010765],
+  "bbox": [
+    -81.060748,
+    35.010765,
+    -81.060748,
+    35.010765
+],
   "geometry": {"coordinates":[-81.060748,35.010765],"type":"Point"}
 }

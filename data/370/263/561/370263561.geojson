@@ -2,13 +2,14 @@
   "id": 370263561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.054525,33.012131,-80.054525,33.012131",
     "geom:latitude":33.012131,
     "geom:longitude":-80.054525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Cherry Hill Ave",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370263561,
-    "wof:lastmodified":1449032375,
+    "wof:lastmodified":1467082371,
     "wof:name":"Bounds & Sons Refrigeration",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigerating"
     ]
 },
-  "bbox": [-80.054525,33.012131,-80.054525,33.012131],
+  "bbox": [
+    -80.054525,
+    33.012131,
+    -80.054525,
+    33.012131
+],
   "geometry": {"coordinates":[-80.054525,33.012131],"type":"Point"}
 }

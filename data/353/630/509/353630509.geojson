@@ -2,13 +2,14 @@
   "id": 353630509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.026647,33.593705,-79.026647,33.593705",
     "geom:latitude":33.593705,
     "geom:longitude":-79.026647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9739 Kings Grant Dr",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353630509,
-    "wof:lastmodified":1449019160,
+    "wof:lastmodified":1467082228,
     "wof:name":"Blackington Window Cleaning",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-79.026647,33.593705,-79.026647,33.593705],
+  "bbox": [
+    -79.026647,
+    33.593705,
+    -79.026647,
+    33.593705
+],
   "geometry": {"coordinates":[-79.026647,33.593705],"type":"Point"}
 }

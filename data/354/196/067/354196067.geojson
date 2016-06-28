@@ -2,13 +2,14 @@
   "id": 354196067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.203855,33.909219,-81.203855,33.909219",
     "geom:latitude":33.909219,
     "geom:longitude":-81.203855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5390 Platt Springs Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354196067,
-    "wof:lastmodified":1449066305,
+    "wof:lastmodified":1467082423,
     "wof:name":"Aunt Faye's & G R's Country",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.203855,33.909219,-81.203855,33.909219],
+  "bbox": [
+    -81.203855,
+    33.909219,
+    -81.203855,
+    33.909219
+],
   "geometry": {"coordinates":[-81.203855,33.909219],"type":"Point"}
 }

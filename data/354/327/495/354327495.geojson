@@ -2,13 +2,14 @@
   "id": 354327495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.035615,34.942639,-81.035615,34.942639",
     "geom:latitude":34.942639,
     "geom:longitude":-81.035615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1061 Camden Ave",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354327495,
-    "wof:lastmodified":1449066057,
+    "wof:lastmodified":1467082417,
     "wof:name":"Champions Gymnastics Training",
     "wof:parent_id":85806915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gymnastic"
     ]
 },
-  "bbox": [-81.035615,34.942639,-81.035615,34.942639],
-  "geometry": {"coordinates":[-81.035615,34.942639],"type":"Point"}
+  "bbox": [
+    -81.035615,
+    34.942639,
+    -81.035615,
+    34.942639
+],
+  "geometry": {"coordinates":[-81.03561500000001,34.942639],"type":"Point"}
 }

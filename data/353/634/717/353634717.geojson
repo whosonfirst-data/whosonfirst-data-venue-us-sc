@@ -2,13 +2,14 @@
   "id": 353634717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.070362,35.107384,-81.070362,35.107384",
     "geom:latitude":35.107384,
     "geom:longitude":-81.070362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Timberidge Dr",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353634717,
-    "wof:lastmodified":1449019479,
+    "wof:lastmodified":1467082235,
     "wof:name":"Nase",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-81.070362,35.107384,-81.070362,35.107384],
+  "bbox": [
+    -81.070362,
+    35.107384,
+    -81.070362,
+    35.107384
+],
   "geometry": {"coordinates":[-81.070362,35.107384],"type":"Point"}
 }

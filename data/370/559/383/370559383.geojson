@@ -2,13 +2,14 @@
   "id": 370559383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.258667,34.719097,-82.258667,34.719097",
     "geom:latitude":34.719097,
     "geom:longitude":-82.258667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Davenport Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370559383,
-    "wof:lastmodified":1449031743,
+    "wof:lastmodified":1467082357,
     "wof:name":"Life Spring Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.258667,34.719097,-82.258667,34.719097],
+  "bbox": [
+    -82.258667,
+    34.719097,
+    -82.258667,
+    34.719097
+],
   "geometry": {"coordinates":[-82.258667,34.719097],"type":"Point"}
 }

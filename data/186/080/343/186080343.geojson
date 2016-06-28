@@ -2,13 +2,14 @@
   "id": 186080343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.958488,33.686683,-78.958488,33.686683",
     "geom:latitude":33.686683,
     "geom:longitude":-78.958488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3321 Macklen Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186080343,
-    "wof:lastmodified":1449052965,
+    "wof:lastmodified":1467082412,
     "wof:name":"Car Depot",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-78.958488,33.686683,-78.958488,33.686683],
+  "bbox": [
+    -78.958488,
+    33.686683,
+    -78.958488,
+    33.686683
+],
   "geometry": {"coordinates":[-78.958488,33.686683],"type":"Point"}
 }

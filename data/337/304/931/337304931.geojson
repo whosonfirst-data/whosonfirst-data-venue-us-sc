@@ -2,13 +2,14 @@
   "id": 337304931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.085209,34.876406,-81.085209,34.876406",
     "geom:latitude":34.876406,
     "geom:longitude":-81.085209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 W Rambo Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337304931,
-    "wof:lastmodified":1449027552,
+    "wof:lastmodified":1467082288,
     "wof:name":"A Rockland Enterprise",
     "wof:parent_id":85851537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "importer"
     ]
 },
-  "bbox": [-81.085209,34.876406,-81.085209,34.876406],
-  "geometry": {"coordinates":[-81.085209,34.876406],"type":"Point"}
+  "bbox": [
+    -81.085209,
+    34.876406,
+    -81.085209,
+    34.876406
+],
+  "geometry": {"coordinates":[-81.08520900000001,34.876406],"type":"Point"}
 }

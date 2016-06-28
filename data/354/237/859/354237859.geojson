@@ -2,13 +2,14 @@
   "id": 354237859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.735937,33.515373,-81.735937,33.515373",
     "geom:latitude":33.515373,
     "geom:longitude":-81.735937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 Pine Logging Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354237859,
-    "wof:lastmodified":1449065981,
+    "wof:lastmodified":1467082415,
     "wof:name":"Berry's Pool & Outdoor Oasis",
     "wof:parent_id":85812071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-81.735937,33.515373,-81.735937,33.515373],
-  "geometry": {"coordinates":[-81.735937,33.515373],"type":"Point"}
+  "bbox": [
+    -81.735937,
+    33.515373,
+    -81.735937,
+    33.515373
+],
+  "geometry": {"coordinates":[-81.73593700000001,33.515373],"type":"Point"}
 }

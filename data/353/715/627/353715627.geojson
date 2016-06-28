@@ -2,13 +2,14 @@
   "id": 353715627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.071863,34.76597,-83.071863,34.76597",
     "geom:latitude":34.76597,
     "geom:longitude":-83.071863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 S Pine St",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353715627,
-    "wof:lastmodified":1449020312,
+    "wof:lastmodified":1467082252,
     "wof:name":"Oconee County Marriage License",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.071863,34.76597,-83.071863,34.76597],
-  "geometry": {"coordinates":[-83.071863,34.76597],"type":"Point"}
+  "bbox": [
+    -83.071863,
+    34.76597,
+    -83.071863,
+    34.76597
+],
+  "geometry": {"coordinates":[-83.07186299999999,34.76597],"type":"Point"}
 }

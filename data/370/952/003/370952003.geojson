@@ -2,13 +2,14 @@
   "id": 370952003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.004968,32.878627,-80.004968,32.878627",
     "geom:latitude":32.878627,
     "geom:longitude":-80.004968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4752 Rivers Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370952003,
-    "wof:lastmodified":1449031531,
+    "wof:lastmodified":1467082352,
     "wof:name":"Woods Tax Svc",
     "wof:parent_id":85819163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-80.004968,32.878627,-80.004968,32.878627],
-  "geometry": {"coordinates":[-80.004968,32.878627],"type":"Point"}
+  "bbox": [
+    -80.004968,
+    32.878627,
+    -80.004968,
+    32.878627
+],
+  "geometry": {"coordinates":[-80.00496800000001,32.878627],"type":"Point"}
 }

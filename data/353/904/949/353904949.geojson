@@ -2,13 +2,14 @@
   "id": 353904949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.929353,34.950067,-81.929353,34.950067",
     "geom:latitude":34.950067,
     "geom:longitude":-81.929353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Main St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353904949,
-    "wof:lastmodified":1449020869,
+    "wof:lastmodified":1467082263,
     "wof:name":"Upstate Forever Of Spartanburg",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "org"
     ]
 },
-  "bbox": [-81.929353,34.950067,-81.929353,34.950067],
-  "geometry": {"coordinates":[-81.929353,34.950067],"type":"Point"}
+  "bbox": [
+    -81.929353,
+    34.950067,
+    -81.929353,
+    34.950067
+],
+  "geometry": {"coordinates":[-81.92935300000001,34.950067],"type":"Point"}
 }

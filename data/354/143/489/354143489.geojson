@@ -2,13 +2,14 @@
   "id": 354143489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.351183,33.89018,-80.351183,33.89018",
     "geom:latitude":33.89018,
     "geom:longitude":-80.351183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1155 S Guignard Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":354143489,
-    "wof:lastmodified":1449067360,
+    "wof:lastmodified":1467082447,
     "wof:name":"Mc Call's Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.351183,33.89018,-80.351183,33.89018],
-  "geometry": {"coordinates":[-80.351183,33.89018],"type":"Point"}
+  "bbox": [
+    -80.351183,
+    33.89018,
+    -80.351183,
+    33.89018
+],
+  "geometry": {"coordinates":[-80.35118300000001,33.89018],"type":"Point"}
 }

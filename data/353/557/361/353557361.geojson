@@ -2,13 +2,14 @@
   "id": 353557361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.934261,32.786691,-79.934261,32.786691",
     "geom:latitude":32.786691,
     "geom:longitude":-79.934261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Calhoun St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353557361,
-    "wof:lastmodified":1449020065,
+    "wof:lastmodified":1467082247,
     "wof:name":"Kim's Express Korean & Jpns",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.934261,32.786691,-79.934261,32.786691],
-  "geometry": {"coordinates":[-79.934261,32.786691],"type":"Point"}
+  "bbox": [
+    -79.934261,
+    32.786691,
+    -79.934261,
+    32.786691
+],
+  "geometry": {"coordinates":[-79.93426100000001,32.786691],"type":"Point"}
 }

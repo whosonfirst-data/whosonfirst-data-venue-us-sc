@@ -2,13 +2,14 @@
   "id": 354206287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.254043,34.727921,-82.254043,34.727921",
     "geom:latitude":34.727921,
     "geom:longitude":-82.254043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 SE Main St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354206287,
-    "wof:lastmodified":1449067136,
+    "wof:lastmodified":1467082442,
     "wof:name":"GHS Allergy Specialist",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.254043,34.727921,-82.254043,34.727921],
+  "bbox": [
+    -82.254043,
+    34.727921,
+    -82.254043,
+    34.727921
+],
   "geometry": {"coordinates":[-82.254043,34.727921],"type":"Point"}
 }

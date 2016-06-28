@@ -2,13 +2,14 @@
   "id": 185918545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.026439,32.782183,-80.026439,32.782183",
     "geom:latitude":32.782183,
     "geom:longitude":-80.026439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Stinson Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185918545,
-    "wof:lastmodified":1449007680,
+    "wof:lastmodified":1467082199,
     "wof:name":"John David Doose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.026439,32.782183,-80.026439,32.782183],
+  "bbox": [
+    -80.026439,
+    32.782183,
+    -80.026439,
+    32.782183
+],
   "geometry": {"coordinates":[-80.026439,32.782183],"type":"Point"}
 }

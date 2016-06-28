@@ -2,13 +2,14 @@
   "id": 353525147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.08047,32.858468,-80.08047,32.858468",
     "geom:latitude":32.858468,
     "geom:longitude":-80.08047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3102 Waterville Pl",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353525147,
-    "wof:lastmodified":1449020294,
+    "wof:lastmodified":1467082251,
     "wof:name":"Source Media",
     "wof:parent_id":85812627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "multimedia"
     ]
 },
-  "bbox": [-80.08047,32.858468,-80.08047,32.858468],
-  "geometry": {"coordinates":[-80.08047,32.858468],"type":"Point"}
+  "bbox": [
+    -80.08047,
+    32.858468,
+    -80.08047,
+    32.858468
+],
+  "geometry": {"coordinates":[-80.08047000000001,32.858468],"type":"Point"}
 }

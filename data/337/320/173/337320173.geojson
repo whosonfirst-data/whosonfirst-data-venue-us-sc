@@ -2,13 +2,14 @@
   "id": 337320173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.958633,34.975058,-81.958633,34.975058",
     "geom:latitude":34.975058,
     "geom:longitude":-81.958633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1260 Asheville Hwy",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337320173,
-    "wof:lastmodified":1449027126,
+    "wof:lastmodified":1467082272,
     "wof:name":"Carolina Insurance",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.958633,34.975058,-81.958633,34.975058],
-  "geometry": {"coordinates":[-81.958633,34.975058],"type":"Point"}
+  "bbox": [
+    -81.958633,
+    34.975058,
+    -81.958633,
+    34.975058
+],
+  "geometry": {"coordinates":[-81.95863300000001,34.975058],"type":"Point"}
 }

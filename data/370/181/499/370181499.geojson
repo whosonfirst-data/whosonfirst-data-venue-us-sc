@@ -2,13 +2,14 @@
   "id": 370181499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.169949,35.156178,-82.169949,35.156178",
     "geom:latitude":35.156178,
     "geom:longitude":-82.169949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1351 S Shamrock Ave",
     "sg:city":"Landrum",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370181499,
-    "wof:lastmodified":1449031164,
+    "wof:lastmodified":1467082344,
     "wof:name":"Rmc Cemex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "block"
     ]
 },
-  "bbox": [-82.169949,35.156178,-82.169949,35.156178],
+  "bbox": [
+    -82.169949,
+    35.156178,
+    -82.169949,
+    35.156178
+],
   "geometry": {"coordinates":[-82.169949,35.156178],"type":"Point"}
 }

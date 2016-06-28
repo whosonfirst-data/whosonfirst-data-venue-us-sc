@@ -2,13 +2,14 @@
   "id": 370766037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.685494,34.903232,-82.685494,34.903232",
     "geom:latitude":34.903232,
     "geom:longitude":-82.685494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Pumpkintown Hwy",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370766037,
-    "wof:lastmodified":1449029024,
+    "wof:lastmodified":1467082297,
     "wof:name":"Yardifacts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.685494,34.903232,-82.685494,34.903232],
-  "geometry": {"coordinates":[-82.685494,34.903232],"type":"Point"}
+  "bbox": [
+    -82.685494,
+    34.903232,
+    -82.685494,
+    34.903232
+],
+  "geometry": {"coordinates":[-82.68549400000001,34.903232],"type":"Point"}
 }

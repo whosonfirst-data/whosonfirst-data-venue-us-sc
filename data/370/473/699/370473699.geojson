@@ -2,13 +2,14 @@
   "id": 370473699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.280566,34.766263,-82.280566,34.766263",
     "geom:latitude":34.766263,
     "geom:longitude":-82.280566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 Apple Blossom Ln",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370473699,
-    "wof:lastmodified":1449029795,
+    "wof:lastmodified":1467082313,
     "wof:name":"Jeff Richardson Co",
     "wof:parent_id":85834923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.280566,34.766263,-82.280566,34.766263],
-  "geometry": {"coordinates":[-82.280566,34.766263],"type":"Point"}
+  "bbox": [
+    -82.280566,
+    34.766263,
+    -82.280566,
+    34.766263
+],
+  "geometry": {"coordinates":[-82.28056599999999,34.766263],"type":"Point"}
 }

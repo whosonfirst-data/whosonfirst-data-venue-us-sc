@@ -2,13 +2,14 @@
   "id": 354406333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.098514,34.403193,-80.098514,34.403193",
     "geom:latitude":34.403193,
     "geom:longitude":-80.098514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 Lakeview Blvd",
     "sg:city":"Hartsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354406333,
-    "wof:lastmodified":1449066850,
+    "wof:lastmodified":1467082435,
     "wof:name":"Hattie's Originals",
     "wof:parent_id":85825479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.098514,34.403193,-80.098514,34.403193],
-  "geometry": {"coordinates":[-80.098514,34.403193],"type":"Point"}
+  "bbox": [
+    -80.098514,
+    34.403193,
+    -80.098514,
+    34.403193
+],
+  "geometry": {"coordinates":[-80.09851399999999,34.403193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370404659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.120095,33.440429,-81.120095,33.440429",
     "geom:latitude":33.440429,
     "geom:longitude":-81.120095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 House Top Rd",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370404659,
-    "wof:lastmodified":1449031324,
+    "wof:lastmodified":1467082348,
     "wof:name":"Daniel Jenkins Concrete Finish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.120095,33.440429,-81.120095,33.440429],
-  "geometry": {"coordinates":[-81.120095,33.440429],"type":"Point"}
+  "bbox": [
+    -81.120095,
+    33.440429,
+    -81.120095,
+    33.440429
+],
+  "geometry": {"coordinates":[-81.12009500000001,33.440429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353699633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.607036,32.492459,-80.607036,32.492459",
     "geom:latitude":32.492459,
     "geom:longitude":-80.607036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Honeysuckle Ln",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353699633,
-    "wof:lastmodified":1449018603,
+    "wof:lastmodified":1467082217,
     "wof:name":"Professional Exteriors",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.607036,32.492459,-80.607036,32.492459],
-  "geometry": {"coordinates":[-80.607036,32.492459],"type":"Point"}
+  "bbox": [
+    -80.607036,
+    32.492459,
+    -80.607036,
+    32.492459
+],
+  "geometry": {"coordinates":[-80.60703599999999,32.492459],"type":"Point"}
 }

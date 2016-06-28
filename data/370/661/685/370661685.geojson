@@ -2,13 +2,14 @@
   "id": 370661685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.933536,34.053484,-78.933536,34.053484",
     "geom:latitude":34.053484,
     "geom:longitude":-78.933536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Dove Rd",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370661685,
-    "wof:lastmodified":1449032115,
+    "wof:lastmodified":1467082365,
     "wof:name":"Sod Farm Inc",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sodding"
     ]
 },
-  "bbox": [-78.933536,34.053484,-78.933536,34.053484],
+  "bbox": [
+    -78.933536,
+    34.053484,
+    -78.933536,
+    34.053484
+],
   "geometry": {"coordinates":[-78.933536,34.053484],"type":"Point"}
 }

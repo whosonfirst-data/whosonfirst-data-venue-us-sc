@@ -2,13 +2,14 @@
   "id": 370172227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.482366,34.788536,-82.482366,34.788536",
     "geom:latitude":34.788536,
     "geom:longitude":-82.482366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3425 Earle E Morris Jr Hwy",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370172227,
-    "wof:lastmodified":1449030445,
+    "wof:lastmodified":1467082328,
     "wof:name":"Sterling Dentistry",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.482366,34.788536,-82.482366,34.788536],
+  "bbox": [
+    -82.482366,
+    34.788536,
+    -82.482366,
+    34.788536
+],
   "geometry": {"coordinates":[-82.482366,34.788536],"type":"Point"}
 }

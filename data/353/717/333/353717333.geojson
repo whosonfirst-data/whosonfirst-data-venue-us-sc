@@ -2,13 +2,14 @@
   "id": 353717333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.257267,34.741513,-82.257267,34.741513",
     "geom:latitude":34.741513,
     "geom:longitude":-82.257267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 N Main St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353717333,
-    "wof:lastmodified":1449018315,
+    "wof:lastmodified":1467082211,
     "wof:name":"Carolina Surveying & Mapping",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-82.257267,34.741513,-82.257267,34.741513],
+  "bbox": [
+    -82.257267,
+    34.741513,
+    -82.257267,
+    34.741513
+],
   "geometry": {"coordinates":[-82.257267,34.741513],"type":"Point"}
 }

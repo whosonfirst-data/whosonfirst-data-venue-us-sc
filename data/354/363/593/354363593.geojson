@@ -2,13 +2,14 @@
   "id": 354363593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.072718,33.088723,-80.072718,33.088723",
     "geom:latitude":33.088723,
     "geom:longitude":-80.072718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Cypress Gardens Rd",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354363593,
-    "wof:lastmodified":1449067466,
+    "wof:lastmodified":1467082449,
     "wof:name":"Cypress Point PAR 3",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "golf"
     ]
 },
-  "bbox": [-80.072718,33.088723,-80.072718,33.088723],
-  "geometry": {"coordinates":[-80.072718,33.088723],"type":"Point"}
+  "bbox": [
+    -80.072718,
+    33.088723,
+    -80.072718,
+    33.088723
+],
+  "geometry": {"coordinates":[-80.07271799999999,33.088723],"type":"Point"}
 }

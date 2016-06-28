@@ -2,13 +2,14 @@
   "id": 354408151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.211148,33.840954,-81.211148,33.840954",
     "geom:latitude":33.840954,
     "geom:longitude":-81.211148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6256 Edmund Hwy",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354408151,
-    "wof:lastmodified":1449066150,
+    "wof:lastmodified":1467082419,
     "wof:name":"Edmund First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.211148,33.840954,-81.211148,33.840954],
-  "geometry": {"coordinates":[-81.211148,33.840954],"type":"Point"}
+  "bbox": [
+    -81.211148,
+    33.840954,
+    -81.211148,
+    33.840954
+],
+  "geometry": {"coordinates":[-81.21114799999999,33.840954],"type":"Point"}
 }

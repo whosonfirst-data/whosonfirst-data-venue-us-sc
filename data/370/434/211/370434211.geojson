@@ -2,13 +2,14 @@
   "id": 370434211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.662996,35.091348,-81.662996,35.091348",
     "geom:latitude":35.091348,
     "geom:longitude":-81.662996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 W Floyd Baker Blvd",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370434211,
-    "wof:lastmodified":1449029828,
+    "wof:lastmodified":1467082314,
     "wof:name":"Talking Newspaper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-81.662996,35.091348,-81.662996,35.091348],
-  "geometry": {"coordinates":[-81.662996,35.091348],"type":"Point"}
+  "bbox": [
+    -81.662996,
+    35.091348,
+    -81.662996,
+    35.091348
+],
+  "geometry": {"coordinates":[-81.66299600000001,35.091348],"type":"Point"}
 }

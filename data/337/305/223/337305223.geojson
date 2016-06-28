@@ -2,13 +2,14 @@
   "id": 337305223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.930022,34.966718,-81.930022,34.966718",
     "geom:latitude":34.966718,
     "geom:longitude":-81.930022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Garner Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337305223,
-    "wof:lastmodified":1449027046,
+    "wof:lastmodified":1467082269,
     "wof:name":"Bronco's Mexican Rstrnt",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.930022,34.966718,-81.930022,34.966718],
-  "geometry": {"coordinates":[-81.930022,34.966718],"type":"Point"}
+  "bbox": [
+    -81.930022,
+    34.966718,
+    -81.930022,
+    34.966718
+],
+  "geometry": {"coordinates":[-81.93002199999999,34.966718],"type":"Point"}
 }

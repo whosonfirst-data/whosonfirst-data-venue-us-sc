@@ -2,13 +2,14 @@
   "id": 353750451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.94026,32.791643,-79.94026,32.791643",
     "geom:latitude":32.791643,
     "geom:longitude":-79.94026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 King St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353750451,
-    "wof:lastmodified":1449019826,
+    "wof:lastmodified":1467082242,
     "wof:name":"Georges Loan",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pawnshop"
     ]
 },
-  "bbox": [-79.94026,32.791643,-79.94026,32.791643],
-  "geometry": {"coordinates":[-79.94026,32.791643],"type":"Point"}
+  "bbox": [
+    -79.94026,
+    32.791643,
+    -79.94026,
+    32.791643
+],
+  "geometry": {"coordinates":[-79.94025999999999,32.791643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337543039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.837429,34.683724,-82.837429,34.683724",
     "geom:latitude":34.683724,
     "geom:longitude":-82.837429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"382 College Ave",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337543039,
-    "wof:lastmodified":1449027081,
+    "wof:lastmodified":1467082270,
     "wof:name":"Susan's Hallmark Shop",
     "wof:parent_id":85808859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-82.837429,34.683724,-82.837429,34.683724],
+  "bbox": [
+    -82.837429,
+    34.683724,
+    -82.837429,
+    34.683724
+],
   "geometry": {"coordinates":[-82.837429,34.683724],"type":"Point"}
 }

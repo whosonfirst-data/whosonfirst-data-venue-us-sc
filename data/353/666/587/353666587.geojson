@@ -2,13 +2,14 @@
   "id": 353666587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.666342,34.821858,-81.666342,34.821858",
     "geom:latitude":34.821858,
     "geom:longitude":-81.666342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1029 Jonesville Hwy",
     "sg:city":"Jonesville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353666587,
-    "wof:lastmodified":1449019189,
+    "wof:lastmodified":1467082229,
     "wof:name":"Country Crossroads Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "night"
     ]
 },
-  "bbox": [-81.666342,34.821858,-81.666342,34.821858],
+  "bbox": [
+    -81.666342,
+    34.821858,
+    -81.666342,
+    34.821858
+],
   "geometry": {"coordinates":[-81.666342,34.821858],"type":"Point"}
 }

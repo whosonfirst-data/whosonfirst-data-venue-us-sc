@@ -2,13 +2,14 @@
   "id": 354374761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.941408,34.96638,-81.941408,34.96638",
     "geom:latitude":34.96638,
     "geom:longitude":-81.941408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"853 N Church St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354374761,
-    "wof:lastmodified":1449066660,
+    "wof:lastmodified":1467082431,
     "wof:name":"Regional Maternal Fetal Med",
     "wof:parent_id":85826389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.941408,34.96638,-81.941408,34.96638],
+  "bbox": [
+    -81.941408,
+    34.96638,
+    -81.941408,
+    34.96638
+],
   "geometry": {"coordinates":[-81.941408,34.96638],"type":"Point"}
 }

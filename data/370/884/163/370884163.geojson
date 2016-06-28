@@ -2,13 +2,14 @@
   "id": 370884163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.974429,32.891328,-79.974429,32.891328",
     "geom:latitude":32.891328,
     "geom:longitude":-79.974429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1067 Lincoln Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370884163,
-    "wof:lastmodified":1449031828,
+    "wof:lastmodified":1467082359,
     "wof:name":"Coastal Concrete Of Charleston",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "concrete"
     ]
 },
-  "bbox": [-79.974429,32.891328,-79.974429,32.891328],
+  "bbox": [
+    -79.974429,
+    32.891328,
+    -79.974429,
+    32.891328
+],
   "geometry": {"coordinates":[-79.974429,32.891328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370942445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.43797,34.893151,-82.43797,34.893151",
     "geom:latitude":34.893151,
     "geom:longitude":-82.43797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Pinsley Cir",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370942445,
-    "wof:lastmodified":1449030638,
+    "wof:lastmodified":1467082332,
     "wof:name":"Poterala Manufacturing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-82.43797,34.893151,-82.43797,34.893151],
-  "geometry": {"coordinates":[-82.43797,34.893151],"type":"Point"}
+  "bbox": [
+    -82.43797,
+    34.893151,
+    -82.43797,
+    34.893151
+],
+  "geometry": {"coordinates":[-82.43797000000001,34.893151],"type":"Point"}
 }

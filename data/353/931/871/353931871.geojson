@@ -2,13 +2,14 @@
   "id": 353931871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.064793,34.065907,-79.064793,34.065907",
     "geom:latitude":34.065907,
     "geom:longitude":-79.064793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5401 Barnhill Rd",
     "sg:city":"Galivants Ferry",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353931871,
-    "wof:lastmodified":1449020575,
+    "wof:lastmodified":1467082257,
     "wof:name":"Styles By Paula",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.064793,34.065907,-79.064793,34.065907],
-  "geometry": {"coordinates":[-79.064793,34.065907],"type":"Point"}
+  "bbox": [
+    -79.064793,
+    34.065907,
+    -79.064793,
+    34.065907
+],
+  "geometry": {"coordinates":[-79.06479299999999,34.065907],"type":"Point"}
 }

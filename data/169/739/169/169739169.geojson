@@ -2,13 +2,14 @@
   "id": 169739169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.404174,34.852583,-82.404174,34.852583",
     "geom:latitude":34.852583,
     "geom:longitude":-82.404174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 W Washington St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":169739169,
-    "wof:lastmodified":1449034062,
+    "wof:lastmodified":1467082382,
     "wof:name":"National Christian",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "athletic"
     ]
 },
-  "bbox": [-82.404174,34.852583,-82.404174,34.852583],
+  "bbox": [
+    -82.404174,
+    34.852583,
+    -82.404174,
+    34.852583
+],
   "geometry": {"coordinates":[-82.404174,34.852583],"type":"Point"}
 }

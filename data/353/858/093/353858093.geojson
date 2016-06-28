@@ -2,13 +2,14 @@
   "id": 353858093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.727663,33.510541,-81.727663,33.510541",
     "geom:latitude":33.510541,
     "geom:longitude":-81.727663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"462 Greenwich Dr",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353858093,
-    "wof:lastmodified":1449018506,
+    "wof:lastmodified":1467082215,
     "wof:name":"Fresh Perspectives",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.727663,33.510541,-81.727663,33.510541],
-  "geometry": {"coordinates":[-81.727663,33.510541],"type":"Point"}
+  "bbox": [
+    -81.727663,
+    33.510541,
+    -81.727663,
+    33.510541
+],
+  "geometry": {"coordinates":[-81.72766300000001,33.510541],"type":"Point"}
 }

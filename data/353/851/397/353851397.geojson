@@ -2,13 +2,14 @@
   "id": 353851397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.202784,34.761262,-82.202784,34.761262",
     "geom:latitude":34.761262,
     "geom:longitude":-82.202784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Lee Vaughn Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353851397,
-    "wof:lastmodified":1449019922,
+    "wof:lastmodified":1467082244,
     "wof:name":"Church In Simpsonville",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.202784,34.761262,-82.202784,34.761262],
-  "geometry": {"coordinates":[-82.202784,34.761262],"type":"Point"}
+  "bbox": [
+    -82.202784,
+    34.761262,
+    -82.202784,
+    34.761262
+],
+  "geometry": {"coordinates":[-82.20278399999999,34.761262],"type":"Point"}
 }

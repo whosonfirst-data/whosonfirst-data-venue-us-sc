@@ -2,13 +2,14 @@
   "id": 353706007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.756436,32.802467,-79.756436,32.802467",
     "geom:latitude":32.802467,
     "geom:longitude":-79.756436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Morgan's Cove Dr",
     "sg:city":"Isle Of Palms",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353706007,
-    "wof:lastmodified":1449018438,
+    "wof:lastmodified":1467082213,
     "wof:name":"Ans Interiors",
     "wof:parent_id":85819989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.756436,32.802467,-79.756436,32.802467],
-  "geometry": {"coordinates":[-79.756436,32.802467],"type":"Point"}
+  "bbox": [
+    -79.756436,
+    32.802467,
+    -79.756436,
+    32.802467
+],
+  "geometry": {"coordinates":[-79.75643599999999,32.802467],"type":"Point"}
 }

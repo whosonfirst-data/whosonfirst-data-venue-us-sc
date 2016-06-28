@@ -2,13 +2,14 @@
   "id": 185851851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.951895,33.976765,-80.951895,33.976765",
     "geom:latitude":33.976765,
     "geom:longitude":-80.951895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 Pepper St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185851851,
-    "wof:lastmodified":1449007660,
+    "wof:lastmodified":1467082198,
     "wof:name":"Jeffery Archery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "archery"
     ]
 },
-  "bbox": [-80.951895,33.976765,-80.951895,33.976765],
-  "geometry": {"coordinates":[-80.951895,33.976765],"type":"Point"}
+  "bbox": [
+    -80.951895,
+    33.976765,
+    -80.951895,
+    33.976765
+],
+  "geometry": {"coordinates":[-80.95189499999999,33.976765],"type":"Point"}
 }

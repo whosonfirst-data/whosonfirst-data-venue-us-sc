@@ -2,13 +2,14 @@
   "id": 186001529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.991133,32.748393,-79.991133,32.748393",
     "geom:latitude":32.748393,
     "geom:longitude":-79.991133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2047 Woodland Shores Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186001529,
-    "wof:lastmodified":1449051007,
+    "wof:lastmodified":1467082394,
     "wof:name":"Able Electrical Construction",
     "wof:parent_id":85810731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.991133,32.748393,-79.991133,32.748393],
+  "bbox": [
+    -79.991133,
+    32.748393,
+    -79.991133,
+    32.748393
+],
   "geometry": {"coordinates":[-79.991133,32.748393],"type":"Point"}
 }

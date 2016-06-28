@@ -2,13 +2,14 @@
   "id": 186047971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.360953,33.650891,-81.360953,33.650891",
     "geom:latitude":33.650891,
     "geom:longitude":-81.360953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Earle St N",
     "sg:city":"Wagener",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186047971,
-    "wof:lastmodified":1449052103,
+    "wof:lastmodified":1467082404,
     "wof:name":"Wagener Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.360953,33.650891,-81.360953,33.650891],
-  "geometry": {"coordinates":[-81.360953,33.650891],"type":"Point"}
+  "bbox": [
+    -81.360953,
+    33.650891,
+    -81.360953,
+    33.650891
+],
+  "geometry": {"coordinates":[-81.36095299999999,33.650891],"type":"Point"}
 }

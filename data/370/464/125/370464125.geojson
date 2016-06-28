@@ -2,13 +2,14 @@
   "id": 370464125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.925578,35.024206,-81.925578,35.024206",
     "geom:latitude":35.024206,
     "geom:longitude":-81.925578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1551 Bryant Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370464125,
-    "wof:lastmodified":1449030018,
+    "wof:lastmodified":1467082319,
     "wof:name":"Fairview Baptist Church",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.925578,35.024206,-81.925578,35.024206],
+  "bbox": [
+    -81.925578,
+    35.024206,
+    -81.925578,
+    35.024206
+],
   "geometry": {"coordinates":[-81.925578,35.024206],"type":"Point"}
 }

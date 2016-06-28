@@ -2,13 +2,14 @@
   "id": 354416417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.952064,33.975551,-80.952064,33.975551",
     "geom:latitude":33.975551,
     "geom:longitude":-80.952064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"845 Leesburg Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":354416417,
-    "wof:lastmodified":1449066677,
+    "wof:lastmodified":1467082431,
     "wof:name":"Greenlawn Memorial Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-80.952064,33.975551,-80.952064,33.975551],
-  "geometry": {"coordinates":[-80.952064,33.975551],"type":"Point"}
+  "bbox": [
+    -80.952064,
+    33.975551,
+    -80.952064,
+    33.975551
+],
+  "geometry": {"coordinates":[-80.95206399999999,33.975551],"type":"Point"}
 }

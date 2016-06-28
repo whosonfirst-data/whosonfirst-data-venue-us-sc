@@ -2,13 +2,14 @@
   "id": 370853673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.882056,34.698241,-79.882056,34.698241",
     "geom:latitude":34.698241,
     "geom:longitude":-79.882056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Market St",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370853673,
-    "wof:lastmodified":1449030454,
+    "wof:lastmodified":1467082328,
     "wof:name":"Mary's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.882056,34.698241,-79.882056,34.698241],
-  "geometry": {"coordinates":[-79.882056,34.698241],"type":"Point"}
+  "bbox": [
+    -79.882056,
+    34.698241,
+    -79.882056,
+    34.698241
+],
+  "geometry": {"coordinates":[-79.88205600000001,34.698241],"type":"Point"}
 }

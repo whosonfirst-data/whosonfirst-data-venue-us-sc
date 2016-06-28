@@ -2,13 +2,14 @@
   "id": 370628645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.948591,32.727624,-79.948591,32.727624",
     "geom:latitude":32.727624,
     "geom:longitude":-79.948591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1248 Camp Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370628645,
-    "wof:lastmodified":1449031830,
+    "wof:lastmodified":1467082359,
     "wof:name":"James Island Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.948591,32.727624,-79.948591,32.727624],
-  "geometry": {"coordinates":[-79.948591,32.727624],"type":"Point"}
+  "bbox": [
+    -79.948591,
+    32.727624,
+    -79.948591,
+    32.727624
+],
+  "geometry": {"coordinates":[-79.94859099999999,32.727624],"type":"Point"}
 }

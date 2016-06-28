@@ -2,13 +2,14 @@
   "id": 185975491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.352532,33.932736,-80.352532,33.932736",
     "geom:latitude":33.932736,
     "geom:longitude":-80.352532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 Broad St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185975491,
-    "wof:lastmodified":1449007996,
+    "wof:lastmodified":1467082204,
     "wof:name":"Transouth Financial",
     "wof:parent_id":85855087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-80.352532,33.932736,-80.352532,33.932736],
+  "bbox": [
+    -80.352532,
+    33.932736,
+    -80.352532,
+    33.932736
+],
   "geometry": {"coordinates":[-80.352532,33.932736],"type":"Point"}
 }

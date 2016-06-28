@@ -2,13 +2,14 @@
   "id": 370266233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.892686,34.928992,-81.892686,34.928992",
     "geom:latitude":34.928992,
     "geom:longitude":-81.892686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 Union St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370266233,
-    "wof:lastmodified":1449029171,
+    "wof:lastmodified":1467082300,
     "wof:name":"Old Hideaway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "billiard"
     ]
 },
-  "bbox": [-81.892686,34.928992,-81.892686,34.928992],
+  "bbox": [
+    -81.892686,
+    34.928992,
+    -81.892686,
+    34.928992
+],
   "geometry": {"coordinates":[-81.892686,34.928992],"type":"Point"}
 }

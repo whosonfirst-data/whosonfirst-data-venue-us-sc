@@ -2,13 +2,14 @@
   "id": 185987857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.393076,34.772965,-80.393076,34.772965",
     "geom:latitude":34.772965,
     "geom:longitude":-80.393076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 N Maple St",
     "sg:city":"Pageland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185987857,
-    "wof:lastmodified":1449007506,
+    "wof:lastmodified":1467082196,
     "wof:name":"Clifton Slamming Jams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.393076,34.772965,-80.393076,34.772965],
-  "geometry": {"coordinates":[-80.393076,34.772965],"type":"Point"}
+  "bbox": [
+    -80.393076,
+    34.772965,
+    -80.393076,
+    34.772965
+],
+  "geometry": {"coordinates":[-80.39307599999999,34.772965],"type":"Point"}
 }

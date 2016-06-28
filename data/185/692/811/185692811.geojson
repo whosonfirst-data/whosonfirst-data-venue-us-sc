@@ -2,13 +2,14 @@
   "id": 185692811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.999667,33.577604,-78.999667,33.577604",
     "geom:latitude":33.577604,
     "geom:longitude":-78.999667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Atlantic Ave",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185692811,
-    "wof:lastmodified":1449007041,
+    "wof:lastmodified":1467082189,
     "wof:name":"Garden City Pavilion Arcade",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.999667,33.577604,-78.999667,33.577604],
+  "bbox": [
+    -78.999667,
+    33.577604,
+    -78.999667,
+    33.577604
+],
   "geometry": {"coordinates":[-78.999667,33.577604],"type":"Point"}
 }

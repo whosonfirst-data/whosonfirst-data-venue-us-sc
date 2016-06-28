@@ -2,13 +2,14 @@
   "id": 353498775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.224572,35.116026,-81.224572,35.116026",
     "geom:latitude":35.116026,
     "geom:longitude":-81.224572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Main St",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353498775,
-    "wof:lastmodified":1449020198,
+    "wof:lastmodified":1467082249,
     "wof:name":"Jackson Enterprises",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.224572,35.116026,-81.224572,35.116026],
-  "geometry": {"coordinates":[-81.224572,35.116026],"type":"Point"}
+  "bbox": [
+    -81.224572,
+    35.116026,
+    -81.224572,
+    35.116026
+],
+  "geometry": {"coordinates":[-81.22457199999999,35.116026],"type":"Point"}
 }

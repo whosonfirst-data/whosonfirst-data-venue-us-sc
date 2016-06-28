@@ -2,13 +2,14 @@
   "id": 370728139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.747781,34.5927,-82.747781,34.5927",
     "geom:latitude":34.5927,
     "geom:longitude":-82.747781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5409 US Hwy 76",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370728139,
-    "wof:lastmodified":1449029879,
+    "wof:lastmodified":1467082316,
     "wof:name":"CHS Wellness",
     "wof:parent_id":85854499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-82.747781,34.5927,-82.747781,34.5927],
+  "bbox": [
+    -82.747781,
+    34.5927,
+    -82.747781,
+    34.5927
+],
   "geometry": {"coordinates":[-82.747781,34.5927],"type":"Point"}
 }

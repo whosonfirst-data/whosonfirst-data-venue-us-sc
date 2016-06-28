@@ -2,13 +2,14 @@
   "id": 353909751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.62011,34.277157,-81.62011,34.277157",
     "geom:latitude":34.277157,
     "geom:longitude":-81.62011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1322 College St",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353909751,
-    "wof:lastmodified":1449020173,
+    "wof:lastmodified":1467082249,
     "wof:name":"Country Clean On College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-81.62011,34.277157,-81.62011,34.277157],
+  "bbox": [
+    -81.62011,
+    34.277157,
+    -81.62011,
+    34.277157
+],
   "geometry": {"coordinates":[-81.62011,34.277157],"type":"Point"}
 }

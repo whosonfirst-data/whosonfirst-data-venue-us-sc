@@ -2,13 +2,14 @@
   "id": 186300303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.868072,32.810885,-79.868072,32.810885",
     "geom:latitude":32.810885,
     "geom:longitude":-79.868072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 Johnnie Dodds Blvd",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186300303,
-    "wof:lastmodified":1449051892,
+    "wof:lastmodified":1467082402,
     "wof:name":"Passport International Ltd",
     "wof:parent_id":85848217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fulfillment"
     ]
 },
-  "bbox": [-79.868072,32.810885,-79.868072,32.810885],
+  "bbox": [
+    -79.868072,
+    32.810885,
+    -79.868072,
+    32.810885
+],
   "geometry": {"coordinates":[-79.868072,32.810885],"type":"Point"}
 }

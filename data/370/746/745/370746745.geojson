@@ -2,13 +2,14 @@
   "id": 370746745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.107621,33.047545,-80.107621,33.047545",
     "geom:latitude":33.047545,
     "geom:longitude":-80.107621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Old Summerville Rd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370746745,
-    "wof:lastmodified":1449029040,
+    "wof:lastmodified":1467082297,
     "wof:name":"Red Line Custom Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "clean"
     ]
 },
-  "bbox": [-80.107621,33.047545,-80.107621,33.047545],
-  "geometry": {"coordinates":[-80.107621,33.047545],"type":"Point"}
+  "bbox": [
+    -80.107621,
+    33.047545,
+    -80.107621,
+    33.047545
+],
+  "geometry": {"coordinates":[-80.10762099999999,33.047545],"type":"Point"}
 }

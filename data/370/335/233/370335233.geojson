@@ -2,13 +2,14 @@
   "id": 370335233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.976013,34.938389,-81.976013,34.938389",
     "geom:latitude":34.938389,
     "geom:longitude":-81.976013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Powell Mill Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370335233,
-    "wof:lastmodified":1449031310,
+    "wof:lastmodified":1467082347,
     "wof:name":"Harold S Vigodsky OD",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.976013,34.938389,-81.976013,34.938389],
-  "geometry": {"coordinates":[-81.976013,34.938389],"type":"Point"}
+  "bbox": [
+    -81.976013,
+    34.938389,
+    -81.976013,
+    34.938389
+],
+  "geometry": {"coordinates":[-81.97601299999999,34.938389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370868831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.349436,33.849868,-80.349436,33.849868",
     "geom:latitude":33.849868,
     "geom:longitude":-80.349436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Old Manning Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370868831,
-    "wof:lastmodified":1449029227,
+    "wof:lastmodified":1467082301,
     "wof:name":"Carolina Tanning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-80.349436,33.849868,-80.349436,33.849868],
+  "bbox": [
+    -80.349436,
+    33.849868,
+    -80.349436,
+    33.849868
+],
   "geometry": {"coordinates":[-80.349436,33.849868],"type":"Point"}
 }

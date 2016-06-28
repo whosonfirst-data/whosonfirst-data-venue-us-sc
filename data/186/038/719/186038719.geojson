@@ -2,13 +2,14 @@
   "id": 186038719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.704143,33.449259,-81.704143,33.449259",
     "geom:latitude":33.449259,
     "geom:longitude":-81.704143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Bluegrass Dr",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186038719,
-    "wof:lastmodified":1449052098,
+    "wof:lastmodified":1467082404,
     "wof:name":"Nationwide",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.704143,33.449259,-81.704143,33.449259],
+  "bbox": [
+    -81.704143,
+    33.449259,
+    -81.704143,
+    33.449259
+],
   "geometry": {"coordinates":[-81.704143,33.449259],"type":"Point"}
 }

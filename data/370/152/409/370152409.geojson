@@ -2,13 +2,14 @@
   "id": 370152409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.810246,34.190146,-79.810246,34.190146",
     "geom:latitude":34.190146,
     "geom:longitude":-79.810246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2151 W Evans St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370152409,
-    "wof:lastmodified":1449031706,
+    "wof:lastmodified":1467082356,
     "wof:name":"Pretty In Pink Inc",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "invitation"
     ]
 },
-  "bbox": [-79.810246,34.190146,-79.810246,34.190146],
-  "geometry": {"coordinates":[-79.810246,34.190146],"type":"Point"}
+  "bbox": [
+    -79.810246,
+    34.190146,
+    -79.810246,
+    34.190146
+],
+  "geometry": {"coordinates":[-79.81024600000001,34.190146],"type":"Point"}
 }

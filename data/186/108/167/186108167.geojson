@@ -2,13 +2,14 @@
   "id": 186108167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.097552,33.843266,-81.097552,33.843266",
     "geom:latitude":33.843266,
     "geom:longitude":-81.097552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 Archwood St",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186108167,
-    "wof:lastmodified":1449050310,
+    "wof:lastmodified":1467082389,
     "wof:name":"McGrady Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.097552,33.843266,-81.097552,33.843266],
-  "geometry": {"coordinates":[-81.097552,33.843266],"type":"Point"}
+  "bbox": [
+    -81.097552,
+    33.843266,
+    -81.097552,
+    33.843266
+],
+  "geometry": {"coordinates":[-81.09755199999999,33.843266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186132485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.209983,34.088515,-81.209983,34.088515",
     "geom:latitude":34.088515,
     "geom:longitude":-81.209983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"275 Sandstone Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186132485,
-    "wof:lastmodified":1449051685,
+    "wof:lastmodified":1467082400,
     "wof:name":"Carlsen Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.209983,34.088515,-81.209983,34.088515],
-  "geometry": {"coordinates":[-81.209983,34.088515],"type":"Point"}
+  "bbox": [
+    -81.209983,
+    34.088515,
+    -81.209983,
+    34.088515
+],
+  "geometry": {"coordinates":[-81.20998299999999,34.088515],"type":"Point"}
 }

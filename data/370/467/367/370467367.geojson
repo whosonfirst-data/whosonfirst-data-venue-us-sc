@@ -2,13 +2,14 @@
   "id": 370467367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.992343,32.875084,-79.992343,32.875084",
     "geom:latitude":32.875084,
     "geom:longitude":-79.992343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4534 Durant Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370467367,
-    "wof:lastmodified":1449031754,
+    "wof:lastmodified":1467082358,
     "wof:name":"Corbin's Hitch Shop & Mfg Svc",
     "wof:parent_id":85830427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hitch"
     ]
 },
-  "bbox": [-79.992343,32.875084,-79.992343,32.875084],
-  "geometry": {"coordinates":[-79.992343,32.875084],"type":"Point"}
+  "bbox": [
+    -79.992343,
+    32.875084,
+    -79.992343,
+    32.875084
+],
+  "geometry": {"coordinates":[-79.99234300000001,32.875084],"type":"Point"}
 }

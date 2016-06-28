@@ -2,13 +2,14 @@
   "id": 337558981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.707335,34.786798,-82.707335,34.786798",
     "geom:latitude":34.786798,
     "geom:longitude":-82.707335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Forest View Cir",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337558981,
-    "wof:lastmodified":1449027161,
+    "wof:lastmodified":1467082273,
     "wof:name":"Forest View Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.707335,34.786798,-82.707335,34.786798],
+  "bbox": [
+    -82.707335,
+    34.786798,
+    -82.707335,
+    34.786798
+],
   "geometry": {"coordinates":[-82.707335,34.786798],"type":"Point"}
 }

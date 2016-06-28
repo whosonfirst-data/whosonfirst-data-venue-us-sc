@@ -2,13 +2,14 @@
   "id": 370405723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.23523,33.989395,-81.23523,33.989395",
     "geom:latitude":33.989395,
     "geom:longitude":-81.23523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Columbia Ave",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370405723,
-    "wof:lastmodified":1449032196,
+    "wof:lastmodified":1467082367,
     "wof:name":"Ultra Tan",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-81.23523,33.989395,-81.23523,33.989395],
+  "bbox": [
+    -81.23523,
+    33.989395,
+    -81.23523,
+    33.989395
+],
   "geometry": {"coordinates":[-81.23523,33.989395],"type":"Point"}
 }

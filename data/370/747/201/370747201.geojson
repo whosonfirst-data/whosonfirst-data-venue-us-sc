@@ -2,13 +2,14 @@
   "id": 370747201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.23609,34.220979,-80.23609,34.220979",
     "geom:latitude":34.220979,
     "geom:longitude":-80.23609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Cousar St",
     "sg:city":"Bishopville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370747201,
-    "wof:lastmodified":1449029710,
+    "wof:lastmodified":1467082312,
     "wof:name":"South Atlantic Canners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bottler"
     ]
 },
-  "bbox": [-80.23609,34.220979,-80.23609,34.220979],
+  "bbox": [
+    -80.23609,
+    34.220979,
+    -80.23609,
+    34.220979
+],
   "geometry": {"coordinates":[-80.23609,34.220979],"type":"Point"}
 }

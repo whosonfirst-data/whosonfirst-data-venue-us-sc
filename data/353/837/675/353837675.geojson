@@ -2,13 +2,14 @@
   "id": 353837675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.996316,32.766456,-79.996316,32.766456",
     "geom:latitude":32.766456,
     "geom:longitude":-79.996316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2181 Wappoo Hall Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353837675,
-    "wof:lastmodified":1449018651,
+    "wof:lastmodified":1467082218,
     "wof:name":"Wappoo Hall",
     "wof:parent_id":85810731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-79.996316,32.766456,-79.996316,32.766456],
-  "geometry": {"coordinates":[-79.996316,32.766456],"type":"Point"}
+  "bbox": [
+    -79.996316,
+    32.766456,
+    -79.996316,
+    32.766456
+],
+  "geometry": {"coordinates":[-79.99631599999999,32.766456],"type":"Point"}
 }

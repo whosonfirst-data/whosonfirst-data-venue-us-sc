@@ -2,13 +2,14 @@
   "id": 370749579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.227565,34.938939,-82.227565,34.938939",
     "geom:latitude":34.938939,
     "geom:longitude":-82.227565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W Poinsett St",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370749579,
-    "wof:lastmodified":1449030071,
+    "wof:lastmodified":1467082320,
     "wof:name":"City Tire & Alignment",
     "wof:parent_id":85853715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-82.227565,34.938939,-82.227565,34.938939],
+  "bbox": [
+    -82.227565,
+    34.938939,
+    -82.227565,
+    34.938939
+],
   "geometry": {"coordinates":[-82.227565,34.938939],"type":"Point"}
 }

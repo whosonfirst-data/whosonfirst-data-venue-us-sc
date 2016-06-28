@@ -2,13 +2,14 @@
   "id": 169776007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.030419,32.857638,-80.030419,32.857638",
     "geom:latitude":32.857638,
     "geom:longitude":-80.030419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4975 Dorchester Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169776007,
-    "wof:lastmodified":1449033407,
+    "wof:lastmodified":1467082380,
     "wof:name":"Glasspro Inc",
     "wof:parent_id":85805727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "glass"
     ]
 },
-  "bbox": [-80.030419,32.857638,-80.030419,32.857638],
-  "geometry": {"coordinates":[-80.030419,32.857638],"type":"Point"}
+  "bbox": [
+    -80.030419,
+    32.857638,
+    -80.030419,
+    32.857638
+],
+  "geometry": {"coordinates":[-80.03041899999999,32.857638],"type":"Point"}
 }

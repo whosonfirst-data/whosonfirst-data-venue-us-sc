@@ -2,13 +2,14 @@
   "id": 370865793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.250828,34.402608,-82.250828,34.402608",
     "geom:latitude":34.402608,
     "geom:longitude":-82.250828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Jones Dr",
     "sg:city":"Ware Shoals",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370865793,
-    "wof:lastmodified":1449031649,
+    "wof:lastmodified":1467082355,
     "wof:name":"Mc Kees Package Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-82.250828,34.402608,-82.250828,34.402608],
+  "bbox": [
+    -82.250828,
+    34.402608,
+    -82.250828,
+    34.402608
+],
   "geometry": {"coordinates":[-82.250828,34.402608],"type":"Point"}
 }

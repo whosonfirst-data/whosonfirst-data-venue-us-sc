@@ -2,13 +2,14 @@
   "id": 370416639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.987487,32.781795,-79.987487,32.781795",
     "geom:latitude":32.781795,
     "geom:longitude":-79.987487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Daniel St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370416639,
-    "wof:lastmodified":1449030622,
+    "wof:lastmodified":1467082332,
     "wof:name":"D & D Fineline Body Accents",
     "wof:parent_id":85808729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-79.987487,32.781795,-79.987487,32.781795],
+  "bbox": [
+    -79.987487,
+    32.781795,
+    -79.987487,
+    32.781795
+],
   "geometry": {"coordinates":[-79.987487,32.781795],"type":"Point"}
 }

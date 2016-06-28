@@ -2,13 +2,14 @@
   "id": 337310125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.098633,35.091026,-81.098633,35.091026",
     "geom:latitude":35.091026,
     "geom:longitude":-81.098633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4850 Charlotte Hwy",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337310125,
-    "wof:lastmodified":1449027454,
+    "wof:lastmodified":1467082284,
     "wof:name":"Southern Convenience",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.098633,35.091026,-81.098633,35.091026],
-  "geometry": {"coordinates":[-81.098633,35.091026],"type":"Point"}
+  "bbox": [
+    -81.098633,
+    35.091026,
+    -81.098633,
+    35.091026
+],
+  "geometry": {"coordinates":[-81.09863300000001,35.091026],"type":"Point"}
 }

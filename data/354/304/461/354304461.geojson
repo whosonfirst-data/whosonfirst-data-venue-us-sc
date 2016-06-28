@@ -2,13 +2,14 @@
   "id": 354304461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.872954,32.272872,-80.872954,32.272872",
     "geom:latitude":32.272872,
     "geom:longitude":-80.872954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Kensington Blvd",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354304461,
-    "wof:lastmodified":1449067222,
+    "wof:lastmodified":1467082444,
     "wof:name":"D R Horton Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-80.872954,32.272872,-80.872954,32.272872],
-  "geometry": {"coordinates":[-80.872954,32.272872],"type":"Point"}
+  "bbox": [
+    -80.872954,
+    32.272872,
+    -80.872954,
+    32.272872
+],
+  "geometry": {"coordinates":[-80.87295399999999,32.272872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186250443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.94469,32.798341,-79.94469,32.798341",
     "geom:latitude":32.798341,
     "geom:longitude":-79.94469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 F St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186250443,
-    "wof:lastmodified":1449051911,
+    "wof:lastmodified":1467082402,
     "wof:name":"Frank's Upholstery",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-79.94469,32.798341,-79.94469,32.798341],
-  "geometry": {"coordinates":[-79.94469,32.798341],"type":"Point"}
+  "bbox": [
+    -79.94469,
+    32.798341,
+    -79.94469,
+    32.798341
+],
+  "geometry": {"coordinates":[-79.94468999999999,32.798341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370590693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.347501,34.150795,-81.347501,34.150795",
     "geom:latitude":34.150795,
     "geom:longitude":-81.347501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 Old Lexington Hwy",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":370590693,
-    "wof:lastmodified":1449031090,
+    "wof:lastmodified":1467082342,
     "wof:name":"Saint Francis-Assisi Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.347501,34.150795,-81.347501,34.150795],
-  "geometry": {"coordinates":[-81.347501,34.150795],"type":"Point"}
+  "bbox": [
+    -81.347501,
+    34.150795,
+    -81.347501,
+    34.150795
+],
+  "geometry": {"coordinates":[-81.34750099999999,34.150795],"type":"Point"}
 }

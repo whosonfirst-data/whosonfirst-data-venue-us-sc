@@ -2,13 +2,14 @@
   "id": 353805271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.600049,35.121975,-81.600049,35.121975",
     "geom:latitude":35.121975,
     "geom:longitude":-81.600049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1488 Concord Rd",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353805271,
-    "wof:lastmodified":1449019114,
+    "wof:lastmodified":1467082227,
     "wof:name":"Tech One Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.600049,35.121975,-81.600049,35.121975],
+  "bbox": [
+    -81.600049,
+    35.121975,
+    -81.600049,
+    35.121975
+],
   "geometry": {"coordinates":[-81.600049,35.121975],"type":"Point"}
 }

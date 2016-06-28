@@ -2,13 +2,14 @@
   "id": 370261473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.044117,32.965862,-80.044117,32.965862",
     "geom:latitude":32.965862,
     "geom:longitude":-80.044117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8734 Rivers Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370261473,
-    "wof:lastmodified":1449029123,
+    "wof:lastmodified":1467082299,
     "wof:name":"Roberts Drive In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.044117,32.965862,-80.044117,32.965862],
+  "bbox": [
+    -80.044117,
+    32.965862,
+    -80.044117,
+    32.965862
+],
   "geometry": {"coordinates":[-80.044117,32.965862],"type":"Point"}
 }

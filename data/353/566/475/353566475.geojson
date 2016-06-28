@@ -2,13 +2,14 @@
   "id": 353566475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.745062,33.691992,-79.745062,33.691992",
     "geom:latitude":33.691992,
     "geom:longitude":-79.745062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9514 Hemingway Hwy",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353566475,
-    "wof:lastmodified":1449018303,
+    "wof:lastmodified":1467082211,
     "wof:name":"Rodgers Liquor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.745062,33.691992,-79.745062,33.691992],
+  "bbox": [
+    -79.745062,
+    33.691992,
+    -79.745062,
+    33.691992
+],
   "geometry": {"coordinates":[-79.745062,33.691992],"type":"Point"}
 }

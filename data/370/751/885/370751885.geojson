@@ -2,13 +2,14 @@
   "id": 370751885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.354897,33.860047,-80.354897,33.860047",
     "geom:latitude":33.860047,
     "geom:longitude":-80.354897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Lake Shore Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370751885,
-    "wof:lastmodified":1449029270,
+    "wof:lastmodified":1467082302,
     "wof:name":"Quality Heating Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.354897,33.860047,-80.354897,33.860047],
-  "geometry": {"coordinates":[-80.354897,33.860047],"type":"Point"}
+  "bbox": [
+    -80.354897,
+    33.860047,
+    -80.354897,
+    33.860047
+],
+  "geometry": {"coordinates":[-80.35489699999999,33.860047],"type":"Point"}
 }

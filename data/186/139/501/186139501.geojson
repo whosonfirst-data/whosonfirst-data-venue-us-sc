@@ -2,13 +2,14 @@
   "id": 186139501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.341576,34.844762,-82.341576,34.844762",
     "geom:latitude":34.844762,
     "geom:longitude":-82.341576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 Haywood Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186139501,
-    "wof:lastmodified":1449050498,
+    "wof:lastmodified":1467082390,
     "wof:name":"Orthodontic Centers Of America",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.341576,34.844762,-82.341576,34.844762],
+  "bbox": [
+    -82.341576,
+    34.844762,
+    -82.341576,
+    34.844762
+],
   "geometry": {"coordinates":[-82.341576,34.844762],"type":"Point"}
 }

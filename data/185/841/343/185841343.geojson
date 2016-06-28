@@ -2,13 +2,14 @@
   "id": 185841343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.977153,32.483867,-80.977153,32.483867",
     "geom:latitude":32.483867,
     "geom:longitude":-80.977153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Logan St",
     "sg:city":"Ridgeland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185841343,
-    "wof:lastmodified":1449006953,
+    "wof:lastmodified":1467082187,
     "wof:name":"Palmetto Developers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.977153,32.483867,-80.977153,32.483867],
+  "bbox": [
+    -80.977153,
+    32.483867,
+    -80.977153,
+    32.483867
+],
   "geometry": {"coordinates":[-80.977153,32.483867],"type":"Point"}
 }

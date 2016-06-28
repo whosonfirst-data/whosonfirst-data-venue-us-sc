@@ -2,13 +2,14 @@
   "id": 370885655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.319745,34.76269,-82.319745,34.76269",
     "geom:latitude":34.76269,
     "geom:longitude":-82.319745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Chablis Ct",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370885655,
-    "wof:lastmodified":1449030875,
+    "wof:lastmodified":1467082337,
     "wof:name":"Agent Wise",
     "wof:parent_id":85806237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-82.319745,34.76269,-82.319745,34.76269],
+  "bbox": [
+    -82.319745,
+    34.76269,
+    -82.319745,
+    34.76269
+],
   "geometry": {"coordinates":[-82.319745,34.76269],"type":"Point"}
 }

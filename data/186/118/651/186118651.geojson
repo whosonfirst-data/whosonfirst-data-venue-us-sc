@@ -2,13 +2,14 @@
   "id": 186118651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.018072,34.671991,-83.018072,34.671991",
     "geom:latitude":34.671991,
     "geom:longitude":-83.018072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1975 Sandifer Blvd",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186118651,
-    "wof:lastmodified":1449052498,
+    "wof:lastmodified":1467082408,
     "wof:name":"Smith Textiles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "broker"
     ]
 },
-  "bbox": [-83.018072,34.671991,-83.018072,34.671991],
+  "bbox": [
+    -83.018072,
+    34.671991,
+    -83.018072,
+    34.671991
+],
   "geometry": {"coordinates":[-83.018072,34.671991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337418987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.224545,34.941781,-82.224545,34.941781",
     "geom:latitude":34.941781,
     "geom:longitude":-82.224545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 N Main St",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337418987,
-    "wof:lastmodified":1449027577,
+    "wof:lastmodified":1467082289,
     "wof:name":"Piedmont Skills",
     "wof:parent_id":85853715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fraternal"
     ]
 },
-  "bbox": [-82.224545,34.941781,-82.224545,34.941781],
-  "geometry": {"coordinates":[-82.224545,34.941781],"type":"Point"}
+  "bbox": [
+    -82.224545,
+    34.941781,
+    -82.224545,
+    34.941781
+],
+  "geometry": {"coordinates":[-82.22454500000001,34.941781],"type":"Point"}
 }

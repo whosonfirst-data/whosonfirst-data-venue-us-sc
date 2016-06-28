@@ -2,13 +2,14 @@
   "id": 354024245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.987426,34.250045,-80.987426,34.250045",
     "geom:latitude":34.250045,
     "geom:longitude":-80.987426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2421 Boney Rd",
     "sg:city":"Blythewood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354024245,
-    "wof:lastmodified":1449066735,
+    "wof:lastmodified":1467082433,
     "wof:name":"Franks Barbecue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.987426,34.250045,-80.987426,34.250045],
+  "bbox": [
+    -80.987426,
+    34.250045,
+    -80.987426,
+    34.250045
+],
   "geometry": {"coordinates":[-80.987426,34.250045],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186110561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.242321,34.994343,-81.242321,34.994343",
     "geom:latitude":34.994343,
     "geom:longitude":-81.242321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 W Liberty St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186110561,
-    "wof:lastmodified":1449051275,
+    "wof:lastmodified":1467082396,
     "wof:name":"Michael T Howe",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.242321,34.994343,-81.242321,34.994343],
+  "bbox": [
+    -81.242321,
+    34.994343,
+    -81.242321,
+    34.994343
+],
   "geometry": {"coordinates":[-81.242321,34.994343],"type":"Point"}
 }

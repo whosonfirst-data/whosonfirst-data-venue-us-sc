@@ -2,13 +2,14 @@
   "id": 354304781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.05151,32.939514,-80.05151,32.939514",
     "geom:latitude":32.939514,
     "geom:longitude":-80.05151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7555 Northside Dr",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354304781,
-    "wof:lastmodified":1449067222,
+    "wof:lastmodified":1467082444,
     "wof:name":"Mc Coy Law Offices LLC",
     "wof:parent_id":85803745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.05151,32.939514,-80.05151,32.939514],
-  "geometry": {"coordinates":[-80.05151,32.939514],"type":"Point"}
+  "bbox": [
+    -80.05151,
+    32.939514,
+    -80.05151,
+    32.939514
+],
+  "geometry": {"coordinates":[-80.05150999999999,32.939514],"type":"Point"}
 }

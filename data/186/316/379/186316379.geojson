@@ -2,13 +2,14 @@
   "id": 186316379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.026157,33.572496,-79.026157,33.572496",
     "geom:latitude":33.572496,
     "geom:longitude":-79.026157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3974 US Hwy 17 Bus",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186316379,
-    "wof:lastmodified":1449052190,
+    "wof:lastmodified":1467082405,
     "wof:name":"Engravagrafix Unknown",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-79.026157,33.572496,-79.026157,33.572496],
+  "bbox": [
+    -79.026157,
+    33.572496,
+    -79.026157,
+    33.572496
+],
   "geometry": {"coordinates":[-79.026157,33.572496],"type":"Point"}
 }

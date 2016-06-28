@@ -2,13 +2,14 @@
   "id": 370958279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.436281,32.411589,-80.436281,32.411589",
     "geom:latitude":32.411589,
     "geom:longitude":-80.436281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Windjammer Ct",
     "sg:city":"Frogmore",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370958279,
-    "wof:lastmodified":1449031738,
+    "wof:lastmodified":1467082357,
     "wof:name":"Decks Etc Inc",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.436281,32.411589,-80.436281,32.411589],
-  "geometry": {"coordinates":[-80.436281,32.411589],"type":"Point"}
+  "bbox": [
+    -80.436281,
+    32.411589,
+    -80.436281,
+    32.411589
+],
+  "geometry": {"coordinates":[-80.43628099999999,32.411589],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186063519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.008063,32.854048,-80.008063,32.854048",
     "geom:latitude":32.854048,
     "geom:longitude":-80.008063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4311 Dorchester Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186063519,
-    "wof:lastmodified":1449050481,
+    "wof:lastmodified":1467082390,
     "wof:name":"C-K Supply",
     "wof:parent_id":85807225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.008063,32.854048,-80.008063,32.854048],
-  "geometry": {"coordinates":[-80.008063,32.854048],"type":"Point"}
+  "bbox": [
+    -80.008063,
+    32.854048,
+    -80.008063,
+    32.854048
+],
+  "geometry": {"coordinates":[-80.00806300000001,32.854048],"type":"Point"}
 }

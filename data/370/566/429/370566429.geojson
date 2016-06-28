@@ -2,13 +2,14 @@
   "id": 370566429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.080388,32.902953,-80.080388,32.902953",
     "geom:latitude":32.902953,
     "geom:longitude":-80.080388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7550 Dorchester Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370566429,
-    "wof:lastmodified":1449029137,
+    "wof:lastmodified":1467082299,
     "wof:name":"It'z U",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.080388,32.902953,-80.080388,32.902953],
+  "bbox": [
+    -80.080388,
+    32.902953,
+    -80.080388,
+    32.902953
+],
   "geometry": {"coordinates":[-80.080388,32.902953],"type":"Point"}
 }

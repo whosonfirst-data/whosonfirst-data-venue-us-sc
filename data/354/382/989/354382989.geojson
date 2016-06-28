@@ -2,13 +2,14 @@
   "id": 354382989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.918319,34.889443,-81.918319,34.889443",
     "geom:latitude":34.889443,
     "geom:longitude":-81.918319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"375 Canaan Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354382989,
-    "wof:lastmodified":1449066361,
+    "wof:lastmodified":1467082424,
     "wof:name":"Raymond Teague",
     "wof:parent_id":85828171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.918319,34.889443,-81.918319,34.889443],
+  "bbox": [
+    -81.918319,
+    34.889443,
+    -81.918319,
+    34.889443
+],
   "geometry": {"coordinates":[-81.918319,34.889443],"type":"Point"}
 }

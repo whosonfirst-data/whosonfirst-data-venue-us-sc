@@ -2,13 +2,14 @@
   "id": 370281659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.895435,34.92662,-81.895435,34.92662",
     "geom:latitude":34.92662,
     "geom:longitude":-81.895435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Quarry Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370281659,
-    "wof:lastmodified":1449031950,
+    "wof:lastmodified":1467082362,
     "wof:name":"Berbank & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "house"
     ]
 },
-  "bbox": [-81.895435,34.92662,-81.895435,34.92662],
-  "geometry": {"coordinates":[-81.895435,34.92662],"type":"Point"}
+  "bbox": [
+    -81.895435,
+    34.92662,
+    -81.895435,
+    34.92662
+],
+  "geometry": {"coordinates":[-81.89543500000001,34.92662],"type":"Point"}
 }

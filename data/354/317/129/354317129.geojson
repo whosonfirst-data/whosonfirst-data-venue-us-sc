@@ -2,13 +2,14 @@
   "id": 354317129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.975491,32.777083,-79.975491,32.777083",
     "geom:latitude":32.777083,
     "geom:longitude":-79.975491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Windermere Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354317129,
-    "wof:lastmodified":1449066688,
+    "wof:lastmodified":1467082432,
     "wof:name":"Ambrosia Bread & Pastries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-79.975491,32.777083,-79.975491,32.777083],
-  "geometry": {"coordinates":[-79.975491,32.777083],"type":"Point"}
+  "bbox": [
+    -79.975491,
+    32.777083,
+    -79.975491,
+    32.777083
+],
+  "geometry": {"coordinates":[-79.97549100000001,32.777083],"type":"Point"}
 }

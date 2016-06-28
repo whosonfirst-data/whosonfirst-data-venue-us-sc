@@ -2,13 +2,14 @@
   "id": 370215391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.334838,33.389449,-79.334838,33.389449",
     "geom:latitude":33.389449,
     "geom:longitude":-79.334838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Amelia Dr",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370215391,
-    "wof:lastmodified":1449031886,
+    "wof:lastmodified":1467082360,
     "wof:name":"Leroy Lincoln",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.334838,33.389449,-79.334838,33.389449],
+  "bbox": [
+    -79.334838,
+    33.389449,
+    -79.334838,
+    33.389449
+],
   "geometry": {"coordinates":[-79.334838,33.389449],"type":"Point"}
 }

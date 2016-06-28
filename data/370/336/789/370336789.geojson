@@ -2,13 +2,14 @@
   "id": 370336789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.051322,34.964555,-81.051322,34.964555",
     "geom:latitude":34.964555,
     "geom:longitude":-81.051322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1902 Ebenezer Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370336789,
-    "wof:lastmodified":1449029002,
+    "wof:lastmodified":1467082296,
     "wof:name":"Psychological Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-81.051322,34.964555,-81.051322,34.964555],
+  "bbox": [
+    -81.051322,
+    34.964555,
+    -81.051322,
+    34.964555
+],
   "geometry": {"coordinates":[-81.051322,34.964555],"type":"Point"}
 }

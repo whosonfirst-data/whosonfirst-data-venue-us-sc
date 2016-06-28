@@ -2,13 +2,14 @@
   "id": 370299839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.021982,34.921905,-81.021982,34.921905",
     "geom:latitude":34.921905,
     "geom:longitude":-81.021982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 S Confederate Ave",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370299839,
-    "wof:lastmodified":1449029958,
+    "wof:lastmodified":1467082317,
     "wof:name":"Gatlin Law Firm",
     "wof:parent_id":85851537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.021982,34.921905,-81.021982,34.921905],
-  "geometry": {"coordinates":[-81.021982,34.921905],"type":"Point"}
+  "bbox": [
+    -81.021982,
+    34.921905,
+    -81.021982,
+    34.921905
+],
+  "geometry": {"coordinates":[-81.02198199999999,34.921905],"type":"Point"}
 }

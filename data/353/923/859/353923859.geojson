@@ -2,13 +2,14 @@
   "id": 353923859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.939653,34.735144,-79.939653,34.735144",
     "geom:latitude":34.735144,
     "geom:longitude":-79.939653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1198 Midway Rd",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353923859,
-    "wof:lastmodified":1449020696,
+    "wof:lastmodified":1467082259,
     "wof:name":"G & G Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.939653,34.735144,-79.939653,34.735144],
-  "geometry": {"coordinates":[-79.939653,34.735144],"type":"Point"}
+  "bbox": [
+    -79.939653,
+    34.735144,
+    -79.939653,
+    34.735144
+],
+  "geometry": {"coordinates":[-79.93965300000001,34.735144],"type":"Point"}
 }

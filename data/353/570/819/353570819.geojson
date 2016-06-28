@@ -2,13 +2,14 @@
   "id": 353570819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.587242,33.848386,-81.587242,33.848386",
     "geom:latitude":33.848386,
     "geom:longitude":-81.587242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Farm View Rd",
     "sg:city":"Batesburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353570819,
-    "wof:lastmodified":1449019778,
+    "wof:lastmodified":1467082241,
     "wof:name":"W M Du Bose & Son",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.587242,33.848386,-81.587242,33.848386],
+  "bbox": [
+    -81.587242,
+    33.848386,
+    -81.587242,
+    33.848386
+],
   "geometry": {"coordinates":[-81.587242,33.848386],"type":"Point"}
 }

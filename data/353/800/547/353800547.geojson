@@ -2,13 +2,14 @@
   "id": 353800547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.906413,34.940163,-81.906413,34.940163",
     "geom:latitude":34.940163,
     "geom:longitude":-81.906413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"897 S Pine St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353800547,
-    "wof:lastmodified":1449018461,
+    "wof:lastmodified":1467082214,
     "wof:name":"Morningside Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.906413,34.940163,-81.906413,34.940163],
+  "bbox": [
+    -81.906413,
+    34.940163,
+    -81.906413,
+    34.940163
+],
   "geometry": {"coordinates":[-81.906413,34.940163],"type":"Point"}
 }

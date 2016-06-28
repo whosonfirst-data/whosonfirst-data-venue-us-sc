@@ -2,13 +2,14 @@
   "id": 186177351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.912303,34.949379,-81.912303,34.949379",
     "geom:latitude":34.949379,
     "geom:longitude":-81.912303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Mills Ave",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186177351,
-    "wof:lastmodified":1449053025,
+    "wof:lastmodified":1467082413,
     "wof:name":"E S Laboratories",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-81.912303,34.949379,-81.912303,34.949379],
-  "geometry": {"coordinates":[-81.912303,34.949379],"type":"Point"}
+  "bbox": [
+    -81.912303,
+    34.949379,
+    -81.912303,
+    34.949379
+],
+  "geometry": {"coordinates":[-81.91230299999999,34.949379],"type":"Point"}
 }

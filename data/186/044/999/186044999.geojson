@@ -2,13 +2,14 @@
   "id": 186044999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.374601,34.418335,-79.374601,34.418335",
     "geom:latitude":34.418335,
     "geom:longitude":-79.374601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S 3rd Ave",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186044999,
-    "wof:lastmodified":1449051771,
+    "wof:lastmodified":1467082401,
     "wof:name":"Eastwind Inc",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.374601,34.418335,-79.374601,34.418335],
+  "bbox": [
+    -79.374601,
+    34.418335,
+    -79.374601,
+    34.418335
+],
   "geometry": {"coordinates":[-79.374601,34.418335],"type":"Point"}
 }

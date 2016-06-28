@@ -2,13 +2,14 @@
   "id": 186071335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.069011,34.355342,-80.069011,34.355342",
     "geom:latitude":34.355342,
     "geom:longitude":-80.069011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 S 5th St",
     "sg:city":"Hartsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186071335,
-    "wof:lastmodified":1449052060,
+    "wof:lastmodified":1467082404,
     "wof:name":"Shrimper",
     "wof:parent_id":85811765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.069011,34.355342,-80.069011,34.355342],
+  "bbox": [
+    -80.069011,
+    34.355342,
+    -80.069011,
+    34.355342
+],
   "geometry": {"coordinates":[-80.069011,34.355342],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169786297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.113206,35.097295,-82.113206,35.097295",
     "geom:latitude":35.097295,
     "geom:longitude":-82.113206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1665 Old Mill Rd",
     "sg:city":"Campobello",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169786297,
-    "wof:lastmodified":1449033116,
+    "wof:lastmodified":1467082378,
     "wof:name":"Willis A Peek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.113206,35.097295,-82.113206,35.097295],
-  "geometry": {"coordinates":[-82.113206,35.097295],"type":"Point"}
+  "bbox": [
+    -82.113206,
+    35.097295,
+    -82.113206,
+    35.097295
+],
+  "geometry": {"coordinates":[-82.11320600000001,35.097295],"type":"Point"}
 }

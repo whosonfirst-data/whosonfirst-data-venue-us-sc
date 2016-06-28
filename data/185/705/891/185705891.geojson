@@ -2,13 +2,14 @@
   "id": 185705891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.982388,32.476447,-80.982388,32.476447",
     "geom:latitude":32.476447,
     "geom:longitude":-80.982388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 S Jacob Smart Blvd",
     "sg:city":"Ridgeland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185705891,
-    "wof:lastmodified":1449008220,
+    "wof:lastmodified":1467082207,
     "wof:name":"Coastal Medical Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.982388,32.476447,-80.982388,32.476447],
+  "bbox": [
+    -80.982388,
+    32.476447,
+    -80.982388,
+    32.476447
+],
   "geometry": {"coordinates":[-80.982388,32.476447],"type":"Point"}
 }

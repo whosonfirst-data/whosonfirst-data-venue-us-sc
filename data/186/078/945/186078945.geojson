@@ -2,13 +2,14 @@
   "id": 186078945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.296244,33.365861,-79.296244,33.365861",
     "geom:latitude":33.365861,
     "geom:longitude":-79.296244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 S Hazard St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186078945,
-    "wof:lastmodified":1449052586,
+    "wof:lastmodified":1467082409,
     "wof:name":"Georgetown Mill Supply",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-79.296244,33.365861,-79.296244,33.365861],
+  "bbox": [
+    -79.296244,
+    33.365861,
+    -79.296244,
+    33.365861
+],
   "geometry": {"coordinates":[-79.296244,33.365861],"type":"Point"}
 }

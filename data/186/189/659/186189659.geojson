@@ -2,13 +2,14 @@
   "id": 186189659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.160564,34.198195,-82.160564,34.198195",
     "geom:latitude":34.198195,
     "geom:longitude":-82.160564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Grace St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186189659,
-    "wof:lastmodified":1449052247,
+    "wof:lastmodified":1467082405,
     "wof:name":"Hopewood Academy",
     "wof:parent_id":85850887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.160564,34.198195,-82.160564,34.198195],
-  "geometry": {"coordinates":[-82.160564,34.198195],"type":"Point"}
+  "bbox": [
+    -82.160564,
+    34.198195,
+    -82.160564,
+    34.198195
+],
+  "geometry": {"coordinates":[-82.16056399999999,34.198195],"type":"Point"}
 }

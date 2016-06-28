@@ -2,13 +2,14 @@
   "id": 370336795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.949567,34.685337,-82.949567,34.685337",
     "geom:latitude":34.685337,
     "geom:longitude":-82.949567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"493 E Main St",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370336795,
-    "wof:lastmodified":1449029002,
+    "wof:lastmodified":1467082296,
     "wof:name":"Brock's Car Repair",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.949567,34.685337,-82.949567,34.685337],
+  "bbox": [
+    -82.949567,
+    34.685337,
+    -82.949567,
+    34.685337
+],
   "geometry": {"coordinates":[-82.949567,34.685337],"type":"Point"}
 }

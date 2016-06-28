@@ -2,13 +2,14 @@
   "id": 354147343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.596978,34.283835,-81.596978,34.283835",
     "geom:latitude":34.283835,
     "geom:longitude":-81.596978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 Wilson Rd",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354147343,
-    "wof:lastmodified":1449067487,
+    "wof:lastmodified":1467082450,
     "wof:name":"Dollar General",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.596978,34.283835,-81.596978,34.283835],
-  "geometry": {"coordinates":[-81.596978,34.283835],"type":"Point"}
+  "bbox": [
+    -81.596978,
+    34.283835,
+    -81.596978,
+    34.283835
+],
+  "geometry": {"coordinates":[-81.59697799999999,34.283835],"type":"Point"}
 }

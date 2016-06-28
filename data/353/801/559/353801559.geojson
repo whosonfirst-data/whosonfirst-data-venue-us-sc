@@ -2,13 +2,14 @@
   "id": 353801559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.179012,33.965094,-81.179012,33.965094",
     "geom:latitude":33.965094,
     "geom:longitude":-81.179012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 Laurel Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353801559,
-    "wof:lastmodified":1449020383,
+    "wof:lastmodified":1467082253,
     "wof:name":"Mc Farland Lock & Key",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-81.179012,33.965094,-81.179012,33.965094],
+  "bbox": [
+    -81.179012,
+    33.965094,
+    -81.179012,
+    33.965094
+],
   "geometry": {"coordinates":[-81.179012,33.965094],"type":"Point"}
 }

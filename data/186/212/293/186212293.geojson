@@ -2,13 +2,14 @@
   "id": 186212293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.92257,34.299861,-79.92257,34.299861",
     "geom:latitude":34.299861,
     "geom:longitude":-79.92257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 Rogers Rd",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186212293,
-    "wof:lastmodified":1449052110,
+    "wof:lastmodified":1467082404,
     "wof:name":"Dealers Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-79.92257,34.299861,-79.92257,34.299861],
-  "geometry": {"coordinates":[-79.92257,34.299861],"type":"Point"}
+  "bbox": [
+    -79.92257,
+    34.299861,
+    -79.92257,
+    34.299861
+],
+  "geometry": {"coordinates":[-79.92256999999999,34.299861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370735009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.032181,33.993946,-81.032181,33.993946",
     "geom:latitude":33.993946,
     "geom:longitude":-81.032181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Assembly St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370735009,
-    "wof:lastmodified":1449032392,
+    "wof:lastmodified":1467082372,
     "wof:name":"Southern Interscholastic Press",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.032181,33.993946,-81.032181,33.993946],
-  "geometry": {"coordinates":[-81.032181,33.993946],"type":"Point"}
+  "bbox": [
+    -81.032181,
+    33.993946,
+    -81.032181,
+    33.993946
+],
+  "geometry": {"coordinates":[-81.03218099999999,33.993946],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185719039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.636559,35.088694,-81.636559,35.088694",
     "geom:latitude":35.088694,
     "geom:longitude":-81.636559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Administrative Dr",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185719039,
-    "wof:lastmodified":1449006811,
+    "wof:lastmodified":1467082185,
     "wof:name":"Cherokee County Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.636559,35.088694,-81.636559,35.088694],
-  "geometry": {"coordinates":[-81.636559,35.088694],"type":"Point"}
+  "bbox": [
+    -81.636559,
+    35.088694,
+    -81.636559,
+    35.088694
+],
+  "geometry": {"coordinates":[-81.63655900000001,35.088694],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353547283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.624256,34.241244,-80.624256,34.241244",
     "geom:latitude":34.241244,
     "geom:longitude":-80.624256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1324 Old River Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353547283,
-    "wof:lastmodified":1449018517,
+    "wof:lastmodified":1467082215,
     "wof:name":"River Winds Apartments",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.624256,34.241244,-80.624256,34.241244],
+  "bbox": [
+    -80.624256,
+    34.241244,
+    -80.624256,
+    34.241244
+],
   "geometry": {"coordinates":[-80.624256,34.241244],"type":"Point"}
 }

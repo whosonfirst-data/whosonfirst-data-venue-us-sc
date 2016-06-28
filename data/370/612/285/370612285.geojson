@@ -2,13 +2,14 @@
   "id": 370612285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.867241,34.117552,-80.867241,34.117552",
     "geom:latitude":34.117552,
     "geom:longitude":-80.867241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Valkyrie Cir",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370612285,
-    "wof:lastmodified":1449030590,
+    "wof:lastmodified":1467082331,
     "wof:name":"Woodlands Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.867241,34.117552,-80.867241,34.117552],
-  "geometry": {"coordinates":[-80.867241,34.117552],"type":"Point"}
+  "bbox": [
+    -80.867241,
+    34.117552,
+    -80.867241,
+    34.117552
+],
+  "geometry": {"coordinates":[-80.86724100000001,34.117552],"type":"Point"}
 }

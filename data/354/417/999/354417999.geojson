@@ -2,13 +2,14 @@
   "id": 354417999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.435327,34.874311,-82.435327,34.874311",
     "geom:latitude":34.874311,
     "geom:longitude":-82.435327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Palmetto Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354417999,
-    "wof:lastmodified":1449066616,
+    "wof:lastmodified":1467082430,
     "wof:name":"Budget Tree Svc",
     "wof:parent_id":85838763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-82.435327,34.874311,-82.435327,34.874311],
+  "bbox": [
+    -82.435327,
+    34.874311,
+    -82.435327,
+    34.874311
+],
   "geometry": {"coordinates":[-82.435327,34.874311],"type":"Point"}
 }

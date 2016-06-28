@@ -2,13 +2,14 @@
   "id": 353591539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.009304,34.484711,-82.009304,34.484711",
     "geom:latitude":34.484711,
     "geom:longitude":-82.009304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Park Pl",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353591539,
-    "wof:lastmodified":1449019632,
+    "wof:lastmodified":1467082238,
     "wof:name":"Dixie Youth Baseball Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-82.009304,34.484711,-82.009304,34.484711],
+  "bbox": [
+    -82.009304,
+    34.484711,
+    -82.009304,
+    34.484711
+],
   "geometry": {"coordinates":[-82.009304,34.484711],"type":"Point"}
 }

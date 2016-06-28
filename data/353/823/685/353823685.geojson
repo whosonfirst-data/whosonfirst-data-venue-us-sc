@@ -2,13 +2,14 @@
   "id": 353823685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.787463,32.148322,-80.787463,32.148322",
     "geom:latitude":32.148322,
     "geom:longitude":-80.787463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Bateau Rd",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353823685,
-    "wof:lastmodified":1449020761,
+    "wof:lastmodified":1467082261,
     "wof:name":"D M H Construction Corp",
     "wof:parent_id":85830025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.787463,32.148322,-80.787463,32.148322],
+  "bbox": [
+    -80.787463,
+    32.148322,
+    -80.787463,
+    32.148322
+],
   "geometry": {"coordinates":[-80.787463,32.148322],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185762221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.978815,33.616711,-78.978815,33.616711",
     "geom:latitude":33.616711,
     "geom:longitude":-78.978815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 5th Ave N",
     "sg:city":"Surfside Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185762221,
-    "wof:lastmodified":1449007739,
+    "wof:lastmodified":1467082200,
     "wof:name":"Sunset Vacations",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hotel"
     ]
 },
-  "bbox": [-78.978815,33.616711,-78.978815,33.616711],
+  "bbox": [
+    -78.978815,
+    33.616711,
+    -78.978815,
+    33.616711
+],
   "geometry": {"coordinates":[-78.978815,33.616711],"type":"Point"}
 }

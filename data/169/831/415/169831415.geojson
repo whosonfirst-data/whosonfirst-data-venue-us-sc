@@ -2,13 +2,14 @@
   "id": 169831415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.538057,33.060939,-79.538057,33.060939",
     "geom:latitude":33.060939,
     "geom:longitude":-79.538057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8913 N Hwy 17",
     "sg:city":"Mc Clellanville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169831415,
-    "wof:lastmodified":1449034628,
+    "wof:lastmodified":1467082384,
     "wof:name":"Laurel Hill Plantation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bed"
     ]
 },
-  "bbox": [-79.538057,33.060939,-79.538057,33.060939],
-  "geometry": {"coordinates":[-79.538057,33.060939],"type":"Point"}
+  "bbox": [
+    -79.538057,
+    33.060939,
+    -79.538057,
+    33.060939
+],
+  "geometry": {"coordinates":[-79.53805699999999,33.060939],"type":"Point"}
 }

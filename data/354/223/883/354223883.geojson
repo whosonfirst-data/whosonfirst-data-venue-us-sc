@@ -2,13 +2,14 @@
   "id": 354223883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.927235,32.780558,-79.927235,32.780558",
     "geom:latitude":32.780558,
     "geom:longitude":-79.927235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 E Bay St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354223883,
-    "wof:lastmodified":1449066053,
+    "wof:lastmodified":1467082417,
     "wof:name":"College Visits",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "educational"
     ]
 },
-  "bbox": [-79.927235,32.780558,-79.927235,32.780558],
+  "bbox": [
+    -79.927235,
+    32.780558,
+    -79.927235,
+    32.780558
+],
   "geometry": {"coordinates":[-79.927235,32.780558],"type":"Point"}
 }

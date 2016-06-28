@@ -2,13 +2,14 @@
   "id": 354084595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.354323,34.430593,-79.354323,34.430593",
     "geom:latitude":34.430593,
     "geom:longitude":-79.354323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 Lakeside Ct",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354084595,
-    "wof:lastmodified":1449066123,
+    "wof:lastmodified":1467082419,
     "wof:name":"Pines Nursing Home",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-79.354323,34.430593,-79.354323,34.430593],
-  "geometry": {"coordinates":[-79.354323,34.430593],"type":"Point"}
+  "bbox": [
+    -79.354323,
+    34.430593,
+    -79.354323,
+    34.430593
+],
+  "geometry": {"coordinates":[-79.35432299999999,34.430593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370327549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.121247,33.802551,-81.121247,33.802551",
     "geom:latitude":33.802551,
     "geom:longitude":-81.121247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 Cassidy Rd",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370327549,
-    "wof:lastmodified":1449029341,
+    "wof:lastmodified":1467082304,
     "wof:name":"Spring Clean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "maid"
     ]
 },
-  "bbox": [-81.121247,33.802551,-81.121247,33.802551],
+  "bbox": [
+    -81.121247,
+    33.802551,
+    -81.121247,
+    33.802551
+],
   "geometry": {"coordinates":[-81.121247,33.802551],"type":"Point"}
 }

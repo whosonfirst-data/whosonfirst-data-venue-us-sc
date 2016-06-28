@@ -2,13 +2,14 @@
   "id": 370208479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.672312,34.690998,-82.672312,34.690998",
     "geom:latitude":34.690998,
     "geom:longitude":-82.672312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 Freeman Rd",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370208479,
-    "wof:lastmodified":1449029482,
+    "wof:lastmodified":1467082307,
     "wof:name":"Horse & Riders Supplies",
     "wof:parent_id":85854499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.672312,34.690998,-82.672312,34.690998],
-  "geometry": {"coordinates":[-82.672312,34.690998],"type":"Point"}
+  "bbox": [
+    -82.672312,
+    34.690998,
+    -82.672312,
+    34.690998
+],
+  "geometry": {"coordinates":[-82.67231200000001,34.690998],"type":"Point"}
 }

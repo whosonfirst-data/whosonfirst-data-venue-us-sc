@@ -2,13 +2,14 @@
   "id": 186190719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.815213,33.683189,-79.815213,33.683189",
     "geom:latitude":33.683189,
     "geom:longitude":-79.815213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Eastland Ave",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186190719,
-    "wof:lastmodified":1449052860,
+    "wof:lastmodified":1467082411,
     "wof:name":"USDAFSIS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-79.815213,33.683189,-79.815213,33.683189],
+  "bbox": [
+    -79.815213,
+    33.683189,
+    -79.815213,
+    33.683189
+],
   "geometry": {"coordinates":[-79.815213,33.683189],"type":"Point"}
 }

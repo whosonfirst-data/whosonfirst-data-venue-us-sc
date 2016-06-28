@@ -2,13 +2,14 @@
   "id": 370915847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.313152,34.777055,-82.313152,34.777055",
     "geom:latitude":34.777055,
     "geom:longitude":-82.313152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 W Butler Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370915847,
-    "wof:lastmodified":1449032429,
+    "wof:lastmodified":1467082372,
     "wof:name":"Bi-Lo",
     "wof:parent_id":85806237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-82.313152,34.777055,-82.313152,34.777055],
+  "bbox": [
+    -82.313152,
+    34.777055,
+    -82.313152,
+    34.777055
+],
   "geometry": {"coordinates":[-82.313152,34.777055],"type":"Point"}
 }

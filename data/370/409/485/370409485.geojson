@@ -2,13 +2,14 @@
   "id": 370409485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.978405,34.214293,-80.978405,34.214293",
     "geom:latitude":34.214293,
     "geom:longitude":-80.978405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Blythewood Rd",
     "sg:city":"Blythewood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370409485,
-    "wof:lastmodified":1449030476,
+    "wof:lastmodified":1467082329,
     "wof:name":"Sharpe Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.978405,34.214293,-80.978405,34.214293],
+  "bbox": [
+    -80.978405,
+    34.214293,
+    -80.978405,
+    34.214293
+],
   "geometry": {"coordinates":[-80.978405,34.214293],"type":"Point"}
 }

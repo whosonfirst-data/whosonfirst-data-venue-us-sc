@@ -2,13 +2,14 @@
   "id": 185626991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.015848,34.498986,-82.015848,34.498986",
     "geom:latitude":34.498986,
     "geom:longitude":-82.015848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 N Caroline St",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185626991,
-    "wof:lastmodified":1449008208,
+    "wof:lastmodified":1467082207,
     "wof:name":"South One Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-82.015848,34.498986,-82.015848,34.498986],
-  "geometry": {"coordinates":[-82.015848,34.498986],"type":"Point"}
+  "bbox": [
+    -82.015848,
+    34.498986,
+    -82.015848,
+    34.498986
+],
+  "geometry": {"coordinates":[-82.01584800000001,34.498986],"type":"Point"}
 }

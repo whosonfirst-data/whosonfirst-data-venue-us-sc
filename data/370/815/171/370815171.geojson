@@ -2,13 +2,14 @@
   "id": 370815171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.946011,34.941779,-81.946011,34.941779",
     "geom:latitude":34.941779,
     "geom:longitude":-81.946011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 E Victoria Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370815171,
-    "wof:lastmodified":1449030735,
+    "wof:lastmodified":1467082335,
     "wof:name":"Joe A Harris Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "paper"
     ]
 },
-  "bbox": [-81.946011,34.941779,-81.946011,34.941779],
+  "bbox": [
+    -81.946011,
+    34.941779,
+    -81.946011,
+    34.941779
+],
   "geometry": {"coordinates":[-81.946011,34.941779],"type":"Point"}
 }

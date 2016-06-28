@@ -2,13 +2,14 @@
   "id": 185690447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.572228,34.828529,-82.572228,34.828529",
     "geom:latitude":34.828529,
     "geom:longitude":-82.572228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Peachtree St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185690447,
-    "wof:lastmodified":1449007476,
+    "wof:lastmodified":1467082195,
     "wof:name":"Steve's Tire & Svc Ctr",
     "wof:parent_id":85819785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-82.572228,34.828529,-82.572228,34.828529],
+  "bbox": [
+    -82.572228,
+    34.828529,
+    -82.572228,
+    34.828529
+],
   "geometry": {"coordinates":[-82.572228,34.828529],"type":"Point"}
 }

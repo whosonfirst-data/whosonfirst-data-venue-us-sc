@@ -2,13 +2,14 @@
   "id": 370301573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.721173,33.809087,-78.721173,33.809087",
     "geom:latitude":33.809087,
     "geom:longitude":-78.721173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Airport Blvd",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370301573,
-    "wof:lastmodified":1449029962,
+    "wof:lastmodified":1467082317,
     "wof:name":"Sunrise Beverage Inc",
     "wof:parent_id":85852275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beverage"
     ]
 },
-  "bbox": [-78.721173,33.809087,-78.721173,33.809087],
-  "geometry": {"coordinates":[-78.721173,33.809087],"type":"Point"}
+  "bbox": [
+    -78.721173,
+    33.809087,
+    -78.721173,
+    33.809087
+],
+  "geometry": {"coordinates":[-78.72117299999999,33.809087],"type":"Point"}
 }

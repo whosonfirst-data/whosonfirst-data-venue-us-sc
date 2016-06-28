@@ -2,13 +2,14 @@
   "id": 337503667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.252546,33.990065,-81.252546,33.990065",
     "geom:latitude":33.990065,
     "geom:longitude":-81.252546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Rama Ct",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337503667,
-    "wof:lastmodified":1449027740,
+    "wof:lastmodified":1467082295,
     "wof:name":"Mark Cain",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.252546,33.990065,-81.252546,33.990065],
+  "bbox": [
+    -81.252546,
+    33.990065,
+    -81.252546,
+    33.990065
+],
   "geometry": {"coordinates":[-81.252546,33.990065],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354255895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.703989,34.56062,-82.703989,34.56062",
     "geom:latitude":34.56062,
     "geom:longitude":-82.703989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 Ridge Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354255895,
-    "wof:lastmodified":1449066686,
+    "wof:lastmodified":1467082432,
     "wof:name":"South Atlantic Insurance Assoc",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.703989,34.56062,-82.703989,34.56062],
-  "geometry": {"coordinates":[-82.703989,34.56062],"type":"Point"}
+  "bbox": [
+    -82.703989,
+    34.56062,
+    -82.703989,
+    34.56062
+],
+  "geometry": {"coordinates":[-82.70398900000001,34.56062],"type":"Point"}
 }

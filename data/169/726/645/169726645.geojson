@@ -2,13 +2,14 @@
   "id": 169726645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.018563,33.809688,-79.018563,33.809688",
     "geom:latitude":33.809688,
     "geom:longitude":-79.018563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Hwy 544",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169726645,
-    "wof:lastmodified":1449034953,
+    "wof:lastmodified":1467082384,
     "wof:name":"Sandlapper Contractor",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-79.018563,33.809688,-79.018563,33.809688],
+  "bbox": [
+    -79.018563,
+    33.809688,
+    -79.018563,
+    33.809688
+],
   "geometry": {"coordinates":[-79.018563,33.809688],"type":"Point"}
 }

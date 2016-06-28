@@ -2,13 +2,14 @@
   "id": 353532479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.352019,34.368689,-82.352019,34.368689",
     "geom:latitude":34.368689,
     "geom:longitude":-82.352019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6158 State Hwy 184",
     "sg:city":"Donalds",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353532479,
-    "wof:lastmodified":1449019126,
+    "wof:lastmodified":1467082227,
     "wof:name":"Greenville Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.352019,34.368689,-82.352019,34.368689],
+  "bbox": [
+    -82.352019,
+    34.368689,
+    -82.352019,
+    34.368689
+],
   "geometry": {"coordinates":[-82.352019,34.368689],"type":"Point"}
 }

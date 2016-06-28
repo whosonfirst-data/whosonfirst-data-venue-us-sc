@@ -2,13 +2,14 @@
   "id": 354134941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.377988,34.337762,-82.377988,34.337762",
     "geom:latitude":34.337762,
     "geom:longitude":-82.377988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Gordon St",
     "sg:city":"Due West",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354134941,
-    "wof:lastmodified":1449067579,
+    "wof:lastmodified":1467082452,
     "wof:name":"Emerald Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.377988,34.337762,-82.377988,34.337762],
+  "bbox": [
+    -82.377988,
+    34.337762,
+    -82.377988,
+    34.337762
+],
   "geometry": {"coordinates":[-82.377988,34.337762],"type":"Point"}
 }

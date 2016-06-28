@@ -2,13 +2,14 @@
   "id": 353842329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.975629,33.990911,-80.975629,33.990911",
     "geom:latitude":33.990911,
     "geom:longitude":-80.975629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4630 Devine St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353842329,
-    "wof:lastmodified":1449018447,
+    "wof:lastmodified":1467082214,
     "wof:name":"West Bridge Pawn Inc",
     "wof:parent_id":85897265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-80.975629,33.990911,-80.975629,33.990911],
+  "bbox": [
+    -80.975629,
+    33.990911,
+    -80.975629,
+    33.990911
+],
   "geometry": {"coordinates":[-80.975629,33.990911],"type":"Point"}
 }

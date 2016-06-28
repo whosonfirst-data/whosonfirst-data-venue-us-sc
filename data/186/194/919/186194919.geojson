@@ -2,13 +2,14 @@
   "id": 186194919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.596346,34.157215,-81.596346,34.157215",
     "geom:latitude":34.157215,
     "geom:longitude":-81.596346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4197 Stoney Hill Rd",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186194919,
-    "wof:lastmodified":1449052626,
+    "wof:lastmodified":1467082409,
     "wof:name":"Carroll Lester",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-81.596346,34.157215,-81.596346,34.157215],
+  "bbox": [
+    -81.596346,
+    34.157215,
+    -81.596346,
+    34.157215
+],
   "geometry": {"coordinates":[-81.596346,34.157215],"type":"Point"}
 }

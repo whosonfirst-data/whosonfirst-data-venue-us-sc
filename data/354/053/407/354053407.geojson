@@ -2,13 +2,14 @@
   "id": 354053407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.735398,33.503647,-81.735398,33.503647",
     "geom:latitude":33.503647,
     "geom:longitude":-81.735398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Juniper Loop",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354053407,
-    "wof:lastmodified":1449066252,
+    "wof:lastmodified":1467082422,
     "wof:name":"Holiday Designs",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.735398,33.503647,-81.735398,33.503647],
+  "bbox": [
+    -81.735398,
+    33.503647,
+    -81.735398,
+    33.503647
+],
   "geometry": {"coordinates":[-81.735398,33.503647],"type":"Point"}
 }

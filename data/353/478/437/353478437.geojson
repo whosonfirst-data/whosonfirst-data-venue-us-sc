@@ -2,13 +2,14 @@
   "id": 353478437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.035192,33.985457,-81.035192,33.985457",
     "geom:latitude":33.985457,
     "geom:longitude":-81.035192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 Whaley St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353478437,
-    "wof:lastmodified":1449018327,
+    "wof:lastmodified":1467082211,
     "wof:name":"Danny Schumpert Photography",
     "wof:parent_id":85839583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-81.035192,33.985457,-81.035192,33.985457],
+  "bbox": [
+    -81.035192,
+    33.985457,
+    -81.035192,
+    33.985457
+],
   "geometry": {"coordinates":[-81.035192,33.985457],"type":"Point"}
 }

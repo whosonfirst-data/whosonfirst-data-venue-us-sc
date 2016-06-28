@@ -2,13 +2,14 @@
   "id": 370764811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.700732,33.807469,-78.700732,33.807469",
     "geom:latitude":33.807469,
     "geom:longitude":-78.700732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 S Ocean Blvd",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370764811,
-    "wof:lastmodified":1449032311,
+    "wof:lastmodified":1467082370,
     "wof:name":"Giant",
     "wof:parent_id":85841995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.700732,33.807469,-78.700732,33.807469],
+  "bbox": [
+    -78.700732,
+    33.807469,
+    -78.700732,
+    33.807469
+],
   "geometry": {"coordinates":[-78.700732,33.807469],"type":"Point"}
 }

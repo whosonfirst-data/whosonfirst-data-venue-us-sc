@@ -2,13 +2,14 @@
   "id": 337637473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.022692,34.074531,-81.022692,34.074531",
     "geom:latitude":34.074531,
     "geom:longitude":-81.022692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6418 Fairfield Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":337637473,
-    "wof:lastmodified":1449026933,
+    "wof:lastmodified":1467082265,
     "wof:name":"Buck Enterprises LLC",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "program"
     ]
 },
-  "bbox": [-81.022692,34.074531,-81.022692,34.074531],
-  "geometry": {"coordinates":[-81.022692,34.074531],"type":"Point"}
+  "bbox": [
+    -81.022692,
+    34.074531,
+    -81.022692,
+    34.074531
+],
+  "geometry": {"coordinates":[-81.02269200000001,34.074531],"type":"Point"}
 }

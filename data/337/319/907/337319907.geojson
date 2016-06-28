@@ -2,13 +2,14 @@
   "id": 337319907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.980317,32.857547,-79.980317,32.857547",
     "geom:latitude":32.857547,
     "geom:longitude":-79.980317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Rivers Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337319907,
-    "wof:lastmodified":1449027265,
+    "wof:lastmodified":1467082277,
     "wof:name":"K R Kerrigan MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.980317,32.857547,-79.980317,32.857547],
+  "bbox": [
+    -79.980317,
+    32.857547,
+    -79.980317,
+    32.857547
+],
   "geometry": {"coordinates":[-79.980317,32.857547],"type":"Point"}
 }

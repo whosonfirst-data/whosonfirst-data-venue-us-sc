@@ -2,13 +2,14 @@
   "id": 370477955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.677412,33.829193,-78.677412,33.829193",
     "geom:latitude":33.829193,
     "geom:longitude":-78.677412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 2nd Ave N",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370477955,
-    "wof:lastmodified":1449029671,
+    "wof:lastmodified":1467082311,
     "wof:name":"Bay Printing",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-78.677412,33.829193,-78.677412,33.829193],
+  "bbox": [
+    -78.677412,
+    33.829193,
+    -78.677412,
+    33.829193
+],
   "geometry": {"coordinates":[-78.677412,33.829193],"type":"Point"}
 }

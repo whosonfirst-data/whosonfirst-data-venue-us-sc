@@ -2,13 +2,14 @@
   "id": 370652143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.574009,32.445691,-80.574009,32.445691",
     "geom:latitude":32.445691,
     "geom:longitude":-80.574009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"733 N Reeve Rd",
     "sg:city":"Frogmore",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370652143,
-    "wof:lastmodified":1449031259,
+    "wof:lastmodified":1467082346,
     "wof:name":"Bamford Co",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.574009,32.445691,-80.574009,32.445691],
+  "bbox": [
+    -80.574009,
+    32.445691,
+    -80.574009,
+    32.445691
+],
   "geometry": {"coordinates":[-80.574009,32.445691],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186022799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.038681,32.813075,-80.038681,32.813075",
     "geom:latitude":32.813075,
     "geom:longitude":-80.038681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2235 Ashley Crossing Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186022799,
-    "wof:lastmodified":1449051284,
+    "wof:lastmodified":1467082396,
     "wof:name":"Charleston Fishing Guide",
     "wof:parent_id":85809785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-80.038681,32.813075,-80.038681,32.813075],
+  "bbox": [
+    -80.038681,
+    32.813075,
+    -80.038681,
+    32.813075
+],
   "geometry": {"coordinates":[-80.038681,32.813075],"type":"Point"}
 }

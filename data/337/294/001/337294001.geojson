@@ -2,13 +2,14 @@
   "id": 337294001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.848117,32.833929,-79.848117,32.833929",
     "geom:latitude":32.833929,
     "geom:longitude":-79.848117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Upland Pl",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337294001,
-    "wof:lastmodified":1449027526,
+    "wof:lastmodified":1467082287,
     "wof:name":"DNE Properties Inc",
     "wof:parent_id":85849287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-79.848117,32.833929,-79.848117,32.833929],
+  "bbox": [
+    -79.848117,
+    32.833929,
+    -79.848117,
+    32.833929
+],
   "geometry": {"coordinates":[-79.848117,32.833929],"type":"Point"}
 }

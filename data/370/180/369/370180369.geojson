@@ -2,13 +2,14 @@
   "id": 370180369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.799548,34.704573,-82.799548,34.704573",
     "geom:latitude":34.704573,
     "geom:longitude":-82.799548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1743 Old Central Rd",
     "sg:city":"Central",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370180369,
-    "wof:lastmodified":1449029206,
+    "wof:lastmodified":1467082301,
     "wof:name":"Pine Lake Garden Ctr",
     "wof:parent_id":85824489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-82.799548,34.704573,-82.799548,34.704573],
+  "bbox": [
+    -82.799548,
+    34.704573,
+    -82.799548,
+    34.704573
+],
   "geometry": {"coordinates":[-82.799548,34.704573],"type":"Point"}
 }

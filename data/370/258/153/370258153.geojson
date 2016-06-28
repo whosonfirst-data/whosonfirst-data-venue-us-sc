@@ -2,13 +2,14 @@
   "id": 370258153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.061016,33.84742,-79.061016,33.84742",
     "geom:latitude":33.84742,
     "geom:longitude":-79.061016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1291 US Hwy 501 Bus",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370258153,
-    "wof:lastmodified":1449031789,
+    "wof:lastmodified":1467082358,
     "wof:name":"Conway Rental Ctr",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rental"
     ]
 },
-  "bbox": [-79.061016,33.84742,-79.061016,33.84742],
+  "bbox": [
+    -79.061016,
+    33.84742,
+    -79.061016,
+    33.84742
+],
   "geometry": {"coordinates":[-79.061016,33.84742],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370587841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.515443,35.120882,-81.515443,35.120882",
     "geom:latitude":35.120882,
     "geom:longitude":-81.515443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Shelby St",
     "sg:city":"Blacksburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370587841,
-    "wof:lastmodified":1449030259,
+    "wof:lastmodified":1467082324,
     "wof:name":"Blacksburg Mayor's Office",
     "wof:parent_id":85816975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-81.515443,35.120882,-81.515443,35.120882],
+  "bbox": [
+    -81.515443,
+    35.120882,
+    -81.515443,
+    35.120882
+],
   "geometry": {"coordinates":[-81.515443,35.120882],"type":"Point"}
 }

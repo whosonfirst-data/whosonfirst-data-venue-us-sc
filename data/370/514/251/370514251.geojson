@@ -2,13 +2,14 @@
   "id": 370514251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.294137,34.837362,-82.294137,34.837362",
     "geom:latitude":34.837362,
     "geom:longitude":-82.294137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6035 Ponders Ct",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370514251,
-    "wof:lastmodified":1449030781,
+    "wof:lastmodified":1467082335,
     "wof:name":"Rental Guide Magazine",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rental"
     ]
 },
-  "bbox": [-82.294137,34.837362,-82.294137,34.837362],
-  "geometry": {"coordinates":[-82.294137,34.837362],"type":"Point"}
+  "bbox": [
+    -82.294137,
+    34.837362,
+    -82.294137,
+    34.837362
+],
+  "geometry": {"coordinates":[-82.29413700000001,34.837362],"type":"Point"}
 }

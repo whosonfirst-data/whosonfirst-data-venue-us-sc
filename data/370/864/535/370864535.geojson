@@ -2,13 +2,14 @@
   "id": 370864535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.768955,33.997759,-81.768955,33.997759",
     "geom:latitude":33.997759,
     "geom:longitude":-81.768955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 S Jennings St",
     "sg:city":"Saluda",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370864535,
-    "wof:lastmodified":1449032516,
+    "wof:lastmodified":1467082374,
     "wof:name":"Saluda Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.768955,33.997759,-81.768955,33.997759],
-  "geometry": {"coordinates":[-81.768955,33.997759],"type":"Point"}
+  "bbox": [
+    -81.768955,
+    33.997759,
+    -81.768955,
+    33.997759
+],
+  "geometry": {"coordinates":[-81.76895500000001,33.997759],"type":"Point"}
 }

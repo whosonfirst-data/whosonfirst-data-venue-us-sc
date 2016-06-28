@@ -2,13 +2,14 @@
   "id": 354377373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.725945,32.213913,-80.725945,32.213913",
     "geom:latitude":32.213913,
     "geom:longitude":-80.725945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Main St",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354377373,
-    "wof:lastmodified":1449066556,
+    "wof:lastmodified":1467082429,
     "wof:name":"Keglers Bar & Grill",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-80.725945,32.213913,-80.725945,32.213913],
+  "bbox": [
+    -80.725945,
+    32.213913,
+    -80.725945,
+    32.213913
+],
   "geometry": {"coordinates":[-80.725945,32.213913],"type":"Point"}
 }

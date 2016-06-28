@@ -2,13 +2,14 @@
   "id": 353575591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.719578,34.153082,-79.719578,34.153082",
     "geom:latitude":34.153082,
     "geom:longitude":-79.719578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2142 Woodmore Cir",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353575591,
-    "wof:lastmodified":1449019013,
+    "wof:lastmodified":1467082225,
     "wof:name":"Palmetto Residential Cnstr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.719578,34.153082,-79.719578,34.153082],
+  "bbox": [
+    -79.719578,
+    34.153082,
+    -79.719578,
+    34.153082
+],
   "geometry": {"coordinates":[-79.719578,34.153082],"type":"Point"}
 }

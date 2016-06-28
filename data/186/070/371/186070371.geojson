@@ -2,13 +2,14 @@
   "id": 186070371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.455138,34.706137,-82.455138,34.706137",
     "geom:latitude":34.706137,
     "geom:longitude":-82.455138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Greenville St",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186070371,
-    "wof:lastmodified":1449051681,
+    "wof:lastmodified":1467082400,
     "wof:name":"L&S Produce Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.455138,34.706137,-82.455138,34.706137],
-  "geometry": {"coordinates":[-82.455138,34.706137],"type":"Point"}
+  "bbox": [
+    -82.455138,
+    34.706137,
+    -82.455138,
+    34.706137
+],
+  "geometry": {"coordinates":[-82.45513800000001,34.706137],"type":"Point"}
 }

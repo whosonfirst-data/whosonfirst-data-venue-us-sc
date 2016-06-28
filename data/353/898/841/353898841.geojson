@@ -2,13 +2,14 @@
   "id": 353898841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.653675,34.690278,-82.653675,34.690278",
     "geom:latitude":34.690278,
     "geom:longitude":-82.653675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"639 Melton Rd",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353898841,
-    "wof:lastmodified":1449018204,
+    "wof:lastmodified":1467082209,
     "wof:name":"Stoneridge Equestrian Ctr",
     "wof:parent_id":85854499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-82.653675,34.690278,-82.653675,34.690278],
-  "geometry": {"coordinates":[-82.653675,34.690278],"type":"Point"}
+  "bbox": [
+    -82.653675,
+    34.690278,
+    -82.653675,
+    34.690278
+],
+  "geometry": {"coordinates":[-82.65367500000001,34.690278],"type":"Point"}
 }

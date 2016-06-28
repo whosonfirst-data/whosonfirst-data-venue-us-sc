@@ -2,13 +2,14 @@
   "id": 337586109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.467216,34.644145,-82.467216,34.644145",
     "geom:latitude":34.644145,
     "geom:longitude":-82.467216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Main St",
     "sg:city":"Pelzer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337586109,
-    "wof:lastmodified":1449027649,
+    "wof:lastmodified":1467082292,
     "wof:name":"West Pelzer Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-82.467216,34.644145,-82.467216,34.644145],
-  "geometry": {"coordinates":[-82.467216,34.644145],"type":"Point"}
+  "bbox": [
+    -82.467216,
+    34.644145,
+    -82.467216,
+    34.644145
+],
+  "geometry": {"coordinates":[-82.46721599999999,34.644145],"type":"Point"}
 }

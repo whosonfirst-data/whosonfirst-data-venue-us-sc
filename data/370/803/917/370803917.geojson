@@ -2,13 +2,14 @@
   "id": 370803917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.902061,33.709408,-78.902061,33.709408",
     "geom:latitude":33.709408,
     "geom:longitude":-78.902061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Seaboard St",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370803917,
-    "wof:lastmodified":1449032516,
+    "wof:lastmodified":1467082374,
     "wof:name":"Barefoot Republic Of Myrtle",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.902061,33.709408,-78.902061,33.709408],
+  "bbox": [
+    -78.902061,
+    33.709408,
+    -78.902061,
+    33.709408
+],
   "geometry": {"coordinates":[-78.902061,33.709408],"type":"Point"}
 }

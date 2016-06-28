@@ -2,13 +2,14 @@
   "id": 354175627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.406982,33.539769,-79.406982,33.539769",
     "geom:latitude":33.539769,
     "geom:longitude":-79.406982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Comanche Dr",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354175627,
-    "wof:lastmodified":1449067154,
+    "wof:lastmodified":1467082442,
     "wof:name":"Computer Ind Apps",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.406982,33.539769,-79.406982,33.539769],
+  "bbox": [
+    -79.406982,
+    33.539769,
+    -79.406982,
+    33.539769
+],
   "geometry": {"coordinates":[-79.406982,33.539769],"type":"Point"}
 }

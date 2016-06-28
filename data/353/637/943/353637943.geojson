@@ -2,13 +2,14 @@
   "id": 353637943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.863987,33.489797,-80.863987,33.489797",
     "geom:latitude":33.489797,
     "geom:longitude":-80.863987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1081 Middleton St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353637943,
-    "wof:lastmodified":1449018262,
+    "wof:lastmodified":1467082210,
     "wof:name":"Peake Fowler & Assoc",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.863987,33.489797,-80.863987,33.489797],
-  "geometry": {"coordinates":[-80.863987,33.489797],"type":"Point"}
+  "bbox": [
+    -80.863987,
+    33.489797,
+    -80.863987,
+    33.489797
+],
+  "geometry": {"coordinates":[-80.86398699999999,33.489797],"type":"Point"}
 }

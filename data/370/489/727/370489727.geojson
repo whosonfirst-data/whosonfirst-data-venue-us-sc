@@ -2,13 +2,14 @@
   "id": 370489727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.946502,32.780093,-79.946502,32.780093",
     "geom:latitude":32.780093,
     "geom:longitude":-79.946502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Barre St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370489727,
-    "wof:lastmodified":1449030917,
+    "wof:lastmodified":1467082339,
     "wof:name":"Ef International",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agency"
     ]
 },
-  "bbox": [-79.946502,32.780093,-79.946502,32.780093],
+  "bbox": [
+    -79.946502,
+    32.780093,
+    -79.946502,
+    32.780093
+],
   "geometry": {"coordinates":[-79.946502,32.780093],"type":"Point"}
 }

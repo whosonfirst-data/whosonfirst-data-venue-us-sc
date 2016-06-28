@@ -2,13 +2,14 @@
   "id": 353626851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.943268,34.875873,-80.943268,34.875873",
     "geom:latitude":34.875873,
     "geom:longitude":-80.943268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3747 Lesslie Hwy",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353626851,
-    "wof:lastmodified":1449020796,
+    "wof:lastmodified":1467082262,
     "wof:name":"White Oak Farms Inc",
     "wof:parent_id":85833915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tract"
     ]
 },
-  "bbox": [-80.943268,34.875873,-80.943268,34.875873],
+  "bbox": [
+    -80.943268,
+    34.875873,
+    -80.943268,
+    34.875873
+],
   "geometry": {"coordinates":[-80.943268,34.875873],"type":"Point"}
 }

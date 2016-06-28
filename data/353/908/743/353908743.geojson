@@ -2,13 +2,14 @@
   "id": 353908743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.13535,35.035731,-81.13535,35.035731",
     "geom:latitude":35.035731,
     "geom:longitude":-81.13535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 S Paraham Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353908743,
-    "wof:lastmodified":1449019707,
+    "wof:lastmodified":1467082239,
     "wof:name":"Bazluki Industries",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.13535,35.035731,-81.13535,35.035731],
+  "bbox": [
+    -81.13535,
+    35.035731,
+    -81.13535,
+    35.035731
+],
   "geometry": {"coordinates":[-81.13535,35.035731],"type":"Point"}
 }

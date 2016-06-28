@@ -2,13 +2,14 @@
   "id": 370945067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.03998,34.745217,-82.03998,34.745217",
     "geom:latitude":34.745217,
     "geom:longitude":-82.03998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Peachtree St",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370945067,
-    "wof:lastmodified":1449029374,
+    "wof:lastmodified":1467082304,
     "wof:name":"Woodruff Schools Comm Ctr",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.03998,34.745217,-82.03998,34.745217],
+  "bbox": [
+    -82.03998,
+    34.745217,
+    -82.03998,
+    34.745217
+],
   "geometry": {"coordinates":[-82.03998,34.745217],"type":"Point"}
 }

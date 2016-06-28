@@ -2,13 +2,14 @@
   "id": 370916561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.020401,34.991108,-81.020401,34.991108",
     "geom:latitude":34.991108,
     "geom:longitude":-81.020401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3067 India Hook Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370916561,
-    "wof:lastmodified":1449030924,
+    "wof:lastmodified":1467082339,
     "wof:name":"Hallmark Inc Of Rock Hill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.020401,34.991108,-81.020401,34.991108],
-  "geometry": {"coordinates":[-81.020401,34.991108],"type":"Point"}
+  "bbox": [
+    -81.020401,
+    34.991108,
+    -81.020401,
+    34.991108
+],
+  "geometry": {"coordinates":[-81.02040100000001,34.991108],"type":"Point"}
 }

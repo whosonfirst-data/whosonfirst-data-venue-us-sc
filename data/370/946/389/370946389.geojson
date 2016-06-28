@@ -2,13 +2,14 @@
   "id": 370946389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.876996,34.155546,-79.876996,34.155546",
     "geom:latitude":34.155546,
     "geom:longitude":-79.876996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3311 Meadors Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370946389,
-    "wof:lastmodified":1449032068,
+    "wof:lastmodified":1467082364,
     "wof:name":"Young's Plantation Inn",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rooms"
     ]
 },
-  "bbox": [-79.876996,34.155546,-79.876996,34.155546],
-  "geometry": {"coordinates":[-79.876996,34.155546],"type":"Point"}
+  "bbox": [
+    -79.876996,
+    34.155546,
+    -79.876996,
+    34.155546
+],
+  "geometry": {"coordinates":[-79.87699600000001,34.155546],"type":"Point"}
 }

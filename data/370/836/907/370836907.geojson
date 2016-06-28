@@ -2,13 +2,14 @@
   "id": 370836907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.889161,33.137324,-79.889161,33.137324",
     "geom:latitude":33.137324,
     "geom:longitude":-79.889161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1078 Alligator Rd",
     "sg:city":"Huger",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370836907,
-    "wof:lastmodified":1449031315,
+    "wof:lastmodified":1467082347,
     "wof:name":"Berkeley County Sanitation",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-79.889161,33.137324,-79.889161,33.137324],
+  "bbox": [
+    -79.889161,
+    33.137324,
+    -79.889161,
+    33.137324
+],
   "geometry": {"coordinates":[-79.889161,33.137324],"type":"Point"}
 }

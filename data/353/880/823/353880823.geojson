@@ -2,13 +2,14 @@
   "id": 353880823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.008552,33.591631,-79.008552,33.591631",
     "geom:latitude":33.591631,
     "geom:longitude":-79.008552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Garden Lake Dr",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353880823,
-    "wof:lastmodified":1449020826,
+    "wof:lastmodified":1467082262,
     "wof:name":"Jean's Pet Boutique",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-79.008552,33.591631,-79.008552,33.591631],
-  "geometry": {"coordinates":[-79.008552,33.591631],"type":"Point"}
+  "bbox": [
+    -79.008552,
+    33.591631,
+    -79.008552,
+    33.591631
+],
+  "geometry": {"coordinates":[-79.00855199999999,33.591631],"type":"Point"}
 }

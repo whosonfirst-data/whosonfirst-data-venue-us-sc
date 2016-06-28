@@ -2,13 +2,14 @@
   "id": 370311747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.031259,32.983003,-80.031259,32.983003",
     "geom:latitude":32.983003,
     "geom:longitude":-80.031259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"541 Red Bank Rd",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370311747,
-    "wof:lastmodified":1449029884,
+    "wof:lastmodified":1467082316,
     "wof:name":"Calvary Church Of The Nazarene",
     "wof:parent_id":85852091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.031259,32.983003,-80.031259,32.983003],
-  "geometry": {"coordinates":[-80.031259,32.983003],"type":"Point"}
+  "bbox": [
+    -80.031259,
+    32.983003,
+    -80.031259,
+    32.983003
+],
+  "geometry": {"coordinates":[-80.03125900000001,32.983003],"type":"Point"}
 }

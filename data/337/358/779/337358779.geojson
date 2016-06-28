@@ -2,13 +2,14 @@
   "id": 337358779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.645766,33.206741,-80.645766,33.206741",
     "geom:latitude":33.206741,
     "geom:longitude":-80.645766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6710 Johnston Ave",
     "sg:city":"Reevesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337358779,
-    "wof:lastmodified":1449027275,
+    "wof:lastmodified":1467082278,
     "wof:name":"St Matthews Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.645766,33.206741,-80.645766,33.206741],
-  "geometry": {"coordinates":[-80.645766,33.206741],"type":"Point"}
+  "bbox": [
+    -80.645766,
+    33.206741,
+    -80.645766,
+    33.206741
+],
+  "geometry": {"coordinates":[-80.64576599999999,33.206741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354363025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.713974,33.558204,-80.713974,33.558204",
     "geom:latitude":33.558204,
     "geom:longitude":-80.713974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Boyce Lawton Dr",
     "sg:city":"Cameron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354363025,
-    "wof:lastmodified":1449067466,
+    "wof:lastmodified":1467082449,
     "wof:name":"Donald M Phillips DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.713974,33.558204,-80.713974,33.558204],
-  "geometry": {"coordinates":[-80.713974,33.558204],"type":"Point"}
+  "bbox": [
+    -80.713974,
+    33.558204,
+    -80.713974,
+    33.558204
+],
+  "geometry": {"coordinates":[-80.71397399999999,33.558204],"type":"Point"}
 }

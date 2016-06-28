@@ -2,13 +2,14 @@
   "id": 370438765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.934152,34.976212,-81.934152,34.976212",
     "geom:latitude":34.976212,
     "geom:longitude":-81.934152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"695 Chesnee Hwy",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370438765,
-    "wof:lastmodified":1449030246,
+    "wof:lastmodified":1467082324,
     "wof:name":"Collins Entertainment Corp",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "amusement"
     ]
 },
-  "bbox": [-81.934152,34.976212,-81.934152,34.976212],
+  "bbox": [
+    -81.934152,
+    34.976212,
+    -81.934152,
+    34.976212
+],
   "geometry": {"coordinates":[-81.934152,34.976212],"type":"Point"}
 }

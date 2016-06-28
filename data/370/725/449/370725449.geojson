@@ -2,13 +2,14 @@
   "id": 370725449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.210293,33.976498,-81.210293,33.976498",
     "geom:latitude":33.976498,
     "geom:longitude":-81.210293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Tarrar Springs Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370725449,
-    "wof:lastmodified":1449029919,
+    "wof:lastmodified":1467082316,
     "wof:name":"Southern Steel Detailers",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-81.210293,33.976498,-81.210293,33.976498],
-  "geometry": {"coordinates":[-81.210293,33.976498],"type":"Point"}
+  "bbox": [
+    -81.210293,
+    33.976498,
+    -81.210293,
+    33.976498
+],
+  "geometry": {"coordinates":[-81.21029299999999,33.976498],"type":"Point"}
 }

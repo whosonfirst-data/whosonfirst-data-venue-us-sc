@@ -2,13 +2,14 @@
   "id": 354391423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.213611,33.687863,-80.213611,33.687863",
     "geom:latitude":33.687863,
     "geom:longitude":-80.213611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 W Hospital St",
     "sg:city":"Manning",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354391423,
-    "wof:lastmodified":1449067055,
+    "wof:lastmodified":1467082440,
     "wof:name":"Clarendon Surgical Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.213611,33.687863,-80.213611,33.687863],
+  "bbox": [
+    -80.213611,
+    33.687863,
+    -80.213611,
+    33.687863
+],
   "geometry": {"coordinates":[-80.213611,33.687863],"type":"Point"}
 }

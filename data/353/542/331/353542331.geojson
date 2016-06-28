@@ -2,13 +2,14 @@
   "id": 353542331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.643578,32.898339,-80.643578,32.898339",
     "geom:latitude":32.898339,
     "geom:longitude":-80.643578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Highland Cir",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353542331,
-    "wof:lastmodified":1449020257,
+    "wof:lastmodified":1467082250,
     "wof:name":"Harold Groves Plumbing Contr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.643578,32.898339,-80.643578,32.898339],
-  "geometry": {"coordinates":[-80.643578,32.898339],"type":"Point"}
+  "bbox": [
+    -80.643578,
+    32.898339,
+    -80.643578,
+    32.898339
+],
+  "geometry": {"coordinates":[-80.64357800000001,32.898339],"type":"Point"}
 }

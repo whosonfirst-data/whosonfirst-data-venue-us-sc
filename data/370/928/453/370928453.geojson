@@ -2,13 +2,14 @@
   "id": 370928453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.956106,34.681888,-82.956106,34.681888",
     "geom:latitude":34.681888,
     "geom:longitude":-82.956106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 S Oak St",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370928453,
-    "wof:lastmodified":1449031998,
+    "wof:lastmodified":1467082363,
     "wof:name":"Prime Time Pressure Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "deck"
     ]
 },
-  "bbox": [-82.956106,34.681888,-82.956106,34.681888],
-  "geometry": {"coordinates":[-82.956106,34.681888],"type":"Point"}
+  "bbox": [
+    -82.956106,
+    34.681888,
+    -82.956106,
+    34.681888
+],
+  "geometry": {"coordinates":[-82.95610600000001,34.681888],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337293073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.014749,34.495549,-82.014749,34.495549",
     "geom:latitude":34.495549,
     "geom:longitude":-82.014749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 S Harper St",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337293073,
-    "wof:lastmodified":1449027080,
+    "wof:lastmodified":1467082270,
     "wof:name":"Bennett Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.014749,34.495549,-82.014749,34.495549],
-  "geometry": {"coordinates":[-82.014749,34.495549],"type":"Point"}
+  "bbox": [
+    -82.014749,
+    34.495549,
+    -82.014749,
+    34.495549
+],
+  "geometry": {"coordinates":[-82.01474899999999,34.495549],"type":"Point"}
 }

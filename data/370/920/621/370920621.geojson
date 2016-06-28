@@ -2,13 +2,14 @@
   "id": 370920621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.139382,33.979756,-81.139382,33.979756",
     "geom:latitude":33.979756,
     "geom:longitude":-81.139382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 Wren Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370920621,
-    "wof:lastmodified":1449031719,
+    "wof:lastmodified":1467082357,
     "wof:name":"Harmony Green",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.139382,33.979756,-81.139382,33.979756],
+  "bbox": [
+    -81.139382,
+    33.979756,
+    -81.139382,
+    33.979756
+],
   "geometry": {"coordinates":[-81.139382,33.979756],"type":"Point"}
 }

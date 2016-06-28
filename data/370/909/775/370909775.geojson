@@ -2,13 +2,14 @@
   "id": 370909775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.17904,33.025892,-80.17904,33.025892",
     "geom:latitude":33.025892,
     "geom:longitude":-80.17904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Hickory St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370909775,
-    "wof:lastmodified":1449031645,
+    "wof:lastmodified":1467082355,
     "wof:name":"Company B-1-1-118",
     "wof:parent_id":85833421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "recruiting"
     ]
 },
-  "bbox": [-80.17904,33.025892,-80.17904,33.025892],
+  "bbox": [
+    -80.17904,
+    33.025892,
+    -80.17904,
+    33.025892
+],
   "geometry": {"coordinates":[-80.17904,33.025892],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185624205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.200588,33.976743,-81.200588,33.976743",
     "geom:latitude":33.976743,
     "geom:longitude":-81.200588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Fergon Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":185624205,
-    "wof:lastmodified":1449007695,
+    "wof:lastmodified":1467082199,
     "wof:name":"Fergon Tool & Machine Co Inc",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "machine"
     ]
 },
-  "bbox": [-81.200588,33.976743,-81.200588,33.976743],
+  "bbox": [
+    -81.200588,
+    33.976743,
+    -81.200588,
+    33.976743
+],
   "geometry": {"coordinates":[-81.200588,33.976743],"type":"Point"}
 }

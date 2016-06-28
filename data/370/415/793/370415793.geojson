@@ -2,13 +2,14 @@
   "id": 370415793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.901192,33.698887,-78.901192,33.698887",
     "geom:latitude":33.698887,
     "geom:longitude":-78.901192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1455 Cannon Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370415793,
-    "wof:lastmodified":1449031532,
+    "wof:lastmodified":1467082352,
     "wof:name":"American Tower",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-78.901192,33.698887,-78.901192,33.698887],
-  "geometry": {"coordinates":[-78.901192,33.698887],"type":"Point"}
+  "bbox": [
+    -78.901192,
+    33.698887,
+    -78.901192,
+    33.698887
+],
+  "geometry": {"coordinates":[-78.90119199999999,33.698887],"type":"Point"}
 }

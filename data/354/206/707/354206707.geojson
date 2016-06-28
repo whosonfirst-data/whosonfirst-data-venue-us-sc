@@ -2,13 +2,14 @@
   "id": 354206707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.381928,33.402064,-80.381928,33.402064",
     "geom:latitude":33.402064,
     "geom:longitude":-80.381928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 Dukenfield Dr",
     "sg:city":"Vance",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354206707,
-    "wof:lastmodified":1449067137,
+    "wof:lastmodified":1467082442,
     "wof:name":"Pebbles Bus Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.381928,33.402064,-80.381928,33.402064],
+  "bbox": [
+    -80.381928,
+    33.402064,
+    -80.381928,
+    33.402064
+],
   "geometry": {"coordinates":[-80.381928,33.402064],"type":"Point"}
 }

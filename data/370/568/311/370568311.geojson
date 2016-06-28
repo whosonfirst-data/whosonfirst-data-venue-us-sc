@@ -2,13 +2,14 @@
   "id": 370568311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.055498,33.83221,-79.055498,33.83221",
     "geom:latitude":33.83221,
     "geom:longitude":-79.055498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 4th Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370568311,
-    "wof:lastmodified":1449028988,
+    "wof:lastmodified":1467082296,
     "wof:name":"Nealy Construction",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.055498,33.83221,-79.055498,33.83221],
+  "bbox": [
+    -79.055498,
+    33.83221,
+    -79.055498,
+    33.83221
+],
   "geometry": {"coordinates":[-79.055498,33.83221],"type":"Point"}
 }

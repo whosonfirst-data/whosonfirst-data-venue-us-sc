@@ -2,13 +2,14 @@
   "id": 337367833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.008996,33.977945,-81.008996,33.977945",
     "geom:latitude":33.977945,
     "geom:longitude":-81.008996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2118 Commerce Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337367833,
-    "wof:lastmodified":1449027428,
+    "wof:lastmodified":1467082283,
     "wof:name":"Portable Storage Of Columbia",
     "wof:parent_id":85826029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [-81.008996,33.977945,-81.008996,33.977945],
+  "bbox": [
+    -81.008996,
+    33.977945,
+    -81.008996,
+    33.977945
+],
   "geometry": {"coordinates":[-81.008996,33.977945],"type":"Point"}
 }

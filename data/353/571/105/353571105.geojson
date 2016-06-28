@@ -2,13 +2,14 @@
   "id": 353571105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.958592,34.697513,-82.958592,34.697513",
     "geom:latitude":34.697513,
     "geom:longitude":-82.958592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"537 US Hwy 123",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353571105,
-    "wof:lastmodified":1449019982,
+    "wof:lastmodified":1467082245,
     "wof:name":"Darren Phillis",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.958592,34.697513,-82.958592,34.697513],
+  "bbox": [
+    -82.958592,
+    34.697513,
+    -82.958592,
+    34.697513
+],
   "geometry": {"coordinates":[-82.958592,34.697513],"type":"Point"}
 }

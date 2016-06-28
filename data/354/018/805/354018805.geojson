@@ -2,13 +2,14 @@
   "id": 354018805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.017627,33.985683,-81.017627,33.985683",
     "geom:latitude":33.985683,
     "geom:longitude":-81.017627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 S Pickens St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354018805,
-    "wof:lastmodified":1449066774,
+    "wof:lastmodified":1467082434,
     "wof:name":"Jeff Rivers General Contractor",
     "wof:parent_id":85826029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.017627,33.985683,-81.017627,33.985683],
+  "bbox": [
+    -81.017627,
+    33.985683,
+    -81.017627,
+    33.985683
+],
   "geometry": {"coordinates":[-81.017627,33.985683],"type":"Point"}
 }

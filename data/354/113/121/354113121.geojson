@@ -2,13 +2,14 @@
   "id": 354113121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.033974,34.730145,-82.033974,34.730145",
     "geom:latitude":34.730145,
     "geom:longitude":-82.033974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 Law St",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354113121,
-    "wof:lastmodified":1449067523,
+    "wof:lastmodified":1467082451,
     "wof:name":"Marshall Stephens",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-82.033974,34.730145,-82.033974,34.730145],
+  "bbox": [
+    -82.033974,
+    34.730145,
+    -82.033974,
+    34.730145
+],
   "geometry": {"coordinates":[-82.033974,34.730145],"type":"Point"}
 }

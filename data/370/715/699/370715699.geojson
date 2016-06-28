@@ -2,13 +2,14 @@
   "id": 370715699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.387571,34.176288,-79.387571,34.176288",
     "geom:latitude":34.176288,
     "geom:longitude":-79.387571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 E Liberty St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":370715699,
-    "wof:lastmodified":1449031799,
+    "wof:lastmodified":1467082359,
     "wof:name":"Cox Mechanical Contractor Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "air"
     ]
 },
-  "bbox": [-79.387571,34.176288,-79.387571,34.176288],
-  "geometry": {"coordinates":[-79.387571,34.176288],"type":"Point"}
+  "bbox": [
+    -79.387571,
+    34.176288,
+    -79.387571,
+    34.176288
+],
+  "geometry": {"coordinates":[-79.38757099999999,34.176288],"type":"Point"}
 }

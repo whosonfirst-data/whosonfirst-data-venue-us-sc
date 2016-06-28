@@ -2,13 +2,14 @@
   "id": 354094043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.251111,34.401991,-82.251111,34.401991",
     "geom:latitude":34.401991,
     "geom:longitude":-82.251111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 N Greenwood Ave",
     "sg:city":"Ware Shoals",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354094043,
-    "wof:lastmodified":1449067022,
+    "wof:lastmodified":1467082439,
     "wof:name":"Fast Point Food Stores Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.251111,34.401991,-82.251111,34.401991],
-  "geometry": {"coordinates":[-82.251111,34.401991],"type":"Point"}
+  "bbox": [
+    -82.251111,
+    34.401991,
+    -82.251111,
+    34.401991
+],
+  "geometry": {"coordinates":[-82.25111099999999,34.401991],"type":"Point"}
 }

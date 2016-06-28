@@ -2,13 +2,14 @@
   "id": 370344671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.646001,35.080785,-81.646001,35.080785",
     "geom:latitude":35.080785,
     "geom:longitude":-81.646001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 N Logan St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370344671,
-    "wof:lastmodified":1449029245,
+    "wof:lastmodified":1467082302,
     "wof:name":"Weaver's Dental Laboratory Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-81.646001,35.080785,-81.646001,35.080785],
+  "bbox": [
+    -81.646001,
+    35.080785,
+    -81.646001,
+    35.080785
+],
   "geometry": {"coordinates":[-81.646001,35.080785],"type":"Point"}
 }

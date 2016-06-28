@@ -2,13 +2,14 @@
   "id": 370377213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.015448,34.065217,-81.015448,34.065217",
     "geom:latitude":34.065217,
     "geom:longitude":-81.015448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 Mason Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370377213,
-    "wof:lastmodified":1449030353,
+    "wof:lastmodified":1467082326,
     "wof:name":"Ms V's Little Treasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.015448,34.065217,-81.015448,34.065217],
-  "geometry": {"coordinates":[-81.015448,34.065217],"type":"Point"}
+  "bbox": [
+    -81.015448,
+    34.065217,
+    -81.015448,
+    34.065217
+],
+  "geometry": {"coordinates":[-81.01544800000001,34.065217],"type":"Point"}
 }

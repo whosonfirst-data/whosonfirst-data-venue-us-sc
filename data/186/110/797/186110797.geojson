@@ -2,13 +2,14 @@
   "id": 186110797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.618929,34.246236,-80.618929,34.246236",
     "geom:latitude":34.246236,
     "geom:longitude":-80.618929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Goodale Ave",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186110797,
-    "wof:lastmodified":1449051276,
+    "wof:lastmodified":1467082396,
     "wof:name":"D J Creed Inc",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "timber"
     ]
 },
-  "bbox": [-80.618929,34.246236,-80.618929,34.246236],
-  "geometry": {"coordinates":[-80.618929,34.246236],"type":"Point"}
+  "bbox": [
+    -80.618929,
+    34.246236,
+    -80.618929,
+    34.246236
+],
+  "geometry": {"coordinates":[-80.61892899999999,34.246236],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370943239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.656822,35.079943,-81.656822,35.079943",
     "geom:latitude":35.079943,
     "geom:longitude":-81.656822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 W Smith St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370943239,
-    "wof:lastmodified":1449029991,
+    "wof:lastmodified":1467082318,
     "wof:name":"Personal Touch Styling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.656822,35.079943,-81.656822,35.079943],
-  "geometry": {"coordinates":[-81.656822,35.079943],"type":"Point"}
+  "bbox": [
+    -81.656822,
+    35.079943,
+    -81.656822,
+    35.079943
+],
+  "geometry": {"coordinates":[-81.65682200000001,35.079943],"type":"Point"}
 }

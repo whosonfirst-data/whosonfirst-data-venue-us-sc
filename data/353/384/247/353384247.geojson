@@ -2,13 +2,14 @@
   "id": 353384247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.000295,33.192362,-80.000295,33.192362",
     "geom:latitude":33.192362,
     "geom:longitude":-80.000295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"474 E Main St",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353384247,
-    "wof:lastmodified":1449018563,
+    "wof:lastmodified":1467082216,
     "wof:name":"Moncks Corner Finance Inc",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institution"
     ]
 },
-  "bbox": [-80.000295,33.192362,-80.000295,33.192362],
-  "geometry": {"coordinates":[-80.000295,33.192362],"type":"Point"}
+  "bbox": [
+    -80.000295,
+    33.192362,
+    -80.000295,
+    33.192362
+],
+  "geometry": {"coordinates":[-80.00029499999999,33.192362],"type":"Point"}
 }

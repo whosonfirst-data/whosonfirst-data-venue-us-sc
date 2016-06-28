@@ -2,13 +2,14 @@
   "id": 353676083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.143715,33.521621,-81.143715,33.521621",
     "geom:latitude":33.521621,
     "geom:longitude":-81.143715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6194 Neeses Hwy",
     "sg:city":"Neeses",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353676083,
-    "wof:lastmodified":1449019881,
+    "wof:lastmodified":1467082243,
     "wof:name":"Neeses Neighborhood Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.143715,33.521621,-81.143715,33.521621],
+  "bbox": [
+    -81.143715,
+    33.521621,
+    -81.143715,
+    33.521621
+],
   "geometry": {"coordinates":[-81.143715,33.521621],"type":"Point"}
 }

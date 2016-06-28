@@ -2,13 +2,14 @@
   "id": 370250835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.653557,34.514897,-82.653557,34.514897",
     "geom:latitude":34.514897,
     "geom:longitude":-82.653557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 N Main St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370250835,
-    "wof:lastmodified":1449030998,
+    "wof:lastmodified":1467082340,
     "wof:name":"Mind Power Institute",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.653557,34.514897,-82.653557,34.514897],
-  "geometry": {"coordinates":[-82.653557,34.514897],"type":"Point"}
+  "bbox": [
+    -82.653557,
+    34.514897,
+    -82.653557,
+    34.514897
+],
+  "geometry": {"coordinates":[-82.65355700000001,34.514897],"type":"Point"}
 }

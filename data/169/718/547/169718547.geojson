@@ -2,13 +2,14 @@
   "id": 169718547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.780566,34.660619,-82.780566,34.660619",
     "geom:latitude":34.660619,
     "geom:longitude":-82.780566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Central Rd",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169718547,
-    "wof:lastmodified":1449033395,
+    "wof:lastmodified":1467082380,
     "wof:name":"S C Regional Housing Authority",
     "wof:parent_id":85854499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-82.780566,34.660619,-82.780566,34.660619],
-  "geometry": {"coordinates":[-82.780566,34.660619],"type":"Point"}
+  "bbox": [
+    -82.780566,
+    34.660619,
+    -82.780566,
+    34.660619
+],
+  "geometry": {"coordinates":[-82.78056599999999,34.660619],"type":"Point"}
 }

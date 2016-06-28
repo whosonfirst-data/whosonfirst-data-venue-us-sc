@@ -2,13 +2,14 @@
   "id": 353742465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.83108,33.525228,-81.83108,33.525228",
     "geom:latitude":33.525228,
     "geom:longitude":-81.83108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2298 Augusta Rd",
     "sg:city":"Gloverville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353742465,
-    "wof:lastmodified":1449018428,
+    "wof:lastmodified":1467082213,
     "wof:name":"US Postal Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "us"
     ]
 },
-  "bbox": [-81.83108,33.525228,-81.83108,33.525228],
+  "bbox": [
+    -81.83108,
+    33.525228,
+    -81.83108,
+    33.525228
+],
   "geometry": {"coordinates":[-81.83108,33.525228],"type":"Point"}
 }

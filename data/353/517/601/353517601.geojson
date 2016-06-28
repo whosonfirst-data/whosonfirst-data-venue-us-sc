@@ -2,13 +2,14 @@
   "id": 353517601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.903818,34.374457,-79.903818,34.374457",
     "geom:latitude":34.374457,
     "geom:longitude":-79.903818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2609 N Governor Williams Hwy",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353517601,
-    "wof:lastmodified":1449019710,
+    "wof:lastmodified":1467082239,
     "wof:name":"Pro Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-79.903818,34.374457,-79.903818,34.374457],
+  "bbox": [
+    -79.903818,
+    34.374457,
+    -79.903818,
+    34.374457
+],
   "geometry": {"coordinates":[-79.903818,34.374457],"type":"Point"}
 }

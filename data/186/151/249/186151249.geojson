@@ -2,13 +2,14 @@
   "id": 186151249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.766522,34.607467,-82.766522,34.607467",
     "geom:latitude":34.607467,
     "geom:longitude":-82.766522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6607 US Hwy 76",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186151249,
-    "wof:lastmodified":1449050279,
+    "wof:lastmodified":1467082389,
     "wof:name":"Taylor's Used Cars",
     "wof:parent_id":85854499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.766522,34.607467,-82.766522,34.607467],
-  "geometry": {"coordinates":[-82.766522,34.607467],"type":"Point"}
+  "bbox": [
+    -82.766522,
+    34.607467,
+    -82.766522,
+    34.607467
+],
+  "geometry": {"coordinates":[-82.76652199999999,34.607467],"type":"Point"}
 }

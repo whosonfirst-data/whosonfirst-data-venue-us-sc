@@ -2,13 +2,14 @@
   "id": 370484763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.561477,34.932361,-82.561477,34.932361",
     "geom:latitude":34.932361,
     "geom:longitude":-82.561477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1348 Old Dacusville Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370484763,
-    "wof:lastmodified":1449032275,
+    "wof:lastmodified":1467082369,
     "wof:name":"Don Reed & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.561477,34.932361,-82.561477,34.932361],
+  "bbox": [
+    -82.561477,
+    34.932361,
+    -82.561477,
+    34.932361
+],
   "geometry": {"coordinates":[-82.561477,34.932361],"type":"Point"}
 }

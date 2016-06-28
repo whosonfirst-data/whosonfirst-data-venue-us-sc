@@ -2,13 +2,14 @@
   "id": 185750603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.390128,34.329614,-82.390128,34.329614",
     "geom:latitude":34.329614,
     "geom:longitude":-82.390128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Washington St",
     "sg:city":"Due West",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185750603,
-    "wof:lastmodified":1449007592,
+    "wof:lastmodified":1467082197,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.390128,34.329614,-82.390128,34.329614],
+  "bbox": [
+    -82.390128,
+    34.329614,
+    -82.390128,
+    34.329614
+],
   "geometry": {"coordinates":[-82.390128,34.329614],"type":"Point"}
 }

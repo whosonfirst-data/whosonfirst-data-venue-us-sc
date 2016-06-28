@@ -2,13 +2,14 @@
   "id": 370308473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.388429,33.656932,-81.388429,33.656932",
     "geom:latitude":33.656932,
     "geom:longitude":-81.388429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3439 Camp Rawls Rd",
     "sg:city":"Wagener",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370308473,
-    "wof:lastmodified":1449032572,
+    "wof:lastmodified":1467082375,
     "wof:name":"CD S Custom Carport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.388429,33.656932,-81.388429,33.656932],
+  "bbox": [
+    -81.388429,
+    33.656932,
+    -81.388429,
+    33.656932
+],
   "geometry": {"coordinates":[-81.388429,33.656932],"type":"Point"}
 }

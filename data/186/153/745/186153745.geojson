@@ -2,13 +2,14 @@
   "id": 186153745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.103637,33.616497,-81.103637,33.616497",
     "geom:latitude":33.616497,
     "geom:longitude":-81.103637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Main St W",
     "sg:city":"North",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186153745,
-    "wof:lastmodified":1449052221,
+    "wof:lastmodified":1467082405,
     "wof:name":"Golden Dragon Chinese Rstrnt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.103637,33.616497,-81.103637,33.616497],
-  "geometry": {"coordinates":[-81.103637,33.616497],"type":"Point"}
+  "bbox": [
+    -81.103637,
+    33.616497,
+    -81.103637,
+    33.616497
+],
+  "geometry": {"coordinates":[-81.10363700000001,33.616497],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353649369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.40119,34.180742,-79.40119,34.180742",
     "geom:latitude":34.180742,
     "geom:longitude":-79.40119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Witcover St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353649369,
-    "wof:lastmodified":1449019979,
+    "wof:lastmodified":1467082245,
     "wof:name":"Marion County Public Defender",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.40119,34.180742,-79.40119,34.180742],
+  "bbox": [
+    -79.40119,
+    34.180742,
+    -79.40119,
+    34.180742
+],
   "geometry": {"coordinates":[-79.40119,34.180742],"type":"Point"}
 }

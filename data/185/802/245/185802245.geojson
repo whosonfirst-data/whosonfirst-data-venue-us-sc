@@ -2,13 +2,14 @@
   "id": 185802245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.38847,34.464732,-79.38847,34.464732",
     "geom:latitude":34.464732,
     "geom:longitude":-79.38847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 Hwy 9 W",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185802245,
-    "wof:lastmodified":1449007928,
+    "wof:lastmodified":1467082203,
     "wof:name":"Charlies Metal",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.38847,34.464732,-79.38847,34.464732],
+  "bbox": [
+    -79.38847,
+    34.464732,
+    -79.38847,
+    34.464732
+],
   "geometry": {"coordinates":[-79.38847,34.464732],"type":"Point"}
 }

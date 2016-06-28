@@ -2,13 +2,14 @@
   "id": 354106131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.349754,34.012243,-81.349754,34.012243",
     "geom:latitude":34.012243,
     "geom:longitude":-81.349754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Riding Field Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354106131,
-    "wof:lastmodified":1449065908,
+    "wof:lastmodified":1467082414,
     "wof:name":"Earl W Griffith Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.349754,34.012243,-81.349754,34.012243],
+  "bbox": [
+    -81.349754,
+    34.012243,
+    -81.349754,
+    34.012243
+],
   "geometry": {"coordinates":[-81.349754,34.012243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370483325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.756244,33.874059,-79.756244,33.874059",
     "geom:latitude":33.874059,
     "geom:longitude":-79.756244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Main St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":370483325,
-    "wof:lastmodified":1449031760,
+    "wof:lastmodified":1467082358,
     "wof:name":"Pirate's T-Shirts Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "screen"
     ]
 },
-  "bbox": [-79.756244,33.874059,-79.756244,33.874059],
+  "bbox": [
+    -79.756244,
+    33.874059,
+    -79.756244,
+    33.874059
+],
   "geometry": {"coordinates":[-79.756244,33.874059],"type":"Point"}
 }

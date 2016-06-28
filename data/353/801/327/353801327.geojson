@@ -2,13 +2,14 @@
   "id": 353801327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.390936,34.849896,-82.390936,34.849896",
     "geom:latitude":34.849896,
     "geom:longitude":-82.390936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Manly St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353801327,
-    "wof:lastmodified":1449020379,
+    "wof:lastmodified":1467082253,
     "wof:name":"Thomas J Quinn",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.390936,34.849896,-82.390936,34.849896],
+  "bbox": [
+    -82.390936,
+    34.849896,
+    -82.390936,
+    34.849896
+],
   "geometry": {"coordinates":[-82.390936,34.849896],"type":"Point"}
 }

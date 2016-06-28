@@ -2,13 +2,14 @@
   "id": 353875875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.069923,33.98831,-81.069923,33.98831",
     "geom:latitude":33.98831,
     "geom:longitude":-81.069923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Augusta St",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353875875,
-    "wof:lastmodified":1449020147,
+    "wof:lastmodified":1467082248,
     "wof:name":"Armory Auction House",
     "wof:parent_id":85897259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-81.069923,33.98831,-81.069923,33.98831],
+  "bbox": [
+    -81.069923,
+    33.98831,
+    -81.069923,
+    33.98831
+],
   "geometry": {"coordinates":[-81.069923,33.98831],"type":"Point"}
 }

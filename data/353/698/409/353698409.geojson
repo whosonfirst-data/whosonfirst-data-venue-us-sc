@@ -2,13 +2,14 @@
   "id": 353698409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.064781,33.88791,-81.064781,33.88791",
     "geom:latitude":33.88791,
     "geom:longitude":-81.064781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3721 US Hwy 321",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353698409,
-    "wof:lastmodified":1449020640,
+    "wof:lastmodified":1467082258,
     "wof:name":"Montgomery Buddy Auto Sal",
     "wof:parent_id":85828499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-81.064781,33.88791,-81.064781,33.88791],
+  "bbox": [
+    -81.064781,
+    33.88791,
+    -81.064781,
+    33.88791
+],
   "geometry": {"coordinates":[-81.064781,33.88791],"type":"Point"}
 }

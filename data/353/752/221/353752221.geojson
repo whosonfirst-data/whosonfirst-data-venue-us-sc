@@ -2,13 +2,14 @@
   "id": 353752221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.697457,34.633318,-79.697457,34.633318",
     "geom:latitude":34.633318,
     "geom:longitude":-79.697457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 Cheraw St",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353752221,
-    "wof:lastmodified":1449018669,
+    "wof:lastmodified":1467082218,
     "wof:name":"Marlboro Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "physical"
     ]
 },
-  "bbox": [-79.697457,34.633318,-79.697457,34.633318],
+  "bbox": [
+    -79.697457,
+    34.633318,
+    -79.697457,
+    34.633318
+],
   "geometry": {"coordinates":[-79.697457,34.633318],"type":"Point"}
 }

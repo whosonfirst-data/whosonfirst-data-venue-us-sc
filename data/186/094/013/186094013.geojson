@@ -2,13 +2,14 @@
   "id": 186094013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.813193,35.007433,-81.813193,35.007433",
     "geom:latitude":35.007433,
     "geom:longitude":-81.813193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Wagon Wheel Rd",
     "sg:city":"Cowpens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186094013,
-    "wof:lastmodified":1449052052,
+    "wof:lastmodified":1467082403,
     "wof:name":"Wagon Wheel Fish Camp",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.813193,35.007433,-81.813193,35.007433],
+  "bbox": [
+    -81.813193,
+    35.007433,
+    -81.813193,
+    35.007433
+],
   "geometry": {"coordinates":[-81.813193,35.007433],"type":"Point"}
 }

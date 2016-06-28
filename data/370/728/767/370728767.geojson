@@ -2,13 +2,14 @@
   "id": 370728767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.281005,33.36463,-79.281005,33.36463",
     "geom:latitude":33.36463,
     "geom:longitude":-79.281005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Front St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370728767,
-    "wof:lastmodified":1449029879,
+    "wof:lastmodified":1467082316,
     "wof:name":"Harborwalk Marina",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.281005,33.36463,-79.281005,33.36463],
-  "geometry": {"coordinates":[-79.281005,33.36463],"type":"Point"}
+  "bbox": [
+    -79.281005,
+    33.36463,
+    -79.281005,
+    33.36463
+],
+  "geometry": {"coordinates":[-79.28100499999999,33.36463],"type":"Point"}
 }

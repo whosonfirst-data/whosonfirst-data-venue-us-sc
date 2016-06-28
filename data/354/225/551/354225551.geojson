@@ -2,13 +2,14 @@
   "id": 354225551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.352843,33.932862,-80.352843,33.932862",
     "geom:latitude":33.932862,
     "geom:longitude":-80.352843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"261 Broad St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354225551,
-    "wof:lastmodified":1449066437,
+    "wof:lastmodified":1467082426,
     "wof:name":"Barrineau Accounting",
     "wof:parent_id":85855087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-80.352843,33.932862,-80.352843,33.932862],
-  "geometry": {"coordinates":[-80.352843,33.932862],"type":"Point"}
+  "bbox": [
+    -80.352843,
+    33.932862,
+    -80.352843,
+    33.932862
+],
+  "geometry": {"coordinates":[-80.35284299999999,33.932862],"type":"Point"}
 }

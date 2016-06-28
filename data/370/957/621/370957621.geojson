@@ -2,13 +2,14 @@
   "id": 370957621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.946583,34.991308,-81.946583,34.991308",
     "geom:latitude":34.991308,
     "geom:longitude":-81.946583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 Boiling Springs Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370957621,
-    "wof:lastmodified":1449031964,
+    "wof:lastmodified":1467082362,
     "wof:name":"Studio Hair & Nails",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.946583,34.991308,-81.946583,34.991308],
+  "bbox": [
+    -81.946583,
+    34.991308,
+    -81.946583,
+    34.991308
+],
   "geometry": {"coordinates":[-81.946583,34.991308],"type":"Point"}
 }

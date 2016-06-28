@@ -2,13 +2,14 @@
   "id": 370150937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.965061,33.675173,-78.965061,33.675173",
     "geom:latitude":33.675173,
     "geom:longitude":-78.965061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4726 Northgate Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370150937,
-    "wof:lastmodified":1449029107,
+    "wof:lastmodified":1467082299,
     "wof:name":"A & A Produce Company LLC",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-78.965061,33.675173,-78.965061,33.675173],
-  "geometry": {"coordinates":[-78.965061,33.675173],"type":"Point"}
+  "bbox": [
+    -78.965061,
+    33.675173,
+    -78.965061,
+    33.675173
+],
+  "geometry": {"coordinates":[-78.96506100000001,33.675173],"type":"Point"}
 }

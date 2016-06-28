@@ -2,13 +2,14 @@
   "id": 370647613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.249049,34.73525,-82.249049,34.73525",
     "geom:latitude":34.73525,
     "geom:longitude":-82.249049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 W Coralvine Ct",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370647613,
-    "wof:lastmodified":1449030694,
+    "wof:lastmodified":1467082334,
     "wof:name":"Total Asset Productivity Svc",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.249049,34.73525,-82.249049,34.73525],
+  "bbox": [
+    -82.249049,
+    34.73525,
+    -82.249049,
+    34.73525
+],
   "geometry": {"coordinates":[-82.249049,34.73525],"type":"Point"}
 }

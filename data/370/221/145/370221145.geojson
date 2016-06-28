@@ -2,13 +2,14 @@
   "id": 370221145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.524143,35.11907,-81.524143,35.11907",
     "geom:latitude":35.11907,
     "geom:longitude":-81.524143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Charleston St",
     "sg:city":"Blacksburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370221145,
-    "wof:lastmodified":1449030582,
+    "wof:lastmodified":1467082331,
     "wof:name":"Sassy Scissors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.524143,35.11907,-81.524143,35.11907],
+  "bbox": [
+    -81.524143,
+    35.11907,
+    -81.524143,
+    35.11907
+],
   "geometry": {"coordinates":[-81.524143,35.11907],"type":"Point"}
 }

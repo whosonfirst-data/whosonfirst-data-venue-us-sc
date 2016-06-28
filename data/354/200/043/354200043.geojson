@@ -2,13 +2,14 @@
   "id": 354200043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.369926,34.416057,-79.369926,34.416057",
     "geom:latitude":34.416057,
     "geom:longitude":-79.369926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 E Main St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354200043,
-    "wof:lastmodified":1449066602,
+    "wof:lastmodified":1467082430,
     "wof:name":"Pope Furniture & Appliance Inc",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.369926,34.416057,-79.369926,34.416057],
-  "geometry": {"coordinates":[-79.369926,34.416057],"type":"Point"}
+  "bbox": [
+    -79.369926,
+    34.416057,
+    -79.369926,
+    34.416057
+],
+  "geometry": {"coordinates":[-79.36992600000001,34.416057],"type":"Point"}
 }

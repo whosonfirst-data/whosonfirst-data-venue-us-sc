@@ -2,13 +2,14 @@
   "id": 354285737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.473599,34.780234,-82.473599,34.780234",
     "geom:latitude":34.780234,
     "geom:longitude":-82.473599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Clair Dr",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354285737,
-    "wof:lastmodified":1449065988,
+    "wof:lastmodified":1467082416,
     "wof:name":"Small Wonders Learning Ctr",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.473599,34.780234,-82.473599,34.780234],
-  "geometry": {"coordinates":[-82.473599,34.780234],"type":"Point"}
+  "bbox": [
+    -82.473599,
+    34.780234,
+    -82.473599,
+    34.780234
+],
+  "geometry": {"coordinates":[-82.47359899999999,34.780234],"type":"Point"}
 }

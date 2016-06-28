@@ -2,13 +2,14 @@
   "id": 353768701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.02407,34.8873,-82.02407,34.8873",
     "geom:latitude":34.8873,
     "geom:longitude":-82.02407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Nazareth Church Rd",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353768701,
-    "wof:lastmodified":1449019246,
+    "wof:lastmodified":1467082230,
     "wof:name":"Johnson's Paint Contracting",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-82.02407,34.8873,-82.02407,34.8873],
-  "geometry": {"coordinates":[-82.02407,34.8873],"type":"Point"}
+  "bbox": [
+    -82.02407,
+    34.8873,
+    -82.02407,
+    34.8873
+],
+  "geometry": {"coordinates":[-82.02406999999999,34.8873],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337322553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.638746,33.055466,-80.638746,33.055466",
     "geom:latitude":33.055466,
     "geom:longitude":-80.638746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4820 Maple Ridge Rd",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337322553,
-    "wof:lastmodified":1449026920,
+    "wof:lastmodified":1467082264,
     "wof:name":"Maple Ridge Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-80.638746,33.055466,-80.638746,33.055466],
+  "bbox": [
+    -80.638746,
+    33.055466,
+    -80.638746,
+    33.055466
+],
   "geometry": {"coordinates":[-80.638746,33.055466],"type":"Point"}
 }

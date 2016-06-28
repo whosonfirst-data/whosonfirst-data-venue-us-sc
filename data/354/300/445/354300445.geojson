@@ -2,13 +2,14 @@
   "id": 354300445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.942848,34.978131,-81.942848,34.978131",
     "geom:latitude":34.978131,
     "geom:longitude":-81.942848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1084 Boiling Springs Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354300445,
-    "wof:lastmodified":1449066909,
+    "wof:lastmodified":1467082437,
     "wof:name":"Jernigan Appraisal Group",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "real estate"
     ]
 },
-  "bbox": [-81.942848,34.978131,-81.942848,34.978131],
+  "bbox": [
+    -81.942848,
+    34.978131,
+    -81.942848,
+    34.978131
+],
   "geometry": {"coordinates":[-81.942848,34.978131],"type":"Point"}
 }

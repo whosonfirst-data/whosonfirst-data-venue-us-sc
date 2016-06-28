@@ -2,13 +2,14 @@
   "id": 353517443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.981309,32.478629,-80.981309,32.478629",
     "geom:latitude":32.478629,
     "geom:longitude":-80.981309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S Jacob Smart Blvd",
     "sg:city":"Ridgeland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353517443,
-    "wof:lastmodified":1449019713,
+    "wof:lastmodified":1467082239,
     "wof:name":"Schooner's Neighborhood Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-80.981309,32.478629,-80.981309,32.478629],
+  "bbox": [
+    -80.981309,
+    32.478629,
+    -80.981309,
+    32.478629
+],
   "geometry": {"coordinates":[-80.981309,32.478629],"type":"Point"}
 }

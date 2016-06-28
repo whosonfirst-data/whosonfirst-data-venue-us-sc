@@ -2,13 +2,14 @@
   "id": 169865471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.248907,33.011767,-80.248907,33.011767",
     "geom:latitude":33.011767,
     "geom:longitude":-80.248907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Chaussee Blvd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169865471,
-    "wof:lastmodified":1449035152,
+    "wof:lastmodified":1467082385,
     "wof:name":"Trawler Bounty",
     "wof:parent_id":85812305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fishing"
     ]
 },
-  "bbox": [-80.248907,33.011767,-80.248907,33.011767],
+  "bbox": [
+    -80.248907,
+    33.011767,
+    -80.248907,
+    33.011767
+],
   "geometry": {"coordinates":[-80.248907,33.011767],"type":"Point"}
 }

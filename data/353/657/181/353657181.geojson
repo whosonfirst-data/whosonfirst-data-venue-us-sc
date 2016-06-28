@@ -2,13 +2,14 @@
   "id": 353657181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.060403,32.671851,-80.060403,32.671851",
     "geom:latitude":32.671851,
     "geom:longitude":-80.060403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3095 Canal Bridge Rd",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353657181,
-    "wof:lastmodified":1449018538,
+    "wof:lastmodified":1467082216,
     "wof:name":"Charleston Aquatic Nurseries",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-80.060403,32.671851,-80.060403,32.671851],
-  "geometry": {"coordinates":[-80.060403,32.671851],"type":"Point"}
+  "bbox": [
+    -80.060403,
+    32.671851,
+    -80.060403,
+    32.671851
+],
+  "geometry": {"coordinates":[-80.06040299999999,32.671851],"type":"Point"}
 }

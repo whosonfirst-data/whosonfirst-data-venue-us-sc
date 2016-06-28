@@ -2,13 +2,14 @@
   "id": 169849713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.849187,34.308555,-79.849187,34.308555",
     "geom:latitude":34.308555,
     "geom:longitude":-79.849187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Erinvine Ct",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169849713,
-    "wof:lastmodified":1449033299,
+    "wof:lastmodified":1467082379,
     "wof:name":"F Trent Hill & Assoc",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-79.849187,34.308555,-79.849187,34.308555],
+  "bbox": [
+    -79.849187,
+    34.308555,
+    -79.849187,
+    34.308555
+],
   "geometry": {"coordinates":[-79.849187,34.308555],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370879879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.263337,35.012311,-82.263337,35.012311",
     "geom:latitude":35.012311,
     "geom:longitude":-82.263337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1897 New Bruce Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370879879,
-    "wof:lastmodified":1449029091,
+    "wof:lastmodified":1467082298,
     "wof:name":"Hambricks Painting & Repairing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.263337,35.012311,-82.263337,35.012311],
-  "geometry": {"coordinates":[-82.263337,35.012311],"type":"Point"}
+  "bbox": [
+    -82.263337,
+    35.012311,
+    -82.263337,
+    35.012311
+],
+  "geometry": {"coordinates":[-82.26333700000001,35.012311],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185884797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.647274,32.410361,-80.647274,32.410361",
     "geom:latitude":32.410361,
     "geom:longitude":-80.647274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Gay Dr",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185884797,
-    "wof:lastmodified":1449007917,
+    "wof:lastmodified":1467082202,
     "wof:name":"WEDO Window Fashions",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.647274,32.410361,-80.647274,32.410361],
+  "bbox": [
+    -80.647274,
+    32.410361,
+    -80.647274,
+    32.410361
+],
   "geometry": {"coordinates":[-80.647274,32.410361],"type":"Point"}
 }

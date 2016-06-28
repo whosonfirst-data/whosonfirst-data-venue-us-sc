@@ -2,13 +2,14 @@
   "id": 186000485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.953511,33.095325,-79.953511,33.095325",
     "geom:latitude":33.095325,
     "geom:longitude":-79.953511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 Live Oak Ave",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186000485,
-    "wof:lastmodified":1449050831,
+    "wof:lastmodified":1467082392,
     "wof:name":"Orchidview",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.953511,33.095325,-79.953511,33.095325],
-  "geometry": {"coordinates":[-79.953511,33.095325],"type":"Point"}
+  "bbox": [
+    -79.953511,
+    33.095325,
+    -79.953511,
+    33.095325
+],
+  "geometry": {"coordinates":[-79.95351100000001,33.095325],"type":"Point"}
 }

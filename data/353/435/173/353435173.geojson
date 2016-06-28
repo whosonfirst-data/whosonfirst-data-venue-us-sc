@@ -2,13 +2,14 @@
   "id": 353435173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.242013,34.832605,-82.242013,34.832605",
     "geom:latitude":34.832605,
     "geom:longitude":-82.242013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Churchill Downs",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353435173,
-    "wof:lastmodified":1449020570,
+    "wof:lastmodified":1467082257,
     "wof:name":"Jeff Sarvis",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.242013,34.832605,-82.242013,34.832605],
+  "bbox": [
+    -82.242013,
+    34.832605,
+    -82.242013,
+    34.832605
+],
   "geometry": {"coordinates":[-82.242013,34.832605],"type":"Point"}
 }

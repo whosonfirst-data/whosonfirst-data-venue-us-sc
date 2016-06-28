@@ -2,13 +2,14 @@
   "id": 370703693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.025772,34.081585,-80.025772,34.081585",
     "geom:latitude":34.081585,
     "geom:longitude":-80.025772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 Crawfish Pond Rd",
     "sg:city":"Timmonsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370703693,
-    "wof:lastmodified":1449030126,
+    "wof:lastmodified":1467082321,
     "wof:name":"Original Carolina Crawfish",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.025772,34.081585,-80.025772,34.081585],
+  "bbox": [
+    -80.025772,
+    34.081585,
+    -80.025772,
+    34.081585
+],
   "geometry": {"coordinates":[-80.025772,34.081585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185602687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.336331,34.893346,-82.336331,34.893346",
     "geom:latitude":34.893346,
     "geom:longitude":-82.336331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Bridgewater Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185602687,
-    "wof:lastmodified":1449007366,
+    "wof:lastmodified":1467082194,
     "wof:name":"Edward L Lehman MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.336331,34.893346,-82.336331,34.893346],
+  "bbox": [
+    -82.336331,
+    34.893346,
+    -82.336331,
+    34.893346
+],
   "geometry": {"coordinates":[-82.336331,34.893346],"type":"Point"}
 }

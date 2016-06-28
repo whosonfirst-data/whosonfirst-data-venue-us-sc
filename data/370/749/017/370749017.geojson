@@ -2,13 +2,14 @@
   "id": 370749017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.801831,34.909217,-81.801831,34.909217",
     "geom:latitude":34.909217,
     "geom:longitude":-81.801831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5680 S Pine St",
     "sg:city":"Pacolet",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370749017,
-    "wof:lastmodified":1449030074,
+    "wof:lastmodified":1467082320,
     "wof:name":"Lighthouse Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.801831,34.909217,-81.801831,34.909217],
-  "geometry": {"coordinates":[-81.801831,34.909217],"type":"Point"}
+  "bbox": [
+    -81.801831,
+    34.909217,
+    -81.801831,
+    34.909217
+],
+  "geometry": {"coordinates":[-81.80183100000001,34.909217],"type":"Point"}
 }

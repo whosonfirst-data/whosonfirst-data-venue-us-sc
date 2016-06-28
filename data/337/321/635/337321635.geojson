@@ -2,13 +2,14 @@
   "id": 337321635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.064865,34.089697,-81.064865,34.089697",
     "geom:latitude":34.089697,
     "geom:longitude":-81.064865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Heyward Brockington Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337321635,
-    "wof:lastmodified":1449026951,
+    "wof:lastmodified":1467082265,
     "wof:name":"W J Milton Heating & AC Svc",
     "wof:parent_id":85804585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.064865,34.089697,-81.064865,34.089697],
+  "bbox": [
+    -81.064865,
+    34.089697,
+    -81.064865,
+    34.089697
+],
   "geometry": {"coordinates":[-81.064865,34.089697],"type":"Point"}
 }

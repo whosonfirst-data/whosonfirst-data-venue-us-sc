@@ -2,13 +2,14 @@
   "id": 354248677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.498692,33.987351,-80.498692,33.987351",
     "geom:latitude":33.987351,
     "geom:longitude":-80.498692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2357 Valleybrook Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354248677,
-    "wof:lastmodified":1449066874,
+    "wof:lastmodified":1467082436,
     "wof:name":"Ruff Fashion",
     "wof:parent_id":85848059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.498692,33.987351,-80.498692,33.987351],
-  "geometry": {"coordinates":[-80.498692,33.987351],"type":"Point"}
+  "bbox": [
+    -80.498692,
+    33.987351,
+    -80.498692,
+    33.987351
+],
+  "geometry": {"coordinates":[-80.49869200000001,33.987351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185810117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.645165,34.758654,-82.645165,34.758654",
     "geom:latitude":34.758654,
     "geom:longitude":-82.645165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Flat Rock Rd",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185810117,
-    "wof:lastmodified":1449007083,
+    "wof:lastmodified":1467082189,
     "wof:name":"Antiquers Heaven Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.645165,34.758654,-82.645165,34.758654],
-  "geometry": {"coordinates":[-82.645165,34.758654],"type":"Point"}
+  "bbox": [
+    -82.645165,
+    34.758654,
+    -82.645165,
+    34.758654
+],
+  "geometry": {"coordinates":[-82.64516500000001,34.758654],"type":"Point"}
 }

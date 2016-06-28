@@ -2,13 +2,14 @@
   "id": 370518613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.590278,34.734243,-82.590278,34.734243",
     "geom:latitude":34.734243,
     "geom:longitude":-82.590278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Pepper Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370518613,
-    "wof:lastmodified":1449030984,
+    "wof:lastmodified":1467082340,
     "wof:name":"Mill Pond Tree Farm",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-82.590278,34.734243,-82.590278,34.734243],
+  "bbox": [
+    -82.590278,
+    34.734243,
+    -82.590278,
+    34.734243
+],
   "geometry": {"coordinates":[-82.590278,34.734243],"type":"Point"}
 }

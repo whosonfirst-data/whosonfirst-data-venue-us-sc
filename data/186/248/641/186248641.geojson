@@ -2,13 +2,14 @@
   "id": 186248641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.154204,33.036862,-80.154204,33.036862",
     "geom:latitude":33.036862,
     "geom:longitude":-80.154204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 N Main St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186248641,
-    "wof:lastmodified":1449051852,
+    "wof:lastmodified":1467082402,
     "wof:name":"Austin Glass",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-80.154204,33.036862,-80.154204,33.036862],
-  "geometry": {"coordinates":[-80.154204,33.036862],"type":"Point"}
+  "bbox": [
+    -80.154204,
+    33.036862,
+    -80.154204,
+    33.036862
+],
+  "geometry": {"coordinates":[-80.15420399999999,33.036862],"type":"Point"}
 }

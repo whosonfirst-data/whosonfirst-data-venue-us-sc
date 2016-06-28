@@ -2,13 +2,14 @@
   "id": 353825047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.669815,34.233594,-80.669815,34.233594",
     "geom:latitude":34.233594,
     "geom:longitude":-80.669815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Dewitt Rd",
     "sg:city":"Lugoff",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353825047,
-    "wof:lastmodified":1449018338,
+    "wof:lastmodified":1467082211,
     "wof:name":"Carolina Diabetes Clinic",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.669815,34.233594,-80.669815,34.233594],
+  "bbox": [
+    -80.669815,
+    34.233594,
+    -80.669815,
+    34.233594
+],
   "geometry": {"coordinates":[-80.669815,34.233594],"type":"Point"}
 }

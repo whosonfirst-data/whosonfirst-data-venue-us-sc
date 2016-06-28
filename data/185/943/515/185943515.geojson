@@ -2,13 +2,14 @@
   "id": 185943515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.634822,34.529014,-82.634822,34.529014",
     "geom:latitude":34.529014,
     "geom:longitude":-82.634822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 E Greenville St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185943515,
-    "wof:lastmodified":1449007034,
+    "wof:lastmodified":1467082189,
     "wof:name":"Professional Cleaners",
     "wof:parent_id":85825947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-82.634822,34.529014,-82.634822,34.529014],
+  "bbox": [
+    -82.634822,
+    34.529014,
+    -82.634822,
+    34.529014
+],
   "geometry": {"coordinates":[-82.634822,34.529014],"type":"Point"}
 }

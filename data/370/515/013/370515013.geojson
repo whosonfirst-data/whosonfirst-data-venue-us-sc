@@ -2,13 +2,14 @@
   "id": 370515013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.022904,34.002938,-81.022904,34.002938",
     "geom:latitude":34.002938,
     "geom:longitude":-81.022904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1829 Senate St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370515013,
-    "wof:lastmodified":1449029875,
+    "wof:lastmodified":1467082315,
     "wof:name":"Heritage Condos",
     "wof:parent_id":85876831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-81.022904,34.002938,-81.022904,34.002938],
+  "bbox": [
+    -81.022904,
+    34.002938,
+    -81.022904,
+    34.002938
+],
   "geometry": {"coordinates":[-81.022904,34.002938],"type":"Point"}
 }

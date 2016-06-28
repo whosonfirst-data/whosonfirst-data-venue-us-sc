@@ -2,13 +2,14 @@
   "id": 337349233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.003973,32.798209,-80.003973,32.798209",
     "geom:latitude":32.798209,
     "geom:longitude":-80.003973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1407 Ashley River Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337349233,
-    "wof:lastmodified":1449027240,
+    "wof:lastmodified":1467082276,
     "wof:name":"Charleston Pediatric Rehab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-80.003973,32.798209,-80.003973,32.798209],
+  "bbox": [
+    -80.003973,
+    32.798209,
+    -80.003973,
+    32.798209
+],
   "geometry": {"coordinates":[-80.003973,32.798209],"type":"Point"}
 }

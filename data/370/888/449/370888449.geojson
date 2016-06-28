@@ -2,13 +2,14 @@
   "id": 370888449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.090767,33.032148,-80.090767,33.032148",
     "geom:latitude":33.032148,
     "geom:longitude":-80.090767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"870 College Park Rd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370888449,
-    "wof:lastmodified":1449031198,
+    "wof:lastmodified":1467082345,
     "wof:name":"Church Child Care Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.090767,33.032148,-80.090767,33.032148],
+  "bbox": [
+    -80.090767,
+    33.032148,
+    -80.090767,
+    33.032148
+],
   "geometry": {"coordinates":[-80.090767,33.032148],"type":"Point"}
 }

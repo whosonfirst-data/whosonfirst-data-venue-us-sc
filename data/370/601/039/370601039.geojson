@@ -2,13 +2,14 @@
   "id": 370601039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.403628,34.750829,-82.403628,34.750829",
     "geom:latitude":34.750829,
     "geom:longitude":-82.403628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Satchel Ford Pl",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370601039,
-    "wof:lastmodified":1449030611,
+    "wof:lastmodified":1467082332,
     "wof:name":"Phat Bodies",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.403628,34.750829,-82.403628,34.750829],
+  "bbox": [
+    -82.403628,
+    34.750829,
+    -82.403628,
+    34.750829
+],
   "geometry": {"coordinates":[-82.403628,34.750829],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354073087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.449909,34.014562,-80.449909,34.014562",
     "geom:latitude":34.014562,
     "geom:longitude":-80.449909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 Brabham Dr",
     "sg:city":"Dalzell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354073087,
-    "wof:lastmodified":1449066166,
+    "wof:lastmodified":1467082420,
     "wof:name":"Printech Printer Svc",
     "wof:parent_id":85848059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-80.449909,34.014562,-80.449909,34.014562],
-  "geometry": {"coordinates":[-80.449909,34.014562],"type":"Point"}
+  "bbox": [
+    -80.449909,
+    34.014562,
+    -80.449909,
+    34.014562
+],
+  "geometry": {"coordinates":[-80.44990900000001,34.014562],"type":"Point"}
 }

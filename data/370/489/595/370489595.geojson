@@ -2,13 +2,14 @@
   "id": 370489595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.603315,34.250431,-80.603315,34.250431",
     "geom:latitude":34.250431,
     "geom:longitude":-80.603315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 Lyttleton St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370489595,
-    "wof:lastmodified":1449030920,
+    "wof:lastmodified":1467082339,
     "wof:name":"Camden Primary School",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.603315,34.250431,-80.603315,34.250431],
-  "geometry": {"coordinates":[-80.603315,34.250431],"type":"Point"}
+  "bbox": [
+    -80.603315,
+    34.250431,
+    -80.603315,
+    34.250431
+],
+  "geometry": {"coordinates":[-80.60331499999999,34.250431],"type":"Point"}
 }

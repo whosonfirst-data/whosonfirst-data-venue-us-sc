@@ -2,13 +2,14 @@
   "id": 354138367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.759731,34.721351,-80.759731,34.721351",
     "geom:latitude":34.721351,
     "geom:longitude":-80.759731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E Arch St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354138367,
-    "wof:lastmodified":1449066393,
+    "wof:lastmodified":1467082425,
     "wof:name":"ABC Package Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.759731,34.721351,-80.759731,34.721351],
+  "bbox": [
+    -80.759731,
+    34.721351,
+    -80.759731,
+    34.721351
+],
   "geometry": {"coordinates":[-80.759731,34.721351],"type":"Point"}
 }

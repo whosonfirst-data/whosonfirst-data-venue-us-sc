@@ -2,13 +2,14 @@
   "id": 354285813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.788807,34.237124,-79.788807,34.237124",
     "geom:latitude":34.237124,
     "geom:longitude":-79.788807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 N Cashua Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354285813,
-    "wof:lastmodified":1449065988,
+    "wof:lastmodified":1467082416,
     "wof:name":"Carolina Electric & Energy Svc",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.788807,34.237124,-79.788807,34.237124],
-  "geometry": {"coordinates":[-79.788807,34.237124],"type":"Point"}
+  "bbox": [
+    -79.788807,
+    34.237124,
+    -79.788807,
+    34.237124
+],
+  "geometry": {"coordinates":[-79.78880700000001,34.237124],"type":"Point"}
 }

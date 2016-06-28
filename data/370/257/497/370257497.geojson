@@ -2,13 +2,14 @@
   "id": 370257497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.244153,35.086779,-82.244153,35.086779",
     "geom:latitude":35.086779,
     "geom:longitude":-82.244153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4286 State Hwy 414",
     "sg:city":"Landrum",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370257497,
-    "wof:lastmodified":1449030105,
+    "wof:lastmodified":1467082321,
     "wof:name":"Slatton Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-82.244153,35.086779,-82.244153,35.086779],
+  "bbox": [
+    -82.244153,
+    35.086779,
+    -82.244153,
+    35.086779
+],
   "geometry": {"coordinates":[-82.244153,35.086779],"type":"Point"}
 }

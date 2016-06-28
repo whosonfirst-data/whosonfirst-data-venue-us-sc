@@ -2,13 +2,14 @@
   "id": 370840971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.489267,32.951485,-80.489267,32.951485",
     "geom:latitude":32.951485,
     "geom:longitude":-80.489267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"785 Rehoboth Rd",
     "sg:city":"Cottageville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370840971,
-    "wof:lastmodified":1449031722,
+    "wof:lastmodified":1467082357,
     "wof:name":"Vision Outdoor Advertising",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.489267,32.951485,-80.489267,32.951485],
+  "bbox": [
+    -80.489267,
+    32.951485,
+    -80.489267,
+    32.951485
+],
   "geometry": {"coordinates":[-80.489267,32.951485],"type":"Point"}
 }

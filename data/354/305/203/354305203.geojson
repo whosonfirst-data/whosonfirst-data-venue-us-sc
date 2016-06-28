@@ -2,13 +2,14 @@
   "id": 354305203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.371244,34.438703,-79.371244,34.438703",
     "geom:latitude":34.438703,
     "geom:longitude":-79.371244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Radford Blvd",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354305203,
-    "wof:lastmodified":1449066190,
+    "wof:lastmodified":1467082420,
     "wof:name":"Jabs Fireworks",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.371244,34.438703,-79.371244,34.438703],
+  "bbox": [
+    -79.371244,
+    34.438703,
+    -79.371244,
+    34.438703
+],
   "geometry": {"coordinates":[-79.371244,34.438703],"type":"Point"}
 }

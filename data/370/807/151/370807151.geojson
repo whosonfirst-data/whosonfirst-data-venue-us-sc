@@ -2,13 +2,14 @@
   "id": 370807151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.911565,33.664692,-78.911565,33.664692",
     "geom:latitude":33.664692,
     "geom:longitude":-78.911565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2571 S Ocean Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370807151,
-    "wof:lastmodified":1449029962,
+    "wof:lastmodified":1467082317,
     "wof:name":"Mims Group",
     "wof:parent_id":85826641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.911565,33.664692,-78.911565,33.664692],
+  "bbox": [
+    -78.911565,
+    33.664692,
+    -78.911565,
+    33.664692
+],
   "geometry": {"coordinates":[-78.911565,33.664692],"type":"Point"}
 }

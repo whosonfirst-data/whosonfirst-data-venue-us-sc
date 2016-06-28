@@ -2,13 +2,14 @@
   "id": 169774621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.957929,32.729715,-79.957929,32.729715",
     "geom:latitude":32.729715,
     "geom:longitude":-79.957929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1423 Kentwood Cir",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169774621,
-    "wof:lastmodified":1449033963,
+    "wof:lastmodified":1467082381,
     "wof:name":"Island Upholstery",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-79.957929,32.729715,-79.957929,32.729715],
-  "geometry": {"coordinates":[-79.957929,32.729715],"type":"Point"}
+  "bbox": [
+    -79.957929,
+    32.729715,
+    -79.957929,
+    32.729715
+],
+  "geometry": {"coordinates":[-79.95792899999999,32.729715],"type":"Point"}
 }

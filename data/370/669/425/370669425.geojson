@@ -2,13 +2,14 @@
   "id": 370669425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.767196,32.161015,-80.767196,32.161015",
     "geom:latitude":32.161015,
     "geom:longitude":-80.767196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Palmetto Bay Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370669425,
-    "wof:lastmodified":1449029472,
+    "wof:lastmodified":1467082306,
     "wof:name":"Luxe",
     "wof:parent_id":85830025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-80.767196,32.161015,-80.767196,32.161015],
+  "bbox": [
+    -80.767196,
+    32.161015,
+    -80.767196,
+    32.161015
+],
   "geometry": {"coordinates":[-80.767196,32.161015],"type":"Point"}
 }

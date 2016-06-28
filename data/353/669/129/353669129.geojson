@@ -2,13 +2,14 @@
   "id": 353669129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.26824,34.819896,-82.26824,34.819896",
     "geom:latitude":34.819896,
     "geom:longitude":-82.26824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 Woodruff Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353669129,
-    "wof:lastmodified":1449018547,
+    "wof:lastmodified":1467082216,
     "wof:name":"Wisteria Salon Spa",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.26824,34.819896,-82.26824,34.819896],
-  "geometry": {"coordinates":[-82.26824,34.819896],"type":"Point"}
+  "bbox": [
+    -82.26824,
+    34.819896,
+    -82.26824,
+    34.819896
+],
+  "geometry": {"coordinates":[-82.26824000000001,34.819896],"type":"Point"}
 }

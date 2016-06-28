@@ -2,13 +2,14 @@
   "id": 353614421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.961274,34.976667,-81.961274,34.976667",
     "geom:latitude":34.976667,
     "geom:longitude":-81.961274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 Asheville Hwy",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353614421,
-    "wof:lastmodified":1449020885,
+    "wof:lastmodified":1467082263,
     "wof:name":"Travelier Industries",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cap"
     ]
 },
-  "bbox": [-81.961274,34.976667,-81.961274,34.976667],
+  "bbox": [
+    -81.961274,
+    34.976667,
+    -81.961274,
+    34.976667
+],
   "geometry": {"coordinates":[-81.961274,34.976667],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370738893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.744892,32.166753,-80.744892,32.166753",
     "geom:latitude":32.166753,
     "geom:longitude":-80.744892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"384 Long Cove Dr",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370738893,
-    "wof:lastmodified":1449031572,
+    "wof:lastmodified":1467082353,
     "wof:name":"Zalud Oldsmobile Pontiac",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.744892,32.166753,-80.744892,32.166753],
-  "geometry": {"coordinates":[-80.744892,32.166753],"type":"Point"}
+  "bbox": [
+    -80.744892,
+    32.166753,
+    -80.744892,
+    32.166753
+],
+  "geometry": {"coordinates":[-80.74489199999999,32.166753],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370371547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.566799,33.448107,-79.566799,33.448107",
     "geom:latitude":33.448107,
     "geom:longitude":-79.566799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Alder St",
     "sg:city":"Andrews",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370371547,
-    "wof:lastmodified":1449031733,
+    "wof:lastmodified":1467082357,
     "wof:name":"Georgetown County Cmmnty & Dev",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "training"
     ]
 },
-  "bbox": [-79.566799,33.448107,-79.566799,33.448107],
+  "bbox": [
+    -79.566799,
+    33.448107,
+    -79.566799,
+    33.448107
+],
   "geometry": {"coordinates":[-79.566799,33.448107],"type":"Point"}
 }

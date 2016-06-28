@@ -2,13 +2,14 @@
   "id": 353540541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.759291,33.875009,-79.759291,33.875009",
     "geom:latitude":33.875009,
     "geom:longitude":-79.759291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 John St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353540541,
-    "wof:lastmodified":1449019271,
+    "wof:lastmodified":1467082230,
     "wof:name":"James Dotson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.759291,33.875009,-79.759291,33.875009],
+  "bbox": [
+    -79.759291,
+    33.875009,
+    -79.759291,
+    33.875009
+],
   "geometry": {"coordinates":[-79.759291,33.875009],"type":"Point"}
 }

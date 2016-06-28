@@ -2,13 +2,14 @@
   "id": 353383159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.968938,35.069068,-80.968938,35.069068",
     "geom:latitude":35.069068,
     "geom:longitude":-80.968938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"943 Knightsbridge Rd",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353383159,
-    "wof:lastmodified":1449019324,
+    "wof:lastmodified":1467082232,
     "wof:name":"Hartford Bonding",
     "wof:parent_id":85843859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bond"
     ]
 },
-  "bbox": [-80.968938,35.069068,-80.968938,35.069068],
-  "geometry": {"coordinates":[-80.968938,35.069068],"type":"Point"}
+  "bbox": [
+    -80.968938,
+    35.069068,
+    -80.968938,
+    35.069068
+],
+  "geometry": {"coordinates":[-80.96893799999999,35.069068],"type":"Point"}
 }

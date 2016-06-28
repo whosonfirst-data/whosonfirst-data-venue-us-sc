@@ -2,13 +2,14 @@
   "id": 354310995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.119928,34.070376,-81.119928,34.070376",
     "geom:latitude":34.070376,
     "geom:longitude":-81.119928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4709 Broad River Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354310995,
-    "wof:lastmodified":1449066988,
+    "wof:lastmodified":1467082438,
     "wof:name":"Smoak's Wheel Alignment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alignment"
     ]
 },
-  "bbox": [-81.119928,34.070376,-81.119928,34.070376],
+  "bbox": [
+    -81.119928,
+    34.070376,
+    -81.119928,
+    34.070376
+],
   "geometry": {"coordinates":[-81.119928,34.070376],"type":"Point"}
 }

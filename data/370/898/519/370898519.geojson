@@ -2,13 +2,14 @@
   "id": 370898519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.741864,33.996539,-80.741864,33.996539",
     "geom:latitude":33.996539,
     "geom:longitude":-80.741864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Congress Rd",
     "sg:city":"Eastover",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370898519,
-    "wof:lastmodified":1449029001,
+    "wof:lastmodified":1467082296,
     "wof:name":"Jimmy Germany & Son Wheel",
     "wof:parent_id":85830159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alignment"
     ]
 },
-  "bbox": [-80.741864,33.996539,-80.741864,33.996539],
-  "geometry": {"coordinates":[-80.741864,33.996539],"type":"Point"}
+  "bbox": [
+    -80.741864,
+    33.996539,
+    -80.741864,
+    33.996539
+],
+  "geometry": {"coordinates":[-80.74186400000001,33.996539],"type":"Point"}
 }

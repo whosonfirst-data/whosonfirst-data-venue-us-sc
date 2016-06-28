@@ -2,13 +2,14 @@
   "id": 353932703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.076239,33.965361,-81.076239,33.965361",
     "geom:latitude":33.965361,
     "geom:longitude":-81.076239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1732 Glenn St",
     "sg:city":"Cayce",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353932703,
-    "wof:lastmodified":1449019206,
+    "wof:lastmodified":1467082229,
     "wof:name":"Collectors The",
     "wof:parent_id":85808009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "real estate"
     ]
 },
-  "bbox": [-81.076239,33.965361,-81.076239,33.965361],
+  "bbox": [
+    -81.076239,
+    33.965361,
+    -81.076239,
+    33.965361
+],
   "geometry": {"coordinates":[-81.076239,33.965361],"type":"Point"}
 }

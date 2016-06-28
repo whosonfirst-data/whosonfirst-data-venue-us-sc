@@ -2,13 +2,14 @@
   "id": 353748647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.032688,34.011845,-81.032688,34.011845",
     "geom:latitude":34.011845,
     "geom:longitude":-81.032688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1824 Bull St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353748647,
-    "wof:lastmodified":1449020164,
+    "wof:lastmodified":1467082249,
     "wof:name":"Capital Investment Group",
     "wof:parent_id":85805491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bond"
     ]
 },
-  "bbox": [-81.032688,34.011845,-81.032688,34.011845],
-  "geometry": {"coordinates":[-81.032688,34.011845],"type":"Point"}
+  "bbox": [
+    -81.032688,
+    34.011845,
+    -81.032688,
+    34.011845
+],
+  "geometry": {"coordinates":[-81.03268799999999,34.011845],"type":"Point"}
 }

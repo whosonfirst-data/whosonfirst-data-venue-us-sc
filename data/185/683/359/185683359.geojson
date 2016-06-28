@@ -2,13 +2,14 @@
   "id": 185683359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.94233,34.132302,-79.94233,34.132302",
     "geom:latitude":34.132302,
     "geom:longitude":-79.94233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S Keith St",
     "sg:city":"Timmonsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185683359,
-    "wof:lastmodified":1449007190,
+    "wof:lastmodified":1467082191,
     "wof:name":"Groundup Construction",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.94233,34.132302,-79.94233,34.132302],
+  "bbox": [
+    -79.94233,
+    34.132302,
+    -79.94233,
+    34.132302
+],
   "geometry": {"coordinates":[-79.94233,34.132302],"type":"Point"}
 }

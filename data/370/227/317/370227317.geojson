@@ -2,13 +2,14 @@
   "id": 370227317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.78338,34.17622,-79.78338,34.17622",
     "geom:latitude":34.17622,
     "geom:longitude":-79.78338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 Lorraine Ave",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370227317,
-    "wof:lastmodified":1449029842,
+    "wof:lastmodified":1467082315,
     "wof:name":"Intergrity Proffessional Svcs",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.78338,34.17622,-79.78338,34.17622],
-  "geometry": {"coordinates":[-79.78338,34.17622],"type":"Point"}
+  "bbox": [
+    -79.78338,
+    34.17622,
+    -79.78338,
+    34.17622
+],
+  "geometry": {"coordinates":[-79.78337999999999,34.17622],"type":"Point"}
 }

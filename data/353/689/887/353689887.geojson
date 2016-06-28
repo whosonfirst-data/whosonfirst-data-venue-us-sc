@@ -2,13 +2,14 @@
   "id": 353689887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.935131,32.78397,-79.935131,32.78397",
     "geom:latitude":32.78397,
     "geom:longitude":-79.935131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 King St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353689887,
-    "wof:lastmodified":1449020398,
+    "wof:lastmodified":1467082253,
     "wof:name":"Affordables By Lowells",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [-79.935131,32.78397,-79.935131,32.78397],
+  "bbox": [
+    -79.935131,
+    32.78397,
+    -79.935131,
+    32.78397
+],
   "geometry": {"coordinates":[-79.935131,32.78397],"type":"Point"}
 }

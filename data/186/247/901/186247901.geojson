@@ -2,13 +2,14 @@
   "id": 186247901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.978514,34.496638,-81.978514,34.496638",
     "geom:latitude":34.496638,
     "geom:longitude":-81.978514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Fairgrounds Rd",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186247901,
-    "wof:lastmodified":1449051943,
+    "wof:lastmodified":1467082402,
     "wof:name":"Sc Highway Patrol Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "patrol"
     ]
 },
-  "bbox": [-81.978514,34.496638,-81.978514,34.496638],
+  "bbox": [
+    -81.978514,
+    34.496638,
+    -81.978514,
+    34.496638
+],
   "geometry": {"coordinates":[-81.978514,34.496638],"type":"Point"}
 }

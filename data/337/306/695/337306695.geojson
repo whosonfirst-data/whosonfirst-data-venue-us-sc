@@ -2,13 +2,14 @@
   "id": 337306695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.92781,32.781234,-79.92781,32.781234",
     "geom:latitude":32.781234,
     "geom:longitude":-79.92781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 N Market St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337306695,
-    "wof:lastmodified":1449027705,
+    "wof:lastmodified":1467082294,
     "wof:name":"Charleston's Candy Kitchen",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-79.92781,32.781234,-79.92781,32.781234],
-  "geometry": {"coordinates":[-79.92781,32.781234],"type":"Point"}
+  "bbox": [
+    -79.92781,
+    32.781234,
+    -79.92781,
+    32.781234
+],
+  "geometry": {"coordinates":[-79.92780999999999,32.781234],"type":"Point"}
 }

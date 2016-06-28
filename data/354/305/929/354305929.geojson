@@ -2,13 +2,14 @@
   "id": 354305929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.293356,33.34697,-79.293356,33.34697",
     "geom:latitude":33.34697,
     "geom:longitude":-79.293356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Oak St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354305929,
-    "wof:lastmodified":1449066191,
+    "wof:lastmodified":1467082420,
     "wof:name":"Compu-Comm",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.293356,33.34697,-79.293356,33.34697],
+  "bbox": [
+    -79.293356,
+    33.34697,
+    -79.293356,
+    33.34697
+],
   "geometry": {"coordinates":[-79.293356,33.34697],"type":"Point"}
 }

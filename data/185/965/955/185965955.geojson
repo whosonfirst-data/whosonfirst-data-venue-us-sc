@@ -2,13 +2,14 @@
   "id": 185965955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.411909,33.321708,-80.411909,33.321708",
     "geom:latitude":33.321708,
     "geom:longitude":-80.411909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8603 Old State Rd",
     "sg:city":"Holly Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185965955,
-    "wof:lastmodified":1449007719,
+    "wof:lastmodified":1467082199,
     "wof:name":"Tri-County Regional Chamber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commerce"
     ]
 },
-  "bbox": [-80.411909,33.321708,-80.411909,33.321708],
-  "geometry": {"coordinates":[-80.411909,33.321708],"type":"Point"}
+  "bbox": [
+    -80.411909,
+    33.321708,
+    -80.411909,
+    33.321708
+],
+  "geometry": {"coordinates":[-80.41190899999999,33.321708],"type":"Point"}
 }

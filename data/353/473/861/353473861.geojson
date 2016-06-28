@@ -2,13 +2,14 @@
   "id": 353473861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.342741,34.812312,-82.342741,34.812312",
     "geom:latitude":34.812312,
     "geom:longitude":-82.342741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Duvall Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353473861,
-    "wof:lastmodified":1449018788,
+    "wof:lastmodified":1467082220,
     "wof:name":"Laurens Road At I85 S Elf Stge",
     "wof:parent_id":85827103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-82.342741,34.812312,-82.342741,34.812312],
+  "bbox": [
+    -82.342741,
+    34.812312,
+    -82.342741,
+    34.812312
+],
   "geometry": {"coordinates":[-82.342741,34.812312],"type":"Point"}
 }

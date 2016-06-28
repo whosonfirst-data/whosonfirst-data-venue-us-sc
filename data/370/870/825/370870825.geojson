@@ -2,13 +2,14 @@
   "id": 370870825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.244446,34.717596,-82.244446,34.717596",
     "geom:latitude":34.717596,
     "geom:longitude":-82.244446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 SE Main St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370870825,
-    "wof:lastmodified":1449029989,
+    "wof:lastmodified":1467082318,
     "wof:name":"Hillcrest Internal Medicines",
     "wof:parent_id":85842975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.244446,34.717596,-82.244446,34.717596],
+  "bbox": [
+    -82.244446,
+    34.717596,
+    -82.244446,
+    34.717596
+],
   "geometry": {"coordinates":[-82.244446,34.717596],"type":"Point"}
 }

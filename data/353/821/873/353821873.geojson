@@ -2,13 +2,14 @@
   "id": 353821873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.829596,33.666665,-79.829596,33.666665",
     "geom:latitude":33.666665,
     "geom:longitude":-79.829596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Hampton Ave",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353821873,
-    "wof:lastmodified":1449019648,
+    "wof:lastmodified":1467082238,
     "wof:name":"Rose Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-79.829596,33.666665,-79.829596,33.666665],
+  "bbox": [
+    -79.829596,
+    33.666665,
+    -79.829596,
+    33.666665
+],
   "geometry": {"coordinates":[-79.829596,33.666665],"type":"Point"}
 }

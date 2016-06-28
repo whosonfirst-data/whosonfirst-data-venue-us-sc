@@ -2,13 +2,14 @@
   "id": 370526267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.447139,34.879289,-82.447139,34.879289",
     "geom:latitude":34.879289,
     "geom:longitude":-82.447139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Cedar Lane Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370526267,
-    "wof:lastmodified":1449030138,
+    "wof:lastmodified":1467082321,
     "wof:name":"C F Noblitt Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.447139,34.879289,-82.447139,34.879289],
-  "geometry": {"coordinates":[-82.447139,34.879289],"type":"Point"}
+  "bbox": [
+    -82.447139,
+    34.879289,
+    -82.447139,
+    34.879289
+],
+  "geometry": {"coordinates":[-82.44713900000001,34.879289],"type":"Point"}
 }

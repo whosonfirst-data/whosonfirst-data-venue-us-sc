@@ -2,13 +2,14 @@
   "id": 370499471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.165968,34.17358,-82.165968,34.17358",
     "geom:latitude":34.17358,
     "geom:longitude":-82.165968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Liner Dr",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370499471,
-    "wof:lastmodified":1449029732,
+    "wof:lastmodified":1467082312,
     "wof:name":"Western Carolina Oral Surgery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.165968,34.17358,-82.165968,34.17358],
-  "geometry": {"coordinates":[-82.165968,34.17358],"type":"Point"}
+  "bbox": [
+    -82.165968,
+    34.17358,
+    -82.165968,
+    34.17358
+],
+  "geometry": {"coordinates":[-82.16596800000001,34.17358],"type":"Point"}
 }

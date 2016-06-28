@@ -2,13 +2,14 @@
   "id": 353955349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.740498,32.80292,-79.740498,32.80292",
     "geom:latitude":32.80292,
     "geom:longitude":-79.740498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 57th Ave",
     "sg:city":"Isle Of Palms",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353955349,
-    "wof:lastmodified":1449020010,
+    "wof:lastmodified":1467082246,
     "wof:name":"Fitts Investments LLC",
     "wof:parent_id":85819989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-79.740498,32.80292,-79.740498,32.80292],
+  "bbox": [
+    -79.740498,
+    32.80292,
+    -79.740498,
+    32.80292
+],
   "geometry": {"coordinates":[-79.740498,32.80292],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186137331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.600108,34.812502,-82.600108,34.812502",
     "geom:latitude":34.812502,
     "geom:longitude":-82.600108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Esther Dr",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186137331,
-    "wof:lastmodified":1449052648,
+    "wof:lastmodified":1467082409,
     "wof:name":"Shad's Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.600108,34.812502,-82.600108,34.812502],
-  "geometry": {"coordinates":[-82.600108,34.812502],"type":"Point"}
+  "bbox": [
+    -82.600108,
+    34.812502,
+    -82.600108,
+    34.812502
+],
+  "geometry": {"coordinates":[-82.60010800000001,34.812502],"type":"Point"}
 }

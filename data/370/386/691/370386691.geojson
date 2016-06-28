@@ -2,13 +2,14 @@
   "id": 370386691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.969011,34.882676,-81.969011,34.882676",
     "geom:latitude":34.882676,
     "geom:longitude":-81.969011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1949 E Blackstock Rd",
     "sg:city":"Roebuck",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370386691,
-    "wof:lastmodified":1449030857,
+    "wof:lastmodified":1467082337,
     "wof:name":"Carolina Business Machines",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "repair"
     ]
 },
-  "bbox": [-81.969011,34.882676,-81.969011,34.882676],
-  "geometry": {"coordinates":[-81.969011,34.882676],"type":"Point"}
+  "bbox": [
+    -81.969011,
+    34.882676,
+    -81.969011,
+    34.882676
+],
+  "geometry": {"coordinates":[-81.96901099999999,34.882676],"type":"Point"}
 }

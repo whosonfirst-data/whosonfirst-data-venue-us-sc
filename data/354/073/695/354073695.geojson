@@ -2,13 +2,14 @@
   "id": 354073695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.040241,32.998017,-80.040241,32.998017",
     "geom:latitude":32.998017,
     "geom:longitude":-80.040241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Marilyn St",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354073695,
-    "wof:lastmodified":1449066168,
+    "wof:lastmodified":1467082420,
     "wof:name":"Deluca & Maucher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.040241,32.998017,-80.040241,32.998017],
-  "geometry": {"coordinates":[-80.040241,32.998017],"type":"Point"}
+  "bbox": [
+    -80.040241,
+    32.998017,
+    -80.040241,
+    32.998017
+],
+  "geometry": {"coordinates":[-80.04024099999999,32.998017],"type":"Point"}
 }

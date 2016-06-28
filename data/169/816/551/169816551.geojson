@@ -2,13 +2,14 @@
   "id": 169816551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.903592,32.744588,-79.903592,32.744588",
     "geom:latitude":32.744588,
     "geom:longitude":-79.903592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"366 Sweetgrass Creek Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169816551,
-    "wof:lastmodified":1449034608,
+    "wof:lastmodified":1467082384,
     "wof:name":"Virginia Ross Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [-79.903592,32.744588,-79.903592,32.744588],
+  "bbox": [
+    -79.903592,
+    32.744588,
+    -79.903592,
+    32.744588
+],
   "geometry": {"coordinates":[-79.903592,32.744588],"type":"Point"}
 }

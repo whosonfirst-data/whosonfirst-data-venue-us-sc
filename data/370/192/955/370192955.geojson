@@ -2,13 +2,14 @@
   "id": 370192955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.703375,32.882645,-80.703375,32.882645",
     "geom:latitude":32.882645,
     "geom:longitude":-80.703375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Sniders Hwy",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370192955,
-    "wof:lastmodified":1449031489,
+    "wof:lastmodified":1467082351,
     "wof:name":"James Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-80.703375,32.882645,-80.703375,32.882645],
-  "geometry": {"coordinates":[-80.703375,32.882645],"type":"Point"}
+  "bbox": [
+    -80.703375,
+    32.882645,
+    -80.703375,
+    32.882645
+],
+  "geometry": {"coordinates":[-80.70337499999999,32.882645],"type":"Point"}
 }

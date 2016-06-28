@@ -2,13 +2,14 @@
   "id": 370615349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.764406,34.660866,-80.764406,34.660866",
     "geom:latitude":34.660866,
     "geom:longitude":-80.764406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2071 Lynwood Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370615349,
-    "wof:lastmodified":1449030166,
+    "wof:lastmodified":1467082322,
     "wof:name":"C & F Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.764406,34.660866,-80.764406,34.660866],
-  "geometry": {"coordinates":[-80.764406,34.660866],"type":"Point"}
+  "bbox": [
+    -80.764406,
+    34.660866,
+    -80.764406,
+    34.660866
+],
+  "geometry": {"coordinates":[-80.76440599999999,34.660866],"type":"Point"}
 }

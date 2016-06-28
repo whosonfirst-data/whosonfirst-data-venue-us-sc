@@ -2,13 +2,14 @@
   "id": 353731199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.077025,33.027441,-80.077025,33.027441",
     "geom:latitude":33.027441,
     "geom:longitude":-80.077025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Persimmon Cir",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353731199,
-    "wof:lastmodified":1449020511,
+    "wof:lastmodified":1467082256,
     "wof:name":"Cannon Hygiene",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "industrial"
     ]
 },
-  "bbox": [-80.077025,33.027441,-80.077025,33.027441],
-  "geometry": {"coordinates":[-80.077025,33.027441],"type":"Point"}
+  "bbox": [
+    -80.077025,
+    33.027441,
+    -80.077025,
+    33.027441
+],
+  "geometry": {"coordinates":[-80.07702500000001,33.027441],"type":"Point"}
 }

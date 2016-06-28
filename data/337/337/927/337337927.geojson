@@ -2,13 +2,14 @@
   "id": 337337927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.86517,33.491112,-80.86517,33.491112",
     "geom:latitude":33.491112,
     "geom:longitude":-80.86517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1282 Middleton St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337337927,
-    "wof:lastmodified":1449027334,
+    "wof:lastmodified":1467082280,
     "wof:name":"Next Phaze Barber & Beauty Sln",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.86517,33.491112,-80.86517,33.491112],
-  "geometry": {"coordinates":[-80.86517,33.491112],"type":"Point"}
+  "bbox": [
+    -80.86517,
+    33.491112,
+    -80.86517,
+    33.491112
+],
+  "geometry": {"coordinates":[-80.86517000000001,33.491112],"type":"Point"}
 }

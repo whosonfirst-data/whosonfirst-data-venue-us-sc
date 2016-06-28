@@ -2,13 +2,14 @@
   "id": 370246843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.364083,33.243636,-81.364083,33.243636",
     "geom:latitude":33.243636,
     "geom:longitude":-81.364083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"272 Main St",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370246843,
-    "wof:lastmodified":1449029310,
+    "wof:lastmodified":1467082303,
     "wof:name":"City Loan Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-81.364083,33.243636,-81.364083,33.243636],
-  "geometry": {"coordinates":[-81.364083,33.243636],"type":"Point"}
+  "bbox": [
+    -81.364083,
+    33.243636,
+    -81.364083,
+    33.243636
+],
+  "geometry": {"coordinates":[-81.36408299999999,33.243636],"type":"Point"}
 }

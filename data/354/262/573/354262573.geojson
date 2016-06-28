@@ -2,13 +2,14 @@
   "id": 354262573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.423031,34.825812,-82.423031,34.825812",
     "geom:latitude":34.825812,
     "geom:longitude":-82.423031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Stevens St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354262573,
-    "wof:lastmodified":1449067001,
+    "wof:lastmodified":1467082439,
     "wof:name":"Safety Components Intl Inc",
     "wof:parent_id":85811527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.423031,34.825812,-82.423031,34.825812],
-  "geometry": {"coordinates":[-82.423031,34.825812],"type":"Point"}
+  "bbox": [
+    -82.423031,
+    34.825812,
+    -82.423031,
+    34.825812
+],
+  "geometry": {"coordinates":[-82.42303099999999,34.825812],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186015683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.725663,33.579962,-81.725663,33.579962",
     "geom:latitude":33.579962,
     "geom:longitude":-81.725663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Lincoln Ave",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186015683,
-    "wof:lastmodified":1449051011,
+    "wof:lastmodified":1467082394,
     "wof:name":"Glen Arbor Apartments",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.725663,33.579962,-81.725663,33.579962],
+  "bbox": [
+    -81.725663,
+    33.579962,
+    -81.725663,
+    33.579962
+],
   "geometry": {"coordinates":[-81.725663,33.579962],"type":"Point"}
 }

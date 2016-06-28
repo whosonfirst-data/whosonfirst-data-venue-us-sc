@@ -2,13 +2,14 @@
   "id": 370575431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.161379,34.202206,-82.161379,34.202206",
     "geom:latitude":34.202206,
     "geom:longitude":-82.161379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Grace St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370575431,
-    "wof:lastmodified":1449030084,
+    "wof:lastmodified":1467082320,
     "wof:name":"Nick Anderson Paint Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-82.161379,34.202206,-82.161379,34.202206],
+  "bbox": [
+    -82.161379,
+    34.202206,
+    -82.161379,
+    34.202206
+],
   "geometry": {"coordinates":[-82.161379,34.202206],"type":"Point"}
 }

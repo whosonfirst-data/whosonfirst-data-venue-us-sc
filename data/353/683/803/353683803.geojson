@@ -2,13 +2,14 @@
   "id": 353683803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.293962,34.160559,-81.293962,34.160559",
     "geom:latitude":34.160559,
     "geom:longitude":-81.293962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 Old Hilton Rd",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353683803,
-    "wof:lastmodified":1449019199,
+    "wof:lastmodified":1467082229,
     "wof:name":"Palmetto State Backhoe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.293962,34.160559,-81.293962,34.160559],
-  "geometry": {"coordinates":[-81.293962,34.160559],"type":"Point"}
+  "bbox": [
+    -81.293962,
+    34.160559,
+    -81.293962,
+    34.160559
+],
+  "geometry": {"coordinates":[-81.29396199999999,34.160559],"type":"Point"}
 }

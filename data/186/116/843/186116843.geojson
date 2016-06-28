@@ -2,13 +2,14 @@
   "id": 186116843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.019047,34.930167,-81.019047,34.930167",
     "geom:latitude":34.930167,
     "geom:longitude":-81.019047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 Dave Lyle Blvd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186116843,
-    "wof:lastmodified":1449050759,
+    "wof:lastmodified":1467082392,
     "wof:name":"Plant Department",
     "wof:parent_id":85833915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "communication"
     ]
 },
-  "bbox": [-81.019047,34.930167,-81.019047,34.930167],
+  "bbox": [
+    -81.019047,
+    34.930167,
+    -81.019047,
+    34.930167
+],
   "geometry": {"coordinates":[-81.019047,34.930167],"type":"Point"}
 }

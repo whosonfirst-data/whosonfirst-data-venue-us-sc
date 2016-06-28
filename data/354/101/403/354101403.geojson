@@ -2,13 +2,14 @@
   "id": 354101403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.891942,33.709776,-78.891942,33.709776",
     "geom:latitude":33.709776,
     "geom:longitude":-78.891942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Coastal Ln",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354101403,
-    "wof:lastmodified":1449066838,
+    "wof:lastmodified":1467082435,
     "wof:name":"Broadway Place",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.891942,33.709776,-78.891942,33.709776],
+  "bbox": [
+    -78.891942,
+    33.709776,
+    -78.891942,
+    33.709776
+],
   "geometry": {"coordinates":[-78.891942,33.709776],"type":"Point"}
 }

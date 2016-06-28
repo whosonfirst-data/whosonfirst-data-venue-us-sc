@@ -2,13 +2,14 @@
   "id": 354140225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.686726,32.927699,-80.686726,32.927699",
     "geom:latitude":32.927699,
     "geom:longitude":-80.686726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1536 Bells Hwy",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354140225,
-    "wof:lastmodified":1449066170,
+    "wof:lastmodified":1467082420,
     "wof:name":"Longs Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.686726,32.927699,-80.686726,32.927699],
-  "geometry": {"coordinates":[-80.686726,32.927699],"type":"Point"}
+  "bbox": [
+    -80.686726,
+    32.927699,
+    -80.686726,
+    32.927699
+],
+  "geometry": {"coordinates":[-80.68672599999999,32.927699],"type":"Point"}
 }

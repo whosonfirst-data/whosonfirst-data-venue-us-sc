@@ -2,13 +2,14 @@
   "id": 353715519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.658888,33.845236,-78.658888,33.845236",
     "geom:latitude":33.845236,
     "geom:longitude":-78.658888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 Hwy 17",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353715519,
-    "wof:lastmodified":1449020313,
+    "wof:lastmodified":1467082252,
     "wof:name":"Golf Shoe Ctr Of America",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.658888,33.845236,-78.658888,33.845236],
+  "bbox": [
+    -78.658888,
+    33.845236,
+    -78.658888,
+    33.845236
+],
   "geometry": {"coordinates":[-78.658888,33.845236],"type":"Point"}
 }

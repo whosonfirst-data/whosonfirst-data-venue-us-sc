@@ -2,13 +2,14 @@
   "id": 354397013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.1385,32.865107,-81.1385,32.865107",
     "geom:latitude":32.865107,
     "geom:longitude":-81.1385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Luray Hwy",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354397013,
-    "wof:lastmodified":1449066596,
+    "wof:lastmodified":1467082430,
     "wof:name":"C & G Orr Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "logging"
     ]
 },
-  "bbox": [-81.1385,32.865107,-81.1385,32.865107],
-  "geometry": {"coordinates":[-81.1385,32.865107],"type":"Point"}
+  "bbox": [
+    -81.1385,
+    32.865107,
+    -81.1385,
+    32.865107
+],
+  "geometry": {"coordinates":[-81.13849999999999,32.865107],"type":"Point"}
 }

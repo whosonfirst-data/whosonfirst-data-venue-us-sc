@@ -2,13 +2,14 @@
   "id": 354228733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.142578,32.971549,-80.142578,32.971549",
     "geom:latitude":32.971549,
     "geom:longitude":-80.142578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 Margaret Dr",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354228733,
-    "wof:lastmodified":1449066440,
+    "wof:lastmodified":1467082426,
     "wof:name":"Laura M Papay",
     "wof:parent_id":85852525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.142578,32.971549,-80.142578,32.971549],
+  "bbox": [
+    -80.142578,
+    32.971549,
+    -80.142578,
+    32.971549
+],
   "geometry": {"coordinates":[-80.142578,32.971549],"type":"Point"}
 }

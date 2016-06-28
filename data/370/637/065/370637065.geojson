@@ -2,13 +2,14 @@
   "id": 370637065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.732877,33.503638,-81.732877,33.503638",
     "geom:latitude":33.503638,
     "geom:longitude":-81.732877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Boxwood Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370637065,
-    "wof:lastmodified":1449029070,
+    "wof:lastmodified":1467082298,
     "wof:name":"Jack Maier Assoc Inc",
     "wof:parent_id":85812071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-81.732877,33.503638,-81.732877,33.503638],
+  "bbox": [
+    -81.732877,
+    33.503638,
+    -81.732877,
+    33.503638
+],
   "geometry": {"coordinates":[-81.732877,33.503638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370585995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.314705,34.91805,-82.314705,34.91805",
     "geom:latitude":34.91805,
     "geom:longitude":-82.314705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3326 Wade Hampton Blvd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370585995,
-    "wof:lastmodified":1449031332,
+    "wof:lastmodified":1467082348,
     "wof:name":"Wade Hampton Taylors Brch Libr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.314705,34.91805,-82.314705,34.91805],
+  "bbox": [
+    -82.314705,
+    34.91805,
+    -82.314705,
+    34.91805
+],
   "geometry": {"coordinates":[-82.314705,34.91805],"type":"Point"}
 }

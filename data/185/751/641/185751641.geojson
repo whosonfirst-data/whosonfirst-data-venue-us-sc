@@ -2,13 +2,14 @@
   "id": 185751641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.294614,33.33286,-79.294614,33.33286",
     "geom:latitude":33.33286,
     "geom:longitude":-79.294614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Birch St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185751641,
-    "wof:lastmodified":1449006681,
+    "wof:lastmodified":1467082183,
     "wof:name":"Penny's Beauty Shop",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.294614,33.33286,-79.294614,33.33286],
+  "bbox": [
+    -79.294614,
+    33.33286,
+    -79.294614,
+    33.33286
+],
   "geometry": {"coordinates":[-79.294614,33.33286],"type":"Point"}
 }

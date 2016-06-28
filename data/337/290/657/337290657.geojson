@@ -2,13 +2,14 @@
   "id": 337290657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.30064,35.037755,-81.30064,35.037755",
     "geom:latitude":35.037755,
     "geom:longitude":-81.30064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Matlock Dr",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337290657,
-    "wof:lastmodified":1449027284,
+    "wof:lastmodified":1467082278,
     "wof:name":"Latham Construction",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.30064,35.037755,-81.30064,35.037755],
+  "bbox": [
+    -81.30064,
+    35.037755,
+    -81.30064,
+    35.037755
+],
   "geometry": {"coordinates":[-81.30064,35.037755],"type":"Point"}
 }

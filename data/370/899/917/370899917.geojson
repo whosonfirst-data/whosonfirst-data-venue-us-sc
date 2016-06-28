@@ -2,13 +2,14 @@
   "id": 370899917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.109147,32.914941,-80.109147,32.914941",
     "geom:latitude":32.914941,
     "geom:longitude":-80.109147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8761 Dorchester Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370899917,
-    "wof:lastmodified":1449032300,
+    "wof:lastmodified":1467082370,
     "wof:name":"Easy Tray LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tray"
     ]
 },
-  "bbox": [-80.109147,32.914941,-80.109147,32.914941],
-  "geometry": {"coordinates":[-80.109147,32.914941],"type":"Point"}
+  "bbox": [
+    -80.109147,
+    32.914941,
+    -80.109147,
+    32.914941
+],
+  "geometry": {"coordinates":[-80.10914699999999,32.914941],"type":"Point"}
 }

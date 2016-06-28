@@ -2,13 +2,14 @@
   "id": 354062089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.845086,33.914593,-78.845086,33.914593",
     "geom:latitude":33.914593,
     "geom:longitude":-78.845086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 State Hwy 554",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354062089,
-    "wof:lastmodified":1449067551,
+    "wof:lastmodified":1467082451,
     "wof:name":"Red Bluff Church Of God",
     "wof:parent_id":85815435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.845086,33.914593,-78.845086,33.914593],
-  "geometry": {"coordinates":[-78.845086,33.914593],"type":"Point"}
+  "bbox": [
+    -78.845086,
+    33.914593,
+    -78.845086,
+    33.914593
+],
+  "geometry": {"coordinates":[-78.84508599999999,33.914593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370864565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.035735,34.014266,-81.035735,34.014266",
     "geom:latitude":34.014266,
     "geom:longitude":-81.035735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 Elmwood Ave",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370864565,
-    "wof:lastmodified":1449032519,
+    "wof:lastmodified":1467082375,
     "wof:name":"Apartment Guide",
     "wof:parent_id":85805491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "guide"
     ]
 },
-  "bbox": [-81.035735,34.014266,-81.035735,34.014266],
+  "bbox": [
+    -81.035735,
+    34.014266,
+    -81.035735,
+    34.014266
+],
   "geometry": {"coordinates":[-81.035735,34.014266],"type":"Point"}
 }

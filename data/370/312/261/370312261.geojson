@@ -2,13 +2,14 @@
   "id": 370312261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.884005,34.698133,-79.884005,34.698133",
     "geom:latitude":34.698133,
     "geom:longitude":-79.884005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"249 2nd St",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370312261,
-    "wof:lastmodified":1449030788,
+    "wof:lastmodified":1467082336,
     "wof:name":"Loflin Towing & Recovery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-79.884005,34.698133,-79.884005,34.698133],
+  "bbox": [
+    -79.884005,
+    34.698133,
+    -79.884005,
+    34.698133
+],
   "geometry": {"coordinates":[-79.884005,34.698133],"type":"Point"}
 }

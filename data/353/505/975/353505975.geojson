@@ -2,13 +2,14 @@
   "id": 353505975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.993653,34.993967,-81.993653,34.993967",
     "geom:latitude":34.993967,
     "geom:longitude":-81.993653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8202 Maxwell Cir",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353505975,
-    "wof:lastmodified":1449020405,
+    "wof:lastmodified":1467082253,
     "wof:name":"Ranjo Inc",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "metal"
     ]
 },
-  "bbox": [-81.993653,34.993967,-81.993653,34.993967],
-  "geometry": {"coordinates":[-81.993653,34.993967],"type":"Point"}
+  "bbox": [
+    -81.993653,
+    34.993967,
+    -81.993653,
+    34.993967
+],
+  "geometry": {"coordinates":[-81.99365299999999,34.993967],"type":"Point"}
 }

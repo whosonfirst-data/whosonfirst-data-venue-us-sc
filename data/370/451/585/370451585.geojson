@@ -2,13 +2,14 @@
   "id": 370451585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.229175,34.850675,-82.229175,34.850675",
     "geom:latitude":34.850675,
     "geom:longitude":-82.229175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"972 Batesville Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":370451585,
-    "wof:lastmodified":1449030568,
+    "wof:lastmodified":1467082331,
     "wof:name":"Kids & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.229175,34.850675,-82.229175,34.850675],
+  "bbox": [
+    -82.229175,
+    34.850675,
+    -82.229175,
+    34.850675
+],
   "geometry": {"coordinates":[-82.229175,34.850675],"type":"Point"}
 }

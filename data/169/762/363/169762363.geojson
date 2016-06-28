@@ -2,13 +2,14 @@
   "id": 169762363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.400205,34.88956,-82.400205,34.88956",
     "geom:latitude":34.88956,
     "geom:longitude":-82.400205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3235 N Pleasantburg Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169762363,
-    "wof:lastmodified":1449035010,
+    "wof:lastmodified":1467082385,
     "wof:name":"Greek Grille",
     "wof:parent_id":85825355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.400205,34.88956,-82.400205,34.88956],
+  "bbox": [
+    -82.400205,
+    34.88956,
+    -82.400205,
+    34.88956
+],
   "geometry": {"coordinates":[-82.400205,34.88956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370966155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.887829,34.695009,-79.887829,34.695009",
     "geom:latitude":34.695009,
     "geom:longitude":-79.887829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"433 US Hwy 1",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370966155,
-    "wof:lastmodified":1449029087,
+    "wof:lastmodified":1467082298,
     "wof:name":"Natural Resources Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-79.887829,34.695009,-79.887829,34.695009],
+  "bbox": [
+    -79.887829,
+    34.695009,
+    -79.887829,
+    34.695009
+],
   "geometry": {"coordinates":[-79.887829,34.695009],"type":"Point"}
 }

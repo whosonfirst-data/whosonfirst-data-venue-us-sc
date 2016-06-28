@@ -2,13 +2,14 @@
   "id": 370510743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.367916,34.420927,-79.367916,34.420927",
     "geom:latitude":34.420927,
     "geom:longitude":-79.367916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Roosevelt St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370510743,
-    "wof:lastmodified":1449031119,
+    "wof:lastmodified":1467082343,
     "wof:name":"Digital Communications",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.367916,34.420927,-79.367916,34.420927],
-  "geometry": {"coordinates":[-79.367916,34.420927],"type":"Point"}
+  "bbox": [
+    -79.367916,
+    34.420927,
+    -79.367916,
+    34.420927
+],
+  "geometry": {"coordinates":[-79.36791599999999,34.420927],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370412391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.620551,34.275942,-81.620551,34.275942",
     "geom:latitude":34.275942,
     "geom:longitude":-81.620551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207 Caldwell St",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370412391,
-    "wof:lastmodified":1449029783,
+    "wof:lastmodified":1467082313,
     "wof:name":"Community Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-81.620551,34.275942,-81.620551,34.275942],
-  "geometry": {"coordinates":[-81.620551,34.275942],"type":"Point"}
+  "bbox": [
+    -81.620551,
+    34.275942,
+    -81.620551,
+    34.275942
+],
+  "geometry": {"coordinates":[-81.62055100000001,34.275942],"type":"Point"}
 }

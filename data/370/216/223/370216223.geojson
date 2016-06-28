@@ -2,13 +2,14 @@
   "id": 370216223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.953904,32.804802,-79.953904,32.804802",
     "geom:latitude":32.804802,
     "geom:longitude":-79.953904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Gordon St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370216223,
-    "wof:lastmodified":1449032089,
+    "wof:lastmodified":1467082365,
     "wof:name":"Tabernacle Baptist Church",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.953904,32.804802,-79.953904,32.804802],
-  "geometry": {"coordinates":[-79.953904,32.804802],"type":"Point"}
+  "bbox": [
+    -79.953904,
+    32.804802,
+    -79.953904,
+    32.804802
+],
+  "geometry": {"coordinates":[-79.95390399999999,32.804802],"type":"Point"}
 }

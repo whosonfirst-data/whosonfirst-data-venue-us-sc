@@ -2,13 +2,14 @@
   "id": 354160681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.371611,33.939633,-80.371611,33.939633",
     "geom:latitude":33.939633,
     "geom:longitude":-80.371611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 Bultman Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354160681,
-    "wof:lastmodified":1449067378,
+    "wof:lastmodified":1467082447,
     "wof:name":"John Deere Toys & Coll",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "collectible"
     ]
 },
-  "bbox": [-80.371611,33.939633,-80.371611,33.939633],
+  "bbox": [
+    -80.371611,
+    33.939633,
+    -80.371611,
+    33.939633
+],
   "geometry": {"coordinates":[-80.371611,33.939633],"type":"Point"}
 }

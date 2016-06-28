@@ -2,13 +2,14 @@
   "id": 185798477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.896858,34.286344,-79.896858,34.286344",
     "geom:latitude":34.286344,
     "geom:longitude":-79.896858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Lamar Hwy",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185798477,
-    "wof:lastmodified":1449006916,
+    "wof:lastmodified":1467082187,
     "wof:name":"Maola Milk & Ice Cream Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cream"
     ]
 },
-  "bbox": [-79.896858,34.286344,-79.896858,34.286344],
-  "geometry": {"coordinates":[-79.896858,34.286344],"type":"Point"}
+  "bbox": [
+    -79.896858,
+    34.286344,
+    -79.896858,
+    34.286344
+],
+  "geometry": {"coordinates":[-79.89685799999999,34.286344],"type":"Point"}
 }

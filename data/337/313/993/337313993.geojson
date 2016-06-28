@@ -2,13 +2,14 @@
   "id": 337313993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.78584,33.883412,-79.78584,33.883412",
     "geom:latitude":33.883412,
     "geom:longitude":-79.78584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 Tairilin Dr",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":337313993,
-    "wof:lastmodified":1449026960,
+    "wof:lastmodified":1467082266,
     "wof:name":"A&M Transport Corporation LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.78584,33.883412,-79.78584,33.883412],
-  "geometry": {"coordinates":[-79.78584,33.883412],"type":"Point"}
+  "bbox": [
+    -79.78584,
+    33.883412,
+    -79.78584,
+    33.883412
+],
+  "geometry": {"coordinates":[-79.78583999999999,33.883412],"type":"Point"}
 }

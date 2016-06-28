@@ -2,13 +2,14 @@
   "id": 353372209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.12991,32.725012,-80.12991,32.725012",
     "geom:latitude":32.725012,
     "geom:longitude":-80.12991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5611 Chisolm Rd",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353372209,
-    "wof:lastmodified":1449019833,
+    "wof:lastmodified":1467082242,
     "wof:name":"Glover Fence Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-80.12991,32.725012,-80.12991,32.725012],
+  "bbox": [
+    -80.12991,
+    32.725012,
+    -80.12991,
+    32.725012
+],
   "geometry": {"coordinates":[-80.12991,32.725012],"type":"Point"}
 }

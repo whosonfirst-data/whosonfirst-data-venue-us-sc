@@ -2,13 +2,14 @@
   "id": 370461543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.951754,35.008412,-81.951754,35.008412",
     "geom:latitude":35.008412,
     "geom:longitude":-81.951754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Parris Bridge Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370461543,
-    "wof:lastmodified":1449030360,
+    "wof:lastmodified":1467082326,
     "wof:name":"Wireless Resources",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-81.951754,35.008412,-81.951754,35.008412],
-  "geometry": {"coordinates":[-81.951754,35.008412],"type":"Point"}
+  "bbox": [
+    -81.951754,
+    35.008412,
+    -81.951754,
+    35.008412
+],
+  "geometry": {"coordinates":[-81.95175399999999,35.008412],"type":"Point"}
 }

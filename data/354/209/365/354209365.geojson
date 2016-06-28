@@ -2,13 +2,14 @@
   "id": 354209365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.034208,34.800692,-83.034208,34.800692",
     "geom:latitude":34.800692,
     "geom:longitude":-83.034208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Quail Haven Dr",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354209365,
-    "wof:lastmodified":1449067490,
+    "wof:lastmodified":1467082450,
     "wof:name":"Tri-County Appraisals Inc",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-83.034208,34.800692,-83.034208,34.800692],
-  "geometry": {"coordinates":[-83.034208,34.800692],"type":"Point"}
+  "bbox": [
+    -83.034208,
+    34.800692,
+    -83.034208,
+    34.800692
+],
+  "geometry": {"coordinates":[-83.03420800000001,34.800692],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353658887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.18905,35.115496,-81.18905,35.115496",
     "geom:latitude":35.115496,
     "geom:longitude":-81.18905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"375 Christmas Tree Ln",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353658887,
-    "wof:lastmodified":1449018199,
+    "wof:lastmodified":1467082208,
     "wof:name":"Garwood Inc",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [-81.18905,35.115496,-81.18905,35.115496],
-  "geometry": {"coordinates":[-81.18905,35.115496],"type":"Point"}
+  "bbox": [
+    -81.18905,
+    35.115496,
+    -81.18905,
+    35.115496
+],
+  "geometry": {"coordinates":[-81.18904999999999,35.115496],"type":"Point"}
 }

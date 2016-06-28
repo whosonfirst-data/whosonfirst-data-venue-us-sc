@@ -2,13 +2,14 @@
   "id": 337335721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.682587,33.920225,-79.682587,33.920225",
     "geom:latitude":33.920225,
     "geom:longitude":-79.682587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1631 E Myrtle Beach Hwy",
     "sg:city":"Scranton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337335721,
-    "wof:lastmodified":1449027491,
+    "wof:lastmodified":1467082286,
     "wof:name":"James Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.682587,33.920225,-79.682587,33.920225],
+  "bbox": [
+    -79.682587,
+    33.920225,
+    -79.682587,
+    33.920225
+],
   "geometry": {"coordinates":[-79.682587,33.920225],"type":"Point"}
 }

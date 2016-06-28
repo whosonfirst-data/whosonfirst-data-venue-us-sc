@@ -2,13 +2,14 @@
   "id": 370221607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.79409,35.132348,-81.79409,35.132348",
     "geom:latitude":35.132348,
     "geom:longitude":-81.79409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Scruggs Trl",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370221607,
-    "wof:lastmodified":1449030578,
+    "wof:lastmodified":1467082331,
     "wof:name":"White Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.79409,35.132348,-81.79409,35.132348],
+  "bbox": [
+    -81.79409,
+    35.132348,
+    -81.79409,
+    35.132348
+],
   "geometry": {"coordinates":[-81.79409,35.132348],"type":"Point"}
 }

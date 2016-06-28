@@ -2,13 +2,14 @@
   "id": 185769745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.169142,33.018976,-80.169142,33.018976",
     "geom:latitude":33.018976,
     "geom:longitude":-80.169142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Hemphill Ct",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185769745,
-    "wof:lastmodified":1449007133,
+    "wof:lastmodified":1467082190,
     "wof:name":"Teklowe Design LLC",
     "wof:parent_id":85833421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "woodworker"
     ]
 },
-  "bbox": [-80.169142,33.018976,-80.169142,33.018976],
-  "geometry": {"coordinates":[-80.169142,33.018976],"type":"Point"}
+  "bbox": [
+    -80.169142,
+    33.018976,
+    -80.169142,
+    33.018976
+],
+  "geometry": {"coordinates":[-80.16914199999999,33.018976],"type":"Point"}
 }

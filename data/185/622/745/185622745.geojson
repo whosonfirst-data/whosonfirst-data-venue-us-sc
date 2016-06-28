@@ -2,13 +2,14 @@
   "id": 185622745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.890627,32.264691,-80.890627,32.264691",
     "geom:latitude":32.264691,
     "geom:longitude":-80.890627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Canters Cir",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185622745,
-    "wof:lastmodified":1449007940,
+    "wof:lastmodified":1467082203,
     "wof:name":"Camelot Limousine & Tours Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-80.890627,32.264691,-80.890627,32.264691],
-  "geometry": {"coordinates":[-80.890627,32.264691],"type":"Point"}
+  "bbox": [
+    -80.890627,
+    32.264691,
+    -80.890627,
+    32.264691
+],
+  "geometry": {"coordinates":[-80.89062699999999,32.264691],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354277103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.408699,34.854669,-82.408699,34.854669",
     "geom:latitude":34.854669,
     "geom:longitude":-82.408699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 W Washington St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354277103,
-    "wof:lastmodified":1449066129,
+    "wof:lastmodified":1467082419,
     "wof:name":"Upper Piedmont Postal Workers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.408699,34.854669,-82.408699,34.854669],
+  "bbox": [
+    -82.408699,
+    34.854669,
+    -82.408699,
+    34.854669
+],
   "geometry": {"coordinates":[-82.408699,34.854669],"type":"Point"}
 }

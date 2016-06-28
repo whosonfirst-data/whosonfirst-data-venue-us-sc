@@ -2,13 +2,14 @@
   "id": 186052209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.097612,34.665617,-83.097612,34.665617",
     "geom:latitude":34.665617,
     "geom:longitude":-83.097612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Windsor St",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186052209,
-    "wof:lastmodified":1449051585,
+    "wof:lastmodified":1467082399,
     "wof:name":"Westminster Municipal Judge",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-83.097612,34.665617,-83.097612,34.665617],
+  "bbox": [
+    -83.097612,
+    34.665617,
+    -83.097612,
+    34.665617
+],
   "geometry": {"coordinates":[-83.097612,34.665617],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185784631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.791613,34.786404,-82.791613,34.786404",
     "geom:latitude":34.786404,
     "geom:longitude":-82.791613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Justin Ln",
     "sg:city":"Central",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185784631,
-    "wof:lastmodified":1449007666,
+    "wof:lastmodified":1467082198,
     "wof:name":"Wigco Inc",
     "wof:parent_id":85824489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.791613,34.786404,-82.791613,34.786404],
+  "bbox": [
+    -82.791613,
+    34.786404,
+    -82.791613,
+    34.786404
+],
   "geometry": {"coordinates":[-82.791613,34.786404],"type":"Point"}
 }

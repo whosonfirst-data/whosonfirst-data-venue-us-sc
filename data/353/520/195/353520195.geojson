@@ -2,13 +2,14 @@
   "id": 353520195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.825626,32.114983,-80.825626,32.114983",
     "geom:latitude":32.114983,
     "geom:longitude":-80.825626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"247 S Sea Pines Dr",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353520195,
-    "wof:lastmodified":1449019095,
+    "wof:lastmodified":1467082227,
     "wof:name":"Angel Tello",
     "wof:parent_id":85847515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-80.825626,32.114983,-80.825626,32.114983],
+  "bbox": [
+    -80.825626,
+    32.114983,
+    -80.825626,
+    32.114983
+],
   "geometry": {"coordinates":[-80.825626,32.114983],"type":"Point"}
 }

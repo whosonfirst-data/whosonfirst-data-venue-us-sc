@@ -2,13 +2,14 @@
   "id": 337342811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.921011,34.583135,-82.921011,34.583135",
     "geom:latitude":34.583135,
     "geom:longitude":-82.921011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Near Lake Cir",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337342811,
-    "wof:lastmodified":1449027679,
+    "wof:lastmodified":1467082293,
     "wof:name":"Near Lakes Mobile Home Park",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-82.921011,34.583135,-82.921011,34.583135],
-  "geometry": {"coordinates":[-82.921011,34.583135],"type":"Point"}
+  "bbox": [
+    -82.921011,
+    34.583135,
+    -82.921011,
+    34.583135
+],
+  "geometry": {"coordinates":[-82.92101099999999,34.583135],"type":"Point"}
 }

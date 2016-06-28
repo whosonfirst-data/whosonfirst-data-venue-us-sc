@@ -2,13 +2,14 @@
   "id": 353393301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.224506,35.116477,-81.224506,35.116477",
     "geom:latitude":35.116477,
     "geom:longitude":-81.224506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 N Main St",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353393301,
-    "wof:lastmodified":1449019050,
+    "wof:lastmodified":1467082226,
     "wof:name":"Frank's Jewelry",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-81.224506,35.116477,-81.224506,35.116477],
-  "geometry": {"coordinates":[-81.224506,35.116477],"type":"Point"}
+  "bbox": [
+    -81.224506,
+    35.116477,
+    -81.224506,
+    35.116477
+],
+  "geometry": {"coordinates":[-81.22450600000001,35.116477],"type":"Point"}
 }

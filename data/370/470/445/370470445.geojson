@@ -2,13 +2,14 @@
   "id": 370470445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.072494,34.011814,-81.072494,34.011814",
     "geom:latitude":34.011814,
     "geom:longitude":-81.072494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Rivermont Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370470445,
-    "wof:lastmodified":1449029911,
+    "wof:lastmodified":1467082316,
     "wof:name":"Pool Tables Plus",
     "wof:parent_id":85844815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-81.072494,34.011814,-81.072494,34.011814],
-  "geometry": {"coordinates":[-81.072494,34.011814],"type":"Point"}
+  "bbox": [
+    -81.072494,
+    34.011814,
+    -81.072494,
+    34.011814
+],
+  "geometry": {"coordinates":[-81.07249400000001,34.011814],"type":"Point"}
 }

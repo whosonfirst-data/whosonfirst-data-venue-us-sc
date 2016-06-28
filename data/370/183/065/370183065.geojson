@@ -2,13 +2,14 @@
   "id": 370183065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.026171,34.027091,-81.026171,34.027091",
     "geom:latitude":34.027091,
     "geom:longitude":-81.026171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2139 Adams Grove",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370183065,
-    "wof:lastmodified":1449030895,
+    "wof:lastmodified":1467082338,
     "wof:name":"South Columbia Dialysis Ctr",
     "wof:parent_id":85805491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.026171,34.027091,-81.026171,34.027091],
-  "geometry": {"coordinates":[-81.026171,34.027091],"type":"Point"}
+  "bbox": [
+    -81.026171,
+    34.027091,
+    -81.026171,
+    34.027091
+],
+  "geometry": {"coordinates":[-81.02617100000001,34.027091],"type":"Point"}
 }

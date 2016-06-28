@@ -2,13 +2,14 @@
   "id": 354356855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.400255,34.154606,-82.400255,34.154606",
     "geom:latitude":34.154606,
     "geom:longitude":-82.400255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"283 State Hwy 28 Byp",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354356855,
-    "wof:lastmodified":1449067339,
+    "wof:lastmodified":1467082447,
     "wof:name":"Piedmont Technical College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "school"
     ]
 },
-  "bbox": [-82.400255,34.154606,-82.400255,34.154606],
+  "bbox": [
+    -82.400255,
+    34.154606,
+    -82.400255,
+    34.154606
+],
   "geometry": {"coordinates":[-82.400255,34.154606],"type":"Point"}
 }

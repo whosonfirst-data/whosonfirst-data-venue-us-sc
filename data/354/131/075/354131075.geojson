@@ -2,13 +2,14 @@
   "id": 354131075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.752799,32.404928,-80.752799,32.404928",
     "geom:latitude":32.404928,
     "geom:longitude":-80.752799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Castle Rock Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354131075,
-    "wof:lastmodified":1449066418,
+    "wof:lastmodified":1467082425,
     "wof:name":"Ellis Cemetery Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-80.752799,32.404928,-80.752799,32.404928],
+  "bbox": [
+    -80.752799,
+    32.404928,
+    -80.752799,
+    32.404928
+],
   "geometry": {"coordinates":[-80.752799,32.404928],"type":"Point"}
 }

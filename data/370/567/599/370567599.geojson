@@ -2,13 +2,14 @@
   "id": 370567599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.894731,34.92782,-81.894731,34.92782",
     "geom:latitude":34.92782,
     "geom:longitude":-81.894731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Quarry Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370567599,
-    "wof:lastmodified":1449032497,
+    "wof:lastmodified":1467082374,
     "wof:name":"Piedmont Concrete Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ready"
     ]
 },
-  "bbox": [-81.894731,34.92782,-81.894731,34.92782],
-  "geometry": {"coordinates":[-81.894731,34.92782],"type":"Point"}
+  "bbox": [
+    -81.894731,
+    34.92782,
+    -81.894731,
+    34.92782
+],
+  "geometry": {"coordinates":[-81.89473099999999,34.92782],"type":"Point"}
 }

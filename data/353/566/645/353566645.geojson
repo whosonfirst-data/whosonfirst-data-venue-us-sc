@@ -2,13 +2,14 @@
   "id": 353566645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.401428,34.862277,-82.401428,34.862277",
     "geom:latitude":34.862277,
     "geom:longitude":-82.401428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 W Stone Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353566645,
-    "wof:lastmodified":1449018302,
+    "wof:lastmodified":1467082211,
     "wof:name":"Global View",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.401428,34.862277,-82.401428,34.862277],
+  "bbox": [
+    -82.401428,
+    34.862277,
+    -82.401428,
+    34.862277
+],
   "geometry": {"coordinates":[-82.401428,34.862277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370674641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.83725,33.577535,-81.83725,33.577535",
     "geom:latitude":33.577535,
     "geom:longitude":-81.83725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Donald Pearson Dr",
     "sg:city":"Graniteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370674641,
-    "wof:lastmodified":1449031626,
+    "wof:lastmodified":1467082355,
     "wof:name":"Breezy Hill Water & Sewer Co",
     "wof:parent_id":85827745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewage"
     ]
 },
-  "bbox": [-81.83725,33.577535,-81.83725,33.577535],
+  "bbox": [
+    -81.83725,
+    33.577535,
+    -81.83725,
+    33.577535
+],
   "geometry": {"coordinates":[-81.83725,33.577535],"type":"Point"}
 }

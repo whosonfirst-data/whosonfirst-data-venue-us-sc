@@ -2,13 +2,14 @@
   "id": 370625745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.972518,32.710491,-79.972518,32.710491",
     "geom:latitude":32.710491,
     "geom:longitude":-79.972518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1767 Grimball Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370625745,
-    "wof:lastmodified":1449032534,
+    "wof:lastmodified":1467082375,
     "wof:name":"Brown's Sweet Shop",
     "wof:parent_id":85847603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "ale"
     ]
 },
-  "bbox": [-79.972518,32.710491,-79.972518,32.710491],
-  "geometry": {"coordinates":[-79.972518,32.710491],"type":"Point"}
+  "bbox": [
+    -79.972518,
+    32.710491,
+    -79.972518,
+    32.710491
+],
+  "geometry": {"coordinates":[-79.97251799999999,32.710491],"type":"Point"}
 }

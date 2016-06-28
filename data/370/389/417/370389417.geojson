@@ -2,13 +2,14 @@
   "id": 370389417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.63092,34.509754,-82.63092,34.509754",
     "geom:latitude":34.509754,
     "geom:longitude":-82.63092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Williamston Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370389417,
-    "wof:lastmodified":1449031791,
+    "wof:lastmodified":1467082358,
     "wof:name":"ABC Pawn Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sporting"
     ]
 },
-  "bbox": [-82.63092,34.509754,-82.63092,34.509754],
+  "bbox": [
+    -82.63092,
+    34.509754,
+    -82.63092,
+    34.509754
+],
   "geometry": {"coordinates":[-82.63092,34.509754],"type":"Point"}
 }

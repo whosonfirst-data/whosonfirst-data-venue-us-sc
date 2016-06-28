@@ -2,13 +2,14 @@
   "id": 354097153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.341576,33.928799,-80.341576,33.928799",
     "geom:latitude":33.928799,
     "geom:longitude":-80.341576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 N Main St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":354097153,
-    "wof:lastmodified":1449066584,
+    "wof:lastmodified":1467082429,
     "wof:name":"Sumter County Commission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "treatment"
     ]
 },
-  "bbox": [-80.341576,33.928799,-80.341576,33.928799],
+  "bbox": [
+    -80.341576,
+    33.928799,
+    -80.341576,
+    33.928799
+],
   "geometry": {"coordinates":[-80.341576,33.928799],"type":"Point"}
 }

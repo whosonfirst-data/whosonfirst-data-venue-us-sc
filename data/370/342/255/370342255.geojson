@@ -2,13 +2,14 @@
   "id": 370342255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.575962,33.187245,-80.575962,33.187245",
     "geom:latitude":33.187245,
     "geom:longitude":-80.575962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5580 Memorial Blvd",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370342255,
-    "wof:lastmodified":1449032223,
+    "wof:lastmodified":1467082368,
     "wof:name":"Ling Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-80.575962,33.187245,-80.575962,33.187245],
+  "bbox": [
+    -80.575962,
+    33.187245,
+    -80.575962,
+    33.187245
+],
   "geometry": {"coordinates":[-80.575962,33.187245],"type":"Point"}
 }

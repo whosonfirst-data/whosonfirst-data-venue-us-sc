@@ -2,13 +2,14 @@
   "id": 185601115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.224366,33.697189,-80.224366,33.697189",
     "geom:latitude":33.697189,
     "geom:longitude":-80.224366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"437 W Boyce St",
     "sg:city":"Manning",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185601115,
-    "wof:lastmodified":1449007329,
+    "wof:lastmodified":1467082193,
     "wof:name":"Subway Sandwiches & Salads",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.224366,33.697189,-80.224366,33.697189],
+  "bbox": [
+    -80.224366,
+    33.697189,
+    -80.224366,
+    33.697189
+],
   "geometry": {"coordinates":[-80.224366,33.697189],"type":"Point"}
 }

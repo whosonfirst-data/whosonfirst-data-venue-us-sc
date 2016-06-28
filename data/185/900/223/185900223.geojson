@@ -2,13 +2,14 @@
   "id": 185900223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.362646,33.926169,-80.362646,33.926169",
     "geom:latitude":33.926169,
     "geom:longitude":-80.362646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 Haynsworth St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185900223,
-    "wof:lastmodified":1449007302,
+    "wof:lastmodified":1467082193,
     "wof:name":"L Allen West CPA",
     "wof:parent_id":85827029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-80.362646,33.926169,-80.362646,33.926169],
+  "bbox": [
+    -80.362646,
+    33.926169,
+    -80.362646,
+    33.926169
+],
   "geometry": {"coordinates":[-80.362646,33.926169],"type":"Point"}
 }

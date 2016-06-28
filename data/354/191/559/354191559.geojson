@@ -2,13 +2,14 @@
   "id": 354191559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.045199,33.654017,-81.045199,33.654017",
     "geom:latitude":33.654017,
     "geom:longitude":-81.045199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"744 Magenta Rd",
     "sg:city":"North",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354191559,
-    "wof:lastmodified":1449066968,
+    "wof:lastmodified":1467082438,
     "wof:name":"James C Gartman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heavy"
     ]
 },
-  "bbox": [-81.045199,33.654017,-81.045199,33.654017],
+  "bbox": [
+    -81.045199,
+    33.654017,
+    -81.045199,
+    33.654017
+],
   "geometry": {"coordinates":[-81.045199,33.654017],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353788141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.146223,34.073275,-81.146223,34.073275",
     "geom:latitude":34.073275,
     "geom:longitude":-81.146223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Harbison Way",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353788141,
-    "wof:lastmodified":1449019580,
+    "wof:lastmodified":1467082237,
     "wof:name":"Capital City Mortgage Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-81.146223,34.073275,-81.146223,34.073275],
-  "geometry": {"coordinates":[-81.146223,34.073275],"type":"Point"}
+  "bbox": [
+    -81.146223,
+    34.073275,
+    -81.146223,
+    34.073275
+],
+  "geometry": {"coordinates":[-81.14622300000001,34.073275],"type":"Point"}
 }

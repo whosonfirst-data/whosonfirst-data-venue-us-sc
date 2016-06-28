@@ -2,13 +2,14 @@
   "id": 354268457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.769568,33.563152,-81.769568,33.563152",
     "geom:latitude":33.563152,
     "geom:longitude":-81.769568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3611 Richland Ave W",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354268457,
-    "wof:lastmodified":1449066918,
+    "wof:lastmodified":1467082437,
     "wof:name":"WTF Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.769568,33.563152,-81.769568,33.563152],
-  "geometry": {"coordinates":[-81.769568,33.563152],"type":"Point"}
+  "bbox": [
+    -81.769568,
+    33.563152,
+    -81.769568,
+    33.563152
+],
+  "geometry": {"coordinates":[-81.76956800000001,33.563152],"type":"Point"}
 }

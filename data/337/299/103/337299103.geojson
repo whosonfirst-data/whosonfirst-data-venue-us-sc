@@ -2,13 +2,14 @@
   "id": 337299103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.226745,35.074502,-81.226745,35.074502",
     "geom:latitude":35.074502,
     "geom:longitude":-81.226745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3272 Filbert Hwy",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337299103,
-    "wof:lastmodified":1449027134,
+    "wof:lastmodified":1467082272,
     "wof:name":"Custom Floor Covering",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.226745,35.074502,-81.226745,35.074502],
-  "geometry": {"coordinates":[-81.226745,35.074502],"type":"Point"}
+  "bbox": [
+    -81.226745,
+    35.074502,
+    -81.226745,
+    35.074502
+],
+  "geometry": {"coordinates":[-81.22674499999999,35.074502],"type":"Point"}
 }

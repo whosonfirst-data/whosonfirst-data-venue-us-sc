@@ -2,13 +2,14 @@
   "id": 353793615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.055017,32.93304,-80.055017,32.93304",
     "geom:latitude":32.93304,
     "geom:longitude":-80.055017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7404 Rock St",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353793615,
-    "wof:lastmodified":1449019664,
+    "wof:lastmodified":1467082238,
     "wof:name":"Advantage Towing",
     "wof:parent_id":85803745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.055017,32.93304,-80.055017,32.93304],
-  "geometry": {"coordinates":[-80.055017,32.93304],"type":"Point"}
+  "bbox": [
+    -80.055017,
+    32.93304,
+    -80.055017,
+    32.93304
+],
+  "geometry": {"coordinates":[-80.05501700000001,32.93304],"type":"Point"}
 }

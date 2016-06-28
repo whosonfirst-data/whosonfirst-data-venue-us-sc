@@ -2,13 +2,14 @@
   "id": 353538381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.390072,34.733649,-82.390072,34.733649",
     "geom:latitude":34.733649,
     "geom:longitude":-82.390072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7736 Augusta Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353538381,
-    "wof:lastmodified":1449018564,
+    "wof:lastmodified":1467082216,
     "wof:name":"Circle R Western Wear",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "western"
     ]
 },
-  "bbox": [-82.390072,34.733649,-82.390072,34.733649],
+  "bbox": [
+    -82.390072,
+    34.733649,
+    -82.390072,
+    34.733649
+],
   "geometry": {"coordinates":[-82.390072,34.733649],"type":"Point"}
 }

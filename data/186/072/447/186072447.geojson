@@ -2,13 +2,14 @@
   "id": 186072447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.390509,34.856662,-82.390509,34.856662",
     "geom:latitude":34.856662,
     "geom:longitude":-82.390509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Park Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186072447,
-    "wof:lastmodified":1449051791,
+    "wof:lastmodified":1467082401,
     "wof:name":"Wade Barber Architect Inc",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.390509,34.856662,-82.390509,34.856662],
-  "geometry": {"coordinates":[-82.390509,34.856662],"type":"Point"}
+  "bbox": [
+    -82.390509,
+    34.856662,
+    -82.390509,
+    34.856662
+],
+  "geometry": {"coordinates":[-82.39050899999999,34.856662],"type":"Point"}
 }

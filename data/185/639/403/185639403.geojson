@@ -2,13 +2,14 @@
   "id": 185639403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.87766,34.936444,-81.87766,34.936444",
     "geom:latitude":34.936444,
     "geom:longitude":-81.87766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2445 Country Club Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185639403,
-    "wof:lastmodified":1449008198,
+    "wof:lastmodified":1467082207,
     "wof:name":"Minimart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.87766,34.936444,-81.87766,34.936444],
-  "geometry": {"coordinates":[-81.87766,34.936444],"type":"Point"}
+  "bbox": [
+    -81.87766,
+    34.936444,
+    -81.87766,
+    34.936444
+],
+  "geometry": {"coordinates":[-81.87766000000001,34.936444],"type":"Point"}
 }

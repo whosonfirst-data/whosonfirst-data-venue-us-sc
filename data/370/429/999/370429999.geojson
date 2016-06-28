@@ -2,13 +2,14 @@
   "id": 370429999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.389884,34.466392,-79.389884,34.466392",
     "geom:latitude":34.466392,
     "geom:longitude":-79.389884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2047 Hwy 9 W",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370429999,
-    "wof:lastmodified":1449032287,
+    "wof:lastmodified":1467082369,
     "wof:name":"Perdue Farms Incorporated",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "processing"
     ]
 },
-  "bbox": [-79.389884,34.466392,-79.389884,34.466392],
+  "bbox": [
+    -79.389884,
+    34.466392,
+    -79.389884,
+    34.466392
+],
   "geometry": {"coordinates":[-79.389884,34.466392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370254547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.771576,34.197147,-79.771576,34.197147",
     "geom:latitude":34.197147,
     "geom:longitude":-79.771576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"357 W Evans St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370254547,
-    "wof:lastmodified":1449031404,
+    "wof:lastmodified":1467082349,
     "wof:name":"World Finance Corp",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-79.771576,34.197147,-79.771576,34.197147],
+  "bbox": [
+    -79.771576,
+    34.197147,
+    -79.771576,
+    34.197147
+],
   "geometry": {"coordinates":[-79.771576,34.197147],"type":"Point"}
 }

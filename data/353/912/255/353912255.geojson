@@ -2,13 +2,14 @@
   "id": 353912255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.993779,35.139763,-81.993779,35.139763",
     "geom:latitude":35.139763,
     "geom:longitude":-81.993779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Cannon Ford Rd",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353912255,
-    "wof:lastmodified":1449019523,
+    "wof:lastmodified":1467082235,
     "wof:name":"Regulator Transport",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.993779,35.139763,-81.993779,35.139763],
+  "bbox": [
+    -81.993779,
+    35.139763,
+    -81.993779,
+    35.139763
+],
   "geometry": {"coordinates":[-81.993779,35.139763],"type":"Point"}
 }

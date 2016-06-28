@@ -2,13 +2,14 @@
   "id": 370223795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.146393,34.937775,-82.146393,34.937775",
     "geom:latitude":34.937775,
     "geom:longitude":-82.146393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 School St",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370223795,
-    "wof:lastmodified":1449029315,
+    "wof:lastmodified":1467082303,
     "wof:name":"Beauty Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.146393,34.937775,-82.146393,34.937775],
+  "bbox": [
+    -82.146393,
+    34.937775,
+    -82.146393,
+    34.937775
+],
   "geometry": {"coordinates":[-82.146393,34.937775],"type":"Point"}
 }

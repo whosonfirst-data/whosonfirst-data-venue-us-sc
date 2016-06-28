@@ -2,13 +2,14 @@
   "id": 370315817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.785639,33.540951,-80.785639,33.540951",
     "geom:latitude":33.540951,
     "geom:longitude":-80.785639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Farmstead Ln",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370315817,
-    "wof:lastmodified":1449032292,
+    "wof:lastmodified":1467082369,
     "wof:name":"Added Touch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "custom"
     ]
 },
-  "bbox": [-80.785639,33.540951,-80.785639,33.540951],
+  "bbox": [
+    -80.785639,
+    33.540951,
+    -80.785639,
+    33.540951
+],
   "geometry": {"coordinates":[-80.785639,33.540951],"type":"Point"}
 }

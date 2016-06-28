@@ -2,13 +2,14 @@
   "id": 370612911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.00474,34.935315,-82.00474,34.935315",
     "geom:latitude":34.935315,
     "geom:longitude":-82.00474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7801 Greenville Hwy",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370612911,
-    "wof:lastmodified":1449030591,
+    "wof:lastmodified":1467082331,
     "wof:name":"Central Carolina Bank",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.00474,34.935315,-82.00474,34.935315],
+  "bbox": [
+    -82.00474,
+    34.935315,
+    -82.00474,
+    34.935315
+],
   "geometry": {"coordinates":[-82.00474,34.935315],"type":"Point"}
 }

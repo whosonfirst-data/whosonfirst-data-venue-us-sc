@@ -2,13 +2,14 @@
   "id": 185842861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.764708,33.563901,-81.764708,33.563901",
     "geom:latitude":33.563901,
     "geom:longitude":-81.764708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3526 Richland Ave W",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185842861,
-    "wof:lastmodified":1449006728,
+    "wof:lastmodified":1467082184,
     "wof:name":"Sub Terminal Inc",
     "wof:parent_id":85827745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.764708,33.563901,-81.764708,33.563901],
+  "bbox": [
+    -81.764708,
+    33.563901,
+    -81.764708,
+    33.563901
+],
   "geometry": {"coordinates":[-81.764708,33.563901],"type":"Point"}
 }

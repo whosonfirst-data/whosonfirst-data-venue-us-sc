@@ -2,13 +2,14 @@
   "id": 354168383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.983624,32.855262,-79.983624,32.855262",
     "geom:latitude":32.855262,
     "geom:longitude":-79.983624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3575 Meeting Street Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354168383,
-    "wof:lastmodified":1449066823,
+    "wof:lastmodified":1467082435,
     "wof:name":"Sullivan & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-79.983624,32.855262,-79.983624,32.855262],
-  "geometry": {"coordinates":[-79.983624,32.855262],"type":"Point"}
+  "bbox": [
+    -79.983624,
+    32.855262,
+    -79.983624,
+    32.855262
+],
+  "geometry": {"coordinates":[-79.98362400000001,32.855262],"type":"Point"}
 }

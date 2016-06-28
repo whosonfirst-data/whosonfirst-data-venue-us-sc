@@ -2,13 +2,14 @@
   "id": 353878825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.473908,34.951766,-82.473908,34.951766",
     "geom:latitude":34.951766,
     "geom:longitude":-82.473908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10300 Old White Horse Rd",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353878825,
-    "wof:lastmodified":1449019593,
+    "wof:lastmodified":1467082237,
     "wof:name":"Handee Mart Food Stores Inc",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-82.473908,34.951766,-82.473908,34.951766],
-  "geometry": {"coordinates":[-82.473908,34.951766],"type":"Point"}
+  "bbox": [
+    -82.473908,
+    34.951766,
+    -82.473908,
+    34.951766
+],
+  "geometry": {"coordinates":[-82.47390799999999,34.951766],"type":"Point"}
 }

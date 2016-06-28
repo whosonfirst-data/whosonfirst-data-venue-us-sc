@@ -2,13 +2,14 @@
   "id": 185621063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.719327,33.568581,-81.719327,33.568581",
     "geom:latitude":33.568581,
     "geom:longitude":-81.719327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"443 Laurens St NW",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185621063,
-    "wof:lastmodified":1449008030,
+    "wof:lastmodified":1467082204,
     "wof:name":"Aiken Masonic Lodge No 156",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trade"
     ]
 },
-  "bbox": [-81.719327,33.568581,-81.719327,33.568581],
-  "geometry": {"coordinates":[-81.719327,33.568581],"type":"Point"}
+  "bbox": [
+    -81.719327,
+    33.568581,
+    -81.719327,
+    33.568581
+],
+  "geometry": {"coordinates":[-81.71932700000001,33.568581],"type":"Point"}
 }

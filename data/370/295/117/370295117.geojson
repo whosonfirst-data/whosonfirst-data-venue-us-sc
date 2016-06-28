@@ -2,13 +2,14 @@
   "id": 370295117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.996357,33.189728,-79.996357,33.189728",
     "geom:latitude":33.189728,
     "geom:longitude":-79.996357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Wal Mart Dr",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370295117,
-    "wof:lastmodified":1449030462,
+    "wof:lastmodified":1467082329,
     "wof:name":"Newyorkers Mens Wear",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.996357,33.189728,-79.996357,33.189728],
+  "bbox": [
+    -79.996357,
+    33.189728,
+    -79.996357,
+    33.189728
+],
   "geometry": {"coordinates":[-79.996357,33.189728],"type":"Point"}
 }

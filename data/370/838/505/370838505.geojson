@@ -2,13 +2,14 @@
   "id": 370838505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.372645,33.944389,-80.372645,33.944389",
     "geom:latitude":33.944389,
     "geom:longitude":-80.372645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 Bultman Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370838505,
-    "wof:lastmodified":1449029500,
+    "wof:lastmodified":1467082307,
     "wof:name":"B & J Communications",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-80.372645,33.944389,-80.372645,33.944389],
-  "geometry": {"coordinates":[-80.372645,33.944389],"type":"Point"}
+  "bbox": [
+    -80.372645,
+    33.944389,
+    -80.372645,
+    33.944389
+],
+  "geometry": {"coordinates":[-80.37264500000001,33.944389],"type":"Point"}
 }

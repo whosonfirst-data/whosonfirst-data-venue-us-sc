@@ -2,13 +2,14 @@
   "id": 354075135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.865398,34.119046,-80.865398,34.119046",
     "geom:latitude":34.119046,
     "geom:longitude":-80.865398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Wynette Way",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":354075135,
-    "wof:lastmodified":1449066866,
+    "wof:lastmodified":1467082436,
     "wof:name":"Harris Home/Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "floor"
     ]
 },
-  "bbox": [-80.865398,34.119046,-80.865398,34.119046],
+  "bbox": [
+    -80.865398,
+    34.119046,
+    -80.865398,
+    34.119046
+],
   "geometry": {"coordinates":[-80.865398,34.119046],"type":"Point"}
 }

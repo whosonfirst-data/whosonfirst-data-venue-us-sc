@@ -2,13 +2,14 @@
   "id": 353398845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.25512,34.737484,-82.25512,34.737484",
     "geom:latitude":34.737484,
     "geom:longitude":-82.25512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 SE Main St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353398845,
-    "wof:lastmodified":1449018462,
+    "wof:lastmodified":1467082214,
     "wof:name":"B & G Tax Svc",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-82.25512,34.737484,-82.25512,34.737484],
-  "geometry": {"coordinates":[-82.25512,34.737484],"type":"Point"}
+  "bbox": [
+    -82.25512,
+    34.737484,
+    -82.25512,
+    34.737484
+],
+  "geometry": {"coordinates":[-82.25512000000001,34.737484],"type":"Point"}
 }

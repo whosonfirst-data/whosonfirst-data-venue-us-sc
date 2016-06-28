@@ -2,13 +2,14 @@
   "id": 186085769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.768665,32.1361,-80.768665,32.1361",
     "geom:latitude":32.1361,
     "geom:longitude":-80.768665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Firethorn Ln",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186085769,
-    "wof:lastmodified":1449051065,
+    "wof:lastmodified":1467082394,
     "wof:name":"Gallery of Kitchens Norm",
     "wof:parent_id":85819787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.768665,32.1361,-80.768665,32.1361],
+  "bbox": [
+    -80.768665,
+    32.1361,
+    -80.768665,
+    32.1361
+],
   "geometry": {"coordinates":[-80.768665,32.1361],"type":"Point"}
 }

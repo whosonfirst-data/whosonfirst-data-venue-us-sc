@@ -2,13 +2,14 @@
   "id": 185630587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.989296,34.619202,-82.989296,34.619202",
     "geom:latitude":34.619202,
     "geom:longitude":-82.989296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"830 Harmon Dr",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185630587,
-    "wof:lastmodified":1449007163,
+    "wof:lastmodified":1467082191,
     "wof:name":"Louie Childs",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-82.989296,34.619202,-82.989296,34.619202],
+  "bbox": [
+    -82.989296,
+    34.619202,
+    -82.989296,
+    34.619202
+],
   "geometry": {"coordinates":[-82.989296,34.619202],"type":"Point"}
 }

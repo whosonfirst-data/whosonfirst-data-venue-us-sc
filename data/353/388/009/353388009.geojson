@@ -2,13 +2,14 @@
   "id": 353388009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.221049,34.009345,-81.221049,34.009345",
     "geom:latitude":34.009345,
     "geom:longitude":-81.221049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"875 Bentley Dr",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353388009,
-    "wof:lastmodified":1449018337,
+    "wof:lastmodified":1467082211,
     "wof:name":"Tom Hartley & Assoc Ins Agcy",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.221049,34.009345,-81.221049,34.009345],
-  "geometry": {"coordinates":[-81.221049,34.009345],"type":"Point"}
+  "bbox": [
+    -81.221049,
+    34.009345,
+    -81.221049,
+    34.009345
+],
+  "geometry": {"coordinates":[-81.22104899999999,34.009345],"type":"Point"}
 }

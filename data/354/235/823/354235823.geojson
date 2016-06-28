@@ -2,13 +2,14 @@
   "id": 354235823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.90447,34.168905,-80.90447,34.168905",
     "geom:latitude":34.168905,
     "geom:longitude":-80.90447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Oak Cove Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354235823,
-    "wof:lastmodified":1449066232,
+    "wof:lastmodified":1467082421,
     "wof:name":"C H Williams Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.90447,34.168905,-80.90447,34.168905],
+  "bbox": [
+    -80.90447,
+    34.168905,
+    -80.90447,
+    34.168905
+],
   "geometry": {"coordinates":[-80.90447,34.168905],"type":"Point"}
 }

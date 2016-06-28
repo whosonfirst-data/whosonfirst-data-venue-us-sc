@@ -2,13 +2,14 @@
   "id": 370369781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.636291,34.709199,-81.636291,34.709199",
     "geom:latitude":34.709199,
     "geom:longitude":-81.636291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Duncan Byp",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370369781,
-    "wof:lastmodified":1449032292,
+    "wof:lastmodified":1467082369,
     "wof:name":"Tom Jones Motors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-81.636291,34.709199,-81.636291,34.709199],
+  "bbox": [
+    -81.636291,
+    34.709199,
+    -81.636291,
+    34.709199
+],
   "geometry": {"coordinates":[-81.636291,34.709199],"type":"Point"}
 }

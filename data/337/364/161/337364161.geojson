@@ -2,13 +2,14 @@
   "id": 337364161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.039882,33.986791,-81.039882,33.986791",
     "geom:latitude":33.986791,
     "geom:longitude":-81.039882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Huger St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337364161,
-    "wof:lastmodified":1449027403,
+    "wof:lastmodified":1467082283,
     "wof:name":"Carrier Carolinas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.039882,33.986791,-81.039882,33.986791],
-  "geometry": {"coordinates":[-81.039882,33.986791],"type":"Point"}
+  "bbox": [
+    -81.039882,
+    33.986791,
+    -81.039882,
+    33.986791
+],
+  "geometry": {"coordinates":[-81.03988200000001,33.986791],"type":"Point"}
 }

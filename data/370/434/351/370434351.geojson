@@ -2,13 +2,14 @@
   "id": 370434351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.865865,34.289262,-79.865865,34.289262",
     "geom:latitude":34.289262,
     "geom:longitude":-79.865865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Bacote St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370434351,
-    "wof:lastmodified":1449029829,
+    "wof:lastmodified":1467082314,
     "wof:name":"Housing Authority-Darlington",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-79.865865,34.289262,-79.865865,34.289262],
+  "bbox": [
+    -79.865865,
+    34.289262,
+    -79.865865,
+    34.289262
+],
   "geometry": {"coordinates":[-79.865865,34.289262],"type":"Point"}
 }

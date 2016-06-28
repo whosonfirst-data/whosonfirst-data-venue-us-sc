@@ -2,13 +2,14 @@
   "id": 370301129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.824927,34.679768,-82.824927,34.679768",
     "geom:latitude":34.679768,
     "geom:longitude":-82.824927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"644 Old Greenville Hwy",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370301129,
-    "wof:lastmodified":1449029961,
+    "wof:lastmodified":1467082317,
     "wof:name":"Head Start-Share",
     "wof:parent_id":85808859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.824927,34.679768,-82.824927,34.679768],
+  "bbox": [
+    -82.824927,
+    34.679768,
+    -82.824927,
+    34.679768
+],
   "geometry": {"coordinates":[-82.824927,34.679768],"type":"Point"}
 }

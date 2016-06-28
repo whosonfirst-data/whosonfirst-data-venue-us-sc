@@ -2,13 +2,14 @@
   "id": 353752851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.911729,34.14004,-80.911729,34.14004",
     "geom:latitude":34.14004,
     "geom:longitude":-80.911729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Clemson Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353752851,
-    "wof:lastmodified":1449018669,
+    "wof:lastmodified":1467082218,
     "wof:name":"Carolina Properties",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.911729,34.14004,-80.911729,34.14004],
-  "geometry": {"coordinates":[-80.911729,34.14004],"type":"Point"}
+  "bbox": [
+    -80.911729,
+    34.14004,
+    -80.911729,
+    34.14004
+],
+  "geometry": {"coordinates":[-80.91172899999999,34.14004],"type":"Point"}
 }

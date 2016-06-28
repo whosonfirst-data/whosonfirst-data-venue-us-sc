@@ -2,13 +2,14 @@
   "id": 370643345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.016057,34.93635,-82.016057,34.93635",
     "geom:latitude":34.93635,
     "geom:longitude":-82.016057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8801 Greenville Hwy",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370643345,
-    "wof:lastmodified":1449032020,
+    "wof:lastmodified":1467082363,
     "wof:name":"Quality Personnel Inc",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-82.016057,34.93635,-82.016057,34.93635],
+  "bbox": [
+    -82.016057,
+    34.93635,
+    -82.016057,
+    34.93635
+],
   "geometry": {"coordinates":[-82.016057,34.93635],"type":"Point"}
 }

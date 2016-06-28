@@ -2,13 +2,14 @@
   "id": 185811465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.279438,34.167778,-79.279438,34.167778",
     "geom:latitude":34.167778,
     "geom:longitude":-79.279438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1131 French Rd",
     "sg:city":"Mullins",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185811465,
-    "wof:lastmodified":1449007396,
+    "wof:lastmodified":1467082194,
     "wof:name":"Collins Farm LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-79.279438,34.167778,-79.279438,34.167778],
+  "bbox": [
+    -79.279438,
+    34.167778,
+    -79.279438,
+    34.167778
+],
   "geometry": {"coordinates":[-79.279438,34.167778],"type":"Point"}
 }

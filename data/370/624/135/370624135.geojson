@@ -2,13 +2,14 @@
   "id": 370624135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.923874,33.405288,-79.923874,33.405288",
     "geom:latitude":33.405288,
     "geom:longitude":-79.923874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Church Rd",
     "sg:city":"St Stephen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370624135,
-    "wof:lastmodified":1449031402,
+    "wof:lastmodified":1467082349,
     "wof:name":"Jenkins Barber Shop",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.923874,33.405288,-79.923874,33.405288],
+  "bbox": [
+    -79.923874,
+    33.405288,
+    -79.923874,
+    33.405288
+],
   "geometry": {"coordinates":[-79.923874,33.405288],"type":"Point"}
 }

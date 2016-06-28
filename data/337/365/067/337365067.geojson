@@ -2,13 +2,14 @@
   "id": 337365067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.400536,33.95601,-80.400536,33.95601",
     "geom:latitude":33.95601,
     "geom:longitude":-80.400536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 Hardee Ct",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337365067,
-    "wof:lastmodified":1449027054,
+    "wof:lastmodified":1467082269,
     "wof:name":"Lil' Bit O' Heav'n",
     "wof:parent_id":85814545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-80.400536,33.95601,-80.400536,33.95601],
+  "bbox": [
+    -80.400536,
+    33.95601,
+    -80.400536,
+    33.95601
+],
   "geometry": {"coordinates":[-80.400536,33.95601],"type":"Point"}
 }

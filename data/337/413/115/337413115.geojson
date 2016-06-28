@@ -2,13 +2,14 @@
   "id": 337413115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.155307,34.055931,-81.155307,34.055931",
     "geom:latitude":34.055931,
     "geom:longitude":-81.155307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Piney Grove Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337413115,
-    "wof:lastmodified":1449027051,
+    "wof:lastmodified":1467082269,
     "wof:name":"Dukes Equipment Co",
     "wof:parent_id":85857505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mower"
     ]
 },
-  "bbox": [-81.155307,34.055931,-81.155307,34.055931],
-  "geometry": {"coordinates":[-81.155307,34.055931],"type":"Point"}
+  "bbox": [
+    -81.155307,
+    34.055931,
+    -81.155307,
+    34.055931
+],
+  "geometry": {"coordinates":[-81.15530699999999,34.055931],"type":"Point"}
 }

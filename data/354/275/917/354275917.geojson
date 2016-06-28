@@ -2,13 +2,14 @@
   "id": 354275917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.100225,34.044897,-81.100225,34.044897",
     "geom:latitude":34.044897,
     "geom:longitude":-81.100225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Broad River Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354275917,
-    "wof:lastmodified":1449066459,
+    "wof:lastmodified":1467082426,
     "wof:name":"AMF",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "center"
     ]
 },
-  "bbox": [-81.100225,34.044897,-81.100225,34.044897],
-  "geometry": {"coordinates":[-81.100225,34.044897],"type":"Point"}
+  "bbox": [
+    -81.100225,
+    34.044897,
+    -81.100225,
+    34.044897
+],
+  "geometry": {"coordinates":[-81.10022499999999,34.044897],"type":"Point"}
 }

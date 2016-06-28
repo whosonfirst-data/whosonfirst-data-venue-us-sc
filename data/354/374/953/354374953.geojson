@@ -2,13 +2,14 @@
   "id": 354374953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.763345,33.294917,-79.763345,33.294917",
     "geom:latitude":33.294917,
     "geom:longitude":-79.763345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207 Santee River Rd",
     "sg:city":"Saint Stephen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354374953,
-    "wof:lastmodified":1449066660,
+    "wof:lastmodified":1467082431,
     "wof:name":"Weatherfords Painting",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.763345,33.294917,-79.763345,33.294917],
+  "bbox": [
+    -79.763345,
+    33.294917,
+    -79.763345,
+    33.294917
+],
   "geometry": {"coordinates":[-79.763345,33.294917],"type":"Point"}
 }

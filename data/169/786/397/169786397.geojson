@@ -2,13 +2,14 @@
   "id": 169786397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.101132,33.950642,-81.101132,33.950642",
     "geom:latitude":33.950642,
     "geom:longitude":-81.101132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1253 Boston Ave",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169786397,
-    "wof:lastmodified":1449033114,
+    "wof:lastmodified":1467082378,
     "wof:name":"Air Dynamics LLC",
     "wof:parent_id":85847855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.101132,33.950642,-81.101132,33.950642],
-  "geometry": {"coordinates":[-81.101132,33.950642],"type":"Point"}
+  "bbox": [
+    -81.101132,
+    33.950642,
+    -81.101132,
+    33.950642
+],
+  "geometry": {"coordinates":[-81.10113200000001,33.950642],"type":"Point"}
 }

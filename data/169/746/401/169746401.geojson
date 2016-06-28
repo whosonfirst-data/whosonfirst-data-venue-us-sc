@@ -2,13 +2,14 @@
   "id": 169746401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.949459,33.487148,-81.949459,33.487148",
     "geom:latitude":33.487148,
     "geom:longitude":-81.949459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Floyd Ave",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169746401,
-    "wof:lastmodified":1449032656,
+    "wof:lastmodified":1467082376,
     "wof:name":"Open Door",
     "wof:parent_id":85809585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.949459,33.487148,-81.949459,33.487148],
+  "bbox": [
+    -81.949459,
+    33.487148,
+    -81.949459,
+    33.487148
+],
   "geometry": {"coordinates":[-81.949459,33.487148],"type":"Point"}
 }

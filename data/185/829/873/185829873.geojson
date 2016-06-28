@@ -2,13 +2,14 @@
   "id": 185829873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.270883,34.899929,-82.270883,34.899929",
     "geom:latitude":34.899929,
     "geom:longitude":-82.270883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Morgan Ct",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185829873,
-    "wof:lastmodified":1449008101,
+    "wof:lastmodified":1467082205,
     "wof:name":"Carolina Filter Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gas"
     ]
 },
-  "bbox": [-82.270883,34.899929,-82.270883,34.899929],
+  "bbox": [
+    -82.270883,
+    34.899929,
+    -82.270883,
+    34.899929
+],
   "geometry": {"coordinates":[-82.270883,34.899929],"type":"Point"}
 }

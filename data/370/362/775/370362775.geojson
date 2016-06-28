@@ -2,13 +2,14 @@
   "id": 370362775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.992647,34.924533,-81.992647,34.924533",
     "geom:latitude":34.924533,
     "geom:longitude":-81.992647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1932 Old Reidville Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370362775,
-    "wof:lastmodified":1449031260,
+    "wof:lastmodified":1467082346,
     "wof:name":"Hills & Frank Tax & Accounting",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-81.992647,34.924533,-81.992647,34.924533],
-  "geometry": {"coordinates":[-81.992647,34.924533],"type":"Point"}
+  "bbox": [
+    -81.992647,
+    34.924533,
+    -81.992647,
+    34.924533
+],
+  "geometry": {"coordinates":[-81.99264700000001,34.924533],"type":"Point"}
 }

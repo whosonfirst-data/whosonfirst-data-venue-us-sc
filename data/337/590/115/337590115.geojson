@@ -2,13 +2,14 @@
   "id": 337590115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.053386,33.639783,-79.053386,33.639783",
     "geom:latitude":33.639783,
     "geom:longitude":-79.053386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Gleneagles Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337590115,
-    "wof:lastmodified":1449027432,
+    "wof:lastmodified":1467082284,
     "wof:name":"French Cleaning Svc",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-79.053386,33.639783,-79.053386,33.639783],
+  "bbox": [
+    -79.053386,
+    33.639783,
+    -79.053386,
+    33.639783
+],
   "geometry": {"coordinates":[-79.053386,33.639783],"type":"Point"}
 }

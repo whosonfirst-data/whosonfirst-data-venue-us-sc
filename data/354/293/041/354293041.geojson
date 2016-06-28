@@ -2,13 +2,14 @@
   "id": 354293041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.719032,33.558031,-81.719032,33.558031",
     "geom:latitude":33.558031,
     "geom:longitude":-81.719032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Park Ave SE",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354293041,
-    "wof:lastmodified":1449066263,
+    "wof:lastmodified":1467082422,
     "wof:name":"Aiken County Probation Office",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "probation"
     ]
 },
-  "bbox": [-81.719032,33.558031,-81.719032,33.558031],
+  "bbox": [
+    -81.719032,
+    33.558031,
+    -81.719032,
+    33.558031
+],
   "geometry": {"coordinates":[-81.719032,33.558031],"type":"Point"}
 }

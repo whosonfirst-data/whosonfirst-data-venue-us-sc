@@ -2,13 +2,14 @@
   "id": 370443183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.725826,32.422378,-80.725826,32.422378",
     "geom:latitude":32.422378,
     "geom:longitude":-80.725826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Old Jericho Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370443183,
-    "wof:lastmodified":1449031846,
+    "wof:lastmodified":1467082360,
     "wof:name":"Alex Cano",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "power"
     ]
 },
-  "bbox": [-80.725826,32.422378,-80.725826,32.422378],
+  "bbox": [
+    -80.725826,
+    32.422378,
+    -80.725826,
+    32.422378
+],
   "geometry": {"coordinates":[-80.725826,32.422378],"type":"Point"}
 }

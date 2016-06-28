@@ -2,13 +2,14 @@
   "id": 370366579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.906716,34.582705,-80.906716,34.582705",
     "geom:latitude":34.582705,
     "geom:longitude":-80.906716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Chester Ave",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370366579,
-    "wof:lastmodified":1449031561,
+    "wof:lastmodified":1467082353,
     "wof:name":"Southeastern Diesel",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-80.906716,34.582705,-80.906716,34.582705],
+  "bbox": [
+    -80.906716,
+    34.582705,
+    -80.906716,
+    34.582705
+],
   "geometry": {"coordinates":[-80.906716,34.582705],"type":"Point"}
 }

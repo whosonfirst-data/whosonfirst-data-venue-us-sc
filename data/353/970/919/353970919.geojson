@@ -2,13 +2,14 @@
   "id": 353970919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.193245,34.081916,-81.193245,34.081916",
     "geom:latitude":34.081916,
     "geom:longitude":-81.193245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1629 Lake Murray Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353970919,
-    "wof:lastmodified":1449020731,
+    "wof:lastmodified":1467082260,
     "wof:name":"Printing Unlimited",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-81.193245,34.081916,-81.193245,34.081916],
+  "bbox": [
+    -81.193245,
+    34.081916,
+    -81.193245,
+    34.081916
+],
   "geometry": {"coordinates":[-81.193245,34.081916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370551675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.315572,35.127849,-82.315572,35.127849",
     "geom:latitude":35.127849,
     "geom:longitude":-82.315572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Plumley Summit Rd",
     "sg:city":"Landrum",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":370551675,
-    "wof:lastmodified":1449029771,
+    "wof:lastmodified":1467082313,
     "wof:name":"Glassy Mountain Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.315572,35.127849,-82.315572,35.127849],
+  "bbox": [
+    -82.315572,
+    35.127849,
+    -82.315572,
+    35.127849
+],
   "geometry": {"coordinates":[-82.315572,35.127849],"type":"Point"}
 }

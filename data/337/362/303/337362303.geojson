@@ -2,13 +2,14 @@
   "id": 337362303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.118946,34.054742,-81.118946,34.054742",
     "geom:latitude":34.054742,
     "geom:longitude":-81.118946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 Timber Ct",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337362303,
-    "wof:lastmodified":1449027479,
+    "wof:lastmodified":1467082285,
     "wof:name":"Mary Construction LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-81.118946,34.054742,-81.118946,34.054742],
-  "geometry": {"coordinates":[-81.118946,34.054742],"type":"Point"}
+  "bbox": [
+    -81.118946,
+    34.054742,
+    -81.118946,
+    34.054742
+],
+  "geometry": {"coordinates":[-81.11894599999999,34.054742],"type":"Point"}
 }

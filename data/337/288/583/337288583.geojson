@@ -2,13 +2,14 @@
   "id": 337288583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.956121,35.010768,-81.956121,35.010768",
     "geom:latitude":35.010768,
     "geom:longitude":-81.956121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1538 Boiling Springs Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337288583,
-    "wof:lastmodified":1449027026,
+    "wof:lastmodified":1467082268,
     "wof:name":"Johnnys Webb",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sales"
     ]
 },
-  "bbox": [-81.956121,35.010768,-81.956121,35.010768],
+  "bbox": [
+    -81.956121,
+    35.010768,
+    -81.956121,
+    35.010768
+],
   "geometry": {"coordinates":[-81.956121,35.010768],"type":"Point"}
 }

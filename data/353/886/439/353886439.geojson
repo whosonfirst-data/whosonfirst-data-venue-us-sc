@@ -2,13 +2,14 @@
   "id": 353886439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.046708,33.89079,-81.046708,33.89079",
     "geom:latitude":33.89079,
     "geom:longitude":-81.046708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Old Wire Rd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353886439,
-    "wof:lastmodified":1449019671,
+    "wof:lastmodified":1467082238,
     "wof:name":"Goldston Brickworks",
     "wof:parent_id":85828499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.046708,33.89079,-81.046708,33.89079],
+  "bbox": [
+    -81.046708,
+    33.89079,
+    -81.046708,
+    33.89079
+],
   "geometry": {"coordinates":[-81.046708,33.89079],"type":"Point"}
 }

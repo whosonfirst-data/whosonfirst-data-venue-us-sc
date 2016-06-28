@@ -2,13 +2,14 @@
   "id": 370426089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.379286,34.827576,-82.379286,34.827576",
     "geom:latitude":34.827576,
     "geom:longitude":-82.379286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"926 Cleveland St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370426089,
-    "wof:lastmodified":1449029815,
+    "wof:lastmodified":1467082314,
     "wof:name":"Cross Roads Apartments",
     "wof:parent_id":85809831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.379286,34.827576,-82.379286,34.827576],
-  "geometry": {"coordinates":[-82.379286,34.827576],"type":"Point"}
+  "bbox": [
+    -82.379286,
+    34.827576,
+    -82.379286,
+    34.827576
+],
+  "geometry": {"coordinates":[-82.37928599999999,34.827576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353944597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.551276,32.422876,-80.551276,32.422876",
     "geom:latitude":32.422876,
     "geom:longitude":-80.551276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Rose Island Rd",
     "sg:city":"St Helena Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353944597,
-    "wof:lastmodified":1449019541,
+    "wof:lastmodified":1467082236,
     "wof:name":"Rose Island Seafood",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-80.551276,32.422876,-80.551276,32.422876],
+  "bbox": [
+    -80.551276,
+    32.422876,
+    -80.551276,
+    32.422876
+],
   "geometry": {"coordinates":[-80.551276,32.422876],"type":"Point"}
 }

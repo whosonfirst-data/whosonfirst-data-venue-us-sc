@@ -2,13 +2,14 @@
   "id": 370738425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.983118,32.755541,-79.983118,32.755541",
     "geom:latitude":32.755541,
     "geom:longitude":-79.983118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"447 Fleming Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370738425,
-    "wof:lastmodified":1449031571,
+    "wof:lastmodified":1467082353,
     "wof:name":"CAB Inc",
     "wof:parent_id":85810731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-79.983118,32.755541,-79.983118,32.755541],
+  "bbox": [
+    -79.983118,
+    32.755541,
+    -79.983118,
+    32.755541
+],
   "geometry": {"coordinates":[-79.983118,32.755541],"type":"Point"}
 }

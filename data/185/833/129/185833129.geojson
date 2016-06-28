@@ -2,13 +2,14 @@
   "id": 185833129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.094912,33.758092,-81.094912,33.758092",
     "geom:latitude":33.758092,
     "geom:longitude":-81.094912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Charlie Rast Rd",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185833129,
-    "wof:lastmodified":1449006807,
+    "wof:lastmodified":1467082185,
     "wof:name":"Mks Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.094912,33.758092,-81.094912,33.758092],
-  "geometry": {"coordinates":[-81.094912,33.758092],"type":"Point"}
+  "bbox": [
+    -81.094912,
+    33.758092,
+    -81.094912,
+    33.758092
+],
+  "geometry": {"coordinates":[-81.09491199999999,33.758092],"type":"Point"}
 }

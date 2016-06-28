@@ -2,13 +2,14 @@
   "id": 185919229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.024471,35.013603,-82.024471,35.013603",
     "geom:latitude":35.013603,
     "geom:longitude":-82.024471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 John Dodd Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185919229,
-    "wof:lastmodified":1449007834,
+    "wof:lastmodified":1467082201,
     "wof:name":"Spartanburg Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.024471,35.013603,-82.024471,35.013603],
-  "geometry": {"coordinates":[-82.024471,35.013603],"type":"Point"}
+  "bbox": [
+    -82.024471,
+    35.013603,
+    -82.024471,
+    35.013603
+],
+  "geometry": {"coordinates":[-82.02447100000001,35.013603],"type":"Point"}
 }

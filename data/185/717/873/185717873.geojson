@@ -2,13 +2,14 @@
   "id": 185717873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.238266,33.013124,-80.238266,33.013124",
     "geom:latitude":33.013124,
     "geom:longitude":-80.238266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Orangeburg Rd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185717873,
-    "wof:lastmodified":1449006621,
+    "wof:lastmodified":1467082182,
     "wof:name":"K Stores Inc",
     "wof:parent_id":85812305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.238266,33.013124,-80.238266,33.013124],
+  "bbox": [
+    -80.238266,
+    33.013124,
+    -80.238266,
+    33.013124
+],
   "geometry": {"coordinates":[-80.238266,33.013124],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337327921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.99581,33.98371,-80.99581,33.98371",
     "geom:latitude":33.98371,
     "geom:longitude":-80.99581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Dogwood St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337327921,
-    "wof:lastmodified":1449026998,
+    "wof:lastmodified":1467082267,
     "wof:name":"Ness Properties LLC",
     "wof:parent_id":85826029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.99581,33.98371,-80.99581,33.98371],
-  "geometry": {"coordinates":[-80.99581,33.98371],"type":"Point"}
+  "bbox": [
+    -80.99581,
+    33.98371,
+    -80.99581,
+    33.98371
+],
+  "geometry": {"coordinates":[-80.99581000000001,33.98371],"type":"Point"}
 }

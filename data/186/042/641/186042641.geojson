@@ -2,13 +2,14 @@
   "id": 186042641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.952296,32.800952,-79.952296,32.800952",
     "geom:latitude":32.800952,
     "geom:longitude":-79.952296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Maverick St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186042641,
-    "wof:lastmodified":1449052362,
+    "wof:lastmodified":1467082407,
     "wof:name":"Jerusalem Baptist Church",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-79.952296,32.800952,-79.952296,32.800952],
+  "bbox": [
+    -79.952296,
+    32.800952,
+    -79.952296,
+    32.800952
+],
   "geometry": {"coordinates":[-79.952296,32.800952],"type":"Point"}
 }

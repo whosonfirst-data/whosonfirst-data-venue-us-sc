@@ -2,13 +2,14 @@
   "id": 169721255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.106077,34.99309,-81.106077,34.99309",
     "geom:latitude":34.99309,
     "geom:longitude":-81.106077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5402 Old York Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169721255,
-    "wof:lastmodified":1449035960,
+    "wof:lastmodified":1467082388,
     "wof:name":"Steele's Auto Sales",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.106077,34.99309,-81.106077,34.99309],
+  "bbox": [
+    -81.106077,
+    34.99309,
+    -81.106077,
+    34.99309
+],
   "geometry": {"coordinates":[-81.106077,34.99309],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337299825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.009431,32.900086,-80.009431,32.900086",
     "geom:latitude":32.900086,
     "geom:longitude":-80.009431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1858 Remount Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337299825,
-    "wof:lastmodified":1449027131,
+    "wof:lastmodified":1467082272,
     "wof:name":"Kerr Drug 611",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "store"
     ]
 },
-  "bbox": [-80.009431,32.900086,-80.009431,32.900086],
-  "geometry": {"coordinates":[-80.009431,32.900086],"type":"Point"}
+  "bbox": [
+    -80.009431,
+    32.900086,
+    -80.009431,
+    32.900086
+],
+  "geometry": {"coordinates":[-80.00943100000001,32.900086],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354239835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.993159,32.817282,-79.993159,32.817282",
     "geom:latitude":32.817282,
     "geom:longitude":-79.993159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1694 Old Towne Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":354239835,
-    "wof:lastmodified":1449066087,
+    "wof:lastmodified":1467082418,
     "wof:name":"Rapid Repairs",
     "wof:parent_id":85838205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "home"
     ]
 },
-  "bbox": [-79.993159,32.817282,-79.993159,32.817282],
-  "geometry": {"coordinates":[-79.993159,32.817282],"type":"Point"}
+  "bbox": [
+    -79.993159,
+    32.817282,
+    -79.993159,
+    32.817282
+],
+  "geometry": {"coordinates":[-79.99315900000001,32.817282],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186307275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.19766,33.934491,-81.19766,33.934491",
     "geom:latitude":33.934491,
     "geom:longitude":-81.19766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1719 Old Barnwell Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186307275,
-    "wof:lastmodified":1449051084,
+    "wof:lastmodified":1467082394,
     "wof:name":"Garage Door Co LLC",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-81.19766,33.934491,-81.19766,33.934491],
+  "bbox": [
+    -81.19766,
+    33.934491,
+    -81.19766,
+    33.934491
+],
   "geometry": {"coordinates":[-81.19766,33.934491],"type":"Point"}
 }

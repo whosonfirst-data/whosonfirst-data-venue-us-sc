@@ -2,13 +2,14 @@
   "id": 370280797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.310888,32.4933,-80.310888,32.4933",
     "geom:latitude":32.4933,
     "geom:longitude":-80.310888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"644 State Hwy 174",
     "sg:city":"Edisto Island",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370280797,
-    "wof:lastmodified":1449030745,
+    "wof:lastmodified":1467082335,
     "wof:name":"J & J Auto Repair & Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.310888,32.4933,-80.310888,32.4933],
-  "geometry": {"coordinates":[-80.310888,32.4933],"type":"Point"}
+  "bbox": [
+    -80.310888,
+    32.4933,
+    -80.310888,
+    32.4933
+],
+  "geometry": {"coordinates":[-80.31088800000001,32.4933],"type":"Point"}
 }

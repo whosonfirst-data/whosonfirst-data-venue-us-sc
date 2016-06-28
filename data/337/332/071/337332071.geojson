@@ -2,13 +2,14 @@
   "id": 337332071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.270778,34.835686,-82.270778,34.835686",
     "geom:latitude":34.835686,
     "geom:longitude":-82.270778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Sundew Ct",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337332071,
-    "wof:lastmodified":1449027399,
+    "wof:lastmodified":1467082282,
     "wof:name":"Walkman Inc",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "banker"
     ]
 },
-  "bbox": [-82.270778,34.835686,-82.270778,34.835686],
-  "geometry": {"coordinates":[-82.270778,34.835686],"type":"Point"}
+  "bbox": [
+    -82.270778,
+    34.835686,
+    -82.270778,
+    34.835686
+],
+  "geometry": {"coordinates":[-82.27077800000001,34.835686],"type":"Point"}
 }

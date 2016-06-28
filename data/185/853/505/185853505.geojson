@@ -2,13 +2,14 @@
   "id": 185853505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.07635,34.01957,-81.07635,34.01957",
     "geom:latitude":34.01957,
     "geom:longitude":-81.07635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Greystone Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185853505,
-    "wof:lastmodified":1449007263,
+    "wof:lastmodified":1467082192,
     "wof:name":"Palmetto Home Improvements",
     "wof:parent_id":85844815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-81.07635,34.01957,-81.07635,34.01957],
-  "geometry": {"coordinates":[-81.07635,34.01957],"type":"Point"}
+  "bbox": [
+    -81.07635,
+    34.01957,
+    -81.07635,
+    34.01957
+],
+  "geometry": {"coordinates":[-81.07635000000001,34.01957],"type":"Point"}
 }

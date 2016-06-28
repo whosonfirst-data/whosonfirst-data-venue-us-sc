@@ -2,13 +2,14 @@
   "id": 353969473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.863208,33.491047,-80.863208,33.491047",
     "geom:latitude":33.491047,
     "geom:longitude":-80.863208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Saint Paul St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":353969473,
-    "wof:lastmodified":1449018867,
+    "wof:lastmodified":1467082222,
     "wof:name":"Govan Nelson & Assoc",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.863208,33.491047,-80.863208,33.491047],
+  "bbox": [
+    -80.863208,
+    33.491047,
+    -80.863208,
+    33.491047
+],
   "geometry": {"coordinates":[-80.863208,33.491047],"type":"Point"}
 }

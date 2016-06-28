@@ -2,13 +2,14 @@
   "id": 370824851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.705372,32.194399,-80.705372,32.194399",
     "geom:latitude":32.194399,
     "geom:longitude":-80.705372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"634 William Hilton Pkwy",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370824851,
-    "wof:lastmodified":1449030294,
+    "wof:lastmodified":1467082325,
     "wof:name":"Ferguson Community",
     "wof:parent_id":85819729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.705372,32.194399,-80.705372,32.194399],
+  "bbox": [
+    -80.705372,
+    32.194399,
+    -80.705372,
+    32.194399
+],
   "geometry": {"coordinates":[-80.705372,32.194399],"type":"Point"}
 }

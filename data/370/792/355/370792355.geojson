@@ -2,13 +2,14 @@
   "id": 370792355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.096405,33.099017,-80.096405,33.099017",
     "geom:latitude":33.099017,
     "geom:longitude":-80.096405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 McCrystal Cir",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370792355,
-    "wof:lastmodified":1449029819,
+    "wof:lastmodified":1467082314,
     "wof:name":"Things By Paul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-80.096405,33.099017,-80.096405,33.099017],
+  "bbox": [
+    -80.096405,
+    33.099017,
+    -80.096405,
+    33.099017
+],
   "geometry": {"coordinates":[-80.096405,33.099017],"type":"Point"}
 }

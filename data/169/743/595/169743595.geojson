@@ -2,13 +2,14 @@
   "id": 169743595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.278596,33.433874,-79.278596,33.433874",
     "geom:latitude":33.433874,
     "geom:longitude":-79.278596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Empire Ct",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169743595,
-    "wof:lastmodified":1449035948,
+    "wof:lastmodified":1467082387,
     "wof:name":"Jimmy Carter's Ceramic Tile",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.278596,33.433874,-79.278596,33.433874],
-  "geometry": {"coordinates":[-79.278596,33.433874],"type":"Point"}
+  "bbox": [
+    -79.278596,
+    33.433874,
+    -79.278596,
+    33.433874
+],
+  "geometry": {"coordinates":[-79.27859599999999,33.433874],"type":"Point"}
 }

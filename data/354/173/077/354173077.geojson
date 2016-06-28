@@ -2,13 +2,14 @@
   "id": 354173077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.141242,33.324519,-81.141242,33.324519",
     "geom:latitude":33.324519,
     "geom:longitude":-81.141242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"262 S Beech Ave",
     "sg:city":"Denmark",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354173077,
-    "wof:lastmodified":1449066254,
+    "wof:lastmodified":1467082422,
     "wof:name":"Denmark Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.141242,33.324519,-81.141242,33.324519],
-  "geometry": {"coordinates":[-81.141242,33.324519],"type":"Point"}
+  "bbox": [
+    -81.141242,
+    33.324519,
+    -81.141242,
+    33.324519
+],
+  "geometry": {"coordinates":[-81.14124200000001,33.324519],"type":"Point"}
 }

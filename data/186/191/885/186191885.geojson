@@ -2,13 +2,14 @@
   "id": 186191885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.923091,33.662002,-78.923091,33.662002",
     "geom:latitude":33.662002,
     "geom:longitude":-78.923091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3009 US Hwy 17 Bus",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186191885,
-    "wof:lastmodified":1449051986,
+    "wof:lastmodified":1467082403,
     "wof:name":"Scooters & Cycles",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-78.923091,33.662002,-78.923091,33.662002],
+  "bbox": [
+    -78.923091,
+    33.662002,
+    -78.923091,
+    33.662002
+],
   "geometry": {"coordinates":[-78.923091,33.662002],"type":"Point"}
 }

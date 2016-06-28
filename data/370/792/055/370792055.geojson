@@ -2,13 +2,14 @@
   "id": 370792055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.631162,34.703111,-81.631162,34.703111",
     "geom:latitude":34.703111,
     "geom:longitude":-81.631162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 S Duncan Byp",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370792055,
-    "wof:lastmodified":1449029818,
+    "wof:lastmodified":1467082314,
     "wof:name":"Union Obstetrics & Gynecology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.631162,34.703111,-81.631162,34.703111],
+  "bbox": [
+    -81.631162,
+    34.703111,
+    -81.631162,
+    34.703111
+],
   "geometry": {"coordinates":[-81.631162,34.703111],"type":"Point"}
 }

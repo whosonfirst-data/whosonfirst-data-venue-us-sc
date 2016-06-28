@@ -2,13 +2,14 @@
   "id": 354321949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.86612,33.515256,-80.86612,33.515256",
     "geom:latitude":33.515256,
     "geom:longitude":-80.86612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1884 Columbia Rd",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354321949,
-    "wof:lastmodified":1449065977,
+    "wof:lastmodified":1467082415,
     "wof:name":"Flower Gallery & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.86612,33.515256,-80.86612,33.515256],
+  "bbox": [
+    -80.86612,
+    33.515256,
+    -80.86612,
+    33.515256
+],
   "geometry": {"coordinates":[-80.86612,33.515256],"type":"Point"}
 }

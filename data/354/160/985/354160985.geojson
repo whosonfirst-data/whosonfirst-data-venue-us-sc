@@ -2,13 +2,14 @@
   "id": 354160985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.014086,34.956223,-82.014086,34.956223",
     "geom:latitude":34.956223,
     "geom:longitude":-82.014086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Fairforest Clevedale Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354160985,
-    "wof:lastmodified":1449067379,
+    "wof:lastmodified":1467082447,
     "wof:name":"Palmetto West Mobile Home Park",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-82.014086,34.956223,-82.014086,34.956223],
-  "geometry": {"coordinates":[-82.014086,34.956223],"type":"Point"}
+  "bbox": [
+    -82.014086,
+    34.956223,
+    -82.014086,
+    34.956223
+],
+  "geometry": {"coordinates":[-82.01408600000001,34.956223],"type":"Point"}
 }

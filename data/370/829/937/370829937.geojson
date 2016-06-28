@@ -2,13 +2,14 @@
   "id": 370829937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.941715,34.965655,-81.941715,34.965655",
     "geom:latitude":34.965655,
     "geom:longitude":-81.941715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 N Church St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370829937,
-    "wof:lastmodified":1449032241,
+    "wof:lastmodified":1467082368,
     "wof:name":"Coggins Flowers and Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.941715,34.965655,-81.941715,34.965655],
+  "bbox": [
+    -81.941715,
+    34.965655,
+    -81.941715,
+    34.965655
+],
   "geometry": {"coordinates":[-81.941715,34.965655],"type":"Point"}
 }

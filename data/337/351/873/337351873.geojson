@@ -2,13 +2,14 @@
   "id": 337351873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.470779,34.623554,-82.470779,34.623554",
     "geom:latitude":34.623554,
     "geom:longitude":-82.470779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Greenville Dr",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337351873,
-    "wof:lastmodified":1449027619,
+    "wof:lastmodified":1467082291,
     "wof:name":"Gus' Palmetto Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.470779,34.623554,-82.470779,34.623554],
-  "geometry": {"coordinates":[-82.470779,34.623554],"type":"Point"}
+  "bbox": [
+    -82.470779,
+    34.623554,
+    -82.470779,
+    34.623554
+],
+  "geometry": {"coordinates":[-82.47077899999999,34.623554],"type":"Point"}
 }

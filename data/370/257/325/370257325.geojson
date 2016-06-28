@@ -2,13 +2,14 @@
   "id": 370257325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.157598,33.035771,-80.157598,33.035771",
     "geom:latitude":33.035771,
     "geom:longitude":-80.157598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 N Main St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370257325,
-    "wof:lastmodified":1449030103,
+    "wof:lastmodified":1467082321,
     "wof:name":"Mainstreet Bicycle Shop LLC",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bike"
     ]
 },
-  "bbox": [-80.157598,33.035771,-80.157598,33.035771],
-  "geometry": {"coordinates":[-80.157598,33.035771],"type":"Point"}
+  "bbox": [
+    -80.157598,
+    33.035771,
+    -80.157598,
+    33.035771
+],
+  "geometry": {"coordinates":[-80.15759799999999,33.035771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370277103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.230942,33.978144,-81.230942,33.978144",
     "geom:latitude":33.978144,
     "geom:longitude":-81.230942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 E Main St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370277103,
-    "wof:lastmodified":1449029469,
+    "wof:lastmodified":1467082306,
     "wof:name":"Spectrum Alliance",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-81.230942,33.978144,-81.230942,33.978144],
+  "bbox": [
+    -81.230942,
+    33.978144,
+    -81.230942,
+    33.978144
+],
   "geometry": {"coordinates":[-81.230942,33.978144],"type":"Point"}
 }

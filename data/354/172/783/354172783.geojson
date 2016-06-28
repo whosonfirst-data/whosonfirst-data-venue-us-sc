@@ -2,13 +2,14 @@
   "id": 354172783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.041035,33.985061,-81.041035,33.985061",
     "geom:latitude":33.985061,
     "geom:longitude":-81.041035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Catawba St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354172783,
-    "wof:lastmodified":1449066603,
+    "wof:lastmodified":1467082430,
     "wof:name":"South Carolina Electric & Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-81.041035,33.985061,-81.041035,33.985061],
-  "geometry": {"coordinates":[-81.041035,33.985061],"type":"Point"}
+  "bbox": [
+    -81.041035,
+    33.985061,
+    -81.041035,
+    33.985061
+],
+  "geometry": {"coordinates":[-81.04103499999999,33.985061],"type":"Point"}
 }

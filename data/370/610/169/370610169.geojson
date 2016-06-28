@@ -2,13 +2,14 @@
   "id": 370610169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.277915,33.86629,-81.277915,33.86629",
     "geom:latitude":33.86629,
     "geom:longitude":-81.277915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"583 Boiling Springs Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370610169,
-    "wof:lastmodified":1449032413,
+    "wof:lastmodified":1467082372,
     "wof:name":"Odin Properties Inc",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-81.277915,33.86629,-81.277915,33.86629],
-  "geometry": {"coordinates":[-81.277915,33.86629],"type":"Point"}
+  "bbox": [
+    -81.277915,
+    33.86629,
+    -81.277915,
+    33.86629
+],
+  "geometry": {"coordinates":[-81.27791499999999,33.86629],"type":"Point"}
 }

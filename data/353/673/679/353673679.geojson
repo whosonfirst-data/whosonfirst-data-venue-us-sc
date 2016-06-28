@@ -2,13 +2,14 @@
   "id": 353673679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.017825,32.79352,-80.017825,32.79352",
     "geom:latitude":32.79352,
     "geom:longitude":-80.017825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 Wappoo Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353673679,
-    "wof:lastmodified":1449019254,
+    "wof:lastmodified":1467082230,
     "wof:name":"Elaine's Christian School",
     "wof:parent_id":85846627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-80.017825,32.79352,-80.017825,32.79352],
+  "bbox": [
+    -80.017825,
+    32.79352,
+    -80.017825,
+    32.79352
+],
   "geometry": {"coordinates":[-80.017825,32.79352],"type":"Point"}
 }

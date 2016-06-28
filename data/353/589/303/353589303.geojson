@@ -2,13 +2,14 @@
   "id": 353589303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.631795,34.525354,-82.631795,34.525354",
     "geom:latitude":34.525354,
     "geom:longitude":-82.631795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Montgomery Dr",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353589303,
-    "wof:lastmodified":1449019620,
+    "wof:lastmodified":1467082237,
     "wof:name":"Anderson Gastroenterology",
     "wof:parent_id":85825947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.631795,34.525354,-82.631795,34.525354],
+  "bbox": [
+    -82.631795,
+    34.525354,
+    -82.631795,
+    34.525354
+],
   "geometry": {"coordinates":[-82.631795,34.525354],"type":"Point"}
 }

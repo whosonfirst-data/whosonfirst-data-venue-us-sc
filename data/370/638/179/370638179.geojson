@@ -2,13 +2,14 @@
   "id": 370638179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.044807,35.021059,-81.044807,35.021059",
     "geom:latitude":35.021059,
     "geom:longitude":-81.044807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4404 Sol Aberman Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370638179,
-    "wof:lastmodified":1449029269,
+    "wof:lastmodified":1467082302,
     "wof:name":"Island Harbor Development Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.044807,35.021059,-81.044807,35.021059],
-  "geometry": {"coordinates":[-81.044807,35.021059],"type":"Point"}
+  "bbox": [
+    -81.044807,
+    35.021059,
+    -81.044807,
+    35.021059
+],
+  "geometry": {"coordinates":[-81.04480700000001,35.021059],"type":"Point"}
 }

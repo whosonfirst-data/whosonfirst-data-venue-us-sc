@@ -2,13 +2,14 @@
   "id": 353811315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.222642,32.99077,-80.222642,32.99077",
     "geom:latitude":32.99077,
     "geom:longitude":-80.222642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Boonehill Rd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353811315,
-    "wof:lastmodified":1449019498,
+    "wof:lastmodified":1467082235,
     "wof:name":"Spin City",
     "wof:parent_id":85851889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.222642,32.99077,-80.222642,32.99077],
-  "geometry": {"coordinates":[-80.222642,32.99077],"type":"Point"}
+  "bbox": [
+    -80.222642,
+    32.99077,
+    -80.222642,
+    32.99077
+],
+  "geometry": {"coordinates":[-80.22264199999999,32.99077],"type":"Point"}
 }

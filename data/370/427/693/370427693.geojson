@@ -2,13 +2,14 @@
   "id": 370427693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.893605,34.69206,-79.893605,34.69206",
     "geom:latitude":34.69206,
     "geom:longitude":-79.893605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 Market St",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370427693,
-    "wof:lastmodified":1449030117,
+    "wof:lastmodified":1467082321,
     "wof:name":"Kay S Bullard OD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.893605,34.69206,-79.893605,34.69206],
-  "geometry": {"coordinates":[-79.893605,34.69206],"type":"Point"}
+  "bbox": [
+    -79.893605,
+    34.69206,
+    -79.893605,
+    34.69206
+],
+  "geometry": {"coordinates":[-79.89360499999999,34.69206],"type":"Point"}
 }

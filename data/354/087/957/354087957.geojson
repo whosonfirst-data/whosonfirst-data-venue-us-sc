@@ -2,13 +2,14 @@
   "id": 354087957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.311131,34.895354,-82.311131,34.895354",
     "geom:latitude":34.895354,
     "geom:longitude":-82.311131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Brushy Creek Rd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354087957,
-    "wof:lastmodified":1449066706,
+    "wof:lastmodified":1467082432,
     "wof:name":"Hightower Sub Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.311131,34.895354,-82.311131,34.895354],
+  "bbox": [
+    -82.311131,
+    34.895354,
+    -82.311131,
+    34.895354
+],
   "geometry": {"coordinates":[-82.311131,34.895354],"type":"Point"}
 }

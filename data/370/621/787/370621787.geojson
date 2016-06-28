@@ -2,13 +2,14 @@
   "id": 370621787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.189475,34.950643,-82.189475,34.950643",
     "geom:latitude":34.950643,
     "geom:longitude":-82.189475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1271 E Wade Hampton Blvd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":370621787,
-    "wof:lastmodified":1449032073,
+    "wof:lastmodified":1467082364,
     "wof:name":"Ken Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.189475,34.950643,-82.189475,34.950643],
+  "bbox": [
+    -82.189475,
+    34.950643,
+    -82.189475,
+    34.950643
+],
   "geometry": {"coordinates":[-82.189475,34.950643],"type":"Point"}
 }

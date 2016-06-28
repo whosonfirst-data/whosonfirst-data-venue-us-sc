@@ -2,13 +2,14 @@
   "id": 354264261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.25435,33.941119,-81.25435,33.941119",
     "geom:latitude":33.941119,
     "geom:longitude":-81.25435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Eleta Dr",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354264261,
-    "wof:lastmodified":1449067076,
+    "wof:lastmodified":1467082441,
     "wof:name":"Air Smith",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.25435,33.941119,-81.25435,33.941119],
+  "bbox": [
+    -81.25435,
+    33.941119,
+    -81.25435,
+    33.941119
+],
   "geometry": {"coordinates":[-81.25435,33.941119],"type":"Point"}
 }

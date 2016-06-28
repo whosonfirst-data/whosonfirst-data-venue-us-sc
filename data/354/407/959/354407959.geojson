@@ -2,13 +2,14 @@
   "id": 354407959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.086233,34.374584,-81.086233,34.374584",
     "geom:latitude":34.374584,
     "geom:longitude":-81.086233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Vanderhorst St",
     "sg:city":"Winnsboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354407959,
-    "wof:lastmodified":1449066892,
+    "wof:lastmodified":1467082436,
     "wof:name":"Washington Street Baptist Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.086233,34.374584,-81.086233,34.374584],
-  "geometry": {"coordinates":[-81.086233,34.374584],"type":"Point"}
+  "bbox": [
+    -81.086233,
+    34.374584,
+    -81.086233,
+    34.374584
+],
+  "geometry": {"coordinates":[-81.08623299999999,34.374584],"type":"Point"}
 }

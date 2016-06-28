@@ -2,13 +2,14 @@
   "id": 185729109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.845643,34.157772,-79.845643,34.157772",
     "geom:latitude":34.157772,
     "geom:longitude":-79.845643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 W Forest Lake Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185729109,
-    "wof:lastmodified":1449007442,
+    "wof:lastmodified":1467082195,
     "wof:name":"Knox Trading Company",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contract"
     ]
 },
-  "bbox": [-79.845643,34.157772,-79.845643,34.157772],
+  "bbox": [
+    -79.845643,
+    34.157772,
+    -79.845643,
+    34.157772
+],
   "geometry": {"coordinates":[-79.845643,34.157772],"type":"Point"}
 }

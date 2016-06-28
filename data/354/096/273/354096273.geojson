@@ -2,13 +2,14 @@
   "id": 354096273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.878487,34.474734,-81.878487,34.474734",
     "geom:latitude":34.474734,
     "geom:longitude":-81.878487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 E Florida St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354096273,
-    "wof:lastmodified":1449066466,
+    "wof:lastmodified":1467082427,
     "wof:name":"Darlington House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-81.878487,34.474734,-81.878487,34.474734],
-  "geometry": {"coordinates":[-81.878487,34.474734],"type":"Point"}
+  "bbox": [
+    -81.878487,
+    34.474734,
+    -81.878487,
+    34.474734
+],
+  "geometry": {"coordinates":[-81.87848700000001,34.474734],"type":"Point"}
 }

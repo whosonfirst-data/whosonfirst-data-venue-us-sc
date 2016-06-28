@@ -2,13 +2,14 @@
   "id": 354358721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.371402,33.937911,-80.371402,33.937911",
     "geom:latitude":33.937911,
     "geom:longitude":-80.371402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Bultman Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354358721,
-    "wof:lastmodified":1449066639,
+    "wof:lastmodified":1467082431,
     "wof:name":"Burl's Fine Jewelry Inc",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-80.371402,33.937911,-80.371402,33.937911],
+  "bbox": [
+    -80.371402,
+    33.937911,
+    -80.371402,
+    33.937911
+],
   "geometry": {"coordinates":[-80.371402,33.937911],"type":"Point"}
 }

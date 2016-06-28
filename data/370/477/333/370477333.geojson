@@ -2,13 +2,14 @@
   "id": 370477333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.288209,34.140093,-81.288209,34.140093",
     "geom:latitude":34.140093,
     "geom:longitude":-81.288209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2341 Dutch Fork Rd",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370477333,
-    "wof:lastmodified":1449029670,
+    "wof:lastmodified":1467082311,
     "wof:name":"Faircloth Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.288209,34.140093,-81.288209,34.140093],
-  "geometry": {"coordinates":[-81.288209,34.140093],"type":"Point"}
+  "bbox": [
+    -81.288209,
+    34.140093,
+    -81.288209,
+    34.140093
+],
+  "geometry": {"coordinates":[-81.28820899999999,34.140093],"type":"Point"}
 }

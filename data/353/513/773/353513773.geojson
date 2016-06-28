@@ -2,13 +2,14 @@
   "id": 353513773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.083762,34.367257,-81.083762,34.367257",
     "geom:latitude":34.367257,
     "geom:longitude":-81.083762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Columbia Rd",
     "sg:city":"Winnsboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353513773,
-    "wof:lastmodified":1449019930,
+    "wof:lastmodified":1467082244,
     "wof:name":"Le Grand Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.083762,34.367257,-81.083762,34.367257],
-  "geometry": {"coordinates":[-81.083762,34.367257],"type":"Point"}
+  "bbox": [
+    -81.083762,
+    34.367257,
+    -81.083762,
+    34.367257
+],
+  "geometry": {"coordinates":[-81.08376199999999,34.367257],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370639173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.260629,34.742764,-82.260629,34.742764",
     "geom:latitude":34.742764,
     "geom:longitude":-82.260629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Hillcrest Ave",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370639173,
-    "wof:lastmodified":1449032450,
+    "wof:lastmodified":1467082373,
     "wof:name":"Profiles",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.260629,34.742764,-82.260629,34.742764],
-  "geometry": {"coordinates":[-82.260629,34.742764],"type":"Point"}
+  "bbox": [
+    -82.260629,
+    34.742764,
+    -82.260629,
+    34.742764
+],
+  "geometry": {"coordinates":[-82.26062899999999,34.742764],"type":"Point"}
 }

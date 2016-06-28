@@ -2,13 +2,14 @@
   "id": 370860169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.844578,34.710078,-80.844578,34.710078",
     "geom:latitude":34.710078,
     "geom:longitude":-80.844578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"294 Grace Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370860169,
-    "wof:lastmodified":1449030602,
+    "wof:lastmodified":1467082332,
     "wof:name":"Grace Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fabricating"
     ]
 },
-  "bbox": [-80.844578,34.710078,-80.844578,34.710078],
+  "bbox": [
+    -80.844578,
+    34.710078,
+    -80.844578,
+    34.710078
+],
   "geometry": {"coordinates":[-80.844578,34.710078],"type":"Point"}
 }

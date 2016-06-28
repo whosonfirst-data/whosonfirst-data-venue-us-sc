@@ -2,13 +2,14 @@
   "id": 186240813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.030056,34.930581,-81.030056,34.930581",
     "geom:latitude":34.930581,
     "geom:longitude":-81.030056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 W White St",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186240813,
-    "wof:lastmodified":1449050525,
+    "wof:lastmodified":1467082391,
     "wof:name":"Aa Veterans Cab",
     "wof:parent_id":85851537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-81.030056,34.930581,-81.030056,34.930581],
+  "bbox": [
+    -81.030056,
+    34.930581,
+    -81.030056,
+    34.930581
+],
   "geometry": {"coordinates":[-81.030056,34.930581],"type":"Point"}
 }

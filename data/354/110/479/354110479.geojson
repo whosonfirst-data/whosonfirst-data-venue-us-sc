@@ -2,13 +2,14 @@
   "id": 354110479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.334539,34.874147,-82.334539,34.874147",
     "geom:latitude":34.874147,
     "geom:longitude":-82.334539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Beaufort St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354110479,
-    "wof:lastmodified":1449066474,
+    "wof:lastmodified":1467082427,
     "wof:name":"High Street Properties LLC",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manager"
     ]
 },
-  "bbox": [-82.334539,34.874147,-82.334539,34.874147],
-  "geometry": {"coordinates":[-82.334539,34.874147],"type":"Point"}
+  "bbox": [
+    -82.334539,
+    34.874147,
+    -82.334539,
+    34.874147
+],
+  "geometry": {"coordinates":[-82.33453900000001,34.874147],"type":"Point"}
 }

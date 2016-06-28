@@ -2,13 +2,14 @@
   "id": 354234539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.26153,34.202742,-79.26153,34.202742",
     "geom:latitude":34.202742,
     "geom:longitude":-79.26153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S Cypress St",
     "sg:city":"Mullins",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354234539,
-    "wof:lastmodified":1449067585,
+    "wof:lastmodified":1467082452,
     "wof:name":"Ellen Chapel Holiness Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.26153,34.202742,-79.26153,34.202742],
-  "geometry": {"coordinates":[-79.26153,34.202742],"type":"Point"}
+  "bbox": [
+    -79.26153,
+    34.202742,
+    -79.26153,
+    34.202742
+],
+  "geometry": {"coordinates":[-79.26152999999999,34.202742],"type":"Point"}
 }

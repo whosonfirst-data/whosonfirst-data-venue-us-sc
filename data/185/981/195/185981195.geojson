@@ -2,13 +2,14 @@
   "id": 185981195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.350884,34.317437,-79.350884,34.317437",
     "geom:latitude":34.317437,
     "geom:longitude":-79.350884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1644 Haymount Rd",
     "sg:city":"Latta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185981195,
-    "wof:lastmodified":1449008244,
+    "wof:lastmodified":1467082208,
     "wof:name":"Floyddale Fabrication & Erctn",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-79.350884,34.317437,-79.350884,34.317437],
-  "geometry": {"coordinates":[-79.350884,34.317437],"type":"Point"}
+  "bbox": [
+    -79.350884,
+    34.317437,
+    -79.350884,
+    34.317437
+],
+  "geometry": {"coordinates":[-79.35088399999999,34.317437],"type":"Point"}
 }

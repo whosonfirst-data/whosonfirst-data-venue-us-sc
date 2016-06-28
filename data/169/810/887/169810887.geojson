@@ -2,13 +2,14 @@
   "id": 169810887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.767586,33.866372,-79.767586,33.866372",
     "geom:latitude":33.866372,
     "geom:longitude":-79.767586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Carver St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169810887,
-    "wof:lastmodified":1449033645,
+    "wof:lastmodified":1467082381,
     "wof:name":"Mitchell Snack Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "concessionaire"
     ]
 },
-  "bbox": [-79.767586,33.866372,-79.767586,33.866372],
-  "geometry": {"coordinates":[-79.767586,33.866372],"type":"Point"}
+  "bbox": [
+    -79.767586,
+    33.866372,
+    -79.767586,
+    33.866372
+],
+  "geometry": {"coordinates":[-79.76758599999999,33.866372],"type":"Point"}
 }

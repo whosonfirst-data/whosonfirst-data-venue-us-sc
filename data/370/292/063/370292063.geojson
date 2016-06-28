@@ -2,13 +2,14 @@
   "id": 370292063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.702124,33.879126,-78.702124,33.879126",
     "geom:latitude":33.879126,
     "geom:longitude":-78.702124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2149 Tallwood Rd",
     "sg:city":"Longs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370292063,
-    "wof:lastmodified":1449029372,
+    "wof:lastmodified":1467082304,
     "wof:name":"Causey Renovations",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-78.702124,33.879126,-78.702124,33.879126],
+  "bbox": [
+    -78.702124,
+    33.879126,
+    -78.702124,
+    33.879126
+],
   "geometry": {"coordinates":[-78.702124,33.879126],"type":"Point"}
 }

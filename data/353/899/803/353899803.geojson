@@ -2,13 +2,14 @@
   "id": 353899803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.807735,34.585712,-82.807735,34.585712",
     "geom:latitude":34.585712,
     "geom:longitude":-82.807735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Clemson Research Blvd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353899803,
-    "wof:lastmodified":1449020656,
+    "wof:lastmodified":1467082259,
     "wof:name":"Proper Mold SC",
     "wof:parent_id":85858639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-82.807735,34.585712,-82.807735,34.585712],
-  "geometry": {"coordinates":[-82.807735,34.585712],"type":"Point"}
+  "bbox": [
+    -82.807735,
+    34.585712,
+    -82.807735,
+    34.585712
+],
+  "geometry": {"coordinates":[-82.80773499999999,34.585712],"type":"Point"}
 }

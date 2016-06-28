@@ -2,13 +2,14 @@
   "id": 185956499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.989798,33.612664,-78.989798,33.612664",
     "geom:latitude":33.612664,
     "geom:longitude":-78.989798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Misty Pine Dr",
     "sg:city":"Surfside Beach",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185956499,
-    "wof:lastmodified":1449006883,
+    "wof:lastmodified":1467082186,
     "wof:name":"Seaside Flooring",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-78.989798,33.612664,-78.989798,33.612664],
-  "geometry": {"coordinates":[-78.989798,33.612664],"type":"Point"}
+  "bbox": [
+    -78.989798,
+    33.612664,
+    -78.989798,
+    33.612664
+],
+  "geometry": {"coordinates":[-78.98979799999999,33.612664],"type":"Point"}
 }

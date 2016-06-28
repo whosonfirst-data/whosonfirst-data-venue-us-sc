@@ -2,13 +2,14 @@
   "id": 370271219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.397962,34.846776,-82.397962,34.846776",
     "geom:latitude":34.846776,
     "geom:longitude":-82.397962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 E Broad St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370271219,
-    "wof:lastmodified":1449030856,
+    "wof:lastmodified":1467082337,
     "wof:name":"Key Mortgage Group Inc",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-82.397962,34.846776,-82.397962,34.846776],
-  "geometry": {"coordinates":[-82.397962,34.846776],"type":"Point"}
+  "bbox": [
+    -82.397962,
+    34.846776,
+    -82.397962,
+    34.846776
+],
+  "geometry": {"coordinates":[-82.39796200000001,34.846776],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370394813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.498188,33.957794,-80.498188,33.957794",
     "geom:latitude":33.957794,
     "geom:longitude":-80.498188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1341 Peach Orchard Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370394813,
-    "wof:lastmodified":1449029747,
+    "wof:lastmodified":1467082312,
     "wof:name":"Silver Threads & Gold Needles",
     "wof:parent_id":85848059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-80.498188,33.957794,-80.498188,33.957794],
+  "bbox": [
+    -80.498188,
+    33.957794,
+    -80.498188,
+    33.957794
+],
   "geometry": {"coordinates":[-80.498188,33.957794],"type":"Point"}
 }

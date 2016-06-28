@@ -2,13 +2,14 @@
   "id": 353726369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.926892,32.777896,-79.926892,32.777896",
     "geom:latitude":32.777896,
     "geom:longitude":-79.926892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 N Atlantic Wharf",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353726369,
-    "wof:lastmodified":1449019989,
+    "wof:lastmodified":1467082245,
     "wof:name":"Spec-TEC",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "software"
     ]
 },
-  "bbox": [-79.926892,32.777896,-79.926892,32.777896],
+  "bbox": [
+    -79.926892,
+    32.777896,
+    -79.926892,
+    32.777896
+],
   "geometry": {"coordinates":[-79.926892,32.777896],"type":"Point"}
 }

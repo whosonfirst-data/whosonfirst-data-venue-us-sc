@@ -2,13 +2,14 @@
   "id": 353582115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.980615,35.043421,-81.980615,35.043421",
     "geom:latitude":35.043421,
     "geom:longitude":-81.980615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"871 Double Bridge Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353582115,
-    "wof:lastmodified":1449019632,
+    "wof:lastmodified":1467082238,
     "wof:name":"Boiling Springs Branch Library",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.980615,35.043421,-81.980615,35.043421],
+  "bbox": [
+    -81.980615,
+    35.043421,
+    -81.980615,
+    35.043421
+],
   "geometry": {"coordinates":[-81.980615,35.043421],"type":"Point"}
 }

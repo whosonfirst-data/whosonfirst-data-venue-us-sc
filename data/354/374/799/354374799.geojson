@@ -2,13 +2,14 @@
   "id": 354374799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.246469,34.219768,-80.246469,34.219768",
     "geom:latitude":34.219768,
     "geom:longitude":-80.246469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N Main St",
     "sg:city":"Bishopville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354374799,
-    "wof:lastmodified":1449066659,
+    "wof:lastmodified":1467082431,
     "wof:name":"Garrick's Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-80.246469,34.219768,-80.246469,34.219768],
+  "bbox": [
+    -80.246469,
+    34.219768,
+    -80.246469,
+    34.219768
+],
   "geometry": {"coordinates":[-80.246469,34.219768],"type":"Point"}
 }

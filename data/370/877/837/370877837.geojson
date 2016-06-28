@@ -2,13 +2,14 @@
   "id": 370877837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.021962,34.921945,-81.021962,34.921945",
     "geom:latitude":34.921945,
     "geom:longitude":-81.021962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 S Confederate Ave",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370877837,
-    "wof:lastmodified":1449031464,
+    "wof:lastmodified":1467082351,
     "wof:name":"Preferred Healthcare Plus",
     "wof:parent_id":85851537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.021962,34.921945,-81.021962,34.921945],
+  "bbox": [
+    -81.021962,
+    34.921945,
+    -81.021962,
+    34.921945
+],
   "geometry": {"coordinates":[-81.021962,34.921945],"type":"Point"}
 }

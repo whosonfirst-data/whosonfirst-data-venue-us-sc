@@ -2,13 +2,14 @@
   "id": 337586729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.858829,32.233119,-80.858829,32.233119",
     "geom:latitude":32.233119,
     "geom:longitude":-80.858829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Pritchard St",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337586729,
-    "wof:lastmodified":1449027650,
+    "wof:lastmodified":1467082292,
     "wof:name":"Calhoun Station",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "thrift"
     ]
 },
-  "bbox": [-80.858829,32.233119,-80.858829,32.233119],
+  "bbox": [
+    -80.858829,
+    32.233119,
+    -80.858829,
+    32.233119
+],
   "geometry": {"coordinates":[-80.858829,32.233119],"type":"Point"}
 }

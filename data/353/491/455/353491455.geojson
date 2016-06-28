@@ -2,13 +2,14 @@
   "id": 353491455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.137522,34.864273,-81.137522,34.864273",
     "geom:latitude":34.864273,
     "geom:longitude":-81.137522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5270 Williamson Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353491455,
-    "wof:lastmodified":1449018215,
+    "wof:lastmodified":1467082209,
     "wof:name":"Rolling Acres Farm",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.137522,34.864273,-81.137522,34.864273],
+  "bbox": [
+    -81.137522,
+    34.864273,
+    -81.137522,
+    34.864273
+],
   "geometry": {"coordinates":[-81.137522,34.864273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353998807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.843209,33.489488,-80.843209,33.489488",
     "geom:latitude":33.489488,
     "geom:longitude":-80.843209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"362 John C Calhoun Dr",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353998807,
-    "wof:lastmodified":1449019101,
+    "wof:lastmodified":1467082227,
     "wof:name":"Black River Marine Inc",
     "wof:parent_id":85843475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sales"
     ]
 },
-  "bbox": [-80.843209,33.489488,-80.843209,33.489488],
+  "bbox": [
+    -80.843209,
+    33.489488,
+    -80.843209,
+    33.489488
+],
   "geometry": {"coordinates":[-80.843209,33.489488],"type":"Point"}
 }

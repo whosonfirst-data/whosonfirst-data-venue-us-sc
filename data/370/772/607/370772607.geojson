@@ -2,13 +2,14 @@
   "id": 370772607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.080583,34.392128,-80.080583,34.392128",
     "geom:latitude":34.392128,
     "geom:longitude":-80.080583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1027 Howle St",
     "sg:city":"Hartsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370772607,
-    "wof:lastmodified":1449030614,
+    "wof:lastmodified":1467082332,
     "wof:name":"Margie's Hair Boutique",
     "wof:parent_id":85825479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.080583,34.392128,-80.080583,34.392128],
+  "bbox": [
+    -80.080583,
+    34.392128,
+    -80.080583,
+    34.392128
+],
   "geometry": {"coordinates":[-80.080583,34.392128],"type":"Point"}
 }

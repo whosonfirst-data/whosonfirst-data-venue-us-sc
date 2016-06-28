@@ -2,13 +2,14 @@
   "id": 353817947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.93427,33.717355,-78.93427,33.717355",
     "geom:latitude":33.717355,
     "geom:longitude":-78.93427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4008 Wesley St",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353817947,
-    "wof:lastmodified":1449020325,
+    "wof:lastmodified":1467082252,
     "wof:name":"Commercial Property Management",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.93427,33.717355,-78.93427,33.717355],
+  "bbox": [
+    -78.93427,
+    33.717355,
+    -78.93427,
+    33.717355
+],
   "geometry": {"coordinates":[-78.93427,33.717355],"type":"Point"}
 }

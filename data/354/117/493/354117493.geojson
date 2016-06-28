@@ -2,13 +2,14 @@
   "id": 354117493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.359544,33.957683,-80.359544,33.957683",
     "geom:latitude":33.957683,
     "geom:longitude":-80.359544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 N Wise Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354117493,
-    "wof:lastmodified":1449067133,
+    "wof:lastmodified":1467082442,
     "wof:name":"Material Management Dept",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-80.359544,33.957683,-80.359544,33.957683],
+  "bbox": [
+    -80.359544,
+    33.957683,
+    -80.359544,
+    33.957683
+],
   "geometry": {"coordinates":[-80.359544,33.957683],"type":"Point"}
 }

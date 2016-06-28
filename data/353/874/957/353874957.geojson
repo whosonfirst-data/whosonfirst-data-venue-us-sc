@@ -2,13 +2,14 @@
   "id": 353874957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.684258,34.616544,-79.684258,34.616544",
     "geom:latitude":34.616544,
     "geom:longitude":-79.684258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Broad St",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353874957,
-    "wof:lastmodified":1449020633,
+    "wof:lastmodified":1467082258,
     "wof:name":"Bennettsville Loft Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-79.684258,34.616544,-79.684258,34.616544],
+  "bbox": [
+    -79.684258,
+    34.616544,
+    -79.684258,
+    34.616544
+],
   "geometry": {"coordinates":[-79.684258,34.616544],"type":"Point"}
 }

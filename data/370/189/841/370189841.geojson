@@ -2,13 +2,14 @@
   "id": 370189841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.76105,32.167442,-80.76105,32.167442",
     "geom:latitude":32.167442,
     "geom:longitude":-80.76105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Plumbridge Ln",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370189841,
-    "wof:lastmodified":1449031481,
+    "wof:lastmodified":1467082351,
     "wof:name":"Platinum Builders",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.76105,32.167442,-80.76105,32.167442],
+  "bbox": [
+    -80.76105,
+    32.167442,
+    -80.76105,
+    32.167442
+],
   "geometry": {"coordinates":[-80.76105,32.167442],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353499653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.975429,32.73647,-79.975429,32.73647",
     "geom:latitude":32.73647,
     "geom:longitude":-79.975429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"837 Mellichamp Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353499653,
-    "wof:lastmodified":1449018741,
+    "wof:lastmodified":1467082219,
     "wof:name":"Sweats Gym",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-79.975429,32.73647,-79.975429,32.73647],
-  "geometry": {"coordinates":[-79.975429,32.73647],"type":"Point"}
+  "bbox": [
+    -79.975429,
+    32.73647,
+    -79.975429,
+    32.73647
+],
+  "geometry": {"coordinates":[-79.97542900000001,32.73647],"type":"Point"}
 }

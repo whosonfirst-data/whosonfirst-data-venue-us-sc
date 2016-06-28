@@ -2,13 +2,14 @@
   "id": 169795505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.759329,33.879396,-79.759329,33.879396",
     "geom:latitude":33.879396,
     "geom:longitude":-79.759329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Mercy St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169795505,
-    "wof:lastmodified":1449034644,
+    "wof:lastmodified":1467082384,
     "wof:name":"Medicine Cabinet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.759329,33.879396,-79.759329,33.879396],
-  "geometry": {"coordinates":[-79.759329,33.879396],"type":"Point"}
+  "bbox": [
+    -79.759329,
+    33.879396,
+    -79.759329,
+    33.879396
+],
+  "geometry": {"coordinates":[-79.75932899999999,33.879396],"type":"Point"}
 }

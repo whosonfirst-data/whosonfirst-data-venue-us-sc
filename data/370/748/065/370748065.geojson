@@ -2,13 +2,14 @@
   "id": 370748065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.017209,34.499665,-82.017209,34.499665",
     "geom:latitude":34.499665,
     "geom:longitude":-82.017209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 W Laurens St",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370748065,
-    "wof:lastmodified":1449031637,
+    "wof:lastmodified":1467082355,
     "wof:name":"Whitesides Law Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.017209,34.499665,-82.017209,34.499665],
-  "geometry": {"coordinates":[-82.017209,34.499665],"type":"Point"}
+  "bbox": [
+    -82.017209,
+    34.499665,
+    -82.017209,
+    34.499665
+],
+  "geometry": {"coordinates":[-82.01720899999999,34.499665],"type":"Point"}
 }

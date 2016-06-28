@@ -2,13 +2,14 @@
   "id": 370315997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.399793,34.889272,-82.399793,34.889272",
     "geom:latitude":34.889272,
     "geom:longitude":-82.399793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3253 N Pleasantburg Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370315997,
-    "wof:lastmodified":1449032290,
+    "wof:lastmodified":1467082369,
     "wof:name":"Aig Baker Cherrydale",
     "wof:parent_id":85825355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-82.399793,34.889272,-82.399793,34.889272],
+  "bbox": [
+    -82.399793,
+    34.889272,
+    -82.399793,
+    34.889272
+],
   "geometry": {"coordinates":[-82.399793,34.889272],"type":"Point"}
 }

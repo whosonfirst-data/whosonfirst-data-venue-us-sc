@@ -2,13 +2,14 @@
   "id": 353804101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.74869,33.873773,-79.74869,33.873773",
     "geom:latitude":33.873773,
     "geom:longitude":-79.74869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Charles St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353804101,
-    "wof:lastmodified":1449020018,
+    "wof:lastmodified":1467082246,
     "wof:name":"Carolina Place",
     "wof:parent_id":85827939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "dev"
     ]
 },
-  "bbox": [-79.74869,33.873773,-79.74869,33.873773],
+  "bbox": [
+    -79.74869,
+    33.873773,
+    -79.74869,
+    33.873773
+],
   "geometry": {"coordinates":[-79.74869,33.873773],"type":"Point"}
 }

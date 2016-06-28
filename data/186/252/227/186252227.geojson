@@ -2,13 +2,14 @@
   "id": 186252227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.560811,33.452111,-79.560811,33.452111",
     "geom:latitude":33.452111,
     "geom:longitude":-79.560811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 N Morgan Ave",
     "sg:city":"Andrews",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186252227,
-    "wof:lastmodified":1449050659,
+    "wof:lastmodified":1467082391,
     "wof:name":"Moskow Accounting",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-79.560811,33.452111,-79.560811,33.452111],
+  "bbox": [
+    -79.560811,
+    33.452111,
+    -79.560811,
+    33.452111
+],
   "geometry": {"coordinates":[-79.560811,33.452111],"type":"Point"}
 }

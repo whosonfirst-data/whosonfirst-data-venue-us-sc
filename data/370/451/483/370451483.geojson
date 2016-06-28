@@ -2,13 +2,14 @@
   "id": 370451483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.220441,34.701917,-82.220441,34.701917",
     "geom:latitude":34.701917,
     "geom:longitude":-82.220441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 N Main St",
     "sg:city":"Fountain Inn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370451483,
-    "wof:lastmodified":1449030568,
+    "wof:lastmodified":1467082331,
     "wof:name":"Fletcher Funeral Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-82.220441,34.701917,-82.220441,34.701917],
-  "geometry": {"coordinates":[-82.220441,34.701917],"type":"Point"}
+  "bbox": [
+    -82.220441,
+    34.701917,
+    -82.220441,
+    34.701917
+],
+  "geometry": {"coordinates":[-82.22044099999999,34.701917],"type":"Point"}
 }

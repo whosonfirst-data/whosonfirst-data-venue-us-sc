@@ -2,13 +2,14 @@
   "id": 353484809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.172508,34.056248,-81.172508,34.056248",
     "geom:latitude":34.056248,
     "geom:longitude":-81.172508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5326 Bush River Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353484809,
-    "wof:lastmodified":1449020648,
+    "wof:lastmodified":1467082259,
     "wof:name":"A Taste Of Prosperity",
     "wof:parent_id":85897271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.172508,34.056248,-81.172508,34.056248],
-  "geometry": {"coordinates":[-81.172508,34.056248],"type":"Point"}
+  "bbox": [
+    -81.172508,
+    34.056248,
+    -81.172508,
+    34.056248
+],
+  "geometry": {"coordinates":[-81.17250799999999,34.056248],"type":"Point"}
 }

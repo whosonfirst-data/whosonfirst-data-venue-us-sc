@@ -2,13 +2,14 @@
   "id": 337484567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.196109,35.168554,-82.196109,35.168554",
     "geom:latitude":35.168554,
     "geom:longitude":-82.196109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W Rutherford St",
     "sg:city":"Landrum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337484567,
-    "wof:lastmodified":1449027693,
+    "wof:lastmodified":1467082293,
     "wof:name":"Landrum Drug Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.196109,35.168554,-82.196109,35.168554],
-  "geometry": {"coordinates":[-82.196109,35.168554],"type":"Point"}
+  "bbox": [
+    -82.196109,
+    35.168554,
+    -82.196109,
+    35.168554
+],
+  "geometry": {"coordinates":[-82.19610900000001,35.168554],"type":"Point"}
 }

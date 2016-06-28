@@ -2,13 +2,14 @@
   "id": 354195125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.781962,33.832519,-81.781962,33.832519",
     "geom:latitude":33.832519,
     "geom:longitude":-81.781962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Singing Tree Ln",
     "sg:city":"Johnston",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":354195125,
-    "wof:lastmodified":1449067097,
+    "wof:lastmodified":1467082441,
     "wof:name":"Scott Furniture & Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [-81.781962,33.832519,-81.781962,33.832519],
-  "geometry": {"coordinates":[-81.781962,33.832519],"type":"Point"}
+  "bbox": [
+    -81.781962,
+    33.832519,
+    -81.781962,
+    33.832519
+],
+  "geometry": {"coordinates":[-81.78196199999999,33.832519],"type":"Point"}
 }

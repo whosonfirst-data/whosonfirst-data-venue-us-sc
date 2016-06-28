@@ -2,13 +2,14 @@
   "id": 370702995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.58721,32.961455,-80.58721,32.961455",
     "geom:latitude":32.961455,
     "geom:longitude":-80.58721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 Welch Creek Rd",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370702995,
-    "wof:lastmodified":1449030772,
+    "wof:lastmodified":1467082335,
     "wof:name":"Welch Creek Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.58721,32.961455,-80.58721,32.961455],
+  "bbox": [
+    -80.58721,
+    32.961455,
+    -80.58721,
+    32.961455
+],
   "geometry": {"coordinates":[-80.58721,32.961455],"type":"Point"}
 }

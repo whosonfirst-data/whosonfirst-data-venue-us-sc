@@ -2,13 +2,14 @@
   "id": 354138355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.792457,34.706331,-82.792457,34.706331",
     "geom:latitude":34.706331,
     "geom:longitude":-82.792457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Regency Dr",
     "sg:city":"Central",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354138355,
-    "wof:lastmodified":1449066392,
+    "wof:lastmodified":1467082425,
     "wof:name":"Heatherwood Apartments",
     "wof:parent_id":85824489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "complex"
     ]
 },
-  "bbox": [-82.792457,34.706331,-82.792457,34.706331],
+  "bbox": [
+    -82.792457,
+    34.706331,
+    -82.792457,
+    34.706331
+],
   "geometry": {"coordinates":[-82.792457,34.706331],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169742969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.750321,33.595145,-81.750321,33.595145",
     "geom:latitude":33.595145,
     "geom:longitude":-81.750321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Croft Mill Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169742969,
-    "wof:lastmodified":1449032897,
+    "wof:lastmodified":1467082377,
     "wof:name":"Croft Hill Siding & Windows",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.750321,33.595145,-81.750321,33.595145],
+  "bbox": [
+    -81.750321,
+    33.595145,
+    -81.750321,
+    33.595145
+],
   "geometry": {"coordinates":[-81.750321,33.595145],"type":"Point"}
 }

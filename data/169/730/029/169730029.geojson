@@ -2,13 +2,14 @@
   "id": 169730029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.337321,33.907704,-80.337321,33.907704",
     "geom:latitude":33.907704,
     "geom:longitude":-80.337321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 S Lafayette Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169730029,
-    "wof:lastmodified":1449035430,
+    "wof:lastmodified":1467082386,
     "wof:name":"Shorter's Used Cars",
     "wof:parent_id":85850119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.337321,33.907704,-80.337321,33.907704],
+  "bbox": [
+    -80.337321,
+    33.907704,
+    -80.337321,
+    33.907704
+],
   "geometry": {"coordinates":[-80.337321,33.907704],"type":"Point"}
 }

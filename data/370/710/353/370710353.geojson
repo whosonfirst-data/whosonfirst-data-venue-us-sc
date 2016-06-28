@@ -2,13 +2,14 @@
   "id": 370710353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.565976,33.994932,-79.565976,33.994932",
     "geom:latitude":33.994932,
     "geom:longitude":-79.565976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 River Rd",
     "sg:city":"Pamplico",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370710353,
-    "wof:lastmodified":1449029289,
+    "wof:lastmodified":1467082302,
     "wof:name":"Pamplico Pentecostal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.565976,33.994932,-79.565976,33.994932],
-  "geometry": {"coordinates":[-79.565976,33.994932],"type":"Point"}
+  "bbox": [
+    -79.565976,
+    33.994932,
+    -79.565976,
+    33.994932
+],
+  "geometry": {"coordinates":[-79.56597600000001,33.994932],"type":"Point"}
 }

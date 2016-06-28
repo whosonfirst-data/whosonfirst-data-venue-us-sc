@@ -2,13 +2,14 @@
   "id": 370597519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.814714,33.242236,-80.814714,33.242236",
     "geom:latitude":33.242236,
     "geom:longitude":-80.814714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 15 Mile Landing Rd",
     "sg:city":"Awendaw",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370597519,
-    "wof:lastmodified":1449032422,
+    "wof:lastmodified":1467082372,
     "wof:name":"St Benedict Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.814714,33.242236,-80.814714,33.242236],
+  "bbox": [
+    -80.814714,
+    33.242236,
+    -80.814714,
+    33.242236
+],
   "geometry": {"coordinates":[-80.814714,33.242236],"type":"Point"}
 }

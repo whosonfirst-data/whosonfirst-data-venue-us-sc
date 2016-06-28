@@ -2,13 +2,14 @@
   "id": 185698433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.468422,33.810078,-81.468422,33.810078",
     "geom:latitude":33.810078,
     "geom:longitude":-81.468422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"361 Palomino Rd",
     "sg:city":"Batesburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185698433,
-    "wof:lastmodified":1449008110,
+    "wof:lastmodified":1467082206,
     "wof:name":"Wild Life Art Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.468422,33.810078,-81.468422,33.810078],
+  "bbox": [
+    -81.468422,
+    33.810078,
+    -81.468422,
+    33.810078
+],
   "geometry": {"coordinates":[-81.468422,33.810078],"type":"Point"}
 }

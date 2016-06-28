@@ -2,13 +2,14 @@
   "id": 186062903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.106976,33.991977,-81.106976,33.991977",
     "geom:latitude":33.991977,
     "geom:longitude":-81.106976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 Chris Dr",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186062903,
-    "wof:lastmodified":1449052835,
+    "wof:lastmodified":1467082411,
     "wof:name":"Storage Technology Corp",
     "wof:parent_id":85857097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "computer"
     ]
 },
-  "bbox": [-81.106976,33.991977,-81.106976,33.991977],
+  "bbox": [
+    -81.106976,
+    33.991977,
+    -81.106976,
+    33.991977
+],
   "geometry": {"coordinates":[-81.106976,33.991977],"type":"Point"}
 }

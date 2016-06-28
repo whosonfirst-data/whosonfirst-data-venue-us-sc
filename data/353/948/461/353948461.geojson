@@ -2,13 +2,14 @@
   "id": 353948461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.33572,34.856527,-82.33572,34.856527",
     "geom:latitude":34.856527,
     "geom:longitude":-82.33572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 W Orchard Park Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353948461,
-    "wof:lastmodified":1449020296,
+    "wof:lastmodified":1467082251,
     "wof:name":"Brasier Polk Cleaners",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-82.33572,34.856527,-82.33572,34.856527],
-  "geometry": {"coordinates":[-82.33572,34.856527],"type":"Point"}
+  "bbox": [
+    -82.33572,
+    34.856527,
+    -82.33572,
+    34.856527
+],
+  "geometry": {"coordinates":[-82.33571999999999,34.856527],"type":"Point"}
 }

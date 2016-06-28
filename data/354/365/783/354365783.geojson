@@ -2,13 +2,14 @@
   "id": 354365783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.767373,34.186957,-79.767373,34.186957",
     "geom:latitude":34.186957,
     "geom:longitude":-79.767373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 S Irby St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354365783,
-    "wof:lastmodified":1449066204,
+    "wof:lastmodified":1467082421,
     "wof:name":"Snider Tire Inc",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-79.767373,34.186957,-79.767373,34.186957],
-  "geometry": {"coordinates":[-79.767373,34.186957],"type":"Point"}
+  "bbox": [
+    -79.767373,
+    34.186957,
+    -79.767373,
+    34.186957
+],
+  "geometry": {"coordinates":[-79.76737300000001,34.186957],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370821199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.754911,34.153881,-79.754911,34.153881",
     "geom:latitude":34.153881,
     "geom:longitude":-79.754911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 S Rosemary Ave",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370821199,
-    "wof:lastmodified":1449030909,
+    "wof:lastmodified":1467082338,
     "wof:name":"S & S Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.754911,34.153881,-79.754911,34.153881],
-  "geometry": {"coordinates":[-79.754911,34.153881],"type":"Point"}
+  "bbox": [
+    -79.754911,
+    34.153881,
+    -79.754911,
+    34.153881
+],
+  "geometry": {"coordinates":[-79.75491100000001,34.153881],"type":"Point"}
 }

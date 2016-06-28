@@ -2,13 +2,14 @@
   "id": 370307719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.908452,34.692652,-79.908452,34.692652",
     "geom:latitude":34.692652,
     "geom:longitude":-79.908452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Chesterfield Hwy",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370307719,
-    "wof:lastmodified":1449029971,
+    "wof:lastmodified":1467082318,
     "wof:name":"Cheraw Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-79.908452,34.692652,-79.908452,34.692652],
+  "bbox": [
+    -79.908452,
+    34.692652,
+    -79.908452,
+    34.692652
+],
   "geometry": {"coordinates":[-79.908452,34.692652],"type":"Point"}
 }

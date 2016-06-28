@@ -2,13 +2,14 @@
   "id": 169749221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.050785,32.843176,-80.050785,32.843176",
     "geom:latitude":32.843176,
     "geom:longitude":-80.050785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2358 Treescape Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169749221,
-    "wof:lastmodified":1449033622,
+    "wof:lastmodified":1467082380,
     "wof:name":"SSWM Inc",
     "wof:parent_id":85820043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.050785,32.843176,-80.050785,32.843176],
+  "bbox": [
+    -80.050785,
+    32.843176,
+    -80.050785,
+    32.843176
+],
   "geometry": {"coordinates":[-80.050785,32.843176],"type":"Point"}
 }

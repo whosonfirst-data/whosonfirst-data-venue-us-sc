@@ -2,13 +2,14 @@
   "id": 353925237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.046649,32.918349,-80.046649,32.918349",
     "geom:latitude":32.918349,
     "geom:longitude":-80.046649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6808 Ward Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353925237,
-    "wof:lastmodified":1449018280,
+    "wof:lastmodified":1467082210,
     "wof:name":"Northwoods Auto Paint & Body",
     "wof:parent_id":85825199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-80.046649,32.918349,-80.046649,32.918349],
+  "bbox": [
+    -80.046649,
+    32.918349,
+    -80.046649,
+    32.918349
+],
   "geometry": {"coordinates":[-80.046649,32.918349],"type":"Point"}
 }

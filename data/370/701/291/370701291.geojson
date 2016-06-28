@@ -2,13 +2,14 @@
   "id": 370701291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.892039,33.49689,-81.892039,33.49689",
     "geom:latitude":33.49689,
     "geom:longitude":-81.892039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Augusta Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370701291,
-    "wof:lastmodified":1449031771,
+    "wof:lastmodified":1467082358,
     "wof:name":"William R III Od Kennedy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.892039,33.49689,-81.892039,33.49689],
+  "bbox": [
+    -81.892039,
+    33.49689,
+    -81.892039,
+    33.49689
+],
   "geometry": {"coordinates":[-81.892039,33.49689],"type":"Point"}
 }

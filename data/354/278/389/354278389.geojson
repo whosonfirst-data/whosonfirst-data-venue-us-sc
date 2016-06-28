@@ -2,13 +2,14 @@
   "id": 354278389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.854316,32.802928,-79.854316,32.802928",
     "geom:latitude":32.802928,
     "geom:longitude":-79.854316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1188 Pleasant Oaks Dr",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354278389,
-    "wof:lastmodified":1449066883,
+    "wof:lastmodified":1467082436,
     "wof:name":"No Place Like Home Pet Sitting",
     "wof:parent_id":85824823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-79.854316,32.802928,-79.854316,32.802928],
+  "bbox": [
+    -79.854316,
+    32.802928,
+    -79.854316,
+    32.802928
+],
   "geometry": {"coordinates":[-79.854316,32.802928],"type":"Point"}
 }

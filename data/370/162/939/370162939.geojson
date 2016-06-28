@@ -2,13 +2,14 @@
   "id": 370162939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.593904,34.828195,-82.593904,34.828195",
     "geom:latitude":34.828195,
     "geom:longitude":-82.593904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 E 2nd Ave",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370162939,
-    "wof:lastmodified":1449031972,
+    "wof:lastmodified":1467082362,
     "wof:name":"East End Elementary School",
     "wof:parent_id":85832619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.593904,34.828195,-82.593904,34.828195],
-  "geometry": {"coordinates":[-82.593904,34.828195],"type":"Point"}
+  "bbox": [
+    -82.593904,
+    34.828195,
+    -82.593904,
+    34.828195
+],
+  "geometry": {"coordinates":[-82.59390399999999,34.828195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370588151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.300271,34.898796,-82.300271,34.898796",
     "geom:latitude":34.898796,
     "geom:longitude":-82.300271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Gray Fox Sq",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370588151,
-    "wof:lastmodified":1449031809,
+    "wof:lastmodified":1467082359,
     "wof:name":"Polymer Services LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.300271,34.898796,-82.300271,34.898796],
+  "bbox": [
+    -82.300271,
+    34.898796,
+    -82.300271,
+    34.898796
+],
   "geometry": {"coordinates":[-82.300271,34.898796],"type":"Point"}
 }

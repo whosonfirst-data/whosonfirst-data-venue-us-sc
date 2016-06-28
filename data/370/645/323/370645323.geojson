@@ -2,13 +2,14 @@
   "id": 370645323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.255064,34.199784,-79.255064,34.199784",
     "geom:latitude":34.199784,
     "geom:longitude":-79.255064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 W McIntyre St",
     "sg:city":"Mullins",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370645323,
-    "wof:lastmodified":1449029425,
+    "wof:lastmodified":1467082305,
     "wof:name":"First Choice Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.255064,34.199784,-79.255064,34.199784],
+  "bbox": [
+    -79.255064,
+    34.199784,
+    -79.255064,
+    34.199784
+],
   "geometry": {"coordinates":[-79.255064,34.199784],"type":"Point"}
 }

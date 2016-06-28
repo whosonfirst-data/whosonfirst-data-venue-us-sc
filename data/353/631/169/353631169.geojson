@@ -2,13 +2,14 @@
   "id": 353631169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.066425,34.76492,-83.066425,34.76492",
     "geom:latitude":34.76492,
     "geom:longitude":-83.066425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Browns Square Dr",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353631169,
-    "wof:lastmodified":1449019049,
+    "wof:lastmodified":1467082226,
     "wof:name":"Oconee Hertiage Ctr",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-83.066425,34.76492,-83.066425,34.76492],
+  "bbox": [
+    -83.066425,
+    34.76492,
+    -83.066425,
+    34.76492
+],
   "geometry": {"coordinates":[-83.066425,34.76492],"type":"Point"}
 }

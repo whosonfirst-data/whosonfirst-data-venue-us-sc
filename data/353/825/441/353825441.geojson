@@ -2,13 +2,14 @@
   "id": 353825441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.801855,32.123397,-80.801855,32.123397",
     "geom:latitude":32.123397,
     "geom:longitude":-80.801855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Palmetto Pl",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353825441,
-    "wof:lastmodified":1449018336,
+    "wof:lastmodified":1467082211,
     "wof:name":"David Lipscomb Building LLC",
     "wof:parent_id":85847515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-80.801855,32.123397,-80.801855,32.123397],
+  "bbox": [
+    -80.801855,
+    32.123397,
+    -80.801855,
+    32.123397
+],
   "geometry": {"coordinates":[-80.801855,32.123397],"type":"Point"}
 }

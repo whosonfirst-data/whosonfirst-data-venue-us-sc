@@ -2,13 +2,14 @@
   "id": 354328913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.378357,34.178,-82.378357,34.178",
     "geom:latitude":34.178,
     "geom:longitude":-82.378357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Court Sq",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354328913,
-    "wof:lastmodified":1449066944,
+    "wof:lastmodified":1467082437,
     "wof:name":"Bra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "operative"
     ]
 },
-  "bbox": [-82.378357,34.178,-82.378357,34.178],
-  "geometry": {"coordinates":[-82.378357,34.178],"type":"Point"}
+  "bbox": [
+    -82.378357,
+    34.178,
+    -82.378357,
+    34.178
+],
+  "geometry": {"coordinates":[-82.37835699999999,34.178],"type":"Point"}
 }

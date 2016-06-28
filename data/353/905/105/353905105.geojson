@@ -2,13 +2,14 @@
   "id": 353905105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.099848,34.744956,-83.099848,34.744956",
     "geom:latitude":34.744956,
     "geom:longitude":-83.099848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Rock Crusher Rd",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353905105,
-    "wof:lastmodified":1449019267,
+    "wof:lastmodified":1467082230,
     "wof:name":"Jones Mobile Home Transpo",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-83.099848,34.744956,-83.099848,34.744956],
-  "geometry": {"coordinates":[-83.099848,34.744956],"type":"Point"}
+  "bbox": [
+    -83.099848,
+    34.744956,
+    -83.099848,
+    34.744956
+],
+  "geometry": {"coordinates":[-83.09984799999999,34.744956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186268229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.041402,34.448346,-80.041402,34.448346",
     "geom:latitude":34.448346,
     "geom:longitude":-80.041402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1606 Web Dr",
     "sg:city":"Hartsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186268229,
-    "wof:lastmodified":1449051906,
+    "wof:lastmodified":1467082402,
     "wof:name":"Rob's Towing",
     "wof:parent_id":85825479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.041402,34.448346,-80.041402,34.448346],
-  "geometry": {"coordinates":[-80.041402,34.448346],"type":"Point"}
+  "bbox": [
+    -80.041402,
+    34.448346,
+    -80.041402,
+    34.448346
+],
+  "geometry": {"coordinates":[-80.04140200000001,34.448346],"type":"Point"}
 }

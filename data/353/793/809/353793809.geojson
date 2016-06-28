@@ -2,13 +2,14 @@
   "id": 353793809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.894533,34.961224,-81.894533,34.961224",
     "geom:latitude":34.961224,
     "geom:longitude":-81.894533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"191 Fernwood Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353793809,
-    "wof:lastmodified":1449019668,
+    "wof:lastmodified":1467082238,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.894533,34.961224,-81.894533,34.961224],
+  "bbox": [
+    -81.894533,
+    34.961224,
+    -81.894533,
+    34.961224
+],
   "geometry": {"coordinates":[-81.894533,34.961224],"type":"Point"}
 }

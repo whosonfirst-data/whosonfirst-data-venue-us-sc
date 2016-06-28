@@ -2,13 +2,14 @@
   "id": 354080359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.040293,34.974438,-81.040293,34.974438",
     "geom:latitude":34.974438,
     "geom:longitude":-81.040293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Plantation Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354080359,
-    "wof:lastmodified":1449067636,
+    "wof:lastmodified":1467082453,
     "wof:name":"Sturgis Builders",
     "wof:parent_id":85806757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.040293,34.974438,-81.040293,34.974438],
-  "geometry": {"coordinates":[-81.040293,34.974438],"type":"Point"}
+  "bbox": [
+    -81.040293,
+    34.974438,
+    -81.040293,
+    34.974438
+],
+  "geometry": {"coordinates":[-81.04029300000001,34.974438],"type":"Point"}
 }

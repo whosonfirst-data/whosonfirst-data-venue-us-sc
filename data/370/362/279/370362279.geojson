@@ -2,13 +2,14 @@
   "id": 370362279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.029538,34.908773,-81.029538,34.908773",
     "geom:latitude":34.908773,
     "geom:longitude":-81.029538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Saluda St",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370362279,
-    "wof:lastmodified":1449031260,
+    "wof:lastmodified":1467082346,
     "wof:name":"Little Giant Food Store",
     "wof:parent_id":85851537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-81.029538,34.908773,-81.029538,34.908773],
+  "bbox": [
+    -81.029538,
+    34.908773,
+    -81.029538,
+    34.908773
+],
   "geometry": {"coordinates":[-81.029538,34.908773],"type":"Point"}
 }

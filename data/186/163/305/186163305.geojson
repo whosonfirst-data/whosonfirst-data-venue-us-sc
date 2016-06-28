@@ -2,13 +2,14 @@
   "id": 186163305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.95673,32.805256,-79.95673,32.805256",
     "geom:latitude":32.805256,
     "geom:longitude":-79.95673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 12th Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186163305,
-    "wof:lastmodified":1449052976,
+    "wof:lastmodified":1467082413,
     "wof:name":"Julius Ascue Artistic Wood Flr",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [-79.95673,32.805256,-79.95673,32.805256],
-  "geometry": {"coordinates":[-79.95673,32.805256],"type":"Point"}
+  "bbox": [
+    -79.95673,
+    32.805256,
+    -79.95673,
+    32.805256
+],
+  "geometry": {"coordinates":[-79.95672999999999,32.805256],"type":"Point"}
 }

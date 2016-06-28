@@ -2,13 +2,14 @@
   "id": 370751015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.257844,33.921862,-81.257844,33.921862",
     "geom:latitude":33.921862,
     "geom:longitude":-81.257844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Freida Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370751015,
-    "wof:lastmodified":1449029269,
+    "wof:lastmodified":1467082302,
     "wof:name":"T & T Hauling",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.257844,33.921862,-81.257844,33.921862],
-  "geometry": {"coordinates":[-81.257844,33.921862],"type":"Point"}
+  "bbox": [
+    -81.257844,
+    33.921862,
+    -81.257844,
+    33.921862
+],
+  "geometry": {"coordinates":[-81.25784400000001,33.921862],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370789973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.035534,33.639849,-79.035534,33.639849",
     "geom:latitude":33.639849,
     "geom:longitude":-79.035534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9104 Baywood Cir",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370789973,
-    "wof:lastmodified":1449030624,
+    "wof:lastmodified":1467082332,
     "wof:name":"Mitchells Carpet Service",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.035534,33.639849,-79.035534,33.639849],
+  "bbox": [
+    -79.035534,
+    33.639849,
+    -79.035534,
+    33.639849
+],
   "geometry": {"coordinates":[-79.035534,33.639849],"type":"Point"}
 }

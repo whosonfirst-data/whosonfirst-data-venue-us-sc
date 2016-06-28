@@ -2,13 +2,14 @@
   "id": 370170061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.987884,32.791562,-79.987884,32.791562",
     "geom:latitude":32.791562,
     "geom:longitude":-79.987884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"840 Saint Andrews Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370170061,
-    "wof:lastmodified":1449029406,
+    "wof:lastmodified":1467082305,
     "wof:name":"Cross Garden Ctr",
     "wof:parent_id":85835201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-79.987884,32.791562,-79.987884,32.791562],
-  "geometry": {"coordinates":[-79.987884,32.791562],"type":"Point"}
+  "bbox": [
+    -79.987884,
+    32.791562,
+    -79.987884,
+    32.791562
+],
+  "geometry": {"coordinates":[-79.98788399999999,32.791562],"type":"Point"}
 }

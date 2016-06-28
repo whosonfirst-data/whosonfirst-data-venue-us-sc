@@ -2,13 +2,14 @@
   "id": 354012107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.741847,34.228953,-79.741847,34.228953",
     "geom:latitude":34.228953,
     "geom:longitude":-79.741847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"635 E Ashby Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354012107,
-    "wof:lastmodified":1449067500,
+    "wof:lastmodified":1467082450,
     "wof:name":"Quinby BP Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-79.741847,34.228953,-79.741847,34.228953],
-  "geometry": {"coordinates":[-79.741847,34.228953],"type":"Point"}
+  "bbox": [
+    -79.741847,
+    34.228953,
+    -79.741847,
+    34.228953
+],
+  "geometry": {"coordinates":[-79.74184700000001,34.228953],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186028993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.966197,33.979107,-80.966197,33.979107",
     "geom:latitude":33.979107,
     "geom:longitude":-80.966197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Old Woodlands Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186028993,
-    "wof:lastmodified":1449051833,
+    "wof:lastmodified":1467082401,
     "wof:name":"Brown & Brown Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.966197,33.979107,-80.966197,33.979107],
-  "geometry": {"coordinates":[-80.966197,33.979107],"type":"Point"}
+  "bbox": [
+    -80.966197,
+    33.979107,
+    -80.966197,
+    33.979107
+],
+  "geometry": {"coordinates":[-80.96619699999999,33.979107],"type":"Point"}
 }

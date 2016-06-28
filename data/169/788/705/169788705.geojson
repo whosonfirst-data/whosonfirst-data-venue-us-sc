@@ -2,13 +2,14 @@
   "id": 169788705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.670755,32.430809,-80.670755,32.430809",
     "geom:latitude":32.430809,
     "geom:longitude":-80.670755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Bay St",
     "sg:city":"Port Royal",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169788705,
-    "wof:lastmodified":1449034385,
+    "wof:lastmodified":1467082383,
     "wof:name":"South Carolina Natl Real Est",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.670755,32.430809,-80.670755,32.430809],
+  "bbox": [
+    -80.670755,
+    32.430809,
+    -80.670755,
+    32.430809
+],
   "geometry": {"coordinates":[-80.670755,32.430809],"type":"Point"}
 }

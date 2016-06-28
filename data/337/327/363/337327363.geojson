@@ -2,13 +2,14 @@
   "id": 337327363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.625202,32.978423,-80.625202,32.978423",
     "geom:latitude":32.978423,
     "geom:longitude":-80.625202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"289 Gunter St",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337327363,
-    "wof:lastmodified":1449026999,
+    "wof:lastmodified":1467082267,
     "wof:name":"Off The Top",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.625202,32.978423,-80.625202,32.978423],
+  "bbox": [
+    -80.625202,
+    32.978423,
+    -80.625202,
+    32.978423
+],
   "geometry": {"coordinates":[-80.625202,32.978423],"type":"Point"}
 }

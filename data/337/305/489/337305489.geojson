@@ -2,13 +2,14 @@
   "id": 337305489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.495353,35.045882,-82.495353,35.045882",
     "geom:latitude":35.045882,
     "geom:longitude":-82.495353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Woodland Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337305489,
-    "wof:lastmodified":1449027048,
+    "wof:lastmodified":1467082269,
     "wof:name":"Tree Service Unlimited",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-82.495353,35.045882,-82.495353,35.045882],
-  "geometry": {"coordinates":[-82.495353,35.045882],"type":"Point"}
+  "bbox": [
+    -82.495353,
+    35.045882,
+    -82.495353,
+    35.045882
+],
+  "geometry": {"coordinates":[-82.49535299999999,35.045882],"type":"Point"}
 }

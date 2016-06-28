@@ -2,13 +2,14 @@
   "id": 353804029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.391438,34.184554,-82.391438,34.184554",
     "geom:latitude":34.184554,
     "geom:longitude":-82.391438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 N Main St",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353804029,
-    "wof:lastmodified":1449020018,
+    "wof:lastmodified":1467082246,
     "wof:name":"Pete's Pups",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "breeder"
     ]
 },
-  "bbox": [-82.391438,34.184554,-82.391438,34.184554],
-  "geometry": {"coordinates":[-82.391438,34.184554],"type":"Point"}
+  "bbox": [
+    -82.391438,
+    34.184554,
+    -82.391438,
+    34.184554
+],
+  "geometry": {"coordinates":[-82.39143799999999,34.184554],"type":"Point"}
 }

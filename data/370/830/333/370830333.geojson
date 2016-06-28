@@ -2,13 +2,14 @@
   "id": 370830333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.929429,34.25385,-81.929429,34.25385",
     "geom:latitude":34.25385,
     "geom:longitude":-81.929429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14535 State Hwy 39",
     "sg:city":"Cross Hill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370830333,
-    "wof:lastmodified":1449029814,
+    "wof:lastmodified":1467082314,
     "wof:name":"Accra Built Cabinet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-81.929429,34.25385,-81.929429,34.25385],
+  "bbox": [
+    -81.929429,
+    34.25385,
+    -81.929429,
+    34.25385
+],
   "geometry": {"coordinates":[-81.929429,34.25385],"type":"Point"}
 }

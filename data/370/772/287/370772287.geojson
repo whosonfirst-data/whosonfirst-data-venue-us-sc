@@ -2,13 +2,14 @@
   "id": 370772287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.228708,34.696413,-81.228708,34.696413",
     "geom:latitude":34.696413,
     "geom:longitude":-81.228708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 W End Rd",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370772287,
-    "wof:lastmodified":1449030613,
+    "wof:lastmodified":1467082332,
     "wof:name":"Weld-Tech Inc",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-81.228708,34.696413,-81.228708,34.696413],
+  "bbox": [
+    -81.228708,
+    34.696413,
+    -81.228708,
+    34.696413
+],
   "geometry": {"coordinates":[-81.228708,34.696413],"type":"Point"}
 }

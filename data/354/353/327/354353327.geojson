@@ -2,13 +2,14 @@
   "id": 354353327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.985517,34.691941,-82.985517,34.691941",
     "geom:latitude":34.691941,
     "geom:longitude":-82.985517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11071 N Radio Station Rd",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354353327,
-    "wof:lastmodified":1449066387,
+    "wof:lastmodified":1467082425,
     "wof:name":"Print It",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-82.985517,34.691941,-82.985517,34.691941],
+  "bbox": [
+    -82.985517,
+    34.691941,
+    -82.985517,
+    34.691941
+],
   "geometry": {"coordinates":[-82.985517,34.691941],"type":"Point"}
 }

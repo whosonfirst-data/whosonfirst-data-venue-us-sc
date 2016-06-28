@@ -2,13 +2,14 @@
   "id": 370206431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.381394,34.176392,-82.381394,34.176392",
     "geom:latitude":34.176392,
     "geom:longitude":-82.381394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Trinity St",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370206431,
-    "wof:lastmodified":1449031375,
+    "wof:lastmodified":1467082349,
     "wof:name":"Taste Of Grape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wine"
     ]
 },
-  "bbox": [-82.381394,34.176392,-82.381394,34.176392],
+  "bbox": [
+    -82.381394,
+    34.176392,
+    -82.381394,
+    34.176392
+],
   "geometry": {"coordinates":[-82.381394,34.176392],"type":"Point"}
 }

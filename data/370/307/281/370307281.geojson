@@ -2,13 +2,14 @@
   "id": 370307281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.030152,33.984701,-81.030152,33.984701",
     "geom:latitude":33.984701,
     "geom:longitude":-81.030152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 Dreyfus Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370307281,
-    "wof:lastmodified":1449029973,
+    "wof:lastmodified":1467082318,
     "wof:name":"Dreyfuss Mini Storage",
     "wof:parent_id":85839583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "storage"
     ]
 },
-  "bbox": [-81.030152,33.984701,-81.030152,33.984701],
+  "bbox": [
+    -81.030152,
+    33.984701,
+    -81.030152,
+    33.984701
+],
   "geometry": {"coordinates":[-81.030152,33.984701],"type":"Point"}
 }

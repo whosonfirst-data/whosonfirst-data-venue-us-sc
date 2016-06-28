@@ -2,13 +2,14 @@
   "id": 337301029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.227162,35.111167,-81.227162,35.111167",
     "geom:latitude":35.111167,
     "geom:longitude":-81.227162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Main St W",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337301029,
-    "wof:lastmodified":1449027137,
+    "wof:lastmodified":1467082272,
     "wof:name":"Stewart's Beauty Salon",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.227162,35.111167,-81.227162,35.111167],
-  "geometry": {"coordinates":[-81.227162,35.111167],"type":"Point"}
+  "bbox": [
+    -81.227162,
+    35.111167,
+    -81.227162,
+    35.111167
+],
+  "geometry": {"coordinates":[-81.22716200000001,35.111167],"type":"Point"}
 }

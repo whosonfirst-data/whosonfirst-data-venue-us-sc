@@ -2,13 +2,14 @@
   "id": 337282513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.748684,33.856863,-80.748684,33.856863",
     "geom:latitude":33.856863,
     "geom:longitude":-80.748684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"733 Congaree Church Rd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337282513,
-    "wof:lastmodified":1449027464,
+    "wof:lastmodified":1467082285,
     "wof:name":"Red Hill Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.748684,33.856863,-80.748684,33.856863],
+  "bbox": [
+    -80.748684,
+    33.856863,
+    -80.748684,
+    33.856863
+],
   "geometry": {"coordinates":[-80.748684,33.856863],"type":"Point"}
 }

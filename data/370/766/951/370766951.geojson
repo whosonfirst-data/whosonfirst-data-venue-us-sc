@@ -2,13 +2,14 @@
   "id": 370766951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.901471,33.702724,-78.901471,33.702724",
     "geom:latitude":33.702724,
     "geom:longitude":-78.901471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 Stockholder Ave",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370766951,
-    "wof:lastmodified":1449029022,
+    "wof:lastmodified":1467082296,
     "wof:name":"Tidewater Wholesale Neon",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [-78.901471,33.702724,-78.901471,33.702724],
+  "bbox": [
+    -78.901471,
+    33.702724,
+    -78.901471,
+    33.702724
+],
   "geometry": {"coordinates":[-78.901471,33.702724],"type":"Point"}
 }

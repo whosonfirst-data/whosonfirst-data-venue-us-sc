@@ -2,13 +2,14 @@
   "id": 186085969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.114992,32.980685,-80.114992,32.980685",
     "geom:latitude":32.980685,
     "geom:longitude":-80.114992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9557 Hamburg Rd",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186085969,
-    "wof:lastmodified":1449051066,
+    "wof:lastmodified":1467082394,
     "wof:name":"House Of Bounce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-80.114992,32.980685,-80.114992,32.980685],
+  "bbox": [
+    -80.114992,
+    32.980685,
+    -80.114992,
+    32.980685
+],
   "geometry": {"coordinates":[-80.114992,32.980685],"type":"Point"}
 }

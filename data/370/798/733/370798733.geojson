@@ -2,13 +2,14 @@
   "id": 370798733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.175913,34.203202,-82.175913,34.203202",
     "geom:latitude":34.203202,
     "geom:longitude":-82.175913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Ellison Ave",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370798733,
-    "wof:lastmodified":1449029721,
+    "wof:lastmodified":1467082312,
     "wof:name":"Snead Builders Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.175913,34.203202,-82.175913,34.203202],
-  "geometry": {"coordinates":[-82.175913,34.203202],"type":"Point"}
+  "bbox": [
+    -82.175913,
+    34.203202,
+    -82.175913,
+    34.203202
+],
+  "geometry": {"coordinates":[-82.17591299999999,34.203202],"type":"Point"}
 }

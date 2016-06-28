@@ -2,13 +2,14 @@
   "id": 354005331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.847306,34.989781,-81.847306,34.989781",
     "geom:latitude":34.989781,
     "geom:longitude":-81.847306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Old Converse Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354005331,
-    "wof:lastmodified":1449067529,
+    "wof:lastmodified":1467082451,
     "wof:name":"Lytle's Lounge",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "beer"
     ]
 },
-  "bbox": [-81.847306,34.989781,-81.847306,34.989781],
+  "bbox": [
+    -81.847306,
+    34.989781,
+    -81.847306,
+    34.989781
+],
   "geometry": {"coordinates":[-81.847306,34.989781],"type":"Point"}
 }

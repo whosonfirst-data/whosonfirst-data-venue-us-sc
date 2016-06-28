@@ -2,13 +2,14 @@
   "id": 370299351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.251777,34.201854,-79.251777,34.201854",
     "geom:latitude":34.201854,
     "geom:longitude":-79.251777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E Lowman St",
     "sg:city":"Mullins",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370299351,
-    "wof:lastmodified":1449029958,
+    "wof:lastmodified":1467082317,
     "wof:name":"New Images",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.251777,34.201854,-79.251777,34.201854],
+  "bbox": [
+    -79.251777,
+    34.201854,
+    -79.251777,
+    34.201854
+],
   "geometry": {"coordinates":[-79.251777,34.201854],"type":"Point"}
 }

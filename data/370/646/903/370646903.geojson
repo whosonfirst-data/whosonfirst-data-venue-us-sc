@@ -2,13 +2,14 @@
   "id": 370646903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.140148,33.456479,-79.140148,33.456479",
     "geom:latitude":33.456479,
     "geom:longitude":-79.140148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Watersedge Dr",
     "sg:city":"Pawleys Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370646903,
-    "wof:lastmodified":1449028983,
+    "wof:lastmodified":1467082296,
     "wof:name":"Lavay Properties",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.140148,33.456479,-79.140148,33.456479],
+  "bbox": [
+    -79.140148,
+    33.456479,
+    -79.140148,
+    33.456479
+],
   "geometry": {"coordinates":[-79.140148,33.456479],"type":"Point"}
 }

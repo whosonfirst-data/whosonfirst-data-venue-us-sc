@@ -2,13 +2,14 @@
   "id": 354353205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.769567,34.717735,-80.769567,34.717735",
     "geom:latitude":34.717735,
     "geom:longitude":-80.769567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W Arch St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354353205,
-    "wof:lastmodified":1449066389,
+    "wof:lastmodified":1467082425,
     "wof:name":"Lancaster Building & Grounds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-80.769567,34.717735,-80.769567,34.717735],
+  "bbox": [
+    -80.769567,
+    34.717735,
+    -80.769567,
+    34.717735
+],
   "geometry": {"coordinates":[-80.769567,34.717735],"type":"Point"}
 }

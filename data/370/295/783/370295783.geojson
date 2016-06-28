@@ -2,13 +2,14 @@
   "id": 370295783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.900502,33.688113,-78.900502,33.688113",
     "geom:latitude":33.688113,
     "geom:longitude":-78.900502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 5th Ave S",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370295783,
-    "wof:lastmodified":1449030458,
+    "wof:lastmodified":1467082329,
     "wof:name":"Myrtle Beach KOA Campground",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-78.900502,33.688113,-78.900502,33.688113],
+  "bbox": [
+    -78.900502,
+    33.688113,
+    -78.900502,
+    33.688113
+],
   "geometry": {"coordinates":[-78.900502,33.688113],"type":"Point"}
 }

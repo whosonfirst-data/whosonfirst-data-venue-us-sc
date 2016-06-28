@@ -2,13 +2,14 @@
   "id": 186007515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.467615,32.409419,-80.467615,32.409419",
     "geom:latitude":32.409419,
     "geom:longitude":-80.467615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1948 Sea Island Pkwy",
     "sg:city":"St Helena Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186007515,
-    "wof:lastmodified":1449052549,
+    "wof:lastmodified":1467082408,
     "wof:name":"Gay Fish Co",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-80.467615,32.409419,-80.467615,32.409419],
+  "bbox": [
+    -80.467615,
+    32.409419,
+    -80.467615,
+    32.409419
+],
   "geometry": {"coordinates":[-80.467615,32.409419],"type":"Point"}
 }

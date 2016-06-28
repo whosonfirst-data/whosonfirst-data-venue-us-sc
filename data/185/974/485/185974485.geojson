@@ -2,13 +2,14 @@
   "id": 185974485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.970227,33.836635,-78.970227,33.836635",
     "geom:latitude":33.836635,
     "geom:longitude":-78.970227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 Hazel Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185974485,
-    "wof:lastmodified":1449008011,
+    "wof:lastmodified":1467082204,
     "wof:name":"Rivertwon Pest Control",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.970227,33.836635,-78.970227,33.836635],
-  "geometry": {"coordinates":[-78.970227,33.836635],"type":"Point"}
+  "bbox": [
+    -78.970227,
+    33.836635,
+    -78.970227,
+    33.836635
+],
+  "geometry": {"coordinates":[-78.97022699999999,33.836635],"type":"Point"}
 }

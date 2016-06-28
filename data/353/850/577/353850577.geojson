@@ -2,13 +2,14 @@
   "id": 353850577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.034582,32.959495,-80.034582,32.959495",
     "geom:latitude":32.959495,
     "geom:longitude":-80.034582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Sorrento Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353850577,
-    "wof:lastmodified":1449019747,
+    "wof:lastmodified":1467082240,
     "wof:name":"Jewelry By Jerome Inc",
     "wof:parent_id":85839931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.034582,32.959495,-80.034582,32.959495],
+  "bbox": [
+    -80.034582,
+    32.959495,
+    -80.034582,
+    32.959495
+],
   "geometry": {"coordinates":[-80.034582,32.959495],"type":"Point"}
 }

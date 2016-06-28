@@ -2,13 +2,14 @@
   "id": 186027589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.852347,34.164745,-79.852347,34.164745",
     "geom:latitude":34.164745,
     "geom:longitude":-79.852347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3416 W Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186027589,
-    "wof:lastmodified":1449050908,
+    "wof:lastmodified":1467082393,
     "wof:name":"Broachs Mobile Home Court",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "site"
     ]
 },
-  "bbox": [-79.852347,34.164745,-79.852347,34.164745],
-  "geometry": {"coordinates":[-79.852347,34.164745],"type":"Point"}
+  "bbox": [
+    -79.852347,
+    34.164745,
+    -79.852347,
+    34.164745
+],
+  "geometry": {"coordinates":[-79.85234699999999,34.164745],"type":"Point"}
 }

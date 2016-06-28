@@ -2,13 +2,14 @@
   "id": 353536783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.636167,32.785653,-80.636167,32.785653",
     "geom:latitude":32.785653,
     "geom:longitude":-80.636167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3547 Possum Corner Rd",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353536783,
-    "wof:lastmodified":1449019791,
+    "wof:lastmodified":1467082241,
     "wof:name":"Green Pond Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-80.636167,32.785653,-80.636167,32.785653],
+  "bbox": [
+    -80.636167,
+    32.785653,
+    -80.636167,
+    32.785653
+],
   "geometry": {"coordinates":[-80.636167,32.785653],"type":"Point"}
 }

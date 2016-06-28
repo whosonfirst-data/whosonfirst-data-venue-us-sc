@@ -2,13 +2,14 @@
   "id": 354235277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.09816,34.665932,-83.09816,34.665932",
     "geom:latitude":34.665932,
     "geom:longitude":-83.09816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Windsor St",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354235277,
-    "wof:lastmodified":1449066227,
+    "wof:lastmodified":1467082421,
     "wof:name":"Oconee Federal Savings & Loan",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.09816,34.665932,-83.09816,34.665932],
-  "geometry": {"coordinates":[-83.09816,34.665932],"type":"Point"}
+  "bbox": [
+    -83.09816,
+    34.665932,
+    -83.09816,
+    34.665932
+],
+  "geometry": {"coordinates":[-83.09815999999999,34.665932],"type":"Point"}
 }

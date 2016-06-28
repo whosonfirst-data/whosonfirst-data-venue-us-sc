@@ -2,13 +2,14 @@
   "id": 169813051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.835141,34.684592,-82.835141,34.684592",
     "geom:latitude":34.684592,
     "geom:longitude":-82.835141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Finley St",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169813051,
-    "wof:lastmodified":1449033544,
+    "wof:lastmodified":1467082380,
     "wof:name":"Clemson Seventh Day Adventist",
     "wof:parent_id":85808859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.835141,34.684592,-82.835141,34.684592],
-  "geometry": {"coordinates":[-82.835141,34.684592],"type":"Point"}
+  "bbox": [
+    -82.835141,
+    34.684592,
+    -82.835141,
+    34.684592
+],
+  "geometry": {"coordinates":[-82.83514099999999,34.684592],"type":"Point"}
 }

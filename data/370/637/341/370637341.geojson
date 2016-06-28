@@ -2,13 +2,14 @@
   "id": 370637341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.257285,34.587571,-82.257285,34.587571",
     "geom:latitude":34.587571,
     "geom:longitude":-82.257285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Weathers Dr",
     "sg:city":"Fountain Inn",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370637341,
-    "wof:lastmodified":1449029070,
+    "wof:lastmodified":1467082298,
     "wof:name":"Barry Weathers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-82.257285,34.587571,-82.257285,34.587571],
+  "bbox": [
+    -82.257285,
+    34.587571,
+    -82.257285,
+    34.587571
+],
   "geometry": {"coordinates":[-82.257285,34.587571],"type":"Point"}
 }

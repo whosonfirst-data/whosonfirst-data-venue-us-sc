@@ -2,13 +2,14 @@
   "id": 185955549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.226255,34.904094,-82.226255,34.904094",
     "geom:latitude":34.904094,
     "geom:longitude":-82.226255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1423 S Buncombe Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185955549,
-    "wof:lastmodified":1449007704,
+    "wof:lastmodified":1467082199,
     "wof:name":"Oscar G Carlstedt Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "florist"
     ]
 },
-  "bbox": [-82.226255,34.904094,-82.226255,34.904094],
-  "geometry": {"coordinates":[-82.226255,34.904094],"type":"Point"}
+  "bbox": [
+    -82.226255,
+    34.904094,
+    -82.226255,
+    34.904094
+],
+  "geometry": {"coordinates":[-82.22625499999999,34.904094],"type":"Point"}
 }

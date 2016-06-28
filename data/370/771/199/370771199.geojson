@@ -2,13 +2,14 @@
   "id": 370771199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.216388,34.197725,-82.216388,34.197725",
     "geom:latitude":34.197725,
     "geom:longitude":-82.216388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2026 Woodlawn Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370771199,
-    "wof:lastmodified":1449030905,
+    "wof:lastmodified":1467082338,
     "wof:name":"Greenwood Christian School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.216388,34.197725,-82.216388,34.197725],
-  "geometry": {"coordinates":[-82.216388,34.197725],"type":"Point"}
+  "bbox": [
+    -82.216388,
+    34.197725,
+    -82.216388,
+    34.197725
+],
+  "geometry": {"coordinates":[-82.21638799999999,34.197725],"type":"Point"}
 }

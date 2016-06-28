@@ -2,13 +2,14 @@
   "id": 169791863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.946377,33.507071,-80.946377,33.507071",
     "geom:latitude":33.507071,
     "geom:longitude":-80.946377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Till Hill Rd",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169791863,
-    "wof:lastmodified":1449035192,
+    "wof:lastmodified":1467082385,
     "wof:name":"William Till",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "tract"
     ]
 },
-  "bbox": [-80.946377,33.507071,-80.946377,33.507071],
+  "bbox": [
+    -80.946377,
+    33.507071,
+    -80.946377,
+    33.507071
+],
   "geometry": {"coordinates":[-80.946377,33.507071],"type":"Point"}
 }

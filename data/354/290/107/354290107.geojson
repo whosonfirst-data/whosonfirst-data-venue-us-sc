@@ -2,13 +2,14 @@
   "id": 354290107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.422599,34.850172,-82.422599,34.850172",
     "geom:latitude":34.850172,
     "geom:longitude":-82.422599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Chester St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354290107,
-    "wof:lastmodified":1449066651,
+    "wof:lastmodified":1467082431,
     "wof:name":"Jones Carpet & Rug Cleaners",
     "wof:parent_id":85838763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-82.422599,34.850172,-82.422599,34.850172],
-  "geometry": {"coordinates":[-82.422599,34.850172],"type":"Point"}
+  "bbox": [
+    -82.422599,
+    34.850172,
+    -82.422599,
+    34.850172
+],
+  "geometry": {"coordinates":[-82.42259900000001,34.850172],"type":"Point"}
 }

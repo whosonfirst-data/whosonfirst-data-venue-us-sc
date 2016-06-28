@@ -2,13 +2,14 @@
   "id": 370424053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.023905,32.777192,-80.023905,32.777192",
     "geom:latitude":32.777192,
     "geom:longitude":-80.023905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1883 Capri Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370424053,
-    "wof:lastmodified":1449032254,
+    "wof:lastmodified":1467082369,
     "wof:name":"Carolina Hot Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "washing"
     ]
 },
-  "bbox": [-80.023905,32.777192,-80.023905,32.777192],
+  "bbox": [
+    -80.023905,
+    32.777192,
+    -80.023905,
+    32.777192
+],
   "geometry": {"coordinates":[-80.023905,32.777192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370438313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.554659,34.817354,-82.554659,34.817354",
     "geom:latitude":34.817354,
     "geom:longitude":-82.554659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Powdersville Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370438313,
-    "wof:lastmodified":1449030244,
+    "wof:lastmodified":1467082324,
     "wof:name":"Upstate Cardiology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.554659,34.817354,-82.554659,34.817354],
+  "bbox": [
+    -82.554659,
+    34.817354,
+    -82.554659,
+    34.817354
+],
   "geometry": {"coordinates":[-82.554659,34.817354],"type":"Point"}
 }

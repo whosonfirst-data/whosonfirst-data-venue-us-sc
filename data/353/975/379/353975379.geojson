@@ -2,13 +2,14 @@
   "id": 353975379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.82534,32.830979,-79.82534,32.830979",
     "geom:latitude":32.830979,
     "geom:longitude":-79.82534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Theater Dr",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353975379,
-    "wof:lastmodified":1449020457,
+    "wof:lastmodified":1467082255,
     "wof:name":"Eastside Interiors",
     "wof:parent_id":85840345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-79.82534,32.830979,-79.82534,32.830979],
+  "bbox": [
+    -79.82534,
+    32.830979,
+    -79.82534,
+    32.830979
+],
   "geometry": {"coordinates":[-79.82534,32.830979],"type":"Point"}
 }

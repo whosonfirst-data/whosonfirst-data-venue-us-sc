@@ -2,13 +2,14 @@
   "id": 337406657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.358995,33.539465,-79.358995,33.539465",
     "geom:latitude":33.539465,
     "geom:longitude":-79.358995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3259 Dunbar Rd",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337406657,
-    "wof:lastmodified":1449027380,
+    "wof:lastmodified":1467082282,
     "wof:name":"Ma Flo's Hair Styles & Designs",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.358995,33.539465,-79.358995,33.539465],
-  "geometry": {"coordinates":[-79.358995,33.539465],"type":"Point"}
+  "bbox": [
+    -79.358995,
+    33.539465,
+    -79.358995,
+    33.539465
+],
+  "geometry": {"coordinates":[-79.35899499999999,33.539465],"type":"Point"}
 }

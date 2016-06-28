@@ -2,13 +2,14 @@
   "id": 186060251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.762689,33.469326,-81.762689,33.469326",
     "geom:latitude":33.469326,
     "geom:longitude":-81.762689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 Silver Bluff Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186060251,
-    "wof:lastmodified":1449052776,
+    "wof:lastmodified":1467082411,
     "wof:name":"Millineum Home",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "co"
     ]
 },
-  "bbox": [-81.762689,33.469326,-81.762689,33.469326],
-  "geometry": {"coordinates":[-81.762689,33.469326],"type":"Point"}
+  "bbox": [
+    -81.762689,
+    33.469326,
+    -81.762689,
+    33.469326
+],
+  "geometry": {"coordinates":[-81.76268899999999,33.469326],"type":"Point"}
 }

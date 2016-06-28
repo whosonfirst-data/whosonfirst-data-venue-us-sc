@@ -2,13 +2,14 @@
   "id": 370362367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.908622,34.725091,-82.908622,34.725091",
     "geom:latitude":34.725091,
     "geom:longitude":-82.908622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 2nd St",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370362367,
-    "wof:lastmodified":1449031260,
+    "wof:lastmodified":1467082346,
     "wof:name":"Joel Bieber Firm",
     "wof:parent_id":85828189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.908622,34.725091,-82.908622,34.725091],
-  "geometry": {"coordinates":[-82.908622,34.725091],"type":"Point"}
+  "bbox": [
+    -82.908622,
+    34.725091,
+    -82.908622,
+    34.725091
+],
+  "geometry": {"coordinates":[-82.90862199999999,34.725091],"type":"Point"}
 }

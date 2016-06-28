@@ -2,13 +2,14 @@
   "id": 186021321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.056719,33.014517,-80.056719,33.014517",
     "geom:latitude":33.014517,
     "geom:longitude":-80.056719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Londonderry Rd",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186021321,
-    "wof:lastmodified":1449052059,
+    "wof:lastmodified":1467082404,
     "wof:name":"First Choice Mortgage",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-80.056719,33.014517,-80.056719,33.014517],
+  "bbox": [
+    -80.056719,
+    33.014517,
+    -80.056719,
+    33.014517
+],
   "geometry": {"coordinates":[-80.056719,33.014517],"type":"Point"}
 }

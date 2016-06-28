@@ -2,13 +2,14 @@
   "id": 370444549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.183028,34.086185,-81.183028,34.086185",
     "geom:latitude":34.086185,
     "geom:longitude":-81.183028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1248 Lake Murray Blvd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370444549,
-    "wof:lastmodified":1449032006,
+    "wof:lastmodified":1467082363,
     "wof:name":"Independent Insurance Broker",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.183028,34.086185,-81.183028,34.086185],
-  "geometry": {"coordinates":[-81.183028,34.086185],"type":"Point"}
+  "bbox": [
+    -81.183028,
+    34.086185,
+    -81.183028,
+    34.086185
+],
+  "geometry": {"coordinates":[-81.18302799999999,34.086185],"type":"Point"}
 }

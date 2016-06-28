@@ -2,13 +2,14 @@
   "id": 353834341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.035682,34.001873,-81.035682,34.001873",
     "geom:latitude":34.001873,
     "geom:longitude":-81.035682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1219 Assembly St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353834341,
-    "wof:lastmodified":1449018502,
+    "wof:lastmodified":1467082215,
     "wof:name":"Ross Sinclaire & Assoc",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-81.035682,34.001873,-81.035682,34.001873],
-  "geometry": {"coordinates":[-81.035682,34.001873],"type":"Point"}
+  "bbox": [
+    -81.035682,
+    34.001873,
+    -81.035682,
+    34.001873
+],
+  "geometry": {"coordinates":[-81.03568199999999,34.001873],"type":"Point"}
 }

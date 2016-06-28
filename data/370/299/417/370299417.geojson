@@ -2,13 +2,14 @@
   "id": 370299417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.314208,32.720494,-80.314208,32.720494",
     "geom:latitude":32.720494,
     "geom:longitude":-80.314208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7585 State Hwy 164",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370299417,
-    "wof:lastmodified":1449029957,
+    "wof:lastmodified":1467082317,
     "wof:name":"Sinista Entertainment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-80.314208,32.720494,-80.314208,32.720494],
-  "geometry": {"coordinates":[-80.314208,32.720494],"type":"Point"}
+  "bbox": [
+    -80.314208,
+    32.720494,
+    -80.314208,
+    32.720494
+],
+  "geometry": {"coordinates":[-80.31420799999999,32.720494],"type":"Point"}
 }

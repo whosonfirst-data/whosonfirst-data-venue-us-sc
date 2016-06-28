@@ -2,13 +2,14 @@
   "id": 337385953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.660541,34.494556,-82.660541,34.494556",
     "geom:latitude":34.494556,
     "geom:longitude":-82.660541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Ila St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337385953,
-    "wof:lastmodified":1449027432,
+    "wof:lastmodified":1467082284,
     "wof:name":"Gilliard Construction",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.660541,34.494556,-82.660541,34.494556],
-  "geometry": {"coordinates":[-82.660541,34.494556],"type":"Point"}
+  "bbox": [
+    -82.660541,
+    34.494556,
+    -82.660541,
+    34.494556
+],
+  "geometry": {"coordinates":[-82.66054099999999,34.494556],"type":"Point"}
 }

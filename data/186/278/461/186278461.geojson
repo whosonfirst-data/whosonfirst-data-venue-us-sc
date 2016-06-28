@@ -2,13 +2,14 @@
   "id": 186278461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.740524,32.393771,-80.740524,32.393771",
     "geom:latitude":32.393771,
     "geom:longitude":-80.740524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Winsor Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186278461,
-    "wof:lastmodified":1449051859,
+    "wof:lastmodified":1467082402,
     "wof:name":"Tupelo Builders",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.740524,32.393771,-80.740524,32.393771],
-  "geometry": {"coordinates":[-80.740524,32.393771],"type":"Point"}
+  "bbox": [
+    -80.740524,
+    32.393771,
+    -80.740524,
+    32.393771
+],
+  "geometry": {"coordinates":[-80.74052399999999,32.393771],"type":"Point"}
 }

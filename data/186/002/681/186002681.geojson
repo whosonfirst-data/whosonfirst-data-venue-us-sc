@@ -2,13 +2,14 @@
   "id": 186002681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.333081,33.985046,-80.333081,33.985046",
     "geom:latitude":33.985046,
     "geom:longitude":-80.333081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"174 W Brewington Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186002681,
-    "wof:lastmodified":1449052524,
+    "wof:lastmodified":1467082408,
     "wof:name":"Tiffany S Ceramics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.333081,33.985046,-80.333081,33.985046],
-  "geometry": {"coordinates":[-80.333081,33.985046],"type":"Point"}
+  "bbox": [
+    -80.333081,
+    33.985046,
+    -80.333081,
+    33.985046
+],
+  "geometry": {"coordinates":[-80.33308100000001,33.985046],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370643811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.906925,34.582694,-80.906925,34.582694",
     "geom:latitude":34.582694,
     "geom:longitude":-80.906925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Chester Ave",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370643811,
-    "wof:lastmodified":1449032019,
+    "wof:lastmodified":1467082363,
     "wof:name":"Crossroads II",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-80.906925,34.582694,-80.906925,34.582694],
+  "bbox": [
+    -80.906925,
+    34.582694,
+    -80.906925,
+    34.582694
+],
   "geometry": {"coordinates":[-80.906925,34.582694],"type":"Point"}
 }

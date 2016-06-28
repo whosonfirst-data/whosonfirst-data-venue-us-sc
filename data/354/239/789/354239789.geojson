@@ -2,13 +2,14 @@
   "id": 354239789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.88288,32.235932,-80.88288,32.235932",
     "geom:latitude":32.235932,
     "geom:longitude":-80.88288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Buck Point Rd",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354239789,
-    "wof:lastmodified":1449066089,
+    "wof:lastmodified":1467082418,
     "wof:name":"Design Plus Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-80.88288,32.235932,-80.88288,32.235932],
+  "bbox": [
+    -80.88288,
+    32.235932,
+    -80.88288,
+    32.235932
+],
   "geometry": {"coordinates":[-80.88288,32.235932],"type":"Point"}
 }

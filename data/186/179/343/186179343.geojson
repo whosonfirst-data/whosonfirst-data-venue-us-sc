@@ -2,13 +2,14 @@
   "id": 186179343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.906978,34.582743,-80.906978,34.582743",
     "geom:latitude":34.582743,
     "geom:longitude":-80.906978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Chester Ave",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186179343,
-    "wof:lastmodified":1449052744,
+    "wof:lastmodified":1467082410,
     "wof:name":"Great Falls Fire Dept",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-80.906978,34.582743,-80.906978,34.582743],
+  "bbox": [
+    -80.906978,
+    34.582743,
+    -80.906978,
+    34.582743
+],
   "geometry": {"coordinates":[-80.906978,34.582743],"type":"Point"}
 }

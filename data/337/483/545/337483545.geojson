@@ -2,13 +2,14 @@
   "id": 337483545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.874978,32.789368,-79.874978,32.789368",
     "geom:latitude":32.789368,
     "geom:longitude":-79.874978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Rose Ln",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337483545,
-    "wof:lastmodified":1449027578,
+    "wof:lastmodified":1467082289,
     "wof:name":"3g Variety",
     "wof:parent_id":85807781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.874978,32.789368,-79.874978,32.789368],
+  "bbox": [
+    -79.874978,
+    32.789368,
+    -79.874978,
+    32.789368
+],
   "geometry": {"coordinates":[-79.874978,32.789368],"type":"Point"}
 }

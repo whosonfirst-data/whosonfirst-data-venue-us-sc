@@ -2,13 +2,14 @@
   "id": 354067693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.08566,34.970358,-81.08566,34.970358",
     "geom:latitude":34.970358,
     "geom:longitude":-81.08566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4635 Cascade Ave",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354067693,
-    "wof:lastmodified":1449066043,
+    "wof:lastmodified":1467082417,
     "wof:name":"Ransom Investments LLC",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-81.08566,34.970358,-81.08566,34.970358],
+  "bbox": [
+    -81.08566,
+    34.970358,
+    -81.08566,
+    34.970358
+],
   "geometry": {"coordinates":[-81.08566,34.970358],"type":"Point"}
 }

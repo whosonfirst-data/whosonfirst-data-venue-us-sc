@@ -2,13 +2,14 @@
   "id": 370715241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.310176,33.367206,-79.310176,33.367206",
     "geom:latitude":33.367206,
     "geom:longitude":-79.310176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Ridge St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370715241,
-    "wof:lastmodified":1449031804,
+    "wof:lastmodified":1467082359,
     "wof:name":"S & W Ready Mixed Concrete",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "concrete"
     ]
 },
-  "bbox": [-79.310176,33.367206,-79.310176,33.367206],
+  "bbox": [
+    -79.310176,
+    33.367206,
+    -79.310176,
+    33.367206
+],
   "geometry": {"coordinates":[-79.310176,33.367206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186030349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.715866,33.55468,-81.715866,33.55468",
     "geom:latitude":33.55468,
     "geom:longitude":-81.715866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Colleton Ave SE",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186030349,
-    "wof:lastmodified":1449051368,
+    "wof:lastmodified":1467082397,
     "wof:name":"Mabry & Mabry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "broker"
     ]
 },
-  "bbox": [-81.715866,33.55468,-81.715866,33.55468],
-  "geometry": {"coordinates":[-81.715866,33.55468],"type":"Point"}
+  "bbox": [
+    -81.715866,
+    33.55468,
+    -81.715866,
+    33.55468
+],
+  "geometry": {"coordinates":[-81.71586600000001,33.55468],"type":"Point"}
 }

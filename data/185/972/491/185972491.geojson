@@ -2,13 +2,14 @@
   "id": 185972491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.397287,34.670545,-82.397287,34.670545",
     "geom:latitude":34.670545,
     "geom:longitude":-82.397287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8410 Augusta Rd",
     "sg:city":"Pelzer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185972491,
-    "wof:lastmodified":1449007437,
+    "wof:lastmodified":1467082195,
     "wof:name":"Roger Roddy Roofing",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.397287,34.670545,-82.397287,34.670545],
-  "geometry": {"coordinates":[-82.397287,34.670545],"type":"Point"}
+  "bbox": [
+    -82.397287,
+    34.670545,
+    -82.397287,
+    34.670545
+],
+  "geometry": {"coordinates":[-82.39728700000001,34.670545],"type":"Point"}
 }

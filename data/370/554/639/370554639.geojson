@@ -2,13 +2,14 @@
   "id": 370554639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.857078,35.116168,-81.857078,35.116168",
     "geom:latitude":35.116168,
     "geom:longitude":-81.857078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5471 Chesnee Hwy",
     "sg:city":"Chesnee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370554639,
-    "wof:lastmodified":1449029793,
+    "wof:lastmodified":1467082313,
     "wof:name":"Reynolds Road Mobile Home Park",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "site"
     ]
 },
-  "bbox": [-81.857078,35.116168,-81.857078,35.116168],
+  "bbox": [
+    -81.857078,
+    35.116168,
+    -81.857078,
+    35.116168
+],
   "geometry": {"coordinates":[-81.857078,35.116168],"type":"Point"}
 }

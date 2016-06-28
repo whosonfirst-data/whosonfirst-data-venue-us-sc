@@ -2,13 +2,14 @@
   "id": 353638159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.062591,34.764441,-83.062591,34.764441",
     "geom:latitude":34.764441,
     "geom:longitude":-83.062591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 S Spring St",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353638159,
-    "wof:lastmodified":1449018386,
+    "wof:lastmodified":1467082212,
     "wof:name":"Walhalla Gin Co",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farm"
     ]
 },
-  "bbox": [-83.062591,34.764441,-83.062591,34.764441],
+  "bbox": [
+    -83.062591,
+    34.764441,
+    -83.062591,
+    34.764441
+],
   "geometry": {"coordinates":[-83.062591,34.764441],"type":"Point"}
 }

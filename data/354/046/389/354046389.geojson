@@ -2,13 +2,14 @@
   "id": 354046389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.709253,34.883169,-82.709253,34.883169",
     "geom:latitude":34.883169,
     "geom:longitude":-82.709253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W Main St",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354046389,
-    "wof:lastmodified":1449066887,
+    "wof:lastmodified":1467082436,
     "wof:name":"West Main Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.709253,34.883169,-82.709253,34.883169],
+  "bbox": [
+    -82.709253,
+    34.883169,
+    -82.709253,
+    34.883169
+],
   "geometry": {"coordinates":[-82.709253,34.883169],"type":"Point"}
 }

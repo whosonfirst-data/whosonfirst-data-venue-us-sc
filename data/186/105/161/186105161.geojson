@@ -2,13 +2,14 @@
   "id": 186105161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.968814,32.72459,-79.968814,32.72459",
     "geom:latitude":32.72459,
     "geom:longitude":-79.968814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1166 Pittsford Cir",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186105161,
-    "wof:lastmodified":1449051401,
+    "wof:lastmodified":1467082397,
     "wof:name":"Bks Landscaping",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-79.968814,32.72459,-79.968814,32.72459],
-  "geometry": {"coordinates":[-79.968814,32.72459],"type":"Point"}
+  "bbox": [
+    -79.968814,
+    32.72459,
+    -79.968814,
+    32.72459
+],
+  "geometry": {"coordinates":[-79.96881399999999,32.72459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370418385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.025886,33.988104,-81.025886,33.988104",
     "geom:latitude":33.988104,
     "geom:longitude":-81.025886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Sumter St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370418385,
-    "wof:lastmodified":1449031751,
+    "wof:lastmodified":1467082358,
     "wof:name":"Beazer Homes",
     "wof:parent_id":85897277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-81.025886,33.988104,-81.025886,33.988104],
+  "bbox": [
+    -81.025886,
+    33.988104,
+    -81.025886,
+    33.988104
+],
   "geometry": {"coordinates":[-81.025886,33.988104],"type":"Point"}
 }

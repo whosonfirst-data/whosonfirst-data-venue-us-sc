@@ -2,13 +2,14 @@
   "id": 354221245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.254484,34.738614,-82.254484,34.738614",
     "geom:latitude":34.738614,
     "geom:longitude":-82.254484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 N Hedge St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354221245,
-    "wof:lastmodified":1449066664,
+    "wof:lastmodified":1467082431,
     "wof:name":"Classic American Awnings",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.254484,34.738614,-82.254484,34.738614],
-  "geometry": {"coordinates":[-82.254484,34.738614],"type":"Point"}
+  "bbox": [
+    -82.254484,
+    34.738614,
+    -82.254484,
+    34.738614
+],
+  "geometry": {"coordinates":[-82.25448400000001,34.738614],"type":"Point"}
 }

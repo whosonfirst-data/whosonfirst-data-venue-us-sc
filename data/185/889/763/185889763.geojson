@@ -2,13 +2,14 @@
   "id": 185889763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.032061,34.01378,-81.032061,34.01378",
     "geom:latitude":34.01378,
     "geom:longitude":-81.032061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1516 Calhoun St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185889763,
-    "wof:lastmodified":1449006574,
+    "wof:lastmodified":1467082182,
     "wof:name":"Auditory Disorders Ctr",
     "wof:parent_id":85805491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audiologists"
     ]
 },
-  "bbox": [-81.032061,34.01378,-81.032061,34.01378],
+  "bbox": [
+    -81.032061,
+    34.01378,
+    -81.032061,
+    34.01378
+],
   "geometry": {"coordinates":[-81.032061,34.01378],"type":"Point"}
 }

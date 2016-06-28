@@ -2,13 +2,14 @@
   "id": 370208365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.795222,33.46937,-80.795222,33.46937",
     "geom:latitude":33.46937,
     "geom:longitude":-80.795222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2191 Five Chop Rd",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370208365,
-    "wof:lastmodified":1449029482,
+    "wof:lastmodified":1467082307,
     "wof:name":"Horton Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.795222,33.46937,-80.795222,33.46937],
+  "bbox": [
+    -80.795222,
+    33.46937,
+    -80.795222,
+    33.46937
+],
   "geometry": {"coordinates":[-80.795222,33.46937],"type":"Point"}
 }

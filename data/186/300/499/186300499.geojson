@@ -2,13 +2,14 @@
   "id": 186300499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.108302,32.860004,-81.108302,32.860004",
     "geom:latitude":32.860004,
     "geom:longitude":-81.108302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 Holly St E",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186300499,
-    "wof:lastmodified":1449051893,
+    "wof:lastmodified":1467082402,
     "wof:name":"Community Care Unit Of Hampton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-81.108302,32.860004,-81.108302,32.860004],
-  "geometry": {"coordinates":[-81.108302,32.860004],"type":"Point"}
+  "bbox": [
+    -81.108302,
+    32.860004,
+    -81.108302,
+    32.860004
+],
+  "geometry": {"coordinates":[-81.10830199999999,32.860004],"type":"Point"}
 }

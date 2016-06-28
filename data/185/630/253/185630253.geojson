@@ -2,13 +2,14 @@
   "id": 185630253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.679217,32.916213,-80.679217,32.916213",
     "geom:latitude":32.916213,
     "geom:longitude":-80.679217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Forest Cir",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185630253,
-    "wof:lastmodified":1449007165,
+    "wof:lastmodified":1467082191,
     "wof:name":"Forest Circle Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.679217,32.916213,-80.679217,32.916213],
-  "geometry": {"coordinates":[-80.679217,32.916213],"type":"Point"}
+  "bbox": [
+    -80.679217,
+    32.916213,
+    -80.679217,
+    32.916213
+],
+  "geometry": {"coordinates":[-80.67921699999999,32.916213],"type":"Point"}
 }

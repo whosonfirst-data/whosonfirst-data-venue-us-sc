@@ -2,13 +2,14 @@
   "id": 185974385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.809833,34.192554,-79.809833,34.192554",
     "geom:latitude":34.192554,
     "geom:longitude":-79.809833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2145 Hoffmeyer Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185974385,
-    "wof:lastmodified":1449008010,
+    "wof:lastmodified":1467082204,
     "wof:name":"R D Engineering Inc",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-79.809833,34.192554,-79.809833,34.192554],
+  "bbox": [
+    -79.809833,
+    34.192554,
+    -79.809833,
+    34.192554
+],
   "geometry": {"coordinates":[-79.809833,34.192554],"type":"Point"}
 }

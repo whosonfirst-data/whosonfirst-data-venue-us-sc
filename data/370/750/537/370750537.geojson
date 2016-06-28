@@ -2,13 +2,14 @@
   "id": 370750537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.946459,34.988085,-81.946459,34.988085",
     "geom:latitude":34.988085,
     "geom:longitude":-81.946459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1251 Boiling Springs Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370750537,
-    "wof:lastmodified":1449031126,
+    "wof:lastmodified":1467082343,
     "wof:name":"Simply Uniforms",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "uniform"
     ]
 },
-  "bbox": [-81.946459,34.988085,-81.946459,34.988085],
+  "bbox": [
+    -81.946459,
+    34.988085,
+    -81.946459,
+    34.988085
+],
   "geometry": {"coordinates":[-81.946459,34.988085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370712157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.957119,34.017574,-80.957119,34.017574",
     "geom:latitude":34.017574,
     "geom:longitude":-80.957119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Avian Trl",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370712157,
-    "wof:lastmodified":1449030538,
+    "wof:lastmodified":1467082330,
     "wof:name":"Avian Communications LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-80.957119,34.017574,-80.957119,34.017574],
-  "geometry": {"coordinates":[-80.957119,34.017574],"type":"Point"}
+  "bbox": [
+    -80.957119,
+    34.017574,
+    -80.957119,
+    34.017574
+],
+  "geometry": {"coordinates":[-80.95711900000001,34.017574],"type":"Point"}
 }

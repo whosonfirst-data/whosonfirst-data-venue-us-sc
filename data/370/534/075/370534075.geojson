@@ -2,13 +2,14 @@
   "id": 370534075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.591621,32.425599,-80.591621,32.425599",
     "geom:latitude":32.425599,
     "geom:longitude":-80.591621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Oak Island Rd",
     "sg:city":"St Helena Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370534075,
-    "wof:lastmodified":1449029978,
+    "wof:lastmodified":1467082318,
     "wof:name":"Cornerstone Professional Rfrnc",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.591621,32.425599,-80.591621,32.425599],
+  "bbox": [
+    -80.591621,
+    32.425599,
+    -80.591621,
+    32.425599
+],
   "geometry": {"coordinates":[-80.591621,32.425599],"type":"Point"}
 }

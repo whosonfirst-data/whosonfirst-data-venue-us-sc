@@ -2,13 +2,14 @@
   "id": 354105823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.074533,33.039127,-80.074533,33.039127",
     "geom:latitude":33.039127,
     "geom:longitude":-80.074533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1127 Dorothy St",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354105823,
-    "wof:lastmodified":1449066566,
+    "wof:lastmodified":1467082429,
     "wof:name":"Devon Forest Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.074533,33.039127,-80.074533,33.039127],
+  "bbox": [
+    -80.074533,
+    33.039127,
+    -80.074533,
+    33.039127
+],
   "geometry": {"coordinates":[-80.074533,33.039127],"type":"Point"}
 }

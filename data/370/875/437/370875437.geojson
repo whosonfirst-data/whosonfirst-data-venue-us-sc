@@ -2,13 +2,14 @@
   "id": 370875437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.029631,32.793124,-80.029631,32.793124",
     "geom:latitude":32.793124,
     "geom:longitude":-80.029631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2048 Sam Rittenberg Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370875437,
-    "wof:lastmodified":1449031611,
+    "wof:lastmodified":1467082354,
     "wof:name":"Polly's Jewelry Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-80.029631,32.793124,-80.029631,32.793124],
-  "geometry": {"coordinates":[-80.029631,32.793124],"type":"Point"}
+  "bbox": [
+    -80.029631,
+    32.793124,
+    -80.029631,
+    32.793124
+],
+  "geometry": {"coordinates":[-80.02963099999999,32.793124],"type":"Point"}
 }

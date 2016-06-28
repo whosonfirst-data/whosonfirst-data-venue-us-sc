@@ -2,13 +2,14 @@
   "id": 370814239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.20215,32.965087,-80.20215,32.965087",
     "geom:latitude":32.965087,
     "geom:longitude":-80.20215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"975 Bacons Bridge Rd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370814239,
-    "wof:lastmodified":1449029712,
+    "wof:lastmodified":1467082312,
     "wof:name":"Belles House Of Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.20215,32.965087,-80.20215,32.965087],
+  "bbox": [
+    -80.20215,
+    32.965087,
+    -80.20215,
+    32.965087
+],
   "geometry": {"coordinates":[-80.20215,32.965087],"type":"Point"}
 }

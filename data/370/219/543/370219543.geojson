@@ -2,13 +2,14 @@
   "id": 370219543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.706013,32.440477,-80.706013,32.440477",
     "geom:latitude":32.440477,
     "geom:longitude":-80.706013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2418 Boundary St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370219543,
-    "wof:lastmodified":1449032329,
+    "wof:lastmodified":1467082370,
     "wof:name":"Butler Pre Owned Vehicles",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.706013,32.440477,-80.706013,32.440477],
+  "bbox": [
+    -80.706013,
+    32.440477,
+    -80.706013,
+    32.440477
+],
   "geometry": {"coordinates":[-80.706013,32.440477],"type":"Point"}
 }

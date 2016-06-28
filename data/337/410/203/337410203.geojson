@@ -2,13 +2,14 @@
   "id": 337410203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.918435,32.860224,-79.918435,32.860224",
     "geom:latitude":32.860224,
     "geom:longitude":-79.918435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Brady St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337410203,
-    "wof:lastmodified":1449026942,
+    "wof:lastmodified":1467082265,
     "wof:name":"Curtis A Jacobi",
     "wof:parent_id":85858239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "waterproofing"
     ]
 },
-  "bbox": [-79.918435,32.860224,-79.918435,32.860224],
+  "bbox": [
+    -79.918435,
+    32.860224,
+    -79.918435,
+    32.860224
+],
   "geometry": {"coordinates":[-79.918435,32.860224],"type":"Point"}
 }

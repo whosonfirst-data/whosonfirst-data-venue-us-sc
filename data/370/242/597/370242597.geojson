@@ -2,13 +2,14 @@
   "id": 370242597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.819043,34.687672,-82.819043,34.687672",
     "geom:latitude":34.687672,
     "geom:longitude":-82.819043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1376 Tiger Blvd",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370242597,
-    "wof:lastmodified":1449032079,
+    "wof:lastmodified":1467082365,
     "wof:name":"Signature Architects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.819043,34.687672,-82.819043,34.687672],
-  "geometry": {"coordinates":[-82.819043,34.687672],"type":"Point"}
+  "bbox": [
+    -82.819043,
+    34.687672,
+    -82.819043,
+    34.687672
+],
+  "geometry": {"coordinates":[-82.81904299999999,34.687672],"type":"Point"}
 }

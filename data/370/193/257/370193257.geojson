@@ -2,13 +2,14 @@
   "id": 370193257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.566361,34.827018,-82.566361,34.827018",
     "geom:latitude":34.827018,
     "geom:longitude":-82.566361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2021 E Main St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370193257,
-    "wof:lastmodified":1449029633,
+    "wof:lastmodified":1467082310,
     "wof:name":"Bowers School Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.566361,34.827018,-82.566361,34.827018],
+  "bbox": [
+    -82.566361,
+    34.827018,
+    -82.566361,
+    34.827018
+],
   "geometry": {"coordinates":[-82.566361,34.827018],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370873383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.933801,34.963692,-81.933801,34.963692",
     "geom:latitude":34.963692,
     "geom:longitude":-81.933801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Cummings St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370873383,
-    "wof:lastmodified":1449029799,
+    "wof:lastmodified":1467082314,
     "wof:name":"Cumming Street Baptist Church",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.933801,34.963692,-81.933801,34.963692],
+  "bbox": [
+    -81.933801,
+    34.963692,
+    -81.933801,
+    34.963692
+],
   "geometry": {"coordinates":[-81.933801,34.963692],"type":"Point"}
 }

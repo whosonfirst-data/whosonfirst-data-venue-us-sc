@@ -2,13 +2,14 @@
   "id": 353772689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.713647,33.268165,-80.713647,33.268165",
     "geom:latitude":33.268165,
     "geom:longitude":-80.713647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3607 Cattle Creek Rd",
     "sg:city":"Branchville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353772689,
-    "wof:lastmodified":1449019407,
+    "wof:lastmodified":1467082233,
     "wof:name":"Lewis Bair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-80.713647,33.268165,-80.713647,33.268165],
-  "geometry": {"coordinates":[-80.713647,33.268165],"type":"Point"}
+  "bbox": [
+    -80.713647,
+    33.268165,
+    -80.713647,
+    33.268165
+],
+  "geometry": {"coordinates":[-80.71364699999999,33.268165],"type":"Point"}
 }

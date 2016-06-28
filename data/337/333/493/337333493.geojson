@@ -2,13 +2,14 @@
   "id": 337333493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.107839,33.995842,-81.107839,33.995842",
     "geom:latitude":33.995842,
     "geom:longitude":-81.107839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 Chris Dr",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337333493,
-    "wof:lastmodified":1449027681,
+    "wof:lastmodified":1467082293,
     "wof:name":"Mann Tool & Supply",
     "wof:parent_id":85857097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-81.107839,33.995842,-81.107839,33.995842],
+  "bbox": [
+    -81.107839,
+    33.995842,
+    -81.107839,
+    33.995842
+],
   "geometry": {"coordinates":[-81.107839,33.995842],"type":"Point"}
 }

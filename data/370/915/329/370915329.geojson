@@ -2,13 +2,14 @@
   "id": 370915329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.682214,33.814983,-78.682214,33.814983",
     "geom:latitude":33.814983,
     "geom:longitude":-78.682214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"747 S Ocean Blvd",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370915329,
-    "wof:lastmodified":1449032429,
+    "wof:lastmodified":1467082372,
     "wof:name":"Xanadu III",
     "wof:parent_id":85826955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.682214,33.814983,-78.682214,33.814983],
+  "bbox": [
+    -78.682214,
+    33.814983,
+    -78.682214,
+    33.814983
+],
   "geometry": {"coordinates":[-78.682214,33.814983],"type":"Point"}
 }

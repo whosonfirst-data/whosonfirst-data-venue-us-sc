@@ -2,13 +2,14 @@
   "id": 185819999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.716002,33.51713,-81.716002,33.51713",
     "geom:latitude":33.51713,
     "geom:longitude":-81.716002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1949 Whiskey Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185819999,
-    "wof:lastmodified":1449006993,
+    "wof:lastmodified":1467082188,
     "wof:name":"Bojangles",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.716002,33.51713,-81.716002,33.51713],
+  "bbox": [
+    -81.716002,
+    33.51713,
+    -81.716002,
+    33.51713
+],
   "geometry": {"coordinates":[-81.716002,33.51713],"type":"Point"}
 }

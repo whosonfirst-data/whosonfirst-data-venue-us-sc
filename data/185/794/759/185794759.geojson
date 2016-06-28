@@ -2,13 +2,14 @@
   "id": 185794759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.132406,33.939169,-79.132406,33.939169",
     "geom:latitude":33.939169,
     "geom:longitude":-79.132406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 Enoch Rd",
     "sg:city":"Aynor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185794759,
-    "wof:lastmodified":1449007395,
+    "wof:lastmodified":1467082194,
     "wof:name":"Ljr Trucking",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.132406,33.939169,-79.132406,33.939169],
+  "bbox": [
+    -79.132406,
+    33.939169,
+    -79.132406,
+    33.939169
+],
   "geometry": {"coordinates":[-79.132406,33.939169],"type":"Point"}
 }

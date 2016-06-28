@@ -2,13 +2,14 @@
   "id": 185992561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.016596,33.972689,-81.016596,33.972689",
     "geom:latitude":33.972689,
     "geom:longitude":-81.016596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1096 Berea Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185992561,
-    "wof:lastmodified":1449007374,
+    "wof:lastmodified":1467082194,
     "wof:name":"R J Griffen & Co General Contr",
     "wof:parent_id":85897275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.016596,33.972689,-81.016596,33.972689],
-  "geometry": {"coordinates":[-81.016596,33.972689],"type":"Point"}
+  "bbox": [
+    -81.016596,
+    33.972689,
+    -81.016596,
+    33.972689
+],
+  "geometry": {"coordinates":[-81.01659600000001,33.972689],"type":"Point"}
 }

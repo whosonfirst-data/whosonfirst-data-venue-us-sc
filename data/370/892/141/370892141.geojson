@@ -2,13 +2,14 @@
   "id": 370892141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.860192,32.233801,-80.860192,32.233801",
     "geom:latitude":32.233801,
     "geom:longitude":-80.860192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Hickory Trce",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370892141,
-    "wof:lastmodified":1449029585,
+    "wof:lastmodified":1467082309,
     "wof:name":"Beacon Insurance Group Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.860192,32.233801,-80.860192,32.233801],
+  "bbox": [
+    -80.860192,
+    32.233801,
+    -80.860192,
+    32.233801
+],
   "geometry": {"coordinates":[-80.860192,32.233801],"type":"Point"}
 }

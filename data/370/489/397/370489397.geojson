@@ -2,13 +2,14 @@
   "id": 370489397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.24713,33.882626,-81.24713,33.882626",
     "geom:latitude":33.882626,
     "geom:longitude":-81.24713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 McLee Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370489397,
-    "wof:lastmodified":1449030918,
+    "wof:lastmodified":1467082339,
     "wof:name":"Heavy Equipment Repairs LLC",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.24713,33.882626,-81.24713,33.882626],
+  "bbox": [
+    -81.24713,
+    33.882626,
+    -81.24713,
+    33.882626
+],
   "geometry": {"coordinates":[-81.24713,33.882626],"type":"Point"}
 }

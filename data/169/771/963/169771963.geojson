@@ -2,13 +2,14 @@
   "id": 169771963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.286636,33.960134,-81.286636,33.960134",
     "geom:latitude":33.960134,
     "geom:longitude":-81.286636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"635 Rawl Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169771963,
-    "wof:lastmodified":1449034484,
+    "wof:lastmodified":1467082383,
     "wof:name":"Built Wright Fencing",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-81.286636,33.960134,-81.286636,33.960134],
+  "bbox": [
+    -81.286636,
+    33.960134,
+    -81.286636,
+    33.960134
+],
   "geometry": {"coordinates":[-81.286636,33.960134],"type":"Point"}
 }

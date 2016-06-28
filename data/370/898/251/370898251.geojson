@@ -2,13 +2,14 @@
   "id": 370898251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.769663,32.393585,-80.769663,32.393585",
     "geom:latitude":32.393585,
     "geom:longitude":-80.769663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"873 Robert Smalls Pkwy",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370898251,
-    "wof:lastmodified":1449028995,
+    "wof:lastmodified":1467082296,
     "wof:name":"Triangle Gas",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-80.769663,32.393585,-80.769663,32.393585],
-  "geometry": {"coordinates":[-80.769663,32.393585],"type":"Point"}
+  "bbox": [
+    -80.769663,
+    32.393585,
+    -80.769663,
+    32.393585
+],
+  "geometry": {"coordinates":[-80.76966299999999,32.393585],"type":"Point"}
 }

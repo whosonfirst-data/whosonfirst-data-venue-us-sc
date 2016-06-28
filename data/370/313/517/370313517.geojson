@@ -2,13 +2,14 @@
   "id": 370313517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.991014,33.609611,-78.991014,33.609611",
     "geom:latitude":33.609611,
     "geom:longitude":-78.991014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1911 Shell Ct",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370313517,
-    "wof:lastmodified":1449029164,
+    "wof:lastmodified":1467082300,
     "wof:name":"McKinney Custom Builders",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-78.991014,33.609611,-78.991014,33.609611],
-  "geometry": {"coordinates":[-78.991014,33.609611],"type":"Point"}
+  "bbox": [
+    -78.991014,
+    33.609611,
+    -78.991014,
+    33.609611
+],
+  "geometry": {"coordinates":[-78.99101400000001,33.609611],"type":"Point"}
 }

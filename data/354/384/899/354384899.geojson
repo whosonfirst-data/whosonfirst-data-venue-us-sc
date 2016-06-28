@@ -2,13 +2,14 @@
   "id": 354384899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.939236,32.773702,-79.939236,32.773702",
     "geom:latitude":32.773702,
     "geom:longitude":-79.939236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Tradd St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354384899,
-    "wof:lastmodified":1449066156,
+    "wof:lastmodified":1467082420,
     "wof:name":"Designs By Marie Antoinette LL",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.939236,32.773702,-79.939236,32.773702],
-  "geometry": {"coordinates":[-79.939236,32.773702],"type":"Point"}
+  "bbox": [
+    -79.939236,
+    32.773702,
+    -79.939236,
+    32.773702
+],
+  "geometry": {"coordinates":[-79.93923599999999,32.773702],"type":"Point"}
 }

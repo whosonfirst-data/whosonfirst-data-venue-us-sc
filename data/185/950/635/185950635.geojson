@@ -2,13 +2,14 @@
   "id": 185950635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.155775,34.167586,-82.155775,34.167586",
     "geom:latitude":34.167586,
     "geom:longitude":-82.155775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1524 Parkway Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185950635,
-    "wof:lastmodified":1449007249,
+    "wof:lastmodified":1467082192,
     "wof:name":"Cardinal Glen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.155775,34.167586,-82.155775,34.167586],
-  "geometry": {"coordinates":[-82.155775,34.167586],"type":"Point"}
+  "bbox": [
+    -82.155775,
+    34.167586,
+    -82.155775,
+    34.167586
+],
+  "geometry": {"coordinates":[-82.15577500000001,34.167586],"type":"Point"}
 }

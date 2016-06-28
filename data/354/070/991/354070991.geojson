@@ -2,13 +2,14 @@
   "id": 354070991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.709743,34.881317,-82.709743,34.881317",
     "geom:latitude":34.881317,
     "geom:longitude":-82.709743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 S Catherine St",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354070991,
-    "wof:lastmodified":1449066741,
+    "wof:lastmodified":1467082433,
     "wof:name":"Blue Flame Arcade",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.709743,34.881317,-82.709743,34.881317],
+  "bbox": [
+    -82.709743,
+    34.881317,
+    -82.709743,
+    34.881317
+],
   "geometry": {"coordinates":[-82.709743,34.881317],"type":"Point"}
 }

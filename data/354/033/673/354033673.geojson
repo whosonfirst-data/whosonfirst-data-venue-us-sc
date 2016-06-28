@@ -2,13 +2,14 @@
   "id": 354033673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.894799,34.96667,-81.894799,34.96667",
     "geom:latitude":34.96667,
     "geom:longitude":-81.894799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1812 E Main St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354033673,
-    "wof:lastmodified":1449066282,
+    "wof:lastmodified":1467082422,
     "wof:name":"Depot Food Store 453",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "operates"
     ]
 },
-  "bbox": [-81.894799,34.96667,-81.894799,34.96667],
-  "geometry": {"coordinates":[-81.894799,34.96667],"type":"Point"}
+  "bbox": [
+    -81.894799,
+    34.96667,
+    -81.894799,
+    34.96667
+],
+  "geometry": {"coordinates":[-81.89479900000001,34.96667],"type":"Point"}
 }

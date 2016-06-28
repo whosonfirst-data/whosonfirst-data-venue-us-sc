@@ -2,13 +2,14 @@
   "id": 370904815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.970366,34.976789,-81.970366,34.976789",
     "geom:latitude":34.976789,
     "geom:longitude":-81.970366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7068 Howard St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370904815,
-    "wof:lastmodified":1449032554,
+    "wof:lastmodified":1467082375,
     "wof:name":"Hub City Coffee",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-81.970366,34.976789,-81.970366,34.976789],
+  "bbox": [
+    -81.970366,
+    34.976789,
+    -81.970366,
+    34.976789
+],
   "geometry": {"coordinates":[-81.970366,34.976789],"type":"Point"}
 }

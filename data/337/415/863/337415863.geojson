@@ -2,13 +2,14 @@
   "id": 337415863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.616345,32.32836,-80.616345,32.32836",
     "geom:latitude":32.32836,
     "geom:longitude":-80.616345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Carolina Cswy",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337415863,
-    "wof:lastmodified":1449027537,
+    "wof:lastmodified":1467082287,
     "wof:name":"Full House Properties Inc",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.616345,32.32836,-80.616345,32.32836],
+  "bbox": [
+    -80.616345,
+    32.32836,
+    -80.616345,
+    32.32836
+],
   "geometry": {"coordinates":[-80.616345,32.32836],"type":"Point"}
 }

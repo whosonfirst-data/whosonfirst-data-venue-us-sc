@@ -2,13 +2,14 @@
   "id": 186223849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.902318,33.700883,-78.902318,33.700883",
     "geom:latitude":33.700883,
     "geom:longitude":-78.902318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 US Hwy 501",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186223849,
-    "wof:lastmodified":1449050438,
+    "wof:lastmodified":1467082390,
     "wof:name":"Longley Supply Co",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.902318,33.700883,-78.902318,33.700883],
-  "geometry": {"coordinates":[-78.902318,33.700883],"type":"Point"}
+  "bbox": [
+    -78.902318,
+    33.700883,
+    -78.902318,
+    33.700883
+],
+  "geometry": {"coordinates":[-78.90231799999999,33.700883],"type":"Point"}
 }

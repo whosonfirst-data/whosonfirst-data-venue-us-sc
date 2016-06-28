@@ -2,13 +2,14 @@
   "id": 370563863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.830651,33.664822,-79.830651,33.664822",
     "geom:latitude":33.664822,
     "geom:longitude":-79.830651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 N Academy St",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370563863,
-    "wof:lastmodified":1449029121,
+    "wof:lastmodified":1467082299,
     "wof:name":"Jenkinson Law Firm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.830651,33.664822,-79.830651,33.664822],
+  "bbox": [
+    -79.830651,
+    33.664822,
+    -79.830651,
+    33.664822
+],
   "geometry": {"coordinates":[-79.830651,33.664822],"type":"Point"}
 }

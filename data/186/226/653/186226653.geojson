@@ -2,13 +2,14 @@
   "id": 186226653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.173078,33.020099,-80.173078,33.020099",
     "geom:latitude":33.020099,
     "geom:longitude":-80.173078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 N Magnolia St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186226653,
-    "wof:lastmodified":1449052303,
+    "wof:lastmodified":1467082406,
     "wof:name":"Pryor Enterprises",
     "wof:parent_id":85833421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [-80.173078,33.020099,-80.173078,33.020099],
+  "bbox": [
+    -80.173078,
+    33.020099,
+    -80.173078,
+    33.020099
+],
   "geometry": {"coordinates":[-80.173078,33.020099],"type":"Point"}
 }

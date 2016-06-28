@@ -2,13 +2,14 @@
   "id": 354257077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.124775,34.953833,-82.124775,34.953833",
     "geom:latitude":34.953833,
     "geom:longitude":-82.124775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Groce Rd",
     "sg:city":"Lyman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354257077,
-    "wof:lastmodified":1449066407,
+    "wof:lastmodified":1467082425,
     "wof:name":"Victory Lane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "collectible"
     ]
 },
-  "bbox": [-82.124775,34.953833,-82.124775,34.953833],
+  "bbox": [
+    -82.124775,
+    34.953833,
+    -82.124775,
+    34.953833
+],
   "geometry": {"coordinates":[-82.124775,34.953833],"type":"Point"}
 }

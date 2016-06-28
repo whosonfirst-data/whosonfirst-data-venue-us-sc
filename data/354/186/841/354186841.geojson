@@ -2,13 +2,14 @@
   "id": 354186841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.210939,34.705714,-81.210939,34.705714",
     "geom:latitude":34.705714,
     "geom:longitude":-81.210939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Hudson St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354186841,
-    "wof:lastmodified":1449067265,
+    "wof:lastmodified":1467082445,
     "wof:name":"Hazel Pittman Ctr",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "drug"
     ]
 },
-  "bbox": [-81.210939,34.705714,-81.210939,34.705714],
+  "bbox": [
+    -81.210939,
+    34.705714,
+    -81.210939,
+    34.705714
+],
   "geometry": {"coordinates":[-81.210939,34.705714],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186197979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.022816,33.585057,-79.022816,33.585057",
     "geom:latitude":33.585057,
     "geom:longitude":-79.022816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Offshore Dr",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186197979,
-    "wof:lastmodified":1449052675,
+    "wof:lastmodified":1467082410,
     "wof:name":"Spanish Concrete",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.022816,33.585057,-79.022816,33.585057],
-  "geometry": {"coordinates":[-79.022816,33.585057],"type":"Point"}
+  "bbox": [
+    -79.022816,
+    33.585057,
+    -79.022816,
+    33.585057
+],
+  "geometry": {"coordinates":[-79.02281600000001,33.585057],"type":"Point"}
 }

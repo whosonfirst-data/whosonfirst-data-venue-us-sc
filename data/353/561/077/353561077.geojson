@@ -2,13 +2,14 @@
   "id": 353561077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.091473,33.976742,-81.091473,33.976742",
     "geom:latitude":33.976742,
     "geom:longitude":-81.091473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Dreher Rd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353561077,
-    "wof:lastmodified":1449020057,
+    "wof:lastmodified":1467082246,
     "wof:name":"Summerfield Associates Inc",
     "wof:parent_id":85808009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.091473,33.976742,-81.091473,33.976742],
-  "geometry": {"coordinates":[-81.091473,33.976742],"type":"Point"}
+  "bbox": [
+    -81.091473,
+    33.976742,
+    -81.091473,
+    33.976742
+],
+  "geometry": {"coordinates":[-81.09147299999999,33.976742],"type":"Point"}
 }

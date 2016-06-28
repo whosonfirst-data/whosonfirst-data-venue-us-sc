@@ -2,13 +2,14 @@
   "id": 354004597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.793534,34.225,-79.793534,34.225",
     "geom:latitude":34.225,
     "geom:longitude":-79.793534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 W Lucas St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354004597,
-    "wof:lastmodified":1449066538,
+    "wof:lastmodified":1467082428,
     "wof:name":"Big A Auto Sales",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.793534,34.225,-79.793534,34.225],
-  "geometry": {"coordinates":[-79.793534,34.225],"type":"Point"}
+  "bbox": [
+    -79.793534,
+    34.225,
+    -79.793534,
+    34.225
+],
+  "geometry": {"coordinates":[-79.79353399999999,34.225],"type":"Point"}
 }

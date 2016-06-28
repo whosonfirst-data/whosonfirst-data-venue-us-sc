@@ -2,13 +2,14 @@
   "id": 370822271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.533203,34.209197,-81.533203,34.209197",
     "geom:latitude":34.209197,
     "geom:longitude":-81.533203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Elm St",
     "sg:city":"Prosperity",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370822271,
-    "wof:lastmodified":1449032368,
+    "wof:lastmodified":1467082371,
     "wof:name":"Mike's Repair & Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-81.533203,34.209197,-81.533203,34.209197],
+  "bbox": [
+    -81.533203,
+    34.209197,
+    -81.533203,
+    34.209197
+],
   "geometry": {"coordinates":[-81.533203,34.209197],"type":"Point"}
 }

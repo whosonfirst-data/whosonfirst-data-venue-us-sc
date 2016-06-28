@@ -2,13 +2,14 @@
   "id": 354347297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.188564,33.766799,-79.188564,33.766799",
     "geom:latitude":33.766799,
     "geom:longitude":-79.188564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4823 Pee Dee Hwy",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354347297,
-    "wof:lastmodified":1449066739,
+    "wof:lastmodified":1467082433,
     "wof:name":"Waccamaw Grocery",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-79.188564,33.766799,-79.188564,33.766799],
+  "bbox": [
+    -79.188564,
+    33.766799,
+    -79.188564,
+    33.766799
+],
   "geometry": {"coordinates":[-79.188564,33.766799],"type":"Point"}
 }

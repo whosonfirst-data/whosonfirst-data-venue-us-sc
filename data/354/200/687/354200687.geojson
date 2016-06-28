@@ -2,13 +2,14 @@
   "id": 354200687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.248096,34.869533,-82.248096,34.869533",
     "geom:latitude":34.869533,
     "geom:longitude":-82.248096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1062 S Batesville Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354200687,
-    "wof:lastmodified":1449066600,
+    "wof:lastmodified":1467082430,
     "wof:name":"John Y Dental Laboratory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-82.248096,34.869533,-82.248096,34.869533],
+  "bbox": [
+    -82.248096,
+    34.869533,
+    -82.248096,
+    34.869533
+],
   "geometry": {"coordinates":[-82.248096,34.869533],"type":"Point"}
 }

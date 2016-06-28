@@ -2,13 +2,14 @@
   "id": 185935855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.051822,33.557435,-79.051822,33.557435",
     "geom:latitude":33.557435,
     "geom:longitude":-79.051822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4430 May Pop Trl",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185935855,
-    "wof:lastmodified":1449007946,
+    "wof:lastmodified":1467082203,
     "wof:name":"Horry Georgetown Soccer Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "soccer"
     ]
 },
-  "bbox": [-79.051822,33.557435,-79.051822,33.557435],
+  "bbox": [
+    -79.051822,
+    33.557435,
+    -79.051822,
+    33.557435
+],
   "geometry": {"coordinates":[-79.051822,33.557435],"type":"Point"}
 }

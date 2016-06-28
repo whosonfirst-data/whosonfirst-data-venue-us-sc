@@ -2,13 +2,14 @@
   "id": 354209555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.211316,33.979194,-81.211316,33.979194",
     "geom:latitude":33.979194,
     "geom:longitude":-81.211316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Amelia Dr",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354209555,
-    "wof:lastmodified":1449067493,
+    "wof:lastmodified":1467082450,
     "wof:name":"Guide Of Homes",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-81.211316,33.979194,-81.211316,33.979194],
+  "bbox": [
+    -81.211316,
+    33.979194,
+    -81.211316,
+    33.979194
+],
   "geometry": {"coordinates":[-81.211316,33.979194],"type":"Point"}
 }

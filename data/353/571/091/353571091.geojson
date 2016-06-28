@@ -2,13 +2,14 @@
   "id": 353571091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.958159,34.697576,-82.958159,34.697576",
     "geom:latitude":34.697576,
     "geom:longitude":-82.958159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 US Hwy 123",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353571091,
-    "wof:lastmodified":1449019978,
+    "wof:lastmodified":1467082245,
     "wof:name":"Easley Eye",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.958159,34.697576,-82.958159,34.697576],
-  "geometry": {"coordinates":[-82.958159,34.697576],"type":"Point"}
+  "bbox": [
+    -82.958159,
+    34.697576,
+    -82.958159,
+    34.697576
+],
+  "geometry": {"coordinates":[-82.95815899999999,34.697576],"type":"Point"}
 }

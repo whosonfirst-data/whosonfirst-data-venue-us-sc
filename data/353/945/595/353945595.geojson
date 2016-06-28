@@ -2,13 +2,14 @@
   "id": 353945595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.795139,34.721387,-80.795139,34.721387",
     "geom:latitude":34.721387,
     "geom:longitude":-80.795139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Colonial Commons Ct",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353945595,
-    "wof:lastmodified":1449018477,
+    "wof:lastmodified":1467082214,
     "wof:name":"Carolina Orthopaedic Surgery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.795139,34.721387,-80.795139,34.721387],
-  "geometry": {"coordinates":[-80.795139,34.721387],"type":"Point"}
+  "bbox": [
+    -80.795139,
+    34.721387,
+    -80.795139,
+    34.721387
+],
+  "geometry": {"coordinates":[-80.79513900000001,34.721387],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169745479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.009121,32.807505,-80.009121,32.807505",
     "geom:latitude":32.807505,
     "geom:longitude":-80.009121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1644 Ashley Hall Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169745479,
-    "wof:lastmodified":1449035813,
+    "wof:lastmodified":1467082387,
     "wof:name":"T J's Closet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "consignment"
     ]
 },
-  "bbox": [-80.009121,32.807505,-80.009121,32.807505],
-  "geometry": {"coordinates":[-80.009121,32.807505],"type":"Point"}
+  "bbox": [
+    -80.009121,
+    32.807505,
+    -80.009121,
+    32.807505
+],
+  "geometry": {"coordinates":[-80.00912099999999,32.807505],"type":"Point"}
 }

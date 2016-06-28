@@ -2,13 +2,14 @@
   "id": 185739101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.27258,34.010635,-81.27258,34.010635",
     "geom:latitude":34.010635,
     "geom:longitude":-81.27258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Farmington Ct",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185739101,
-    "wof:lastmodified":1449007282,
+    "wof:lastmodified":1467082193,
     "wof:name":"Spangler Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.27258,34.010635,-81.27258,34.010635],
+  "bbox": [
+    -81.27258,
+    34.010635,
+    -81.27258,
+    34.010635
+],
   "geometry": {"coordinates":[-81.27258,34.010635],"type":"Point"}
 }

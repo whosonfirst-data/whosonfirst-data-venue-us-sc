@@ -2,13 +2,14 @@
   "id": 337528311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.117487,34.005171,-81.117487,34.005171",
     "geom:latitude":34.005171,
     "geom:longitude":-81.117487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 Sunset Blvd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337528311,
-    "wof:lastmodified":1449027151,
+    "wof:lastmodified":1467082273,
     "wof:name":"Health Line/Recorded Messages",
     "wof:parent_id":85857097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-81.117487,34.005171,-81.117487,34.005171],
+  "bbox": [
+    -81.117487,
+    34.005171,
+    -81.117487,
+    34.005171
+],
   "geometry": {"coordinates":[-81.117487,34.005171],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337455383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.801258,33.831845,-81.801258,33.831845",
     "geom:latitude":33.831845,
     "geom:longitude":-81.801258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Calhoun St",
     "sg:city":"Johnston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337455383,
-    "wof:lastmodified":1449027609,
+    "wof:lastmodified":1467082290,
     "wof:name":"Tidwell Jewelers of Johnstone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-81.801258,33.831845,-81.801258,33.831845],
+  "bbox": [
+    -81.801258,
+    33.831845,
+    -81.801258,
+    33.831845
+],
   "geometry": {"coordinates":[-81.801258,33.831845],"type":"Point"}
 }

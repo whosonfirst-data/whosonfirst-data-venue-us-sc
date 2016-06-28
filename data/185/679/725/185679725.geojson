@@ -2,13 +2,14 @@
   "id": 185679725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.996606,32.799003,-79.996606,32.799003",
     "geom:latitude":32.799003,
     "geom:longitude":-79.996606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Carriage Ln",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185679725,
-    "wof:lastmodified":1449007632,
+    "wof:lastmodified":1467082198,
     "wof:name":"Vision Software Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-79.996606,32.799003,-79.996606,32.799003],
+  "bbox": [
+    -79.996606,
+    32.799003,
+    -79.996606,
+    32.799003
+],
   "geometry": {"coordinates":[-79.996606,32.799003],"type":"Point"}
 }

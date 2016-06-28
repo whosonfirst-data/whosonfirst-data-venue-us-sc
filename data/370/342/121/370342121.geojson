@@ -2,13 +2,14 @@
   "id": 370342121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.077945,32.848652,-81.077945,32.848652",
     "geom:latitude":32.848652,
     "geom:longitude":-81.077945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 E Carolina Ave",
     "sg:city":"Varnville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370342121,
-    "wof:lastmodified":1449032223,
+    "wof:lastmodified":1467082368,
     "wof:name":"Bishop's Auto Collision Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-81.077945,32.848652,-81.077945,32.848652],
+  "bbox": [
+    -81.077945,
+    32.848652,
+    -81.077945,
+    32.848652
+],
   "geometry": {"coordinates":[-81.077945,32.848652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354177845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.014006,34.942752,-82.014006,34.942752",
     "geom:latitude":34.942752,
     "geom:longitude":-82.014006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Elm Ct",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354177845,
-    "wof:lastmodified":1449067661,
+    "wof:lastmodified":1467082454,
     "wof:name":"Ag Marxouca Textile",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.014006,34.942752,-82.014006,34.942752],
-  "geometry": {"coordinates":[-82.014006,34.942752],"type":"Point"}
+  "bbox": [
+    -82.014006,
+    34.942752,
+    -82.014006,
+    34.942752
+],
+  "geometry": {"coordinates":[-82.01400599999999,34.942752],"type":"Point"}
 }

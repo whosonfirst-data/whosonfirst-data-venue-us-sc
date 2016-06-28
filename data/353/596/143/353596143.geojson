@@ -2,13 +2,14 @@
   "id": 353596143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.40041,34.847587,-82.40041,34.847587",
     "geom:latitude":34.847587,
     "geom:longitude":-82.40041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Main St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353596143,
-    "wof:lastmodified":1449019573,
+    "wof:lastmodified":1467082236,
     "wof:name":"Greenville Symphony Assn",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "information"
     ]
 },
-  "bbox": [-82.40041,34.847587,-82.40041,34.847587],
-  "geometry": {"coordinates":[-82.40041,34.847587],"type":"Point"}
+  "bbox": [
+    -82.40041,
+    34.847587,
+    -82.40041,
+    34.847587
+],
+  "geometry": {"coordinates":[-82.40040999999999,34.847587],"type":"Point"}
 }

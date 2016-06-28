@@ -2,13 +2,14 @@
   "id": 353433873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.654366,34.296187,-81.654366,34.296187",
     "geom:latitude":34.296187,
     "geom:longitude":-81.654366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Airport Rd",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353433873,
-    "wof:lastmodified":1449018548,
+    "wof:lastmodified":1467082216,
     "wof:name":"Carolina Calls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.654366,34.296187,-81.654366,34.296187],
+  "bbox": [
+    -81.654366,
+    34.296187,
+    -81.654366,
+    34.296187
+],
   "geometry": {"coordinates":[-81.654366,34.296187],"type":"Point"}
 }

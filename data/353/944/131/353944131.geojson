@@ -2,13 +2,14 @@
   "id": 353944131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.659428,35.002638,-81.659428,35.002638",
     "geom:latitude":35.002638,
     "geom:longitude":-81.659428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Burnt Gin Rd",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353944131,
-    "wof:lastmodified":1449019539,
+    "wof:lastmodified":1467082236,
     "wof:name":"Medley Tree Svc Stump Grinding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.659428,35.002638,-81.659428,35.002638],
-  "geometry": {"coordinates":[-81.659428,35.002638],"type":"Point"}
+  "bbox": [
+    -81.659428,
+    35.002638,
+    -81.659428,
+    35.002638
+],
+  "geometry": {"coordinates":[-81.65942800000001,35.002638],"type":"Point"}
 }

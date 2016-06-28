@@ -2,13 +2,14 @@
   "id": 370628313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.437013,34.644948,-82.437013,34.644948",
     "geom:latitude":34.644948,
     "geom:longitude":-82.437013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Eastview Rd",
     "sg:city":"Pelzer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370628313,
-    "wof:lastmodified":1449031830,
+    "wof:lastmodified":1467082359,
     "wof:name":"Eastview Baptist Church",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.437013,34.644948,-82.437013,34.644948],
-  "geometry": {"coordinates":[-82.437013,34.644948],"type":"Point"}
+  "bbox": [
+    -82.437013,
+    34.644948,
+    -82.437013,
+    34.644948
+],
+  "geometry": {"coordinates":[-82.43701299999999,34.644948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185822331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.067417,34.758882,-83.067417,34.758882",
     "geom:latitude":34.758882,
     "geom:longitude":-83.067417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 S College St",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185822331,
-    "wof:lastmodified":1449008141,
+    "wof:lastmodified":1467082206,
     "wof:name":"Wilson's Used Cars",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-83.067417,34.758882,-83.067417,34.758882],
-  "geometry": {"coordinates":[-83.067417,34.758882],"type":"Point"}
+  "bbox": [
+    -83.067417,
+    34.758882,
+    -83.067417,
+    34.758882
+],
+  "geometry": {"coordinates":[-83.06741700000001,34.758882],"type":"Point"}
 }

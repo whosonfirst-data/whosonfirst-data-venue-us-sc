@@ -2,13 +2,14 @@
   "id": 353638043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.572378,34.828553,-82.572378,34.828553",
     "geom:latitude":34.828553,
     "geom:longitude":-82.572378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Peachtree St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353638043,
-    "wof:lastmodified":1449018389,
+    "wof:lastmodified":1467082212,
     "wof:name":"Easley Combined Utility System",
     "wof:parent_id":85819785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "city"
     ]
 },
-  "bbox": [-82.572378,34.828553,-82.572378,34.828553],
+  "bbox": [
+    -82.572378,
+    34.828553,
+    -82.572378,
+    34.828553
+],
   "geometry": {"coordinates":[-82.572378,34.828553],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169802593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.020425,32.846285,-80.020425,32.846285",
     "geom:latitude":32.846285,
     "geom:longitude":-80.020425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3950 Faber Place Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169802593,
-    "wof:lastmodified":1449035341,
+    "wof:lastmodified":1467082386,
     "wof:name":"Mead Westvaco Corp",
     "wof:parent_id":85818395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.020425,32.846285,-80.020425,32.846285],
+  "bbox": [
+    -80.020425,
+    32.846285,
+    -80.020425,
+    32.846285
+],
   "geometry": {"coordinates":[-80.020425,32.846285],"type":"Point"}
 }

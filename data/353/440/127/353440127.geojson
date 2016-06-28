@@ -2,13 +2,14 @@
   "id": 353440127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.863443,33.249899,-79.863443,33.249899",
     "geom:latitude":33.249899,
     "geom:longitude":-79.863443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Old Camp Rd",
     "sg:city":"Bonneau",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353440127,
-    "wof:lastmodified":1449019154,
+    "wof:lastmodified":1467082228,
     "wof:name":"Scotts Roofing",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.863443,33.249899,-79.863443,33.249899],
+  "bbox": [
+    -79.863443,
+    33.249899,
+    -79.863443,
+    33.249899
+],
   "geometry": {"coordinates":[-79.863443,33.249899],"type":"Point"}
 }

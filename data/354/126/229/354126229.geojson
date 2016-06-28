@@ -2,13 +2,14 @@
   "id": 354126229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.936281,32.779651,-79.936281,32.779651",
     "geom:latitude":32.779651,
     "geom:longitude":-79.936281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Logan St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354126229,
-    "wof:lastmodified":1449066544,
+    "wof:lastmodified":1467082428,
     "wof:name":"Huguenot Society Of SC",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.936281,32.779651,-79.936281,32.779651],
-  "geometry": {"coordinates":[-79.936281,32.779651],"type":"Point"}
+  "bbox": [
+    -79.936281,
+    32.779651,
+    -79.936281,
+    32.779651
+],
+  "geometry": {"coordinates":[-79.93628099999999,32.779651],"type":"Point"}
 }

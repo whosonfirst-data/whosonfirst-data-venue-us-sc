@@ -2,13 +2,14 @@
   "id": 370860991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.433944,34.049068,-80.433944,34.049068",
     "geom:latitude":34.049068,
     "geom:longitude":-80.433944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5515 Peach Orchard Rd",
     "sg:city":"Dalzell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370860991,
-    "wof:lastmodified":1449030601,
+    "wof:lastmodified":1467082332,
     "wof:name":"Clark's Corner",
     "wof:parent_id":85848059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.433944,34.049068,-80.433944,34.049068],
+  "bbox": [
+    -80.433944,
+    34.049068,
+    -80.433944,
+    34.049068
+],
   "geometry": {"coordinates":[-80.433944,34.049068],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185769137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.170189,33.026655,-80.170189,33.026655",
     "geom:latitude":33.026655,
     "geom:longitude":-80.170189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 N Main St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185769137,
-    "wof:lastmodified":1449007134,
+    "wof:lastmodified":1467082190,
     "wof:name":"National Bank Of So Carolina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.170189,33.026655,-80.170189,33.026655],
-  "geometry": {"coordinates":[-80.170189,33.026655],"type":"Point"}
+  "bbox": [
+    -80.170189,
+    33.026655,
+    -80.170189,
+    33.026655
+],
+  "geometry": {"coordinates":[-80.17018899999999,33.026655],"type":"Point"}
 }

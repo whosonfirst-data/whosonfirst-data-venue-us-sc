@@ -2,13 +2,14 @@
   "id": 354284155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.052892,34.062505,-81.052892,34.062505",
     "geom:latitude":34.062505,
     "geom:longitude":-81.052892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Peeples St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354284155,
-    "wof:lastmodified":1449067006,
+    "wof:lastmodified":1467082439,
     "wof:name":"Coastal Concrete Of Columbia",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-81.052892,34.062505,-81.052892,34.062505],
+  "bbox": [
+    -81.052892,
+    34.062505,
+    -81.052892,
+    34.062505
+],
   "geometry": {"coordinates":[-81.052892,34.062505],"type":"Point"}
 }

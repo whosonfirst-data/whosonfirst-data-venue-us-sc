@@ -2,13 +2,14 @@
   "id": 169732263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.212146,33.690021,-80.212146,33.690021",
     "geom:latitude":33.690021,
     "geom:longitude":-80.212146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 S Mill St",
     "sg:city":"Manning",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169732263,
-    "wof:lastmodified":1449036072,
+    "wof:lastmodified":1467082388,
     "wof:name":"Lisa Bair Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rental"
     ]
 },
-  "bbox": [-80.212146,33.690021,-80.212146,33.690021],
+  "bbox": [
+    -80.212146,
+    33.690021,
+    -80.212146,
+    33.690021
+],
   "geometry": {"coordinates":[-80.212146,33.690021],"type":"Point"}
 }

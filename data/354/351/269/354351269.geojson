@@ -2,13 +2,14 @@
   "id": 354351269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.368645,34.833027,-82.368645,34.833027",
     "geom:latitude":34.833027,
     "geom:longitude":-82.368645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"498 S Pleasantburg Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354351269,
-    "wof:lastmodified":1449067395,
+    "wof:lastmodified":1467082448,
     "wof:name":"Bank Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-82.368645,34.833027,-82.368645,34.833027],
+  "bbox": [
+    -82.368645,
+    34.833027,
+    -82.368645,
+    34.833027
+],
   "geometry": {"coordinates":[-82.368645,34.833027],"type":"Point"}
 }

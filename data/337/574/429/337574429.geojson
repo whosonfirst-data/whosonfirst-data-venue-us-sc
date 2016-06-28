@@ -2,13 +2,14 @@
   "id": 337574429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.17296,34.203636,-82.17296,34.203636",
     "geom:latitude":34.203636,
     "geom:longitude":-82.17296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 Montague Ave",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337574429,
-    "wof:lastmodified":1449026928,
+    "wof:lastmodified":1467082264,
     "wof:name":"Fashion Shack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.17296,34.203636,-82.17296,34.203636],
+  "bbox": [
+    -82.17296,
+    34.203636,
+    -82.17296,
+    34.203636
+],
   "geometry": {"coordinates":[-82.17296,34.203636],"type":"Point"}
 }

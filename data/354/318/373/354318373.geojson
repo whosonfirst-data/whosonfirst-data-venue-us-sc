@@ -2,13 +2,14 @@
   "id": 354318373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.967999,35.025517,-81.967999,35.025517",
     "geom:latitude":35.025517,
     "geom:longitude":-81.967999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Kenneth Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354318373,
-    "wof:lastmodified":1449066292,
+    "wof:lastmodified":1467082422,
     "wof:name":"Specialty Gifts Galore",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.967999,35.025517,-81.967999,35.025517],
-  "geometry": {"coordinates":[-81.967999,35.025517],"type":"Point"}
+  "bbox": [
+    -81.967999,
+    35.025517,
+    -81.967999,
+    35.025517
+],
+  "geometry": {"coordinates":[-81.96799900000001,35.025517],"type":"Point"}
 }

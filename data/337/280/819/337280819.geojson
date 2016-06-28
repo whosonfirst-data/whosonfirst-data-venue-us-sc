@@ -2,13 +2,14 @@
   "id": 337280819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.767531,34.183636,-79.767531,34.183636",
     "geom:latitude":34.183636,
     "geom:longitude":-79.767531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Cherokee Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337280819,
-    "wof:lastmodified":1449027351,
+    "wof:lastmodified":1467082280,
     "wof:name":"Immanuel Child Care Ministries",
     "wof:parent_id":85829393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.767531,34.183636,-79.767531,34.183636],
-  "geometry": {"coordinates":[-79.767531,34.183636],"type":"Point"}
+  "bbox": [
+    -79.767531,
+    34.183636,
+    -79.767531,
+    34.183636
+],
+  "geometry": {"coordinates":[-79.76753100000001,34.183636],"type":"Point"}
 }

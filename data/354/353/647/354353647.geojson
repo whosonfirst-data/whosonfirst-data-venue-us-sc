@@ -2,13 +2,14 @@
   "id": 354353647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.351165,33.931671,-80.351165,33.931671",
     "geom:latitude":33.931671,
     "geom:longitude":-80.351165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Broad St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":354353647,
-    "wof:lastmodified":1449066388,
+    "wof:lastmodified":1467082425,
     "wof:name":"Youngs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.351165,33.931671,-80.351165,33.931671],
-  "geometry": {"coordinates":[-80.351165,33.931671],"type":"Point"}
+  "bbox": [
+    -80.351165,
+    33.931671,
+    -80.351165,
+    33.931671
+],
+  "geometry": {"coordinates":[-80.35116499999999,33.931671],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186312153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.023289,34.175316,-82.023289,34.175316",
     "geom:latitude":34.175316,
     "geom:longitude":-82.023289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Ninety Six Hwy",
     "sg:city":"Ninety Six",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186312153,
-    "wof:lastmodified":1449051727,
+    "wof:lastmodified":1467082400,
     "wof:name":"Farris Bakery & Deli",
     "wof:parent_id":85811917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-82.023289,34.175316,-82.023289,34.175316],
-  "geometry": {"coordinates":[-82.023289,34.175316],"type":"Point"}
+  "bbox": [
+    -82.023289,
+    34.175316,
+    -82.023289,
+    34.175316
+],
+  "geometry": {"coordinates":[-82.02328900000001,34.175316],"type":"Point"}
 }

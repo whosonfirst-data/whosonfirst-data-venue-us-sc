@@ -2,13 +2,14 @@
   "id": 353807003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.019168,32.902691,-80.019168,32.902691",
     "geom:latitude":32.902691,
     "geom:longitude":-80.019168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5935 Rivers Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353807003,
-    "wof:lastmodified":1449018916,
+    "wof:lastmodified":1467082223,
     "wof:name":"Pathology Service Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.019168,32.902691,-80.019168,32.902691],
-  "geometry": {"coordinates":[-80.019168,32.902691],"type":"Point"}
+  "bbox": [
+    -80.019168,
+    32.902691,
+    -80.019168,
+    32.902691
+],
+  "geometry": {"coordinates":[-80.01916799999999,32.902691],"type":"Point"}
 }

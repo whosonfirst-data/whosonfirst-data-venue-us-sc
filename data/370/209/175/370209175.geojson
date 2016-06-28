@@ -2,13 +2,14 @@
   "id": 370209175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.422156,34.349102,-82.422156,34.349102",
     "geom:latitude":34.349102,
     "geom:longitude":-82.422156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 Hook Rd",
     "sg:city":"Donalds",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370209175,
-    "wof:lastmodified":1449032120,
+    "wof:lastmodified":1467082365,
     "wof:name":"Palmetto Mailing House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "shipping"
     ]
 },
-  "bbox": [-82.422156,34.349102,-82.422156,34.349102],
+  "bbox": [
+    -82.422156,
+    34.349102,
+    -82.422156,
+    34.349102
+],
   "geometry": {"coordinates":[-82.422156,34.349102],"type":"Point"}
 }

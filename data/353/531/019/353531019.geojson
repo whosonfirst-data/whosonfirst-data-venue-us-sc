@@ -2,13 +2,14 @@
   "id": 353531019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.601521,34.905427,-82.601521,34.905427",
     "geom:latitude":34.905427,
     "geom:longitude":-82.601521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Jameson Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353531019,
-    "wof:lastmodified":1449018853,
+    "wof:lastmodified":1467082222,
     "wof:name":"Cross Roads Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-82.601521,34.905427,-82.601521,34.905427],
-  "geometry": {"coordinates":[-82.601521,34.905427],"type":"Point"}
+  "bbox": [
+    -82.601521,
+    34.905427,
+    -82.601521,
+    34.905427
+],
+  "geometry": {"coordinates":[-82.60152100000001,34.905427],"type":"Point"}
 }

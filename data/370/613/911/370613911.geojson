@@ -2,13 +2,14 @@
   "id": 370613911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.859292,32.265218,-80.859292,32.265218",
     "geom:latitude":32.265218,
     "geom:longitude":-80.859292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Sheridan Park Cir",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370613911,
-    "wof:lastmodified":1449030670,
+    "wof:lastmodified":1467082333,
     "wof:name":"Dancing Doll",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.859292,32.265218,-80.859292,32.265218],
+  "bbox": [
+    -80.859292,
+    32.265218,
+    -80.859292,
+    32.265218
+],
   "geometry": {"coordinates":[-80.859292,32.265218],"type":"Point"}
 }

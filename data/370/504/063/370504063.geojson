@@ -2,13 +2,14 @@
   "id": 370504063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.668489,32.90354,-80.668489,32.90354",
     "geom:latitude":32.90354,
     "geom:longitude":-80.668489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Klein St",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370504063,
-    "wof:lastmodified":1449029682,
+    "wof:lastmodified":1467082311,
     "wof:name":"Colleton County Adm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.668489,32.90354,-80.668489,32.90354],
-  "geometry": {"coordinates":[-80.668489,32.90354],"type":"Point"}
+  "bbox": [
+    -80.668489,
+    32.90354,
+    -80.668489,
+    32.90354
+],
+  "geometry": {"coordinates":[-80.66848899999999,32.90354],"type":"Point"}
 }

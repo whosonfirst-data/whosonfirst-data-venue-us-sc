@@ -2,13 +2,14 @@
   "id": 353911781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.249366,34.987966,-81.249366,34.987966",
     "geom:latitude":34.987966,
     "geom:longitude":-81.249366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Hill St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353911781,
-    "wof:lastmodified":1449020404,
+    "wof:lastmodified":1467082253,
     "wof:name":"Hill Street Church Of God",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.249366,34.987966,-81.249366,34.987966],
-  "geometry": {"coordinates":[-81.249366,34.987966],"type":"Point"}
+  "bbox": [
+    -81.249366,
+    34.987966,
+    -81.249366,
+    34.987966
+],
+  "geometry": {"coordinates":[-81.24936599999999,34.987966],"type":"Point"}
 }

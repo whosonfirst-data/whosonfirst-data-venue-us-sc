@@ -2,13 +2,14 @@
   "id": 186215809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.707873,32.849605,-80.707873,32.849605",
     "geom:latitude":32.849605,
     "geom:longitude":-80.707873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Chrysler Ln",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186215809,
-    "wof:lastmodified":1449052543,
+    "wof:lastmodified":1467082408,
     "wof:name":"Prime Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "c"
     ]
 },
-  "bbox": [-80.707873,32.849605,-80.707873,32.849605],
-  "geometry": {"coordinates":[-80.707873,32.849605],"type":"Point"}
+  "bbox": [
+    -80.707873,
+    32.849605,
+    -80.707873,
+    32.849605
+],
+  "geometry": {"coordinates":[-80.70787300000001,32.849605],"type":"Point"}
 }

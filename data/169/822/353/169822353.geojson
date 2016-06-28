@@ -2,13 +2,14 @@
   "id": 169822353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.001245,34.089803,-81.001245,34.089803",
     "geom:latitude":34.089803,
     "geom:longitude":-81.001245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"665 Sharpe Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169822353,
-    "wof:lastmodified":1449035862,
+    "wof:lastmodified":1467082387,
     "wof:name":"Flanagan's Community Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "residential"
     ]
 },
-  "bbox": [-81.001245,34.089803,-81.001245,34.089803],
+  "bbox": [
+    -81.001245,
+    34.089803,
+    -81.001245,
+    34.089803
+],
   "geometry": {"coordinates":[-81.001245,34.089803],"type":"Point"}
 }

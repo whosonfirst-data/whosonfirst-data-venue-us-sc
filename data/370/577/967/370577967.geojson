@@ -2,13 +2,14 @@
   "id": 370577967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.008501,34.976292,-81.008501,34.976292",
     "geom:latitude":34.976292,
     "geom:longitude":-81.008501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2115 Celanese Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370577967,
-    "wof:lastmodified":1449032584,
+    "wof:lastmodified":1467082376,
     "wof:name":"Aldersgate United Methodist",
     "wof:parent_id":85841095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.008501,34.976292,-81.008501,34.976292],
+  "bbox": [
+    -81.008501,
+    34.976292,
+    -81.008501,
+    34.976292
+],
   "geometry": {"coordinates":[-81.008501,34.976292],"type":"Point"}
 }

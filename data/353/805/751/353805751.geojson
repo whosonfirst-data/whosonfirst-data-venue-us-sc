@@ -2,13 +2,14 @@
   "id": 353805751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.766297,34.20272,-79.766297,34.20272",
     "geom:latitude":34.20272,
     "geom:longitude":-79.766297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 N Dargan St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353805751,
-    "wof:lastmodified":1449019114,
+    "wof:lastmodified":1467082227,
     "wof:name":"Cherry S Cafe",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.766297,34.20272,-79.766297,34.20272],
-  "geometry": {"coordinates":[-79.766297,34.20272],"type":"Point"}
+  "bbox": [
+    -79.766297,
+    34.20272,
+    -79.766297,
+    34.20272
+],
+  "geometry": {"coordinates":[-79.76629699999999,34.20272],"type":"Point"}
 }

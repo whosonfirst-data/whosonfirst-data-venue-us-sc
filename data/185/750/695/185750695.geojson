@@ -2,13 +2,14 @@
   "id": 185750695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.855837,32.811782,-79.855837,32.811782",
     "geom:latitude":32.811782,
     "geom:longitude":-79.855837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1068 Marsh Court Ln",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185750695,
-    "wof:lastmodified":1449007591,
+    "wof:lastmodified":1467082197,
     "wof:name":"Frank A Inabinet",
     "wof:parent_id":85824823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.855837,32.811782,-79.855837,32.811782],
-  "geometry": {"coordinates":[-79.855837,32.811782],"type":"Point"}
+  "bbox": [
+    -79.855837,
+    32.811782,
+    -79.855837,
+    32.811782
+],
+  "geometry": {"coordinates":[-79.85583699999999,32.811782],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353796645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.923249,34.1337,-79.923249,34.1337",
     "geom:latitude":34.1337,
     "geom:longitude":-79.923249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Pilots Ln",
     "sg:city":"Timmonsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353796645,
-    "wof:lastmodified":1449019463,
+    "wof:lastmodified":1467082234,
     "wof:name":"David's Aviation",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-79.923249,34.1337,-79.923249,34.1337],
+  "bbox": [
+    -79.923249,
+    34.1337,
+    -79.923249,
+    34.1337
+],
   "geometry": {"coordinates":[-79.923249,34.1337],"type":"Point"}
 }

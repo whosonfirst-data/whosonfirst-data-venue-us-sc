@@ -2,13 +2,14 @@
   "id": 337303337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.12081,32.92213,-80.12081,32.92213",
     "geom:latitude":32.92213,
     "geom:longitude":-80.12081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8008 Dorchester Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337303337,
-    "wof:lastmodified":1449026938,
+    "wof:lastmodified":1467082265,
     "wof:name":"Atlas Copco Rental Svc Corp",
     "wof:parent_id":85852525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.12081,32.92213,-80.12081,32.92213],
-  "geometry": {"coordinates":[-80.12081,32.92213],"type":"Point"}
+  "bbox": [
+    -80.12081,
+    32.92213,
+    -80.12081,
+    32.92213
+],
+  "geometry": {"coordinates":[-80.12081000000001,32.92213],"type":"Point"}
 }

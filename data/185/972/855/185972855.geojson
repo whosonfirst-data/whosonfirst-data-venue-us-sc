@@ -2,13 +2,14 @@
   "id": 185972855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.118185,34.068096,-81.118185,34.068096",
     "geom:latitude":34.068096,
     "geom:longitude":-81.118185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4521 Broad River Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185972855,
-    "wof:lastmodified":1449007441,
+    "wof:lastmodified":1467082195,
     "wof:name":"A-First Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-81.118185,34.068096,-81.118185,34.068096],
+  "bbox": [
+    -81.118185,
+    34.068096,
+    -81.118185,
+    34.068096
+],
   "geometry": {"coordinates":[-81.118185,34.068096],"type":"Point"}
 }

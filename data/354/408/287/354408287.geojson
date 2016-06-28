@@ -2,13 +2,14 @@
   "id": 354408287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.018251,33.62719,-79.018251,33.62719",
     "geom:latitude":33.62719,
     "geom:longitude":-79.018251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Reedy River Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354408287,
-    "wof:lastmodified":1449066150,
+    "wof:lastmodified":1467082419,
     "wof:name":"Bradham & Polson Investments",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-79.018251,33.62719,-79.018251,33.62719],
-  "geometry": {"coordinates":[-79.018251,33.62719],"type":"Point"}
+  "bbox": [
+    -79.018251,
+    33.62719,
+    -79.018251,
+    33.62719
+],
+  "geometry": {"coordinates":[-79.01825100000001,33.62719],"type":"Point"}
 }

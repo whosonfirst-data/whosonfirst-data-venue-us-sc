@@ -2,13 +2,14 @@
   "id": 354081403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.008043,32.799027,-80.008043,32.799027",
     "geom:latitude":32.799027,
     "geom:longitude":-80.008043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 Ashley River Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354081403,
-    "wof:lastmodified":1449066435,
+    "wof:lastmodified":1467082426,
     "wof:name":"Wire & Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "laundromat"
     ]
 },
-  "bbox": [-80.008043,32.799027,-80.008043,32.799027],
+  "bbox": [
+    -80.008043,
+    32.799027,
+    -80.008043,
+    32.799027
+],
   "geometry": {"coordinates":[-80.008043,32.799027],"type":"Point"}
 }

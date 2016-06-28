@@ -2,13 +2,14 @@
   "id": 370674849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.046672,34.073231,-81.046672,34.073231",
     "geom:latitude":34.073231,
     "geom:longitude":-81.046672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 Blue Ridge Ter",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370674849,
-    "wof:lastmodified":1449031623,
+    "wof:lastmodified":1467082354,
     "wof:name":"Vietnam Veterans Of America",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-81.046672,34.073231,-81.046672,34.073231],
+  "bbox": [
+    -81.046672,
+    34.073231,
+    -81.046672,
+    34.073231
+],
   "geometry": {"coordinates":[-81.046672,34.073231],"type":"Point"}
 }

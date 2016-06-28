@@ -2,13 +2,14 @@
   "id": 186080047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.131934,33.031231,-80.131934,33.031231",
     "geom:latitude":33.031231,
     "geom:longitude":-80.131934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Sundance Ct",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186080047,
-    "wof:lastmodified":1449052964,
+    "wof:lastmodified":1467082412,
     "wof:name":"Custom Contracting",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.131934,33.031231,-80.131934,33.031231],
+  "bbox": [
+    -80.131934,
+    33.031231,
+    -80.131934,
+    33.031231
+],
   "geometry": {"coordinates":[-80.131934,33.031231],"type":"Point"}
 }

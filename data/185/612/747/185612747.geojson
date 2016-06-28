@@ -2,13 +2,14 @@
   "id": 185612747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.309551,34.778765,-82.309551,34.778765",
     "geom:latitude":34.778765,
     "geom:longitude":-82.309551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 E Butler Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185612747,
-    "wof:lastmodified":1449007320,
+    "wof:lastmodified":1467082193,
     "wof:name":"City Administrative Office",
     "wof:parent_id":85851381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-82.309551,34.778765,-82.309551,34.778765],
+  "bbox": [
+    -82.309551,
+    34.778765,
+    -82.309551,
+    34.778765
+],
   "geometry": {"coordinates":[-82.309551,34.778765],"type":"Point"}
 }

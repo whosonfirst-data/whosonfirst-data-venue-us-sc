@@ -2,13 +2,14 @@
   "id": 169699943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.848383,34.472417,-79.848383,34.472417",
     "geom:latitude":34.472417,
     "geom:longitude":-79.848383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3348 Society Hill Rd",
     "sg:city":"Society Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169699943,
-    "wof:lastmodified":1449033137,
+    "wof:lastmodified":1467082378,
     "wof:name":"Johnson Grocery",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-79.848383,34.472417,-79.848383,34.472417],
+  "bbox": [
+    -79.848383,
+    34.472417,
+    -79.848383,
+    34.472417
+],
   "geometry": {"coordinates":[-79.848383,34.472417],"type":"Point"}
 }

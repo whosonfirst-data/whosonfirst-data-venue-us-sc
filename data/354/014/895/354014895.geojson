@@ -2,13 +2,14 @@
   "id": 354014895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.369498,34.823986,-82.369498,34.823986",
     "geom:latitude":34.823986,
     "geom:longitude":-82.369498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Skyview Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354014895,
-    "wof:lastmodified":1449066755,
+    "wof:lastmodified":1467082433,
     "wof:name":"United Electrical Distributors",
     "wof:parent_id":85809831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.369498,34.823986,-82.369498,34.823986],
-  "geometry": {"coordinates":[-82.369498,34.823986],"type":"Point"}
+  "bbox": [
+    -82.369498,
+    34.823986,
+    -82.369498,
+    34.823986
+],
+  "geometry": {"coordinates":[-82.36949799999999,34.823986],"type":"Point"}
 }

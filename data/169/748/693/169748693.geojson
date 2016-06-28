@@ -2,13 +2,14 @@
   "id": 169748693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.801434,33.833807,-81.801434,33.833807",
     "geom:latitude":33.833807,
     "geom:longitude":-81.801434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Church St",
     "sg:city":"Johnston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169748693,
-    "wof:lastmodified":1449035144,
+    "wof:lastmodified":1467082385,
     "wof:name":"Local Check Advance Johnston",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-81.801434,33.833807,-81.801434,33.833807],
+  "bbox": [
+    -81.801434,
+    33.833807,
+    -81.801434,
+    33.833807
+],
   "geometry": {"coordinates":[-81.801434,33.833807],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337386981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.804216,34.235465,-79.804216,34.235465",
     "geom:latitude":34.235465,
     "geom:longitude":-79.804216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1833 Florence Park Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337386981,
-    "wof:lastmodified":1449027375,
+    "wof:lastmodified":1467082282,
     "wof:name":"Sleep Inn",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.804216,34.235465,-79.804216,34.235465],
+  "bbox": [
+    -79.804216,
+    34.235465,
+    -79.804216,
+    34.235465
+],
   "geometry": {"coordinates":[-79.804216,34.235465],"type":"Point"}
 }

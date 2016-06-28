@@ -2,13 +2,14 @@
   "id": 370342941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.42195,33.401869,-81.42195,33.401869",
     "geom:latitude":33.401869,
     "geom:longitude":-81.42195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 W Main St",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370342941,
-    "wof:lastmodified":1449032224,
+    "wof:lastmodified":1467082368,
     "wof:name":"Bi-Rite Food Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-81.42195,33.401869,-81.42195,33.401869],
+  "bbox": [
+    -81.42195,
+    33.401869,
+    -81.42195,
+    33.401869
+],
   "geometry": {"coordinates":[-81.42195,33.401869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185829545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.902736,33.536497,-80.902736,33.536497",
     "geom:latitude":33.536497,
     "geom:longitude":-80.902736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3450 North Rd",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185829545,
-    "wof:lastmodified":1449008102,
+    "wof:lastmodified":1467082205,
     "wof:name":"Pond House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-80.902736,33.536497,-80.902736,33.536497],
+  "bbox": [
+    -80.902736,
+    33.536497,
+    -80.902736,
+    33.536497
+],
   "geometry": {"coordinates":[-80.902736,33.536497],"type":"Point"}
 }

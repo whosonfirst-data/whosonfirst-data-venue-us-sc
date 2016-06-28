@@ -2,13 +2,14 @@
   "id": 370605997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.201617,32.998579,-80.201617,32.998579",
     "geom:latitude":32.998579,
     "geom:longitude":-80.201617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Country Club Blvd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370605997,
-    "wof:lastmodified":1449030743,
+    "wof:lastmodified":1467082335,
     "wof:name":"Brush N Roll Painting LLC",
     "wof:parent_id":85851889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.201617,32.998579,-80.201617,32.998579],
+  "bbox": [
+    -80.201617,
+    32.998579,
+    -80.201617,
+    32.998579
+],
   "geometry": {"coordinates":[-80.201617,32.998579],"type":"Point"}
 }

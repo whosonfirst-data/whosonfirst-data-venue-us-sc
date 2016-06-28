@@ -2,13 +2,14 @@
   "id": 186112887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.249045,34.929983,-81.249045,34.929983",
     "geom:latitude":34.929983,
     "geom:longitude":-81.249045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"655 Sandifer Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186112887,
-    "wof:lastmodified":1449051608,
+    "wof:lastmodified":1467082399,
     "wof:name":"Politically Incorrect Bookstr",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-81.249045,34.929983,-81.249045,34.929983],
+  "bbox": [
+    -81.249045,
+    34.929983,
+    -81.249045,
+    34.929983
+],
   "geometry": {"coordinates":[-81.249045,34.929983],"type":"Point"}
 }

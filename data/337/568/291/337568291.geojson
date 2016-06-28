@@ -2,13 +2,14 @@
   "id": 337568291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.002654,32.803914,-80.002654,32.803914",
     "geom:latitude":32.803914,
     "geom:longitude":-80.002654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1284 Marvin Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337568291,
-    "wof:lastmodified":1449026908,
+    "wof:lastmodified":1467082264,
     "wof:name":"Food For Thought Catering Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "caterer"
     ]
 },
-  "bbox": [-80.002654,32.803914,-80.002654,32.803914],
-  "geometry": {"coordinates":[-80.002654,32.803914],"type":"Point"}
+  "bbox": [
+    -80.002654,
+    32.803914,
+    -80.002654,
+    32.803914
+],
+  "geometry": {"coordinates":[-80.00265400000001,32.803914],"type":"Point"}
 }

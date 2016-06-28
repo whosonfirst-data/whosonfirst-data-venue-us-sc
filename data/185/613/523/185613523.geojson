@@ -2,13 +2,14 @@
   "id": 185613523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.961435,34.072117,-80.961435,34.072117",
     "geom:latitude":34.072117,
     "geom:longitude":-80.961435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7615 Pinedale Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185613523,
-    "wof:lastmodified":1449007364,
+    "wof:lastmodified":1467082194,
     "wof:name":"Triple T Home Maint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.961435,34.072117,-80.961435,34.072117],
-  "geometry": {"coordinates":[-80.961435,34.072117],"type":"Point"}
+  "bbox": [
+    -80.961435,
+    34.072117,
+    -80.961435,
+    34.072117
+],
+  "geometry": {"coordinates":[-80.96143499999999,34.072117],"type":"Point"}
 }

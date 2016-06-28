@@ -2,13 +2,14 @@
   "id": 370793357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.883723,35.057701,-81.883723,35.057701",
     "geom:latitude":35.057701,
     "geom:longitude":-81.883723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3480 Chesnee Hwy",
     "sg:city":"Chesnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370793357,
-    "wof:lastmodified":1449030933,
+    "wof:lastmodified":1467082339,
     "wof:name":"Jerry H Reitzel DDS",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.883723,35.057701,-81.883723,35.057701],
+  "bbox": [
+    -81.883723,
+    35.057701,
+    -81.883723,
+    35.057701
+],
   "geometry": {"coordinates":[-81.883723,35.057701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186113741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.386188,33.233681,-79.386188,33.233681",
     "geom:latitude":33.233681,
     "geom:longitude":-79.386188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11230 Powell Rd",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186113741,
-    "wof:lastmodified":1449052800,
+    "wof:lastmodified":1467082411,
     "wof:name":"A & A Septic Tank Cleaning",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-79.386188,33.233681,-79.386188,33.233681],
+  "bbox": [
+    -79.386188,
+    33.233681,
+    -79.386188,
+    33.233681
+],
   "geometry": {"coordinates":[-79.386188,33.233681],"type":"Point"}
 }

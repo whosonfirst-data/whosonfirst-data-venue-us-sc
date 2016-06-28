@@ -2,13 +2,14 @@
   "id": 370406735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.012757,34.035704,-81.012757,34.035704",
     "geom:latitude":34.035704,
     "geom:longitude":-81.012757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3923 W Belt Line Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370406735,
-    "wof:lastmodified":1449030891,
+    "wof:lastmodified":1467082338,
     "wof:name":"Keenan Energy Co",
     "wof:parent_id":85827291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.012757,34.035704,-81.012757,34.035704],
-  "geometry": {"coordinates":[-81.012757,34.035704],"type":"Point"}
+  "bbox": [
+    -81.012757,
+    34.035704,
+    -81.012757,
+    34.035704
+],
+  "geometry": {"coordinates":[-81.01275699999999,34.035704],"type":"Point"}
 }

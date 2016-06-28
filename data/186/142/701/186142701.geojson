@@ -2,13 +2,14 @@
   "id": 186142701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.823251,33.740187,-78.823251,33.740187",
     "geom:latitude":33.740187,
     "geom:longitude":-78.823251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 69th Ave N",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186142701,
-    "wof:lastmodified":1449052475,
+    "wof:lastmodified":1467082407,
     "wof:name":"Barrow Farms LLC",
     "wof:parent_id":85809243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-78.823251,33.740187,-78.823251,33.740187],
+  "bbox": [
+    -78.823251,
+    33.740187,
+    -78.823251,
+    33.740187
+],
   "geometry": {"coordinates":[-78.823251,33.740187],"type":"Point"}
 }

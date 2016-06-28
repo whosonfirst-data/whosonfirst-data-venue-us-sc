@@ -2,13 +2,14 @@
   "id": 169799185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.096708,35.084646,-81.096708,35.084646",
     "geom:latitude":35.084646,
     "geom:longitude":-81.096708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4029 Hands Mill Hwy",
     "sg:city":"York",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169799185,
-    "wof:lastmodified":1449035985,
+    "wof:lastmodified":1467082388,
     "wof:name":"Rea Contracting LLC",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.096708,35.084646,-81.096708,35.084646],
-  "geometry": {"coordinates":[-81.096708,35.084646],"type":"Point"}
+  "bbox": [
+    -81.096708,
+    35.084646,
+    -81.096708,
+    35.084646
+],
+  "geometry": {"coordinates":[-81.09670800000001,35.084646],"type":"Point"}
 }

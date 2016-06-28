@@ -2,13 +2,14 @@
   "id": 370918861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.31765,34.915954,-82.31765,34.915954",
     "geom:latitude":34.915954,
     "geom:longitude":-82.31765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3234 Wade Hampton Blvd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370918861,
-    "wof:lastmodified":1449031384,
+    "wof:lastmodified":1467082349,
     "wof:name":"B & F Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.31765,34.915954,-82.31765,34.915954],
+  "bbox": [
+    -82.31765,
+    34.915954,
+    -82.31765,
+    34.915954
+],
   "geometry": {"coordinates":[-82.31765,34.915954],"type":"Point"}
 }

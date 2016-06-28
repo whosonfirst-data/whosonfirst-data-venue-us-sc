@@ -2,13 +2,14 @@
   "id": 354170827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.64347,34.393925,-82.64347,34.393925",
     "geom:latitude":34.393925,
     "geom:longitude":-82.64347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1352 Flat Rock Rd",
     "sg:city":"Starr",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354170827,
-    "wof:lastmodified":1449066081,
+    "wof:lastmodified":1467082418,
     "wof:name":"South Lawn Memorial Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-82.64347,34.393925,-82.64347,34.393925],
-  "geometry": {"coordinates":[-82.64347,34.393925],"type":"Point"}
+  "bbox": [
+    -82.64347,
+    34.393925,
+    -82.64347,
+    34.393925
+],
+  "geometry": {"coordinates":[-82.64346999999999,34.393925],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353795389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.967346,34.018684,-80.967346,34.018684",
     "geom:latitude":34.018684,
     "geom:longitude":-80.967346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4712 Forest Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353795389,
-    "wof:lastmodified":1449019776,
+    "wof:lastmodified":1467082241,
     "wof:name":"First Cellular",
     "wof:parent_id":85813843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-80.967346,34.018684,-80.967346,34.018684],
-  "geometry": {"coordinates":[-80.967346,34.018684],"type":"Point"}
+  "bbox": [
+    -80.967346,
+    34.018684,
+    -80.967346,
+    34.018684
+],
+  "geometry": {"coordinates":[-80.96734600000001,34.018684],"type":"Point"}
 }

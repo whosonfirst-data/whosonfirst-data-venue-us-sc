@@ -2,13 +2,14 @@
   "id": 370478449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.497993,33.951235,-80.497993,33.951235",
     "geom:latitude":33.951235,
     "geom:longitude":-80.497993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5666 Broad St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370478449,
-    "wof:lastmodified":1449029180,
+    "wof:lastmodified":1467082300,
     "wof:name":"Pay Day Plus",
     "wof:parent_id":85848059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-80.497993,33.951235,-80.497993,33.951235],
-  "geometry": {"coordinates":[-80.497993,33.951235],"type":"Point"}
+  "bbox": [
+    -80.497993,
+    33.951235,
+    -80.497993,
+    33.951235
+],
+  "geometry": {"coordinates":[-80.49799299999999,33.951235],"type":"Point"}
 }

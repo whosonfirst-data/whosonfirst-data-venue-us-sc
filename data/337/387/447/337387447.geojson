@@ -2,13 +2,14 @@
   "id": 337387447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.729199,33.516436,-81.729199,33.516436",
     "geom:latitude":33.516436,
     "geom:longitude":-81.729199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Silver Bluff Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337387447,
-    "wof:lastmodified":1449027636,
+    "wof:lastmodified":1467082291,
     "wof:name":"Hunter Mortgage Inc",
     "wof:parent_id":85812071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-81.729199,33.516436,-81.729199,33.516436],
-  "geometry": {"coordinates":[-81.729199,33.516436],"type":"Point"}
+  "bbox": [
+    -81.729199,
+    33.516436,
+    -81.729199,
+    33.516436
+],
+  "geometry": {"coordinates":[-81.72919899999999,33.516436],"type":"Point"}
 }

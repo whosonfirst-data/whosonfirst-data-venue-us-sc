@@ -2,13 +2,14 @@
   "id": 186040173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.757109,34.904437,-81.757109,34.904437",
     "geom:latitude":34.904437,
     "geom:longitude":-81.757109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Turner St",
     "sg:city":"Pacolet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186040173,
-    "wof:lastmodified":1449052960,
+    "wof:lastmodified":1467082412,
     "wof:name":"Hogan's Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-81.757109,34.904437,-81.757109,34.904437],
+  "bbox": [
+    -81.757109,
+    34.904437,
+    -81.757109,
+    34.904437
+],
   "geometry": {"coordinates":[-81.757109,34.904437],"type":"Point"}
 }

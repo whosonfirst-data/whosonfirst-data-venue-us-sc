@@ -2,13 +2,14 @@
   "id": 186024817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.986896,34.922175,-81.986896,34.922175",
     "geom:latitude":34.922175,
     "geom:longitude":-81.986896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E Blackstock Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186024817,
-    "wof:lastmodified":1449051670,
+    "wof:lastmodified":1467082399,
     "wof:name":"OCharleys Restaurant & Lounge",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.986896,34.922175,-81.986896,34.922175],
+  "bbox": [
+    -81.986896,
+    34.922175,
+    -81.986896,
+    34.922175
+],
   "geometry": {"coordinates":[-81.986896,34.922175],"type":"Point"}
 }

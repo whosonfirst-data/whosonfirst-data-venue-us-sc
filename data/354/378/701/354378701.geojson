@@ -2,13 +2,14 @@
   "id": 354378701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.804508,32.867205,-79.804508,32.867205",
     "geom:latitude":32.867205,
     "geom:longitude":-79.804508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2836 Waterpointe Cir",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354378701,
-    "wof:lastmodified":1449067122,
+    "wof:lastmodified":1467082442,
     "wof:name":"Arch Fudning Group",
     "wof:parent_id":85840345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-79.804508,32.867205,-79.804508,32.867205],
+  "bbox": [
+    -79.804508,
+    32.867205,
+    -79.804508,
+    32.867205
+],
   "geometry": {"coordinates":[-79.804508,32.867205],"type":"Point"}
 }

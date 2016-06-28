@@ -2,13 +2,14 @@
   "id": 353589385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930411,32.771842,-79.930411,32.771842",
     "geom:latitude":32.771842,
     "geom:longitude":-79.930411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Meeting St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353589385,
-    "wof:lastmodified":1449019628,
+    "wof:lastmodified":1467082238,
     "wof:name":"Two Meeting Street Inn",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "bed"
     ]
 },
-  "bbox": [-79.930411,32.771842,-79.930411,32.771842],
-  "geometry": {"coordinates":[-79.930411,32.771842],"type":"Point"}
+  "bbox": [
+    -79.930411,
+    32.771842,
+    -79.930411,
+    32.771842
+],
+  "geometry": {"coordinates":[-79.93041100000001,32.771842],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186017529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.260902,34.74757,-82.260902,34.74757",
     "geom:latitude":34.74757,
     "geom:longitude":-82.260902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 NE Main St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186017529,
-    "wof:lastmodified":1449051797,
+    "wof:lastmodified":1467082401,
     "wof:name":"Corner Mart",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.260902,34.74757,-82.260902,34.74757],
+  "bbox": [
+    -82.260902,
+    34.74757,
+    -82.260902,
+    34.74757
+],
   "geometry": {"coordinates":[-82.260902,34.74757],"type":"Point"}
 }

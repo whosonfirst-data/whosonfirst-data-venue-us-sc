@@ -2,13 +2,14 @@
   "id": 370587813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.311605,34.806035,-82.311605,34.806035",
     "geom:latitude":34.806035,
     "geom:longitude":-82.311605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Forrester Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370587813,
-    "wof:lastmodified":1449030259,
+    "wof:lastmodified":1467082324,
     "wof:name":"Hagemeyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "industrial"
     ]
 },
-  "bbox": [-82.311605,34.806035,-82.311605,34.806035],
+  "bbox": [
+    -82.311605,
+    34.806035,
+    -82.311605,
+    34.806035
+],
   "geometry": {"coordinates":[-82.311605,34.806035],"type":"Point"}
 }

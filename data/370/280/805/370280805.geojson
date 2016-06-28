@@ -2,13 +2,14 @@
   "id": 370280805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.221873,34.903164,-82.221873,34.903164",
     "geom:latitude":34.903164,
     "geom:longitude":-82.221873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 S Buncombe Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370280805,
-    "wof:lastmodified":1449030745,
+    "wof:lastmodified":1467082335,
     "wof:name":"Advanced Composite Materials",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "devices"
     ]
 },
-  "bbox": [-82.221873,34.903164,-82.221873,34.903164],
+  "bbox": [
+    -82.221873,
+    34.903164,
+    -82.221873,
+    34.903164
+],
   "geometry": {"coordinates":[-82.221873,34.903164],"type":"Point"}
 }

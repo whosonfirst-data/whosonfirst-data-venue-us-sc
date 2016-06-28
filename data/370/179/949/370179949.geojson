@@ -2,13 +2,14 @@
   "id": 370179949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.055359,32.813246,-80.055359,32.813246",
     "geom:latitude":32.813246,
     "geom:longitude":-80.055359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2237 Rivermont Pl",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370179949,
-    "wof:lastmodified":1449032129,
+    "wof:lastmodified":1467082366,
     "wof:name":"Pasley Trucking Inc",
     "wof:parent_id":85820043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.055359,32.813246,-80.055359,32.813246],
+  "bbox": [
+    -80.055359,
+    32.813246,
+    -80.055359,
+    32.813246
+],
   "geometry": {"coordinates":[-80.055359,32.813246],"type":"Point"}
 }

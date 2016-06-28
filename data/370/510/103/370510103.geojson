@@ -2,13 +2,14 @@
   "id": 370510103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.182698,34.085108,-81.182698,34.085108",
     "geom:latitude":34.085108,
     "geom:longitude":-81.182698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7300 Woodrow St",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370510103,
-    "wof:lastmodified":1449031118,
+    "wof:lastmodified":1467082343,
     "wof:name":"Town Of Irmo",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-81.182698,34.085108,-81.182698,34.085108],
+  "bbox": [
+    -81.182698,
+    34.085108,
+    -81.182698,
+    34.085108
+],
   "geometry": {"coordinates":[-81.182698,34.085108],"type":"Point"}
 }

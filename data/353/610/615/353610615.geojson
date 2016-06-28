@@ -2,13 +2,14 @@
   "id": 353610615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.820741,34.690902,-80.820741,34.690902",
     "geom:latitude":34.690902,
     "geom:longitude":-80.820741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1142 Grace Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353610615,
-    "wof:lastmodified":1449020733,
+    "wof:lastmodified":1467082260,
     "wof:name":"Auto Repair Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.820741,34.690902,-80.820741,34.690902],
+  "bbox": [
+    -80.820741,
+    34.690902,
+    -80.820741,
+    34.690902
+],
   "geometry": {"coordinates":[-80.820741,34.690902],"type":"Point"}
 }

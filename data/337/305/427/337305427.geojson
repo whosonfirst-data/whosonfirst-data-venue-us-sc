@@ -2,13 +2,14 @@
   "id": 337305427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.280026,33.372347,-79.280026,33.372347",
     "geom:latitude":33.372347,
     "geom:longitude":-79.280026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 Palmetto St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":337305427,
-    "wof:lastmodified":1449027046,
+    "wof:lastmodified":1467082269,
     "wof:name":"Seaport Screening & Inclosures",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.280026,33.372347,-79.280026,33.372347],
-  "geometry": {"coordinates":[-79.280026,33.372347],"type":"Point"}
+  "bbox": [
+    -79.280026,
+    33.372347,
+    -79.280026,
+    33.372347
+],
+  "geometry": {"coordinates":[-79.28002600000001,33.372347],"type":"Point"}
 }

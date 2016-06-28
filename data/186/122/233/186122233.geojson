@@ -2,13 +2,14 @@
   "id": 186122233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.114704,35.067792,-81.114704,35.067792",
     "geom:latitude":35.067792,
     "geom:longitude":-81.114704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4559 Charlotte Hwy",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186122233,
-    "wof:lastmodified":1449051904,
+    "wof:lastmodified":1467082402,
     "wof:name":"Association Management",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-81.114704,35.067792,-81.114704,35.067792],
+  "bbox": [
+    -81.114704,
+    35.067792,
+    -81.114704,
+    35.067792
+],
   "geometry": {"coordinates":[-81.114704,35.067792],"type":"Point"}
 }

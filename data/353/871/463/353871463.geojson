@@ -2,13 +2,14 @@
   "id": 353871463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.990237,34.717638,-82.990237,34.717638",
     "geom:latitude":34.717638,
     "geom:longitude":-82.990237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Collins Home Dr",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353871463,
-    "wof:lastmodified":1449019091,
+    "wof:lastmodified":1467082227,
     "wof:name":"Collins Homes & Family",
     "wof:parent_id":85854689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-82.990237,34.717638,-82.990237,34.717638],
-  "geometry": {"coordinates":[-82.990237,34.717638],"type":"Point"}
+  "bbox": [
+    -82.990237,
+    34.717638,
+    -82.990237,
+    34.717638
+],
+  "geometry": {"coordinates":[-82.99023699999999,34.717638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186010507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.08924,34.040745,-81.08924,34.040745",
     "geom:latitude":34.040745,
     "geom:longitude":-81.08924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1343 Garner Ln",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186010507,
-    "wof:lastmodified":1449052039,
+    "wof:lastmodified":1467082403,
     "wof:name":"Westminster Property Mgmt",
     "wof:parent_id":85845041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-81.08924,34.040745,-81.08924,34.040745],
+  "bbox": [
+    -81.08924,
+    34.040745,
+    -81.08924,
+    34.040745
+],
   "geometry": {"coordinates":[-81.08924,34.040745],"type":"Point"}
 }

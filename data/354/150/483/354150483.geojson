@@ -2,13 +2,14 @@
   "id": 354150483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.672985,34.196472,-79.672985,34.196472",
     "geom:latitude":34.196472,
     "geom:longitude":-79.672985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4798 E Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354150483,
-    "wof:lastmodified":1449065954,
+    "wof:lastmodified":1467082415,
     "wof:name":"Amoco Food Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-79.672985,34.196472,-79.672985,34.196472],
+  "bbox": [
+    -79.672985,
+    34.196472,
+    -79.672985,
+    34.196472
+],
   "geometry": {"coordinates":[-79.672985,34.196472],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370384657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.476318,34.760349,-82.476318,34.760349",
     "geom:latitude":34.760349,
     "geom:longitude":-82.476318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Piedmont Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370384657,
-    "wof:lastmodified":1449029509,
+    "wof:lastmodified":1467082307,
     "wof:name":"Fleet Services",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-82.476318,34.760349,-82.476318,34.760349],
-  "geometry": {"coordinates":[-82.476318,34.760349],"type":"Point"}
+  "bbox": [
+    -82.476318,
+    34.760349,
+    -82.476318,
+    34.760349
+],
+  "geometry": {"coordinates":[-82.47631800000001,34.760349],"type":"Point"}
 }

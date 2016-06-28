@@ -2,13 +2,14 @@
   "id": 353932649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.969125,34.917965,-81.969125,34.917965",
     "geom:latitude":34.917965,
     "geom:longitude":-81.969125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Southport Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353932649,
-    "wof:lastmodified":1449019207,
+    "wof:lastmodified":1467082229,
     "wof:name":"Miss Eddie's Child Development",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.969125,34.917965,-81.969125,34.917965],
-  "geometry": {"coordinates":[-81.969125,34.917965],"type":"Point"}
+  "bbox": [
+    -81.969125,
+    34.917965,
+    -81.969125,
+    34.917965
+],
+  "geometry": {"coordinates":[-81.96912500000001,34.917965],"type":"Point"}
 }

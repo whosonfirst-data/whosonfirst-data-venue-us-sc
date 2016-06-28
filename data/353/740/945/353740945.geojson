@@ -2,13 +2,14 @@
   "id": 353740945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.029913,34.90779,-81.029913,34.90779",
     "geom:latitude":34.90779,
     "geom:longitude":-81.029913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1157 Saluda St",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353740945,
-    "wof:lastmodified":1449019420,
+    "wof:lastmodified":1467082233,
     "wof:name":"Mc Crowey Svc",
     "wof:parent_id":85851537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.029913,34.90779,-81.029913,34.90779],
-  "geometry": {"coordinates":[-81.029913,34.90779],"type":"Point"}
+  "bbox": [
+    -81.029913,
+    34.90779,
+    -81.029913,
+    34.90779
+],
+  "geometry": {"coordinates":[-81.02991299999999,34.90779],"type":"Point"}
 }

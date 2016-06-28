@@ -2,13 +2,14 @@
   "id": 354065375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.770048,34.166883,-79.770048,34.166883",
     "geom:latitude":34.166883,
     "geom:longitude":-79.770048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 2nd Loop Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354065375,
-    "wof:lastmodified":1449067655,
+    "wof:lastmodified":1467082454,
     "wof:name":"First Reliance Bank",
     "wof:parent_id":85829393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-79.770048,34.166883,-79.770048,34.166883],
+  "bbox": [
+    -79.770048,
+    34.166883,
+    -79.770048,
+    34.166883
+],
   "geometry": {"coordinates":[-79.770048,34.166883],"type":"Point"}
 }

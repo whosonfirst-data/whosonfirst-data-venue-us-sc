@@ -2,13 +2,14 @@
   "id": 353793899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.873494,35.005806,-81.873494,35.005806",
     "geom:latitude":35.005806,
     "geom:longitude":-81.873494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2990 Cannons Campground Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353793899,
-    "wof:lastmodified":1449019668,
+    "wof:lastmodified":1467082238,
     "wof:name":"New Life Christian Academy",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.873494,35.005806,-81.873494,35.005806],
-  "geometry": {"coordinates":[-81.873494,35.005806],"type":"Point"}
+  "bbox": [
+    -81.873494,
+    35.005806,
+    -81.873494,
+    35.005806
+],
+  "geometry": {"coordinates":[-81.87349399999999,35.005806],"type":"Point"}
 }

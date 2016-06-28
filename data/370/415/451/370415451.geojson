@@ -2,13 +2,14 @@
   "id": 370415451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.02453,32.79622,-80.02453,32.79622",
     "geom:latitude":32.79622,
     "geom:longitude":-80.02453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1952 Belgrade Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370415451,
-    "wof:lastmodified":1449031533,
+    "wof:lastmodified":1467082352,
     "wof:name":"Pardee Service Experts",
     "wof:parent_id":85839787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.02453,32.79622,-80.02453,32.79622],
+  "bbox": [
+    -80.02453,
+    32.79622,
+    -80.02453,
+    32.79622
+],
   "geometry": {"coordinates":[-80.02453,32.79622],"type":"Point"}
 }

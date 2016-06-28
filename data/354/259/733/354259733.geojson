@@ -2,13 +2,14 @@
   "id": 354259733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.744248,34.508313,-82.744248,34.508313",
     "geom:latitude":34.508313,
     "geom:longitude":-82.744248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4190 Hwy 24",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354259733,
-    "wof:lastmodified":1449066319,
+    "wof:lastmodified":1467082423,
     "wof:name":"Lakeside Family Medicine",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.744248,34.508313,-82.744248,34.508313],
+  "bbox": [
+    -82.744248,
+    34.508313,
+    -82.744248,
+    34.508313
+],
   "geometry": {"coordinates":[-82.744248,34.508313],"type":"Point"}
 }

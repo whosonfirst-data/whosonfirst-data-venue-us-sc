@@ -2,13 +2,14 @@
   "id": 185733311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.379144,34.806919,-82.379144,34.806919",
     "geom:latitude":34.806919,
     "geom:longitude":-82.379144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Mauldin Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185733311,
-    "wof:lastmodified":1449006825,
+    "wof:lastmodified":1467082185,
     "wof:name":"Sock Basket",
     "wof:parent_id":85832615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.379144,34.806919,-82.379144,34.806919],
+  "bbox": [
+    -82.379144,
+    34.806919,
+    -82.379144,
+    34.806919
+],
   "geometry": {"coordinates":[-82.379144,34.806919],"type":"Point"}
 }

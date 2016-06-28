@@ -2,13 +2,14 @@
   "id": 337300327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.072725,32.725336,-80.072725,32.725336",
     "geom:latitude":32.725336,
     "geom:longitude":-80.072725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3461 Maybank Hwy",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337300327,
-    "wof:lastmodified":1449027408,
+    "wof:lastmodified":1467082283,
     "wof:name":"K J Lewis Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-80.072725,32.725336,-80.072725,32.725336],
-  "geometry": {"coordinates":[-80.072725,32.725336],"type":"Point"}
+  "bbox": [
+    -80.072725,
+    32.725336,
+    -80.072725,
+    32.725336
+],
+  "geometry": {"coordinates":[-80.07272500000001,32.725336],"type":"Point"}
 }

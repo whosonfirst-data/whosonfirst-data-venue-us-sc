@@ -2,13 +2,14 @@
   "id": 337363431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.95177,32.818427,-79.95177,32.818427",
     "geom:latitude":32.818427,
     "geom:longitude":-79.95177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1519 King St Exd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337363431,
-    "wof:lastmodified":1449027642,
+    "wof:lastmodified":1467082291,
     "wof:name":"Port City Glass & Mirror Inc",
     "wof:parent_id":85836137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-79.95177,32.818427,-79.95177,32.818427],
+  "bbox": [
+    -79.95177,
+    32.818427,
+    -79.95177,
+    32.818427
+],
   "geometry": {"coordinates":[-79.95177,32.818427],"type":"Point"}
 }

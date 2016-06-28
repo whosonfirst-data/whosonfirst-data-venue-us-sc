@@ -2,13 +2,14 @@
   "id": 186024463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.296831,33.344514,-79.296831,33.344514",
     "geom:latitude":33.344514,
     "geom:longitude":-79.296831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Elizabeth St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186024463,
-    "wof:lastmodified":1449051670,
+    "wof:lastmodified":1467082399,
     "wof:name":"Inlet Pharmacy",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.296831,33.344514,-79.296831,33.344514],
+  "bbox": [
+    -79.296831,
+    33.344514,
+    -79.296831,
+    33.344514
+],
   "geometry": {"coordinates":[-79.296831,33.344514],"type":"Point"}
 }

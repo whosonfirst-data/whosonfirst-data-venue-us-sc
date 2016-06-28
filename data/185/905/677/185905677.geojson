@@ -2,13 +2,14 @@
   "id": 185905677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.719651,33.523911,-81.719651,33.523911",
     "geom:latitude":33.523911,
     "geom:longitude":-81.719651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1533 Whiskey Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185905677,
-    "wof:lastmodified":1449007252,
+    "wof:lastmodified":1467082192,
     "wof:name":"Arris' Grill",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.719651,33.523911,-81.719651,33.523911],
+  "bbox": [
+    -81.719651,
+    33.523911,
+    -81.719651,
+    33.523911
+],
   "geometry": {"coordinates":[-81.719651,33.523911],"type":"Point"}
 }

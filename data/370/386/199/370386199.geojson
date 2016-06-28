@@ -2,13 +2,14 @@
   "id": 370386199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.012656,34.92643,-81.012656,34.92643",
     "geom:latitude":34.92643,
     "geom:longitude":-81.012656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Hutchinson St",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370386199,
-    "wof:lastmodified":1449030857,
+    "wof:lastmodified":1467082337,
     "wof:name":"Carolina Carpentry & Constr",
     "wof:parent_id":85833915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.012656,34.92643,-81.012656,34.92643],
-  "geometry": {"coordinates":[-81.012656,34.92643],"type":"Point"}
+  "bbox": [
+    -81.012656,
+    34.92643,
+    -81.012656,
+    34.92643
+],
+  "geometry": {"coordinates":[-81.01265600000001,34.92643],"type":"Point"}
 }

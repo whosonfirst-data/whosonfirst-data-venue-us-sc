@@ -2,13 +2,14 @@
   "id": 370436539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.285559,34.978908,-82.285559,34.978908",
     "geom:latitude":34.978908,
     "geom:longitude":-82.285559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1291 Milford Church Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370436539,
-    "wof:lastmodified":1449032151,
+    "wof:lastmodified":1467082366,
     "wof:name":"Donjitsu Do Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "instruction"
     ]
 },
-  "bbox": [-82.285559,34.978908,-82.285559,34.978908],
-  "geometry": {"coordinates":[-82.285559,34.978908],"type":"Point"}
+  "bbox": [
+    -82.285559,
+    34.978908,
+    -82.285559,
+    34.978908
+],
+  "geometry": {"coordinates":[-82.28555900000001,34.978908],"type":"Point"}
 }

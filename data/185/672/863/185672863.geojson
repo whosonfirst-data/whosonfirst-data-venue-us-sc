@@ -2,13 +2,14 @@
   "id": 185672863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.846598,35.003257,-81.846598,35.003257",
     "geom:latitude":35.003257,
     "geom:longitude":-81.846598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 Old Converse Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185672863,
-    "wof:lastmodified":1449006703,
+    "wof:lastmodified":1467082184,
     "wof:name":"Owens Trailer Park",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "site"
     ]
 },
-  "bbox": [-81.846598,35.003257,-81.846598,35.003257],
+  "bbox": [
+    -81.846598,
+    35.003257,
+    -81.846598,
+    35.003257
+],
   "geometry": {"coordinates":[-81.846598,35.003257],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186041595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.975541,32.234358,-80.975541,32.234358",
     "geom:latitude":32.234358,
     "geom:longitude":-80.975541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Stillwell Rd",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186041595,
-    "wof:lastmodified":1449051358,
+    "wof:lastmodified":1467082397,
     "wof:name":"Palmetto Landscape",
     "wof:parent_id":85847515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.975541,32.234358,-80.975541,32.234358],
-  "geometry": {"coordinates":[-80.975541,32.234358],"type":"Point"}
+  "bbox": [
+    -80.975541,
+    32.234358,
+    -80.975541,
+    32.234358
+],
+  "geometry": {"coordinates":[-80.97554100000001,32.234358],"type":"Point"}
 }

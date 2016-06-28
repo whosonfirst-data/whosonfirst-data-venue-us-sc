@@ -2,13 +2,14 @@
   "id": 353509841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.649791,32.907169,-80.649791,32.907169",
     "geom:latitude":32.907169,
     "geom:longitude":-80.649791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Savage St",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353509841,
-    "wof:lastmodified":1449018341,
+    "wof:lastmodified":1467082212,
     "wof:name":"Mt Olive Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.649791,32.907169,-80.649791,32.907169],
-  "geometry": {"coordinates":[-80.649791,32.907169],"type":"Point"}
+  "bbox": [
+    -80.649791,
+    32.907169,
+    -80.649791,
+    32.907169
+],
+  "geometry": {"coordinates":[-80.64979099999999,32.907169],"type":"Point"}
 }

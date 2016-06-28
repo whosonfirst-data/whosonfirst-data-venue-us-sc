@@ -2,13 +2,14 @@
   "id": 370485577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.96518,34.979702,-81.96518,34.979702",
     "geom:latitude":34.979702,
     "geom:longitude":-81.96518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8017 White Ave",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370485577,
-    "wof:lastmodified":1449031150,
+    "wof:lastmodified":1467082344,
     "wof:name":"Leonard Bishop Transmission",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-81.96518,34.979702,-81.96518,34.979702],
+  "bbox": [
+    -81.96518,
+    34.979702,
+    -81.96518,
+    34.979702
+],
   "geometry": {"coordinates":[-81.96518,34.979702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185753841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.372163,33.942205,-80.372163,33.942205",
     "geom:latitude":33.942205,
     "geom:longitude":-80.372163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"757 Bultman Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185753841,
-    "wof:lastmodified":1449006791,
+    "wof:lastmodified":1467082185,
     "wof:name":"Christian Golfers Assn Inc",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.372163,33.942205,-80.372163,33.942205],
+  "bbox": [
+    -80.372163,
+    33.942205,
+    -80.372163,
+    33.942205
+],
   "geometry": {"coordinates":[-80.372163,33.942205],"type":"Point"}
 }

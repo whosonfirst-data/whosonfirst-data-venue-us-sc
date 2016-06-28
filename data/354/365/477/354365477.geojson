@@ -2,13 +2,14 @@
   "id": 354365477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.646241,33.82717,-78.646241,33.82717",
     "geom:latitude":33.82717,
     "geom:longitude":-78.646241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 N Ocean Blvd",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354365477,
-    "wof:lastmodified":1449066206,
+    "wof:lastmodified":1467082421,
     "wof:name":"Sea Horse Motel",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.646241,33.82717,-78.646241,33.82717],
+  "bbox": [
+    -78.646241,
+    33.82717,
+    -78.646241,
+    33.82717
+],
   "geometry": {"coordinates":[-78.646241,33.82717],"type":"Point"}
 }

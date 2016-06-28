@@ -2,13 +2,14 @@
   "id": 186245143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.817765,33.24157,-80.817765,33.24157",
     "geom:latitude":33.24157,
     "geom:longitude":-80.817765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Miley Rd",
     "sg:city":"Branchville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186245143,
-    "wof:lastmodified":1449052948,
+    "wof:lastmodified":1467082412,
     "wof:name":"Orangeburg County Landfill",
     "wof:parent_id":85835397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-80.817765,33.24157,-80.817765,33.24157],
-  "geometry": {"coordinates":[-80.817765,33.24157],"type":"Point"}
+  "bbox": [
+    -80.817765,
+    33.24157,
+    -80.817765,
+    33.24157
+],
+  "geometry": {"coordinates":[-80.81776499999999,33.24157],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353905949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.084233,34.168827,-82.084233,34.168827",
     "geom:latitude":34.168827,
     "geom:longitude":-82.084233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 Ninety Six Hwy",
     "sg:city":"Ninety Six",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353905949,
-    "wof:lastmodified":1449019271,
+    "wof:lastmodified":1467082230,
     "wof:name":"A Better Design",
     "wof:parent_id":85818515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.084233,34.168827,-82.084233,34.168827],
+  "bbox": [
+    -82.084233,
+    34.168827,
+    -82.084233,
+    34.168827
+],
   "geometry": {"coordinates":[-82.084233,34.168827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370910689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.767059,33.04351,-79.767059,33.04351",
     "geom:latitude":33.04351,
     "geom:longitude":-79.767059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1812 United Dr",
     "sg:city":"Huger",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370910689,
-    "wof:lastmodified":1449030495,
+    "wof:lastmodified":1467082329,
     "wof:name":"Feline Refuge",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shelter"
     ]
 },
-  "bbox": [-79.767059,33.04351,-79.767059,33.04351],
+  "bbox": [
+    -79.767059,
+    33.04351,
+    -79.767059,
+    33.04351
+],
   "geometry": {"coordinates":[-79.767059,33.04351],"type":"Point"}
 }

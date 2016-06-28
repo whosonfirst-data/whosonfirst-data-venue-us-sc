@@ -2,13 +2,14 @@
   "id": 185674261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.054782,34.975801,-81.054782,34.975801",
     "geom:latitude":34.975801,
     "geom:longitude":-81.054782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3715 Celanese Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185674261,
-    "wof:lastmodified":1449007803,
+    "wof:lastmodified":1467082201,
     "wof:name":"Hiltons Grocery",
     "wof:parent_id":85806757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.054782,34.975801,-81.054782,34.975801],
+  "bbox": [
+    -81.054782,
+    34.975801,
+    -81.054782,
+    34.975801
+],
   "geometry": {"coordinates":[-81.054782,34.975801],"type":"Point"}
 }

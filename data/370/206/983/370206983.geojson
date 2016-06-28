@@ -2,13 +2,14 @@
   "id": 370206983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.430016,35.041605,-82.430016,35.041605",
     "geom:latitude":35.041605,
     "geom:longitude":-82.430016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1999 US Hwy 25",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370206983,
-    "wof:lastmodified":1449031378,
+    "wof:lastmodified":1467082349,
     "wof:name":"Industrial Tools Inc",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-82.430016,35.041605,-82.430016,35.041605],
-  "geometry": {"coordinates":[-82.430016,35.041605],"type":"Point"}
+  "bbox": [
+    -82.430016,
+    35.041605,
+    -82.430016,
+    35.041605
+],
+  "geometry": {"coordinates":[-82.43001599999999,35.041605],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354299313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.031026,34.003486,-81.031026,34.003486",
     "geom:latitude":34.003486,
     "geom:longitude":-81.031026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Lady St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354299313,
-    "wof:lastmodified":1449066343,
+    "wof:lastmodified":1467082424,
     "wof:name":"Citivest Corp",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.031026,34.003486,-81.031026,34.003486],
+  "bbox": [
+    -81.031026,
+    34.003486,
+    -81.031026,
+    34.003486
+],
   "geometry": {"coordinates":[-81.031026,34.003486],"type":"Point"}
 }

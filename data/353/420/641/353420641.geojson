@@ -2,13 +2,14 @@
   "id": 353420641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.030341,34.002277,-81.030341,34.002277",
     "geom:latitude":34.002277,
     "geom:longitude":-81.030341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Gervais St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353420641,
-    "wof:lastmodified":1449019489,
+    "wof:lastmodified":1467082235,
     "wof:name":"Commercial Property Mgmt",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-81.030341,34.002277,-81.030341,34.002277],
-  "geometry": {"coordinates":[-81.030341,34.002277],"type":"Point"}
+  "bbox": [
+    -81.030341,
+    34.002277,
+    -81.030341,
+    34.002277
+],
+  "geometry": {"coordinates":[-81.03034100000001,34.002277],"type":"Point"}
 }

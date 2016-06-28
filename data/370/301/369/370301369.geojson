@@ -2,13 +2,14 @@
   "id": 370301369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.868909,33.4979,-80.868909,33.4979",
     "geom:latitude":33.4979,
     "geom:longitude":-80.868909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1342 Park St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370301369,
-    "wof:lastmodified":1449029961,
+    "wof:lastmodified":1467082317,
     "wof:name":"Check Advance",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-80.868909,33.4979,-80.868909,33.4979],
+  "bbox": [
+    -80.868909,
+    33.4979,
+    -80.868909,
+    33.4979
+],
   "geometry": {"coordinates":[-80.868909,33.4979],"type":"Point"}
 }

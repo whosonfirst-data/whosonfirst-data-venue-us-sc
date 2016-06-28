@@ -2,13 +2,14 @@
   "id": 370681967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.791088,34.184456,-79.791088,34.184456",
     "geom:latitude":34.184456,
     "geom:longitude":-79.791088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1323 Cherokee Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370681967,
-    "wof:lastmodified":1449031158,
+    "wof:lastmodified":1467082344,
     "wof:name":"Cherokee Antiques & Interiors",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-79.791088,34.184456,-79.791088,34.184456],
+  "bbox": [
+    -79.791088,
+    34.184456,
+    -79.791088,
+    34.184456
+],
   "geometry": {"coordinates":[-79.791088,34.184456],"type":"Point"}
 }

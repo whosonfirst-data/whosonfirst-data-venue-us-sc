@@ -2,13 +2,14 @@
   "id": 337323971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.979499,34.94681,-81.979499,34.94681",
     "geom:latitude":34.94681,
     "geom:longitude":-81.979499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Powell Mill Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337323971,
-    "wof:lastmodified":1449027015,
+    "wof:lastmodified":1467082268,
     "wof:name":"Blue Heron Mtg Processing Ctr",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-81.979499,34.94681,-81.979499,34.94681],
+  "bbox": [
+    -81.979499,
+    34.94681,
+    -81.979499,
+    34.94681
+],
   "geometry": {"coordinates":[-81.979499,34.94681],"type":"Point"}
 }

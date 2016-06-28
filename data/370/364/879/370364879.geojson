@@ -2,13 +2,14 @@
   "id": 370364879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.294502,34.785337,-82.294502,34.785337",
     "geom:latitude":34.785337,
     "geom:longitude":-82.294502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 E Butler Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370364879,
-    "wof:lastmodified":1449030969,
+    "wof:lastmodified":1467082340,
     "wof:name":"Demko Law Firm",
     "wof:parent_id":85859087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.294502,34.785337,-82.294502,34.785337],
-  "geometry": {"coordinates":[-82.294502,34.785337],"type":"Point"}
+  "bbox": [
+    -82.294502,
+    34.785337,
+    -82.294502,
+    34.785337
+],
+  "geometry": {"coordinates":[-82.29450199999999,34.785337],"type":"Point"}
 }

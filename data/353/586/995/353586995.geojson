@@ -2,13 +2,14 @@
   "id": 353586995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.038955,32.993563,-80.038955,32.993563",
     "geom:latitude":32.993563,
     "geom:longitude":-80.038955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Goose Creek Blvd S",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353586995,
-    "wof:lastmodified":1449020512,
+    "wof:lastmodified":1467082256,
     "wof:name":"Marshall V Miller DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.038955,32.993563,-80.038955,32.993563],
+  "bbox": [
+    -80.038955,
+    32.993563,
+    -80.038955,
+    32.993563
+],
   "geometry": {"coordinates":[-80.038955,32.993563],"type":"Point"}
 }

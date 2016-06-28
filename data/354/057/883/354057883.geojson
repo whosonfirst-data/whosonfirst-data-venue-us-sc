@@ -2,13 +2,14 @@
   "id": 354057883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.027876,33.98065,-81.027876,33.98065",
     "geom:latitude":33.98065,
     "geom:longitude":-81.027876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 Ferguson St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354057883,
-    "wof:lastmodified":1449066766,
+    "wof:lastmodified":1467082433,
     "wof:name":"Jeff Amberg Photography",
     "wof:parent_id":85839583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-81.027876,33.98065,-81.027876,33.98065],
-  "geometry": {"coordinates":[-81.027876,33.98065],"type":"Point"}
+  "bbox": [
+    -81.027876,
+    33.98065,
+    -81.027876,
+    33.98065
+],
+  "geometry": {"coordinates":[-81.02787600000001,33.98065],"type":"Point"}
 }

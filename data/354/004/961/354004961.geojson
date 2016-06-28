@@ -2,13 +2,14 @@
   "id": 354004961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.045954,32.954181,-80.045954,32.954181",
     "geom:latitude":32.954181,
     "geom:longitude":-80.045954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2170 Greenridge Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354004961,
-    "wof:lastmodified":1449066538,
+    "wof:lastmodified":1467082428,
     "wof:name":"Pack Rat Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "special"
     ]
 },
-  "bbox": [-80.045954,32.954181,-80.045954,32.954181],
-  "geometry": {"coordinates":[-80.045954,32.954181],"type":"Point"}
+  "bbox": [
+    -80.045954,
+    32.954181,
+    -80.045954,
+    32.954181
+],
+  "geometry": {"coordinates":[-80.04595399999999,32.954181],"type":"Point"}
 }

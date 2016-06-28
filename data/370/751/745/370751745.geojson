@@ -2,13 +2,14 @@
   "id": 370751745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.341945,33.918637,-80.341945,33.918637",
     "geom:latitude":33.918637,
     "geom:longitude":-80.341945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 S Main St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":370751745,
-    "wof:lastmodified":1449029270,
+    "wof:lastmodified":1467082302,
     "wof:name":"Glenda's Fabric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.341945,33.918637,-80.341945,33.918637],
+  "bbox": [
+    -80.341945,
+    33.918637,
+    -80.341945,
+    33.918637
+],
   "geometry": {"coordinates":[-80.341945,33.918637],"type":"Point"}
 }

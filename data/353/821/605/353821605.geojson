@@ -2,13 +2,14 @@
   "id": 353821605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.029745,34.050422,-81.029745,34.050422",
     "geom:latitude":34.050422,
     "geom:longitude":-81.029745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4908 US Hwy 321",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353821605,
-    "wof:lastmodified":1449019651,
+    "wof:lastmodified":1467082238,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-81.029745,34.050422,-81.029745,34.050422],
-  "geometry": {"coordinates":[-81.029745,34.050422],"type":"Point"}
+  "bbox": [
+    -81.029745,
+    34.050422,
+    -81.029745,
+    34.050422
+],
+  "geometry": {"coordinates":[-81.02974500000001,34.050422],"type":"Point"}
 }

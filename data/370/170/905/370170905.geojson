@@ -2,13 +2,14 @@
   "id": 370170905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.991055,33.202845,-79.991055,33.202845",
     "geom:latitude":33.202845,
     "geom:longitude":-79.991055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"396 Corner Square Plz",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370170905,
-    "wof:lastmodified":1449029404,
+    "wof:lastmodified":1467082305,
     "wof:name":"Palmetto Mortgage",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-79.991055,33.202845,-79.991055,33.202845],
+  "bbox": [
+    -79.991055,
+    33.202845,
+    -79.991055,
+    33.202845
+],
   "geometry": {"coordinates":[-79.991055,33.202845],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354362847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.965595,33.943835,-80.965595,33.943835",
     "geom:latitude":33.943835,
     "geom:longitude":-80.965595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Levintis Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354362847,
-    "wof:lastmodified":1449067068,
+    "wof:lastmodified":1467082440,
     "wof:name":"Capital City ATV Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "motor"
     ]
 },
-  "bbox": [-80.965595,33.943835,-80.965595,33.943835],
-  "geometry": {"coordinates":[-80.965595,33.943835],"type":"Point"}
+  "bbox": [
+    -80.965595,
+    33.943835,
+    -80.965595,
+    33.943835
+],
+  "geometry": {"coordinates":[-80.96559499999999,33.943835],"type":"Point"}
 }

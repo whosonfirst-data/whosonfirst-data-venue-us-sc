@@ -2,13 +2,14 @@
   "id": 353452649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.076957,34.899253,-82.076957,34.899253",
     "geom:latitude":34.899253,
     "geom:longitude":-82.076957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Commerce Ct",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353452649,
-    "wof:lastmodified":1449018852,
+    "wof:lastmodified":1467082222,
     "wof:name":"Owens Corning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.076957,34.899253,-82.076957,34.899253],
-  "geometry": {"coordinates":[-82.076957,34.899253],"type":"Point"}
+  "bbox": [
+    -82.076957,
+    34.899253,
+    -82.076957,
+    34.899253
+],
+  "geometry": {"coordinates":[-82.07695699999999,34.899253],"type":"Point"}
 }

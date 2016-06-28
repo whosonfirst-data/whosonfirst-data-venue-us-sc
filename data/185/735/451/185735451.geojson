@@ -2,13 +2,14 @@
   "id": 185735451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.965007,33.674927,-78.965007,33.674927",
     "geom:latitude":33.674927,
     "geom:longitude":-78.965007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4719 Northgate Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185735451,
-    "wof:lastmodified":1449008149,
+    "wof:lastmodified":1467082206,
     "wof:name":"Larry's Auto Clinic",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-78.965007,33.674927,-78.965007,33.674927],
+  "bbox": [
+    -78.965007,
+    33.674927,
+    -78.965007,
+    33.674927
+],
   "geometry": {"coordinates":[-78.965007,33.674927],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354027505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.170715,34.013209,-81.170715,34.013209",
     "geom:latitude":34.013209,
     "geom:longitude":-81.170715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4711 Sunset Blvd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354027505,
-    "wof:lastmodified":1449066247,
+    "wof:lastmodified":1467082422,
     "wof:name":"West Columbia Family Medicine",
     "wof:parent_id":85897271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.170715,34.013209,-81.170715,34.013209],
+  "bbox": [
+    -81.170715,
+    34.013209,
+    -81.170715,
+    34.013209
+],
   "geometry": {"coordinates":[-81.170715,34.013209],"type":"Point"}
 }

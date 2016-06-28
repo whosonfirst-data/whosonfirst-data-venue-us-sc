@@ -2,13 +2,14 @@
   "id": 186286249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.172028,33.027364,-80.172028,33.027364",
     "geom:latitude":33.027364,
     "geom:longitude":-80.172028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Cedar St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186286249,
-    "wof:lastmodified":1449051092,
+    "wof:lastmodified":1467082394,
     "wof:name":"Coastal Produce Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-80.172028,33.027364,-80.172028,33.027364],
+  "bbox": [
+    -80.172028,
+    33.027364,
+    -80.172028,
+    33.027364
+],
   "geometry": {"coordinates":[-80.172028,33.027364],"type":"Point"}
 }

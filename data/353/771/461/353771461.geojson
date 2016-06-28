@@ -2,13 +2,14 @@
   "id": 353771461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.739199,34.50765,-82.739199,34.50765",
     "geom:latitude":34.50765,
     "geom:longitude":-82.739199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4035 Hwy 24",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353771461,
-    "wof:lastmodified":1449019647,
+    "wof:lastmodified":1467082238,
     "wof:name":"Atco",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-82.739199,34.50765,-82.739199,34.50765],
+  "bbox": [
+    -82.739199,
+    34.50765,
+    -82.739199,
+    34.50765
+],
   "geometry": {"coordinates":[-82.739199,34.50765],"type":"Point"}
 }

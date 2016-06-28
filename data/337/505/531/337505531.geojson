@@ -2,13 +2,14 @@
   "id": 337505531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.102679,35.091401,-81.102679,35.091401",
     "geom:latitude":35.091401,
     "geom:longitude":-81.102679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 State Hwy 55 E",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337505531,
-    "wof:lastmodified":1449027607,
+    "wof:lastmodified":1467082290,
     "wof:name":"Ronnie's Roofing",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.102679,35.091401,-81.102679,35.091401],
-  "geometry": {"coordinates":[-81.102679,35.091401],"type":"Point"}
+  "bbox": [
+    -81.102679,
+    35.091401,
+    -81.102679,
+    35.091401
+],
+  "geometry": {"coordinates":[-81.10267899999999,35.091401],"type":"Point"}
 }

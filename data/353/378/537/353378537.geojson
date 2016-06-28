@@ -2,13 +2,14 @@
   "id": 353378537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.156196,34.073971,-81.156196,34.073971",
     "geom:latitude":34.073971,
     "geom:longitude":-81.156196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Harbison Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353378537,
-    "wof:lastmodified":1449019964,
+    "wof:lastmodified":1467082245,
     "wof:name":"Bank Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-81.156196,34.073971,-81.156196,34.073971],
-  "geometry": {"coordinates":[-81.156196,34.073971],"type":"Point"}
+  "bbox": [
+    -81.156196,
+    34.073971,
+    -81.156196,
+    34.073971
+],
+  "geometry": {"coordinates":[-81.15619599999999,34.073971],"type":"Point"}
 }

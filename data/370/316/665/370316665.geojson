@@ -2,13 +2,14 @@
   "id": 370316665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.017235,32.899536,-80.017235,32.899536",
     "geom:latitude":32.899536,
     "geom:longitude":-80.017235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5710 Rivers Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370316665,
-    "wof:lastmodified":1449031371,
+    "wof:lastmodified":1467082349,
     "wof:name":"Covington Credit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-80.017235,32.899536,-80.017235,32.899536],
+  "bbox": [
+    -80.017235,
+    32.899536,
+    -80.017235,
+    32.899536
+],
   "geometry": {"coordinates":[-80.017235,32.899536],"type":"Point"}
 }

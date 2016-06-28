@@ -2,13 +2,14 @@
   "id": 169845169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.74013,32.243588,-80.74013,32.243588",
     "geom:latitude":32.243588,
     "geom:longitude":-80.74013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Country Club Ct",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169845169,
-    "wof:lastmodified":1449033234,
+    "wof:lastmodified":1467082379,
     "wof:name":"Burn Development Group Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-80.74013,32.243588,-80.74013,32.243588],
-  "geometry": {"coordinates":[-80.74013,32.243588],"type":"Point"}
+  "bbox": [
+    -80.74013,
+    32.243588,
+    -80.74013,
+    32.243588
+],
+  "geometry": {"coordinates":[-80.74012999999999,32.243588],"type":"Point"}
 }

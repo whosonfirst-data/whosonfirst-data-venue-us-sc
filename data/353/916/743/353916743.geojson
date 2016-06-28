@@ -2,13 +2,14 @@
   "id": 353916743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.343776,34.465068,-80.343776,34.465068",
     "geom:latitude":34.465068,
     "geom:longitude":-80.343776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3655 Timrod Rd",
     "sg:city":"Bethune",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353916743,
-    "wof:lastmodified":1449019664,
+    "wof:lastmodified":1467082238,
     "wof:name":"Robbie Rollings Construction",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "family"
     ]
 },
-  "bbox": [-80.343776,34.465068,-80.343776,34.465068],
-  "geometry": {"coordinates":[-80.343776,34.465068],"type":"Point"}
+  "bbox": [
+    -80.343776,
+    34.465068,
+    -80.343776,
+    34.465068
+],
+  "geometry": {"coordinates":[-80.34377600000001,34.465068],"type":"Point"}
 }

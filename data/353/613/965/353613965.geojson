@@ -2,13 +2,14 @@
   "id": 353613965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.975814,32.777198,-79.975814,32.777198",
     "geom:latitude":32.777198,
     "geom:longitude":-79.975814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Windermere Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353613965,
-    "wof:lastmodified":1449019445,
+    "wof:lastmodified":1467082234,
     "wof:name":"Maria's Alterations & Tailor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-79.975814,32.777198,-79.975814,32.777198],
+  "bbox": [
+    -79.975814,
+    32.777198,
+    -79.975814,
+    32.777198
+],
   "geometry": {"coordinates":[-79.975814,32.777198],"type":"Point"}
 }

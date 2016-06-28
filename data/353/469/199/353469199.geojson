@@ -2,13 +2,14 @@
   "id": 353469199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.115139,32.980795,-80.115139,32.980795",
     "geom:latitude":32.980795,
     "geom:longitude":-80.115139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9559 Hamburg Rd",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":353469199,
-    "wof:lastmodified":1449020882,
+    "wof:lastmodified":1467082263,
     "wof:name":"Roberts Supply Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.115139,32.980795,-80.115139,32.980795],
+  "bbox": [
+    -80.115139,
+    32.980795,
+    -80.115139,
+    32.980795
+],
   "geometry": {"coordinates":[-80.115139,32.980795],"type":"Point"}
 }

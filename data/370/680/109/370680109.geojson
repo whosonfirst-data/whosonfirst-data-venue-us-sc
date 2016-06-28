@@ -2,13 +2,14 @@
   "id": 370680109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.696899,34.209432,-80.696899,34.209432",
     "geom:latitude":34.209432,
     "geom:longitude":-80.696899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Kin Loch Rd",
     "sg:city":"Lugoff",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370680109,
-    "wof:lastmodified":1449031457,
+    "wof:lastmodified":1467082351,
     "wof:name":"Reliant Construction Company",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-80.696899,34.209432,-80.696899,34.209432],
+  "bbox": [
+    -80.696899,
+    34.209432,
+    -80.696899,
+    34.209432
+],
   "geometry": {"coordinates":[-80.696899,34.209432],"type":"Point"}
 }

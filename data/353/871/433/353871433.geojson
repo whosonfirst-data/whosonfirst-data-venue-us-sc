@@ -2,13 +2,14 @@
   "id": 353871433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.993819,32.817447,-79.993819,32.817447",
     "geom:latitude":32.817447,
     "geom:longitude":-79.993819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 Sam Rittenberg Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353871433,
-    "wof:lastmodified":1449019089,
+    "wof:lastmodified":1467082226,
     "wof:name":"Nursefinders",
     "wof:parent_id":85838205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-79.993819,32.817447,-79.993819,32.817447],
+  "bbox": [
+    -79.993819,
+    32.817447,
+    -79.993819,
+    32.817447
+],
   "geometry": {"coordinates":[-79.993819,32.817447],"type":"Point"}
 }

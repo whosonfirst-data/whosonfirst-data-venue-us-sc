@@ -2,13 +2,14 @@
   "id": 370383905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.645227,32.472204,-80.645227,32.472204",
     "geom:latitude":32.472204,
     "geom:longitude":-80.645227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Francis Marion Cir",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370383905,
-    "wof:lastmodified":1449030515,
+    "wof:lastmodified":1467082330,
     "wof:name":"White Whale",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.645227,32.472204,-80.645227,32.472204],
-  "geometry": {"coordinates":[-80.645227,32.472204],"type":"Point"}
+  "bbox": [
+    -80.645227,
+    32.472204,
+    -80.645227,
+    32.472204
+],
+  "geometry": {"coordinates":[-80.64522700000001,32.472204],"type":"Point"}
 }

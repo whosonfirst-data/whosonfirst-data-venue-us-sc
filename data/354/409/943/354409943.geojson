@@ -2,13 +2,14 @@
   "id": 354409943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.728488,33.563917,-81.728488,33.563917",
     "geom:latitude":33.563917,
     "geom:longitude":-81.728488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 Richland Ave W",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354409943,
-    "wof:lastmodified":1449066619,
+    "wof:lastmodified":1467082430,
     "wof:name":"Aiken County Legislative",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.728488,33.563917,-81.728488,33.563917],
+  "bbox": [
+    -81.728488,
+    33.563917,
+    -81.728488,
+    33.563917
+],
   "geometry": {"coordinates":[-81.728488,33.563917],"type":"Point"}
 }

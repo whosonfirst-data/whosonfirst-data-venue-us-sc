@@ -2,13 +2,14 @@
   "id": 353717395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.290352,34.007581,-80.290352,34.007581",
     "geom:latitude":34.007581,
     "geom:longitude":-80.290352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Red Apple Ln",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353717395,
-    "wof:lastmodified":1449018313,
+    "wof:lastmodified":1467082211,
     "wof:name":"Bethel Methodist Church Prsnge",
     "wof:parent_id":85855087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-80.290352,34.007581,-80.290352,34.007581],
+  "bbox": [
+    -80.290352,
+    34.007581,
+    -80.290352,
+    34.007581
+],
   "geometry": {"coordinates":[-80.290352,34.007581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353870085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.687298,33.646521,-79.687298,33.646521",
     "geom:latitude":33.646521,
     "geom:longitude":-79.687298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Central Rd",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353870085,
-    "wof:lastmodified":1449018930,
+    "wof:lastmodified":1467082223,
     "wof:name":"Globe Communications LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.687298,33.646521,-79.687298,33.646521],
+  "bbox": [
+    -79.687298,
+    33.646521,
+    -79.687298,
+    33.646521
+],
   "geometry": {"coordinates":[-79.687298,33.646521],"type":"Point"}
 }

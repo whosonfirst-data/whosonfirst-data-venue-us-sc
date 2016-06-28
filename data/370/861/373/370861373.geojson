@@ -2,13 +2,14 @@
   "id": 370861373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.167496,33.030008,-80.167496,33.030008",
     "geom:latitude":33.030008,
     "geom:longitude":-80.167496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 N Main St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370861373,
-    "wof:lastmodified":1449032442,
+    "wof:lastmodified":1467082373,
     "wof:name":"Cutchin Law Firm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.167496,33.030008,-80.167496,33.030008],
+  "bbox": [
+    -80.167496,
+    33.030008,
+    -80.167496,
+    33.030008
+],
   "geometry": {"coordinates":[-80.167496,33.030008],"type":"Point"}
 }

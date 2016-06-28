@@ -2,13 +2,14 @@
   "id": 370203231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.284207,34.856702,-82.284207,34.856702",
     "geom:latitude":34.856702,
     "geom:longitude":-82.284207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Hunters Trl",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370203231,
-    "wof:lastmodified":1449030598,
+    "wof:lastmodified":1467082332,
     "wof:name":"Party Time Events Inc",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "party"
     ]
 },
-  "bbox": [-82.284207,34.856702,-82.284207,34.856702],
-  "geometry": {"coordinates":[-82.284207,34.856702],"type":"Point"}
+  "bbox": [
+    -82.284207,
+    34.856702,
+    -82.284207,
+    34.856702
+],
+  "geometry": {"coordinates":[-82.28420699999999,34.856702],"type":"Point"}
 }

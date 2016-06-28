@@ -2,13 +2,14 @@
   "id": 370443059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.704185,34.884695,-82.704185,34.884695",
     "geom:latitude":34.884695,
     "geom:longitude":-82.704185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 E Main St",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370443059,
-    "wof:lastmodified":1449031846,
+    "wof:lastmodified":1467082360,
     "wof:name":"Datatax",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-82.704185,34.884695,-82.704185,34.884695],
+  "bbox": [
+    -82.704185,
+    34.884695,
+    -82.704185,
+    34.884695
+],
   "geometry": {"coordinates":[-82.704185,34.884695],"type":"Point"}
 }

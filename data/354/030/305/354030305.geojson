@@ -2,13 +2,14 @@
   "id": 354030305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.210672,34.945845,-82.210672,34.945845",
     "geom:latitude":34.945845,
     "geom:longitude":-82.210672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Hampton Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354030305,
-    "wof:lastmodified":1449066538,
+    "wof:lastmodified":1467082428,
     "wof:name":"Lynch's Wrecker Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-82.210672,34.945845,-82.210672,34.945845],
+  "bbox": [
+    -82.210672,
+    34.945845,
+    -82.210672,
+    34.945845
+],
   "geometry": {"coordinates":[-82.210672,34.945845],"type":"Point"}
 }

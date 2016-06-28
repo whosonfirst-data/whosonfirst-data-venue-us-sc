@@ -2,13 +2,14 @@
   "id": 370890905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.922064,35.097913,-81.922064,35.097913",
     "geom:latitude":35.097913,
     "geom:longitude":-81.922064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 William Brandon Dr",
     "sg:city":"Chesnee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370890905,
-    "wof:lastmodified":1449029837,
+    "wof:lastmodified":1467082315,
     "wof:name":"Dillard Construction",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.922064,35.097913,-81.922064,35.097913],
-  "geometry": {"coordinates":[-81.922064,35.097913],"type":"Point"}
+  "bbox": [
+    -81.922064,
+    35.097913,
+    -81.922064,
+    35.097913
+],
+  "geometry": {"coordinates":[-81.92206400000001,35.097913],"type":"Point"}
 }

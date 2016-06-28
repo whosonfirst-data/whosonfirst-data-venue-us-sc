@@ -2,13 +2,14 @@
   "id": 370415937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.476675,32.316285,-80.476675,32.316285",
     "geom:latitude":32.316285,
     "geom:longitude":-80.476675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Rock Beauty Rd",
     "sg:city":"Frogmore",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370415937,
-    "wof:lastmodified":1449031532,
+    "wof:lastmodified":1467082352,
     "wof:name":"Long Food Industries",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.476675,32.316285,-80.476675,32.316285],
+  "bbox": [
+    -80.476675,
+    32.316285,
+    -80.476675,
+    32.316285
+],
   "geometry": {"coordinates":[-80.476675,32.316285],"type":"Point"}
 }

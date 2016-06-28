@@ -2,13 +2,14 @@
   "id": 337414461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.116164,34.343488,-82.116164,34.343488",
     "geom:latitude":34.343488,
     "geom:longitude":-82.116164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"877 Relax St",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337414461,
-    "wof:lastmodified":1449027327,
+    "wof:lastmodified":1467082280,
     "wof:name":"Linda Pinson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.116164,34.343488,-82.116164,34.343488],
+  "bbox": [
+    -82.116164,
+    34.343488,
+    -82.116164,
+    34.343488
+],
   "geometry": {"coordinates":[-82.116164,34.343488],"type":"Point"}
 }

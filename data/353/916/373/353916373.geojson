@@ -2,13 +2,14 @@
   "id": 353916373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.025711,34.906365,-81.025711,34.906365",
     "geom:latitude":34.906365,
     "geom:longitude":-81.025711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"837 Midvale Ave",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353916373,
-    "wof:lastmodified":1449019662,
+    "wof:lastmodified":1467082238,
     "wof:name":"Bowens Janitorial Svc",
     "wof:parent_id":85851537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.025711,34.906365,-81.025711,34.906365],
+  "bbox": [
+    -81.025711,
+    34.906365,
+    -81.025711,
+    34.906365
+],
   "geometry": {"coordinates":[-81.025711,34.906365],"type":"Point"}
 }

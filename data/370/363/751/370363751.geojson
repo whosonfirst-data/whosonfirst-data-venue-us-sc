@@ -2,13 +2,14 @@
   "id": 370363751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.807619,34.191363,-79.807619,34.191363",
     "geom:latitude":34.191363,
     "geom:longitude":-79.807619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1949 Hoffmeyer Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370363751,
-    "wof:lastmodified":1449032062,
+    "wof:lastmodified":1467082364,
     "wof:name":"FPC Leasing Corp",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-79.807619,34.191363,-79.807619,34.191363],
+  "bbox": [
+    -79.807619,
+    34.191363,
+    -79.807619,
+    34.191363
+],
   "geometry": {"coordinates":[-79.807619,34.191363],"type":"Point"}
 }

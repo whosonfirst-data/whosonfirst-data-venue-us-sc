@@ -2,13 +2,14 @@
   "id": 353760285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.012616,33.998666,-81.012616,33.998666",
     "geom:latitude":33.998666,
     "geom:longitude":-81.012616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2218 Devine St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353760285,
-    "wof:lastmodified":1449020681,
+    "wof:lastmodified":1467082259,
     "wof:name":"Global Trade Information Svc",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "consultant"
     ]
 },
-  "bbox": [-81.012616,33.998666,-81.012616,33.998666],
-  "geometry": {"coordinates":[-81.012616,33.998666],"type":"Point"}
+  "bbox": [
+    -81.012616,
+    33.998666,
+    -81.012616,
+    33.998666
+],
+  "geometry": {"coordinates":[-81.01261599999999,33.998666],"type":"Point"}
 }

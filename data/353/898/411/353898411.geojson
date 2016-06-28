@@ -2,13 +2,14 @@
   "id": 353898411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930857,32.66148,-79.930857,32.66148",
     "geom:latitude":32.66148,
     "geom:longitude":-79.930857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 E Hudson Ave",
     "sg:city":"Folly Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353898411,
-    "wof:lastmodified":1449018203,
+    "wof:lastmodified":1467082208,
     "wof:name":"Martha's Floral Design",
     "wof:parent_id":85847603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.930857,32.66148,-79.930857,32.66148],
+  "bbox": [
+    -79.930857,
+    32.66148,
+    -79.930857,
+    32.66148
+],
   "geometry": {"coordinates":[-79.930857,32.66148],"type":"Point"}
 }

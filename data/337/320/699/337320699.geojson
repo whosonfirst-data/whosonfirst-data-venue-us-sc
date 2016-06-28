@@ -2,13 +2,14 @@
   "id": 337320699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.944115,35.007336,-80.944115,35.007336",
     "geom:latitude":35.007336,
     "geom:longitude":-80.944115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Confederate St",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337320699,
-    "wof:lastmodified":1449027125,
+    "wof:lastmodified":1467082272,
     "wof:name":"Fort Mill Town Hall",
     "wof:parent_id":85827769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-80.944115,35.007336,-80.944115,35.007336],
+  "bbox": [
+    -80.944115,
+    35.007336,
+    -80.944115,
+    35.007336
+],
   "geometry": {"coordinates":[-80.944115,35.007336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354005213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.98858,33.843862,-78.98858,33.843862",
     "geom:latitude":33.843862,
     "geom:longitude":-78.98858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1945 Lee's Landing Cir",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354005213,
-    "wof:lastmodified":1449067528,
+    "wof:lastmodified":1467082451,
     "wof:name":"Herndon Custom Cnstr & Design",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-78.98858,33.843862,-78.98858,33.843862],
+  "bbox": [
+    -78.98858,
+    33.843862,
+    -78.98858,
+    33.843862
+],
   "geometry": {"coordinates":[-78.98858,33.843862],"type":"Point"}
 }

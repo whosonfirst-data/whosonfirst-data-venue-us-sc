@@ -2,13 +2,14 @@
   "id": 370635877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.026142,33.572258,-79.026142,33.572258",
     "geom:latitude":33.572258,
     "geom:longitude":-79.026142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3993 US Hwy 17 Bus",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370635877,
-    "wof:lastmodified":1449030556,
+    "wof:lastmodified":1467082331,
     "wof:name":"Wahoo's Raw Bar & Marina",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.026142,33.572258,-79.026142,33.572258],
-  "geometry": {"coordinates":[-79.026142,33.572258],"type":"Point"}
+  "bbox": [
+    -79.026142,
+    33.572258,
+    -79.026142,
+    33.572258
+],
+  "geometry": {"coordinates":[-79.02614199999999,33.572258],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337617917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.860571,32.851227,-79.860571,32.851227",
     "geom:latitude":32.851227,
     "geom:longitude":-79.860571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 High Battery Cir",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337617917,
-    "wof:lastmodified":1449026965,
+    "wof:lastmodified":1467082266,
     "wof:name":"Deli Investments LLC",
     "wof:parent_id":85849287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.860571,32.851227,-79.860571,32.851227],
-  "geometry": {"coordinates":[-79.860571,32.851227],"type":"Point"}
+  "bbox": [
+    -79.860571,
+    32.851227,
+    -79.860571,
+    32.851227
+],
+  "geometry": {"coordinates":[-79.86057099999999,32.851227],"type":"Point"}
 }

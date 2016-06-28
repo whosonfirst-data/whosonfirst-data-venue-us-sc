@@ -2,13 +2,14 @@
   "id": 186050549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.050368,32.792838,-80.050368,32.792838",
     "geom:latitude":32.792838,
     "geom:longitude":-80.050368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2473 Savannah Hwy",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186050549,
-    "wof:lastmodified":1449051856,
+    "wof:lastmodified":1467082402,
     "wof:name":"James Floyd Welding & Piping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-80.050368,32.792838,-80.050368,32.792838],
-  "geometry": {"coordinates":[-80.050368,32.792838],"type":"Point"}
+  "bbox": [
+    -80.050368,
+    32.792838,
+    -80.050368,
+    32.792838
+],
+  "geometry": {"coordinates":[-80.05036800000001,32.792838],"type":"Point"}
 }

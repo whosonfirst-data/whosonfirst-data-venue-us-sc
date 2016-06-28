@@ -2,13 +2,14 @@
   "id": 353671333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.296651,33.800625,-81.296651,33.800625",
     "geom:latitude":33.800625,
     "geom:longitude":-81.296651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 Otis Rd",
     "sg:city":"Pelion",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353671333,
-    "wof:lastmodified":1449018842,
+    "wof:lastmodified":1467082221,
     "wof:name":"Lees Home Improvement",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.296651,33.800625,-81.296651,33.800625],
+  "bbox": [
+    -81.296651,
+    33.800625,
+    -81.296651,
+    33.800625
+],
   "geometry": {"coordinates":[-81.296651,33.800625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370336231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.983347,34.883175,-81.983347,34.883175",
     "geom:latitude":34.883175,
     "geom:longitude":-81.983347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"690 Old Georgia Rd",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370336231,
-    "wof:lastmodified":1449029002,
+    "wof:lastmodified":1467082296,
     "wof:name":"What Knot 3",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.983347,34.883175,-81.983347,34.883175],
-  "geometry": {"coordinates":[-81.983347,34.883175],"type":"Point"}
+  "bbox": [
+    -81.983347,
+    34.883175,
+    -81.983347,
+    34.883175
+],
+  "geometry": {"coordinates":[-81.98334699999999,34.883175],"type":"Point"}
 }

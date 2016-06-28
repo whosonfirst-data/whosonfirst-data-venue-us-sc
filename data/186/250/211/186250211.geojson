@@ -2,13 +2,14 @@
   "id": 186250211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.343727,33.91599,-80.343727,33.91599",
     "geom:latitude":33.91599,
     "geom:longitude":-80.343727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 W Oakland Ave",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186250211,
-    "wof:lastmodified":1449051908,
+    "wof:lastmodified":1467082402,
     "wof:name":"Fort Roofing & Sheet Metal Wks",
     "wof:parent_id":85850119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.343727,33.91599,-80.343727,33.91599],
+  "bbox": [
+    -80.343727,
+    33.91599,
+    -80.343727,
+    33.91599
+],
   "geometry": {"coordinates":[-80.343727,33.91599],"type":"Point"}
 }

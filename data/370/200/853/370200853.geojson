@@ -2,13 +2,14 @@
   "id": 370200853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.03024,32.980785,-80.03024,32.980785",
     "geom:latitude":32.980785,
     "geom:longitude":-80.03024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Red Bank Rd",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370200853,
-    "wof:lastmodified":1449030437,
+    "wof:lastmodified":1467082328,
     "wof:name":"Goose Creek Vision Ctr",
     "wof:parent_id":85852091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.03024,32.980785,-80.03024,32.980785],
-  "geometry": {"coordinates":[-80.03024,32.980785],"type":"Point"}
+  "bbox": [
+    -80.03024,
+    32.980785,
+    -80.03024,
+    32.980785
+],
+  "geometry": {"coordinates":[-80.03024000000001,32.980785],"type":"Point"}
 }

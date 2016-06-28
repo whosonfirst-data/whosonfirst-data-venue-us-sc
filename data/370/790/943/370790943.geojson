@@ -2,13 +2,14 @@
   "id": 370790943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.757244,32.217164,-80.757244,32.217164",
     "geom:latitude":32.217164,
     "geom:longitude":-80.757244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 US Hwy 278",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370790943,
-    "wof:lastmodified":1449031692,
+    "wof:lastmodified":1467082356,
     "wof:name":"Chef For You",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-80.757244,32.217164,-80.757244,32.217164],
+  "bbox": [
+    -80.757244,
+    32.217164,
+    -80.757244,
+    32.217164
+],
   "geometry": {"coordinates":[-80.757244,32.217164],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185654767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.936191,32.781574,-79.936191,32.781574",
     "geom:latitude":32.781574,
     "geom:longitude":-79.936191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Wentworth St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185654767,
-    "wof:lastmodified":1449007142,
+    "wof:lastmodified":1467082190,
     "wof:name":"Atlantic Dental Assoc",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-79.936191,32.781574,-79.936191,32.781574],
-  "geometry": {"coordinates":[-79.936191,32.781574],"type":"Point"}
+  "bbox": [
+    -79.936191,
+    32.781574,
+    -79.936191,
+    32.781574
+],
+  "geometry": {"coordinates":[-79.93619099999999,32.781574],"type":"Point"}
 }

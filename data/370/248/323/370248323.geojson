@@ -2,13 +2,14 @@
   "id": 370248323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.744881,34.15037,-79.744881,34.15037",
     "geom:latitude":34.15037,
     "geom:longitude":-79.744881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2506 Kingston Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370248323,
-    "wof:lastmodified":1449030928,
+    "wof:lastmodified":1467082339,
     "wof:name":"Registers Electric",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.744881,34.15037,-79.744881,34.15037],
-  "geometry": {"coordinates":[-79.744881,34.15037],"type":"Point"}
+  "bbox": [
+    -79.744881,
+    34.15037,
+    -79.744881,
+    34.15037
+],
+  "geometry": {"coordinates":[-79.74488100000001,34.15037],"type":"Point"}
 }

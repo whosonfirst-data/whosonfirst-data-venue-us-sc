@@ -2,13 +2,14 @@
   "id": 370586935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.123862,34.050975,-81.123862,34.050975",
     "geom:latitude":34.050975,
     "geom:longitude":-81.123862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Evelyn Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370586935,
-    "wof:lastmodified":1449032088,
+    "wof:lastmodified":1467082365,
     "wof:name":"Huckaby & Assoc",
     "wof:parent_id":85857505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.123862,34.050975,-81.123862,34.050975],
+  "bbox": [
+    -81.123862,
+    34.050975,
+    -81.123862,
+    34.050975
+],
   "geometry": {"coordinates":[-81.123862,34.050975],"type":"Point"}
 }

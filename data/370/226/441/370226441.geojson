@@ -2,13 +2,14 @@
   "id": 370226441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.901688,33.673245,-78.901688,33.673245",
     "geom:latitude":33.673245,
     "geom:longitude":-78.901688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1606 S Ocean Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370226441,
-    "wof:lastmodified":1449031545,
+    "wof:lastmodified":1467082353,
     "wof:name":"Coastal Atm Fat Man",
     "wof:parent_id":85847631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automated"
     ]
 },
-  "bbox": [-78.901688,33.673245,-78.901688,33.673245],
-  "geometry": {"coordinates":[-78.901688,33.673245],"type":"Point"}
+  "bbox": [
+    -78.901688,
+    33.673245,
+    -78.901688,
+    33.673245
+],
+  "geometry": {"coordinates":[-78.90168799999999,33.673245],"type":"Point"}
 }

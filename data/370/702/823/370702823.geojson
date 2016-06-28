@@ -2,13 +2,14 @@
   "id": 370702823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.846449,32.774151,-79.846449,32.774151",
     "geom:latitude":32.774151,
     "geom:longitude":-79.846449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1667 Marsh Harbor Ln",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370702823,
-    "wof:lastmodified":1449030772,
+    "wof:lastmodified":1467082335,
     "wof:name":"Interntonal Bus Strategies LLC",
     "wof:parent_id":85854747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "oxygen"
     ]
 },
-  "bbox": [-79.846449,32.774151,-79.846449,32.774151],
-  "geometry": {"coordinates":[-79.846449,32.774151],"type":"Point"}
+  "bbox": [
+    -79.846449,
+    32.774151,
+    -79.846449,
+    32.774151
+],
+  "geometry": {"coordinates":[-79.84644900000001,32.774151],"type":"Point"}
 }

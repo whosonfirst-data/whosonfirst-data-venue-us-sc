@@ -2,13 +2,14 @@
   "id": 370530427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.928407,32.733568,-79.928407,32.733568",
     "geom:latitude":32.733568,
     "geom:longitude":-79.928407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"987 Three Trees Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370530427,
-    "wof:lastmodified":1449030877,
+    "wof:lastmodified":1467082338,
     "wof:name":"His Commercial Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.928407,32.733568,-79.928407,32.733568],
-  "geometry": {"coordinates":[-79.928407,32.733568],"type":"Point"}
+  "bbox": [
+    -79.928407,
+    32.733568,
+    -79.928407,
+    32.733568
+],
+  "geometry": {"coordinates":[-79.92840700000001,32.733568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337509941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.759813,33.475984,-81.759813,33.475984",
     "geom:latitude":33.475984,
     "geom:longitude":-81.759813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1385 Silver Bluff Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337509941,
-    "wof:lastmodified":1449026970,
+    "wof:lastmodified":1467082266,
     "wof:name":"Eden Gardens",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-81.759813,33.475984,-81.759813,33.475984],
-  "geometry": {"coordinates":[-81.759813,33.475984],"type":"Point"}
+  "bbox": [
+    -81.759813,
+    33.475984,
+    -81.759813,
+    33.475984
+],
+  "geometry": {"coordinates":[-81.75981299999999,33.475984],"type":"Point"}
 }

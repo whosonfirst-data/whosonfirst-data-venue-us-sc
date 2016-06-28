@@ -2,13 +2,14 @@
   "id": 370902427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.447283,34.824388,-82.447283,34.824388",
     "geom:latitude":34.824388,
     "geom:longitude":-82.447283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3607 White Horse Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370902427,
-    "wof:lastmodified":1449031601,
+    "wof:lastmodified":1467082354,
     "wof:name":"H & M Auto Sales",
     "wof:parent_id":85810381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-82.447283,34.824388,-82.447283,34.824388],
+  "bbox": [
+    -82.447283,
+    34.824388,
+    -82.447283,
+    34.824388
+],
   "geometry": {"coordinates":[-82.447283,34.824388],"type":"Point"}
 }

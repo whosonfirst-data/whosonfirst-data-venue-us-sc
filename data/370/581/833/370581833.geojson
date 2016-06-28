@@ -2,13 +2,14 @@
   "id": 370581833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.191407,33.891293,-79.191407,33.891293",
     "geom:latitude":33.891293,
     "geom:longitude":-79.191407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6295 Lundy Short Cut Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370581833,
-    "wof:lastmodified":1449029807,
+    "wof:lastmodified":1467082314,
     "wof:name":"Robert Richardson Electrical",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.191407,33.891293,-79.191407,33.891293],
+  "bbox": [
+    -79.191407,
+    33.891293,
+    -79.191407,
+    33.891293
+],
   "geometry": {"coordinates":[-79.191407,33.891293],"type":"Point"}
 }

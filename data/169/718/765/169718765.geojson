@@ -2,13 +2,14 @@
   "id": 169718765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.837761,32.94179,-79.837761,32.94179",
     "geom:latitude":32.94179,
     "geom:longitude":-79.837761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Cainhoy Rd",
     "sg:city":"Wando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169718765,
-    "wof:lastmodified":1449033398,
+    "wof:lastmodified":1467082380,
     "wof:name":"Charlestone Design",
     "wof:parent_id":85814443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-79.837761,32.94179,-79.837761,32.94179],
+  "bbox": [
+    -79.837761,
+    32.94179,
+    -79.837761,
+    32.94179
+],
   "geometry": {"coordinates":[-79.837761,32.94179],"type":"Point"}
 }

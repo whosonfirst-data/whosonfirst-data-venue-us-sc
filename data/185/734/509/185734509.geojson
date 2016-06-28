@@ -2,13 +2,14 @@
   "id": 185734509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.272705,34.914169,-82.272705,34.914169",
     "geom:latitude":34.914169,
     "geom:longitude":-82.272705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Moultrie Dr",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185734509,
-    "wof:lastmodified":1449008017,
+    "wof:lastmodified":1467082204,
     "wof:name":"Prism Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casualty"
     ]
 },
-  "bbox": [-82.272705,34.914169,-82.272705,34.914169],
+  "bbox": [
+    -82.272705,
+    34.914169,
+    -82.272705,
+    34.914169
+],
   "geometry": {"coordinates":[-82.272705,34.914169],"type":"Point"}
 }

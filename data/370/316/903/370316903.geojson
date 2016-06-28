@@ -2,13 +2,14 @@
   "id": 370316903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.363676,33.928488,-80.363676,33.928488",
     "geom:latitude":33.928488,
     "geom:longitude":-80.363676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Mason Croft Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370316903,
-    "wof:lastmodified":1449031370,
+    "wof:lastmodified":1467082349,
     "wof:name":"Acres Investment Corp",
     "wof:parent_id":85827029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-80.363676,33.928488,-80.363676,33.928488],
+  "bbox": [
+    -80.363676,
+    33.928488,
+    -80.363676,
+    33.928488
+],
   "geometry": {"coordinates":[-80.363676,33.928488],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370187171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.347273,33.929181,-80.347273,33.929181",
     "geom:latitude":33.929181,
     "geom:longitude":-80.347273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Broad St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":370187171,
-    "wof:lastmodified":1449029595,
+    "wof:lastmodified":1467082309,
     "wof:name":"Medi Home Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.347273,33.929181,-80.347273,33.929181],
+  "bbox": [
+    -80.347273,
+    33.929181,
+    -80.347273,
+    33.929181
+],
   "geometry": {"coordinates":[-80.347273,33.929181],"type":"Point"}
 }

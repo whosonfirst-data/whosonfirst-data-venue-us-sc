@@ -2,13 +2,14 @@
   "id": 353544421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.209791,34.700466,-81.209791,34.700466",
     "geom:latitude":34.700466,
     "geom:longitude":-81.209791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Columbia St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353544421,
-    "wof:lastmodified":1449020793,
+    "wof:lastmodified":1467082261,
     "wof:name":"Quality Auto Sales",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.209791,34.700466,-81.209791,34.700466],
+  "bbox": [
+    -81.209791,
+    34.700466,
+    -81.209791,
+    34.700466
+],
   "geometry": {"coordinates":[-81.209791,34.700466],"type":"Point"}
 }

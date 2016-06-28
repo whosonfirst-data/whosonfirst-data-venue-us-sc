@@ -2,13 +2,14 @@
   "id": 370169497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.879459,34.475061,-81.879459,34.475061",
     "geom:latitude":34.475061,
     "geom:longitude":-81.879459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 E Florida St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370169497,
-    "wof:lastmodified":1449031177,
+    "wof:lastmodified":1467082344,
     "wof:name":"Milling Blalock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.879459,34.475061,-81.879459,34.475061],
+  "bbox": [
+    -81.879459,
+    34.475061,
+    -81.879459,
+    34.475061
+],
   "geometry": {"coordinates":[-81.879459,34.475061],"type":"Point"}
 }

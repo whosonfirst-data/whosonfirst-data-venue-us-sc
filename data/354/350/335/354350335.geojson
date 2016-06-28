@@ -2,13 +2,14 @@
   "id": 354350335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.732285,32.175258,-80.732285,32.175258",
     "geom:latitude":32.175258,
     "geom:longitude":-80.732285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Marina Side Dr",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354350335,
-    "wof:lastmodified":1449066795,
+    "wof:lastmodified":1467082434,
     "wof:name":"Broad Creek Public Svc Dis",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sewage"
     ]
 },
-  "bbox": [-80.732285,32.175258,-80.732285,32.175258],
+  "bbox": [
+    -80.732285,
+    32.175258,
+    -80.732285,
+    32.175258
+],
   "geometry": {"coordinates":[-80.732285,32.175258],"type":"Point"}
 }

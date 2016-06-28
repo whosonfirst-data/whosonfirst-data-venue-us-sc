@@ -2,13 +2,14 @@
   "id": 370713329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.378174,34.41312,-79.378174,34.41312",
     "geom:latitude":34.41312,
     "geom:longitude":-79.378174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 W Howard St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370713329,
-    "wof:lastmodified":1449032158,
+    "wof:lastmodified":1467082366,
     "wof:name":"911 Addressing",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.378174,34.41312,-79.378174,34.41312],
+  "bbox": [
+    -79.378174,
+    34.41312,
+    -79.378174,
+    34.41312
+],
   "geometry": {"coordinates":[-79.378174,34.41312],"type":"Point"}
 }

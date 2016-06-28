@@ -2,13 +2,14 @@
   "id": 185784549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.089379,32.831974,-80.089379,32.831974",
     "geom:latitude":32.831974,
     "geom:longitude":-80.089379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Sugar Magnolia Way",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185784549,
-    "wof:lastmodified":1449007666,
+    "wof:lastmodified":1467082198,
     "wof:name":"Southern Real Estate MGT Inc",
     "wof:parent_id":85820043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-80.089379,32.831974,-80.089379,32.831974],
-  "geometry": {"coordinates":[-80.089379,32.831974],"type":"Point"}
+  "bbox": [
+    -80.089379,
+    32.831974,
+    -80.089379,
+    32.831974
+],
+  "geometry": {"coordinates":[-80.08937899999999,32.831974],"type":"Point"}
 }

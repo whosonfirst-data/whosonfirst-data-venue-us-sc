@@ -2,13 +2,14 @@
   "id": 186076245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.395218,33.92963,-80.395218,33.92963",
     "geom:latitude":33.92963,
     "geom:longitude":-80.395218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2535 Merganzer Pt Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186076245,
-    "wof:lastmodified":1449052429,
+    "wof:lastmodified":1467082407,
     "wof:name":"Wright Management LLC",
     "wof:parent_id":85817433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.395218,33.92963,-80.395218,33.92963],
+  "bbox": [
+    -80.395218,
+    33.92963,
+    -80.395218,
+    33.92963
+],
   "geometry": {"coordinates":[-80.395218,33.92963],"type":"Point"}
 }

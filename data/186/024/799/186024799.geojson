@@ -2,13 +2,14 @@
   "id": 186024799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.984432,33.707379,-78.984432,33.707379",
     "geom:latitude":33.707379,
     "geom:longitude":-78.984432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2541 Forestbrook Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186024799,
-    "wof:lastmodified":1449051671,
+    "wof:lastmodified":1467082399,
     "wof:name":"Holy Lamb Lutheran Church",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.984432,33.707379,-78.984432,33.707379],
+  "bbox": [
+    -78.984432,
+    33.707379,
+    -78.984432,
+    33.707379
+],
   "geometry": {"coordinates":[-78.984432,33.707379],"type":"Point"}
 }

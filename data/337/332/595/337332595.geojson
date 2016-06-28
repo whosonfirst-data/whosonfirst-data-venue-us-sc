@@ -2,13 +2,14 @@
   "id": 337332595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.815095,33.682219,-79.815095,33.682219",
     "geom:latitude":33.682219,
     "geom:longitude":-79.815095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"945 Eastland Ave",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337332595,
-    "wof:lastmodified":1449027399,
+    "wof:lastmodified":1467082282,
     "wof:name":"Fulton Track Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.815095,33.682219,-79.815095,33.682219],
+  "bbox": [
+    -79.815095,
+    33.682219,
+    -79.815095,
+    33.682219
+],
   "geometry": {"coordinates":[-79.815095,33.682219],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370601981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.339947,33.910715,-80.339947,33.910715",
     "geom:latitude":33.910715,
     "geom:longitude":-80.339947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"535 S Harvin St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370601981,
-    "wof:lastmodified":1449030612,
+    "wof:lastmodified":1467082332,
     "wof:name":"Dameon's Print Svc",
     "wof:parent_id":85850119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-80.339947,33.910715,-80.339947,33.910715],
+  "bbox": [
+    -80.339947,
+    33.910715,
+    -80.339947,
+    33.910715
+],
   "geometry": {"coordinates":[-80.339947,33.910715],"type":"Point"}
 }

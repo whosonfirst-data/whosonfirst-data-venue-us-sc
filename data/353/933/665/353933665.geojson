@@ -2,13 +2,14 @@
   "id": 353933665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.943737,34.995705,-81.943737,34.995705",
     "geom:latitude":34.995705,
     "geom:longitude":-81.943737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 Landers Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353933665,
-    "wof:lastmodified":1449018779,
+    "wof:lastmodified":1467082220,
     "wof:name":"Itema America",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-81.943737,34.995705,-81.943737,34.995705],
+  "bbox": [
+    -81.943737,
+    34.995705,
+    -81.943737,
+    34.995705
+],
   "geometry": {"coordinates":[-81.943737,34.995705],"type":"Point"}
 }

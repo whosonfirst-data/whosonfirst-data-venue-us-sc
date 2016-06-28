@@ -2,13 +2,14 @@
   "id": 354242695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.569029,34.754738,-80.569029,34.754738",
     "geom:latitude":34.754738,
     "geom:longitude":-80.569029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5577 Pageland Hwy",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354242695,
-    "wof:lastmodified":1449067468,
+    "wof:lastmodified":1467082449,
     "wof:name":"B&C Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.569029,34.754738,-80.569029,34.754738],
+  "bbox": [
+    -80.569029,
+    34.754738,
+    -80.569029,
+    34.754738
+],
   "geometry": {"coordinates":[-80.569029,34.754738],"type":"Point"}
 }

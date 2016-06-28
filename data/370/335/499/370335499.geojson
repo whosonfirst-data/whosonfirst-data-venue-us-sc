@@ -2,13 +2,14 @@
   "id": 370335499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.302068,34.835651,-82.302068,34.835651",
     "geom:latitude":34.835651,
     "geom:longitude":-82.302068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Independence Pt",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370335499,
-    "wof:lastmodified":1449031308,
+    "wof:lastmodified":1467082347,
     "wof:name":"ITT Technical Institute",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trade"
     ]
 },
-  "bbox": [-82.302068,34.835651,-82.302068,34.835651],
-  "geometry": {"coordinates":[-82.302068,34.835651],"type":"Point"}
+  "bbox": [
+    -82.302068,
+    34.835651,
+    -82.302068,
+    34.835651
+],
+  "geometry": {"coordinates":[-82.30206800000001,34.835651],"type":"Point"}
 }

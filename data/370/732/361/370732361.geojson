@@ -2,13 +2,14 @@
   "id": 370732361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.405679,34.453594,-82.405679,34.453594",
     "geom:latitude":34.453594,
     "geom:longitude":-82.405679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 N Main St",
     "sg:city":"Honea Path",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370732361,
-    "wof:lastmodified":1449032605,
+    "wof:lastmodified":1467082376,
     "wof:name":"Pruitt Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-82.405679,34.453594,-82.405679,34.453594],
-  "geometry": {"coordinates":[-82.405679,34.453594],"type":"Point"}
+  "bbox": [
+    -82.405679,
+    34.453594,
+    -82.405679,
+    34.453594
+],
+  "geometry": {"coordinates":[-82.40567900000001,34.453594],"type":"Point"}
 }

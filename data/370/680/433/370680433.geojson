@@ -2,13 +2,14 @@
   "id": 370680433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.593503,34.654706,-82.593503,34.654706",
     "geom:latitude":34.654706,
     "geom:longitude":-82.593503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5933 Hwy 81 N",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370680433,
-    "wof:lastmodified":1449031455,
+    "wof:lastmodified":1467082351,
     "wof:name":"Bagwell & Freeman Properties",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-82.593503,34.654706,-82.593503,34.654706],
+  "bbox": [
+    -82.593503,
+    34.654706,
+    -82.593503,
+    34.654706
+],
   "geometry": {"coordinates":[-82.593503,34.654706],"type":"Point"}
 }

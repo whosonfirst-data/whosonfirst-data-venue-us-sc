@@ -2,13 +2,14 @@
   "id": 370284223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.387892,34.852427,-82.387892,34.852427",
     "geom:latitude":34.852427,
     "geom:longitude":-82.387892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 E North St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370284223,
-    "wof:lastmodified":1449031189,
+    "wof:lastmodified":1467082344,
     "wof:name":"Summit Investment Svc",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.387892,34.852427,-82.387892,34.852427],
-  "geometry": {"coordinates":[-82.387892,34.852427],"type":"Point"}
+  "bbox": [
+    -82.387892,
+    34.852427,
+    -82.387892,
+    34.852427
+],
+  "geometry": {"coordinates":[-82.38789199999999,34.852427],"type":"Point"}
 }

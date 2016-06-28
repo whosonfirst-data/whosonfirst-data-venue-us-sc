@@ -2,13 +2,14 @@
   "id": 353956627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.386387,34.855391,-82.386387,34.855391",
     "geom:latitude":34.855391,
     "geom:longitude":-82.386387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 E Park Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353956627,
-    "wof:lastmodified":1449018678,
+    "wof:lastmodified":1467082218,
     "wof:name":"Michael A Brown",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.386387,34.855391,-82.386387,34.855391],
+  "bbox": [
+    -82.386387,
+    34.855391,
+    -82.386387,
+    34.855391
+],
   "geometry": {"coordinates":[-82.386387,34.855391],"type":"Point"}
 }

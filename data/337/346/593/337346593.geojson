@@ -2,13 +2,14 @@
   "id": 337346593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.405736,34.831187,-82.405736,34.831187",
     "geom:latitude":34.831187,
     "geom:longitude":-82.405736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Mills Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337346593,
-    "wof:lastmodified":1449026928,
+    "wof:lastmodified":1467082264,
     "wof:name":"James M Hicks DDS",
     "wof:parent_id":85811527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.405736,34.831187,-82.405736,34.831187],
+  "bbox": [
+    -82.405736,
+    34.831187,
+    -82.405736,
+    34.831187
+],
   "geometry": {"coordinates":[-82.405736,34.831187],"type":"Point"}
 }

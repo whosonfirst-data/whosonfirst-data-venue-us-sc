@@ -2,13 +2,14 @@
   "id": 354297145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.664337,34.648216,-79.664337,34.648216",
     "geom:latitude":34.648216,
     "geom:longitude":-79.664337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Johnakin Dr",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354297145,
-    "wof:lastmodified":1449067051,
+    "wof:lastmodified":1467082440,
     "wof:name":"East Way Audio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.664337,34.648216,-79.664337,34.648216],
+  "bbox": [
+    -79.664337,
+    34.648216,
+    -79.664337,
+    34.648216
+],
   "geometry": {"coordinates":[-79.664337,34.648216],"type":"Point"}
 }

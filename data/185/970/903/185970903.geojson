@@ -2,13 +2,14 @@
   "id": 185970903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.864392,34.179393,-79.864392,34.179393",
     "geom:latitude":34.179393,
     "geom:longitude":-79.864392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3549 Utah Ct",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185970903,
-    "wof:lastmodified":1449008160,
+    "wof:lastmodified":1467082206,
     "wof:name":"Thomas Groome",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-79.864392,34.179393,-79.864392,34.179393],
+  "bbox": [
+    -79.864392,
+    34.179393,
+    -79.864392,
+    34.179393
+],
   "geometry": {"coordinates":[-79.864392,34.179393],"type":"Point"}
 }

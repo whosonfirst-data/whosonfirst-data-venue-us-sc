@@ -2,13 +2,14 @@
   "id": 353872391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.670792,32.432555,-80.670792,32.432555",
     "geom:latitude":32.432555,
     "geom:longitude":-80.670792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 Craven St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353872391,
-    "wof:lastmodified":1449018485,
+    "wof:lastmodified":1467082214,
     "wof:name":"Firehouse Books & Espresso Bar",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.670792,32.432555,-80.670792,32.432555],
-  "geometry": {"coordinates":[-80.670792,32.432555],"type":"Point"}
+  "bbox": [
+    -80.670792,
+    32.432555,
+    -80.670792,
+    32.432555
+],
+  "geometry": {"coordinates":[-80.67079200000001,32.432555],"type":"Point"}
 }

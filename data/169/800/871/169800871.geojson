@@ -2,13 +2,14 @@
   "id": 169800871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.956098,32.82273,-79.956098,32.82273",
     "geom:latitude":32.82273,
     "geom:longitude":-79.956098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Braswell St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169800871,
-    "wof:lastmodified":1449032937,
+    "wof:lastmodified":1467082377,
     "wof:name":"Boasso America Corporation",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.956098,32.82273,-79.956098,32.82273],
+  "bbox": [
+    -79.956098,
+    32.82273,
+    -79.956098,
+    32.82273
+],
   "geometry": {"coordinates":[-79.956098,32.82273],"type":"Point"}
 }

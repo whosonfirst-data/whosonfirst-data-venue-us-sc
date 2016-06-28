@@ -2,13 +2,14 @@
   "id": 169740939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.051021,34.380206,-80.051021,34.380206",
     "geom:latitude":34.380206,
     "geom:longitude":-80.051021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"954 E Carolina Ave",
     "sg:city":"Hartsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169740939,
-    "wof:lastmodified":1449034167,
+    "wof:lastmodified":1467082382,
     "wof:name":"Stanton & Jones",
     "wof:parent_id":85811765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.051021,34.380206,-80.051021,34.380206],
-  "geometry": {"coordinates":[-80.051021,34.380206],"type":"Point"}
+  "bbox": [
+    -80.051021,
+    34.380206,
+    -80.051021,
+    34.380206
+],
+  "geometry": {"coordinates":[-80.05102100000001,34.380206],"type":"Point"}
 }

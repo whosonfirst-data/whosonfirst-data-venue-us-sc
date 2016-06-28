@@ -2,13 +2,14 @@
   "id": 337565657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.920641,34.94976,-81.920641,34.94976",
     "geom:latitude":34.94976,
     "geom:longitude":-81.920641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 E Kennedy St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337565657,
-    "wof:lastmodified":1449027661,
+    "wof:lastmodified":1467082292,
     "wof:name":"Ballet Barre",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.920641,34.94976,-81.920641,34.94976],
+  "bbox": [
+    -81.920641,
+    34.94976,
+    -81.920641,
+    34.94976
+],
   "geometry": {"coordinates":[-81.920641,34.94976],"type":"Point"}
 }

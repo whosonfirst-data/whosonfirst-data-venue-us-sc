@@ -2,13 +2,14 @@
   "id": 354339041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.622244,34.292427,-81.622244,34.292427",
     "geom:latitude":34.292427,
     "geom:longitude":-81.622244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 College St",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354339041,
-    "wof:lastmodified":1449066673,
+    "wof:lastmodified":1467082431,
     "wof:name":"Wise Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-81.622244,34.292427,-81.622244,34.292427],
-  "geometry": {"coordinates":[-81.622244,34.292427],"type":"Point"}
+  "bbox": [
+    -81.622244,
+    34.292427,
+    -81.622244,
+    34.292427
+],
+  "geometry": {"coordinates":[-81.62224399999999,34.292427],"type":"Point"}
 }

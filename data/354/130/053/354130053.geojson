@@ -2,13 +2,14 @@
   "id": 354130053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.645377,34.48067,-82.645377,34.48067",
     "geom:latitude":34.48067,
     "geom:longitude":-82.645377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 E Shockley Ferry Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354130053,
-    "wof:lastmodified":1449066497,
+    "wof:lastmodified":1467082427,
     "wof:name":"Anderson Coach House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.645377,34.48067,-82.645377,34.48067],
+  "bbox": [
+    -82.645377,
+    34.48067,
+    -82.645377,
+    34.48067
+],
   "geometry": {"coordinates":[-82.645377,34.48067],"type":"Point"}
 }

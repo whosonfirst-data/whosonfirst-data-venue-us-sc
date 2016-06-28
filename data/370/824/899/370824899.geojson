@@ -2,13 +2,14 @@
   "id": 370824899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.198932,34.691089,-81.198932,34.691089",
     "geom:latitude":34.691089,
     "geom:longitude":-81.198932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"598 Columbia Rd",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370824899,
-    "wof:lastmodified":1449030295,
+    "wof:lastmodified":1467082325,
     "wof:name":"Goodyear Accounting",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-81.198932,34.691089,-81.198932,34.691089],
+  "bbox": [
+    -81.198932,
+    34.691089,
+    -81.198932,
+    34.691089
+],
   "geometry": {"coordinates":[-81.198932,34.691089],"type":"Point"}
 }

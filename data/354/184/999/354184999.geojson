@@ -2,13 +2,14 @@
   "id": 354184999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.365136,33.394447,-79.365136,33.394447",
     "geom:latitude":33.394447,
     "geom:longitude":-79.365136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Cox Trl",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354184999,
-    "wof:lastmodified":1449066227,
+    "wof:lastmodified":1467082421,
     "wof:name":"Cox Electric",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.365136,33.394447,-79.365136,33.394447],
-  "geometry": {"coordinates":[-79.365136,33.394447],"type":"Point"}
+  "bbox": [
+    -79.365136,
+    33.394447,
+    -79.365136,
+    33.394447
+],
+  "geometry": {"coordinates":[-79.36513600000001,33.394447],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169843205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.098898,34.043752,-81.098898,34.043752",
     "geom:latitude":34.043752,
     "geom:longitude":-81.098898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2504 Broad River Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":169843205,
-    "wof:lastmodified":1449032968,
+    "wof:lastmodified":1467082377,
     "wof:name":"USA Auto Sales",
     "wof:parent_id":85845041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-81.098898,34.043752,-81.098898,34.043752],
-  "geometry": {"coordinates":[-81.098898,34.043752],"type":"Point"}
+  "bbox": [
+    -81.098898,
+    34.043752,
+    -81.098898,
+    34.043752
+],
+  "geometry": {"coordinates":[-81.09889800000001,34.043752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354176457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.9427,32.740266,-79.9427,32.740266",
     "geom:latitude":32.740266,
     "geom:longitude":-79.9427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"876 Wellington Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354176457,
-    "wof:lastmodified":1449067086,
+    "wof:lastmodified":1467082441,
     "wof:name":"Robert Mints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.9427,32.740266,-79.9427,32.740266],
+  "bbox": [
+    -79.9427,
+    32.740266,
+    -79.9427,
+    32.740266
+],
   "geometry": {"coordinates":[-79.9427,32.740266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353779001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.893967,34.565096,-82.893967,34.565096",
     "geom:latitude":34.565096,
     "geom:longitude":-82.893967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8816 State Hwy 24",
     "sg:city":"Townville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353779001,
-    "wof:lastmodified":1449018641,
+    "wof:lastmodified":1467082217,
     "wof:name":"Townville Baptist Church",
     "wof:parent_id":85858639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.893967,34.565096,-82.893967,34.565096],
+  "bbox": [
+    -82.893967,
+    34.565096,
+    -82.893967,
+    34.565096
+],
   "geometry": {"coordinates":[-82.893967,34.565096],"type":"Point"}
 }

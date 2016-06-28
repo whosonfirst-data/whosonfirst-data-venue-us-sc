@@ -2,13 +2,14 @@
   "id": 353809479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.773314,33.669416,-80.773314,33.669416",
     "geom:latitude":33.669416,
     "geom:longitude":-80.773314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Harry C Raysor Dr",
     "sg:city":"St Matthews",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353809479,
-    "wof:lastmodified":1449020368,
+    "wof:lastmodified":1467082253,
     "wof:name":"St Matthews Family Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.773314,33.669416,-80.773314,33.669416],
+  "bbox": [
+    -80.773314,
+    33.669416,
+    -80.773314,
+    33.669416
+],
   "geometry": {"coordinates":[-80.773314,33.669416],"type":"Point"}
 }

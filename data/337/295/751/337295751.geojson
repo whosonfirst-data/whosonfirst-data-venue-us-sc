@@ -2,13 +2,14 @@
   "id": 337295751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.038536,33.169383,-80.038536,33.169383",
     "geom:latitude":33.169383,
     "geom:longitude":-80.038536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Loblolly Dr",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337295751,
-    "wof:lastmodified":1449027256,
+    "wof:lastmodified":1467082277,
     "wof:name":"Guy & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "video"
     ]
 },
-  "bbox": [-80.038536,33.169383,-80.038536,33.169383],
-  "geometry": {"coordinates":[-80.038536,33.169383],"type":"Point"}
+  "bbox": [
+    -80.038536,
+    33.169383,
+    -80.038536,
+    33.169383
+],
+  "geometry": {"coordinates":[-80.03853599999999,33.169383],"type":"Point"}
 }

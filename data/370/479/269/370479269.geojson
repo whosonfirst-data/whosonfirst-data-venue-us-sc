@@ -2,13 +2,14 @@
   "id": 370479269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.021701,34.950419,-82.021701,34.950419",
     "geom:latitude":34.950419,
     "geom:longitude":-82.021701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2657 Fairforest Clevedale Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370479269,
-    "wof:lastmodified":1449031392,
+    "wof:lastmodified":1467082349,
     "wof:name":"Mastertone Muffler & Svc",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-82.021701,34.950419,-82.021701,34.950419],
-  "geometry": {"coordinates":[-82.021701,34.950419],"type":"Point"}
+  "bbox": [
+    -82.021701,
+    34.950419,
+    -82.021701,
+    34.950419
+],
+  "geometry": {"coordinates":[-82.02170099999999,34.950419],"type":"Point"}
 }

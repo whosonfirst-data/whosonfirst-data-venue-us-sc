@@ -2,13 +2,14 @@
   "id": 353533767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.01714,32.840292,-80.01714,32.840292",
     "geom:latitude":32.840292,
     "geom:longitude":-80.01714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4016 Salt Pointe Pkwy",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353533767,
-    "wof:lastmodified":1449018226,
+    "wof:lastmodified":1467082209,
     "wof:name":"B P Barber",
     "wof:parent_id":85818395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.01714,32.840292,-80.01714,32.840292],
+  "bbox": [
+    -80.01714,
+    32.840292,
+    -80.01714,
+    32.840292
+],
   "geometry": {"coordinates":[-80.01714,32.840292],"type":"Point"}
 }

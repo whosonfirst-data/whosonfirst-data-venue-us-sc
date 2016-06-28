@@ -2,13 +2,14 @@
   "id": 370464267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.304126,34.910699,-82.304126,34.910699",
     "geom:latitude":34.910699,
     "geom:longitude":-82.304126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 E Lee Rd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370464267,
-    "wof:lastmodified":1449030019,
+    "wof:lastmodified":1467082319,
     "wof:name":"W E Willis Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.304126,34.910699,-82.304126,34.910699],
+  "bbox": [
+    -82.304126,
+    34.910699,
+    -82.304126,
+    34.910699
+],
   "geometry": {"coordinates":[-82.304126,34.910699],"type":"Point"}
 }

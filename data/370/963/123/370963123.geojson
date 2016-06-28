@@ -2,13 +2,14 @@
   "id": 370963123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.084983,33.998559,-81.084983,33.998559",
     "geom:latitude":33.998559,
     "geom:longitude":-81.084983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 Sunset Blvd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370963123,
-    "wof:lastmodified":1449029410,
+    "wof:lastmodified":1467082305,
     "wof:name":"American Business Payroll",
     "wof:parent_id":85846837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "payroll"
     ]
 },
-  "bbox": [-81.084983,33.998559,-81.084983,33.998559],
-  "geometry": {"coordinates":[-81.084983,33.998559],"type":"Point"}
+  "bbox": [
+    -81.084983,
+    33.998559,
+    -81.084983,
+    33.998559
+],
+  "geometry": {"coordinates":[-81.08498299999999,33.998559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353489275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.059316,33.848321,-79.059316,33.848321",
     "geom:latitude":33.848321,
     "geom:longitude":-79.059316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 16th Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353489275,
-    "wof:lastmodified":1449019658,
+    "wof:lastmodified":1467082238,
     "wof:name":"Conway Associates Co",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.059316,33.848321,-79.059316,33.848321],
+  "bbox": [
+    -79.059316,
+    33.848321,
+    -79.059316,
+    33.848321
+],
   "geometry": {"coordinates":[-79.059316,33.848321],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370184285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.102131,33.84318,-79.102131,33.84318",
     "geom:latitude":33.84318,
     "geom:longitude":-79.102131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2668 US Hwy 378",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370184285,
-    "wof:lastmodified":1449029657,
+    "wof:lastmodified":1467082311,
     "wof:name":"Soul's Harbour Ministry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.102131,33.84318,-79.102131,33.84318],
+  "bbox": [
+    -79.102131,
+    33.84318,
+    -79.102131,
+    33.84318
+],
   "geometry": {"coordinates":[-79.102131,33.84318],"type":"Point"}
 }

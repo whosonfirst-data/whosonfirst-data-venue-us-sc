@@ -2,13 +2,14 @@
   "id": 370520339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.344265,33.927349,-80.344265,33.927349",
     "geom:latitude":33.927349,
     "geom:longitude":-80.344265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Broad St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":370520339,
-    "wof:lastmodified":1449030210,
+    "wof:lastmodified":1467082323,
     "wof:name":"American Business Machines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.344265,33.927349,-80.344265,33.927349],
-  "geometry": {"coordinates":[-80.344265,33.927349],"type":"Point"}
+  "bbox": [
+    -80.344265,
+    33.927349,
+    -80.344265,
+    33.927349
+],
+  "geometry": {"coordinates":[-80.34426499999999,33.927349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354131273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.371564,33.939371,-80.371564,33.939371",
     "geom:latitude":33.939371,
     "geom:longitude":-80.371564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"641 Bultman Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354131273,
-    "wof:lastmodified":1449066419,
+    "wof:lastmodified":1467082425,
     "wof:name":"Check Advance",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-80.371564,33.939371,-80.371564,33.939371],
-  "geometry": {"coordinates":[-80.371564,33.939371],"type":"Point"}
+  "bbox": [
+    -80.371564,
+    33.939371,
+    -80.371564,
+    33.939371
+],
+  "geometry": {"coordinates":[-80.37156400000001,33.939371],"type":"Point"}
 }

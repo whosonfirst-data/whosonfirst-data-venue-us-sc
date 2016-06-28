@@ -2,13 +2,14 @@
   "id": 370341741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.971186,33.625899,-78.971186,33.625899",
     "geom:latitude":33.625899,
     "geom:longitude":-78.971186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 Fawn Vista Dr N",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370341741,
-    "wof:lastmodified":1449032321,
+    "wof:lastmodified":1467082370,
     "wof:name":"Sandy Shores III",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "condominium"
     ]
 },
-  "bbox": [-78.971186,33.625899,-78.971186,33.625899],
+  "bbox": [
+    -78.971186,
+    33.625899,
+    -78.971186,
+    33.625899
+],
   "geometry": {"coordinates":[-78.971186,33.625899],"type":"Point"}
 }

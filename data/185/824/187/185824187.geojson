@@ -2,13 +2,14 @@
   "id": 185824187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.128099,33.906649,-81.128099,33.906649",
     "geom:latitude":33.906649,
     "geom:longitude":-81.128099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1433 Pine St",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185824187,
-    "wof:lastmodified":1449007157,
+    "wof:lastmodified":1467082191,
     "wof:name":"Congaree Western Weekend",
     "wof:parent_id":85847855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carnival"
     ]
 },
-  "bbox": [-81.128099,33.906649,-81.128099,33.906649],
-  "geometry": {"coordinates":[-81.128099,33.906649],"type":"Point"}
+  "bbox": [
+    -81.128099,
+    33.906649,
+    -81.128099,
+    33.906649
+],
+  "geometry": {"coordinates":[-81.12809900000001,33.906649],"type":"Point"}
 }

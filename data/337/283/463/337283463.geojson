@@ -2,13 +2,14 @@
   "id": 337283463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.300192,34.120646,-81.300192,34.120646",
     "geom:latitude":34.120646,
     "geom:longitude":-81.300192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 Island Trl",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":337283463,
-    "wof:lastmodified":1449027184,
+    "wof:lastmodified":1467082274,
     "wof:name":"Robert A Sweet Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "devices"
     ]
 },
-  "bbox": [-81.300192,34.120646,-81.300192,34.120646],
+  "bbox": [
+    -81.300192,
+    34.120646,
+    -81.300192,
+    34.120646
+],
   "geometry": {"coordinates":[-81.300192,34.120646],"type":"Point"}
 }

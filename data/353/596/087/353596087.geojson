@@ -2,13 +2,14 @@
   "id": 353596087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.278765,34.872619,-82.278765,34.872619",
     "geom:latitude":34.872619,
     "geom:longitude":-82.278765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Bennington Way",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353596087,
-    "wof:lastmodified":1449019572,
+    "wof:lastmodified":1467082236,
     "wof:name":"Del Greco Detail",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-82.278765,34.872619,-82.278765,34.872619],
-  "geometry": {"coordinates":[-82.278765,34.872619],"type":"Point"}
+  "bbox": [
+    -82.278765,
+    34.872619,
+    -82.278765,
+    34.872619
+],
+  "geometry": {"coordinates":[-82.27876500000001,34.872619],"type":"Point"}
 }

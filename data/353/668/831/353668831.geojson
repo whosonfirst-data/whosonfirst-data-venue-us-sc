@@ -2,13 +2,14 @@
   "id": 353668831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.850198,32.221349,-80.850198,32.221349",
     "geom:latitude":32.221349,
     "geom:longitude":-80.850198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Bellwood Ave",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353668831,
-    "wof:lastmodified":1449020025,
+    "wof:lastmodified":1467082246,
     "wof:name":"DSM Corp",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.850198,32.221349,-80.850198,32.221349],
-  "geometry": {"coordinates":[-80.850198,32.221349],"type":"Point"}
+  "bbox": [
+    -80.850198,
+    32.221349,
+    -80.850198,
+    32.221349
+],
+  "geometry": {"coordinates":[-80.85019800000001,32.221349],"type":"Point"}
 }

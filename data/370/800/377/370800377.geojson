@@ -2,13 +2,14 @@
   "id": 370800377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.013432,33.208295,-80.013432,33.208295",
     "geom:latitude":33.208295,
     "geom:longitude":-80.013432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Hill St",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370800377,
-    "wof:lastmodified":1449029355,
+    "wof:lastmodified":1467082304,
     "wof:name":"Foster Construction Enterprise",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.013432,33.208295,-80.013432,33.208295],
-  "geometry": {"coordinates":[-80.013432,33.208295],"type":"Point"}
+  "bbox": [
+    -80.013432,
+    33.208295,
+    -80.013432,
+    33.208295
+],
+  "geometry": {"coordinates":[-80.01343199999999,33.208295],"type":"Point"}
 }

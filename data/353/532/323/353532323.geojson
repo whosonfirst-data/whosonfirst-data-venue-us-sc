@@ -2,13 +2,14 @@
   "id": 353532323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.795333,32.89692,-79.795333,32.89692",
     "geom:latitude":32.89692,
     "geom:longitude":-79.795333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 Bloomingdale Ln",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353532323,
-    "wof:lastmodified":1449019123,
+    "wof:lastmodified":1467082227,
     "wof:name":"Motley Rice",
     "wof:parent_id":85842745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.795333,32.89692,-79.795333,32.89692],
+  "bbox": [
+    -79.795333,
+    32.89692,
+    -79.795333,
+    32.89692
+],
   "geometry": {"coordinates":[-79.795333,32.89692],"type":"Point"}
 }

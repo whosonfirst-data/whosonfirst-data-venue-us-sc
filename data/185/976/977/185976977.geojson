@@ -2,13 +2,14 @@
   "id": 185976977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930846,32.775166,-79.930846,32.775166",
     "geom:latitude":32.775166,
     "geom:longitude":-79.930846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Meeting St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":185976977,
-    "wof:lastmodified":1449007270,
+    "wof:lastmodified":1467082192,
     "wof:name":"First Scots Presbyterian Chr",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.930846,32.775166,-79.930846,32.775166],
+  "bbox": [
+    -79.930846,
+    32.775166,
+    -79.930846,
+    32.775166
+],
   "geometry": {"coordinates":[-79.930846,32.775166],"type":"Point"}
 }

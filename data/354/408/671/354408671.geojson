@@ -2,13 +2,14 @@
   "id": 354408671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.409121,34.833179,-82.409121,34.833179",
     "geom:latitude":34.833179,
     "geom:longitude":-82.409121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Hill St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354408671,
-    "wof:lastmodified":1449066150,
+    "wof:lastmodified":1467082419,
     "wof:name":"Upstate Movers",
     "wof:parent_id":85811527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-82.409121,34.833179,-82.409121,34.833179],
+  "bbox": [
+    -82.409121,
+    34.833179,
+    -82.409121,
+    34.833179
+],
   "geometry": {"coordinates":[-82.409121,34.833179],"type":"Point"}
 }

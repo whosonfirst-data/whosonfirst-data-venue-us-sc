@@ -2,13 +2,14 @@
   "id": 186109873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.787933,34.222731,-79.787933,34.222731",
     "geom:latitude":34.222731,
     "geom:longitude":-79.787933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 Interstate Blvd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186109873,
-    "wof:lastmodified":1449051324,
+    "wof:lastmodified":1467082397,
     "wof:name":"Exide Battery",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "battery"
     ]
 },
-  "bbox": [-79.787933,34.222731,-79.787933,34.222731],
+  "bbox": [
+    -79.787933,
+    34.222731,
+    -79.787933,
+    34.222731
+],
   "geometry": {"coordinates":[-79.787933,34.222731],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353596859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.53256,34.659141,-79.53256,34.659141",
     "geom:latitude":34.659141,
     "geom:longitude":-79.53256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Arcadia St",
     "sg:city":"Mc Coll",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353596859,
-    "wof:lastmodified":1449019572,
+    "wof:lastmodified":1467082236,
     "wof:name":"Harris Brown Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-79.53256,34.659141,-79.53256,34.659141],
+  "bbox": [
+    -79.53256,
+    34.659141,
+    -79.53256,
+    34.659141
+],
   "geometry": {"coordinates":[-79.53256,34.659141],"type":"Point"}
 }

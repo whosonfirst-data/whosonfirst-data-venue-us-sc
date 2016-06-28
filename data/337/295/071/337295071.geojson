@@ -2,13 +2,14 @@
   "id": 337295071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.014046,32.800108,-80.014046,32.800108",
     "geom:latitude":32.800108,
     "geom:longitude":-80.014046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1727 Ashley River Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337295071,
-    "wof:lastmodified":1449027261,
+    "wof:lastmodified":1467082277,
     "wof:name":"Peters Paint & Wall Covering",
     "wof:parent_id":85839787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wallpaper"
     ]
 },
-  "bbox": [-80.014046,32.800108,-80.014046,32.800108],
-  "geometry": {"coordinates":[-80.014046,32.800108],"type":"Point"}
+  "bbox": [
+    -80.014046,
+    32.800108,
+    -80.014046,
+    32.800108
+],
+  "geometry": {"coordinates":[-80.01404599999999,32.800108],"type":"Point"}
 }

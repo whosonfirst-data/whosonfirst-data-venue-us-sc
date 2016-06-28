@@ -2,13 +2,14 @@
   "id": 354371919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.093522,33.025677,-80.093522,33.025677",
     "geom:latitude":33.025677,
     "geom:longitude":-80.093522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Tulane Dr",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354371919,
-    "wof:lastmodified":1449067253,
+    "wof:lastmodified":1467082445,
     "wof:name":"MGM Grand Transport",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.093522,33.025677,-80.093522,33.025677],
-  "geometry": {"coordinates":[-80.093522,33.025677],"type":"Point"}
+  "bbox": [
+    -80.093522,
+    33.025677,
+    -80.093522,
+    33.025677
+],
+  "geometry": {"coordinates":[-80.09352199999999,33.025677],"type":"Point"}
 }

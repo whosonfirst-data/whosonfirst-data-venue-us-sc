@@ -2,13 +2,14 @@
   "id": 353730125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.812999,34.166523,-79.812999,34.166523",
     "geom:latitude":34.166523,
     "geom:longitude":-79.812999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2517 W McCown Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353730125,
-    "wof:lastmodified":1449020417,
+    "wof:lastmodified":1467082254,
     "wof:name":"First United Pentecostal Chr",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.812999,34.166523,-79.812999,34.166523],
+  "bbox": [
+    -79.812999,
+    34.166523,
+    -79.812999,
+    34.166523
+],
   "geometry": {"coordinates":[-79.812999,34.166523],"type":"Point"}
 }

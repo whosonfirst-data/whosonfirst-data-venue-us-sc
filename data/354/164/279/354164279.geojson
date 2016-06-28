@@ -2,13 +2,14 @@
   "id": 354164279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.019219,33.179045,-80.019219,33.179045",
     "geom:latitude":33.179045,
     "geom:longitude":-80.019219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1287 Hwy 52",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354164279,
-    "wof:lastmodified":1449066136,
+    "wof:lastmodified":1467082419,
     "wof:name":"P & P Enterprises Inc",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "used"
     ]
 },
-  "bbox": [-80.019219,33.179045,-80.019219,33.179045],
-  "geometry": {"coordinates":[-80.019219,33.179045],"type":"Point"}
+  "bbox": [
+    -80.019219,
+    33.179045,
+    -80.019219,
+    33.179045
+],
+  "geometry": {"coordinates":[-80.01921900000001,33.179045],"type":"Point"}
 }

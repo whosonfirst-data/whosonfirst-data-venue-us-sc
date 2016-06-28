@@ -2,13 +2,14 @@
   "id": 370175513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.892095,33.496856,-81.892095,33.496856",
     "geom:latitude":33.496856,
     "geom:longitude":-81.892095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Augusta Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370175513,
-    "wof:lastmodified":1449031428,
+    "wof:lastmodified":1467082350,
     "wof:name":"Hawk Animal Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.892095,33.496856,-81.892095,33.496856],
+  "bbox": [
+    -81.892095,
+    33.496856,
+    -81.892095,
+    33.496856
+],
   "geometry": {"coordinates":[-81.892095,33.496856],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169720863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.296495,34.890744,-82.296495,34.890744",
     "geom:latitude":34.890744,
     "geom:longitude":-82.296495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 Old Spartanburg Rd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169720863,
-    "wof:lastmodified":1449033482,
+    "wof:lastmodified":1467082380,
     "wof:name":"Donn Arms",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clergy"
     ]
 },
-  "bbox": [-82.296495,34.890744,-82.296495,34.890744],
-  "geometry": {"coordinates":[-82.296495,34.890744],"type":"Point"}
+  "bbox": [
+    -82.296495,
+    34.890744,
+    -82.296495,
+    34.890744
+],
+  "geometry": {"coordinates":[-82.29649499999999,34.890744],"type":"Point"}
 }

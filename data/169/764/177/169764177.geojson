@@ -2,13 +2,14 @@
   "id": 169764177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.013894,34.901559,-82.013894,34.901559",
     "geom:latitude":34.901559,
     "geom:longitude":-82.013894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Laurel Bluff",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169764177,
-    "wof:lastmodified":1449035805,
+    "wof:lastmodified":1467082387,
     "wof:name":"Peden & Assoc",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.013894,34.901559,-82.013894,34.901559],
-  "geometry": {"coordinates":[-82.013894,34.901559],"type":"Point"}
+  "bbox": [
+    -82.013894,
+    34.901559,
+    -82.013894,
+    34.901559
+],
+  "geometry": {"coordinates":[-82.01389399999999,34.901559],"type":"Point"}
 }

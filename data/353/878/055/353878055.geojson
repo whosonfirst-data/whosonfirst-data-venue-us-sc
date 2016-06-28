@@ -2,13 +2,14 @@
   "id": 353878055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.377926,34.049685,-80.377926,34.049685",
     "geom:latitude":34.049685,
     "geom:longitude":-80.377926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4395 Cotton Acres Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353878055,
-    "wof:lastmodified":1449019593,
+    "wof:lastmodified":1467082237,
     "wof:name":"Boone's Auto",
     "wof:parent_id":85814545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.377926,34.049685,-80.377926,34.049685],
+  "bbox": [
+    -80.377926,
+    34.049685,
+    -80.377926,
+    34.049685
+],
   "geometry": {"coordinates":[-80.377926,34.049685],"type":"Point"}
 }

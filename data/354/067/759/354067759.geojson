@@ -2,13 +2,14 @@
   "id": 354067759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.699236,34.192266,-79.699236,34.192266",
     "geom:latitude":34.192266,
     "geom:longitude":-79.699236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3302 E Woodburn Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354067759,
-    "wof:lastmodified":1449066046,
+    "wof:lastmodified":1467082417,
     "wof:name":"Tommys Tiles Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tile"
     ]
 },
-  "bbox": [-79.699236,34.192266,-79.699236,34.192266],
+  "bbox": [
+    -79.699236,
+    34.192266,
+    -79.699236,
+    34.192266
+],
   "geometry": {"coordinates":[-79.699236,34.192266],"type":"Point"}
 }

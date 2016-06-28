@@ -2,13 +2,14 @@
   "id": 185850627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.852215,34.159543,-79.852215,34.159543",
     "geom:latitude":34.159543,
     "geom:longitude":-79.852215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3628 W Forest Lake Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185850627,
-    "wof:lastmodified":1449007542,
+    "wof:lastmodified":1467082197,
     "wof:name":"Joseph & Randolph Remodeling",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.852215,34.159543,-79.852215,34.159543],
+  "bbox": [
+    -79.852215,
+    34.159543,
+    -79.852215,
+    34.159543
+],
   "geometry": {"coordinates":[-79.852215,34.159543],"type":"Point"}
 }

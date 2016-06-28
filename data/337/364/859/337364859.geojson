@@ -2,13 +2,14 @@
   "id": 337364859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.995094,32.751929,-79.995094,32.751929",
     "geom:latitude":32.751929,
     "geom:longitude":-79.995094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2130 Canal St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337364859,
-    "wof:lastmodified":1449027406,
+    "wof:lastmodified":1467082283,
     "wof:name":"Slh Woodworks LLC",
     "wof:parent_id":85810731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-79.995094,32.751929,-79.995094,32.751929],
-  "geometry": {"coordinates":[-79.995094,32.751929],"type":"Point"}
+  "bbox": [
+    -79.995094,
+    32.751929,
+    -79.995094,
+    32.751929
+],
+  "geometry": {"coordinates":[-79.99509399999999,32.751929],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354347657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.761906,32.154427,-80.761906,32.154427",
     "geom:latitude":32.154427,
     "geom:longitude":-80.761906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Office Park Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354347657,
-    "wof:lastmodified":1449066736,
+    "wof:lastmodified":1467082433,
     "wof:name":"Pike Appraisal Of Hilton Head",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-80.761906,32.154427,-80.761906,32.154427],
+  "bbox": [
+    -80.761906,
+    32.154427,
+    -80.761906,
+    32.154427
+],
   "geometry": {"coordinates":[-80.761906,32.154427],"type":"Point"}
 }

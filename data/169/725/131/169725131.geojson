@@ -2,13 +2,14 @@
   "id": 169725131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.387201,34.910014,-81.387201,34.910014",
     "geom:latitude":34.910014,
     "geom:longitude":-81.387201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3467 Hoodtown Rd",
     "sg:city":"Sharon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169725131,
-    "wof:lastmodified":1449033491,
+    "wof:lastmodified":1467082380,
     "wof:name":"Comer Well Drilling Inc",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.387201,34.910014,-81.387201,34.910014],
+  "bbox": [
+    -81.387201,
+    34.910014,
+    -81.387201,
+    34.910014
+],
   "geometry": {"coordinates":[-81.387201,34.910014],"type":"Point"}
 }

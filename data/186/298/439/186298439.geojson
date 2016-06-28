@@ -2,13 +2,14 @@
   "id": 186298439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.229987,35.002839,-81.229987,35.002839",
     "geom:latitude":35.002839,
     "geom:longitude":-81.229987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Charlotte St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186298439,
-    "wof:lastmodified":1449051110,
+    "wof:lastmodified":1467082395,
     "wof:name":"Miracle Shoppe",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-81.229987,35.002839,-81.229987,35.002839],
-  "geometry": {"coordinates":[-81.229987,35.002839],"type":"Point"}
+  "bbox": [
+    -81.229987,
+    35.002839,
+    -81.229987,
+    35.002839
+],
+  "geometry": {"coordinates":[-81.22998699999999,35.002839],"type":"Point"}
 }

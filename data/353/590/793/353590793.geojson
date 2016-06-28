@@ -2,13 +2,14 @@
   "id": 353590793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.885967,34.015777,-79.885967,34.015777",
     "geom:latitude":34.015777,
     "geom:longitude":-79.885967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"643 W Ralph Lane Rd",
     "sg:city":"Timmonsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353590793,
-    "wof:lastmodified":1449019788,
+    "wof:lastmodified":1467082241,
     "wof:name":"Lifeline Regional Ambulance",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-79.885967,34.015777,-79.885967,34.015777],
-  "geometry": {"coordinates":[-79.885967,34.015777],"type":"Point"}
+  "bbox": [
+    -79.885967,
+    34.015777,
+    -79.885967,
+    34.015777
+],
+  "geometry": {"coordinates":[-79.88596699999999,34.015777],"type":"Point"}
 }

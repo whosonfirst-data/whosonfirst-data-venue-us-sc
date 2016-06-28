@@ -2,13 +2,14 @@
   "id": 370715919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.766679,34.166554,-79.766679,34.166554",
     "geom:latitude":34.166554,
     "geom:longitude":-79.766679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 2nd Loop Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370715919,
-    "wof:lastmodified":1449031801,
+    "wof:lastmodified":1467082359,
     "wof:name":"Alice Merline Collection",
     "wof:parent_id":85829393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.766679,34.166554,-79.766679,34.166554],
+  "bbox": [
+    -79.766679,
+    34.166554,
+    -79.766679,
+    34.166554
+],
   "geometry": {"coordinates":[-79.766679,34.166554],"type":"Point"}
 }

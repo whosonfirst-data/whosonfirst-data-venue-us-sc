@@ -2,13 +2,14 @@
   "id": 354273555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.17886,34.094605,-81.17886,34.094605",
     "geom:latitude":34.094605,
     "geom:longitude":-81.17886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Shetford Rd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354273555,
-    "wof:lastmodified":1449066813,
+    "wof:lastmodified":1467082434,
     "wof:name":"Palmetto Display",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-81.17886,34.094605,-81.17886,34.094605],
+  "bbox": [
+    -81.17886,
+    34.094605,
+    -81.17886,
+    34.094605
+],
   "geometry": {"coordinates":[-81.17886,34.094605],"type":"Point"}
 }

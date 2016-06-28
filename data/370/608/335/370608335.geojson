@@ -2,13 +2,14 @@
   "id": 370608335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.157439,32.587573,-80.157439,32.587573",
     "geom:latitude":32.587573,
     "geom:longitude":-80.157439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2741 Old Forest Dr",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370608335,
-    "wof:lastmodified":1449030534,
+    "wof:lastmodified":1467082330,
     "wof:name":"Inside & Out Design LLC",
     "wof:parent_id":85809109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.157439,32.587573,-80.157439,32.587573],
+  "bbox": [
+    -80.157439,
+    32.587573,
+    -80.157439,
+    32.587573
+],
   "geometry": {"coordinates":[-80.157439,32.587573],"type":"Point"}
 }

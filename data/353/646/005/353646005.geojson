@@ -2,13 +2,14 @@
   "id": 353646005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.1121,34.002932,-81.1121,34.002932",
     "geom:latitude":34.002932,
     "geom:longitude":-81.1121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Medical Cir",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353646005,
-    "wof:lastmodified":1449018191,
+    "wof:lastmodified":1467082208,
     "wof:name":"Lexington Prosthetics & Orthtc",
     "wof:parent_id":85857097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "appliance"
     ]
 },
-  "bbox": [-81.1121,34.002932,-81.1121,34.002932],
+  "bbox": [
+    -81.1121,
+    34.002932,
+    -81.1121,
+    34.002932
+],
   "geometry": {"coordinates":[-81.1121,34.002932],"type":"Point"}
 }

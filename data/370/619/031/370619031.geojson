@@ -2,13 +2,14 @@
   "id": 370619031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.804737,35.015988,-81.804737,35.015988",
     "geom:latitude":35.015988,
     "geom:longitude":-81.804737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5310 S Main St",
     "sg:city":"Cowpens",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370619031,
-    "wof:lastmodified":1449029700,
+    "wof:lastmodified":1467082311,
     "wof:name":"Bailey's Heating & Air Cond",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.804737,35.015988,-81.804737,35.015988],
+  "bbox": [
+    -81.804737,
+    35.015988,
+    -81.804737,
+    35.015988
+],
   "geometry": {"coordinates":[-81.804737,35.015988],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185736453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.984661,33.991254,-80.984661,33.991254",
     "geom:latitude":33.991254,
     "geom:longitude":-80.984661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Kalmia Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185736453,
-    "wof:lastmodified":1449008171,
+    "wof:lastmodified":1467082207,
     "wof:name":"SECOM",
     "wof:parent_id":85876829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.984661,33.991254,-80.984661,33.991254],
+  "bbox": [
+    -80.984661,
+    33.991254,
+    -80.984661,
+    33.991254
+],
   "geometry": {"coordinates":[-80.984661,33.991254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370276059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.246474,34.219561,-80.246474,34.219561",
     "geom:latitude":34.219561,
     "geom:longitude":-80.246474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 N Main St",
     "sg:city":"Bishopville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370276059,
-    "wof:lastmodified":1449029190,
+    "wof:lastmodified":1467082301,
     "wof:name":"Stuckey & Alexander Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.246474,34.219561,-80.246474,34.219561],
-  "geometry": {"coordinates":[-80.246474,34.219561],"type":"Point"}
+  "bbox": [
+    -80.246474,
+    34.219561,
+    -80.246474,
+    34.219561
+],
+  "geometry": {"coordinates":[-80.24647400000001,34.219561],"type":"Point"}
 }

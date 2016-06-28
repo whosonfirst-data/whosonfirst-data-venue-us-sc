@@ -2,13 +2,14 @@
   "id": 354153261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.443869,34.715365,-82.443869,34.715365",
     "geom:latitude":34.715365,
     "geom:longitude":-82.443869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Estes Plant Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354153261,
-    "wof:lastmodified":1449067146,
+    "wof:lastmodified":1467082442,
     "wof:name":"Trash-Away",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-82.443869,34.715365,-82.443869,34.715365],
-  "geometry": {"coordinates":[-82.443869,34.715365],"type":"Point"}
+  "bbox": [
+    -82.443869,
+    34.715365,
+    -82.443869,
+    34.715365
+],
+  "geometry": {"coordinates":[-82.44386900000001,34.715365],"type":"Point"}
 }

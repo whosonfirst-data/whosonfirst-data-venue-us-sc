@@ -2,13 +2,14 @@
   "id": 185602245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.972447,33.584372,-80.972447,33.584372",
     "geom:latitude":33.584372,
     "geom:longitude":-80.972447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Cotton Seed Dr",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185602245,
-    "wof:lastmodified":1449007369,
+    "wof:lastmodified":1467082194,
     "wof:name":"Pruett Plantation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "community"
     ]
 },
-  "bbox": [-80.972447,33.584372,-80.972447,33.584372],
+  "bbox": [
+    -80.972447,
+    33.584372,
+    -80.972447,
+    33.584372
+],
   "geometry": {"coordinates":[-80.972447,33.584372],"type":"Point"}
 }

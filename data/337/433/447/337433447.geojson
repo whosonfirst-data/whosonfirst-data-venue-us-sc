@@ -2,13 +2,14 @@
   "id": 337433447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.861861,33.487151,-80.861861,33.487151",
     "geom:latitude":33.487151,
     "geom:longitude":-80.861861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1031 John C Calhoun Dr",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337433447,
-    "wof:lastmodified":1449027031,
+    "wof:lastmodified":1467082268,
     "wof:name":"Lighting Creations Inc",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fixture"
     ]
 },
-  "bbox": [-80.861861,33.487151,-80.861861,33.487151],
+  "bbox": [
+    -80.861861,
+    33.487151,
+    -80.861861,
+    33.487151
+],
   "geometry": {"coordinates":[-80.861861,33.487151],"type":"Point"}
 }

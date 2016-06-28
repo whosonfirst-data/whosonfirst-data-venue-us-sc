@@ -2,13 +2,14 @@
   "id": 353637327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.287435,34.763971,-82.287435,34.763971",
     "geom:latitude":34.763971,
     "geom:longitude":-82.287435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Fairview Dr",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353637327,
-    "wof:lastmodified":1449018262,
+    "wof:lastmodified":1467082210,
     "wof:name":"Wee Friends",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.287435,34.763971,-82.287435,34.763971],
+  "bbox": [
+    -82.287435,
+    34.763971,
+    -82.287435,
+    34.763971
+],
   "geometry": {"coordinates":[-82.287435,34.763971],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169740425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.983222,32.818438,-79.983222,32.818438",
     "geom:latitude":32.818438,
     "geom:longitude":-79.983222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Fairfax Ct",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169740425,
-    "wof:lastmodified":1449034166,
+    "wof:lastmodified":1467082382,
     "wof:name":"BCS Marketing LLC",
     "wof:parent_id":85838205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic"
     ]
 },
-  "bbox": [-79.983222,32.818438,-79.983222,32.818438],
+  "bbox": [
+    -79.983222,
+    32.818438,
+    -79.983222,
+    32.818438
+],
   "geometry": {"coordinates":[-79.983222,32.818438],"type":"Point"}
 }

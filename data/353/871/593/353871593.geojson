@@ -2,13 +2,14 @@
   "id": 353871593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.249017,33.012259,-80.249017,33.012259",
     "geom:latitude":33.012259,
     "geom:longitude":-80.249017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Chaussee Blvd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353871593,
-    "wof:lastmodified":1449019091,
+    "wof:lastmodified":1467082227,
     "wof:name":"Kenyon Concrete Pumping Inc",
     "wof:parent_id":85812305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.249017,33.012259,-80.249017,33.012259],
-  "geometry": {"coordinates":[-80.249017,33.012259],"type":"Point"}
+  "bbox": [
+    -80.249017,
+    33.012259,
+    -80.249017,
+    33.012259
+],
+  "geometry": {"coordinates":[-80.24901699999999,33.012259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353682399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.040472,34.016236,-81.040472,34.016236",
     "geom:latitude":34.016236,
     "geom:longitude":-81.040472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 Belleview St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353682399,
-    "wof:lastmodified":1449018687,
+    "wof:lastmodified":1467082218,
     "wof:name":"Palmetto Realty Svc",
     "wof:parent_id":85805491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.040472,34.016236,-81.040472,34.016236],
-  "geometry": {"coordinates":[-81.040472,34.016236],"type":"Point"}
+  "bbox": [
+    -81.040472,
+    34.016236,
+    -81.040472,
+    34.016236
+],
+  "geometry": {"coordinates":[-81.04047199999999,34.016236],"type":"Point"}
 }

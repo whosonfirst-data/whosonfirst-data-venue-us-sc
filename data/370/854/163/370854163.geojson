@@ -2,13 +2,14 @@
   "id": 370854163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.090907,32.607518,-80.090907,32.607518",
     "geom:latitude":32.607518,
     "geom:longitude":-80.090907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5557 Green Dolphin Way",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370854163,
-    "wof:lastmodified":1449032350,
+    "wof:lastmodified":1467082371,
     "wof:name":"Quality Eng",
     "wof:parent_id":85809109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.090907,32.607518,-80.090907,32.607518],
+  "bbox": [
+    -80.090907,
+    32.607518,
+    -80.090907,
+    32.607518
+],
   "geometry": {"coordinates":[-80.090907,32.607518],"type":"Point"}
 }

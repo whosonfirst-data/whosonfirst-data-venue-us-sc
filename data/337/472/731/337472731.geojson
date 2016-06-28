@@ -2,13 +2,14 @@
   "id": 337472731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.995072,33.193998,-79.995072,33.193998",
     "geom:latitude":33.193998,
     "geom:longitude":-79.995072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 US Hwy 52",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337472731,
-    "wof:lastmodified":1449027004,
+    "wof:lastmodified":1467082267,
     "wof:name":"KERR Drug",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.995072,33.193998,-79.995072,33.193998],
-  "geometry": {"coordinates":[-79.995072,33.193998],"type":"Point"}
+  "bbox": [
+    -79.995072,
+    33.193998,
+    -79.995072,
+    33.193998
+],
+  "geometry": {"coordinates":[-79.99507199999999,33.193998],"type":"Point"}
 }

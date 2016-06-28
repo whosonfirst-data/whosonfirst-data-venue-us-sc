@@ -2,13 +2,14 @@
   "id": 354050345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.714216,33.811183,-78.714216,33.811183",
     "geom:latitude":33.811183,
     "geom:longitude":-78.714216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2410 Wiley Dr",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354050345,
-    "wof:lastmodified":1449066880,
+    "wof:lastmodified":1467082436,
     "wof:name":"Ocean Side Repairs",
     "wof:parent_id":85841995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.714216,33.811183,-78.714216,33.811183],
-  "geometry": {"coordinates":[-78.714216,33.811183],"type":"Point"}
+  "bbox": [
+    -78.714216,
+    33.811183,
+    -78.714216,
+    33.811183
+],
+  "geometry": {"coordinates":[-78.71421599999999,33.811183],"type":"Point"}
 }

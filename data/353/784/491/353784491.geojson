@@ -2,13 +2,14 @@
   "id": 353784491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.887106,34.695312,-79.887106,34.695312",
     "geom:latitude":34.695312,
     "geom:longitude":-79.887106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Greene St",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353784491,
-    "wof:lastmodified":1449019946,
+    "wof:lastmodified":1467082244,
     "wof:name":"Fresh Flower Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.887106,34.695312,-79.887106,34.695312],
+  "bbox": [
+    -79.887106,
+    34.695312,
+    -79.887106,
+    34.695312
+],
   "geometry": {"coordinates":[-79.887106,34.695312],"type":"Point"}
 }

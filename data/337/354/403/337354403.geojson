@@ -2,13 +2,14 @@
   "id": 337354403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.735672,34.24068,-79.735672,34.24068",
     "geom:latitude":34.24068,
     "geom:longitude":-79.735672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2309 Atlee Ct",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":337354403,
-    "wof:lastmodified":1449027652,
+    "wof:lastmodified":1467082292,
     "wof:name":"T B S Construction Inc",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-79.735672,34.24068,-79.735672,34.24068],
-  "geometry": {"coordinates":[-79.735672,34.24068],"type":"Point"}
+  "bbox": [
+    -79.735672,
+    34.24068,
+    -79.735672,
+    34.24068
+],
+  "geometry": {"coordinates":[-79.73567199999999,34.24068],"type":"Point"}
 }

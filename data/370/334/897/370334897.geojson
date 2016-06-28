@@ -2,13 +2,14 @@
   "id": 370334897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.004951,33.987333,-81.004951,33.987333",
     "geom:latitude":33.987333,
     "geom:longitude":-81.004951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2773 Rosewood Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370334897,
-    "wof:lastmodified":1449030096,
+    "wof:lastmodified":1467082320,
     "wof:name":"Steak Mart",
     "wof:parent_id":85826029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.004951,33.987333,-81.004951,33.987333],
-  "geometry": {"coordinates":[-81.004951,33.987333],"type":"Point"}
+  "bbox": [
+    -81.004951,
+    33.987333,
+    -81.004951,
+    33.987333
+],
+  "geometry": {"coordinates":[-81.00495100000001,33.987333],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370771703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.205342,34.709934,-81.205342,34.709934",
     "geom:latitude":34.709934,
     "geom:longitude":-81.205342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Mobley St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370771703,
-    "wof:lastmodified":1449030906,
+    "wof:lastmodified":1467082338,
     "wof:name":"Denton Funeral Svc",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-81.205342,34.709934,-81.205342,34.709934],
+  "bbox": [
+    -81.205342,
+    34.709934,
+    -81.205342,
+    34.709934
+],
   "geometry": {"coordinates":[-81.205342,34.709934],"type":"Point"}
 }

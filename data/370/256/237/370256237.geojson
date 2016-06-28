@@ -2,13 +2,14 @@
   "id": 370256237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.976846,34.979773,-81.976846,34.979773",
     "geom:latitude":34.979773,
     "geom:longitude":-81.976846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Simuel Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370256237,
-    "wof:lastmodified":1449031671,
+    "wof:lastmodified":1467082356,
     "wof:name":"Mandeville Auto Tech",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "car"
     ]
 },
-  "bbox": [-81.976846,34.979773,-81.976846,34.979773],
-  "geometry": {"coordinates":[-81.976846,34.979773],"type":"Point"}
+  "bbox": [
+    -81.976846,
+    34.979773,
+    -81.976846,
+    34.979773
+],
+  "geometry": {"coordinates":[-81.97684599999999,34.979773],"type":"Point"}
 }

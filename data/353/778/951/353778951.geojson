@@ -2,13 +2,14 @@
   "id": 353778951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.852956,32.24087,-80.852956,32.24087",
     "geom:latitude":32.24087,
     "geom:longitude":-80.852956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Lake Linden Pl",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353778951,
-    "wof:lastmodified":1449018297,
+    "wof:lastmodified":1467082211,
     "wof:name":"A Fantasy Limousine",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-80.852956,32.24087,-80.852956,32.24087],
-  "geometry": {"coordinates":[-80.852956,32.24087],"type":"Point"}
+  "bbox": [
+    -80.852956,
+    32.24087,
+    -80.852956,
+    32.24087
+],
+  "geometry": {"coordinates":[-80.85295600000001,32.24087],"type":"Point"}
 }

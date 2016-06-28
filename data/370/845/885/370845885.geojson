@@ -2,13 +2,14 @@
   "id": 370845885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.030726,33.97305,-81.030726,33.97305",
     "geom:latitude":33.97305,
     "geom:longitude":-81.030726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"551 Granby Ln",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370845885,
-    "wof:lastmodified":1449029636,
+    "wof:lastmodified":1467082310,
     "wof:name":"State Guard",
     "wof:parent_id":85839583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-81.030726,33.97305,-81.030726,33.97305],
+  "bbox": [
+    -81.030726,
+    33.97305,
+    -81.030726,
+    33.97305
+],
   "geometry": {"coordinates":[-81.030726,33.97305],"type":"Point"}
 }

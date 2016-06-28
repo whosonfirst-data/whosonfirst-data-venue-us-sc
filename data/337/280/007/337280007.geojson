@@ -2,13 +2,14 @@
   "id": 337280007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.094384,35.011469,-81.094384,35.011469",
     "geom:latitude":35.011469,
     "geom:longitude":-81.094384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1285 Bowater Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337280007,
-    "wof:lastmodified":1449027354,
+    "wof:lastmodified":1467082281,
     "wof:name":"Coleman Financial LLC",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "financial"
     ]
 },
-  "bbox": [-81.094384,35.011469,-81.094384,35.011469],
-  "geometry": {"coordinates":[-81.094384,35.011469],"type":"Point"}
+  "bbox": [
+    -81.094384,
+    35.011469,
+    -81.094384,
+    35.011469
+],
+  "geometry": {"coordinates":[-81.09438400000001,35.011469],"type":"Point"}
 }

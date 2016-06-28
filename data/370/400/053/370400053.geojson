@@ -2,13 +2,14 @@
   "id": 370400053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.927887,32.777737,-79.927887,32.777737",
     "geom:latitude":32.777737,
     "geom:longitude":-79.927887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Chalmers St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370400053,
-    "wof:lastmodified":1449029416,
+    "wof:lastmodified":1467082305,
     "wof:name":"Sweet Blueberry Farm LLC",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crop"
     ]
 },
-  "bbox": [-79.927887,32.777737,-79.927887,32.777737],
+  "bbox": [
+    -79.927887,
+    32.777737,
+    -79.927887,
+    32.777737
+],
   "geometry": {"coordinates":[-79.927887,32.777737],"type":"Point"}
 }

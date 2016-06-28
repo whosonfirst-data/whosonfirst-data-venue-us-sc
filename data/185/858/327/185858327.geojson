@@ -2,13 +2,14 @@
   "id": 185858327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.487677,33.479767,-80.487677,33.479767",
     "geom:latitude":33.479767,
     "geom:longitude":-80.487677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Mazzie Dr",
     "sg:city":"Santee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185858327,
-    "wof:lastmodified":1449006770,
+    "wof:lastmodified":1467082185,
     "wof:name":"Santee Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.487677,33.479767,-80.487677,33.479767],
-  "geometry": {"coordinates":[-80.487677,33.479767],"type":"Point"}
+  "bbox": [
+    -80.487677,
+    33.479767,
+    -80.487677,
+    33.479767
+],
+  "geometry": {"coordinates":[-80.48767700000001,33.479767],"type":"Point"}
 }

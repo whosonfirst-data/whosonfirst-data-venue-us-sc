@@ -2,13 +2,14 @@
   "id": 169812093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.893829,34.968362,-81.893829,34.968362",
     "geom:latitude":34.968362,
     "geom:longitude":-81.893829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Old Charlotte Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169812093,
-    "wof:lastmodified":1449032777,
+    "wof:lastmodified":1467082376,
     "wof:name":"Appalachian Outdoor Management",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-81.893829,34.968362,-81.893829,34.968362],
+  "bbox": [
+    -81.893829,
+    34.968362,
+    -81.893829,
+    34.968362
+],
   "geometry": {"coordinates":[-81.893829,34.968362],"type":"Point"}
 }

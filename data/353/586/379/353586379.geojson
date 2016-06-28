@@ -2,13 +2,14 @@
   "id": 353586379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.894978,33.714281,-78.894978,33.714281",
     "geom:latitude":33.714281,
     "geom:longitude":-78.894978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 Seaboard St",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353586379,
-    "wof:lastmodified":1449020511,
+    "wof:lastmodified":1467082256,
     "wof:name":"One Stop Party Shop",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.894978,33.714281,-78.894978,33.714281],
-  "geometry": {"coordinates":[-78.894978,33.714281],"type":"Point"}
+  "bbox": [
+    -78.894978,
+    33.714281,
+    -78.894978,
+    33.714281
+],
+  "geometry": {"coordinates":[-78.89497799999999,33.714281],"type":"Point"}
 }

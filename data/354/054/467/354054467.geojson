@@ -2,13 +2,14 @@
   "id": 354054467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.932268,34.911875,-81.932268,34.911875",
     "geom:latitude":34.911875,
     "geom:longitude":-81.932268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"565 Sims Chapel Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354054467,
-    "wof:lastmodified":1449066725,
+    "wof:lastmodified":1467082432,
     "wof:name":"Interstate Mechanical Inc",
     "wof:parent_id":85828171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "metal"
     ]
 },
-  "bbox": [-81.932268,34.911875,-81.932268,34.911875],
-  "geometry": {"coordinates":[-81.932268,34.911875],"type":"Point"}
+  "bbox": [
+    -81.932268,
+    34.911875,
+    -81.932268,
+    34.911875
+],
+  "geometry": {"coordinates":[-81.93226799999999,34.911875],"type":"Point"}
 }

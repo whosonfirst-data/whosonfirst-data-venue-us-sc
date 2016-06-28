@@ -2,13 +2,14 @@
   "id": 354121941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.383011,34.813371,-82.383011,34.813371",
     "geom:latitude":34.813371,
     "geom:longitude":-82.383011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3016 Augusta St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354121941,
-    "wof:lastmodified":1449067263,
+    "wof:lastmodified":1467082445,
     "wof:name":"Young's Hot Wings",
     "wof:parent_id":85832615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.383011,34.813371,-82.383011,34.813371],
+  "bbox": [
+    -82.383011,
+    34.813371,
+    -82.383011,
+    34.813371
+],
   "geometry": {"coordinates":[-82.383011,34.813371],"type":"Point"}
 }

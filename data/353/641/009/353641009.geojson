@@ -2,13 +2,14 @@
   "id": 353641009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.720853,34.523634,-82.720853,34.523634",
     "geom:latitude":34.523634,
     "geom:longitude":-82.720853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1909 Whitehall Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353641009,
-    "wof:lastmodified":1449020205,
+    "wof:lastmodified":1467082249,
     "wof:name":"Dooley Freddy & Billy",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.720853,34.523634,-82.720853,34.523634],
-  "geometry": {"coordinates":[-82.720853,34.523634],"type":"Point"}
+  "bbox": [
+    -82.720853,
+    34.523634,
+    -82.720853,
+    34.523634
+],
+  "geometry": {"coordinates":[-82.72085300000001,34.523634],"type":"Point"}
 }

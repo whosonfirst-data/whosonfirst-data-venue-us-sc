@@ -2,13 +2,14 @@
   "id": 169839969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.355156,34.163189,-81.355156,34.163189",
     "geom:latitude":34.163189,
     "geom:longitude":-81.355156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Amicks Ferry Rd",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169839969,
-    "wof:lastmodified":1449034666,
+    "wof:lastmodified":1467082384,
     "wof:name":"First Community Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.355156,34.163189,-81.355156,34.163189],
-  "geometry": {"coordinates":[-81.355156,34.163189],"type":"Point"}
+  "bbox": [
+    -81.355156,
+    34.163189,
+    -81.355156,
+    34.163189
+],
+  "geometry": {"coordinates":[-81.35515599999999,34.163189],"type":"Point"}
 }

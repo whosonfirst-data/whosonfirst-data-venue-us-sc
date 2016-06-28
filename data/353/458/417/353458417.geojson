@@ -2,13 +2,14 @@
   "id": 353458417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.356587,34.167178,-81.356587,34.167178",
     "geom:latitude":34.167178,
     "geom:longitude":-81.356587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1857 Chapin Rd",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353458417,
-    "wof:lastmodified":1449020062,
+    "wof:lastmodified":1467082247,
     "wof:name":"Diamond Glass & Mirror Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mirror"
     ]
 },
-  "bbox": [-81.356587,34.167178,-81.356587,34.167178],
+  "bbox": [
+    -81.356587,
+    34.167178,
+    -81.356587,
+    34.167178
+],
   "geometry": {"coordinates":[-81.356587,34.167178],"type":"Point"}
 }

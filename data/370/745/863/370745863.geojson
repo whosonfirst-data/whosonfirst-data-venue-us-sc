@@ -2,13 +2,14 @@
   "id": 370745863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.707861,34.787362,-82.707861,34.787362",
     "geom:latitude":34.787362,
     "geom:longitude":-82.707861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Summit Dr",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370745863,
-    "wof:lastmodified":1449032320,
+    "wof:lastmodified":1467082370,
     "wof:name":"Job Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-82.707861,34.787362,-82.707861,34.787362],
-  "geometry": {"coordinates":[-82.707861,34.787362],"type":"Point"}
+  "bbox": [
+    -82.707861,
+    34.787362,
+    -82.707861,
+    34.787362
+],
+  "geometry": {"coordinates":[-82.70786099999999,34.787362],"type":"Point"}
 }

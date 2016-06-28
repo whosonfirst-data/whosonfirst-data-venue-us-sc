@@ -2,13 +2,14 @@
   "id": 370221785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.991142,34.976726,-80.991142,34.976726",
     "geom:latitude":34.976726,
     "geom:longitude":-80.991142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1397 Celanese Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":370221785,
-    "wof:lastmodified":1449030584,
+    "wof:lastmodified":1467082331,
     "wof:name":"Petroleum World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.991142,34.976726,-80.991142,34.976726],
+  "bbox": [
+    -80.991142,
+    34.976726,
+    -80.991142,
+    34.976726
+],
   "geometry": {"coordinates":[-80.991142,34.976726],"type":"Point"}
 }

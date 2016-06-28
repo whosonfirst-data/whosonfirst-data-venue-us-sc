@@ -2,13 +2,14 @@
   "id": 370784665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.912557,34.999408,-80.912557,34.999408",
     "geom:latitude":34.999408,
     "geom:longitude":-80.912557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 Copper Creek Ln",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370784665,
-    "wof:lastmodified":1449031338,
+    "wof:lastmodified":1467082348,
     "wof:name":"Campbell's Stump Removal",
     "wof:parent_id":85827769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-80.912557,34.999408,-80.912557,34.999408],
-  "geometry": {"coordinates":[-80.912557,34.999408],"type":"Point"}
+  "bbox": [
+    -80.912557,
+    34.999408,
+    -80.912557,
+    34.999408
+],
+  "geometry": {"coordinates":[-80.91255700000001,34.999408],"type":"Point"}
 }

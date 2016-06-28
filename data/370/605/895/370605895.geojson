@@ -2,13 +2,14 @@
   "id": 370605895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.988977,34.453801,-79.988977,34.453801",
     "geom:latitude":34.453801,
     "geom:longitude":-79.988977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2073 Bethlehem Rd",
     "sg:city":"Hartsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370605895,
-    "wof:lastmodified":1449030741,
+    "wof:lastmodified":1467082335,
     "wof:name":"James N Chapman Farms",
     "wof:parent_id":85811765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.988977,34.453801,-79.988977,34.453801],
-  "geometry": {"coordinates":[-79.988977,34.453801],"type":"Point"}
+  "bbox": [
+    -79.988977,
+    34.453801,
+    -79.988977,
+    34.453801
+],
+  "geometry": {"coordinates":[-79.98897700000001,34.453801],"type":"Point"}
 }

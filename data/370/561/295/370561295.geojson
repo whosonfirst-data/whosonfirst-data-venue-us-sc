@@ -2,13 +2,14 @@
   "id": 370561295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.771495,32.176178,-80.771495,32.176178",
     "geom:latitude":32.176178,
     "geom:longitude":-80.771495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Helmsman Way",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370561295,
-    "wof:lastmodified":1449031492,
+    "wof:lastmodified":1467082351,
     "wof:name":"Palmetto Bay Yacht Services",
     "wof:parent_id":85850409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "yacht"
     ]
 },
-  "bbox": [-80.771495,32.176178,-80.771495,32.176178],
+  "bbox": [
+    -80.771495,
+    32.176178,
+    -80.771495,
+    32.176178
+],
   "geometry": {"coordinates":[-80.771495,32.176178],"type":"Point"}
 }

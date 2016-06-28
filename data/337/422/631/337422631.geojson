@@ -2,13 +2,14 @@
   "id": 337422631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.076124,33.997981,-81.076124,33.997981",
     "geom:latitude":33.997981,
     "geom:longitude":-81.076124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1074 Sunset Blvd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337422631,
-    "wof:lastmodified":1449026993,
+    "wof:lastmodified":1467082267,
     "wof:name":"Vista Inc",
     "wof:parent_id":85840603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "for"
     ]
 },
-  "bbox": [-81.076124,33.997981,-81.076124,33.997981],
-  "geometry": {"coordinates":[-81.076124,33.997981],"type":"Point"}
+  "bbox": [
+    -81.076124,
+    33.997981,
+    -81.076124,
+    33.997981
+],
+  "geometry": {"coordinates":[-81.07612399999999,33.997981],"type":"Point"}
 }

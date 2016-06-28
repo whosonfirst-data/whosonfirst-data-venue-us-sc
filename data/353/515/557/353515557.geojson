@@ -2,13 +2,14 @@
   "id": 353515557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.783408,34.651791,-82.783408,34.651791",
     "geom:latitude":34.651791,
     "geom:longitude":-82.783408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 E Queen St",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353515557,
-    "wof:lastmodified":1449018845,
+    "wof:lastmodified":1467082222,
     "wof:name":"Pendleton District Commission",
     "wof:parent_id":85858639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "interest"
     ]
 },
-  "bbox": [-82.783408,34.651791,-82.783408,34.651791],
-  "geometry": {"coordinates":[-82.783408,34.651791],"type":"Point"}
+  "bbox": [
+    -82.783408,
+    34.651791,
+    -82.783408,
+    34.651791
+],
+  "geometry": {"coordinates":[-82.78340799999999,34.651791],"type":"Point"}
 }

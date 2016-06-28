@@ -2,13 +2,14 @@
   "id": 354101235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.293039,33.671155,-81.293039,33.671155",
     "geom:latitude":33.671155,
     "geom:longitude":-81.293039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 Crossthorn Rd",
     "sg:city":"Salley",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354101235,
-    "wof:lastmodified":1449066836,
+    "wof:lastmodified":1467082435,
     "wof:name":"Berlin Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.293039,33.671155,-81.293039,33.671155],
-  "geometry": {"coordinates":[-81.293039,33.671155],"type":"Point"}
+  "bbox": [
+    -81.293039,
+    33.671155,
+    -81.293039,
+    33.671155
+],
+  "geometry": {"coordinates":[-81.29303899999999,33.671155],"type":"Point"}
 }

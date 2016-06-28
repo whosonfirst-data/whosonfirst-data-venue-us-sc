@@ -2,13 +2,14 @@
   "id": 370881077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.393497,34.824207,-82.393497,34.824207",
     "geom:latitude":34.824207,
     "geom:longitude":-82.393497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2118 Augusta St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370881077,
-    "wof:lastmodified":1449031036,
+    "wof:lastmodified":1467082341,
     "wof:name":"Cheers Food & Spirits",
     "wof:parent_id":85802935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-82.393497,34.824207,-82.393497,34.824207],
+  "bbox": [
+    -82.393497,
+    34.824207,
+    -82.393497,
+    34.824207
+],
   "geometry": {"coordinates":[-82.393497,34.824207],"type":"Point"}
 }

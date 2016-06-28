@@ -2,13 +2,14 @@
   "id": 353691493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.244161,34.641885,-81.244161,34.641885",
     "geom:latitude":34.641885,
     "geom:longitude":-81.244161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Fairforest Rd",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353691493,
-    "wof:lastmodified":1449018468,
+    "wof:lastmodified":1467082214,
     "wof:name":"Clean Windows Unlimited",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-81.244161,34.641885,-81.244161,34.641885],
-  "geometry": {"coordinates":[-81.244161,34.641885],"type":"Point"}
+  "bbox": [
+    -81.244161,
+    34.641885,
+    -81.244161,
+    34.641885
+],
+  "geometry": {"coordinates":[-81.24416100000001,34.641885],"type":"Point"}
 }

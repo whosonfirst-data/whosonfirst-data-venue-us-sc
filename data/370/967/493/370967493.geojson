@@ -2,13 +2,14 @@
   "id": 370967493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.530577,34.828189,-82.530577,34.828189",
     "geom:latitude":34.828189,
     "geom:longitude":-82.530577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4574 Calhoun Memorial Hwy",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370967493,
-    "wof:lastmodified":1449032214,
+    "wof:lastmodified":1467082367,
     "wof:name":"Mc Kinney Dodge Chrysler Jeep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.530577,34.828189,-82.530577,34.828189],
-  "geometry": {"coordinates":[-82.530577,34.828189],"type":"Point"}
+  "bbox": [
+    -82.530577,
+    34.828189,
+    -82.530577,
+    34.828189
+],
+  "geometry": {"coordinates":[-82.53057699999999,34.828189],"type":"Point"}
 }

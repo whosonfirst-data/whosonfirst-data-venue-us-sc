@@ -2,13 +2,14 @@
   "id": 185753353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.853491,35.020959,-81.853491,35.020959",
     "geom:latitude":35.020959,
     "geom:longitude":-81.853491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 Bennett Dairy Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185753353,
-    "wof:lastmodified":1449006791,
+    "wof:lastmodified":1467082185,
     "wof:name":"Cecil Arthur Backhoe Service",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.853491,35.020959,-81.853491,35.020959],
-  "geometry": {"coordinates":[-81.853491,35.020959],"type":"Point"}
+  "bbox": [
+    -81.853491,
+    35.020959,
+    -81.853491,
+    35.020959
+],
+  "geometry": {"coordinates":[-81.85349100000001,35.020959],"type":"Point"}
 }

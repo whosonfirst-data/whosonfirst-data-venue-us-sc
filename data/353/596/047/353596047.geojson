@@ -2,13 +2,14 @@
   "id": 353596047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.992465,34.059992,-80.992465,34.059992",
     "geom:latitude":34.059992,
     "geom:longitude":-80.992465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Arbor Lake Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353596047,
-    "wof:lastmodified":1449019573,
+    "wof:lastmodified":1467082236,
     "wof:name":"First Citizens Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.992465,34.059992,-80.992465,34.059992],
+  "bbox": [
+    -80.992465,
+    34.059992,
+    -80.992465,
+    34.059992
+],
   "geometry": {"coordinates":[-80.992465,34.059992],"type":"Point"}
 }

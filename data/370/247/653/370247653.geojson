@@ -2,13 +2,14 @@
   "id": 370247653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.639896,33.076636,-80.639896,33.076636",
     "geom:latitude":33.076636,
     "geom:longitude":-80.639896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13139 Augusta Hwy",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370247653,
-    "wof:lastmodified":1449031057,
+    "wof:lastmodified":1467082342,
     "wof:name":"Edisto River Project",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.639896,33.076636,-80.639896,33.076636],
-  "geometry": {"coordinates":[-80.639896,33.076636],"type":"Point"}
+  "bbox": [
+    -80.639896,
+    33.076636,
+    -80.639896,
+    33.076636
+],
+  "geometry": {"coordinates":[-80.63989599999999,33.076636],"type":"Point"}
 }

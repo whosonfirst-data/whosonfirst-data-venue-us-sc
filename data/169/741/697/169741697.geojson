@@ -2,13 +2,14 @@
   "id": 169741697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.945746,34.961413,-81.945746,34.961413",
     "geom:latitude":34.961413,
     "geom:longitude":-81.945746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Fremont Ave",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169741697,
-    "wof:lastmodified":1449032863,
+    "wof:lastmodified":1467082377,
     "wof:name":"Dialysis Clinic Inc",
     "wof:parent_id":85826389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.945746,34.961413,-81.945746,34.961413],
+  "bbox": [
+    -81.945746,
+    34.961413,
+    -81.945746,
+    34.961413
+],
   "geometry": {"coordinates":[-81.945746,34.961413],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370893471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.017746,33.779214,-79.017746,33.779214",
     "geom:latitude":33.779214,
     "geom:longitude":-79.017746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Paula Ct",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370893471,
-    "wof:lastmodified":1449031835,
+    "wof:lastmodified":1467082359,
     "wof:name":"Sound Hound",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainer"
     ]
 },
-  "bbox": [-79.017746,33.779214,-79.017746,33.779214],
+  "bbox": [
+    -79.017746,
+    33.779214,
+    -79.017746,
+    33.779214
+],
   "geometry": {"coordinates":[-79.017746,33.779214],"type":"Point"}
 }

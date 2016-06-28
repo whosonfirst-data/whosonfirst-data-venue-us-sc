@@ -2,13 +2,14 @@
   "id": 370898563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.997544,32.901148,-79.997544,32.901148",
     "geom:latitude":32.901148,
     "geom:longitude":-79.997544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1391 Remount Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370898563,
-    "wof:lastmodified":1449028994,
+    "wof:lastmodified":1467082296,
     "wof:name":"Medical Claims Specialists LLC",
     "wof:parent_id":85830427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-79.997544,32.901148,-79.997544,32.901148],
+  "bbox": [
+    -79.997544,
+    32.901148,
+    -79.997544,
+    32.901148
+],
   "geometry": {"coordinates":[-79.997544,32.901148],"type":"Point"}
 }

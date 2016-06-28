@@ -2,13 +2,14 @@
   "id": 337299753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.116307,34.008275,-81.116307,34.008275",
     "geom:latitude":34.008275,
     "geom:longitude":-81.116307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 W Hospital Dr",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337299753,
-    "wof:lastmodified":1449027131,
+    "wof:lastmodified":1467082272,
     "wof:name":"Lexington County Mental Health",
     "wof:parent_id":85857097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-81.116307,34.008275,-81.116307,34.008275],
-  "geometry": {"coordinates":[-81.116307,34.008275],"type":"Point"}
+  "bbox": [
+    -81.116307,
+    34.008275,
+    -81.116307,
+    34.008275
+],
+  "geometry": {"coordinates":[-81.11630700000001,34.008275],"type":"Point"}
 }

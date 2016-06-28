@@ -2,13 +2,14 @@
   "id": 353866843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.011092,32.786529,-80.011092,32.786529",
     "geom:latitude":32.786529,
     "geom:longitude":-80.011092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1522 Savannah Hwy",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353866843,
-    "wof:lastmodified":1449019473,
+    "wof:lastmodified":1467082234,
     "wof:name":"Cactus Car Wash",
     "wof:parent_id":85838657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-80.011092,32.786529,-80.011092,32.786529],
+  "bbox": [
+    -80.011092,
+    32.786529,
+    -80.011092,
+    32.786529
+],
   "geometry": {"coordinates":[-80.011092,32.786529],"type":"Point"}
 }

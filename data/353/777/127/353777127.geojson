@@ -2,13 +2,14 @@
   "id": 353777127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.594548,34.225069,-80.594548,34.225069",
     "geom:latitude":34.225069,
     "geom:longitude":-80.594548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Black River Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353777127,
-    "wof:lastmodified":1449019603,
+    "wof:lastmodified":1467082237,
     "wof:name":"Ryans Heating AC",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.594548,34.225069,-80.594548,34.225069],
+  "bbox": [
+    -80.594548,
+    34.225069,
+    -80.594548,
+    34.225069
+],
   "geometry": {"coordinates":[-80.594548,34.225069],"type":"Point"}
 }

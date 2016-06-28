@@ -2,13 +2,14 @@
   "id": 186062109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.074289,33.98369,-81.074289,33.98369",
     "geom:latitude":33.98369,
     "geom:longitude":-81.074289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 D Ave",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186062109,
-    "wof:lastmodified":1449052835,
+    "wof:lastmodified":1467082411,
     "wof:name":"Gene Frye Bail Bond Co",
     "wof:parent_id":85897259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-81.074289,33.98369,-81.074289,33.98369],
-  "geometry": {"coordinates":[-81.074289,33.98369],"type":"Point"}
+  "bbox": [
+    -81.074289,
+    33.98369,
+    -81.074289,
+    33.98369
+],
+  "geometry": {"coordinates":[-81.07428899999999,33.98369],"type":"Point"}
 }

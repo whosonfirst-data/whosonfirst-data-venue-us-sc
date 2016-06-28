@@ -2,13 +2,14 @@
   "id": 353897257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.765266,32.162404,-80.765266,32.162404",
     "geom:latitude":32.162404,
     "geom:longitude":-80.765266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Bow Cir",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353897257,
-    "wof:lastmodified":1449020408,
+    "wof:lastmodified":1467082254,
     "wof:name":"Casual Elegance",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-80.765266,32.162404,-80.765266,32.162404],
+  "bbox": [
+    -80.765266,
+    32.162404,
+    -80.765266,
+    32.162404
+],
   "geometry": {"coordinates":[-80.765266,32.162404],"type":"Point"}
 }

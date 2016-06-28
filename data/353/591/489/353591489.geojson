@@ -2,13 +2,14 @@
   "id": 353591489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.792465,34.167085,-79.792465,34.167085",
     "geom:latitude":34.167085,
     "geom:longitude":-79.792465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1385 2nd Loop Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353591489,
-    "wof:lastmodified":1449019630,
+    "wof:lastmodified":1467082238,
     "wof:name":"Arazie & Butler",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-79.792465,34.167085,-79.792465,34.167085],
-  "geometry": {"coordinates":[-79.792465,34.167085],"type":"Point"}
+  "bbox": [
+    -79.792465,
+    34.167085,
+    -79.792465,
+    34.167085
+],
+  "geometry": {"coordinates":[-79.79246500000001,34.167085],"type":"Point"}
 }

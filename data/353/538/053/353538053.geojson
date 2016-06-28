@@ -2,13 +2,14 @@
   "id": 353538053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.04243,34.021176,-81.04243,34.021176",
     "geom:latitude":34.021176,
     "geom:longitude":-81.04243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2715 Main St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353538053,
-    "wof:lastmodified":1449018563,
+    "wof:lastmodified":1467082216,
     "wof:name":"Li'l Cricket Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.04243,34.021176,-81.04243,34.021176],
+  "bbox": [
+    -81.04243,
+    34.021176,
+    -81.04243,
+    34.021176
+],
   "geometry": {"coordinates":[-81.04243,34.021176],"type":"Point"}
 }

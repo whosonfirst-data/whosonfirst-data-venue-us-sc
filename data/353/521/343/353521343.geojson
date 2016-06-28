@@ -2,13 +2,14 @@
   "id": 353521343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.930095,34.966527,-81.930095,34.966527",
     "geom:latitude":34.966527,
     "geom:longitude":-81.930095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Garner Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353521343,
-    "wof:lastmodified":1449020664,
+    "wof:lastmodified":1467082259,
     "wof:name":"Art & Frame Gallery",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.930095,34.966527,-81.930095,34.966527],
-  "geometry": {"coordinates":[-81.930095,34.966527],"type":"Point"}
+  "bbox": [
+    -81.930095,
+    34.966527,
+    -81.930095,
+    34.966527
+],
+  "geometry": {"coordinates":[-81.93009499999999,34.966527],"type":"Point"}
 }

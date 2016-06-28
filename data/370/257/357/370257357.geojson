@@ -2,13 +2,14 @@
   "id": 370257357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.867926,34.910079,-81.867926,34.910079",
     "geom:latitude":34.910079,
     "geom:longitude":-81.867926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3025 W Croft Cir",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370257357,
-    "wof:lastmodified":1449030105,
+    "wof:lastmodified":1467082321,
     "wof:name":"Parker-Hannifin Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "gasket"
     ]
 },
-  "bbox": [-81.867926,34.910079,-81.867926,34.910079],
+  "bbox": [
+    -81.867926,
+    34.910079,
+    -81.867926,
+    34.910079
+],
   "geometry": {"coordinates":[-81.867926,34.910079],"type":"Point"}
 }

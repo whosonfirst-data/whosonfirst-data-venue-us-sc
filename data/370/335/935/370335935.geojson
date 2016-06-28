@@ -2,13 +2,14 @@
   "id": 370335935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.080064,34.001672,-81.080064,34.001672",
     "geom:latitude":34.001672,
     "geom:longitude":-81.080064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 Seminole Dr",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370335935,
-    "wof:lastmodified":1449031309,
+    "wof:lastmodified":1467082347,
     "wof:name":"Carolina Kleeners",
     "wof:parent_id":85846837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.080064,34.001672,-81.080064,34.001672],
-  "geometry": {"coordinates":[-81.080064,34.001672],"type":"Point"}
+  "bbox": [
+    -81.080064,
+    34.001672,
+    -81.080064,
+    34.001672
+],
+  "geometry": {"coordinates":[-81.08006399999999,34.001672],"type":"Point"}
 }

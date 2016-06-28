@@ -2,13 +2,14 @@
   "id": 337398745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.889265,33.950562,-78.889265,33.950562",
     "geom:latitude":33.950562,
     "geom:longitude":-78.889265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6731 Hwy 1124",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337398745,
-    "wof:lastmodified":1449027005,
+    "wof:lastmodified":1467082267,
     "wof:name":"Todds Electric Service",
     "wof:parent_id":85815435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.889265,33.950562,-78.889265,33.950562],
-  "geometry": {"coordinates":[-78.889265,33.950562],"type":"Point"}
+  "bbox": [
+    -78.889265,
+    33.950562,
+    -78.889265,
+    33.950562
+],
+  "geometry": {"coordinates":[-78.88926499999999,33.950562],"type":"Point"}
 }

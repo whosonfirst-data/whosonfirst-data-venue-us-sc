@@ -2,13 +2,14 @@
   "id": 354353179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.046222,33.835667,-79.046222,33.835667",
     "geom:latitude":33.835667,
     "geom:longitude":-79.046222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Main St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354353179,
-    "wof:lastmodified":1449066390,
+    "wof:lastmodified":1467082425,
     "wof:name":"Chestnut Mandolins",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-79.046222,33.835667,-79.046222,33.835667],
+  "bbox": [
+    -79.046222,
+    33.835667,
+    -79.046222,
+    33.835667
+],
   "geometry": {"coordinates":[-79.046222,33.835667],"type":"Point"}
 }

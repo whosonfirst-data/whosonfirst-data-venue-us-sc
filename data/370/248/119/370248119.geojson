@@ -2,13 +2,14 @@
   "id": 370248119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.9713,34.96689,-81.9713,34.96689",
     "geom:latitude":34.96689,
     "geom:longitude":-81.9713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Center St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370248119,
-    "wof:lastmodified":1449030931,
+    "wof:lastmodified":1467082339,
     "wof:name":"International Micro",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.9713,34.96689,-81.9713,34.96689],
+  "bbox": [
+    -81.9713,
+    34.96689,
+    -81.9713,
+    34.96689
+],
   "geometry": {"coordinates":[-81.9713,34.96689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370354463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.677738,34.611242,-79.677738,34.611242",
     "geom:latitude":34.611242,
     "geom:longitude":-79.677738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 S Parsonage St",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370354463,
-    "wof:lastmodified":1449032096,
+    "wof:lastmodified":1467082365,
     "wof:name":"Quick's Video & Games",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cassette"
     ]
 },
-  "bbox": [-79.677738,34.611242,-79.677738,34.611242],
-  "geometry": {"coordinates":[-79.677738,34.611242],"type":"Point"}
+  "bbox": [
+    -79.677738,
+    34.611242,
+    -79.677738,
+    34.611242
+],
+  "geometry": {"coordinates":[-79.67773800000001,34.611242],"type":"Point"}
 }

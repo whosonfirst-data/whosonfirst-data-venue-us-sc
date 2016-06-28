@@ -2,13 +2,14 @@
   "id": 353489701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.009653,33.998618,-81.009653,33.998618",
     "geom:latitude":33.998618,
     "geom:longitude":-81.009653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2445 Devine St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353489701,
-    "wof:lastmodified":1449019657,
+    "wof:lastmodified":1467082238,
     "wof:name":"Life Insurance Company Georgia",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-81.009653,33.998618,-81.009653,33.998618],
+  "bbox": [
+    -81.009653,
+    33.998618,
+    -81.009653,
+    33.998618
+],
   "geometry": {"coordinates":[-81.009653,33.998618],"type":"Point"}
 }

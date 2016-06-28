@@ -2,13 +2,14 @@
   "id": 370876569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.814639,34.812235,-82.814639,34.812235",
     "geom:latitude":34.812235,
     "geom:longitude":-82.814639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 N Main St",
     "sg:city":"Six Mile",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370876569,
-    "wof:lastmodified":1449029781,
+    "wof:lastmodified":1467082313,
     "wof:name":"Providence Christian Academy",
     "wof:parent_id":85824489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.814639,34.812235,-82.814639,34.812235],
+  "bbox": [
+    -82.814639,
+    34.812235,
+    -82.814639,
+    34.812235
+],
   "geometry": {"coordinates":[-82.814639,34.812235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353763631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.274652,34.184401,-81.274652,34.184401",
     "geom:latitude":34.184401,
     "geom:longitude":-81.274652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1365 Pet Sites Rd",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353763631,
-    "wof:lastmodified":1449020781,
+    "wof:lastmodified":1467082261,
     "wof:name":"Lanier Trees",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.274652,34.184401,-81.274652,34.184401],
+  "bbox": [
+    -81.274652,
+    34.184401,
+    -81.274652,
+    34.184401
+],
   "geometry": {"coordinates":[-81.274652,34.184401],"type":"Point"}
 }

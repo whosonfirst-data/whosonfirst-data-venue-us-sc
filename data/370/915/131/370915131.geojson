@@ -2,13 +2,14 @@
   "id": 370915131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.861481,33.490762,-80.861481,33.490762",
     "geom:latitude":33.490762,
     "geom:longitude":-80.861481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1356 Russell St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370915131,
-    "wof:lastmodified":1449032429,
+    "wof:lastmodified":1467082372,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "filing"
     ]
 },
-  "bbox": [-80.861481,33.490762,-80.861481,33.490762],
+  "bbox": [
+    -80.861481,
+    33.490762,
+    -80.861481,
+    33.490762
+],
   "geometry": {"coordinates":[-80.861481,33.490762],"type":"Point"}
 }

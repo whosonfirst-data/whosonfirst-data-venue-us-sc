@@ -2,13 +2,14 @@
   "id": 370180511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.3636,34.879674,-82.3636,34.879674",
     "geom:latitude":34.879674,
     "geom:longitude":-82.3636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 N Pleasantburg Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370180511,
-    "wof:lastmodified":1449029202,
+    "wof:lastmodified":1467082301,
     "wof:name":"Leawood Cleaners & Laundry",
     "wof:parent_id":85857455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-82.3636,34.879674,-82.3636,34.879674],
-  "geometry": {"coordinates":[-82.3636,34.879674],"type":"Point"}
+  "bbox": [
+    -82.3636,
+    34.879674,
+    -82.3636,
+    34.879674
+],
+  "geometry": {"coordinates":[-82.36360000000001,34.879674],"type":"Point"}
 }

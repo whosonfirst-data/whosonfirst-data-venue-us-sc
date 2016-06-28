@@ -2,13 +2,14 @@
   "id": 353935119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.991958,32.821827,-79.991958,32.821827",
     "geom:latitude":32.821827,
     "geom:longitude":-79.991958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Sam Rittenberg Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353935119,
-    "wof:lastmodified":1449020374,
+    "wof:lastmodified":1467082253,
     "wof:name":"S & S Cafeteria Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.991958,32.821827,-79.991958,32.821827],
+  "bbox": [
+    -79.991958,
+    32.821827,
+    -79.991958,
+    32.821827
+],
   "geometry": {"coordinates":[-79.991958,32.821827],"type":"Point"}
 }

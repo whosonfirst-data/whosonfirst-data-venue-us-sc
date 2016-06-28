@@ -2,13 +2,14 @@
   "id": 353532583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.938539,34.117107,-80.938539,34.117107",
     "geom:latitude":34.117107,
     "geom:longitude":-80.938539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2820 Hard Scrabble Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353532583,
-    "wof:lastmodified":1449019125,
+    "wof:lastmodified":1467082227,
     "wof:name":"Grannies Famous Home Cooking",
     "wof:parent_id":85850805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.938539,34.117107,-80.938539,34.117107],
-  "geometry": {"coordinates":[-80.938539,34.117107],"type":"Point"}
+  "bbox": [
+    -80.938539,
+    34.117107,
+    -80.938539,
+    34.117107
+],
+  "geometry": {"coordinates":[-80.93853900000001,34.117107],"type":"Point"}
 }

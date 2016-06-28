@@ -2,13 +2,14 @@
   "id": 370149061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.411471,34.856612,-82.411471,34.856612",
     "geom:latitude":34.856612,
     "geom:longitude":-82.411471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 W Washington St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370149061,
-    "wof:lastmodified":1449029073,
+    "wof:lastmodified":1467082298,
     "wof:name":"Holy Temple Church",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.411471,34.856612,-82.411471,34.856612],
-  "geometry": {"coordinates":[-82.411471,34.856612],"type":"Point"}
+  "bbox": [
+    -82.411471,
+    34.856612,
+    -82.411471,
+    34.856612
+],
+  "geometry": {"coordinates":[-82.41147100000001,34.856612],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354382301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.629766,33.302738,-80.629766,33.302738",
     "geom:latitude":33.302738,
     "geom:longitude":-80.629766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 Two Church Rd",
     "sg:city":"Bowman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354382301,
-    "wof:lastmodified":1449066360,
+    "wof:lastmodified":1467082424,
     "wof:name":"Billy's Towing Inc",
     "wof:parent_id":85843475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.629766,33.302738,-80.629766,33.302738],
+  "bbox": [
+    -80.629766,
+    33.302738,
+    -80.629766,
+    33.302738
+],
   "geometry": {"coordinates":[-80.629766,33.302738],"type":"Point"}
 }

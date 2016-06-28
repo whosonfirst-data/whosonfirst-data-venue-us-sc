@@ -2,13 +2,14 @@
   "id": 186128029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.033284,32.911396,-80.033284,32.911396",
     "geom:latitude":32.911396,
     "geom:longitude":-80.033284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2231 Technical Pkwy",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186128029,
-    "wof:lastmodified":1449051408,
+    "wof:lastmodified":1467082398,
     "wof:name":"Carolina Color Graphics",
     "wof:parent_id":85825199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "for"
     ]
 },
-  "bbox": [-80.033284,32.911396,-80.033284,32.911396],
-  "geometry": {"coordinates":[-80.033284,32.911396],"type":"Point"}
+  "bbox": [
+    -80.033284,
+    32.911396,
+    -80.033284,
+    32.911396
+],
+  "geometry": {"coordinates":[-80.03328399999999,32.911396],"type":"Point"}
 }

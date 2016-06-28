@@ -2,13 +2,14 @@
   "id": 186278531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.031625,34.007858,-81.031625,34.007858",
     "geom:latitude":34.007858,
     "geom:longitude":-81.031625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1436 Taylor St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186278531,
-    "wof:lastmodified":1449051860,
+    "wof:lastmodified":1467082402,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.031625,34.007858,-81.031625,34.007858],
-  "geometry": {"coordinates":[-81.031625,34.007858],"type":"Point"}
+  "bbox": [
+    -81.031625,
+    34.007858,
+    -81.031625,
+    34.007858
+],
+  "geometry": {"coordinates":[-81.03162500000001,34.007858],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337393505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.890279,34.056975,-78.890279,34.056975",
     "geom:latitude":34.056975,
     "geom:longitude":-78.890279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4013 Meeting St",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337393505,
-    "wof:lastmodified":1449027201,
+    "wof:lastmodified":1467082275,
     "wof:name":"Linda Graham",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-78.890279,34.056975,-78.890279,34.056975],
-  "geometry": {"coordinates":[-78.890279,34.056975],"type":"Point"}
+  "bbox": [
+    -78.890279,
+    34.056975,
+    -78.890279,
+    34.056975
+],
+  "geometry": {"coordinates":[-78.89027900000001,34.056975],"type":"Point"}
 }

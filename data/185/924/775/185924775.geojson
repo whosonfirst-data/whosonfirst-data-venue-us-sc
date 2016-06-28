@@ -2,13 +2,14 @@
   "id": 185924775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.90149,34.97058,-81.90149,34.97058",
     "geom:latitude":34.97058,
     "geom:longitude":-81.90149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1475 Skylyn Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185924775,
-    "wof:lastmodified":1449007053,
+    "wof:lastmodified":1467082189,
     "wof:name":"Houston Elementary School",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.90149,34.97058,-81.90149,34.97058],
+  "bbox": [
+    -81.90149,
+    34.97058,
+    -81.90149,
+    34.97058
+],
   "geometry": {"coordinates":[-81.90149,34.97058],"type":"Point"}
 }

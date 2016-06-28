@@ -2,13 +2,14 @@
   "id": 186099929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.234411,34.986671,-81.234411,34.986671",
     "geom:latitude":34.986671,
     "geom:longitude":-81.234411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Pinewood Dr",
     "sg:city":"York",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186099929,
-    "wof:lastmodified":1449052118,
+    "wof:lastmodified":1467082404,
     "wof:name":"Good's Air Conditioning Htg",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air"
     ]
 },
-  "bbox": [-81.234411,34.986671,-81.234411,34.986671],
-  "geometry": {"coordinates":[-81.234411,34.986671],"type":"Point"}
+  "bbox": [
+    -81.234411,
+    34.986671,
+    -81.234411,
+    34.986671
+],
+  "geometry": {"coordinates":[-81.23441099999999,34.986671],"type":"Point"}
 }

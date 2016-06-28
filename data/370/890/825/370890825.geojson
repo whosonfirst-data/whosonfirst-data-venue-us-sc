@@ -2,13 +2,14 @@
   "id": 370890825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.589542,35.122976,-81.589542,35.122976",
     "geom:latitude":35.122976,
     "geom:longitude":-81.589542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Shelby Hwy",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370890825,
-    "wof:lastmodified":1449029836,
+    "wof:lastmodified":1467082314,
     "wof:name":"Highway 18 Flea Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "market"
     ]
 },
-  "bbox": [-81.589542,35.122976,-81.589542,35.122976],
-  "geometry": {"coordinates":[-81.589542,35.122976],"type":"Point"}
+  "bbox": [
+    -81.589542,
+    35.122976,
+    -81.589542,
+    35.122976
+],
+  "geometry": {"coordinates":[-81.58954199999999,35.122976],"type":"Point"}
 }

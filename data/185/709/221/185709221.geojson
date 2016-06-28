@@ -2,13 +2,14 @@
   "id": 185709221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.703117,34.609051,-79.703117,34.609051",
     "geom:latitude":34.609051,
     "geom:longitude":-79.703117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 Fletcher St",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185709221,
-    "wof:lastmodified":1449006935,
+    "wof:lastmodified":1467082187,
     "wof:name":"Housing Authority-Bennetsville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-79.703117,34.609051,-79.703117,34.609051],
-  "geometry": {"coordinates":[-79.703117,34.609051],"type":"Point"}
+  "bbox": [
+    -79.703117,
+    34.609051,
+    -79.703117,
+    34.609051
+],
+  "geometry": {"coordinates":[-79.70311700000001,34.609051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353889947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.835369,34.090218,-79.835369,34.090218",
     "geom:latitude":34.090218,
     "geom:longitude":-79.835369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3007 Rush Ln",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353889947,
-    "wof:lastmodified":1449018209,
+    "wof:lastmodified":1467082209,
     "wof:name":"Golden Gate Holiness Church",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.835369,34.090218,-79.835369,34.090218],
+  "bbox": [
+    -79.835369,
+    34.090218,
+    -79.835369,
+    34.090218
+],
   "geometry": {"coordinates":[-79.835369,34.090218],"type":"Point"}
 }

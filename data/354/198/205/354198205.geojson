@@ -2,13 +2,14 @@
   "id": 354198205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.033566,34.96344,-81.033566,34.96344",
     "geom:latitude":34.96344,
     "geom:longitude":-81.033566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 Dilworth Ln",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354198205,
-    "wof:lastmodified":1449066529,
+    "wof:lastmodified":1467082428,
     "wof:name":"Dos Chicas",
     "wof:parent_id":85847885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-81.033566,34.96344,-81.033566,34.96344],
-  "geometry": {"coordinates":[-81.033566,34.96344],"type":"Point"}
+  "bbox": [
+    -81.033566,
+    34.96344,
+    -81.033566,
+    34.96344
+],
+  "geometry": {"coordinates":[-81.03356599999999,34.96344],"type":"Point"}
 }

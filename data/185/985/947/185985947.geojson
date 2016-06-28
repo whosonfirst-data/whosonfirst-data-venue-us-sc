@@ -2,13 +2,14 @@
   "id": 185985947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.933255,35.001262,-81.933255,35.001262",
     "geom:latitude":35.001262,
     "geom:longitude":-81.933255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Carpet Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185985947,
-    "wof:lastmodified":1449007427,
+    "wof:lastmodified":1467082195,
     "wof:name":"Southern Design Svc Inc",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-81.933255,35.001262,-81.933255,35.001262],
+  "bbox": [
+    -81.933255,
+    35.001262,
+    -81.933255,
+    35.001262
+],
   "geometry": {"coordinates":[-81.933255,35.001262],"type":"Point"}
 }

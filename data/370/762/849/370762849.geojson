@@ -2,13 +2,14 @@
   "id": 370762849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.253548,34.20686,-79.253548,34.20686",
     "geom:latitude":34.20686,
     "geom:longitude":-79.253548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 E Wine St",
     "sg:city":"Mullins",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370762849,
-    "wof:lastmodified":1449031475,
+    "wof:lastmodified":1467082351,
     "wof:name":"Southern Printing Co",
     "wof:parent_id":85837853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-79.253548,34.20686,-79.253548,34.20686],
-  "geometry": {"coordinates":[-79.253548,34.20686],"type":"Point"}
+  "bbox": [
+    -79.253548,
+    34.20686,
+    -79.253548,
+    34.20686
+],
+  "geometry": {"coordinates":[-79.25354799999999,34.20686],"type":"Point"}
 }

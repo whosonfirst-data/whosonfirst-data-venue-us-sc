@@ -2,13 +2,14 @@
   "id": 370955971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.063869,34.789998,-83.063869,34.789998",
     "geom:latitude":34.789998,
     "geom:longitude":-83.063869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"658 Greenacre Dr",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370955971,
-    "wof:lastmodified":1449031431,
+    "wof:lastmodified":1467082350,
     "wof:name":"J & D",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-83.063869,34.789998,-83.063869,34.789998],
+  "bbox": [
+    -83.063869,
+    34.789998,
+    -83.063869,
+    34.789998
+],
   "geometry": {"coordinates":[-83.063869,34.789998],"type":"Point"}
 }

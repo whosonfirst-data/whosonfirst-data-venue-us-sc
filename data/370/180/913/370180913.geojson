@@ -2,13 +2,14 @@
   "id": 370180913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.075545,32.904546,-80.075545,32.904546",
     "geom:latitude":32.904546,
     "geom:longitude":-80.075545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 N American St",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370180913,
-    "wof:lastmodified":1449029202,
+    "wof:lastmodified":1467082301,
     "wof:name":"Pesco Inc",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "boat"
     ]
 },
-  "bbox": [-80.075545,32.904546,-80.075545,32.904546],
-  "geometry": {"coordinates":[-80.075545,32.904546],"type":"Point"}
+  "bbox": [
+    -80.075545,
+    32.904546,
+    -80.075545,
+    32.904546
+],
+  "geometry": {"coordinates":[-80.07554500000001,32.904546],"type":"Point"}
 }

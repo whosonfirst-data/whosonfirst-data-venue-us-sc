@@ -2,13 +2,14 @@
   "id": 353883731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.837445,34.683423,-82.837445,34.683423",
     "geom:latitude":34.683423,
     "geom:longitude":-82.837445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"360 College Ave",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353883731,
-    "wof:lastmodified":1449020217,
+    "wof:lastmodified":1467082250,
     "wof:name":"Tiger Town Graphics",
     "wof:parent_id":85808859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "screen"
     ]
 },
-  "bbox": [-82.837445,34.683423,-82.837445,34.683423],
+  "bbox": [
+    -82.837445,
+    34.683423,
+    -82.837445,
+    34.683423
+],
   "geometry": {"coordinates":[-82.837445,34.683423],"type":"Point"}
 }

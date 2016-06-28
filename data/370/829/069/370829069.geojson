@@ -2,13 +2,14 @@
   "id": 370829069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.086739,34.049403,-81.086739,34.049403",
     "geom:latitude":34.049403,
     "geom:longitude":-81.086739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 Nunamaker Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370829069,
-    "wof:lastmodified":1449032243,
+    "wof:lastmodified":1467082368,
     "wof:name":"Sound Servant Studio",
     "wof:parent_id":85845041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "studio"
     ]
 },
-  "bbox": [-81.086739,34.049403,-81.086739,34.049403],
-  "geometry": {"coordinates":[-81.086739,34.049403],"type":"Point"}
+  "bbox": [
+    -81.086739,
+    34.049403,
+    -81.086739,
+    34.049403
+],
+  "geometry": {"coordinates":[-81.08673899999999,34.049403],"type":"Point"}
 }

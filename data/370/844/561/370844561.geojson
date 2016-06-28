@@ -2,13 +2,14 @@
   "id": 370844561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.884576,32.916091,-79.884576,32.916091",
     "geom:latitude":32.916091,
     "geom:longitude":-79.884576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1938 Clements Ferry Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370844561,
-    "wof:lastmodified":1449030530,
+    "wof:lastmodified":1467082330,
     "wof:name":"Old Dominion Freight Line",
     "wof:parent_id":85814443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-79.884576,32.916091,-79.884576,32.916091],
+  "bbox": [
+    -79.884576,
+    32.916091,
+    -79.884576,
+    32.916091
+],
   "geometry": {"coordinates":[-79.884576,32.916091],"type":"Point"}
 }

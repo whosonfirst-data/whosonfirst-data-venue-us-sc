@@ -2,13 +2,14 @@
   "id": 353988609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.984485,34.713225,-82.984485,34.713225",
     "geom:latitude":34.713225,
     "geom:longitude":-82.984485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 S Cove Rd",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353988609,
-    "wof:lastmodified":1449019140,
+    "wof:lastmodified":1467082228,
     "wof:name":"Keowee Home Svc",
     "wof:parent_id":85854689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-82.984485,34.713225,-82.984485,34.713225],
-  "geometry": {"coordinates":[-82.984485,34.713225],"type":"Point"}
+  "bbox": [
+    -82.984485,
+    34.713225,
+    -82.984485,
+    34.713225
+],
+  "geometry": {"coordinates":[-82.98448500000001,34.713225],"type":"Point"}
 }

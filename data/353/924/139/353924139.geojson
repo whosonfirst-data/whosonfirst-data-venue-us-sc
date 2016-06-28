@@ -2,13 +2,14 @@
   "id": 353924139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.70396,32.222265,-80.70396,32.222265",
     "geom:latitude":32.222265,
     "geom:longitude":-80.70396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Cardinal Ct",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353924139,
-    "wof:lastmodified":1449018973,
+    "wof:lastmodified":1467082224,
     "wof:name":"Southern Cartridge Service",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.70396,32.222265,-80.70396,32.222265],
+  "bbox": [
+    -80.70396,
+    32.222265,
+    -80.70396,
+    32.222265
+],
   "geometry": {"coordinates":[-80.70396,32.222265],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370592049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.110031,33.96928,-81.110031,33.96928",
     "geom:latitude":33.96928,
     "geom:longitude":-81.110031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3005 Wilton Rd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370592049,
-    "wof:lastmodified":1449031013,
+    "wof:lastmodified":1467082341,
     "wof:name":"Midland Home Improvement Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.110031,33.96928,-81.110031,33.96928],
-  "geometry": {"coordinates":[-81.110031,33.96928],"type":"Point"}
+  "bbox": [
+    -81.110031,
+    33.96928,
+    -81.110031,
+    33.96928
+],
+  "geometry": {"coordinates":[-81.11003100000001,33.96928],"type":"Point"}
 }

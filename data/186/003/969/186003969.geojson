@@ -2,13 +2,14 @@
   "id": 186003969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.803229,34.904208,-81.803229,34.904208",
     "geom:latitude":34.904208,
     "geom:longitude":-81.803229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 Structofab Rd",
     "sg:city":"Pacolet",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186003969,
-    "wof:lastmodified":1449052817,
+    "wof:lastmodified":1467082411,
     "wof:name":"Elmore Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "broker"
     ]
 },
-  "bbox": [-81.803229,34.904208,-81.803229,34.904208],
+  "bbox": [
+    -81.803229,
+    34.904208,
+    -81.803229,
+    34.904208
+],
   "geometry": {"coordinates":[-81.803229,34.904208],"type":"Point"}
 }

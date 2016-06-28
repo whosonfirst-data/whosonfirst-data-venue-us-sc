@@ -2,13 +2,14 @@
   "id": 354385231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.025287,32.796999,-80.025287,32.796999",
     "geom:latitude":32.796999,
     "geom:longitude":-80.025287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1962 Sam Rittenberg Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354385231,
-    "wof:lastmodified":1449066958,
+    "wof:lastmodified":1467082438,
     "wof:name":"Bb T Mortgage Center",
     "wof:parent_id":85839787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-80.025287,32.796999,-80.025287,32.796999],
-  "geometry": {"coordinates":[-80.025287,32.796999],"type":"Point"}
+  "bbox": [
+    -80.025287,
+    32.796999,
+    -80.025287,
+    32.796999
+],
+  "geometry": {"coordinates":[-80.02528700000001,32.796999],"type":"Point"}
 }

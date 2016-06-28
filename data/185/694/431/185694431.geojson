@@ -2,13 +2,14 @@
   "id": 185694431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.788018,34.646558,-82.788018,34.646558",
     "geom:latitude":34.646558,
     "geom:longitude":-82.788018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Micasa Dr",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185694431,
-    "wof:lastmodified":1449007060,
+    "wof:lastmodified":1467082189,
     "wof:name":"Pendleton Branch Library",
     "wof:parent_id":85858639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.788018,34.646558,-82.788018,34.646558],
-  "geometry": {"coordinates":[-82.788018,34.646558],"type":"Point"}
+  "bbox": [
+    -82.788018,
+    34.646558,
+    -82.788018,
+    34.646558
+],
+  "geometry": {"coordinates":[-82.78801799999999,34.646558],"type":"Point"}
 }

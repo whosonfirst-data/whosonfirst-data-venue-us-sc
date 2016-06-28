@@ -2,13 +2,14 @@
   "id": 169746457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.943244,32.793449,-79.943244,32.793449",
     "geom:latitude":32.793449,
     "geom:longitude":-79.943244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Saint Philip St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169746457,
-    "wof:lastmodified":1449032659,
+    "wof:lastmodified":1467082376,
     "wof:name":"Christ Gospel Church",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.943244,32.793449,-79.943244,32.793449],
-  "geometry": {"coordinates":[-79.943244,32.793449],"type":"Point"}
+  "bbox": [
+    -79.943244,
+    32.793449,
+    -79.943244,
+    32.793449
+],
+  "geometry": {"coordinates":[-79.94324400000001,32.793449],"type":"Point"}
 }

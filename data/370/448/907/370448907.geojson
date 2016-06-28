@@ -2,13 +2,14 @@
   "id": 370448907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.200084,33.990498,-79.200084,33.990498",
     "geom:latitude":33.990498,
     "geom:longitude":-79.200084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3026 US Hwy 501 W",
     "sg:city":"Aynor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370448907,
-    "wof:lastmodified":1449032309,
+    "wof:lastmodified":1467082370,
     "wof:name":"Robert Floyd & Assoc",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.200084,33.990498,-79.200084,33.990498],
+  "bbox": [
+    -79.200084,
+    33.990498,
+    -79.200084,
+    33.990498
+],
   "geometry": {"coordinates":[-79.200084,33.990498],"type":"Point"}
 }

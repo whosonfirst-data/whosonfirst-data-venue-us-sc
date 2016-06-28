@@ -2,13 +2,14 @@
   "id": 186243905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.88693,34.702121,-79.88693,34.702121",
     "geom:latitude":34.702121,
     "geom:longitude":-79.88693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"349 2nd St",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186243905,
-    "wof:lastmodified":1449051260,
+    "wof:lastmodified":1467082396,
     "wof:name":"Sav-Way",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.88693,34.702121,-79.88693,34.702121],
-  "geometry": {"coordinates":[-79.88693,34.702121],"type":"Point"}
+  "bbox": [
+    -79.88693,
+    34.702121,
+    -79.88693,
+    34.702121
+],
+  "geometry": {"coordinates":[-79.88693000000001,34.702121],"type":"Point"}
 }

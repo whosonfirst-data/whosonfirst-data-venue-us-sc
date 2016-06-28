@@ -2,13 +2,14 @@
   "id": 337523631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.120342,33.044376,-80.120342,33.044376",
     "geom:latitude":33.044376,
     "geom:longitude":-80.120342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Old Summerville Rd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337523631,
-    "wof:lastmodified":1449027416,
+    "wof:lastmodified":1467082283,
     "wof:name":"Pioneer Concrete Pumping Svc",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.120342,33.044376,-80.120342,33.044376],
-  "geometry": {"coordinates":[-80.120342,33.044376],"type":"Point"}
+  "bbox": [
+    -80.120342,
+    33.044376,
+    -80.120342,
+    33.044376
+],
+  "geometry": {"coordinates":[-80.12034199999999,33.044376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370474157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.675108,32.439607,-80.675108,32.439607",
     "geom:latitude":32.439607,
     "geom:longitude":-80.675108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Boundary St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370474157,
-    "wof:lastmodified":1449029212,
+    "wof:lastmodified":1467082301,
     "wof:name":"Boys & Girls Club Of Beaufort",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-80.675108,32.439607,-80.675108,32.439607],
-  "geometry": {"coordinates":[-80.675108,32.439607],"type":"Point"}
+  "bbox": [
+    -80.675108,
+    32.439607,
+    -80.675108,
+    32.439607
+],
+  "geometry": {"coordinates":[-80.67510799999999,32.439607],"type":"Point"}
 }

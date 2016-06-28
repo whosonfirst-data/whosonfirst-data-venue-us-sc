@@ -2,13 +2,14 @@
   "id": 370888441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.780225,34.703176,-80.780225,34.703176",
     "geom:latitude":34.703176,
     "geom:longitude":-80.780225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1551 Billings Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370888441,
-    "wof:lastmodified":1449031196,
+    "wof:lastmodified":1467082345,
     "wof:name":"South Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.780225,34.703176,-80.780225,34.703176],
+  "bbox": [
+    -80.780225,
+    34.703176,
+    -80.780225,
+    34.703176
+],
   "geometry": {"coordinates":[-80.780225,34.703176],"type":"Point"}
 }

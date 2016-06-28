@@ -2,13 +2,14 @@
   "id": 337291283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.790911,34.705919,-82.790911,34.705919",
     "geom:latitude":34.705919,
     "geom:longitude":-82.790911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Vickery Dr",
     "sg:city":"Central",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337291283,
-    "wof:lastmodified":1449027191,
+    "wof:lastmodified":1467082275,
     "wof:name":"Oglesby Concrete Construction",
     "wof:parent_id":85824489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.790911,34.705919,-82.790911,34.705919],
-  "geometry": {"coordinates":[-82.790911,34.705919],"type":"Point"}
+  "bbox": [
+    -82.790911,
+    34.705919,
+    -82.790911,
+    34.705919
+],
+  "geometry": {"coordinates":[-82.79091099999999,34.705919],"type":"Point"}
 }

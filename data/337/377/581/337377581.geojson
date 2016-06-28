@@ -2,13 +2,14 @@
   "id": 337377581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.56328,33.998513,-79.56328,33.998513",
     "geom:latitude":33.998513,
     "geom:longitude":-79.56328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 E Main St",
     "sg:city":"Pamplico",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337377581,
-    "wof:lastmodified":1449027233,
+    "wof:lastmodified":1467082276,
     "wof:name":"Pee Dee Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.56328,33.998513,-79.56328,33.998513],
-  "geometry": {"coordinates":[-79.56328,33.998513],"type":"Point"}
+  "bbox": [
+    -79.56328,
+    33.998513,
+    -79.56328,
+    33.998513
+],
+  "geometry": {"coordinates":[-79.56328000000001,33.998513],"type":"Point"}
 }

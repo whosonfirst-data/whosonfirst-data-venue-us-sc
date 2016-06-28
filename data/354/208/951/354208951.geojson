@@ -2,13 +2,14 @@
   "id": 354208951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.140053,34.240202,-82.140053,34.240202",
     "geom:latitude":34.240202,
     "geom:longitude":-82.140053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Appian Way",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354208951,
-    "wof:lastmodified":1449066133,
+    "wof:lastmodified":1467082419,
     "wof:name":"Ace Tree Service",
     "wof:parent_id":85845351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.140053,34.240202,-82.140053,34.240202],
-  "geometry": {"coordinates":[-82.140053,34.240202],"type":"Point"}
+  "bbox": [
+    -82.140053,
+    34.240202,
+    -82.140053,
+    34.240202
+],
+  "geometry": {"coordinates":[-82.14005299999999,34.240202],"type":"Point"}
 }

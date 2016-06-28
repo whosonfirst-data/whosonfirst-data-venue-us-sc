@@ -2,13 +2,14 @@
   "id": 337423985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.014235,33.968297,-81.014235,33.968297",
     "geom:latitude":33.968297,
     "geom:longitude":-81.014235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1231 Bluff Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337423985,
-    "wof:lastmodified":1449027059,
+    "wof:lastmodified":1467082270,
     "wof:name":"Southern Fabricators Inc",
     "wof:parent_id":85846089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fabricated"
     ]
 },
-  "bbox": [-81.014235,33.968297,-81.014235,33.968297],
+  "bbox": [
+    -81.014235,
+    33.968297,
+    -81.014235,
+    33.968297
+],
   "geometry": {"coordinates":[-81.014235,33.968297],"type":"Point"}
 }

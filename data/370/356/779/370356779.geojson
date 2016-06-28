@@ -2,13 +2,14 @@
   "id": 370356779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.66138,35.089161,-81.66138,35.089161",
     "geom:latitude":35.089161,
     "geom:longitude":-81.66138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 W Floyd Baker Blvd",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370356779,
-    "wof:lastmodified":1449031872,
+    "wof:lastmodified":1467082360,
     "wof:name":"Central Carolina Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.66138,35.089161,-81.66138,35.089161],
-  "geometry": {"coordinates":[-81.66138,35.089161],"type":"Point"}
+  "bbox": [
+    -81.66138,
+    35.089161,
+    -81.66138,
+    35.089161
+],
+  "geometry": {"coordinates":[-81.66137999999999,35.089161],"type":"Point"}
 }

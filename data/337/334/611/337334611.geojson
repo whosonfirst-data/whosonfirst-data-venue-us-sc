@@ -2,13 +2,14 @@
   "id": 337334611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.558751,34.22345,-80.558751,34.22345",
     "geom:latitude":34.22345,
     "geom:longitude":-80.558751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Rush Ln",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337334611,
-    "wof:lastmodified":1449027178,
+    "wof:lastmodified":1467082274,
     "wof:name":"Camden Exterminating Service",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.558751,34.22345,-80.558751,34.22345],
+  "bbox": [
+    -80.558751,
+    34.22345,
+    -80.558751,
+    34.22345
+],
   "geometry": {"coordinates":[-80.558751,34.22345],"type":"Point"}
 }

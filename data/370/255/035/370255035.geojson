@@ -2,13 +2,14 @@
   "id": 370255035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.744374,32.806019,-79.744374,32.806019",
     "geom:latitude":32.806019,
     "geom:longitude":-79.744374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Fairway Village Ln",
     "sg:city":"Isle Of Palms",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370255035,
-    "wof:lastmodified":1449030638,
+    "wof:lastmodified":1467082332,
     "wof:name":"Jerome Sullivan MD",
     "wof:parent_id":85819989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.744374,32.806019,-79.744374,32.806019],
-  "geometry": {"coordinates":[-79.744374,32.806019],"type":"Point"}
+  "bbox": [
+    -79.744374,
+    32.806019,
+    -79.744374,
+    32.806019
+],
+  "geometry": {"coordinates":[-79.74437399999999,32.806019],"type":"Point"}
 }

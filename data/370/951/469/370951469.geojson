@@ -2,13 +2,14 @@
   "id": 370951469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.975736,32.854892,-79.975736,32.854892",
     "geom:latitude":32.854892,
     "geom:longitude":-79.975736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3357 Rivers Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370951469,
-    "wof:lastmodified":1449029222,
+    "wof:lastmodified":1467082301,
     "wof:name":"Jonhson & Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.975736,32.854892,-79.975736,32.854892],
+  "bbox": [
+    -79.975736,
+    32.854892,
+    -79.975736,
+    32.854892
+],
   "geometry": {"coordinates":[-79.975736,32.854892],"type":"Point"}
 }

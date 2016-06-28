@@ -2,13 +2,14 @@
   "id": 370943825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.73892,33.565724,-81.73892,33.565724",
     "geom:latitude":33.565724,
     "geom:longitude":-81.73892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 Richland Ave W",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370943825,
-    "wof:lastmodified":1449029992,
+    "wof:lastmodified":1467082318,
     "wof:name":"Kalmia Plaza Exxon",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-81.73892,33.565724,-81.73892,33.565724],
-  "geometry": {"coordinates":[-81.73892,33.565724],"type":"Point"}
+  "bbox": [
+    -81.73892,
+    33.565724,
+    -81.73892,
+    33.565724
+],
+  "geometry": {"coordinates":[-81.73891999999999,33.565724],"type":"Point"}
 }

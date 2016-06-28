@@ -2,13 +2,14 @@
   "id": 186088697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.735241,33.568421,-81.735241,33.568421",
     "geom:latitude":33.568421,
     "geom:longitude":-81.735241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Eutaw St",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186088697,
-    "wof:lastmodified":1449052409,
+    "wof:lastmodified":1467082407,
     "wof:name":"Integrity Crafts",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "craft"
     ]
 },
-  "bbox": [-81.735241,33.568421,-81.735241,33.568421],
+  "bbox": [
+    -81.735241,
+    33.568421,
+    -81.735241,
+    33.568421
+],
   "geometry": {"coordinates":[-81.735241,33.568421],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185816265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.369057,34.419145,-79.369057,34.419145",
     "geom:latitude":34.419145,
     "geom:longitude":-79.369057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 E Washington St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185816265,
-    "wof:lastmodified":1449007548,
+    "wof:lastmodified":1467082197,
     "wof:name":"Barfield's Barber Shop",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.369057,34.419145,-79.369057,34.419145],
+  "bbox": [
+    -79.369057,
+    34.419145,
+    -79.369057,
+    34.419145
+],
   "geometry": {"coordinates":[-79.369057,34.419145],"type":"Point"}
 }

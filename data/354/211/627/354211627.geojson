@@ -2,13 +2,14 @@
   "id": 354211627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.718271,33.799272,-78.718271,33.799272",
     "geom:latitude":33.799272,
     "geom:longitude":-78.718271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3307 S Ocean Blvd",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354211627,
-    "wof:lastmodified":1449066334,
+    "wof:lastmodified":1467082424,
     "wof:name":"Ocean Sales Condos",
     "wof:parent_id":85852275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-78.718271,33.799272,-78.718271,33.799272],
+  "bbox": [
+    -78.718271,
+    33.799272,
+    -78.718271,
+    33.799272
+],
   "geometry": {"coordinates":[-78.718271,33.799272],"type":"Point"}
 }

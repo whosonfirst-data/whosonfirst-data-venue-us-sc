@@ -2,13 +2,14 @@
   "id": 186044315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.501038,35.02635,-82.501038,35.02635",
     "geom:latitude":35.02635,
     "geom:longitude":-82.501038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3019 Geer Hwy",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186044315,
-    "wof:lastmodified":1449051772,
+    "wof:lastmodified":1467082401,
     "wof:name":"Jarrard Hardware",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.501038,35.02635,-82.501038,35.02635],
-  "geometry": {"coordinates":[-82.501038,35.02635],"type":"Point"}
+  "bbox": [
+    -82.501038,
+    35.02635,
+    -82.501038,
+    35.02635
+],
+  "geometry": {"coordinates":[-82.50103799999999,35.02635],"type":"Point"}
 }

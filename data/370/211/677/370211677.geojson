@@ -2,13 +2,14 @@
   "id": 370211677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.322186,34.876703,-82.322186,34.876703",
     "geom:latitude":34.876703,
     "geom:longitude":-82.322186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4010 E North St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370211677,
-    "wof:lastmodified":1449029928,
+    "wof:lastmodified":1467082317,
     "wof:name":"Charles A Ford CPA",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-82.322186,34.876703,-82.322186,34.876703],
+  "bbox": [
+    -82.322186,
+    34.876703,
+    -82.322186,
+    34.876703
+],
   "geometry": {"coordinates":[-82.322186,34.876703],"type":"Point"}
 }

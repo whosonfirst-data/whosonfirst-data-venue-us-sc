@@ -2,13 +2,14 @@
   "id": 337472895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.243208,34.201284,-79.243208,34.201284",
     "geom:latitude":34.201284,
     "geom:longitude":-79.243208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 E McIntyre St",
     "sg:city":"Mullins",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337472895,
-    "wof:lastmodified":1449027004,
+    "wof:lastmodified":1467082267,
     "wof:name":"Fred's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.243208,34.201284,-79.243208,34.201284],
+  "bbox": [
+    -79.243208,
+    34.201284,
+    -79.243208,
+    34.201284
+],
   "geometry": {"coordinates":[-79.243208,34.201284],"type":"Point"}
 }

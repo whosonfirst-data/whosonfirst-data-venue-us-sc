@@ -2,13 +2,14 @@
   "id": 337354031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.760523,34.205437,-79.760523,34.205437",
     "geom:latitude":34.205437,
     "geom:longitude":-79.760523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 N Brunson St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337354031,
-    "wof:lastmodified":1449027652,
+    "wof:lastmodified":1467082292,
     "wof:name":"Hicks Grocery",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.760523,34.205437,-79.760523,34.205437],
-  "geometry": {"coordinates":[-79.760523,34.205437],"type":"Point"}
+  "bbox": [
+    -79.760523,
+    34.205437,
+    -79.760523,
+    34.205437
+],
+  "geometry": {"coordinates":[-79.76052300000001,34.205437],"type":"Point"}
 }

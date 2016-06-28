@@ -2,13 +2,14 @@
   "id": 354060795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.791903,33.647141,-79.791903,33.647141",
     "geom:latitude":33.647141,
     "geom:longitude":-79.791903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2568 Thurgood Marshall Hwy",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354060795,
-    "wof:lastmodified":1449067509,
+    "wof:lastmodified":1467082450,
     "wof:name":"Shaw's Auto Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "electric"
     ]
 },
-  "bbox": [-79.791903,33.647141,-79.791903,33.647141],
+  "bbox": [
+    -79.791903,
+    33.647141,
+    -79.791903,
+    33.647141
+],
   "geometry": {"coordinates":[-79.791903,33.647141],"type":"Point"}
 }

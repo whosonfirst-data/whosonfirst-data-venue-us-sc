@@ -2,13 +2,14 @@
   "id": 370332011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.937823,33.938294,-81.937823,33.938294",
     "geom:latitude":33.938294,
     "geom:longitude":-81.937823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 US Hwy 378",
     "sg:city":"Edgefield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370332011,
-    "wof:lastmodified":1449030950,
+    "wof:lastmodified":1467082339,
     "wof:name":"Prince's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.937823,33.938294,-81.937823,33.938294],
-  "geometry": {"coordinates":[-81.937823,33.938294],"type":"Point"}
+  "bbox": [
+    -81.937823,
+    33.938294,
+    -81.937823,
+    33.938294
+],
+  "geometry": {"coordinates":[-81.93782299999999,33.938294],"type":"Point"}
 }

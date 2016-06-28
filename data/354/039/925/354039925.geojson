@@ -2,13 +2,14 @@
   "id": 354039925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.490176,34.828256,-82.490176,34.828256",
     "geom:latitude":34.828256,
     "geom:longitude":-82.490176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Pickens Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354039925,
-    "wof:lastmodified":1449067447,
+    "wof:lastmodified":1467082449,
     "wof:name":"Edwards Metal/Plastic Fab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sheet"
     ]
 },
-  "bbox": [-82.490176,34.828256,-82.490176,34.828256],
-  "geometry": {"coordinates":[-82.490176,34.828256],"type":"Point"}
+  "bbox": [
+    -82.490176,
+    34.828256,
+    -82.490176,
+    34.828256
+],
+  "geometry": {"coordinates":[-82.49017600000001,34.828256],"type":"Point"}
 }

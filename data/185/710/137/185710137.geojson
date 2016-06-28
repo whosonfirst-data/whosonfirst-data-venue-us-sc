@@ -2,13 +2,14 @@
   "id": 185710137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.799779,34.529288,-82.799779,34.529288",
     "geom:latitude":34.529288,
     "geom:longitude":-82.799779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5365 Hwy 24",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185710137,
-    "wof:lastmodified":1449006696,
+    "wof:lastmodified":1467082183,
     "wof:name":"Lake Hartwell Fishing &Marine",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fishing"
     ]
 },
-  "bbox": [-82.799779,34.529288,-82.799779,34.529288],
+  "bbox": [
+    -82.799779,
+    34.529288,
+    -82.799779,
+    34.529288
+],
   "geometry": {"coordinates":[-82.799779,34.529288],"type":"Point"}
 }

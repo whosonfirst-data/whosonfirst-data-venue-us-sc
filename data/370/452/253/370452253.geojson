@@ -2,13 +2,14 @@
   "id": 370452253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.542735,33.512745,-80.542735,33.512745",
     "geom:latitude":33.512745,
     "geom:longitude":-80.542735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Heatleys End Rd",
     "sg:city":"Santee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370452253,
-    "wof:lastmodified":1449029891,
+    "wof:lastmodified":1467082316,
     "wof:name":"South Carolina Meat Goat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.542735,33.512745,-80.542735,33.512745],
-  "geometry": {"coordinates":[-80.542735,33.512745],"type":"Point"}
+  "bbox": [
+    -80.542735,
+    33.512745,
+    -80.542735,
+    33.512745
+],
+  "geometry": {"coordinates":[-80.54273499999999,33.512745],"type":"Point"}
 }

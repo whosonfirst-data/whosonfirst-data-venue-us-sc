@@ -2,13 +2,14 @@
   "id": 370335229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.817848,34.249963,-79.817848,34.249963",
     "geom:latitude":34.249963,
     "geom:longitude":-79.817848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Aberdeen Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370335229,
-    "wof:lastmodified":1449031310,
+    "wof:lastmodified":1467082347,
     "wof:name":"Nicholson Business Systems",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.817848,34.249963,-79.817848,34.249963],
+  "bbox": [
+    -79.817848,
+    34.249963,
+    -79.817848,
+    34.249963
+],
   "geometry": {"coordinates":[-79.817848,34.249963],"type":"Point"}
 }

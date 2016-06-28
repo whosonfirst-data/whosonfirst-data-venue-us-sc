@@ -2,13 +2,14 @@
   "id": 354249021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.583875,34.263682,-81.583875,34.263682",
     "geom:latitude":34.263682,
     "geom:longitude":-81.583875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15127 C R Koon Hwy",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354249021,
-    "wof:lastmodified":1449066036,
+    "wof:lastmodified":1467082417,
     "wof:name":"Newberry Memorial Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-81.583875,34.263682,-81.583875,34.263682],
-  "geometry": {"coordinates":[-81.583875,34.263682],"type":"Point"}
+  "bbox": [
+    -81.583875,
+    34.263682,
+    -81.583875,
+    34.263682
+],
+  "geometry": {"coordinates":[-81.58387500000001,34.263682],"type":"Point"}
 }

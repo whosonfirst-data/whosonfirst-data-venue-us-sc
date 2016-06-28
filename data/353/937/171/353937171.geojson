@@ -2,13 +2,14 @@
   "id": 353937171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.949404,33.760225,-78.949404,33.760225",
     "geom:latitude":33.760225,
     "geom:longitude":-78.949404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Primrose Ct",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353937171,
-    "wof:lastmodified":1449018737,
+    "wof:lastmodified":1467082219,
     "wof:name":"Msw Air Ent",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "air"
     ]
 },
-  "bbox": [-78.949404,33.760225,-78.949404,33.760225],
+  "bbox": [
+    -78.949404,
+    33.760225,
+    -78.949404,
+    33.760225
+],
   "geometry": {"coordinates":[-78.949404,33.760225],"type":"Point"}
 }

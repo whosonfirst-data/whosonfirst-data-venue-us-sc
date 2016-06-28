@@ -2,13 +2,14 @@
   "id": 370498031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.931098,32.780952,-79.931098,32.780952",
     "geom:latitude":32.780952,
     "geom:longitude":-79.931098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N Market St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370498031,
-    "wof:lastmodified":1449031665,
+    "wof:lastmodified":1467082355,
     "wof:name":"Sail Loft The",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.931098,32.780952,-79.931098,32.780952],
-  "geometry": {"coordinates":[-79.931098,32.780952],"type":"Point"}
+  "bbox": [
+    -79.931098,
+    32.780952,
+    -79.931098,
+    32.780952
+],
+  "geometry": {"coordinates":[-79.93109800000001,32.780952],"type":"Point"}
 }

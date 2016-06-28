@@ -2,13 +2,14 @@
   "id": 370891493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.340282,33.917515,-80.340282,33.917515",
     "geom:latitude":33.917515,
     "geom:longitude":-80.340282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 S Harvin St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370891493,
-    "wof:lastmodified":1449031121,
+    "wof:lastmodified":1467082343,
     "wof:name":"Ward & Mc Elveen Refrig & AC",
     "wof:parent_id":85850119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigerating"
     ]
 },
-  "bbox": [-80.340282,33.917515,-80.340282,33.917515],
+  "bbox": [
+    -80.340282,
+    33.917515,
+    -80.340282,
+    33.917515
+],
   "geometry": {"coordinates":[-80.340282,33.917515],"type":"Point"}
 }

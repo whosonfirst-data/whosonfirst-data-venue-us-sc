@@ -2,13 +2,14 @@
   "id": 186216065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.381014,34.765865,-82.381014,34.765865",
     "geom:latitude":34.765865,
     "geom:longitude":-82.381014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Vocational Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186216065,
-    "wof:lastmodified":1449052720,
+    "wof:lastmodified":1467082410,
     "wof:name":"Donaldson Career Ctr",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.381014,34.765865,-82.381014,34.765865],
-  "geometry": {"coordinates":[-82.381014,34.765865],"type":"Point"}
+  "bbox": [
+    -82.381014,
+    34.765865,
+    -82.381014,
+    34.765865
+],
+  "geometry": {"coordinates":[-82.38101399999999,34.765865],"type":"Point"}
 }

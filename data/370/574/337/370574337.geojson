@@ -2,13 +2,14 @@
   "id": 370574337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.01193,33.195564,-80.01193,33.195564",
     "geom:latitude":33.195564,
     "geom:longitude":-80.01193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 E Main St",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370574337,
-    "wof:lastmodified":1449029041,
+    "wof:lastmodified":1467082297,
     "wof:name":"Oasis Christian Counseling",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-80.01193,33.195564,-80.01193,33.195564],
-  "geometry": {"coordinates":[-80.01193,33.195564],"type":"Point"}
+  "bbox": [
+    -80.01193,
+    33.195564,
+    -80.01193,
+    33.195564
+],
+  "geometry": {"coordinates":[-80.01193000000001,33.195564],"type":"Point"}
 }

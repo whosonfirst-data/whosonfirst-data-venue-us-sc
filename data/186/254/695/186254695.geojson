@@ -2,13 +2,14 @@
   "id": 186254695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.009544,34.123343,-81.009544,34.123343",
     "geom:latitude":34.123343,
     "geom:longitude":-81.009544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 Koon Store Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186254695,
-    "wof:lastmodified":1449052215,
+    "wof:lastmodified":1467082405,
     "wof:name":"Little One's Child Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.009544,34.123343,-81.009544,34.123343],
-  "geometry": {"coordinates":[-81.009544,34.123343],"type":"Point"}
+  "bbox": [
+    -81.009544,
+    34.123343,
+    -81.009544,
+    34.123343
+],
+  "geometry": {"coordinates":[-81.00954400000001,34.123343],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169774379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.825601,34.692025,-82.825601,34.692025",
     "geom:latitude":34.692025,
     "geom:longitude":-82.825601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Cochran Rd",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169774379,
-    "wof:lastmodified":1449033963,
+    "wof:lastmodified":1467082381,
     "wof:name":"Wedding Gowns & More",
     "wof:parent_id":85808845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.825601,34.692025,-82.825601,34.692025],
-  "geometry": {"coordinates":[-82.825601,34.692025],"type":"Point"}
+  "bbox": [
+    -82.825601,
+    34.692025,
+    -82.825601,
+    34.692025
+],
+  "geometry": {"coordinates":[-82.82560100000001,34.692025],"type":"Point"}
 }

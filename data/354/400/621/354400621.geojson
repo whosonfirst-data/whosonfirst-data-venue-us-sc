@@ -2,13 +2,14 @@
   "id": 354400621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.191589,34.762165,-82.191589,34.762165",
     "geom:latitude":34.762165,
     "geom:longitude":-82.191589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Bethany Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354400621,
-    "wof:lastmodified":1449066096,
+    "wof:lastmodified":1467082418,
     "wof:name":"East Simpsonville Fire Dept",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-82.191589,34.762165,-82.191589,34.762165],
-  "geometry": {"coordinates":[-82.191589,34.762165],"type":"Point"}
+  "bbox": [
+    -82.191589,
+    34.762165,
+    -82.191589,
+    34.762165
+],
+  "geometry": {"coordinates":[-82.19158899999999,34.762165],"type":"Point"}
 }

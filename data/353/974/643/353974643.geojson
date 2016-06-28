@@ -2,13 +2,14 @@
   "id": 353974643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.038245,33.174265,-80.038245,33.174265",
     "geom:latitude":33.174265,
     "geom:longitude":-80.038245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"984 Adrian Ln",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":353974643,
-    "wof:lastmodified":1449020477,
+    "wof:lastmodified":1467082255,
     "wof:name":"Tricounty Welding & Cstm Trlrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-80.038245,33.174265,-80.038245,33.174265],
+  "bbox": [
+    -80.038245,
+    33.174265,
+    -80.038245,
+    33.174265
+],
   "geometry": {"coordinates":[-80.038245,33.174265],"type":"Point"}
 }

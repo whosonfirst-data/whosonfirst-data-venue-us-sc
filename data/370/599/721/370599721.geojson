@@ -2,13 +2,14 @@
   "id": 370599721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.45973,33.986848,-81.45973,33.986848",
     "geom:latitude":33.986848,
     "geom:longitude":-81.45973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Cedar Grove Rd",
     "sg:city":"Leesville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370599721,
-    "wof:lastmodified":1449030666,
+    "wof:lastmodified":1467082333,
     "wof:name":"Cedar Grove Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.45973,33.986848,-81.45973,33.986848],
-  "geometry": {"coordinates":[-81.45973,33.986848],"type":"Point"}
+  "bbox": [
+    -81.45973,
+    33.986848,
+    -81.45973,
+    33.986848
+],
+  "geometry": {"coordinates":[-81.45972999999999,33.986848],"type":"Point"}
 }

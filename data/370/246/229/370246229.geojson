@@ -2,13 +2,14 @@
   "id": 370246229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.178074,34.826833,-81.178074,34.826833",
     "geom:latitude":34.826833,
     "geom:longitude":-81.178074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2690 Brattonsville Rd",
     "sg:city":"Mc Connells",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370246229,
-    "wof:lastmodified":1449029314,
+    "wof:lastmodified":1467082303,
     "wof:name":"Hutton Heating & Air Condition",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.178074,34.826833,-81.178074,34.826833],
+  "bbox": [
+    -81.178074,
+    34.826833,
+    -81.178074,
+    34.826833
+],
   "geometry": {"coordinates":[-81.178074,34.826833],"type":"Point"}
 }

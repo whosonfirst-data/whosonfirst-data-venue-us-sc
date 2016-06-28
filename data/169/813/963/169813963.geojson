@@ -2,13 +2,14 @@
   "id": 169813963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.005841,32.900393,-80.005841,32.900393",
     "geom:latitude":32.900393,
     "geom:longitude":-80.005841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1633 Remount Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169813963,
-    "wof:lastmodified":1449033540,
+    "wof:lastmodified":1467082380,
     "wof:name":"Rudy's Mobile Trans Svc",
     "wof:parent_id":85830427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-80.005841,32.900393,-80.005841,32.900393],
+  "bbox": [
+    -80.005841,
+    32.900393,
+    -80.005841,
+    32.900393
+],
   "geometry": {"coordinates":[-80.005841,32.900393],"type":"Point"}
 }

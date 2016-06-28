@@ -2,13 +2,14 @@
   "id": 337303069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.769817,34.195299,-79.769817,34.195299",
     "geom:latitude":34.195299,
     "geom:longitude":-79.769817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 W Cheves St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337303069,
-    "wof:lastmodified":1449026939,
+    "wof:lastmodified":1467082265,
     "wof:name":"Info Avenue",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.769817,34.195299,-79.769817,34.195299],
+  "bbox": [
+    -79.769817,
+    34.195299,
+    -79.769817,
+    34.195299
+],
   "geometry": {"coordinates":[-79.769817,34.195299],"type":"Point"}
 }

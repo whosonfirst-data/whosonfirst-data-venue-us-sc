@@ -2,13 +2,14 @@
   "id": 354307135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.866161,33.707404,-78.866161,33.707404",
     "geom:latitude":33.707404,
     "geom:longitude":-78.866161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2635 US Hwy 17 Bus",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354307135,
-    "wof:lastmodified":1449066353,
+    "wof:lastmodified":1467082424,
     "wof:name":"Pit Stop Lounge",
     "wof:parent_id":85816109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "night"
     ]
 },
-  "bbox": [-78.866161,33.707404,-78.866161,33.707404],
-  "geometry": {"coordinates":[-78.866161,33.707404],"type":"Point"}
+  "bbox": [
+    -78.866161,
+    33.707404,
+    -78.866161,
+    33.707404
+],
+  "geometry": {"coordinates":[-78.86616100000001,33.707404],"type":"Point"}
 }

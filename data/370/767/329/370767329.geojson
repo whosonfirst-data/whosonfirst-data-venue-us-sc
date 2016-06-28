@@ -2,13 +2,14 @@
   "id": 370767329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.296075,34.895237,-82.296075,34.895237",
     "geom:latitude":34.895237,
     "geom:longitude":-82.296075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Russton Ln",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370767329,
-    "wof:lastmodified":1449030076,
+    "wof:lastmodified":1467082320,
     "wof:name":"Reece Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mechanical"
     ]
 },
-  "bbox": [-82.296075,34.895237,-82.296075,34.895237],
+  "bbox": [
+    -82.296075,
+    34.895237,
+    -82.296075,
+    34.895237
+],
   "geometry": {"coordinates":[-82.296075,34.895237],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337591003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.142897,33.903351,-81.142897,33.903351",
     "geom:latitude":33.903351,
     "geom:longitude":-81.142897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"281 Chapel Rd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337591003,
-    "wof:lastmodified":1449027380,
+    "wof:lastmodified":1467082282,
     "wof:name":"Dunn's Chapel Church",
     "wof:parent_id":85847855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.142897,33.903351,-81.142897,33.903351],
+  "bbox": [
+    -81.142897,
+    33.903351,
+    -81.142897,
+    33.903351
+],
   "geometry": {"coordinates":[-81.142897,33.903351],"type":"Point"}
 }

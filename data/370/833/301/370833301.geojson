@@ -2,13 +2,14 @@
   "id": 370833301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.646262,34.515311,-82.646262,34.515311",
     "geom:latitude":34.515311,
     "geom:longitude":-82.646262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 US Hwy 29 Bus",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370833301,
-    "wof:lastmodified":1449029527,
+    "wof:lastmodified":1467082308,
     "wof:name":"Harley Davidson of Anderson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.646262,34.515311,-82.646262,34.515311],
-  "geometry": {"coordinates":[-82.646262,34.515311],"type":"Point"}
+  "bbox": [
+    -82.646262,
+    34.515311,
+    -82.646262,
+    34.515311
+],
+  "geometry": {"coordinates":[-82.64626199999999,34.515311],"type":"Point"}
 }

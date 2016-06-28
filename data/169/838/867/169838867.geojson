@@ -2,13 +2,14 @@
   "id": 169838867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.692805,33.544612,-81.692805,33.544612",
     "geom:latitude":33.544612,
     "geom:longitude":-81.692805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Jehossee Dr",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169838867,
-    "wof:lastmodified":1449033083,
+    "wof:lastmodified":1467082378,
     "wof:name":"BPA Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-81.692805,33.544612,-81.692805,33.544612],
-  "geometry": {"coordinates":[-81.692805,33.544612],"type":"Point"}
+  "bbox": [
+    -81.692805,
+    33.544612,
+    -81.692805,
+    33.544612
+],
+  "geometry": {"coordinates":[-81.69280500000001,33.544612],"type":"Point"}
 }

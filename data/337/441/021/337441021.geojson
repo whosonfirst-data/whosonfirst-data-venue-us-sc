@@ -2,13 +2,14 @@
   "id": 337441021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.947717,32.779547,-79.947717,32.779547",
     "geom:latitude":32.779547,
     "geom:longitude":-79.947717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Bull St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":337441021,
-    "wof:lastmodified":1449027001,
+    "wof:lastmodified":1467082267,
     "wof:name":"Mason Preparatory School",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.947717,32.779547,-79.947717,32.779547],
+  "bbox": [
+    -79.947717,
+    32.779547,
+    -79.947717,
+    32.779547
+],
   "geometry": {"coordinates":[-79.947717,32.779547],"type":"Point"}
 }

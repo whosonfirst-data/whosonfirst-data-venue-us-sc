@@ -2,13 +2,14 @@
   "id": 370828657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.895471,33.697303,-78.895471,33.697303",
     "geom:latitude":33.697303,
     "geom:longitude":-78.895471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 US Hwy 501",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370828657,
-    "wof:lastmodified":1449030798,
+    "wof:lastmodified":1467082336,
     "wof:name":"Cox J Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.895471,33.697303,-78.895471,33.697303],
+  "bbox": [
+    -78.895471,
+    33.697303,
+    -78.895471,
+    33.697303
+],
   "geometry": {"coordinates":[-78.895471,33.697303],"type":"Point"}
 }

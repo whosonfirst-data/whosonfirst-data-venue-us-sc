@@ -2,13 +2,14 @@
   "id": 353370865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.670939,32.431175,-80.670939,32.431175",
     "geom:latitude":32.431175,
     "geom:longitude":-80.670939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Scott St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353370865,
-    "wof:lastmodified":1449019653,
+    "wof:lastmodified":1467082238,
     "wof:name":"Verdier House Gift",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.670939,32.431175,-80.670939,32.431175],
+  "bbox": [
+    -80.670939,
+    32.431175,
+    -80.670939,
+    32.431175
+],
   "geometry": {"coordinates":[-80.670939,32.431175],"type":"Point"}
 }

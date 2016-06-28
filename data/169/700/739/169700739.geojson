@@ -2,13 +2,14 @@
   "id": 169700739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.123003,32.591626,-80.123003,32.591626",
     "geom:latitude":32.591626,
     "geom:longitude":-80.123003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Kiawah Beach Dr",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169700739,
-    "wof:lastmodified":1449035668,
+    "wof:lastmodified":1467082387,
     "wof:name":"Charleston Shoppe",
     "wof:parent_id":85809109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.123003,32.591626,-80.123003,32.591626],
+  "bbox": [
+    -80.123003,
+    32.591626,
+    -80.123003,
+    32.591626
+],
   "geometry": {"coordinates":[-80.123003,32.591626],"type":"Point"}
 }

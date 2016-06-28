@@ -2,13 +2,14 @@
   "id": 353886141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.337735,34.899453,-82.337735,34.899453",
     "geom:latitude":34.899453,
     "geom:longitude":-82.337735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Wade Hampton Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353886141,
-    "wof:lastmodified":1449019671,
+    "wof:lastmodified":1467082238,
     "wof:name":"Walgreens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.337735,34.899453,-82.337735,34.899453],
+  "bbox": [
+    -82.337735,
+    34.899453,
+    -82.337735,
+    34.899453
+],
   "geometry": {"coordinates":[-82.337735,34.899453],"type":"Point"}
 }

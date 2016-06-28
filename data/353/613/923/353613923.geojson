@@ -2,13 +2,14 @@
   "id": 353613923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.977122,32.9032,-79.977122,32.9032",
     "geom:latitude":32.9032,
     "geom:longitude":-79.977122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1091 Remount Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353613923,
-    "wof:lastmodified":1449019451,
+    "wof:lastmodified":1467082234,
     "wof:name":"NOCS South Atlantic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.977122,32.9032,-79.977122,32.9032],
-  "geometry": {"coordinates":[-79.977122,32.9032],"type":"Point"}
+  "bbox": [
+    -79.977122,
+    32.9032,
+    -79.977122,
+    32.9032
+],
+  "geometry": {"coordinates":[-79.97712199999999,32.9032],"type":"Point"}
 }

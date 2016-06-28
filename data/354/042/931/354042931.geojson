@@ -2,13 +2,14 @@
   "id": 354042931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.989149,33.58161,-79.989149,33.58161",
     "geom:latitude":33.58161,
     "geom:longitude":-79.989149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 N Main St",
     "sg:city":"Greeleyville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354042931,
-    "wof:lastmodified":1449067233,
+    "wof:lastmodified":1467082444,
     "wof:name":"Railcar Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.989149,33.58161,-79.989149,33.58161],
+  "bbox": [
+    -79.989149,
+    33.58161,
+    -79.989149,
+    33.58161
+],
   "geometry": {"coordinates":[-79.989149,33.58161],"type":"Point"}
 }

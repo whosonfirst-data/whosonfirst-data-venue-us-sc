@@ -2,13 +2,14 @@
   "id": 370729175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.036295,34.945806,-81.036295,34.945806",
     "geom:latitude":34.945806,
     "geom:longitude":-81.036295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 Ebenezer Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370729175,
-    "wof:lastmodified":1449030787,
+    "wof:lastmodified":1467082335,
     "wof:name":"Hugh B Dickey III DDS",
     "wof:parent_id":85806915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.036295,34.945806,-81.036295,34.945806],
+  "bbox": [
+    -81.036295,
+    34.945806,
+    -81.036295,
+    34.945806
+],
   "geometry": {"coordinates":[-81.036295,34.945806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185778805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.026337,34.766263,-82.026337,34.766263",
     "geom:latitude":34.766263,
     "geom:longitude":-82.026337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Peanut Rd",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185778805,
-    "wof:lastmodified":1449006615,
+    "wof:lastmodified":1467082182,
     "wof:name":"Crestview Baptist Church",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.026337,34.766263,-82.026337,34.766263],
+  "bbox": [
+    -82.026337,
+    34.766263,
+    -82.026337,
+    34.766263
+],
   "geometry": {"coordinates":[-82.026337,34.766263],"type":"Point"}
 }

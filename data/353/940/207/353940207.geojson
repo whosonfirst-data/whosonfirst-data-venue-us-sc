@@ -2,13 +2,14 @@
   "id": 353940207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.238331,34.902678,-82.238331,34.902678",
     "geom:latitude":34.902678,
     "geom:longitude":-82.238331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1684 Old Hwy 14 S",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353940207,
-    "wof:lastmodified":1449018885,
+    "wof:lastmodified":1467082222,
     "wof:name":"Paul Davis Restorations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "restoration"
     ]
 },
-  "bbox": [-82.238331,34.902678,-82.238331,34.902678],
+  "bbox": [
+    -82.238331,
+    34.902678,
+    -82.238331,
+    34.902678
+],
   "geometry": {"coordinates":[-82.238331,34.902678],"type":"Point"}
 }

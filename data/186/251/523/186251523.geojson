@@ -2,13 +2,14 @@
   "id": 186251523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.614686,34.276294,-81.614686,34.276294",
     "geom:latitude":34.276294,
     "geom:longitude":-81.614686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Calhoun St",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186251523,
-    "wof:lastmodified":1449050313,
+    "wof:lastmodified":1467082389,
     "wof:name":"Blackmon's Jewelry Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewelry"
     ]
 },
-  "bbox": [-81.614686,34.276294,-81.614686,34.276294],
-  "geometry": {"coordinates":[-81.614686,34.276294],"type":"Point"}
+  "bbox": [
+    -81.614686,
+    34.276294,
+    -81.614686,
+    34.276294
+],
+  "geometry": {"coordinates":[-81.61468600000001,34.276294],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354092639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.866284,33.710963,-78.866284,33.710963",
     "geom:latitude":33.710963,
     "geom:longitude":-78.866284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 29th Ave N",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354092639,
-    "wof:lastmodified":1449067324,
+    "wof:lastmodified":1467082446,
     "wof:name":"Johns Beach Svc",
     "wof:parent_id":85816109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.866284,33.710963,-78.866284,33.710963],
-  "geometry": {"coordinates":[-78.866284,33.710963],"type":"Point"}
+  "bbox": [
+    -78.866284,
+    33.710963,
+    -78.866284,
+    33.710963
+],
+  "geometry": {"coordinates":[-78.86628399999999,33.710963],"type":"Point"}
 }

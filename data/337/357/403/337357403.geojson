@@ -2,13 +2,14 @@
   "id": 337357403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.365462,34.875614,-82.365462,34.875614",
     "geom:latitude":34.875614,
     "geom:longitude":-82.365462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 Wade Hampton Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337357403,
-    "wof:lastmodified":1449027641,
+    "wof:lastmodified":1467082291,
     "wof:name":"Greenville Locksmiths Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-82.365462,34.875614,-82.365462,34.875614],
-  "geometry": {"coordinates":[-82.365462,34.875614],"type":"Point"}
+  "bbox": [
+    -82.365462,
+    34.875614,
+    -82.365462,
+    34.875614
+],
+  "geometry": {"coordinates":[-82.36546199999999,34.875614],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186141387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.581312,33.524926,-80.581312,33.524926",
     "geom:latitude":33.524926,
     "geom:longitude":-80.581312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Midway Rd",
     "sg:city":"Elloree",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186141387,
-    "wof:lastmodified":1449051333,
+    "wof:lastmodified":1467082397,
     "wof:name":"Jenkins Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-80.581312,33.524926,-80.581312,33.524926],
+  "bbox": [
+    -80.581312,
+    33.524926,
+    -80.581312,
+    33.524926
+],
   "geometry": {"coordinates":[-80.581312,33.524926],"type":"Point"}
 }

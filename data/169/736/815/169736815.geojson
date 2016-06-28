@@ -2,13 +2,14 @@
   "id": 169736815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.929635,32.789121,-79.929635,32.789121",
     "geom:latitude":32.789121,
     "geom:longitude":-79.929635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"478 E Bay St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169736815,
-    "wof:lastmodified":1449035930,
+    "wof:lastmodified":1467082387,
     "wof:name":"Spoleto",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-79.929635,32.789121,-79.929635,32.789121],
+  "bbox": [
+    -79.929635,
+    32.789121,
+    -79.929635,
+    32.789121
+],
   "geometry": {"coordinates":[-79.929635,32.789121],"type":"Point"}
 }

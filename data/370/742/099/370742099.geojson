@@ -2,13 +2,14 @@
   "id": 370742099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.693645,34.787228,-82.693645,34.787228",
     "geom:latitude":34.787228,
     "geom:longitude":-82.693645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 S Commerce St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370742099,
-    "wof:lastmodified":1449029306,
+    "wof:lastmodified":1467082303,
     "wof:name":"Ye Olde Sandwich Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.693645,34.787228,-82.693645,34.787228],
+  "bbox": [
+    -82.693645,
+    34.787228,
+    -82.693645,
+    34.787228
+],
   "geometry": {"coordinates":[-82.693645,34.787228],"type":"Point"}
 }

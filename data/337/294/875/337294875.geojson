@@ -2,13 +2,14 @@
   "id": 337294875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.072558,32.886378,-80.072558,32.886378",
     "geom:latitude":32.886378,
     "geom:longitude":-80.072558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4700 Brossy Cir",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337294875,
-    "wof:lastmodified":1449027528,
+    "wof:lastmodified":1467082287,
     "wof:name":"Hewitt Trucking",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.072558,32.886378,-80.072558,32.886378],
+  "bbox": [
+    -80.072558,
+    32.886378,
+    -80.072558,
+    32.886378
+],
   "geometry": {"coordinates":[-80.072558,32.886378],"type":"Point"}
 }

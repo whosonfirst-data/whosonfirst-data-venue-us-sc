@@ -2,13 +2,14 @@
   "id": 337325425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.596939,34.830287,-82.596939,34.830287",
     "geom:latitude":34.830287,
     "geom:longitude":-82.596939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E 1st Ave",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337325425,
-    "wof:lastmodified":1449027243,
+    "wof:lastmodified":1467082277,
     "wof:name":"First Baptist Church Child Dev",
     "wof:parent_id":85832619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.596939,34.830287,-82.596939,34.830287],
-  "geometry": {"coordinates":[-82.596939,34.830287],"type":"Point"}
+  "bbox": [
+    -82.596939,
+    34.830287,
+    -82.596939,
+    34.830287
+],
+  "geometry": {"coordinates":[-82.59693900000001,34.830287],"type":"Point"}
 }

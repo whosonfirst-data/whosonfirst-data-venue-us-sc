@@ -2,13 +2,14 @@
   "id": 353395211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.180591,34.214271,-82.180591,34.214271",
     "geom:latitude":34.214271,
     "geom:longitude":-82.180591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 Montague Ave Exd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353395211,
-    "wof:lastmodified":1449020444,
+    "wof:lastmodified":1467082254,
     "wof:name":"Super Nail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-82.180591,34.214271,-82.180591,34.214271],
-  "geometry": {"coordinates":[-82.180591,34.214271],"type":"Point"}
+  "bbox": [
+    -82.180591,
+    34.214271,
+    -82.180591,
+    34.214271
+],
+  "geometry": {"coordinates":[-82.18059100000001,34.214271],"type":"Point"}
 }

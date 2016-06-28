@@ -2,13 +2,14 @@
   "id": 370457665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.971792,32.840906,-79.971792,32.840906",
     "geom:latitude":32.840906,
     "geom:longitude":-79.971792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2777 Speissegger Dr",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370457665,
-    "wof:lastmodified":1449031350,
+    "wof:lastmodified":1467082348,
     "wof:name":"Palmetto Lowcountry Behavioral",
     "wof:parent_id":85840691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.971792,32.840906,-79.971792,32.840906],
-  "geometry": {"coordinates":[-79.971792,32.840906],"type":"Point"}
+  "bbox": [
+    -79.971792,
+    32.840906,
+    -79.971792,
+    32.840906
+],
+  "geometry": {"coordinates":[-79.97179199999999,32.840906],"type":"Point"}
 }

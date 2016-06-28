@@ -2,13 +2,14 @@
   "id": 370299715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.494349,34.000385,-80.494349,34.000385",
     "geom:latitude":34.000385,
     "geom:longitude":-80.494349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2710 State Hwy 441",
     "sg:city":"Dalzell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370299715,
-    "wof:lastmodified":1449029958,
+    "wof:lastmodified":1467082317,
     "wof:name":"High Hill Day Care",
     "wof:parent_id":85848059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.494349,34.000385,-80.494349,34.000385],
+  "bbox": [
+    -80.494349,
+    34.000385,
+    -80.494349,
+    34.000385
+],
   "geometry": {"coordinates":[-80.494349,34.000385],"type":"Point"}
 }

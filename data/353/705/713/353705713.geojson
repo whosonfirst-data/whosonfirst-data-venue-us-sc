@@ -2,13 +2,14 @@
   "id": 353705713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.823675,33.51227,-81.823675,33.51227",
     "geom:latitude":33.51227,
     "geom:longitude":-81.823675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Wayland St",
     "sg:city":"Warrenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353705713,
-    "wof:lastmodified":1449020814,
+    "wof:lastmodified":1467082262,
     "wof:name":"Bishop Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.823675,33.51227,-81.823675,33.51227],
-  "geometry": {"coordinates":[-81.823675,33.51227],"type":"Point"}
+  "bbox": [
+    -81.823675,
+    33.51227,
+    -81.823675,
+    33.51227
+],
+  "geometry": {"coordinates":[-81.82367499999999,33.51227],"type":"Point"}
 }

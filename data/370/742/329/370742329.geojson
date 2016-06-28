@@ -2,13 +2,14 @@
   "id": 370742329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.709323,34.008162,-80.709323,34.008162",
     "geom:latitude":34.008162,
     "geom:longitude":-80.709323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5490 Leesburg Rd",
     "sg:city":"Eastover",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370742329,
-    "wof:lastmodified":1449029306,
+    "wof:lastmodified":1467082303,
     "wof:name":"US Marine Corps",
     "wof:parent_id":85830159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-80.709323,34.008162,-80.709323,34.008162],
+  "bbox": [
+    -80.709323,
+    34.008162,
+    -80.709323,
+    34.008162
+],
   "geometry": {"coordinates":[-80.709323,34.008162],"type":"Point"}
 }

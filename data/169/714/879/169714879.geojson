@@ -2,13 +2,14 @@
   "id": 169714879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.994108,34.012532,-80.994108,34.012532",
     "geom:latitude":34.012532,
     "geom:longitude":-80.994108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3128 Grace Hill Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169714879,
-    "wof:lastmodified":1449034313,
+    "wof:lastmodified":1467082383,
     "wof:name":"Fred Gantt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tract"
     ]
 },
-  "bbox": [-80.994108,34.012532,-80.994108,34.012532],
+  "bbox": [
+    -80.994108,
+    34.012532,
+    -80.994108,
+    34.012532
+],
   "geometry": {"coordinates":[-80.994108,34.012532],"type":"Point"}
 }

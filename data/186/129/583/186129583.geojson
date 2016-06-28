@@ -2,13 +2,14 @@
   "id": 186129583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.72398,32.215561,-80.72398,32.215561",
     "geom:latitude":32.215561,
     "geom:longitude":-80.72398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Main St",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186129583,
-    "wof:lastmodified":1449052493,
+    "wof:lastmodified":1467082408,
     "wof:name":"Landplan Partnership",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "land"
     ]
 },
-  "bbox": [-80.72398,32.215561,-80.72398,32.215561],
+  "bbox": [
+    -80.72398,
+    32.215561,
+    -80.72398,
+    32.215561
+],
   "geometry": {"coordinates":[-80.72398,32.215561],"type":"Point"}
 }

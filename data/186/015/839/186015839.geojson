@@ -2,13 +2,14 @@
   "id": 186015839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.925113,33.710609,-78.925113,33.710609",
     "geom:latitude":33.710609,
     "geom:longitude":-78.925113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Waterside Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186015839,
-    "wof:lastmodified":1449051010,
+    "wof:lastmodified":1467082394,
     "wof:name":"Luxury Limousines Inc",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-78.925113,33.710609,-78.925113,33.710609],
+  "bbox": [
+    -78.925113,
+    33.710609,
+    -78.925113,
+    33.710609
+],
   "geometry": {"coordinates":[-78.925113,33.710609],"type":"Point"}
 }

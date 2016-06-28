@@ -2,13 +2,14 @@
   "id": 337300739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.86541,34.044284,-78.86541,34.044284",
     "geom:latitude":34.044284,
     "geom:longitude":-78.86541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Heritage Rd",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337300739,
-    "wof:lastmodified":1449027409,
+    "wof:lastmodified":1467082283,
     "wof:name":"Loris Recreation Dept",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-78.86541,34.044284,-78.86541,34.044284],
+  "bbox": [
+    -78.86541,
+    34.044284,
+    -78.86541,
+    34.044284
+],
   "geometry": {"coordinates":[-78.86541,34.044284],"type":"Point"}
 }

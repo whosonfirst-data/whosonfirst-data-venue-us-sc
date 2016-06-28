@@ -2,13 +2,14 @@
   "id": 370716051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.574031,33.845938,-81.574031,33.845938",
     "geom:latitude":33.845938,
     "geom:longitude":-81.574031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"296 Born Again Rd",
     "sg:city":"Batesburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370716051,
-    "wof:lastmodified":1449029574,
+    "wof:lastmodified":1467082309,
     "wof:name":"Spradley's Pond House",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.574031,33.845938,-81.574031,33.845938],
-  "geometry": {"coordinates":[-81.574031,33.845938],"type":"Point"}
+  "bbox": [
+    -81.574031,
+    33.845938,
+    -81.574031,
+    33.845938
+],
+  "geometry": {"coordinates":[-81.57403100000001,33.845938],"type":"Point"}
 }

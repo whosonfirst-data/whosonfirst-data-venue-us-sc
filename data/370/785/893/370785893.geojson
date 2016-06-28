@@ -2,13 +2,14 @@
   "id": 370785893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.950324,32.798916,-79.950324,32.798916",
     "geom:latitude":32.798916,
     "geom:longitude":-79.950324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Senate St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370785893,
-    "wof:lastmodified":1449031894,
+    "wof:lastmodified":1467082360,
     "wof:name":"Oxford House Of St Maragret",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-79.950324,32.798916,-79.950324,32.798916],
-  "geometry": {"coordinates":[-79.950324,32.798916],"type":"Point"}
+  "bbox": [
+    -79.950324,
+    32.798916,
+    -79.950324,
+    32.798916
+],
+  "geometry": {"coordinates":[-79.95032399999999,32.798916],"type":"Point"}
 }

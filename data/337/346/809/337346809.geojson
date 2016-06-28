@@ -2,13 +2,14 @@
   "id": 337346809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.947261,32.798041,-79.947261,32.798041",
     "geom:latitude":32.798041,
     "geom:longitude":-79.947261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Coming St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337346809,
-    "wof:lastmodified":1449026930,
+    "wof:lastmodified":1467082264,
     "wof:name":"E Radius Publications LLC",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-79.947261,32.798041,-79.947261,32.798041],
+  "bbox": [
+    -79.947261,
+    32.798041,
+    -79.947261,
+    32.798041
+],
   "geometry": {"coordinates":[-79.947261,32.798041],"type":"Point"}
 }

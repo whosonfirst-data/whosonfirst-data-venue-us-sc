@@ -2,13 +2,14 @@
   "id": 353614117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.483825,33.707699,-80.483825,33.707699",
     "geom:latitude":33.707699,
     "geom:longitude":-80.483825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1540 West Ave S",
     "sg:city":"Pinewood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353614117,
-    "wof:lastmodified":1449020885,
+    "wof:lastmodified":1467082264,
     "wof:name":"Headquarters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fishing"
     ]
 },
-  "bbox": [-80.483825,33.707699,-80.483825,33.707699],
+  "bbox": [
+    -80.483825,
+    33.707699,
+    -80.483825,
+    33.707699
+],
   "geometry": {"coordinates":[-80.483825,33.707699],"type":"Point"}
 }

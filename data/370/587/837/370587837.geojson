@@ -2,13 +2,14 @@
   "id": 370587837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.902119,34.935705,-81.902119,34.935705",
     "geom:latitude":34.935705,
     "geom:longitude":-81.902119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Union St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370587837,
-    "wof:lastmodified":1449030259,
+    "wof:lastmodified":1467082324,
     "wof:name":"Southeastern Cotton Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cotton"
     ]
 },
-  "bbox": [-81.902119,34.935705,-81.902119,34.935705],
+  "bbox": [
+    -81.902119,
+    34.935705,
+    -81.902119,
+    34.935705
+],
   "geometry": {"coordinates":[-81.902119,34.935705],"type":"Point"}
 }

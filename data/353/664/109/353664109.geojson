@@ -2,13 +2,14 @@
   "id": 353664109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.982904,32.780535,-79.982904,32.780535",
     "geom:latitude":32.780535,
     "geom:longitude":-79.982904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Yeadon Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353664109,
-    "wof:lastmodified":1449019202,
+    "wof:lastmodified":1467082229,
     "wof:name":"Main Sail",
     "wof:parent_id":85808729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-79.982904,32.780535,-79.982904,32.780535],
+  "bbox": [
+    -79.982904,
+    32.780535,
+    -79.982904,
+    32.780535
+],
   "geometry": {"coordinates":[-79.982904,32.780535],"type":"Point"}
 }

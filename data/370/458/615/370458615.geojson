@@ -2,13 +2,14 @@
   "id": 370458615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.399419,33.955151,-80.399419,33.955151",
     "geom:latitude":33.955151,
     "geom:longitude":-80.399419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 Wilson Hall Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370458615,
-    "wof:lastmodified":1449031499,
+    "wof:lastmodified":1467082352,
     "wof:name":"Advanced Veterinary Hospital",
     "wof:parent_id":85814545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-80.399419,33.955151,-80.399419,33.955151],
-  "geometry": {"coordinates":[-80.399419,33.955151],"type":"Point"}
+  "bbox": [
+    -80.399419,
+    33.955151,
+    -80.399419,
+    33.955151
+],
+  "geometry": {"coordinates":[-80.39941899999999,33.955151],"type":"Point"}
 }

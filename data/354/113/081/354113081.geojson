@@ -2,13 +2,14 @@
   "id": 354113081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.706281,32.193602,-80.706281,32.193602",
     "geom:latitude":32.193602,
     "geom:longitude":-80.706281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"641 William Hilton Pkwy",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354113081,
-    "wof:lastmodified":1449067522,
+    "wof:lastmodified":1467082451,
     "wof:name":"Harold's Diner",
     "wof:parent_id":85819729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.706281,32.193602,-80.706281,32.193602],
+  "bbox": [
+    -80.706281,
+    32.193602,
+    -80.706281,
+    32.193602
+],
   "geometry": {"coordinates":[-80.706281,32.193602],"type":"Point"}
 }

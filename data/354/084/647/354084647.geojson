@@ -2,13 +2,14 @@
   "id": 354084647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.025566,33.575172,-79.025566,33.575172",
     "geom:latitude":33.575172,
     "geom:longitude":-79.025566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3534 US Hwy 17 Bus",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354084647,
-    "wof:lastmodified":1449066120,
+    "wof:lastmodified":1467082419,
     "wof:name":"Maine'Ly Seafood",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-79.025566,33.575172,-79.025566,33.575172],
+  "bbox": [
+    -79.025566,
+    33.575172,
+    -79.025566,
+    33.575172
+],
   "geometry": {"coordinates":[-79.025566,33.575172],"type":"Point"}
 }

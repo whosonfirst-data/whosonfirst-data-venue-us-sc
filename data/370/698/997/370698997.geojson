@@ -2,13 +2,14 @@
   "id": 370698997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.055493,34.797557,-83.055493,34.797557",
     "geom:latitude":34.797557,
     "geom:longitude":-83.055493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Snead Rd",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370698997,
-    "wof:lastmodified":1449032260,
+    "wof:lastmodified":1467082369,
     "wof:name":"L & M Furniture & Used Cars",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "used"
     ]
 },
-  "bbox": [-83.055493,34.797557,-83.055493,34.797557],
+  "bbox": [
+    -83.055493,
+    34.797557,
+    -83.055493,
+    34.797557
+],
   "geometry": {"coordinates":[-83.055493,34.797557],"type":"Point"}
 }

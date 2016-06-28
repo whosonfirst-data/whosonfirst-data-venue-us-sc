@@ -2,13 +2,14 @@
   "id": 354020519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.212585,33.983192,-81.212585,33.983192",
     "geom:latitude":33.983192,
     "geom:longitude":-81.212585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Athena Ln",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354020519,
-    "wof:lastmodified":1449066714,
+    "wof:lastmodified":1467082432,
     "wof:name":"Hitachi",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.212585,33.983192,-81.212585,33.983192],
+  "bbox": [
+    -81.212585,
+    33.983192,
+    -81.212585,
+    33.983192
+],
   "geometry": {"coordinates":[-81.212585,33.983192],"type":"Point"}
 }

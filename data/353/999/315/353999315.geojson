@@ -2,13 +2,14 @@
   "id": 353999315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.776264,34.191336,-79.776264,34.191336",
     "geom:latitude":34.191336,
     "geom:longitude":-79.776264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 W Pine St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353999315,
-    "wof:lastmodified":1449020492,
+    "wof:lastmodified":1467082255,
     "wof:name":"Corporate Consultants",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.776264,34.191336,-79.776264,34.191336],
+  "bbox": [
+    -79.776264,
+    34.191336,
+    -79.776264,
+    34.191336
+],
   "geometry": {"coordinates":[-79.776264,34.191336],"type":"Point"}
 }

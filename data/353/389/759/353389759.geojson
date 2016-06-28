@@ -2,13 +2,14 @@
   "id": 353389759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.926581,32.781348,-79.926581,32.781348",
     "geom:latitude":32.781348,
     "geom:longitude":-79.926581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 N Market St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353389759,
-    "wof:lastmodified":1449020306,
+    "wof:lastmodified":1467082251,
     "wof:name":"Vintage Restaurant & Wine Bar",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.926581,32.781348,-79.926581,32.781348],
+  "bbox": [
+    -79.926581,
+    32.781348,
+    -79.926581,
+    32.781348
+],
   "geometry": {"coordinates":[-79.926581,32.781348],"type":"Point"}
 }

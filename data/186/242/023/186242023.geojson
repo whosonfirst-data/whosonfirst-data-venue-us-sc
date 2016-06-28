@@ -2,13 +2,14 @@
   "id": 186242023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.402814,33.869988,-80.402814,33.869988",
     "geom:latitude":33.869988,
     "geom:longitude":-80.402814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1760 Pinewood Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186242023,
-    "wof:lastmodified":1449052702,
+    "wof:lastmodified":1467082410,
     "wof:name":"Maypo Sandwiches",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.402814,33.869988,-80.402814,33.869988],
-  "geometry": {"coordinates":[-80.402814,33.869988],"type":"Point"}
+  "bbox": [
+    -80.402814,
+    33.869988,
+    -80.402814,
+    33.869988
+],
+  "geometry": {"coordinates":[-80.40281400000001,33.869988],"type":"Point"}
 }

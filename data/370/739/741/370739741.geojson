@@ -2,13 +2,14 @@
   "id": 370739741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.017997,33.602989,-79.017997,33.602989",
     "geom:latitude":33.602989,
     "geom:longitude":-79.017997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9408 US Hwy 17 Byp",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370739741,
-    "wof:lastmodified":1449030511,
+    "wof:lastmodified":1467082330,
     "wof:name":"Alternatives In Healthcare",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.017997,33.602989,-79.017997,33.602989],
-  "geometry": {"coordinates":[-79.017997,33.602989],"type":"Point"}
+  "bbox": [
+    -79.017997,
+    33.602989,
+    -79.017997,
+    33.602989
+],
+  "geometry": {"coordinates":[-79.01799699999999,33.602989],"type":"Point"}
 }

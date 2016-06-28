@@ -2,13 +2,14 @@
   "id": 169819841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.023086,34.921031,-81.023086,34.921031",
     "geom:latitude":34.921031,
     "geom:longitude":-81.023086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Orange St",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169819841,
-    "wof:lastmodified":1449033479,
+    "wof:lastmodified":1467082380,
     "wof:name":"Family Connection",
     "wof:parent_id":85851537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.023086,34.921031,-81.023086,34.921031],
-  "geometry": {"coordinates":[-81.023086,34.921031],"type":"Point"}
+  "bbox": [
+    -81.023086,
+    34.921031,
+    -81.023086,
+    34.921031
+],
+  "geometry": {"coordinates":[-81.02308600000001,34.921031],"type":"Point"}
 }

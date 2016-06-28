@@ -2,13 +2,14 @@
   "id": 370878279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.840412,33.743231,-78.840412,33.743231",
     "geom:latitude":33.743231,
     "geom:longitude":-78.840412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6100 Frontage Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370878279,
-    "wof:lastmodified":1449030850,
+    "wof:lastmodified":1467082337,
     "wof:name":"J & J Cleaning Crew",
     "wof:parent_id":85829199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-78.840412,33.743231,-78.840412,33.743231],
+  "bbox": [
+    -78.840412,
+    33.743231,
+    -78.840412,
+    33.743231
+],
   "geometry": {"coordinates":[-78.840412,33.743231],"type":"Point"}
 }

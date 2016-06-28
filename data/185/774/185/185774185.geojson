@@ -2,13 +2,14 @@
   "id": 185774185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.287919,34.945028,-82.287919,34.945028",
     "geom:latitude":34.945028,
     "geom:longitude":-82.287919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"481 Wood Rd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185774185,
-    "wof:lastmodified":1449007241,
+    "wof:lastmodified":1467082192,
     "wof:name":"Personalized Memories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.287919,34.945028,-82.287919,34.945028],
+  "bbox": [
+    -82.287919,
+    34.945028,
+    -82.287919,
+    34.945028
+],
   "geometry": {"coordinates":[-82.287919,34.945028],"type":"Point"}
 }

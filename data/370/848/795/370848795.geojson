@@ -2,13 +2,14 @@
   "id": 370848795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.070394,32.976132,-80.070394,32.976132",
     "geom:latitude":32.976132,
     "geom:longitude":-80.070394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9297 Medical Plaza Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370848795,
-    "wof:lastmodified":1449029568,
+    "wof:lastmodified":1467082309,
     "wof:name":"Trident Eye Surgery Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.070394,32.976132,-80.070394,32.976132],
-  "geometry": {"coordinates":[-80.070394,32.976132],"type":"Point"}
+  "bbox": [
+    -80.070394,
+    32.976132,
+    -80.070394,
+    32.976132
+],
+  "geometry": {"coordinates":[-80.07039399999999,32.976132],"type":"Point"}
 }

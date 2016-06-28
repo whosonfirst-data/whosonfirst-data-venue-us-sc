@@ -2,13 +2,14 @@
   "id": 370567943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.41388,33.319117,-80.41388,33.319117",
     "geom:latitude":33.319117,
     "geom:longitude":-80.41388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"590 Park Cir",
     "sg:city":"Holly Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370567943,
-    "wof:lastmodified":1449032497,
+    "wof:lastmodified":1467082374,
     "wof:name":"Metromont Materials",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [-80.41388,33.319117,-80.41388,33.319117],
-  "geometry": {"coordinates":[-80.41388,33.319117],"type":"Point"}
+  "bbox": [
+    -80.41388,
+    33.319117,
+    -80.41388,
+    33.319117
+],
+  "geometry": {"coordinates":[-80.41388000000001,33.319117],"type":"Point"}
 }

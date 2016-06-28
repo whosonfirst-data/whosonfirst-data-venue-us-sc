@@ -2,13 +2,14 @@
   "id": 354252151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.793301,34.259174,-79.793301,34.259174",
     "geom:latitude":34.259174,
     "geom:longitude":-79.793301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1716 E McIver Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354252151,
-    "wof:lastmodified":1449066157,
+    "wof:lastmodified":1467082420,
     "wof:name":"Sellers Septic Tank Service",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-79.793301,34.259174,-79.793301,34.259174],
+  "bbox": [
+    -79.793301,
+    34.259174,
+    -79.793301,
+    34.259174
+],
   "geometry": {"coordinates":[-79.793301,34.259174],"type":"Point"}
 }

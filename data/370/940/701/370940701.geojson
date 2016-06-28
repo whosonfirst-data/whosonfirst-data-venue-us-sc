@@ -2,13 +2,14 @@
   "id": 370940701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.861083,33.511277,-80.861083,33.511277",
     "geom:latitude":33.511277,
     "geom:longitude":-80.861083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 Saint Matthews Rd",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370940701,
-    "wof:lastmodified":1449029921,
+    "wof:lastmodified":1467082317,
     "wof:name":"South Carolina Bank & Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.861083,33.511277,-80.861083,33.511277],
-  "geometry": {"coordinates":[-80.861083,33.511277],"type":"Point"}
+  "bbox": [
+    -80.861083,
+    33.511277,
+    -80.861083,
+    33.511277
+],
+  "geometry": {"coordinates":[-80.86108299999999,33.511277],"type":"Point"}
 }

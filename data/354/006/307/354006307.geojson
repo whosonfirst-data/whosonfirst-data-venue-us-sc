@@ -2,13 +2,14 @@
   "id": 354006307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.84279,33.726981,-78.84279,33.726981",
     "geom:latitude":33.726981,
     "geom:longitude":-78.84279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5315 N Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354006307,
-    "wof:lastmodified":1449067301,
+    "wof:lastmodified":1467082446,
     "wof:name":"Timely Arts",
     "wof:parent_id":85839155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-78.84279,33.726981,-78.84279,33.726981],
-  "geometry": {"coordinates":[-78.84279,33.726981],"type":"Point"}
+  "bbox": [
+    -78.84279,
+    33.726981,
+    -78.84279,
+    33.726981
+],
+  "geometry": {"coordinates":[-78.84278999999999,33.726981],"type":"Point"}
 }

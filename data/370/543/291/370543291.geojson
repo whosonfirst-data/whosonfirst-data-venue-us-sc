@@ -2,13 +2,14 @@
   "id": 370543291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.7053,32.439635,-80.7053,32.439635",
     "geom:latitude":32.439635,
     "geom:longitude":-80.7053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Robert Smalls Pkwy",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370543291,
-    "wof:lastmodified":1449029751,
+    "wof:lastmodified":1467082312,
     "wof:name":"Music Tek",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-80.7053,32.439635,-80.7053,32.439635],
-  "geometry": {"coordinates":[-80.7053,32.439635],"type":"Point"}
+  "bbox": [
+    -80.7053,
+    32.439635,
+    -80.7053,
+    32.439635
+],
+  "geometry": {"coordinates":[-80.70529999999999,32.439635],"type":"Point"}
 }

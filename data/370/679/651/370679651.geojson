@@ -2,13 +2,14 @@
   "id": 370679651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.003838,33.998227,-81.003838,33.998227",
     "geom:latitude":33.998227,
     "geom:longitude":-81.003838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 Devine St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370679651,
-    "wof:lastmodified":1449031252,
+    "wof:lastmodified":1467082346,
     "wof:name":"South Carolina Sect Amer Water",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.003838,33.998227,-81.003838,33.998227],
+  "bbox": [
+    -81.003838,
+    33.998227,
+    -81.003838,
+    33.998227
+],
   "geometry": {"coordinates":[-81.003838,33.998227],"type":"Point"}
 }

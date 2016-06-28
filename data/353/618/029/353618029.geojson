@@ -2,13 +2,14 @@
   "id": 353618029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.930416,33.788342,-81.930416,33.788342",
     "geom:latitude":33.788342,
     "geom:longitude":-81.930416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Penn St",
     "sg:city":"Edgefield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353618029,
-    "wof:lastmodified":1449019856,
+    "wof:lastmodified":1467082242,
     "wof:name":"Tropical Bay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.930416,33.788342,-81.930416,33.788342],
-  "geometry": {"coordinates":[-81.930416,33.788342],"type":"Point"}
+  "bbox": [
+    -81.930416,
+    33.788342,
+    -81.930416,
+    33.788342
+],
+  "geometry": {"coordinates":[-81.93041599999999,33.788342],"type":"Point"}
 }

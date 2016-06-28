@@ -2,13 +2,14 @@
   "id": 370153027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.773463,34.195126,-79.773463,34.195126",
     "geom:latitude":34.195126,
     "geom:longitude":-79.773463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"466 W Cheves St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370153027,
-    "wof:lastmodified":1449031407,
+    "wof:lastmodified":1467082350,
     "wof:name":"Dbs Communications Inc",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-79.773463,34.195126,-79.773463,34.195126],
-  "geometry": {"coordinates":[-79.773463,34.195126],"type":"Point"}
+  "bbox": [
+    -79.773463,
+    34.195126,
+    -79.773463,
+    34.195126
+],
+  "geometry": {"coordinates":[-79.77346300000001,34.195126],"type":"Point"}
 }

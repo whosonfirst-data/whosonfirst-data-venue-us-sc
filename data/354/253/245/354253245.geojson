@@ -2,13 +2,14 @@
   "id": 354253245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.931014,32.778152,-79.931014,32.778152",
     "geom:latitude":32.778152,
     "geom:longitude":-79.931014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Queen St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354253245,
-    "wof:lastmodified":1449067457,
+    "wof:lastmodified":1467082449,
     "wof:name":"Hatfield II Fine Arts",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.931014,32.778152,-79.931014,32.778152],
+  "bbox": [
+    -79.931014,
+    32.778152,
+    -79.931014,
+    32.778152
+],
   "geometry": {"coordinates":[-79.931014,32.778152],"type":"Point"}
 }

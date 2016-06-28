@@ -2,13 +2,14 @@
   "id": 370440381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.35832,34.990617,-82.35832,34.990617",
     "geom:latitude":34.990617,
     "geom:longitude":-82.35832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Pine Log Ford Rd",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370440381,
-    "wof:lastmodified":1449030284,
+    "wof:lastmodified":1467082325,
     "wof:name":"Carolina Air Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "system"
     ]
 },
-  "bbox": [-82.35832,34.990617,-82.35832,34.990617],
-  "geometry": {"coordinates":[-82.35832,34.990617],"type":"Point"}
+  "bbox": [
+    -82.35832,
+    34.990617,
+    -82.35832,
+    34.990617
+],
+  "geometry": {"coordinates":[-82.35832000000001,34.990617],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370675181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.836333,34.719129,-79.836333,34.719129",
     "geom:latitude":34.719129,
     "geom:longitude":-79.836333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3617 Old Wire Rd W",
     "sg:city":"Wallace",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370675181,
-    "wof:lastmodified":1449030802,
+    "wof:lastmodified":1467082336,
     "wof:name":"Thomas Canopy Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "canopy"
     ]
 },
-  "bbox": [-79.836333,34.719129,-79.836333,34.719129],
+  "bbox": [
+    -79.836333,
+    34.719129,
+    -79.836333,
+    34.719129
+],
   "geometry": {"coordinates":[-79.836333,34.719129],"type":"Point"}
 }

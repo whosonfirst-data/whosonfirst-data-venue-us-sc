@@ -2,13 +2,14 @@
   "id": 353487409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.307285,34.785869,-82.307285,34.785869",
     "geom:latitude":34.785869,
     "geom:longitude":-82.307285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Miller Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353487409,
-    "wof:lastmodified":1449019085,
+    "wof:lastmodified":1467082226,
     "wof:name":"Vision Of Victory Temple",
     "wof:parent_id":85851381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.307285,34.785869,-82.307285,34.785869],
-  "geometry": {"coordinates":[-82.307285,34.785869],"type":"Point"}
+  "bbox": [
+    -82.307285,
+    34.785869,
+    -82.307285,
+    34.785869
+],
+  "geometry": {"coordinates":[-82.30728499999999,34.785869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185853063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.236634,33.981738,-81.236634,33.981738",
     "geom:latitude":33.981738,
     "geom:longitude":-81.236634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Main St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185853063,
-    "wof:lastmodified":1449007258,
+    "wof:lastmodified":1467082192,
     "wof:name":"Timothy G Driggers",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.236634,33.981738,-81.236634,33.981738],
+  "bbox": [
+    -81.236634,
+    33.981738,
+    -81.236634,
+    33.981738
+],
   "geometry": {"coordinates":[-81.236634,33.981738],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353868069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.015973,32.881417,-80.015973,32.881417",
     "geom:latitude":32.881417,
     "geom:longitude":-80.015973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 Lacross Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353868069,
-    "wof:lastmodified":1449018357,
+    "wof:lastmodified":1467082212,
     "wof:name":"North Charleston Police Record",
     "wof:parent_id":85819163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-80.015973,32.881417,-80.015973,32.881417],
+  "bbox": [
+    -80.015973,
+    32.881417,
+    -80.015973,
+    32.881417
+],
   "geometry": {"coordinates":[-80.015973,32.881417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353431235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.199952,34.005846,-81.199952,34.005846",
     "geom:latitude":34.005846,
     "geom:longitude":-81.199952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5175 Sunset Blvd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353431235,
-    "wof:lastmodified":1449018596,
+    "wof:lastmodified":1467082217,
     "wof:name":"Vista Specialties Inc",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "specialty"
     ]
 },
-  "bbox": [-81.199952,34.005846,-81.199952,34.005846],
+  "bbox": [
+    -81.199952,
+    34.005846,
+    -81.199952,
+    34.005846
+],
   "geometry": {"coordinates":[-81.199952,34.005846],"type":"Point"}
 }

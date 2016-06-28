@@ -2,13 +2,14 @@
   "id": 186314933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.77492,34.716877,-80.77492,34.716877",
     "geom:latitude":34.716877,
     "geom:longitude":-80.77492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 W Gay St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186314933,
-    "wof:lastmodified":1449052922,
+    "wof:lastmodified":1467082412,
     "wof:name":"Kings Of Kings Ministries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.77492,34.716877,-80.77492,34.716877],
-  "geometry": {"coordinates":[-80.77492,34.716877],"type":"Point"}
+  "bbox": [
+    -80.77492,
+    34.716877,
+    -80.77492,
+    34.716877
+],
+  "geometry": {"coordinates":[-80.77491999999999,34.716877],"type":"Point"}
 }

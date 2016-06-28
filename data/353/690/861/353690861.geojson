@@ -2,13 +2,14 @@
   "id": 353690861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.237756,33.011948,-80.237756,33.011948",
     "geom:latitude":33.011948,
     "geom:longitude":-80.237756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1580 Central Ave",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353690861,
-    "wof:lastmodified":1449019607,
+    "wof:lastmodified":1467082237,
     "wof:name":"Knightsville Dry Cleaners",
     "wof:parent_id":85812305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.237756,33.011948,-80.237756,33.011948],
+  "bbox": [
+    -80.237756,
+    33.011948,
+    -80.237756,
+    33.011948
+],
   "geometry": {"coordinates":[-80.237756,33.011948],"type":"Point"}
 }

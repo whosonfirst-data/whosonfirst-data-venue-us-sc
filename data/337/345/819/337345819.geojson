@@ -2,13 +2,14 @@
   "id": 337345819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.050236,32.994487,-80.050236,32.994487",
     "geom:latitude":32.994487,
     "geom:longitude":-80.050236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Jennie St",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337345819,
-    "wof:lastmodified":1449027669,
+    "wof:lastmodified":1467082292,
     "wof:name":"Lopak Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.050236,32.994487,-80.050236,32.994487],
+  "bbox": [
+    -80.050236,
+    32.994487,
+    -80.050236,
+    32.994487
+],
   "geometry": {"coordinates":[-80.050236,32.994487],"type":"Point"}
 }

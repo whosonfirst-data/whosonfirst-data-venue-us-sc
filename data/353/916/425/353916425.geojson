@@ -2,13 +2,14 @@
   "id": 353916425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.860244,34.641912,-81.860244,34.641912",
     "geom:latitude":34.641912,
     "geom:longitude":-81.860244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Union Hwy",
     "sg:city":"Enoree",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353916425,
-    "wof:lastmodified":1449019661,
+    "wof:lastmodified":1467082238,
     "wof:name":"One Stop Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.860244,34.641912,-81.860244,34.641912],
-  "geometry": {"coordinates":[-81.860244,34.641912],"type":"Point"}
+  "bbox": [
+    -81.860244,
+    34.641912,
+    -81.860244,
+    34.641912
+],
+  "geometry": {"coordinates":[-81.86024399999999,34.641912],"type":"Point"}
 }

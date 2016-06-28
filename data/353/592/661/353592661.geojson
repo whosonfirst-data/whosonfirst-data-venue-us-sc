@@ -2,13 +2,14 @@
   "id": 353592661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.884398,32.916016,-79.884398,32.916016",
     "geom:latitude":32.916016,
     "geom:longitude":-79.884398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1937 Clements Ferry Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353592661,
-    "wof:lastmodified":1449019722,
+    "wof:lastmodified":1467082240,
     "wof:name":"Tail Gator's Grill",
     "wof:parent_id":85814443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.884398,32.916016,-79.884398,32.916016],
+  "bbox": [
+    -79.884398,
+    32.916016,
+    -79.884398,
+    32.916016
+],
   "geometry": {"coordinates":[-79.884398,32.916016],"type":"Point"}
 }

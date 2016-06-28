@@ -2,13 +2,14 @@
   "id": 370947261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.739336,34.137582,-79.739336,34.137582",
     "geom:latitude":34.137582,
     "geom:longitude":-79.739336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1909 E Howe Springs Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370947261,
-    "wof:lastmodified":1449031542,
+    "wof:lastmodified":1467082353,
     "wof:name":"Wj Holdings Inc",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-79.739336,34.137582,-79.739336,34.137582],
-  "geometry": {"coordinates":[-79.739336,34.137582],"type":"Point"}
+  "bbox": [
+    -79.739336,
+    34.137582,
+    -79.739336,
+    34.137582
+],
+  "geometry": {"coordinates":[-79.73933599999999,34.137582],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185945941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.153123,32.727201,-80.153123,32.727201",
     "geom:latitude":32.727201,
     "geom:longitude":-80.153123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5209 Whippoorwill Ln",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185945941,
-    "wof:lastmodified":1449006741,
+    "wof:lastmodified":1467082184,
     "wof:name":"Level & Square Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-80.153123,32.727201,-80.153123,32.727201],
-  "geometry": {"coordinates":[-80.153123,32.727201],"type":"Point"}
+  "bbox": [
+    -80.153123,
+    32.727201,
+    -80.153123,
+    32.727201
+],
+  "geometry": {"coordinates":[-80.15312299999999,32.727201],"type":"Point"}
 }

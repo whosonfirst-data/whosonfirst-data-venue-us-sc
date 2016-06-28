@@ -2,13 +2,14 @@
   "id": 370331691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.024177,34.923006,-81.024177,34.923006",
     "geom:latitude":34.923006,
     "geom:longitude":-81.024177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 S Elizabeth Ln",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370331691,
-    "wof:lastmodified":1449031141,
+    "wof:lastmodified":1467082343,
     "wof:name":"Cable News 2",
     "wof:parent_id":85851537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "co"
     ]
 },
-  "bbox": [-81.024177,34.923006,-81.024177,34.923006],
-  "geometry": {"coordinates":[-81.024177,34.923006],"type":"Point"}
+  "bbox": [
+    -81.024177,
+    34.923006,
+    -81.024177,
+    34.923006
+],
+  "geometry": {"coordinates":[-81.02417699999999,34.923006],"type":"Point"}
 }

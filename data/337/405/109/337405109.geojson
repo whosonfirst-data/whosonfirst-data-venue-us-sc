@@ -2,13 +2,14 @@
   "id": 337405109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.666248,32.900874,-80.666248,32.900874",
     "geom:latitude":32.900874,
     "geom:longitude":-80.666248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Carn St",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337405109,
-    "wof:lastmodified":1449027668,
+    "wof:lastmodified":1467082292,
     "wof:name":"Community Times-Dispatch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-80.666248,32.900874,-80.666248,32.900874],
+  "bbox": [
+    -80.666248,
+    32.900874,
+    -80.666248,
+    32.900874
+],
   "geometry": {"coordinates":[-80.666248,32.900874],"type":"Point"}
 }

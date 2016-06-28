@@ -2,13 +2,14 @@
   "id": 370606055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.649532,34.50013,-82.649532,34.50013",
     "geom:latitude":34.50013,
     "geom:longitude":-82.649532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 State Hwy 28 Bus",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370606055,
-    "wof:lastmodified":1449029609,
+    "wof:lastmodified":1467082309,
     "wof:name":"Mike Br",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.649532,34.50013,-82.649532,34.50013],
-  "geometry": {"coordinates":[-82.649532,34.50013],"type":"Point"}
+  "bbox": [
+    -82.649532,
+    34.50013,
+    -82.649532,
+    34.50013
+],
+  "geometry": {"coordinates":[-82.64953199999999,34.50013],"type":"Point"}
 }

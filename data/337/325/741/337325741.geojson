@@ -2,13 +2,14 @@
   "id": 337325741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.852244,32.810462,-79.852244,32.810462",
     "geom:latitude":32.810462,
     "geom:longitude":-79.852244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 Bowman Rd",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337325741,
-    "wof:lastmodified":1449027241,
+    "wof:lastmodified":1467082276,
     "wof:name":"Aqua Blue Pool & Spa",
     "wof:parent_id":85824823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.852244,32.810462,-79.852244,32.810462],
+  "bbox": [
+    -79.852244,
+    32.810462,
+    -79.852244,
+    32.810462
+],
   "geometry": {"coordinates":[-79.852244,32.810462],"type":"Point"}
 }

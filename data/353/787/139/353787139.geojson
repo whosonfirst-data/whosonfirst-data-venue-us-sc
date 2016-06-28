@@ -2,13 +2,14 @@
   "id": 353787139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.052847,33.838699,-79.052847,33.838699",
     "geom:latitude":33.838699,
     "geom:longitude":-79.052847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Beaty St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353787139,
-    "wof:lastmodified":1449019413,
+    "wof:lastmodified":1467082233,
     "wof:name":"Conway Chapel",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.052847,33.838699,-79.052847,33.838699],
+  "bbox": [
+    -79.052847,
+    33.838699,
+    -79.052847,
+    33.838699
+],
   "geometry": {"coordinates":[-79.052847,33.838699],"type":"Point"}
 }

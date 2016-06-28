@@ -2,13 +2,14 @@
   "id": 169831281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.695153,34.787344,-82.695153,34.787344",
     "geom:latitude":34.787344,
     "geom:longitude":-82.695153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 S Palmetto St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169831281,
-    "wof:lastmodified":1449034626,
+    "wof:lastmodified":1467082384,
     "wof:name":"Liberty Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.695153,34.787344,-82.695153,34.787344],
+  "bbox": [
+    -82.695153,
+    34.787344,
+    -82.695153,
+    34.787344
+],
   "geometry": {"coordinates":[-82.695153,34.787344],"type":"Point"}
 }

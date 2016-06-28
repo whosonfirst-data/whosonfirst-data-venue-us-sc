@@ -2,13 +2,14 @@
   "id": 370789437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.338367,34.848571,-82.338367,34.848571",
     "geom:latitude":34.848571,
     "geom:longitude":-82.338367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Haywood Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370789437,
-    "wof:lastmodified":1449030622,
+    "wof:lastmodified":1467082332,
     "wof:name":"Tweeter",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "stereophonic"
     ]
 },
-  "bbox": [-82.338367,34.848571,-82.338367,34.848571],
-  "geometry": {"coordinates":[-82.338367,34.848571],"type":"Point"}
+  "bbox": [
+    -82.338367,
+    34.848571,
+    -82.338367,
+    34.848571
+],
+  "geometry": {"coordinates":[-82.33836700000001,34.848571],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337319497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.642303,35.067643,-81.642303,35.067643",
     "geom:latitude":35.067643,
     "geom:longitude":-81.642303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 E Frederick St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337319497,
-    "wof:lastmodified":1449027264,
+    "wof:lastmodified":1467082277,
     "wof:name":"Warehouse Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "equipment"
     ]
 },
-  "bbox": [-81.642303,35.067643,-81.642303,35.067643],
+  "bbox": [
+    -81.642303,
+    35.067643,
+    -81.642303,
+    35.067643
+],
   "geometry": {"coordinates":[-81.642303,35.067643],"type":"Point"}
 }

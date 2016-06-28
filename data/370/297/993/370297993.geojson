@@ -2,13 +2,14 @@
   "id": 370297993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.95441,32.834679,-79.95441,32.834679",
     "geom:latitude":32.834679,
     "geom:longitude":-79.95441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 Spruill Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370297993,
-    "wof:lastmodified":1449031227,
+    "wof:lastmodified":1467082345,
     "wof:name":"Round Up Lounge",
     "wof:parent_id":85824749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-79.95441,32.834679,-79.95441,32.834679],
+  "bbox": [
+    -79.95441,
+    32.834679,
+    -79.95441,
+    32.834679
+],
   "geometry": {"coordinates":[-79.95441,32.834679],"type":"Point"}
 }

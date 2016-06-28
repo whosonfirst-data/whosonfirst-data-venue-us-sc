@@ -2,13 +2,14 @@
   "id": 354220311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.203323,34.704787,-81.203323,34.704787",
     "geom:latitude":34.704787,
     "geom:longitude":-81.203323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Lancaster St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354220311,
-    "wof:lastmodified":1449067611,
+    "wof:lastmodified":1467082453,
     "wof:name":"Best Bet Convenience",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.203323,34.704787,-81.203323,34.704787],
+  "bbox": [
+    -81.203323,
+    34.704787,
+    -81.203323,
+    34.704787
+],
   "geometry": {"coordinates":[-81.203323,34.704787],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353933965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.962907,34.827831,-81.962907,34.827831",
     "geom:latitude":34.827831,
     "geom:longitude":-81.962907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 Moores Xing",
     "sg:city":"Roebuck",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353933965,
-    "wof:lastmodified":1449018780,
+    "wof:lastmodified":1467082220,
     "wof:name":"Roebuck Heating and Air",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.962907,34.827831,-81.962907,34.827831],
+  "bbox": [
+    -81.962907,
+    34.827831,
+    -81.962907,
+    34.827831
+],
   "geometry": {"coordinates":[-81.962907,34.827831],"type":"Point"}
 }

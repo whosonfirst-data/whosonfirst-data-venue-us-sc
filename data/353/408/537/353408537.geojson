@@ -2,13 +2,14 @@
   "id": 353408537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.757501,32.217381,-80.757501,32.217381",
     "geom:latitude":32.217381,
     "geom:longitude":-80.757501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 William Hilton Pkwy",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353408537,
-    "wof:lastmodified":1449018561,
+    "wof:lastmodified":1467082216,
     "wof:name":"Gullah Flea Market",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "market"
     ]
 },
-  "bbox": [-80.757501,32.217381,-80.757501,32.217381],
+  "bbox": [
+    -80.757501,
+    32.217381,
+    -80.757501,
+    32.217381
+],
   "geometry": {"coordinates":[-80.757501,32.217381],"type":"Point"}
 }

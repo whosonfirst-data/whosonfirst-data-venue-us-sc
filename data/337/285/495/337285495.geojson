@@ -2,13 +2,14 @@
   "id": 337285495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.959494,32.709069,-79.959494,32.709069",
     "geom:latitude":32.709069,
     "geom:longitude":-79.959494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Westmoreland Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337285495,
-    "wof:lastmodified":1449026955,
+    "wof:lastmodified":1467082265,
     "wof:name":"Sls Trucking",
     "wof:parent_id":85847603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transporting"
     ]
 },
-  "bbox": [-79.959494,32.709069,-79.959494,32.709069],
-  "geometry": {"coordinates":[-79.959494,32.709069],"type":"Point"}
+  "bbox": [
+    -79.959494,
+    32.709069,
+    -79.959494,
+    32.709069
+],
+  "geometry": {"coordinates":[-79.95949400000001,32.709069],"type":"Point"}
 }

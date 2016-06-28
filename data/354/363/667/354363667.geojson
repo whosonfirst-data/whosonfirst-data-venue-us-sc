@@ -2,13 +2,14 @@
   "id": 354363667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.861046,33.486164,-80.861046,33.486164",
     "geom:latitude":33.486164,
     "geom:longitude":-80.861046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1198 Glover St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354363667,
-    "wof:lastmodified":1449067466,
+    "wof:lastmodified":1467082449,
     "wof:name":"Williams Chapel AME Church",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.861046,33.486164,-80.861046,33.486164],
+  "bbox": [
+    -80.861046,
+    33.486164,
+    -80.861046,
+    33.486164
+],
   "geometry": {"coordinates":[-80.861046,33.486164],"type":"Point"}
 }

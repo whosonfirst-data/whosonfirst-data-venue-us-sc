@@ -2,13 +2,14 @@
   "id": 186152749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.036136,34.738209,-82.036136,34.738209",
     "geom:latitude":34.738209,
     "geom:longitude":-82.036136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S Main St",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186152749,
-    "wof:lastmodified":1449052386,
+    "wof:lastmodified":1467082407,
     "wof:name":"Rusty Nails Antiques",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-82.036136,34.738209,-82.036136,34.738209],
+  "bbox": [
+    -82.036136,
+    34.738209,
+    -82.036136,
+    34.738209
+],
   "geometry": {"coordinates":[-82.036136,34.738209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353753087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.254011,35.016582,-81.254011,35.016582",
     "geom:latitude":35.016582,
     "geom:longitude":-81.254011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Blessed Hope Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353753087,
-    "wof:lastmodified":1449018551,
+    "wof:lastmodified":1467082216,
     "wof:name":"Blessed Hope Baptist Church",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.254011,35.016582,-81.254011,35.016582],
-  "geometry": {"coordinates":[-81.254011,35.016582],"type":"Point"}
+  "bbox": [
+    -81.254011,
+    35.016582,
+    -81.254011,
+    35.016582
+],
+  "geometry": {"coordinates":[-81.25401100000001,35.016582],"type":"Point"}
 }

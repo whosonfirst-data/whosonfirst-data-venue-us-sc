@@ -2,13 +2,14 @@
   "id": 354078937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.848439,33.677071,-79.848439,33.677071",
     "geom:latitude":33.677071,
     "geom:longitude":-79.848439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Nathan Rd",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354078937,
-    "wof:lastmodified":1449067385,
+    "wof:lastmodified":1467082448,
     "wof:name":"G I Tutorial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tutoring"
     ]
 },
-  "bbox": [-79.848439,33.677071,-79.848439,33.677071],
+  "bbox": [
+    -79.848439,
+    33.677071,
+    -79.848439,
+    33.677071
+],
   "geometry": {"coordinates":[-79.848439,33.677071],"type":"Point"}
 }

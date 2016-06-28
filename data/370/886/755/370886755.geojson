@@ -2,13 +2,14 @@
   "id": 370886755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.301091,34.92663,-82.301091,34.92663",
     "geom:latitude":34.92663,
     "geom:longitude":-82.301091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4384 Wade Hampton Blvd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370886755,
-    "wof:lastmodified":1449030940,
+    "wof:lastmodified":1467082339,
     "wof:name":"Palmetto Auto Sales & Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.301091,34.92663,-82.301091,34.92663],
+  "bbox": [
+    -82.301091,
+    34.92663,
+    -82.301091,
+    34.92663
+],
   "geometry": {"coordinates":[-82.301091,34.92663],"type":"Point"}
 }

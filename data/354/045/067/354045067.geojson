@@ -2,13 +2,14 @@
   "id": 354045067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.359489,34.877482,-82.359489,34.877482",
     "geom:latitude":34.877482,
     "geom:longitude":-82.359489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1336 N Pleasantburg Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354045067,
-    "wof:lastmodified":1449067471,
+    "wof:lastmodified":1467082449,
     "wof:name":"Factory Furn Co of Greenville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-82.359489,34.877482,-82.359489,34.877482],
+  "bbox": [
+    -82.359489,
+    34.877482,
+    -82.359489,
+    34.877482
+],
   "geometry": {"coordinates":[-82.359489,34.877482],"type":"Point"}
 }

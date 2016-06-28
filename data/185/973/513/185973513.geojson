@@ -2,13 +2,14 @@
   "id": 185973513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.183193,33.014021,-80.183193,33.014021",
     "geom:latitude":33.014021,
     "geom:longitude":-80.183193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Sumter Ave",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185973513,
-    "wof:lastmodified":1449007580,
+    "wof:lastmodified":1467082197,
     "wof:name":"Sam Cothran",
     "wof:parent_id":85847227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-80.183193,33.014021,-80.183193,33.014021],
+  "bbox": [
+    -80.183193,
+    33.014021,
+    -80.183193,
+    33.014021
+],
   "geometry": {"coordinates":[-80.183193,33.014021],"type":"Point"}
 }

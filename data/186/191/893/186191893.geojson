@@ -2,13 +2,14 @@
   "id": 186191893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.070391,32.890952,-80.070391,32.890952",
     "geom:latitude":32.890952,
     "geom:longitude":-80.070391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7035 Dorchester Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186191893,
-    "wof:lastmodified":1449051987,
+    "wof:lastmodified":1467082403,
     "wof:name":"Riverbend Christian Academy",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.070391,32.890952,-80.070391,32.890952],
+  "bbox": [
+    -80.070391,
+    32.890952,
+    -80.070391,
+    32.890952
+],
   "geometry": {"coordinates":[-80.070391,32.890952],"type":"Point"}
 }

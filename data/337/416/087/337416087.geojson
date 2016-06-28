@@ -2,13 +2,14 @@
   "id": 337416087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.365402,33.243492,-81.365402,33.243492",
     "geom:latitude":33.243492,
     "geom:longitude":-81.365402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Main St",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337416087,
-    "wof:lastmodified":1449027307,
+    "wof:lastmodified":1467082279,
     "wof:name":"Richardson Financial Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-81.365402,33.243492,-81.365402,33.243492],
+  "bbox": [
+    -81.365402,
+    33.243492,
+    -81.365402,
+    33.243492
+],
   "geometry": {"coordinates":[-81.365402,33.243492],"type":"Point"}
 }

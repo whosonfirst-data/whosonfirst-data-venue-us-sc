@@ -2,13 +2,14 @@
   "id": 354093839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.885929,33.685768,-78.885929,33.685768",
     "geom:latitude":33.685768,
     "geom:longitude":-78.885929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N Ocean Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354093839,
-    "wof:lastmodified":1449065926,
+    "wof:lastmodified":1467082414,
     "wof:name":"Darlington Apartments",
     "wof:parent_id":85859339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-78.885929,33.685768,-78.885929,33.685768],
+  "bbox": [
+    -78.885929,
+    33.685768,
+    -78.885929,
+    33.685768
+],
   "geometry": {"coordinates":[-78.885929,33.685768],"type":"Point"}
 }

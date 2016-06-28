@@ -2,13 +2,14 @@
   "id": 185729981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.946872,33.990283,-80.946872,33.990283",
     "geom:latitude":33.990283,
     "geom:longitude":-80.946872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Castle Hall Ln",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185729981,
-    "wof:lastmodified":1449007444,
+    "wof:lastmodified":1467082195,
     "wof:name":"B B R Holding Co Inc",
     "wof:parent_id":85841209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "partition"
     ]
 },
-  "bbox": [-80.946872,33.990283,-80.946872,33.990283],
+  "bbox": [
+    -80.946872,
+    33.990283,
+    -80.946872,
+    33.990283
+],
   "geometry": {"coordinates":[-80.946872,33.990283],"type":"Point"}
 }

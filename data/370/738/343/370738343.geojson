@@ -2,13 +2,14 @@
   "id": 370738343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.315448,34.849887,-82.315448,34.849887",
     "geom:latitude":34.849887,
     "geom:longitude":-82.315448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Roper Mountain Rd Exd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370738343,
-    "wof:lastmodified":1449031571,
+    "wof:lastmodified":1467082353,
     "wof:name":"Bantex International Inc",
     "wof:parent_id":85829925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "equipment"
     ]
 },
-  "bbox": [-82.315448,34.849887,-82.315448,34.849887],
+  "bbox": [
+    -82.315448,
+    34.849887,
+    -82.315448,
+    34.849887
+],
   "geometry": {"coordinates":[-82.315448,34.849887],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370626447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.286,34.859885,-82.286,34.859885",
     "geom:latitude":34.859885,
     "geom:longitude":-82.286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Lexington Place Way",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370626447,
-    "wof:lastmodified":1449032473,
+    "wof:lastmodified":1467082373,
     "wof:name":"Trade Street Workout Corp",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.286,34.859885,-82.286,34.859885],
+  "bbox": [
+    -82.286,
+    34.859885,
+    -82.286,
+    34.859885
+],
   "geometry": {"coordinates":[-82.286,34.859885],"type":"Point"}
 }

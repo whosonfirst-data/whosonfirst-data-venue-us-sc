@@ -2,13 +2,14 @@
   "id": 354131575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.954518,32.796148,-79.954518,32.796148",
     "geom:latitude":32.796148,
     "geom:longitude":-79.954518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 President St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354131575,
-    "wof:lastmodified":1449066418,
+    "wof:lastmodified":1467082425,
     "wof:name":"On The Market Tours",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "promoter"
     ]
 },
-  "bbox": [-79.954518,32.796148,-79.954518,32.796148],
-  "geometry": {"coordinates":[-79.954518,32.796148],"type":"Point"}
+  "bbox": [
+    -79.954518,
+    32.796148,
+    -79.954518,
+    32.796148
+],
+  "geometry": {"coordinates":[-79.95451799999999,32.796148],"type":"Point"}
 }

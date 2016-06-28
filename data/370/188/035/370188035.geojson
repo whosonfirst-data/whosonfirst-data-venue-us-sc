@@ -2,13 +2,14 @@
   "id": 370188035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.824178,32.834925,-79.824178,32.834925",
     "geom:latitude":32.834925,
     "geom:longitude":-79.824178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 US Hwy 17 N",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370188035,
-    "wof:lastmodified":1449030759,
+    "wof:lastmodified":1467082335,
     "wof:name":"Palmetto Plantation Apartments",
     "wof:parent_id":85840345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-79.824178,32.834925,-79.824178,32.834925],
+  "bbox": [
+    -79.824178,
+    32.834925,
+    -79.824178,
+    32.834925
+],
   "geometry": {"coordinates":[-79.824178,32.834925],"type":"Point"}
 }

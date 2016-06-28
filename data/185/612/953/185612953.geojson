@@ -2,13 +2,14 @@
   "id": 185612953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.402717,34.844778,-82.402717,34.844778",
     "geom:latitude":34.844778,
     "geom:longitude":-82.402717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 S Main St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185612953,
-    "wof:lastmodified":1449007320,
+    "wof:lastmodified":1467082193,
     "wof:name":"BMW Car Clubs Of America",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.402717,34.844778,-82.402717,34.844778],
+  "bbox": [
+    -82.402717,
+    34.844778,
+    -82.402717,
+    34.844778
+],
   "geometry": {"coordinates":[-82.402717,34.844778],"type":"Point"}
 }

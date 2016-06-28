@@ -2,13 +2,14 @@
   "id": 370213169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.001081,32.853256,-80.001081,32.853256",
     "geom:latitude":32.853256,
     "geom:longitude":-80.001081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2695 Rourk St",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370213169,
-    "wof:lastmodified":1449029106,
+    "wof:lastmodified":1467082299,
     "wof:name":"Transportation SC Dept",
     "wof:parent_id":85807225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transport"
     ]
 },
-  "bbox": [-80.001081,32.853256,-80.001081,32.853256],
+  "bbox": [
+    -80.001081,
+    32.853256,
+    -80.001081,
+    32.853256
+],
   "geometry": {"coordinates":[-80.001081,32.853256],"type":"Point"}
 }

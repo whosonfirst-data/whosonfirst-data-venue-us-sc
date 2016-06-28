@@ -2,13 +2,14 @@
   "id": 353833439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.011454,35.012551,-81.011454,35.012551",
     "geom:latitude":35.012551,
     "geom:longitude":-81.011454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4037 India Hook Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353833439,
-    "wof:lastmodified":1449018574,
+    "wof:lastmodified":1467082216,
     "wof:name":"Natural Resources Dept",
     "wof:parent_id":85810107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-81.011454,35.012551,-81.011454,35.012551],
+  "bbox": [
+    -81.011454,
+    35.012551,
+    -81.011454,
+    35.012551
+],
   "geometry": {"coordinates":[-81.011454,35.012551],"type":"Point"}
 }

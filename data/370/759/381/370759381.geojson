@@ -2,13 +2,14 @@
   "id": 370759381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.856743,33.47207,-80.856743,33.47207",
     "geom:latitude":33.47207,
     "geom:longitude":-80.856743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Murray Rd SW",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370759381,
-    "wof:lastmodified":1449032526,
+    "wof:lastmodified":1467082375,
     "wof:name":"Mellichamp Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.856743,33.47207,-80.856743,33.47207],
-  "geometry": {"coordinates":[-80.856743,33.47207],"type":"Point"}
+  "bbox": [
+    -80.856743,
+    33.47207,
+    -80.856743,
+    33.47207
+],
+  "geometry": {"coordinates":[-80.85674299999999,33.47207],"type":"Point"}
 }

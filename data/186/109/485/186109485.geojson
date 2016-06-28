@@ -2,13 +2,14 @@
   "id": 186109485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.943581,33.645199,-78.943581,33.645199",
     "geom:latitude":33.645199,
     "geom:longitude":-78.943581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4850 S Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186109485,
-    "wof:lastmodified":1449051323,
+    "wof:lastmodified":1467082397,
     "wof:name":"Crazy Shirts Inc",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "t"
     ]
 },
-  "bbox": [-78.943581,33.645199,-78.943581,33.645199],
-  "geometry": {"coordinates":[-78.943581,33.645199],"type":"Point"}
+  "bbox": [
+    -78.943581,
+    33.645199,
+    -78.943581,
+    33.645199
+],
+  "geometry": {"coordinates":[-78.94358099999999,33.645199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370505247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.079873,34.013083,-81.079873,34.013083",
     "geom:latitude":34.013083,
     "geom:longitude":-81.079873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Candi Ln",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370505247,
-    "wof:lastmodified":1449031906,
+    "wof:lastmodified":1467082361,
     "wof:name":"World Harvest Ministries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.079873,34.013083,-81.079873,34.013083],
-  "geometry": {"coordinates":[-81.079873,34.013083],"type":"Point"}
+  "bbox": [
+    -81.079873,
+    34.013083,
+    -81.079873,
+    34.013083
+],
+  "geometry": {"coordinates":[-81.07987300000001,34.013083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370584857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.721353,32.213079,-80.721353,32.213079",
     "geom:latitude":32.213079,
     "geom:longitude":-80.721353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Lafayette Pl",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370584857,
-    "wof:lastmodified":1449029459,
+    "wof:lastmodified":1467082306,
     "wof:name":"Sunbelt Business Brokers",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-80.721353,32.213079,-80.721353,32.213079],
-  "geometry": {"coordinates":[-80.721353,32.213079],"type":"Point"}
+  "bbox": [
+    -80.721353,
+    32.213079,
+    -80.721353,
+    32.213079
+],
+  "geometry": {"coordinates":[-80.72135299999999,32.213079],"type":"Point"}
 }

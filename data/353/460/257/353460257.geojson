@@ -2,13 +2,14 @@
   "id": 353460257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.660791,34.529252,-82.660791,34.529252",
     "geom:latitude":34.529252,
     "geom:longitude":-82.660791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2503 N Main St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353460257,
-    "wof:lastmodified":1449020653,
+    "wof:lastmodified":1467082259,
     "wof:name":"Anderson Skin & Cancer Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.660791,34.529252,-82.660791,34.529252],
+  "bbox": [
+    -82.660791,
+    34.529252,
+    -82.660791,
+    34.529252
+],
   "geometry": {"coordinates":[-82.660791,34.529252],"type":"Point"}
 }

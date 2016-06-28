@@ -2,13 +2,14 @@
   "id": 370538157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.261355,34.743314,-82.261355,34.743314",
     "geom:latitude":34.743314,
     "geom:longitude":-82.261355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Rose Ln",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370538157,
-    "wof:lastmodified":1449029518,
+    "wof:lastmodified":1467082308,
     "wof:name":"Hillcrest Heights Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.261355,34.743314,-82.261355,34.743314],
-  "geometry": {"coordinates":[-82.261355,34.743314],"type":"Point"}
+  "bbox": [
+    -82.261355,
+    34.743314,
+    -82.261355,
+    34.743314
+],
+  "geometry": {"coordinates":[-82.26135499999999,34.743314],"type":"Point"}
 }

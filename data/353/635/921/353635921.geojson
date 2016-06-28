@@ -2,13 +2,14 @@
   "id": 353635921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.995994,34.001295,-80.995994,34.001295",
     "geom:latitude":34.001295,
     "geom:longitude":-80.995994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3145 Carlisle St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353635921,
-    "wof:lastmodified":1449019363,
+    "wof:lastmodified":1467082232,
     "wof:name":"Resource Communications",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-80.995994,34.001295,-80.995994,34.001295],
+  "bbox": [
+    -80.995994,
+    34.001295,
+    -80.995994,
+    34.001295
+],
   "geometry": {"coordinates":[-80.995994,34.001295],"type":"Point"}
 }

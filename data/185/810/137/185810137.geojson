@@ -2,13 +2,14 @@
   "id": 185810137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.8791,34.298432,-79.8791,34.298432",
     "geom:latitude":34.298432,
     "geom:longitude":-79.8791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Pearl St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185810137,
-    "wof:lastmodified":1449007084,
+    "wof:lastmodified":1467082189,
     "wof:name":"Georges Drive Inn",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.8791,34.298432,-79.8791,34.298432],
-  "geometry": {"coordinates":[-79.8791,34.298432],"type":"Point"}
+  "bbox": [
+    -79.8791,
+    34.298432,
+    -79.8791,
+    34.298432
+],
+  "geometry": {"coordinates":[-79.87909999999999,34.298432],"type":"Point"}
 }

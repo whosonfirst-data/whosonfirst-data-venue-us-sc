@@ -2,13 +2,14 @@
   "id": 370245137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.417335,34.843581,-82.417335,34.843581",
     "geom:latitude":34.843581,
     "geom:longitude":-82.417335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 Pendleton St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370245137,
-    "wof:lastmodified":1449032359,
+    "wof:lastmodified":1467082371,
     "wof:name":"Aerie Engineering",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-82.417335,34.843581,-82.417335,34.843581],
-  "geometry": {"coordinates":[-82.417335,34.843581],"type":"Point"}
+  "bbox": [
+    -82.417335,
+    34.843581,
+    -82.417335,
+    34.843581
+],
+  "geometry": {"coordinates":[-82.41733499999999,34.843581],"type":"Point"}
 }

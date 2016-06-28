@@ -2,13 +2,14 @@
   "id": 370765371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.937841,32.781021,-79.937841,32.781021",
     "geom:latitude":32.781021,
     "geom:longitude":-79.937841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Wentworth St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370765371,
-    "wof:lastmodified":1449031032,
+    "wof:lastmodified":1467082341,
     "wof:name":"Brett C Dunmill DDS",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-79.937841,32.781021,-79.937841,32.781021],
-  "geometry": {"coordinates":[-79.937841,32.781021],"type":"Point"}
+  "bbox": [
+    -79.937841,
+    32.781021,
+    -79.937841,
+    32.781021
+],
+  "geometry": {"coordinates":[-79.93784100000001,32.781021],"type":"Point"}
 }

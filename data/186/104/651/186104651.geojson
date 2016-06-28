@@ -2,13 +2,14 @@
   "id": 186104651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.095829,32.99346,-80.095829,32.99346",
     "geom:latitude":32.99346,
     "geom:longitude":-80.095829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Wimberly Dr",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186104651,
-    "wof:lastmodified":1449051481,
+    "wof:lastmodified":1467082398,
     "wof:name":"Eagle Transport & Recovery",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.095829,32.99346,-80.095829,32.99346],
-  "geometry": {"coordinates":[-80.095829,32.99346],"type":"Point"}
+  "bbox": [
+    -80.095829,
+    32.99346,
+    -80.095829,
+    32.99346
+],
+  "geometry": {"coordinates":[-80.09582899999999,32.99346],"type":"Point"}
 }

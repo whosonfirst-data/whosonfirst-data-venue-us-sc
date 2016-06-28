@@ -2,13 +2,14 @@
   "id": 370874839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.396578,34.774509,-82.396578,34.774509",
     "geom:latitude":34.774509,
     "geom:longitude":-82.396578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Bluff Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370874839,
-    "wof:lastmodified":1449032247,
+    "wof:lastmodified":1467082368,
     "wof:name":"S L Campbell DDS",
     "wof:parent_id":85832615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.396578,34.774509,-82.396578,34.774509],
-  "geometry": {"coordinates":[-82.396578,34.774509],"type":"Point"}
+  "bbox": [
+    -82.396578,
+    34.774509,
+    -82.396578,
+    34.774509
+],
+  "geometry": {"coordinates":[-82.39657800000001,34.774509],"type":"Point"}
 }

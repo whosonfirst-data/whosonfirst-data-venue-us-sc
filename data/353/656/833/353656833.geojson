@@ -2,13 +2,14 @@
   "id": 353656833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.801287,34.189938,-79.801287,34.189938",
     "geom:latitude":34.189938,
     "geom:longitude":-79.801287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1719 W Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353656833,
-    "wof:lastmodified":1449019902,
+    "wof:lastmodified":1467082243,
     "wof:name":"Suit City",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furnishing"
     ]
 },
-  "bbox": [-79.801287,34.189938,-79.801287,34.189938],
+  "bbox": [
+    -79.801287,
+    34.189938,
+    -79.801287,
+    34.189938
+],
   "geometry": {"coordinates":[-79.801287,34.189938],"type":"Point"}
 }

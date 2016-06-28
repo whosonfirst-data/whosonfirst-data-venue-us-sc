@@ -2,13 +2,14 @@
   "id": 186225445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.224167,34.247353,-82.224167,34.247353",
     "geom:latitude":34.247353,
     "geom:longitude":-82.224167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Dixie Dr",
     "sg:city":"Hodges",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186225445,
-    "wof:lastmodified":1449051214,
+    "wof:lastmodified":1467082396,
     "wof:name":"Jimsco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.224167,34.247353,-82.224167,34.247353],
-  "geometry": {"coordinates":[-82.224167,34.247353],"type":"Point"}
+  "bbox": [
+    -82.224167,
+    34.247353,
+    -82.224167,
+    34.247353
+],
+  "geometry": {"coordinates":[-82.22416699999999,34.247353],"type":"Point"}
 }

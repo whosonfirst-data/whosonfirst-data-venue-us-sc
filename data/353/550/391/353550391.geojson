@@ -2,13 +2,14 @@
   "id": 353550391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.346153,34.739725,-82.346153,34.739725",
     "geom:latitude":34.739725,
     "geom:longitude":-82.346153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Brentwood Cir",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353550391,
-    "wof:lastmodified":1449019640,
+    "wof:lastmodified":1467082238,
     "wof:name":"Grimsleys Construction Inc",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-82.346153,34.739725,-82.346153,34.739725],
+  "bbox": [
+    -82.346153,
+    34.739725,
+    -82.346153,
+    34.739725
+],
   "geometry": {"coordinates":[-82.346153,34.739725],"type":"Point"}
 }

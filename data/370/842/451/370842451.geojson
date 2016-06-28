@@ -2,13 +2,14 @@
   "id": 370842451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.759408,32.156736,-80.759408,32.156736",
     "geom:latitude":32.156736,
     "geom:longitude":-80.759408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Arrow Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370842451,
-    "wof:lastmodified":1449029334,
+    "wof:lastmodified":1467082303,
     "wof:name":"Barbara Walton Graphics",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-80.759408,32.156736,-80.759408,32.156736],
-  "geometry": {"coordinates":[-80.759408,32.156736],"type":"Point"}
+  "bbox": [
+    -80.759408,
+    32.156736,
+    -80.759408,
+    32.156736
+],
+  "geometry": {"coordinates":[-80.75940799999999,32.156736],"type":"Point"}
 }

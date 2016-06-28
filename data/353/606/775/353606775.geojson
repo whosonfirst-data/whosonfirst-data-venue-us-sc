@@ -2,13 +2,14 @@
   "id": 353606775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.008892,34.005789,-81.008892,34.005789",
     "geom:latitude":34.005789,
     "geom:longitude":-81.008892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2457 Millwood Ave",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353606775,
-    "wof:lastmodified":1449018649,
+    "wof:lastmodified":1467082218,
     "wof:name":"Montgomery Creative Styles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.008892,34.005789,-81.008892,34.005789],
+  "bbox": [
+    -81.008892,
+    34.005789,
+    -81.008892,
+    34.005789
+],
   "geometry": {"coordinates":[-81.008892,34.005789],"type":"Point"}
 }

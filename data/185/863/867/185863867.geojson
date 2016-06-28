@@ -2,13 +2,14 @@
   "id": 185863867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.235252,33.887628,-79.235252,33.887628",
     "geom:latitude":33.887628,
     "geom:longitude":-79.235252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9253 Pee Dee Hwy",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185863867,
-    "wof:lastmodified":1449007701,
+    "wof:lastmodified":1467082199,
     "wof:name":"A-Plus Auto Glass",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-79.235252,33.887628,-79.235252,33.887628],
+  "bbox": [
+    -79.235252,
+    33.887628,
+    -79.235252,
+    33.887628
+],
   "geometry": {"coordinates":[-79.235252,33.887628],"type":"Point"}
 }

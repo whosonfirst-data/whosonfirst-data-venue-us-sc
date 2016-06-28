@@ -2,13 +2,14 @@
   "id": 370299057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.309379,33.927655,-80.309379,33.927655",
     "geom:latitude":33.927655,
     "geom:longitude":-80.309379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 E Liberty St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370299057,
-    "wof:lastmodified":1449029957,
+    "wof:lastmodified":1467082317,
     "wof:name":"Merita Bakeries",
     "wof:parent_id":85855087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-80.309379,33.927655,-80.309379,33.927655],
-  "geometry": {"coordinates":[-80.309379,33.927655],"type":"Point"}
+  "bbox": [
+    -80.309379,
+    33.927655,
+    -80.309379,
+    33.927655
+],
+  "geometry": {"coordinates":[-80.30937900000001,33.927655],"type":"Point"}
 }

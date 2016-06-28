@@ -2,13 +2,14 @@
   "id": 370722059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.305854,34.788953,-82.305854,34.788953",
     "geom:latitude":34.788953,
     "geom:longitude":-82.305854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Miller Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370722059,
-    "wof:lastmodified":1449030278,
+    "wof:lastmodified":1467082324,
     "wof:name":"Miller Oaks Village Apartments",
     "wof:parent_id":85851381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.305854,34.788953,-82.305854,34.788953],
+  "bbox": [
+    -82.305854,
+    34.788953,
+    -82.305854,
+    34.788953
+],
   "geometry": {"coordinates":[-82.305854,34.788953],"type":"Point"}
 }

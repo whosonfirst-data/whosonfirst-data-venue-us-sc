@@ -2,13 +2,14 @@
   "id": 370253757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.955392,32.730149,-79.955392,32.730149",
     "geom:latitude":32.730149,
     "geom:longitude":-79.955392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 Mount Vernon Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370253757,
-    "wof:lastmodified":1449032057,
+    "wof:lastmodified":1467082364,
     "wof:name":"All Good Dogs",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.955392,32.730149,-79.955392,32.730149],
+  "bbox": [
+    -79.955392,
+    32.730149,
+    -79.955392,
+    32.730149
+],
   "geometry": {"coordinates":[-79.955392,32.730149],"type":"Point"}
 }

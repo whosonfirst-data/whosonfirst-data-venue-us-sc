@@ -2,13 +2,14 @@
   "id": 353667463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.771873,34.73803,-80.771873,34.73803",
     "geom:latitude":34.73803,
     "geom:longitude":-80.771873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 Dalton Ridge Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353667463,
-    "wof:lastmodified":1449019913,
+    "wof:lastmodified":1467082243,
     "wof:name":"Dalton Ridge Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.771873,34.73803,-80.771873,34.73803],
+  "bbox": [
+    -80.771873,
+    34.73803,
+    -80.771873,
+    34.73803
+],
   "geometry": {"coordinates":[-80.771873,34.73803],"type":"Point"}
 }

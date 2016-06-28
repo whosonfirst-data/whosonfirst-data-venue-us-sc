@@ -2,13 +2,14 @@
   "id": 185989247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.962601,32.718494,-79.962601,32.718494",
     "geom:latitude":32.718494,
     "geom:longitude":-79.962601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 Fort Johnson Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185989247,
-    "wof:lastmodified":1449007769,
+    "wof:lastmodified":1467082200,
     "wof:name":"3d Electrical Inc",
     "wof:parent_id":85847603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.962601,32.718494,-79.962601,32.718494],
-  "geometry": {"coordinates":[-79.962601,32.718494],"type":"Point"}
+  "bbox": [
+    -79.962601,
+    32.718494,
+    -79.962601,
+    32.718494
+],
+  "geometry": {"coordinates":[-79.96260100000001,32.718494],"type":"Point"}
 }

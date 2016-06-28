@@ -2,13 +2,14 @@
   "id": 186080099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.724485,32.214751,-80.724485,32.214751",
     "geom:latitude":32.214751,
     "geom:longitude":-80.724485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 Main St",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186080099,
-    "wof:lastmodified":1449052964,
+    "wof:lastmodified":1467082412,
     "wof:name":"Salon 5200 Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.724485,32.214751,-80.724485,32.214751],
+  "bbox": [
+    -80.724485,
+    32.214751,
+    -80.724485,
+    32.214751
+],
   "geometry": {"coordinates":[-80.724485,32.214751],"type":"Point"}
 }

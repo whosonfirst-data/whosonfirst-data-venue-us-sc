@@ -2,13 +2,14 @@
   "id": 186021475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.237371,33.531523,-79.237371,33.531523",
     "geom:latitude":33.531523,
     "geom:longitude":-79.237371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11650 N Fraser St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186021475,
-    "wof:lastmodified":1449052061,
+    "wof:lastmodified":1467082404,
     "wof:name":"Scientific Games Intl Inc",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-79.237371,33.531523,-79.237371,33.531523],
+  "bbox": [
+    -79.237371,
+    33.531523,
+    -79.237371,
+    33.531523
+],
   "geometry": {"coordinates":[-79.237371,33.531523],"type":"Point"}
 }

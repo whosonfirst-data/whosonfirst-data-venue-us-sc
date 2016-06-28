@@ -2,13 +2,14 @@
   "id": 337417153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.824711,33.668037,-79.824711,33.668037",
     "geom:latitude":33.668037,
     "geom:longitude":-79.824711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Brooks St",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337417153,
-    "wof:lastmodified":1449027269,
+    "wof:lastmodified":1467082278,
     "wof:name":"Weaver Realty Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-79.824711,33.668037,-79.824711,33.668037],
-  "geometry": {"coordinates":[-79.824711,33.668037],"type":"Point"}
+  "bbox": [
+    -79.824711,
+    33.668037,
+    -79.824711,
+    33.668037
+],
+  "geometry": {"coordinates":[-79.82471099999999,33.668037],"type":"Point"}
 }

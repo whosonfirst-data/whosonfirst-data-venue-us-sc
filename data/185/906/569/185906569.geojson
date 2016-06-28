@@ -2,13 +2,14 @@
   "id": 185906569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.364338,33.241016,-81.364338,33.241016",
     "geom:latitude":33.241016,
     "geom:longitude":-81.364338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Jefferson St",
     "sg:city":"Plum Branch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185906569,
-    "wof:lastmodified":1449007220,
+    "wof:lastmodified":1467082192,
     "wof:name":"Heritage Press Intl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-81.364338,33.241016,-81.364338,33.241016],
+  "bbox": [
+    -81.364338,
+    33.241016,
+    -81.364338,
+    33.241016
+],
   "geometry": {"coordinates":[-81.364338,33.241016],"type":"Point"}
 }

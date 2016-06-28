@@ -2,13 +2,14 @@
   "id": 353664059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.791514,34.184404,-79.791514,34.184404",
     "geom:latitude":34.184404,
     "geom:longitude":-79.791514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Cherokee Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353664059,
-    "wof:lastmodified":1449019202,
+    "wof:lastmodified":1467082229,
     "wof:name":"Palmetto Infusion",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-79.791514,34.184404,-79.791514,34.184404],
-  "geometry": {"coordinates":[-79.791514,34.184404],"type":"Point"}
+  "bbox": [
+    -79.791514,
+    34.184404,
+    -79.791514,
+    34.184404
+],
+  "geometry": {"coordinates":[-79.79151400000001,34.184404],"type":"Point"}
 }

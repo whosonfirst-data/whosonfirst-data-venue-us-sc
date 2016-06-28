@@ -2,13 +2,14 @@
   "id": 354065411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.97795,32.856085,-79.97795,32.856085",
     "geom:latitude":32.856085,
     "geom:longitude":-79.97795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2104 Commander Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354065411,
-    "wof:lastmodified":1449067656,
+    "wof:lastmodified":1467082454,
     "wof:name":"West Ashley Property Mgmt Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-79.97795,32.856085,-79.97795,32.856085],
-  "geometry": {"coordinates":[-79.97795,32.856085],"type":"Point"}
+  "bbox": [
+    -79.97795,
+    32.856085,
+    -79.97795,
+    32.856085
+],
+  "geometry": {"coordinates":[-79.97795000000001,32.856085],"type":"Point"}
 }

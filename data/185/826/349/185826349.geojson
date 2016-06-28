@@ -2,13 +2,14 @@
   "id": 185826349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.027156,32.907885,-80.027156,32.907885",
     "geom:latitude":32.907885,
     "geom:longitude":-80.027156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6155 Fain Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185826349,
-    "wof:lastmodified":1449007761,
+    "wof:lastmodified":1467082200,
     "wof:name":"Hideaway Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-80.027156,32.907885,-80.027156,32.907885],
-  "geometry": {"coordinates":[-80.027156,32.907885],"type":"Point"}
+  "bbox": [
+    -80.027156,
+    32.907885,
+    -80.027156,
+    32.907885
+],
+  "geometry": {"coordinates":[-80.02715600000001,32.907885],"type":"Point"}
 }

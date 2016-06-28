@@ -2,13 +2,14 @@
   "id": 354269923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.608973,34.288932,-81.608973,34.288932",
     "geom:latitude":34.288932,
     "geom:longitude":-81.608973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2603 Evans St",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354269923,
-    "wof:lastmodified":1449067028,
+    "wof:lastmodified":1467082439,
     "wof:name":"Newberry County EMS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ambulance"
     ]
 },
-  "bbox": [-81.608973,34.288932,-81.608973,34.288932],
-  "geometry": {"coordinates":[-81.608973,34.288932],"type":"Point"}
+  "bbox": [
+    -81.608973,
+    34.288932,
+    -81.608973,
+    34.288932
+],
+  "geometry": {"coordinates":[-81.60897300000001,34.288932],"type":"Point"}
 }

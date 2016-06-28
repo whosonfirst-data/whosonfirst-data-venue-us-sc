@@ -2,13 +2,14 @@
   "id": 337407955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.931376,32.779976,-79.931376,32.779976",
     "geom:latitude":32.779976,
     "geom:longitude":-79.931376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Meeting St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337407955,
-    "wof:lastmodified":1449027395,
+    "wof:lastmodified":1467082282,
     "wof:name":"Republic Parking System",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-79.931376,32.779976,-79.931376,32.779976],
+  "bbox": [
+    -79.931376,
+    32.779976,
+    -79.931376,
+    32.779976
+],
   "geometry": {"coordinates":[-79.931376,32.779976],"type":"Point"}
 }

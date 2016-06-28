@@ -2,13 +2,14 @@
   "id": 337303343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.387661,34.851494,-82.387661,34.851494",
     "geom:latitude":34.851494,
     "geom:longitude":-82.387661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Whitsett St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337303343,
-    "wof:lastmodified":1449026939,
+    "wof:lastmodified":1467082265,
     "wof:name":"Patrick & Steele",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.387661,34.851494,-82.387661,34.851494],
-  "geometry": {"coordinates":[-82.387661,34.851494],"type":"Point"}
+  "bbox": [
+    -82.387661,
+    34.851494,
+    -82.387661,
+    34.851494
+],
+  "geometry": {"coordinates":[-82.38766099999999,34.851494],"type":"Point"}
 }

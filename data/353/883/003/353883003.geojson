@@ -2,13 +2,14 @@
   "id": 353883003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.01812,34.499427,-82.01812,34.499427",
     "geom:latitude":34.499427,
     "geom:longitude":-82.01812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"269 W Laurens St",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353883003,
-    "wof:lastmodified":1449020218,
+    "wof:lastmodified":1467082250,
     "wof:name":"B & P Professional Bails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-82.01812,34.499427,-82.01812,34.499427],
+  "bbox": [
+    -82.01812,
+    34.499427,
+    -82.01812,
+    34.499427
+],
   "geometry": {"coordinates":[-82.01812,34.499427],"type":"Point"}
 }

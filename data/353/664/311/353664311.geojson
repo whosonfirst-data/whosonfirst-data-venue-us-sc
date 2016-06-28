@@ -2,13 +2,14 @@
   "id": 353664311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.885108,34.060332,-78.885108,34.060332",
     "geom:latitude":34.060332,
     "geom:longitude":-78.885108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4612 Broad St",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353664311,
-    "wof:lastmodified":1449019203,
+    "wof:lastmodified":1467082229,
     "wof:name":"Custom Detailing & Truck",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-78.885108,34.060332,-78.885108,34.060332],
+  "bbox": [
+    -78.885108,
+    34.060332,
+    -78.885108,
+    34.060332
+],
   "geometry": {"coordinates":[-78.885108,34.060332],"type":"Point"}
 }

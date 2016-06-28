@@ -2,13 +2,14 @@
   "id": 354175027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.872139,32.809306,-79.872139,32.809306",
     "geom:latitude":32.809306,
     "geom:longitude":-79.872139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 Allbritton Blvd",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354175027,
-    "wof:lastmodified":1449067152,
+    "wof:lastmodified":1467082442,
     "wof:name":"China Royal Inc",
     "wof:parent_id":85848217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.872139,32.809306,-79.872139,32.809306],
+  "bbox": [
+    -79.872139,
+    32.809306,
+    -79.872139,
+    32.809306
+],
   "geometry": {"coordinates":[-79.872139,32.809306],"type":"Point"}
 }

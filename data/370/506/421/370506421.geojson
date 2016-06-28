@@ -2,13 +2,14 @@
   "id": 370506421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.023625,34.061767,-81.023625,34.061767",
     "geom:latitude":34.061767,
     "geom:longitude":-81.023625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5623 Fairfield Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370506421,
-    "wof:lastmodified":1449029141,
+    "wof:lastmodified":1467082299,
     "wof:name":"Churpeyes Inc",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.023625,34.061767,-81.023625,34.061767],
+  "bbox": [
+    -81.023625,
+    34.061767,
+    -81.023625,
+    34.061767
+],
   "geometry": {"coordinates":[-81.023625,34.061767],"type":"Point"}
 }

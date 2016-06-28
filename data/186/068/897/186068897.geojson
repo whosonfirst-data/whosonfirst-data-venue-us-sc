@@ -2,13 +2,14 @@
   "id": 186068897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.922492,34.977078,-81.922492,34.977078",
     "geom:latitude":34.977078,
     "geom:longitude":-81.922492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 Barnwell Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186068897,
-    "wof:lastmodified":1449051754,
+    "wof:lastmodified":1467082401,
     "wof:name":"Total Plumbing Co",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.922492,34.977078,-81.922492,34.977078],
-  "geometry": {"coordinates":[-81.922492,34.977078],"type":"Point"}
+  "bbox": [
+    -81.922492,
+    34.977078,
+    -81.922492,
+    34.977078
+],
+  "geometry": {"coordinates":[-81.92249200000001,34.977078],"type":"Point"}
 }

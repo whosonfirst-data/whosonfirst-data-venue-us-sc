@@ -2,13 +2,14 @@
   "id": 353620923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.026077,32.854428,-80.026077,32.854428",
     "geom:latitude":32.854428,
     "geom:longitude":-80.026077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4018 Dorsey Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353620923,
-    "wof:lastmodified":1449020593,
+    "wof:lastmodified":1467082257,
     "wof:name":"Iglesia Ni Cristo-Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.026077,32.854428,-80.026077,32.854428],
+  "bbox": [
+    -80.026077,
+    32.854428,
+    -80.026077,
+    32.854428
+],
   "geometry": {"coordinates":[-80.026077,32.854428],"type":"Point"}
 }

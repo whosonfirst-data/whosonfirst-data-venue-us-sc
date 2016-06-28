@@ -2,13 +2,14 @@
   "id": 353563673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.996788,33.811178,-78.996788,33.811178",
     "geom:latitude":33.811178,
     "geom:longitude":-78.996788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"938 Jamestown Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353563673,
-    "wof:lastmodified":1449018294,
+    "wof:lastmodified":1467082211,
     "wof:name":"A Superior Cleaning Co",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-78.996788,33.811178,-78.996788,33.811178],
+  "bbox": [
+    -78.996788,
+    33.811178,
+    -78.996788,
+    33.811178
+],
   "geometry": {"coordinates":[-78.996788,33.811178],"type":"Point"}
 }

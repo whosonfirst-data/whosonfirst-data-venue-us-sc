@@ -2,13 +2,14 @@
   "id": 353959873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.089173,35.043076,-82.089173,35.043076",
     "geom:latitude":35.043076,
     "geom:longitude":-82.089173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 S Main St",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353959873,
-    "wof:lastmodified":1449020548,
+    "wof:lastmodified":1467082256,
     "wof:name":"B & H ABC Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.089173,35.043076,-82.089173,35.043076],
+  "bbox": [
+    -82.089173,
+    35.043076,
+    -82.089173,
+    35.043076
+],
   "geometry": {"coordinates":[-82.089173,35.043076],"type":"Point"}
 }

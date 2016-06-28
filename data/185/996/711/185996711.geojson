@@ -2,13 +2,14 @@
   "id": 185996711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.985334,33.643151,-78.985334,33.643151",
     "geom:latitude":33.643151,
     "geom:longitude":-78.985334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2751 Beaver Run Blvd",
     "sg:city":"Surfside Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185996711,
-    "wof:lastmodified":1449007046,
+    "wof:lastmodified":1467082189,
     "wof:name":"Singleton Eye Clinic",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.985334,33.643151,-78.985334,33.643151],
-  "geometry": {"coordinates":[-78.985334,33.643151],"type":"Point"}
+  "bbox": [
+    -78.985334,
+    33.643151,
+    -78.985334,
+    33.643151
+],
+  "geometry": {"coordinates":[-78.98533399999999,33.643151],"type":"Point"}
 }

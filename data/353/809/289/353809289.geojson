@@ -2,13 +2,14 @@
   "id": 353809289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.113142,34.226223,-82.113142,34.226223",
     "geom:latitude":34.226223,
     "geom:longitude":-82.113142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2418 US Hwy 221",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353809289,
-    "wof:lastmodified":1449020370,
+    "wof:lastmodified":1467082253,
     "wof:name":"Cobourn & Saleeby",
     "wof:parent_id":85843643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.113142,34.226223,-82.113142,34.226223],
+  "bbox": [
+    -82.113142,
+    34.226223,
+    -82.113142,
+    34.226223
+],
   "geometry": {"coordinates":[-82.113142,34.226223],"type":"Point"}
 }

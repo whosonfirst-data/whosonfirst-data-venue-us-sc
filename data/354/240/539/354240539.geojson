@@ -2,13 +2,14 @@
   "id": 354240539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.979122,34.596127,-82.979122,34.596127",
     "geom:latitude":34.596127,
     "geom:longitude":-82.979122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8409 W Oak Hwy",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354240539,
-    "wof:lastmodified":1449066110,
+    "wof:lastmodified":1467082419,
     "wof:name":"Absolute Medical Svc Corp",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.979122,34.596127,-82.979122,34.596127],
+  "bbox": [
+    -82.979122,
+    34.596127,
+    -82.979122,
+    34.596127
+],
   "geometry": {"coordinates":[-82.979122,34.596127],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185959963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.763258,34.082676,-79.763258,34.082676",
     "geom:latitude":34.082676,
     "geom:longitude":-79.763258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5318 S Irby St",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185959963,
-    "wof:lastmodified":1449008060,
+    "wof:lastmodified":1467082205,
     "wof:name":"King's Bail Bonds",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-79.763258,34.082676,-79.763258,34.082676],
-  "geometry": {"coordinates":[-79.763258,34.082676],"type":"Point"}
+  "bbox": [
+    -79.763258,
+    34.082676,
+    -79.763258,
+    34.082676
+],
+  "geometry": {"coordinates":[-79.76325799999999,34.082676],"type":"Point"}
 }

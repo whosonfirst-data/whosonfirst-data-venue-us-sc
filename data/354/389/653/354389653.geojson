@@ -2,13 +2,14 @@
   "id": 354389653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.143255,34.890762,-82.143255,34.890762",
     "geom:latitude":34.890762,
     "geom:longitude":-82.143255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1060 Rogers Bridge Rd",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354389653,
-    "wof:lastmodified":1449067280,
+    "wof:lastmodified":1467082445,
     "wof:name":"N W White & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gravel"
     ]
 },
-  "bbox": [-82.143255,34.890762,-82.143255,34.890762],
+  "bbox": [
+    -82.143255,
+    34.890762,
+    -82.143255,
+    34.890762
+],
   "geometry": {"coordinates":[-82.143255,34.890762],"type":"Point"}
 }

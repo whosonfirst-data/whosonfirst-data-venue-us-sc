@@ -2,13 +2,14 @@
   "id": 186170523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.777962,34.115721,-79.777962,34.115721",
     "geom:latitude":34.115721,
     "geom:longitude":-79.777962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3864 Brookfield Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186170523,
-    "wof:lastmodified":1449050489,
+    "wof:lastmodified":1467082390,
     "wof:name":"Locklair Welding Shop",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.777962,34.115721,-79.777962,34.115721],
+  "bbox": [
+    -79.777962,
+    34.115721,
+    -79.777962,
+    34.115721
+],
   "geometry": {"coordinates":[-79.777962,34.115721],"type":"Point"}
 }

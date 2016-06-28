@@ -2,13 +2,14 @@
   "id": 353560937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.249856,33.987569,-81.249856,33.987569",
     "geom:latitude":33.987569,
     "geom:longitude":-81.249856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Park Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353560937,
-    "wof:lastmodified":1449020208,
+    "wof:lastmodified":1467082250,
     "wof:name":"Richard H Harrelson Insurance",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.249856,33.987569,-81.249856,33.987569],
-  "geometry": {"coordinates":[-81.249856,33.987569],"type":"Point"}
+  "bbox": [
+    -81.249856,
+    33.987569,
+    -81.249856,
+    33.987569
+],
+  "geometry": {"coordinates":[-81.24985599999999,33.987569],"type":"Point"}
 }

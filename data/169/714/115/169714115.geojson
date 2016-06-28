@@ -2,13 +2,14 @@
   "id": 169714115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.009789,32.887005,-80.009789,32.887005",
     "geom:latitude":32.887005,
     "geom:longitude":-80.009789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5128 Rivers Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169714115,
-    "wof:lastmodified":1449034313,
+    "wof:lastmodified":1467082383,
     "wof:name":"Factor Five",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-80.009789,32.887005,-80.009789,32.887005],
+  "bbox": [
+    -80.009789,
+    32.887005,
+    -80.009789,
+    32.887005
+],
   "geometry": {"coordinates":[-80.009789,32.887005],"type":"Point"}
 }

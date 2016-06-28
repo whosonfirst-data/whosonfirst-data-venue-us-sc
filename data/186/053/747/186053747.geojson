@@ -2,13 +2,14 @@
   "id": 186053747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.124629,34.89908,-81.124629,34.89908",
     "geom:latitude":34.89908,
     "geom:longitude":-81.124629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3550 Oak Park Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186053747,
-    "wof:lastmodified":1449050910,
+    "wof:lastmodified":1467082393,
     "wof:name":"C Smith Barnette & Sons Farm",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-81.124629,34.89908,-81.124629,34.89908],
+  "bbox": [
+    -81.124629,
+    34.89908,
+    -81.124629,
+    34.89908
+],
   "geometry": {"coordinates":[-81.124629,34.89908],"type":"Point"}
 }

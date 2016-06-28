@@ -2,13 +2,14 @@
   "id": 370361419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.763664,34.667738,-80.763664,34.667738",
     "geom:latitude":34.667738,
     "geom:longitude":-80.763664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1789 Lynwood Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370361419,
-    "wof:lastmodified":1449031561,
+    "wof:lastmodified":1467082353,
     "wof:name":"Tad's Gym",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-80.763664,34.667738,-80.763664,34.667738],
-  "geometry": {"coordinates":[-80.763664,34.667738],"type":"Point"}
+  "bbox": [
+    -80.763664,
+    34.667738,
+    -80.763664,
+    34.667738
+],
+  "geometry": {"coordinates":[-80.76366400000001,34.667738],"type":"Point"}
 }

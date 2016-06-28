@@ -2,13 +2,14 @@
   "id": 370800155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.152273,34.119896,-81.152273,34.119896",
     "geom:latitude":34.119896,
     "geom:longitude":-81.152273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Peachtree Dr",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370800155,
-    "wof:lastmodified":1449029355,
+    "wof:lastmodified":1467082304,
     "wof:name":"Mop & Glow",
     "wof:parent_id":85831475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maid"
     ]
 },
-  "bbox": [-81.152273,34.119896,-81.152273,34.119896],
-  "geometry": {"coordinates":[-81.152273,34.119896],"type":"Point"}
+  "bbox": [
+    -81.152273,
+    34.119896,
+    -81.152273,
+    34.119896
+],
+  "geometry": {"coordinates":[-81.15227299999999,34.119896],"type":"Point"}
 }

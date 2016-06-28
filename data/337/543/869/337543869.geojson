@@ -2,13 +2,14 @@
   "id": 337543869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.424879,34.832923,-82.424879,34.832923",
     "geom:latitude":34.832923,
     "geom:longitude":-82.424879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 Honour St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337543869,
-    "wof:lastmodified":1449027082,
+    "wof:lastmodified":1467082270,
     "wof:name":"Way Of Holiness",
     "wof:parent_id":85811527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.424879,34.832923,-82.424879,34.832923],
+  "bbox": [
+    -82.424879,
+    34.832923,
+    -82.424879,
+    34.832923
+],
   "geometry": {"coordinates":[-82.424879,34.832923],"type":"Point"}
 }

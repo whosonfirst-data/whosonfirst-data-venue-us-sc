@@ -2,13 +2,14 @@
   "id": 370898059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.35597,33.222148,-81.35597,33.222148",
     "geom:latitude":33.222148,
     "geom:longitude":-81.35597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8011 Marlboro Ave",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370898059,
-    "wof:lastmodified":1449028999,
+    "wof:lastmodified":1467082296,
     "wof:name":"Horton Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.35597,33.222148,-81.35597,33.222148],
+  "bbox": [
+    -81.35597,
+    33.222148,
+    -81.35597,
+    33.222148
+],
   "geometry": {"coordinates":[-81.35597,33.222148],"type":"Point"}
 }

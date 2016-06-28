@@ -2,13 +2,14 @@
   "id": 370176113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.668256,34.638828,-79.668256,34.638828",
     "geom:latitude":34.638828,
     "geom:longitude":-79.668256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 Gibson St",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370176113,
-    "wof:lastmodified":1449031285,
+    "wof:lastmodified":1467082347,
     "wof:name":"Moody's Sandwich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.668256,34.638828,-79.668256,34.638828],
+  "bbox": [
+    -79.668256,
+    34.638828,
+    -79.668256,
+    34.638828
+],
   "geometry": {"coordinates":[-79.668256,34.638828],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337406419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.054814,35.16197,-82.054814,35.16197",
     "geom:latitude":35.16197,
     "geom:longitude":-82.054814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Grassland Rd",
     "sg:city":"Campobello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337406419,
-    "wof:lastmodified":1449027385,
+    "wof:lastmodified":1467082282,
     "wof:name":"Babb S Grading Landscapin",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-82.054814,35.16197,-82.054814,35.16197],
-  "geometry": {"coordinates":[-82.054814,35.16197],"type":"Point"}
+  "bbox": [
+    -82.054814,
+    35.16197,
+    -82.054814,
+    35.16197
+],
+  "geometry": {"coordinates":[-82.05481399999999,35.16197],"type":"Point"}
 }

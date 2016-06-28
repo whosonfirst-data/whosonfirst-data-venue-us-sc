@@ -2,13 +2,14 @@
   "id": 186057133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.012038,34.024663,-81.012038,34.024663",
     "geom:latitude":34.024663,
     "geom:longitude":-81.012038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2339 Notch Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186057133,
-    "wof:lastmodified":1449051702,
+    "wof:lastmodified":1467082400,
     "wof:name":"U-Haul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "utility"
     ]
 },
-  "bbox": [-81.012038,34.024663,-81.012038,34.024663],
+  "bbox": [
+    -81.012038,
+    34.024663,
+    -81.012038,
+    34.024663
+],
   "geometry": {"coordinates":[-81.012038,34.024663],"type":"Point"}
 }

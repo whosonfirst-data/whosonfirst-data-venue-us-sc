@@ -2,13 +2,14 @@
   "id": 337519345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.698687,33.575677,-81.698687,33.575677",
     "geom:latitude":33.575677,
     "geom:longitude":-81.698687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 Cornish St",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337519345,
-    "wof:lastmodified":1449027687,
+    "wof:lastmodified":1467082293,
     "wof:name":"John Wade Plumbing Repair",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.698687,33.575677,-81.698687,33.575677],
-  "geometry": {"coordinates":[-81.698687,33.575677],"type":"Point"}
+  "bbox": [
+    -81.698687,
+    33.575677,
+    -81.698687,
+    33.575677
+],
+  "geometry": {"coordinates":[-81.69868700000001,33.575677],"type":"Point"}
 }

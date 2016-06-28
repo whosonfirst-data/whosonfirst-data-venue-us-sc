@@ -2,13 +2,14 @@
   "id": 370219441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.163262,33.03624,-80.163262,33.03624",
     "geom:latitude":33.03624,
     "geom:longitude":-80.163262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Varnfield Dr",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370219441,
-    "wof:lastmodified":1449032330,
+    "wof:lastmodified":1467082370,
     "wof:name":"COPA Converting",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.163262,33.03624,-80.163262,33.03624],
+  "bbox": [
+    -80.163262,
+    33.03624,
+    -80.163262,
+    33.03624
+],
   "geometry": {"coordinates":[-80.163262,33.03624],"type":"Point"}
 }

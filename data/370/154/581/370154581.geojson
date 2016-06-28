@@ -2,13 +2,14 @@
   "id": 370154581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.998224,34.001547,-80.998224,34.001547",
     "geom:latitude":34.001547,
     "geom:longitude":-80.998224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3008 Millwood Ave",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370154581,
-    "wof:lastmodified":1449032519,
+    "wof:lastmodified":1467082375,
     "wof:name":"South Carolina Speech Language",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "speech"
     ]
 },
-  "bbox": [-80.998224,34.001547,-80.998224,34.001547],
-  "geometry": {"coordinates":[-80.998224,34.001547],"type":"Point"}
+  "bbox": [
+    -80.998224,
+    34.001547,
+    -80.998224,
+    34.001547
+],
+  "geometry": {"coordinates":[-80.99822399999999,34.001547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353875087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.951818,32.812459,-79.951818,32.812459",
     "geom:latitude":32.812459,
     "geom:longitude":-79.951818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2106 Mount Pleasant St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353875087,
-    "wof:lastmodified":1449020147,
+    "wof:lastmodified":1467082248,
     "wof:name":"Charleston County Housing Auth",
     "wof:parent_id":85836137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "housing"
     ]
 },
-  "bbox": [-79.951818,32.812459,-79.951818,32.812459],
+  "bbox": [
+    -79.951818,
+    32.812459,
+    -79.951818,
+    32.812459
+],
   "geometry": {"coordinates":[-79.951818,32.812459],"type":"Point"}
 }

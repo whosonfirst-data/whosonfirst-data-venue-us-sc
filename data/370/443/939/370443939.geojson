@@ -2,13 +2,14 @@
   "id": 370443939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.228237,34.788558,-82.228237,34.788558",
     "geom:latitude":34.788558,
     "geom:longitude":-82.228237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Moncton Pl",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370443939,
-    "wof:lastmodified":1449031846,
+    "wof:lastmodified":1467082360,
     "wof:name":"Clean Sweep Chimney Sweeps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "chimney"
     ]
 },
-  "bbox": [-82.228237,34.788558,-82.228237,34.788558],
-  "geometry": {"coordinates":[-82.228237,34.788558],"type":"Point"}
+  "bbox": [
+    -82.228237,
+    34.788558,
+    -82.228237,
+    34.788558
+],
+  "geometry": {"coordinates":[-82.22823699999999,34.788558],"type":"Point"}
 }

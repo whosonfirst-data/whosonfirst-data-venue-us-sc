@@ -2,13 +2,14 @@
   "id": 354130507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.14091,33.452952,-79.14091,33.452952",
     "geom:latitude":33.452952,
     "geom:longitude":-79.14091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"193 Great Lakes Rd",
     "sg:city":"Pawleys Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354130507,
-    "wof:lastmodified":1449066500,
+    "wof:lastmodified":1467082427,
     "wof:name":"Coastel Carolina Consulting",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.14091,33.452952,-79.14091,33.452952],
-  "geometry": {"coordinates":[-79.14091,33.452952],"type":"Point"}
+  "bbox": [
+    -79.14091,
+    33.452952,
+    -79.14091,
+    33.452952
+],
+  "geometry": {"coordinates":[-79.14091000000001,33.452952],"type":"Point"}
 }

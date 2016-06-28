@@ -2,13 +2,14 @@
   "id": 337329835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.886915,33.684741,-78.886915,33.684741",
     "geom:latitude":33.684741,
     "geom:longitude":-78.886915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N Ocean Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337329835,
-    "wof:lastmodified":1449027163,
+    "wof:lastmodified":1467082274,
     "wof:name":"Seven Brothers Restaurant",
     "wof:parent_id":85859339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.886915,33.684741,-78.886915,33.684741],
+  "bbox": [
+    -78.886915,
+    33.684741,
+    -78.886915,
+    33.684741
+],
   "geometry": {"coordinates":[-78.886915,33.684741],"type":"Point"}
 }

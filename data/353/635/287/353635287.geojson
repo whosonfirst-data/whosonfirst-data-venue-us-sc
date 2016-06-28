@@ -2,13 +2,14 @@
   "id": 353635287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.759186,33.862265,-79.759186,33.862265",
     "geom:latitude":33.862265,
     "geom:longitude":-79.759186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"433 S Church St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353635287,
-    "wof:lastmodified":1449019357,
+    "wof:lastmodified":1467082232,
     "wof:name":"Quality Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-79.759186,33.862265,-79.759186,33.862265],
+  "bbox": [
+    -79.759186,
+    33.862265,
+    -79.759186,
+    33.862265
+],
   "geometry": {"coordinates":[-79.759186,33.862265],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337339849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.113049,34.014711,-81.113049,34.014711",
     "geom:latitude":34.014711,
     "geom:longitude":-81.113049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2228 Quail Hollow Ln",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337339849,
-    "wof:lastmodified":1449027302,
+    "wof:lastmodified":1467082279,
     "wof:name":"Real World Ventures LLC",
     "wof:parent_id":85857097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.113049,34.014711,-81.113049,34.014711],
+  "bbox": [
+    -81.113049,
+    34.014711,
+    -81.113049,
+    34.014711
+],
   "geometry": {"coordinates":[-81.113049,34.014711],"type":"Point"}
 }

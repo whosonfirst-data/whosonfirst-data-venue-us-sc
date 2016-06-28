@@ -2,13 +2,14 @@
   "id": 186057869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.405306,34.834205,-82.405306,34.834205",
     "geom:latitude":34.834205,
     "geom:longitude":-82.405306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 Augusta St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186057869,
-    "wof:lastmodified":1449051702,
+    "wof:lastmodified":1467082400,
     "wof:name":"Front Porch",
     "wof:parent_id":85802935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.405306,34.834205,-82.405306,34.834205],
+  "bbox": [
+    -82.405306,
+    34.834205,
+    -82.405306,
+    34.834205
+],
   "geometry": {"coordinates":[-82.405306,34.834205],"type":"Point"}
 }

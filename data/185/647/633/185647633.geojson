@@ -2,13 +2,14 @@
   "id": 185647633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.302412,34.771657,-82.302412,34.771657",
     "geom:latitude":34.771657,
     "geom:longitude":-82.302412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Winchester Ct",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185647633,
-    "wof:lastmodified":1449007384,
+    "wof:lastmodified":1467082194,
     "wof:name":"Fowler & Grant Engineering Inc",
     "wof:parent_id":85858653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-82.302412,34.771657,-82.302412,34.771657],
+  "bbox": [
+    -82.302412,
+    34.771657,
+    -82.302412,
+    34.771657
+],
   "geometry": {"coordinates":[-82.302412,34.771657],"type":"Point"}
 }

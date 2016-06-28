@@ -2,13 +2,14 @@
   "id": 354384149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.071768,34.371503,-80.071768,34.371503",
     "geom:latitude":34.371503,
     "geom:longitude":-80.071768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 S 5th St",
     "sg:city":"Hartsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354384149,
-    "wof:lastmodified":1449066155,
+    "wof:lastmodified":1467082419,
     "wof:name":"Quick Credit Corp",
     "wof:parent_id":85811765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-80.071768,34.371503,-80.071768,34.371503],
-  "geometry": {"coordinates":[-80.071768,34.371503],"type":"Point"}
+  "bbox": [
+    -80.071768,
+    34.371503,
+    -80.071768,
+    34.371503
+],
+  "geometry": {"coordinates":[-80.07176800000001,34.371503],"type":"Point"}
 }

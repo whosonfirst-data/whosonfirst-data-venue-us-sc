@@ -2,13 +2,14 @@
   "id": 185719517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.417458,34.722675,-82.417458,34.722675",
     "geom:latitude":34.722675,
     "geom:longitude":-82.417458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Piedmont Golf Course Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185719517,
-    "wof:lastmodified":1449006807,
+    "wof:lastmodified":1467082185,
     "wof:name":"Digital Advertising Inc",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "signage"
     ]
 },
-  "bbox": [-82.417458,34.722675,-82.417458,34.722675],
+  "bbox": [
+    -82.417458,
+    34.722675,
+    -82.417458,
+    34.722675
+],
   "geometry": {"coordinates":[-82.417458,34.722675],"type":"Point"}
 }

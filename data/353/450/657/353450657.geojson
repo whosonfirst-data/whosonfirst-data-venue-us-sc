@@ -2,13 +2,14 @@
   "id": 353450657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.671953,33.818059,-78.671953,33.818059",
     "geom:latitude":33.818059,
     "geom:longitude":-78.671953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Main St",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353450657,
-    "wof:lastmodified":1449020428,
+    "wof:lastmodified":1467082254,
     "wof:name":"Spanish Galleon",
     "wof:parent_id":85826955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "night"
     ]
 },
-  "bbox": [-78.671953,33.818059,-78.671953,33.818059],
+  "bbox": [
+    -78.671953,
+    33.818059,
+    -78.671953,
+    33.818059
+],
   "geometry": {"coordinates":[-78.671953,33.818059],"type":"Point"}
 }

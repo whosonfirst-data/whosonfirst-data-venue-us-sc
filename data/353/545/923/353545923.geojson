@@ -2,13 +2,14 @@
   "id": 353545923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.015004,32.967585,-80.015004,32.967585",
     "geom:latitude":32.967585,
     "geom:longitude":-80.015004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Coral Dr",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353545923,
-    "wof:lastmodified":1449018876,
+    "wof:lastmodified":1467082222,
     "wof:name":"Drywall Services",
     "wof:parent_id":85823911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.015004,32.967585,-80.015004,32.967585],
+  "bbox": [
+    -80.015004,
+    32.967585,
+    -80.015004,
+    32.967585
+],
   "geometry": {"coordinates":[-80.015004,32.967585],"type":"Point"}
 }

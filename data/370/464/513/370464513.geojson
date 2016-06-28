@@ -2,13 +2,14 @@
   "id": 370464513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.613616,33.754004,-81.613616,33.754004",
     "geom:latitude":33.754004,
     "geom:longitude":-81.613616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1395 Dairy Rd",
     "sg:city":"Ridge Spring",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370464513,
-    "wof:lastmodified":1449030019,
+    "wof:lastmodified":1467082319,
     "wof:name":"Ridgeway Sanitation",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-81.613616,33.754004,-81.613616,33.754004],
-  "geometry": {"coordinates":[-81.613616,33.754004],"type":"Point"}
+  "bbox": [
+    -81.613616,
+    33.754004,
+    -81.613616,
+    33.754004
+],
+  "geometry": {"coordinates":[-81.61361599999999,33.754004],"type":"Point"}
 }

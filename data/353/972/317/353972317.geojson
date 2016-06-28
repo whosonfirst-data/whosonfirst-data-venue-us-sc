@@ -2,13 +2,14 @@
   "id": 353972317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.95246,33.31182,-79.95246,33.31182",
     "geom:latitude":33.31182,
     "geom:longitude":-79.95246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1748 US Hwy 52",
     "sg:city":"Bonneau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353972317,
-    "wof:lastmodified":1449019542,
+    "wof:lastmodified":1467082236,
     "wof:name":"Nolen Morris Construction",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-79.95246,33.31182,-79.95246,33.31182],
+  "bbox": [
+    -79.95246,
+    33.31182,
+    -79.95246,
+    33.31182
+],
   "geometry": {"coordinates":[-79.95246,33.31182],"type":"Point"}
 }

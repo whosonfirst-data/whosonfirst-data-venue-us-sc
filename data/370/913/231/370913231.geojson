@@ -2,13 +2,14 @@
   "id": 370913231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.401442,34.180729,-79.401442,34.180729",
     "geom:latitude":34.180729,
     "geom:longitude":-79.401442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Tom Gasque Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370913231,
-    "wof:lastmodified":1449030389,
+    "wof:lastmodified":1467082327,
     "wof:name":"James A Belous CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-79.401442,34.180729,-79.401442,34.180729],
+  "bbox": [
+    -79.401442,
+    34.180729,
+    -79.401442,
+    34.180729
+],
   "geometry": {"coordinates":[-79.401442,34.180729],"type":"Point"}
 }

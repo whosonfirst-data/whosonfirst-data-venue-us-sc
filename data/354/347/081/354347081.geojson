@@ -2,13 +2,14 @@
   "id": 354347081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.279087,33.499383,-81.279087,33.499383",
     "geom:latitude":33.499383,
     "geom:longitude":-81.279087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Georgia St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354347081,
-    "wof:lastmodified":1449066735,
+    "wof:lastmodified":1467082433,
     "wof:name":"Alice's Charter Limo Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-81.279087,33.499383,-81.279087,33.499383],
+  "bbox": [
+    -81.279087,
+    33.499383,
+    -81.279087,
+    33.499383
+],
   "geometry": {"coordinates":[-81.279087,33.499383],"type":"Point"}
 }

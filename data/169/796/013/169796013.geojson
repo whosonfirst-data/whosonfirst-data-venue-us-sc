@@ -2,13 +2,14 @@
   "id": 169796013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.297416,32.504269,-80.297416,32.504269",
     "geom:latitude":32.504269,
     "geom:longitude":-80.297416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Jungle Rd",
     "sg:city":"Edisto Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169796013,
-    "wof:lastmodified":1449034238,
+    "wof:lastmodified":1467082382,
     "wof:name":"Ruby Sea Horse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.297416,32.504269,-80.297416,32.504269],
+  "bbox": [
+    -80.297416,
+    32.504269,
+    -80.297416,
+    32.504269
+],
   "geometry": {"coordinates":[-80.297416,32.504269],"type":"Point"}
 }

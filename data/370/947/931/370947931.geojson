@@ -2,13 +2,14 @@
   "id": 370947931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.779412,32.850924,-79.779412,32.850924",
     "geom:latitude":32.850924,
     "geom:longitude":-79.779412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1433 Lagoon Park Cir",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370947931,
-    "wof:lastmodified":1449031545,
+    "wof:lastmodified":1467082353,
     "wof:name":"Palmetto Putting Greens Inc",
     "wof:parent_id":85842745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-79.779412,32.850924,-79.779412,32.850924],
-  "geometry": {"coordinates":[-79.779412,32.850924],"type":"Point"}
+  "bbox": [
+    -79.779412,
+    32.850924,
+    -79.779412,
+    32.850924
+],
+  "geometry": {"coordinates":[-79.77941199999999,32.850924],"type":"Point"}
 }

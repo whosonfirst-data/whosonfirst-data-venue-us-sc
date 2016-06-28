@@ -2,13 +2,14 @@
   "id": 353821421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.401019,34.872014,-82.401019,34.872014",
     "geom:latitude":34.872014,
     "geom:longitude":-82.401019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Rutherford Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353821421,
-    "wof:lastmodified":1449019651,
+    "wof:lastmodified":1467082238,
     "wof:name":"Mt View Holiness Church",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.401019,34.872014,-82.401019,34.872014],
-  "geometry": {"coordinates":[-82.401019,34.872014],"type":"Point"}
+  "bbox": [
+    -82.401019,
+    34.872014,
+    -82.401019,
+    34.872014
+],
+  "geometry": {"coordinates":[-82.40101900000001,34.872014],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370950103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.830206,33.739113,-78.830206,33.739113",
     "geom:latitude":33.739113,
     "geom:longitude":-78.830206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6313 Wildwood Trl",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370950103,
-    "wof:lastmodified":1449030402,
+    "wof:lastmodified":1467082327,
     "wof:name":"Commercial Video Corp",
     "wof:parent_id":85825231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-78.830206,33.739113,-78.830206,33.739113],
+  "bbox": [
+    -78.830206,
+    33.739113,
+    -78.830206,
+    33.739113
+],
   "geometry": {"coordinates":[-78.830206,33.739113],"type":"Point"}
 }

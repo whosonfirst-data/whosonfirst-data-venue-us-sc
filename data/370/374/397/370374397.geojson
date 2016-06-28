@@ -2,13 +2,14 @@
   "id": 370374397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.329665,33.00735,-80.329665,33.00735",
     "geom:latitude":33.00735,
     "geom:longitude":-80.329665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 State Hwy 61",
     "sg:city":"Ridgeville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370374397,
-    "wof:lastmodified":1449030563,
+    "wof:lastmodified":1467082331,
     "wof:name":"Magnolia Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.329665,33.00735,-80.329665,33.00735],
-  "geometry": {"coordinates":[-80.329665,33.00735],"type":"Point"}
+  "bbox": [
+    -80.329665,
+    33.00735,
+    -80.329665,
+    33.00735
+],
+  "geometry": {"coordinates":[-80.32966500000001,33.00735],"type":"Point"}
 }

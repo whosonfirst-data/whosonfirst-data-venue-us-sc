@@ -2,13 +2,14 @@
   "id": 370710139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.190812,35.176945,-82.190812,35.176945",
     "geom:latitude":35.176945,
     "geom:longitude":-82.190812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 N Trade Ave",
     "sg:city":"Landrum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370710139,
-    "wof:lastmodified":1449029288,
+    "wof:lastmodified":1467082302,
     "wof:name":"Petty Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-82.190812,35.176945,-82.190812,35.176945],
-  "geometry": {"coordinates":[-82.190812,35.176945],"type":"Point"}
+  "bbox": [
+    -82.190812,
+    35.176945,
+    -82.190812,
+    35.176945
+],
+  "geometry": {"coordinates":[-82.19081199999999,35.176945],"type":"Point"}
 }

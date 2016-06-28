@@ -2,13 +2,14 @@
   "id": 169831541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.076085,32.921201,-80.076085,32.921201",
     "geom:latitude":32.921201,
     "geom:longitude":-80.076085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7300 Peppermill Pkwy",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169831541,
-    "wof:lastmodified":1449034624,
+    "wof:lastmodified":1467082384,
     "wof:name":"European Image Salon Suppliers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.076085,32.921201,-80.076085,32.921201],
-  "geometry": {"coordinates":[-80.076085,32.921201],"type":"Point"}
+  "bbox": [
+    -80.076085,
+    32.921201,
+    -80.076085,
+    32.921201
+],
+  "geometry": {"coordinates":[-80.07608500000001,32.921201],"type":"Point"}
 }

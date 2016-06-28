@@ -2,13 +2,14 @@
   "id": 354362079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.935081,34.952596,-81.935081,34.952596",
     "geom:latitude":34.952596,
     "geom:longitude":-81.935081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"298 Magnolia St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354362079,
-    "wof:lastmodified":1449067069,
+    "wof:lastmodified":1467082440,
     "wof:name":"Spartanburg Convention Bureau",
     "wof:parent_id":85826389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "convention"
     ]
 },
-  "bbox": [-81.935081,34.952596,-81.935081,34.952596],
+  "bbox": [
+    -81.935081,
+    34.952596,
+    -81.935081,
+    34.952596
+],
   "geometry": {"coordinates":[-81.935081,34.952596],"type":"Point"}
 }

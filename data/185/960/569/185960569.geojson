@@ -2,13 +2,14 @@
   "id": 185960569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.994484,32.811825,-79.994484,32.811825",
     "geom:latitude":32.811825,
     "geom:longitude":-79.994484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1596 Ingram Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185960569,
-    "wof:lastmodified":1449007750,
+    "wof:lastmodified":1467082200,
     "wof:name":"Atlantic Renovations Inc",
     "wof:parent_id":85839447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.994484,32.811825,-79.994484,32.811825],
+  "bbox": [
+    -79.994484,
+    32.811825,
+    -79.994484,
+    32.811825
+],
   "geometry": {"coordinates":[-79.994484,32.811825],"type":"Point"}
 }

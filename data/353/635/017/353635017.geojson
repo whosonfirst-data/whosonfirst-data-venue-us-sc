@@ -2,13 +2,14 @@
   "id": 353635017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.016146,33.988479,-81.016146,33.988479",
     "geom:latitude":33.988479,
     "geom:longitude":-81.016146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1727 Hollywood Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353635017,
-    "wof:lastmodified":1449019358,
+    "wof:lastmodified":1467082232,
     "wof:name":"Sally Speth",
     "wof:parent_id":85826029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.016146,33.988479,-81.016146,33.988479],
-  "geometry": {"coordinates":[-81.016146,33.988479],"type":"Point"}
+  "bbox": [
+    -81.016146,
+    33.988479,
+    -81.016146,
+    33.988479
+],
+  "geometry": {"coordinates":[-81.01614600000001,33.988479],"type":"Point"}
 }

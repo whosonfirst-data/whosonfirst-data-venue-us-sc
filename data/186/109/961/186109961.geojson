@@ -2,13 +2,14 @@
   "id": 186109961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.73191,33.517363,-81.73191,33.517363",
     "geom:latitude":33.517363,
     "geom:longitude":-81.73191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Medinah Dr",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186109961,
-    "wof:lastmodified":1449051328,
+    "wof:lastmodified":1467082397,
     "wof:name":"Aiken Home Improvement",
     "wof:parent_id":85812071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.73191,33.517363,-81.73191,33.517363],
+  "bbox": [
+    -81.73191,
+    33.517363,
+    -81.73191,
+    33.517363
+],
   "geometry": {"coordinates":[-81.73191,33.517363],"type":"Point"}
 }

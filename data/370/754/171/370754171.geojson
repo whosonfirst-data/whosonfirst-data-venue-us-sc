@@ -2,13 +2,14 @@
   "id": 370754171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.159303,35.091215,-81.159303,35.091215",
     "geom:latitude":35.091215,
     "geom:longitude":-81.159303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2199 State Hwy 55 E",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370754171,
-    "wof:lastmodified":1449031291,
+    "wof:lastmodified":1467082347,
     "wof:name":"Clinton's Appliance Svc",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-81.159303,35.091215,-81.159303,35.091215],
-  "geometry": {"coordinates":[-81.159303,35.091215],"type":"Point"}
+  "bbox": [
+    -81.159303,
+    35.091215,
+    -81.159303,
+    35.091215
+],
+  "geometry": {"coordinates":[-81.15930299999999,35.091215],"type":"Point"}
 }

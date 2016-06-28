@@ -2,13 +2,14 @@
   "id": 353562671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.420933,33.40127,-81.420933,33.40127",
     "geom:latitude":33.40127,
     "geom:longitude":-81.420933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 E Main St",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353562671,
-    "wof:lastmodified":1449019607,
+    "wof:lastmodified":1467082237,
     "wof:name":"Whittle Motor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.420933,33.40127,-81.420933,33.40127],
-  "geometry": {"coordinates":[-81.420933,33.40127],"type":"Point"}
+  "bbox": [
+    -81.420933,
+    33.40127,
+    -81.420933,
+    33.40127
+],
+  "geometry": {"coordinates":[-81.42093300000001,33.40127],"type":"Point"}
 }

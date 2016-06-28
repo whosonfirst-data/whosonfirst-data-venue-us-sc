@@ -2,13 +2,14 @@
   "id": 353681501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.781996,34.115751,-79.781996,34.115751",
     "geom:latitude":34.115751,
     "geom:longitude":-79.781996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3099 S Irby St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353681501,
-    "wof:lastmodified":1449019846,
+    "wof:lastmodified":1467082242,
     "wof:name":"South Florence Exxon",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-79.781996,34.115751,-79.781996,34.115751],
-  "geometry": {"coordinates":[-79.781996,34.115751],"type":"Point"}
+  "bbox": [
+    -79.781996,
+    34.115751,
+    -79.781996,
+    34.115751
+],
+  "geometry": {"coordinates":[-79.78199600000001,34.115751],"type":"Point"}
 }

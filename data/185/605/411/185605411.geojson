@@ -2,13 +2,14 @@
   "id": 185605411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.642553,32.437815,-80.642553,32.437815",
     "geom:latitude":32.437815,
     "geom:longitude":-80.642553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Planters Cir",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185605411,
-    "wof:lastmodified":1449007412,
+    "wof:lastmodified":1467082194,
     "wof:name":"Little Flower Cleaning Svc",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.642553,32.437815,-80.642553,32.437815],
-  "geometry": {"coordinates":[-80.642553,32.437815],"type":"Point"}
+  "bbox": [
+    -80.642553,
+    32.437815,
+    -80.642553,
+    32.437815
+],
+  "geometry": {"coordinates":[-80.64255300000001,32.437815],"type":"Point"}
 }

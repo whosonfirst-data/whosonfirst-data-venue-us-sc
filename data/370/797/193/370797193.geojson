@@ -2,13 +2,14 @@
   "id": 370797193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.009096,34.8859,-82.009096,34.8859",
     "geom:latitude":34.8859,
     "geom:longitude":-82.009096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 Anderson Mill Rd",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370797193,
-    "wof:lastmodified":1449032140,
+    "wof:lastmodified":1467082366,
     "wof:name":"Dave's Automotive",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-82.009096,34.8859,-82.009096,34.8859],
+  "bbox": [
+    -82.009096,
+    34.8859,
+    -82.009096,
+    34.8859
+],
   "geometry": {"coordinates":[-82.009096,34.8859],"type":"Point"}
 }

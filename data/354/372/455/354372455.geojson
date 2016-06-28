@@ -2,13 +2,14 @@
   "id": 354372455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.195506,34.080843,-81.195506,34.080843",
     "geom:latitude":34.080843,
     "geom:longitude":-81.195506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1671 Lake Murray Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354372455,
-    "wof:lastmodified":1449066970,
+    "wof:lastmodified":1467082438,
     "wof:name":"Palmetto Pedorthic Care",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.195506,34.080843,-81.195506,34.080843],
-  "geometry": {"coordinates":[-81.195506,34.080843],"type":"Point"}
+  "bbox": [
+    -81.195506,
+    34.080843,
+    -81.195506,
+    34.080843
+],
+  "geometry": {"coordinates":[-81.19550599999999,34.080843],"type":"Point"}
 }

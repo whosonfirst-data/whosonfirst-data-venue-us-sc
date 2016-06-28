@@ -2,13 +2,14 @@
   "id": 169793173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.565458,34.826697,-82.565458,34.826697",
     "geom:latitude":34.826697,
     "geom:longitude":-82.565458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1935 E Main St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169793173,
-    "wof:lastmodified":1449034505,
+    "wof:lastmodified":1467082383,
     "wof:name":"Donohue's Fine Wine & Spirits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.565458,34.826697,-82.565458,34.826697],
-  "geometry": {"coordinates":[-82.565458,34.826697],"type":"Point"}
+  "bbox": [
+    -82.565458,
+    34.826697,
+    -82.565458,
+    34.826697
+],
+  "geometry": {"coordinates":[-82.56545800000001,34.826697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353510917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.044163,32.81515,-80.044163,32.81515",
     "geom:latitude":32.81515,
     "geom:longitude":-80.044163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2073 Charlie Hall Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353510917,
-    "wof:lastmodified":1449019817,
+    "wof:lastmodified":1467082242,
     "wof:name":"Palmetto Digestive Disease",
     "wof:parent_id":85809785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.044163,32.81515,-80.044163,32.81515],
+  "bbox": [
+    -80.044163,
+    32.81515,
+    -80.044163,
+    32.81515
+],
   "geometry": {"coordinates":[-80.044163,32.81515],"type":"Point"}
 }

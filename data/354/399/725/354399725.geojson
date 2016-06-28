@@ -2,13 +2,14 @@
   "id": 354399725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.99899,33.577337,-78.99899,33.577337",
     "geom:latitude":33.577337,
     "geom:longitude":-78.99899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Atlantic Ave",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354399725,
-    "wof:lastmodified":1449066237,
+    "wof:lastmodified":1467082421,
     "wof:name":"Dunes Realty Inc",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.99899,33.577337,-78.99899,33.577337],
-  "geometry": {"coordinates":[-78.99899,33.577337],"type":"Point"}
+  "bbox": [
+    -78.99899,
+    33.577337,
+    -78.99899,
+    33.577337
+],
+  "geometry": {"coordinates":[-78.99899000000001,33.577337],"type":"Point"}
 }

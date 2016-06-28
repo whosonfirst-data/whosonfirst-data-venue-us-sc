@@ -2,13 +2,14 @@
   "id": 353379103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.947603,35.004201,-80.947603,35.004201",
     "geom:latitude":35.004201,
     "geom:longitude":-80.947603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Shamrock Ct",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353379103,
-    "wof:lastmodified":1449019756,
+    "wof:lastmodified":1467082240,
     "wof:name":"So Zebras Do Sew LLC",
     "wof:parent_id":85827769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing"
     ]
 },
-  "bbox": [-80.947603,35.004201,-80.947603,35.004201],
+  "bbox": [
+    -80.947603,
+    35.004201,
+    -80.947603,
+    35.004201
+],
   "geometry": {"coordinates":[-80.947603,35.004201],"type":"Point"}
 }

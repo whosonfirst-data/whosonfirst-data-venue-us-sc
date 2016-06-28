@@ -2,13 +2,14 @@
   "id": 370622841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.99742,32.814512,-79.99742,32.814512",
     "geom:latitude":32.814512,
     "geom:longitude":-79.99742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1485 Sam Rittenberg Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370622841,
-    "wof:lastmodified":1449031854,
+    "wof:lastmodified":1467082360,
     "wof:name":"Lynda Areheart Hair Design",
     "wof:parent_id":85838205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.99742,32.814512,-79.99742,32.814512],
-  "geometry": {"coordinates":[-79.99742,32.814512],"type":"Point"}
+  "bbox": [
+    -79.99742,
+    32.814512,
+    -79.99742,
+    32.814512
+],
+  "geometry": {"coordinates":[-79.99742000000001,32.814512],"type":"Point"}
 }

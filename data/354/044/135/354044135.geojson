@@ -2,13 +2,14 @@
   "id": 354044135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.358003,34.871009,-82.358003,34.871009",
     "geom:latitude":34.871009,
     "geom:longitude":-82.358003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Sweetbriar Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354044135,
-    "wof:lastmodified":1449066817,
+    "wof:lastmodified":1467082435,
     "wof:name":"Sew Right",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing"
     ]
 },
-  "bbox": [-82.358003,34.871009,-82.358003,34.871009],
+  "bbox": [
+    -82.358003,
+    34.871009,
+    -82.358003,
+    34.871009
+],
   "geometry": {"coordinates":[-82.358003,34.871009],"type":"Point"}
 }

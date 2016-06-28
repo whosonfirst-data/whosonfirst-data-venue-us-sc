@@ -2,13 +2,14 @@
   "id": 353489861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.028966,35.001975,-81.028966,35.001975",
     "geom:latitude":35.001975,
     "geom:longitude":-81.028966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1565 Twin Lakes Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353489861,
-    "wof:lastmodified":1449019660,
+    "wof:lastmodified":1467082238,
     "wof:name":"Paintball Arena & Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sport"
     ]
 },
-  "bbox": [-81.028966,35.001975,-81.028966,35.001975],
+  "bbox": [
+    -81.028966,
+    35.001975,
+    -81.028966,
+    35.001975
+],
   "geometry": {"coordinates":[-81.028966,35.001975],"type":"Point"}
 }

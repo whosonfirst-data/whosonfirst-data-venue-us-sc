@@ -2,13 +2,14 @@
   "id": 354215865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.976105,34.871532,-81.976105,34.871532",
     "geom:latitude":34.871532,
     "geom:longitude":-81.976105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Railroad St",
     "sg:city":"Roebuck",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354215865,
-    "wof:lastmodified":1449067349,
+    "wof:lastmodified":1467082447,
     "wof:name":"Palmetto Transportation",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.976105,34.871532,-81.976105,34.871532],
+  "bbox": [
+    -81.976105,
+    34.871532,
+    -81.976105,
+    34.871532
+],
   "geometry": {"coordinates":[-81.976105,34.871532],"type":"Point"}
 }

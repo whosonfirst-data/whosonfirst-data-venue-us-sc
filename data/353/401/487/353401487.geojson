@@ -2,13 +2,14 @@
   "id": 353401487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.774478,34.219126,-79.774478,34.219126",
     "geom:latitude":34.219126,
     "geom:longitude":-79.774478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1333 N Douglas St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353401487,
-    "wof:lastmodified":1449020440,
+    "wof:lastmodified":1467082254,
     "wof:name":"Pee Dee Tank Co",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tank"
     ]
 },
-  "bbox": [-79.774478,34.219126,-79.774478,34.219126],
+  "bbox": [
+    -79.774478,
+    34.219126,
+    -79.774478,
+    34.219126
+],
   "geometry": {"coordinates":[-79.774478,34.219126],"type":"Point"}
 }

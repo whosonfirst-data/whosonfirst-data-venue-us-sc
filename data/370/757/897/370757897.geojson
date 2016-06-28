@@ -2,13 +2,14 @@
   "id": 370757897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.376002,33.255289,-81.376002,33.255289",
     "geom:latitude":33.255289,
     "geom:longitude":-81.376002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10456 Ellenton St",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370757897,
-    "wof:lastmodified":1449030980,
+    "wof:lastmodified":1467082340,
     "wof:name":"Original House Of Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.376002,33.255289,-81.376002,33.255289],
+  "bbox": [
+    -81.376002,
+    33.255289,
+    -81.376002,
+    33.255289
+],
   "geometry": {"coordinates":[-81.376002,33.255289],"type":"Point"}
 }

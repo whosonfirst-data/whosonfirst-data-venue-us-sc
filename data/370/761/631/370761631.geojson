@@ -2,13 +2,14 @@
   "id": 370761631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.849752,32.829416,-79.849752,32.829416",
     "geom:latitude":32.829416,
     "geom:longitude":-79.849752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 Longview Rd",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370761631,
-    "wof:lastmodified":1449031676,
+    "wof:lastmodified":1467082356,
     "wof:name":"Clark's Concrete Pumping",
     "wof:parent_id":85840511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pumping"
     ]
 },
-  "bbox": [-79.849752,32.829416,-79.849752,32.829416],
+  "bbox": [
+    -79.849752,
+    32.829416,
+    -79.849752,
+    32.829416
+],
   "geometry": {"coordinates":[-79.849752,32.829416],"type":"Point"}
 }

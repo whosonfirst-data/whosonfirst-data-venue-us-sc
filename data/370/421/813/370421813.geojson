@@ -2,13 +2,14 @@
   "id": 370421813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.144031,32.966241,-80.144031,32.966241",
     "geom:latitude":32.966241,
     "geom:longitude":-80.144031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Pinewood St",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370421813,
-    "wof:lastmodified":1449031223,
+    "wof:lastmodified":1467082345,
     "wof:name":"Hl Painting & Restoring 2",
     "wof:parent_id":85852525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hanging"
     ]
 },
-  "bbox": [-80.144031,32.966241,-80.144031,32.966241],
+  "bbox": [
+    -80.144031,
+    32.966241,
+    -80.144031,
+    32.966241
+],
   "geometry": {"coordinates":[-80.144031,32.966241],"type":"Point"}
 }

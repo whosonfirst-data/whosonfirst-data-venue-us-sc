@@ -2,13 +2,14 @@
   "id": 370724737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.836773,33.679096,-79.836773,33.679096",
     "geom:latitude":33.679096,
     "geom:longitude":-79.836773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 Indiantown Rd",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370724737,
-    "wof:lastmodified":1449032396,
+    "wof:lastmodified":1467082372,
     "wof:name":"Cooper Country Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.836773,33.679096,-79.836773,33.679096],
-  "geometry": {"coordinates":[-79.836773,33.679096],"type":"Point"}
+  "bbox": [
+    -79.836773,
+    33.679096,
+    -79.836773,
+    33.679096
+],
+  "geometry": {"coordinates":[-79.83677299999999,33.679096],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370621949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.015201,32.845705,-80.015201,32.845705",
     "geom:latitude":32.845705,
     "geom:longitude":-80.015201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3864 Leeds Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370621949,
-    "wof:lastmodified":1449032075,
+    "wof:lastmodified":1467082364,
     "wof:name":"Sailnet",
     "wof:parent_id":85807225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.015201,32.845705,-80.015201,32.845705],
+  "bbox": [
+    -80.015201,
+    32.845705,
+    -80.015201,
+    32.845705
+],
   "geometry": {"coordinates":[-80.015201,32.845705],"type":"Point"}
 }

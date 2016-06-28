@@ -2,13 +2,14 @@
   "id": 370735997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.037169,34.739577,-82.037169,34.739577",
     "geom:latitude":34.739577,
     "geom:longitude":-82.037169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 S Main St",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370735997,
-    "wof:lastmodified":1449032388,
+    "wof:lastmodified":1467082372,
     "wof:name":"Stewart Furniture",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.037169,34.739577,-82.037169,34.739577],
-  "geometry": {"coordinates":[-82.037169,34.739577],"type":"Point"}
+  "bbox": [
+    -82.037169,
+    34.739577,
+    -82.037169,
+    34.739577
+],
+  "geometry": {"coordinates":[-82.03716900000001,34.739577],"type":"Point"}
 }

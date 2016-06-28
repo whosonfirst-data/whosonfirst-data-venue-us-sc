@@ -2,13 +2,14 @@
   "id": 353800079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.444655,33.825208,-79.444655,33.825208",
     "geom:latitude":33.825208,
     "geom:longitude":-79.444655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 N Georgetown Hwy",
     "sg:city":"Johnsonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353800079,
-    "wof:lastmodified":1449018462,
+    "wof:lastmodified":1467082214,
     "wof:name":"Johnsonville United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.444655,33.825208,-79.444655,33.825208],
+  "bbox": [
+    -79.444655,
+    33.825208,
+    -79.444655,
+    33.825208
+],
   "geometry": {"coordinates":[-79.444655,33.825208],"type":"Point"}
 }

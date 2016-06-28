@@ -2,13 +2,14 @@
   "id": 370734923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.222164,32.781038,-80.222164,32.781038",
     "geom:latitude":32.781038,
     "geom:longitude":-80.222164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5737 Savannah Hwy",
     "sg:city":"Ravenel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370734923,
-    "wof:lastmodified":1449032045,
+    "wof:lastmodified":1467082364,
     "wof:name":"Ravenel Quick Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.222164,32.781038,-80.222164,32.781038],
-  "geometry": {"coordinates":[-80.222164,32.781038],"type":"Point"}
+  "bbox": [
+    -80.222164,
+    32.781038,
+    -80.222164,
+    32.781038
+],
+  "geometry": {"coordinates":[-80.22216400000001,32.781038],"type":"Point"}
 }

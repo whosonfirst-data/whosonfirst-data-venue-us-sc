@@ -2,13 +2,14 @@
   "id": 354333449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.721173,34.619478,-82.721173,34.619478",
     "geom:latitude":34.619478,
     "geom:longitude":-82.721173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2207 Lebanon Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354333449,
-    "wof:lastmodified":1449067561,
+    "wof:lastmodified":1467082452,
     "wof:name":"Mac Smith's Country Store",
     "wof:parent_id":85854499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.721173,34.619478,-82.721173,34.619478],
-  "geometry": {"coordinates":[-82.721173,34.619478],"type":"Point"}
+  "bbox": [
+    -82.721173,
+    34.619478,
+    -82.721173,
+    34.619478
+],
+  "geometry": {"coordinates":[-82.72117299999999,34.619478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370659353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.142855,33.383291,-80.142855,33.383291",
     "geom:latitude":33.383291,
     "geom:longitude":-80.142855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Canal Landing Rd",
     "sg:city":"Cross",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370659353,
-    "wof:lastmodified":1449029453,
+    "wof:lastmodified":1467082306,
     "wof:name":"Canal Lakes Restaurant",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.142855,33.383291,-80.142855,33.383291],
+  "bbox": [
+    -80.142855,
+    33.383291,
+    -80.142855,
+    33.383291
+],
   "geometry": {"coordinates":[-80.142855,33.383291],"type":"Point"}
 }

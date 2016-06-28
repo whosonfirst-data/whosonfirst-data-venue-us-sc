@@ -2,13 +2,14 @@
   "id": 370426219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.420314,34.954553,-82.420314,34.954553",
     "geom:latitude":34.954553,
     "geom:longitude":-82.420314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Autumn View Ridge",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370426219,
-    "wof:lastmodified":1449029818,
+    "wof:lastmodified":1467082314,
     "wof:name":"Mulligan Of TR",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-82.420314,34.954553,-82.420314,34.954553],
+  "bbox": [
+    -82.420314,
+    34.954553,
+    -82.420314,
+    34.954553
+],
   "geometry": {"coordinates":[-82.420314,34.954553],"type":"Point"}
 }

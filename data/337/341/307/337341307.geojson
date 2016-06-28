@@ -2,13 +2,14 @@
   "id": 337341307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.994352,33.331508,-79.994352,33.331508",
     "geom:latitude":33.331508,
     "geom:longitude":-79.994352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Jack's Ln",
     "sg:city":"Bonneau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337341307,
-    "wof:lastmodified":1449027711,
+    "wof:lastmodified":1467082294,
     "wof:name":"Snyder Holdings",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.994352,33.331508,-79.994352,33.331508],
-  "geometry": {"coordinates":[-79.994352,33.331508],"type":"Point"}
+  "bbox": [
+    -79.994352,
+    33.331508,
+    -79.994352,
+    33.331508
+],
+  "geometry": {"coordinates":[-79.99435200000001,33.331508],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353720099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.287199,34.501694,-82.287199,34.501694",
     "geom:latitude":34.501694,
     "geom:longitude":-82.287199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Latimer Mill Rd",
     "sg:city":"Honea Path",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353720099,
-    "wof:lastmodified":1449018863,
+    "wof:lastmodified":1467082222,
     "wof:name":"Serving You & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-82.287199,34.501694,-82.287199,34.501694],
+  "bbox": [
+    -82.287199,
+    34.501694,
+    -82.287199,
+    34.501694
+],
   "geometry": {"coordinates":[-82.287199,34.501694],"type":"Point"}
 }

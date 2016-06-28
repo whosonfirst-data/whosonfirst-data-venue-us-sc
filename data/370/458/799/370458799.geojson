@@ -2,13 +2,14 @@
   "id": 370458799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.77053,34.256295,-79.77053,34.256295",
     "geom:latitude":34.256295,
     "geom:longitude":-79.77053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 Arin St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370458799,
-    "wof:lastmodified":1449031500,
+    "wof:lastmodified":1467082352,
     "wof:name":"Hudson Heating & Air Cond",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.77053,34.256295,-79.77053,34.256295],
-  "geometry": {"coordinates":[-79.77053,34.256295],"type":"Point"}
+  "bbox": [
+    -79.77053,
+    34.256295,
+    -79.77053,
+    34.256295
+],
+  "geometry": {"coordinates":[-79.77052999999999,34.256295],"type":"Point"}
 }

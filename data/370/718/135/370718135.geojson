@@ -2,13 +2,14 @@
   "id": 370718135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.003581,34.05714,-81.003581,34.05714",
     "geom:latitude":34.05714,
     "geom:longitude":-81.003581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1722 Mayer St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370718135,
-    "wof:lastmodified":1449029825,
+    "wof:lastmodified":1467082314,
     "wof:name":"Triumph Church",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.003581,34.05714,-81.003581,34.05714],
+  "bbox": [
+    -81.003581,
+    34.05714,
+    -81.003581,
+    34.05714
+],
   "geometry": {"coordinates":[-81.003581,34.05714],"type":"Point"}
 }

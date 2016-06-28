@@ -2,13 +2,14 @@
   "id": 337356951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.034776,34.06536,-81.034776,34.06536",
     "geom:latitude":34.06536,
     "geom:longitude":-81.034776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Buckner Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337356951,
-    "wof:lastmodified":1449027599,
+    "wof:lastmodified":1467082290,
     "wof:name":"SANMAL-Mbb Painting",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-81.034776,34.06536,-81.034776,34.06536],
-  "geometry": {"coordinates":[-81.034776,34.06536],"type":"Point"}
+  "bbox": [
+    -81.034776,
+    34.06536,
+    -81.034776,
+    34.06536
+],
+  "geometry": {"coordinates":[-81.03477599999999,34.06536],"type":"Point"}
 }

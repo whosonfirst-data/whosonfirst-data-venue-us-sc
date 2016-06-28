@@ -2,13 +2,14 @@
   "id": 186014757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.740232,33.798151,-78.740232,33.798151",
     "geom:latitude":33.798151,
     "geom:longitude":-78.740232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 Conway St",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186014757,
-    "wof:lastmodified":1449051693,
+    "wof:lastmodified":1467082400,
     "wof:name":"Marsh Oaks Home Owner Assn",
     "wof:parent_id":85852275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.740232,33.798151,-78.740232,33.798151],
-  "geometry": {"coordinates":[-78.740232,33.798151],"type":"Point"}
+  "bbox": [
+    -78.740232,
+    33.798151,
+    -78.740232,
+    33.798151
+],
+  "geometry": {"coordinates":[-78.74023200000001,33.798151],"type":"Point"}
 }

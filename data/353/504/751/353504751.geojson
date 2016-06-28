@@ -2,13 +2,14 @@
   "id": 353504751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.016016,35.034516,-82.016016,35.034516",
     "geom:latitude":35.034516,
     "geom:longitude":-82.016016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"845 Old Furnace Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353504751,
-    "wof:lastmodified":1449018688,
+    "wof:lastmodified":1467082218,
     "wof:name":"Victory Temple Christian Chr",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.016016,35.034516,-82.016016,35.034516],
-  "geometry": {"coordinates":[-82.016016,35.034516],"type":"Point"}
+  "bbox": [
+    -82.016016,
+    35.034516,
+    -82.016016,
+    35.034516
+],
+  "geometry": {"coordinates":[-82.01601599999999,35.034516],"type":"Point"}
 }

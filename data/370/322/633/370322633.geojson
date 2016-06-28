@@ -2,13 +2,14 @@
   "id": 370322633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.653112,34.503003,-82.653112,34.503003",
     "geom:latitude":34.503003,
     "geom:longitude":-82.653112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 W Whitner St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370322633,
-    "wof:lastmodified":1449029033,
+    "wof:lastmodified":1467082297,
     "wof:name":"Price Tax & Bookkeeping Svc",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-82.653112,34.503003,-82.653112,34.503003],
-  "geometry": {"coordinates":[-82.653112,34.503003],"type":"Point"}
+  "bbox": [
+    -82.653112,
+    34.503003,
+    -82.653112,
+    34.503003
+],
+  "geometry": {"coordinates":[-82.65311199999999,34.503003],"type":"Point"}
 }

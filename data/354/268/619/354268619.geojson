@@ -2,13 +2,14 @@
   "id": 354268619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.180455,34.054947,-81.180455,34.054947",
     "geom:latitude":34.054947,
     "geom:longitude":-81.180455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5551 Bush River Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354268619,
-    "wof:lastmodified":1449066919,
+    "wof:lastmodified":1467082437,
     "wof:name":"Carolina Wild Life",
     "wof:parent_id":85897271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "conservation"
     ]
 },
-  "bbox": [-81.180455,34.054947,-81.180455,34.054947],
-  "geometry": {"coordinates":[-81.180455,34.054947],"type":"Point"}
+  "bbox": [
+    -81.180455,
+    34.054947,
+    -81.180455,
+    34.054947
+],
+  "geometry": {"coordinates":[-81.18045499999999,34.054947],"type":"Point"}
 }

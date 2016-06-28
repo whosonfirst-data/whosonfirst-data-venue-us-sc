@@ -2,13 +2,14 @@
   "id": 185642373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.683646,34.616903,-79.683646,34.616903",
     "geom:latitude":34.616903,
     "geom:longitude":-79.683646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 E Main St",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185642373,
-    "wof:lastmodified":1449006688,
+    "wof:lastmodified":1467082183,
     "wof:name":"Carolina Cleaners & Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-79.683646,34.616903,-79.683646,34.616903],
+  "bbox": [
+    -79.683646,
+    34.616903,
+    -79.683646,
+    34.616903
+],
   "geometry": {"coordinates":[-79.683646,34.616903],"type":"Point"}
 }

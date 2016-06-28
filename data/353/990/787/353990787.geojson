@@ -2,13 +2,14 @@
   "id": 353990787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.516052,34.187782,-80.516052,34.187782",
     "geom:latitude":34.187782,
     "geom:longitude":-80.516052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 Black River Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353990787,
-    "wof:lastmodified":1449019953,
+    "wof:lastmodified":1467082244,
     "wof:name":"Frank McLeod Jr",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "egg"
     ]
 },
-  "bbox": [-80.516052,34.187782,-80.516052,34.187782],
+  "bbox": [
+    -80.516052,
+    34.187782,
+    -80.516052,
+    34.187782
+],
   "geometry": {"coordinates":[-80.516052,34.187782],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185740549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.097378,33.974295,-81.097378,33.974295",
     "geom:latitude":33.974295,
     "geom:longitude":-81.097378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"182 Whiteside Cir",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185740549,
-    "wof:lastmodified":1449007350,
+    "wof:lastmodified":1467082194,
     "wof:name":"Stuyck Company",
     "wof:parent_id":85808009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-81.097378,33.974295,-81.097378,33.974295],
-  "geometry": {"coordinates":[-81.097378,33.974295],"type":"Point"}
+  "bbox": [
+    -81.097378,
+    33.974295,
+    -81.097378,
+    33.974295
+],
+  "geometry": {"coordinates":[-81.09737800000001,33.974295],"type":"Point"}
 }

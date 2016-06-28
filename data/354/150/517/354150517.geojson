@@ -2,13 +2,14 @@
   "id": 354150517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.015392,32.787116,-80.015392,32.787116",
     "geom:latitude":32.787116,
     "geom:longitude":-80.015392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1637 Savannah Hwy",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354150517,
-    "wof:lastmodified":1449065953,
+    "wof:lastmodified":1467082415,
     "wof:name":"Ashley Optical",
     "wof:parent_id":85846627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "optician"
     ]
 },
-  "bbox": [-80.015392,32.787116,-80.015392,32.787116],
-  "geometry": {"coordinates":[-80.015392,32.787116],"type":"Point"}
+  "bbox": [
+    -80.015392,
+    32.787116,
+    -80.015392,
+    32.787116
+],
+  "geometry": {"coordinates":[-80.01539200000001,32.787116],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370304499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.900449,35.123121,-81.900449,35.123121",
     "geom:latitude":35.123121,
     "geom:longitude":-81.900449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 Fish Camp Rd",
     "sg:city":"Chesnee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370304499,
-    "wof:lastmodified":1449031615,
+    "wof:lastmodified":1467082354,
     "wof:name":"Jackie Page",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.900449,35.123121,-81.900449,35.123121],
-  "geometry": {"coordinates":[-81.900449,35.123121],"type":"Point"}
+  "bbox": [
+    -81.900449,
+    35.123121,
+    -81.900449,
+    35.123121
+],
+  "geometry": {"coordinates":[-81.90044899999999,35.123121],"type":"Point"}
 }

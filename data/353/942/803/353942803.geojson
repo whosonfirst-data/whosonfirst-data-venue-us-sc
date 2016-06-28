@@ -2,13 +2,14 @@
   "id": 353942803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.968207,34.843796,-81.968207,34.843796",
     "geom:latitude":34.843796,
     "geom:longitude":-81.968207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5965 US Hwy 221",
     "sg:city":"Roebuck",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353942803,
-    "wof:lastmodified":1449019428,
+    "wof:lastmodified":1467082234,
     "wof:name":"Felters Group",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-81.968207,34.843796,-81.968207,34.843796],
-  "geometry": {"coordinates":[-81.968207,34.843796],"type":"Point"}
+  "bbox": [
+    -81.968207,
+    34.843796,
+    -81.968207,
+    34.843796
+],
+  "geometry": {"coordinates":[-81.96820700000001,34.843796],"type":"Point"}
 }

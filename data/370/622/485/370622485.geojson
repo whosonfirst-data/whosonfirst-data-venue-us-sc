@@ -2,13 +2,14 @@
   "id": 370622485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.97634,33.697716,-78.97634,33.697716",
     "geom:latitude":33.697716,
     "geom:longitude":-78.97634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Racewater Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370622485,
-    "wof:lastmodified":1449031858,
+    "wof:lastmodified":1467082360,
     "wof:name":"A Boehm Communications",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "communication"
     ]
 },
-  "bbox": [-78.97634,33.697716,-78.97634,33.697716],
-  "geometry": {"coordinates":[-78.97634,33.697716],"type":"Point"}
+  "bbox": [
+    -78.97634,
+    33.697716,
+    -78.97634,
+    33.697716
+],
+  "geometry": {"coordinates":[-78.97633999999999,33.697716],"type":"Point"}
 }

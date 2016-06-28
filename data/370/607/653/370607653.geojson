@@ -2,13 +2,14 @@
   "id": 370607653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.240346,34.996524,-81.240346,34.996524",
     "geom:latitude":34.996524,
     "geom:longitude":-81.240346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 N Congress St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370607653,
-    "wof:lastmodified":1449029541,
+    "wof:lastmodified":1467082308,
     "wof:name":"Old Master Putter Co",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "athletic"
     ]
 },
-  "bbox": [-81.240346,34.996524,-81.240346,34.996524],
+  "bbox": [
+    -81.240346,
+    34.996524,
+    -81.240346,
+    34.996524
+],
   "geometry": {"coordinates":[-81.240346,34.996524],"type":"Point"}
 }

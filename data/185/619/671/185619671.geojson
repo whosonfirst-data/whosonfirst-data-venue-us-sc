@@ -2,13 +2,14 @@
   "id": 185619671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.943232,32.789094,-79.943232,32.789094",
     "geom:latitude":32.789094,
     "geom:longitude":-79.943232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Morris St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185619671,
-    "wof:lastmodified":1449006899,
+    "wof:lastmodified":1467082187,
     "wof:name":"Charleston Neck & Back Ctr",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.943232,32.789094,-79.943232,32.789094],
-  "geometry": {"coordinates":[-79.943232,32.789094],"type":"Point"}
+  "bbox": [
+    -79.943232,
+    32.789094,
+    -79.943232,
+    32.789094
+],
+  "geometry": {"coordinates":[-79.94323199999999,32.789094],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370266965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.874462,34.123059,-80.874462,34.123059",
     "geom:latitude":34.123059,
     "geom:longitude":-80.874462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10260 Two Notch Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370266965,
-    "wof:lastmodified":1449029171,
+    "wof:lastmodified":1467082300,
     "wof:name":"B & C Northeast Auto Sales",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.874462,34.123059,-80.874462,34.123059],
-  "geometry": {"coordinates":[-80.874462,34.123059],"type":"Point"}
+  "bbox": [
+    -80.874462,
+    34.123059,
+    -80.874462,
+    34.123059
+],
+  "geometry": {"coordinates":[-80.87446199999999,34.123059],"type":"Point"}
 }

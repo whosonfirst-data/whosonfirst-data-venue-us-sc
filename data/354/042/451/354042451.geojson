@@ -2,13 +2,14 @@
   "id": 354042451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.005553,33.998267,-81.005553,33.998267",
     "geom:latitude":33.998267,
     "geom:longitude":-81.005553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Woodrow St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354042451,
-    "wof:lastmodified":1449067233,
+    "wof:lastmodified":1467082444,
     "wof:name":"Congaree Automotive LLC",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "establishment"
     ]
 },
-  "bbox": [-81.005553,33.998267,-81.005553,33.998267],
-  "geometry": {"coordinates":[-81.005553,33.998267],"type":"Point"}
+  "bbox": [
+    -81.005553,
+    33.998267,
+    -81.005553,
+    33.998267
+],
+  "geometry": {"coordinates":[-81.00555300000001,33.998267],"type":"Point"}
 }

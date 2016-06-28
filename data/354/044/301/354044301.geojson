@@ -2,13 +2,14 @@
   "id": 354044301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.799936,34.299056,-79.799936,34.299056",
     "geom:latitude":34.299056,
     "geom:longitude":-79.799936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 Pocket Rd",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354044301,
-    "wof:lastmodified":1449066818,
+    "wof:lastmodified":1467082435,
     "wof:name":"K & Co",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.799936,34.299056,-79.799936,34.299056],
+  "bbox": [
+    -79.799936,
+    34.299056,
+    -79.799936,
+    34.299056
+],
   "geometry": {"coordinates":[-79.799936,34.299056],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370804945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.343147,33.896073,-80.343147,33.896073",
     "geom:latitude":33.896073,
     "geom:longitude":-80.343147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"945 S Main St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":370804945,
-    "wof:lastmodified":1449031436,
+    "wof:lastmodified":1467082350,
     "wof:name":"Union Station AME Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.343147,33.896073,-80.343147,33.896073],
+  "bbox": [
+    -80.343147,
+    33.896073,
+    -80.343147,
+    33.896073
+],
   "geometry": {"coordinates":[-80.343147,33.896073],"type":"Point"}
 }

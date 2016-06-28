@@ -2,13 +2,14 @@
   "id": 186230211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.556196,33.866815,-79.556196,33.866815",
     "geom:latitude":33.866815,
     "geom:longitude":-79.556196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4221 Sheminally Rd",
     "sg:city":"Pamplico",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186230211,
-    "wof:lastmodified":1449052341,
+    "wof:lastmodified":1467082406,
     "wof:name":"New Prospect Christian School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.556196,33.866815,-79.556196,33.866815],
+  "bbox": [
+    -79.556196,
+    33.866815,
+    -79.556196,
+    33.866815
+],
   "geometry": {"coordinates":[-79.556196,33.866815],"type":"Point"}
 }

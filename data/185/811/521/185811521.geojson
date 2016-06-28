@@ -2,13 +2,14 @@
   "id": 185811521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.255911,35.042363,-81.255911,35.042363",
     "geom:latitude":35.042363,
     "geom:longitude":-81.255911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2170 US Hwy 321",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185811521,
-    "wof:lastmodified":1449007400,
+    "wof:lastmodified":1467082194,
     "wof:name":"Borderline Mini Mart",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.255911,35.042363,-81.255911,35.042363],
+  "bbox": [
+    -81.255911,
+    35.042363,
+    -81.255911,
+    35.042363
+],
   "geometry": {"coordinates":[-81.255911,35.042363],"type":"Point"}
 }

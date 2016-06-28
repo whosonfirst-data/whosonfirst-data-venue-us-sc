@@ -2,13 +2,14 @@
   "id": 370727533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.462641,34.788515,-81.462641,34.788515",
     "geom:latitude":34.788515,
     "geom:longitude":-81.462641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S 1st St",
     "sg:city":"Lockhart",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370727533,
-    "wof:lastmodified":1449029598,
+    "wof:lastmodified":1467082309,
     "wof:name":"Lockhart Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.462641,34.788515,-81.462641,34.788515],
+  "bbox": [
+    -81.462641,
+    34.788515,
+    -81.462641,
+    34.788515
+],
   "geometry": {"coordinates":[-81.462641,34.788515],"type":"Point"}
 }

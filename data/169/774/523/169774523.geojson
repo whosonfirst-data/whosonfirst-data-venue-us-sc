@@ -2,13 +2,14 @@
   "id": 169774523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.074238,34.662542,-83.074238,34.662542",
     "geom:latitude":34.662542,
     "geom:longitude":-83.074238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Robin Rd",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169774523,
-    "wof:lastmodified":1449033963,
+    "wof:lastmodified":1467082381,
     "wof:name":"EDS Service & Repair",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-83.074238,34.662542,-83.074238,34.662542],
-  "geometry": {"coordinates":[-83.074238,34.662542],"type":"Point"}
+  "bbox": [
+    -83.074238,
+    34.662542,
+    -83.074238,
+    34.662542
+],
+  "geometry": {"coordinates":[-83.07423799999999,34.662542],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353709025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.154446,35.133125,-81.154446,35.133125",
     "geom:latitude":35.133125,
     "geom:longitude":-81.154446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1549 Ridge Rd",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353709025,
-    "wof:lastmodified":1449018765,
+    "wof:lastmodified":1467082220,
     "wof:name":"Robert J Glenn & Son",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.154446,35.133125,-81.154446,35.133125],
-  "geometry": {"coordinates":[-81.154446,35.133125],"type":"Point"}
+  "bbox": [
+    -81.154446,
+    35.133125,
+    -81.154446,
+    35.133125
+],
+  "geometry": {"coordinates":[-81.15444599999999,35.133125],"type":"Point"}
 }

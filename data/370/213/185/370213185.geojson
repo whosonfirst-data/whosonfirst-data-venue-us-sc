@@ -2,13 +2,14 @@
   "id": 370213185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.048466,34.736769,-83.048466,34.736769",
     "geom:latitude":34.736769,
     "geom:longitude":-83.048466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Castlebrook Dr",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370213185,
-    "wof:lastmodified":1449029105,
+    "wof:lastmodified":1467082299,
     "wof:name":"Distinct First Impressions",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-83.048466,34.736769,-83.048466,34.736769],
+  "bbox": [
+    -83.048466,
+    34.736769,
+    -83.048466,
+    34.736769
+],
   "geometry": {"coordinates":[-83.048466,34.736769],"type":"Point"}
 }

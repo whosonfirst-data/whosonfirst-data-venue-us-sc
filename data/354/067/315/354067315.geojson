@@ -2,13 +2,14 @@
   "id": 354067315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.250038,33.980003,-81.250038,33.980003",
     "geom:latitude":33.980003,
     "geom:longitude":-81.250038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 Gibson Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354067315,
-    "wof:lastmodified":1449066046,
+    "wof:lastmodified":1467082417,
     "wof:name":"National Surety Enterprises",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-81.250038,33.980003,-81.250038,33.980003],
+  "bbox": [
+    -81.250038,
+    33.980003,
+    -81.250038,
+    33.980003
+],
   "geometry": {"coordinates":[-81.250038,33.980003],"type":"Point"}
 }

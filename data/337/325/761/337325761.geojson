@@ -2,13 +2,14 @@
   "id": 337325761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.637491,34.286228,-81.637491,34.286228",
     "geom:latitude":34.286228,
     "geom:longitude":-81.637491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"759 Kendall Rd",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337325761,
-    "wof:lastmodified":1449027244,
+    "wof:lastmodified":1467082277,
     "wof:name":"Conway's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.637491,34.286228,-81.637491,34.286228],
+  "bbox": [
+    -81.637491,
+    34.286228,
+    -81.637491,
+    34.286228
+],
   "geometry": {"coordinates":[-81.637491,34.286228],"type":"Point"}
 }

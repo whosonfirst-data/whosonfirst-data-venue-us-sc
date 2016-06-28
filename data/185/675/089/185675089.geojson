@@ -2,13 +2,14 @@
   "id": 185675089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.070648,34.751781,-83.070648,34.751781",
     "geom:latitude":34.751781,
     "geom:longitude":-83.070648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Flat Rock Rd",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185675089,
-    "wof:lastmodified":1449007452,
+    "wof:lastmodified":1467082195,
     "wof:name":"Flat Rock Baptist Church",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-83.070648,34.751781,-83.070648,34.751781],
-  "geometry": {"coordinates":[-83.070648,34.751781],"type":"Point"}
+  "bbox": [
+    -83.070648,
+    34.751781,
+    -83.070648,
+    34.751781
+],
+  "geometry": {"coordinates":[-83.07064800000001,34.751781],"type":"Point"}
 }

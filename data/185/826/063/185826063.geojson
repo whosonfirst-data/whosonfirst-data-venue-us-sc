@@ -2,13 +2,14 @@
   "id": 185826063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.280234,34.772993,-82.280234,34.772993",
     "geom:latitude":34.772993,
     "geom:longitude":-82.280234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Balcome Blvd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185826063,
-    "wof:lastmodified":1449007760,
+    "wof:lastmodified":1467082200,
     "wof:name":"Daydreamer Lawn Co",
     "wof:parent_id":85834923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn"
     ]
 },
-  "bbox": [-82.280234,34.772993,-82.280234,34.772993],
-  "geometry": {"coordinates":[-82.280234,34.772993],"type":"Point"}
+  "bbox": [
+    -82.280234,
+    34.772993,
+    -82.280234,
+    34.772993
+],
+  "geometry": {"coordinates":[-82.28023399999999,34.772993],"type":"Point"}
 }

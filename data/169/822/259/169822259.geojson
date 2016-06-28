@@ -2,13 +2,14 @@
   "id": 169822259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.050127,33.834721,-79.050127,33.834721",
     "geom:latitude":33.834721,
     "geom:longitude":-79.050127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Beaty St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169822259,
-    "wof:lastmodified":1449035863,
+    "wof:lastmodified":1467082387,
     "wof:name":"Big D Siding Inc",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.050127,33.834721,-79.050127,33.834721],
+  "bbox": [
+    -79.050127,
+    33.834721,
+    -79.050127,
+    33.834721
+],
   "geometry": {"coordinates":[-79.050127,33.834721],"type":"Point"}
 }

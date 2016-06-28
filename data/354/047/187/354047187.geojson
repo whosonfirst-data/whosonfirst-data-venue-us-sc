@@ -2,13 +2,14 @@
   "id": 354047187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.16567,34.086279,-81.16567,34.086279",
     "geom:latitude":34.086279,
     "geom:longitude":-81.16567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Cape Flatery Ct",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354047187,
-    "wof:lastmodified":1449067063,
+    "wof:lastmodified":1467082440,
     "wof:name":"Eagle Alliance Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.16567,34.086279,-81.16567,34.086279],
-  "geometry": {"coordinates":[-81.16567,34.086279],"type":"Point"}
+  "bbox": [
+    -81.16567,
+    34.086279,
+    -81.16567,
+    34.086279
+],
+  "geometry": {"coordinates":[-81.16567000000001,34.086279],"type":"Point"}
 }

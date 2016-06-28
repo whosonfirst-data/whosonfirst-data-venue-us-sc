@@ -2,13 +2,14 @@
   "id": 169859315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.038563,34.061003,-81.038563,34.061003",
     "geom:latitude":34.061003,
     "geom:longitude":-81.038563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 Romford Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169859315,
-    "wof:lastmodified":1449035046,
+    "wof:lastmodified":1467082385,
     "wof:name":"Pearl Consortium",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-81.038563,34.061003,-81.038563,34.061003],
+  "bbox": [
+    -81.038563,
+    34.061003,
+    -81.038563,
+    34.061003
+],
   "geometry": {"coordinates":[-81.038563,34.061003],"type":"Point"}
 }

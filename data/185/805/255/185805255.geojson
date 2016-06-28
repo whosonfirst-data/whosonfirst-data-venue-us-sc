@@ -2,13 +2,14 @@
   "id": 185805255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.972353,32.755015,-79.972353,32.755015",
     "geom:latitude":32.755015,
     "geom:longitude":-79.972353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"462 Folly Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185805255,
-    "wof:lastmodified":1449007136,
+    "wof:lastmodified":1467082190,
     "wof:name":"First Citizens Bank & Trust Co",
     "wof:parent_id":85832547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.972353,32.755015,-79.972353,32.755015],
+  "bbox": [
+    -79.972353,
+    32.755015,
+    -79.972353,
+    32.755015
+],
   "geometry": {"coordinates":[-79.972353,32.755015],"type":"Point"}
 }

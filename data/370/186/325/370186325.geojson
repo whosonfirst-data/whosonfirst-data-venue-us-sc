@@ -2,13 +2,14 @@
   "id": 370186325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.941812,32.784277,-79.941812,32.784277",
     "geom:latitude":32.784277,
     "geom:longitude":-79.941812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Calhoun St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370186325,
-    "wof:lastmodified":1449031748,
+    "wof:lastmodified":1467082357,
     "wof:name":"Old Bethel United Methodist Ch",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.941812,32.784277,-79.941812,32.784277],
+  "bbox": [
+    -79.941812,
+    32.784277,
+    -79.941812,
+    32.784277
+],
   "geometry": {"coordinates":[-79.941812,32.784277],"type":"Point"}
 }

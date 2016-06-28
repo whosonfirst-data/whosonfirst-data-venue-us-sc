@@ -2,13 +2,14 @@
   "id": 353816251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.130954,33.963537,-81.130954,33.963537",
     "geom:latitude":33.963537,
     "geom:longitude":-81.130954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Ermine Rd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353816251,
-    "wof:lastmodified":1449019755,
+    "wof:lastmodified":1467082240,
     "wof:name":"Airport Assembly Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.130954,33.963537,-81.130954,33.963537],
+  "bbox": [
+    -81.130954,
+    33.963537,
+    -81.130954,
+    33.963537
+],
   "geometry": {"coordinates":[-81.130954,33.963537],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353550207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.588813,34.81887,-81.588813,34.81887",
     "geom:latitude":34.81887,
     "geom:longitude":-81.588813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Pea Ridge Hwy",
     "sg:city":"Jonesville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353550207,
-    "wof:lastmodified":1449019641,
+    "wof:lastmodified":1467082238,
     "wof:name":"Adams Brothers Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-81.588813,34.81887,-81.588813,34.81887],
+  "bbox": [
+    -81.588813,
+    34.81887,
+    -81.588813,
+    34.81887
+],
   "geometry": {"coordinates":[-81.588813,34.81887],"type":"Point"}
 }

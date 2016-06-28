@@ -2,13 +2,14 @@
   "id": 185839077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.319088,34.879148,-82.319088,34.879148",
     "geom:latitude":34.879148,
     "geom:longitude":-82.319088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Swindon Ct",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185839077,
-    "wof:lastmodified":1449007581,
+    "wof:lastmodified":1467082197,
     "wof:name":"Steele Construction Of Sc Inc",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.319088,34.879148,-82.319088,34.879148],
-  "geometry": {"coordinates":[-82.319088,34.879148],"type":"Point"}
+  "bbox": [
+    -82.319088,
+    34.879148,
+    -82.319088,
+    34.879148
+],
+  "geometry": {"coordinates":[-82.31908799999999,34.879148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337568119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.692667,34.560515,-82.692667,34.560515",
     "geom:latitude":34.560515,
     "geom:longitude":-82.692667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4152 Clemson Blvd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337568119,
-    "wof:lastmodified":1449026909,
+    "wof:lastmodified":1467082264,
     "wof:name":"Home Place The",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.692667,34.560515,-82.692667,34.560515],
+  "bbox": [
+    -82.692667,
+    34.560515,
+    -82.692667,
+    34.560515
+],
   "geometry": {"coordinates":[-82.692667,34.560515],"type":"Point"}
 }

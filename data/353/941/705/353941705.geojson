@@ -2,13 +2,14 @@
   "id": 353941705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.276131,34.883028,-82.276131,34.883028",
     "geom:latitude":34.883028,
     "geom:longitude":-82.276131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Berrywood Ct",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353941705,
-    "wof:lastmodified":1449019801,
+    "wof:lastmodified":1467082241,
     "wof:name":"Chick Springs Publishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-82.276131,34.883028,-82.276131,34.883028],
-  "geometry": {"coordinates":[-82.276131,34.883028],"type":"Point"}
+  "bbox": [
+    -82.276131,
+    34.883028,
+    -82.276131,
+    34.883028
+],
+  "geometry": {"coordinates":[-82.27613100000001,34.883028],"type":"Point"}
 }

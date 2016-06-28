@@ -2,13 +2,14 @@
   "id": 370904529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.818975,33.740861,-78.818975,33.740861",
     "geom:latitude":33.740861,
     "geom:longitude":-78.818975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7100 N Ocean Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370904529,
-    "wof:lastmodified":1449032554,
+    "wof:lastmodified":1467082375,
     "wof:name":"Ocean Reef Resort",
     "wof:parent_id":85809243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.818975,33.740861,-78.818975,33.740861],
-  "geometry": {"coordinates":[-78.818975,33.740861],"type":"Point"}
+  "bbox": [
+    -78.818975,
+    33.740861,
+    -78.818975,
+    33.740861
+],
+  "geometry": {"coordinates":[-78.81897499999999,33.740861],"type":"Point"}
 }

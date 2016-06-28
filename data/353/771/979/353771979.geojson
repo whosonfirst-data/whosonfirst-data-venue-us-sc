@@ -2,13 +2,14 @@
   "id": 353771979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.145841,32.786405,-80.145841,32.786405",
     "geom:latitude":32.786405,
     "geom:longitude":-80.145841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4229 Savannah Hwy",
     "sg:city":"Ravenel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353771979,
-    "wof:lastmodified":1449019647,
+    "wof:lastmodified":1467082238,
     "wof:name":"Charleston Steel & Metal Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-80.145841,32.786405,-80.145841,32.786405],
+  "bbox": [
+    -80.145841,
+    32.786405,
+    -80.145841,
+    32.786405
+],
   "geometry": {"coordinates":[-80.145841,32.786405],"type":"Point"}
 }

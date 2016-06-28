@@ -2,13 +2,14 @@
   "id": 354193789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.606125,33.842202,-78.606125,33.842202",
     "geom:latitude":33.842202,
     "geom:longitude":-78.606125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Canal St",
     "sg:city":"North Myrtle Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354193789,
-    "wof:lastmodified":1449066213,
+    "wof:lastmodified":1467082421,
     "wof:name":"David W Harwell & Sons Propert",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.606125,33.842202,-78.606125,33.842202],
-  "geometry": {"coordinates":[-78.606125,33.842202],"type":"Point"}
+  "bbox": [
+    -78.606125,
+    33.842202,
+    -78.606125,
+    33.842202
+],
+  "geometry": {"coordinates":[-78.60612500000001,33.842202],"type":"Point"}
 }

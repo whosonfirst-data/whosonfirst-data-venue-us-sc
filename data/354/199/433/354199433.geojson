@@ -2,13 +2,14 @@
   "id": 354199433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.028561,32.798206,-80.028561,32.798206",
     "geom:latitude":32.798206,
     "geom:longitude":-80.028561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"946 Orleans Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354199433,
-    "wof:lastmodified":1449066104,
+    "wof:lastmodified":1467082418,
     "wof:name":"Cost Plus World Market",
     "wof:parent_id":85839787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.028561,32.798206,-80.028561,32.798206],
+  "bbox": [
+    -80.028561,
+    32.798206,
+    -80.028561,
+    32.798206
+],
   "geometry": {"coordinates":[-80.028561,32.798206],"type":"Point"}
 }

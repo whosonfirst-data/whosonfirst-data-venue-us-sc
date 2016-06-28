@@ -2,13 +2,14 @@
   "id": 370542223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.229483,33.977736,-81.229483,33.977736",
     "geom:latitude":33.977736,
     "geom:longitude":-81.229483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 E Main St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370542223,
-    "wof:lastmodified":1449031730,
+    "wof:lastmodified":1467082357,
     "wof:name":"Patriot Tax",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.229483,33.977736,-81.229483,33.977736],
+  "bbox": [
+    -81.229483,
+    33.977736,
+    -81.229483,
+    33.977736
+],
   "geometry": {"coordinates":[-81.229483,33.977736],"type":"Point"}
 }

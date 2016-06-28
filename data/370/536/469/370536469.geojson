@@ -2,13 +2,14 @@
   "id": 370536469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.058575,35.169329,-82.058575,35.169329",
     "geom:latitude":35.169329,
     "geom:longitude":-82.058575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 Ridings Rd",
     "sg:city":"Campobello",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370536469,
-    "wof:lastmodified":1449031099,
+    "wof:lastmodified":1467082342,
     "wof:name":"Classic Tile and Paint",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.058575,35.169329,-82.058575,35.169329],
+  "bbox": [
+    -82.058575,
+    35.169329,
+    -82.058575,
+    35.169329
+],
   "geometry": {"coordinates":[-82.058575,35.169329],"type":"Point"}
 }

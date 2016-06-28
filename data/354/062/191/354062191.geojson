@@ -2,13 +2,14 @@
   "id": 354062191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.99223,32.820664,-79.99223,32.820664",
     "geom:latitude":32.820664,
     "geom:longitude":-79.99223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Sam Rittenberg Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354062191,
-    "wof:lastmodified":1449067552,
+    "wof:lastmodified":1467082451,
     "wof:name":"Rubin & Co LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.99223,32.820664,-79.99223,32.820664],
-  "geometry": {"coordinates":[-79.99223,32.820664],"type":"Point"}
+  "bbox": [
+    -79.99223,
+    32.820664,
+    -79.99223,
+    32.820664
+],
+  "geometry": {"coordinates":[-79.99223000000001,32.820664],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370964233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.791089,33.766005,-78.791089,33.766005",
     "geom:latitude":33.766005,
     "geom:longitude":-78.791089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9591 Maison Ct",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370964233,
-    "wof:lastmodified":1449031648,
+    "wof:lastmodified":1467082355,
     "wof:name":"Broom Engineering",
     "wof:parent_id":85852021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-78.791089,33.766005,-78.791089,33.766005],
+  "bbox": [
+    -78.791089,
+    33.766005,
+    -78.791089,
+    33.766005
+],
   "geometry": {"coordinates":[-78.791089,33.766005],"type":"Point"}
 }

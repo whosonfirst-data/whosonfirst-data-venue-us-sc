@@ -2,13 +2,14 @@
   "id": 353524827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.671652,34.507949,-82.671652,34.507949",
     "geom:latitude":34.507949,
     "geom:longitude":-82.671652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 Evergreen St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353524827,
-    "wof:lastmodified":1449018230,
+    "wof:lastmodified":1467082209,
     "wof:name":"Boys & Girls Club",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-82.671652,34.507949,-82.671652,34.507949],
-  "geometry": {"coordinates":[-82.671652,34.507949],"type":"Point"}
+  "bbox": [
+    -82.671652,
+    34.507949,
+    -82.671652,
+    34.507949
+],
+  "geometry": {"coordinates":[-82.67165199999999,34.507949],"type":"Point"}
 }

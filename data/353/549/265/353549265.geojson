@@ -2,13 +2,14 @@
   "id": 353549265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.64217,35.101639,-81.64217,35.101639",
     "geom:latitude":35.101639,
     "geom:longitude":-81.64217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Hampshire Dr",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353549265,
-    "wof:lastmodified":1449018969,
+    "wof:lastmodified":1467082224,
     "wof:name":"Alan Welch & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "business"
     ]
 },
-  "bbox": [-81.64217,35.101639,-81.64217,35.101639],
-  "geometry": {"coordinates":[-81.64217,35.101639],"type":"Point"}
+  "bbox": [
+    -81.64217,
+    35.101639,
+    -81.64217,
+    35.101639
+],
+  "geometry": {"coordinates":[-81.64216999999999,35.101639],"type":"Point"}
 }

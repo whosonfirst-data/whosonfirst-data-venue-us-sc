@@ -2,13 +2,14 @@
   "id": 370465725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.872532,34.105354,-80.872532,34.105354",
     "geom:latitude":34.105354,
     "geom:longitude":-80.872532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Oak Brook Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370465725,
-    "wof:lastmodified":1449031356,
+    "wof:lastmodified":1467082348,
     "wof:name":"Metafinancial Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-80.872532,34.105354,-80.872532,34.105354],
-  "geometry": {"coordinates":[-80.872532,34.105354],"type":"Point"}
+  "bbox": [
+    -80.872532,
+    34.105354,
+    -80.872532,
+    34.105354
+],
+  "geometry": {"coordinates":[-80.87253200000001,34.105354],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353902949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.050023,33.834578,-79.050023,33.834578",
     "geom:latitude":33.834578,
     "geom:longitude":-79.050023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Beaty St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353902949,
-    "wof:lastmodified":1449020141,
+    "wof:lastmodified":1467082248,
     "wof:name":"Long Law Firm",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.050023,33.834578,-79.050023,33.834578],
+  "bbox": [
+    -79.050023,
+    33.834578,
+    -79.050023,
+    33.834578
+],
   "geometry": {"coordinates":[-79.050023,33.834578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370882813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.370421,33.866612,-81.370421,33.866612",
     "geom:latitude":33.866612,
     "geom:longitude":-81.370421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 Pond Branch Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370882813,
-    "wof:lastmodified":1449029695,
+    "wof:lastmodified":1467082311,
     "wof:name":"A Quality Pole Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.370421,33.866612,-81.370421,33.866612],
-  "geometry": {"coordinates":[-81.370421,33.866612],"type":"Point"}
+  "bbox": [
+    -81.370421,
+    33.866612,
+    -81.370421,
+    33.866612
+],
+  "geometry": {"coordinates":[-81.37042099999999,33.866612],"type":"Point"}
 }

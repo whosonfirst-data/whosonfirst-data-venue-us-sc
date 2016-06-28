@@ -2,13 +2,14 @@
   "id": 353490279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.740038,32.198239,-80.740038,32.198239",
     "geom:latitude":32.198239,
     "geom:longitude":-80.740038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Shaftsbury Ln",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353490279,
-    "wof:lastmodified":1449020546,
+    "wof:lastmodified":1467082256,
     "wof:name":"Executive Courier",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "courier"
     ]
 },
-  "bbox": [-80.740038,32.198239,-80.740038,32.198239],
+  "bbox": [
+    -80.740038,
+    32.198239,
+    -80.740038,
+    32.198239
+],
   "geometry": {"coordinates":[-80.740038,32.198239],"type":"Point"}
 }

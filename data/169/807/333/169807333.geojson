@@ -2,13 +2,14 @@
   "id": 169807333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.552137,34.775677,-82.552137,34.775677",
     "geom:latitude":34.775677,
     "geom:longitude":-82.552137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Colonial Dr",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169807333,
-    "wof:lastmodified":1449033536,
+    "wof:lastmodified":1467082380,
     "wof:name":"Holden Trucking",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.552137,34.775677,-82.552137,34.775677],
+  "bbox": [
+    -82.552137,
+    34.775677,
+    -82.552137,
+    34.775677
+],
   "geometry": {"coordinates":[-82.552137,34.775677],"type":"Point"}
 }

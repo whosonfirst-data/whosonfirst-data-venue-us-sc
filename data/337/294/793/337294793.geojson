@@ -2,13 +2,14 @@
   "id": 337294793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.399116,33.953885,-80.399116,33.953885",
     "geom:latitude":33.953885,
     "geom:longitude":-80.399116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2575 Lin-Do Ct",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337294793,
-    "wof:lastmodified":1449027529,
+    "wof:lastmodified":1467082287,
     "wof:name":"Air Force Flight Supervisor",
     "wof:parent_id":85814545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "executive"
     ]
 },
-  "bbox": [-80.399116,33.953885,-80.399116,33.953885],
-  "geometry": {"coordinates":[-80.399116,33.953885],"type":"Point"}
+  "bbox": [
+    -80.399116,
+    33.953885,
+    -80.399116,
+    33.953885
+],
+  "geometry": {"coordinates":[-80.39911600000001,33.953885],"type":"Point"}
 }

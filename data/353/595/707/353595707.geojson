@@ -2,13 +2,14 @@
   "id": 353595707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.089093,35.03267,-82.089093,35.03267",
     "geom:latitude":35.03267,
     "geom:longitude":-82.089093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"191 W Clark Rd",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353595707,
-    "wof:lastmodified":1449020565,
+    "wof:lastmodified":1467082257,
     "wof:name":"Charles Lee Ctr Inman Estates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-82.089093,35.03267,-82.089093,35.03267],
-  "geometry": {"coordinates":[-82.089093,35.03267],"type":"Point"}
+  "bbox": [
+    -82.089093,
+    35.03267,
+    -82.089093,
+    35.03267
+],
+  "geometry": {"coordinates":[-82.08909300000001,35.03267],"type":"Point"}
 }

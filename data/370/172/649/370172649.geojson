@@ -2,13 +2,14 @@
   "id": 370172649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.314558,34.904771,-81.314558,34.904771",
     "geom:latitude":34.904771,
     "geom:longitude":-81.314558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"965 Traylor Rd",
     "sg:city":"Sharon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370172649,
-    "wof:lastmodified":1449030448,
+    "wof:lastmodified":1467082328,
     "wof:name":"Good Time Productions",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "planning"
     ]
 },
-  "bbox": [-81.314558,34.904771,-81.314558,34.904771],
-  "geometry": {"coordinates":[-81.314558,34.904771],"type":"Point"}
+  "bbox": [
+    -81.314558,
+    34.904771,
+    -81.314558,
+    34.904771
+],
+  "geometry": {"coordinates":[-81.31455800000001,34.904771],"type":"Point"}
 }

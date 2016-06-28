@@ -2,13 +2,14 @@
   "id": 370596011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.010546,34.013391,-81.010546,34.013391",
     "geom:latitude":34.013391,
     "geom:longitude":-81.010546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2522 Forest Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370596011,
-    "wof:lastmodified":1449030818,
+    "wof:lastmodified":1467082336,
     "wof:name":"Forest Drive Open Air Market",
     "wof:parent_id":85854837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-81.010546,34.013391,-81.010546,34.013391],
-  "geometry": {"coordinates":[-81.010546,34.013391],"type":"Point"}
+  "bbox": [
+    -81.010546,
+    34.013391,
+    -81.010546,
+    34.013391
+],
+  "geometry": {"coordinates":[-81.01054600000001,34.013391],"type":"Point"}
 }

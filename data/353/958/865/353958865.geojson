@@ -2,13 +2,14 @@
   "id": 353958865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.056763,33.840768,-79.056763,33.840768",
     "geom:latitude":33.840768,
     "geom:longitude":-79.056763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1417 10th Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353958865,
-    "wof:lastmodified":1449020262,
+    "wof:lastmodified":1467082251,
     "wof:name":"Tenth Oaks Events",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "event"
     ]
 },
-  "bbox": [-79.056763,33.840768,-79.056763,33.840768],
+  "bbox": [
+    -79.056763,
+    33.840768,
+    -79.056763,
+    33.840768
+],
   "geometry": {"coordinates":[-79.056763,33.840768],"type":"Point"}
 }

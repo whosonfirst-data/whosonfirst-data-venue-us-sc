@@ -2,13 +2,14 @@
   "id": 370495641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.989508,34.82927,-81.989508,34.82927",
     "geom:latitude":34.82927,
     "geom:longitude":-81.989508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Hobbysville Rd",
     "sg:city":"Roebuck",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370495641,
-    "wof:lastmodified":1449030587,
+    "wof:lastmodified":1467082331,
     "wof:name":"Moore's Chapel Baptist Church",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.989508,34.82927,-81.989508,34.82927],
+  "bbox": [
+    -81.989508,
+    34.82927,
+    -81.989508,
+    34.82927
+],
   "geometry": {"coordinates":[-81.989508,34.82927],"type":"Point"}
 }

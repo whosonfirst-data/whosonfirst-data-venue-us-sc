@@ -2,13 +2,14 @@
   "id": 186099835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.95699,33.972694,-80.95699,33.972694",
     "geom:latitude":33.972694,
     "geom:longitude":-80.95699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Veterans Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186099835,
-    "wof:lastmodified":1449052116,
+    "wof:lastmodified":1467082404,
     "wof:name":"Joe's Produce Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "fruit"
     ]
 },
-  "bbox": [-80.95699,33.972694,-80.95699,33.972694],
+  "bbox": [
+    -80.95699,
+    33.972694,
+    -80.95699,
+    33.972694
+],
   "geometry": {"coordinates":[-80.95699,33.972694],"type":"Point"}
 }

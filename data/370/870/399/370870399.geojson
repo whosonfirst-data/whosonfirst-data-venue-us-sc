@@ -2,13 +2,14 @@
   "id": 370870399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.775759,34.470929,-82.775759,34.470929",
     "geom:latitude":34.470929,
     "geom:longitude":-82.775759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5733 Dobbins Bridge Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370870399,
-    "wof:lastmodified":1449029988,
+    "wof:lastmodified":1467082318,
     "wof:name":"Public Well Store & Cafe",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.775759,34.470929,-82.775759,34.470929],
-  "geometry": {"coordinates":[-82.775759,34.470929],"type":"Point"}
+  "bbox": [
+    -82.775759,
+    34.470929,
+    -82.775759,
+    34.470929
+],
+  "geometry": {"coordinates":[-82.77575899999999,34.470929],"type":"Point"}
 }

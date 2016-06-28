@@ -2,13 +2,14 @@
   "id": 185773025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.186353,34.084919,-81.186353,34.084919",
     "geom:latitude":34.084919,
     "geom:longitude":-81.186353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1380 Lake Murray Blvd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185773025,
-    "wof:lastmodified":1449006802,
+    "wof:lastmodified":1467082185,
     "wof:name":"Columbia Conservatory Of Dance",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-81.186353,34.084919,-81.186353,34.084919],
+  "bbox": [
+    -81.186353,
+    34.084919,
+    -81.186353,
+    34.084919
+],
   "geometry": {"coordinates":[-81.186353,34.084919],"type":"Point"}
 }

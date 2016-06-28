@@ -2,13 +2,14 @@
   "id": 169799943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.385731,34.081085,-81.385731,34.081085",
     "geom:latitude":34.081085,
     "geom:longitude":-81.385731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"869 Island Pointe Ln",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169799943,
-    "wof:lastmodified":1449035986,
+    "wof:lastmodified":1467082388,
     "wof:name":"The Pull-Out Shelf Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "shelving"
     ]
 },
-  "bbox": [-81.385731,34.081085,-81.385731,34.081085],
-  "geometry": {"coordinates":[-81.385731,34.081085],"type":"Point"}
+  "bbox": [
+    -81.385731,
+    34.081085,
+    -81.385731,
+    34.081085
+],
+  "geometry": {"coordinates":[-81.38573100000001,34.081085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370425903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.927707,32.661793,-79.927707,32.661793",
     "geom:latitude":32.661793,
     "geom:longitude":-79.927707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 E Cooper Ave",
     "sg:city":"Folly Beach",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370425903,
-    "wof:lastmodified":1449030282,
+    "wof:lastmodified":1467082325,
     "wof:name":"Industrial Informatics Inc",
     "wof:parent_id":85847603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "system"
     ]
 },
-  "bbox": [-79.927707,32.661793,-79.927707,32.661793],
+  "bbox": [
+    -79.927707,
+    32.661793,
+    -79.927707,
+    32.661793
+],
   "geometry": {"coordinates":[-79.927707,32.661793],"type":"Point"}
 }

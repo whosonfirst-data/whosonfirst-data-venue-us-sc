@@ -2,13 +2,14 @@
   "id": 186050101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.766566,33.536055,-79.766566,33.536055",
     "geom:latitude":33.536055,
     "geom:longitude":-79.766566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1092 Taft Rd",
     "sg:city":"Salters",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186050101,
-    "wof:lastmodified":1449051857,
+    "wof:lastmodified":1467082402,
     "wof:name":"M & S Sewing & Alterations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.766566,33.536055,-79.766566,33.536055],
+  "bbox": [
+    -79.766566,
+    33.536055,
+    -79.766566,
+    33.536055
+],
   "geometry": {"coordinates":[-79.766566,33.536055],"type":"Point"}
 }

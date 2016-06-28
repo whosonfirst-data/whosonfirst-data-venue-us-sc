@@ -2,13 +2,14 @@
   "id": 185950193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.047753,32.664238,-80.047753,32.664238",
     "geom:latitude":32.664238,
     "geom:longitude":-80.047753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3499 Bonnetts Dr",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185950193,
-    "wof:lastmodified":1449007247,
+    "wof:lastmodified":1467082192,
     "wof:name":"Have Welder Will Weld",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-80.047753,32.664238,-80.047753,32.664238],
+  "bbox": [
+    -80.047753,
+    32.664238,
+    -80.047753,
+    32.664238
+],
   "geometry": {"coordinates":[-80.047753,32.664238],"type":"Point"}
 }

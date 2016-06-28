@@ -2,13 +2,14 @@
   "id": 353450883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.813145,34.187542,-79.813145,34.187542",
     "geom:latitude":34.187542,
     "geom:longitude":-79.813145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 David H McLeod Blvd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353450883,
-    "wof:lastmodified":1449020428,
+    "wof:lastmodified":1467082254,
     "wof:name":"Pepsi-Cola Bottling Co",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beverage"
     ]
 },
-  "bbox": [-79.813145,34.187542,-79.813145,34.187542],
-  "geometry": {"coordinates":[-79.813145,34.187542],"type":"Point"}
+  "bbox": [
+    -79.813145,
+    34.187542,
+    -79.813145,
+    34.187542
+],
+  "geometry": {"coordinates":[-79.81314500000001,34.187542],"type":"Point"}
 }

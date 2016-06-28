@@ -2,13 +2,14 @@
   "id": 337326767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.903218,35.015004,-81.903218,35.015004",
     "geom:latitude":35.015004,
     "geom:longitude":-81.903218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Tns Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337326767,
-    "wof:lastmodified":1449027280,
+    "wof:lastmodified":1467082278,
     "wof:name":"Blue Eagle Equipment",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.903218,35.015004,-81.903218,35.015004],
+  "bbox": [
+    -81.903218,
+    35.015004,
+    -81.903218,
+    35.015004
+],
   "geometry": {"coordinates":[-81.903218,35.015004],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169758497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.966117,32.772794,-79.966117,32.772794",
     "geom:latitude":32.772794,
     "geom:longitude":-79.966117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Albemarle Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":169758497,
-    "wof:lastmodified":1449033687,
+    "wof:lastmodified":1467082381,
     "wof:name":"Snyder Event Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.966117,32.772794,-79.966117,32.772794],
+  "bbox": [
+    -79.966117,
+    32.772794,
+    -79.966117,
+    32.772794
+],
   "geometry": {"coordinates":[-79.966117,32.772794],"type":"Point"}
 }

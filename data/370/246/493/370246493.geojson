@@ -2,13 +2,14 @@
   "id": 370246493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.785721,34.800986,-82.785721,34.800986",
     "geom:latitude":34.800986,
     "geom:longitude":-82.785721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Old Blacksmith Rd",
     "sg:city":"Six Mile",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370246493,
-    "wof:lastmodified":1449029311,
+    "wof:lastmodified":1467082303,
     "wof:name":"Pilgrim  Leroy Logging",
     "wof:parent_id":85824489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-82.785721,34.800986,-82.785721,34.800986],
+  "bbox": [
+    -82.785721,
+    34.800986,
+    -82.785721,
+    34.800986
+],
   "geometry": {"coordinates":[-82.785721,34.800986],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185642443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.089306,33.882012,-81.089306,33.882012",
     "geom:latitude":33.882012,
     "geom:longitude":-81.089306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Arrow Pt",
     "sg:city":"Saluda",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185642443,
-    "wof:lastmodified":1449006687,
+    "wof:lastmodified":1467082183,
     "wof:name":"Cactus & Ivy",
     "wof:parent_id":85828499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "beauty"
     ]
 },
-  "bbox": [-81.089306,33.882012,-81.089306,33.882012],
-  "geometry": {"coordinates":[-81.089306,33.882012],"type":"Point"}
+  "bbox": [
+    -81.089306,
+    33.882012,
+    -81.089306,
+    33.882012
+],
+  "geometry": {"coordinates":[-81.08930599999999,33.882012],"type":"Point"}
 }

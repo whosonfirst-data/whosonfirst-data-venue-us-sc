@@ -2,13 +2,14 @@
   "id": 370843531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.012158,32.899891,-80.012158,32.899891",
     "geom:latitude":32.899891,
     "geom:longitude":-80.012158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 Remount Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370843531,
-    "wof:lastmodified":1449029384,
+    "wof:lastmodified":1467082304,
     "wof:name":"Little Joann's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.012158,32.899891,-80.012158,32.899891],
+  "bbox": [
+    -80.012158,
+    32.899891,
+    -80.012158,
+    32.899891
+],
   "geometry": {"coordinates":[-80.012158,32.899891],"type":"Point"}
 }

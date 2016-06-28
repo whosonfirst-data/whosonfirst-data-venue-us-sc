@@ -2,13 +2,14 @@
   "id": 169843669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.363173,33.651368,-81.363173,33.651368",
     "geom:latitude":33.651368,
     "geom:longitude":-81.363173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Lee St N",
     "sg:city":"Wagener",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169843669,
-    "wof:lastmodified":1449032964,
+    "wof:lastmodified":1467082377,
     "wof:name":"Wagener Milling Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-81.363173,33.651368,-81.363173,33.651368],
+  "bbox": [
+    -81.363173,
+    33.651368,
+    -81.363173,
+    33.651368
+],
   "geometry": {"coordinates":[-81.363173,33.651368],"type":"Point"}
 }

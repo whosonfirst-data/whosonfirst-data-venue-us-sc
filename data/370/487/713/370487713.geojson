@@ -2,13 +2,14 @@
   "id": 370487713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.391608,33.240309,-81.391608,33.240309",
     "geom:latitude":33.240309,
     "geom:longitude":-81.391608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11347 Dunbarton Blvd",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370487713,
-    "wof:lastmodified":1449030207,
+    "wof:lastmodified":1467082323,
     "wof:name":"Express Check Advance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "banking"
     ]
 },
-  "bbox": [-81.391608,33.240309,-81.391608,33.240309],
-  "geometry": {"coordinates":[-81.391608,33.240309],"type":"Point"}
+  "bbox": [
+    -81.391608,
+    33.240309,
+    -81.391608,
+    33.240309
+],
+  "geometry": {"coordinates":[-81.39160800000001,33.240309],"type":"Point"}
 }

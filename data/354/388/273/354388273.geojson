@@ -2,13 +2,14 @@
   "id": 354388273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.101983,33.737799,-81.101983,33.737799",
     "geom:latitude":33.737799,
     "geom:longitude":-81.101983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 W 2nd St",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354388273,
-    "wof:lastmodified":1449066010,
+    "wof:lastmodified":1467082416,
     "wof:name":"Swansea Tax Svc LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-81.101983,33.737799,-81.101983,33.737799],
+  "bbox": [
+    -81.101983,
+    33.737799,
+    -81.101983,
+    33.737799
+],
   "geometry": {"coordinates":[-81.101983,33.737799],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370740347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.888255,34.970118,-81.888255,34.970118",
     "geom:latitude":34.970118,
     "geom:longitude":-81.888255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1949 E Main St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370740347,
-    "wof:lastmodified":1449030631,
+    "wof:lastmodified":1467082332,
     "wof:name":"Master's Mark Dry Cleaners",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-81.888255,34.970118,-81.888255,34.970118],
+  "bbox": [
+    -81.888255,
+    34.970118,
+    -81.888255,
+    34.970118
+],
   "geometry": {"coordinates":[-81.888255,34.970118],"type":"Point"}
 }

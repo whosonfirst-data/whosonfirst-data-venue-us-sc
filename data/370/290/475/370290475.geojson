@@ -2,13 +2,14 @@
   "id": 370290475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.907574,34.943623,-81.907574,34.943623",
     "geom:latitude":34.943623,
     "geom:longitude":-81.907574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Sunset Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370290475,
-    "wof:lastmodified":1449030542,
+    "wof:lastmodified":1467082330,
     "wof:name":"Liberty Medical Distributing",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-81.907574,34.943623,-81.907574,34.943623],
+  "bbox": [
+    -81.907574,
+    34.943623,
+    -81.907574,
+    34.943623
+],
   "geometry": {"coordinates":[-81.907574,34.943623],"type":"Point"}
 }

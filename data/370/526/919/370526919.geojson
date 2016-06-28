@@ -2,13 +2,14 @@
   "id": 370526919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.771269,33.861385,-79.771269,33.861385",
     "geom:latitude":33.861385,
     "geom:longitude":-79.771269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Lassie St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370526919,
-    "wof:lastmodified":1449030136,
+    "wof:lastmodified":1467082321,
     "wof:name":"Cornerstone Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.771269,33.861385,-79.771269,33.861385],
+  "bbox": [
+    -79.771269,
+    33.861385,
+    -79.771269,
+    33.861385
+],
   "geometry": {"coordinates":[-79.771269,33.861385],"type":"Point"}
 }

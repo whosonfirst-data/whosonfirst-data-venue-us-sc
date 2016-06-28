@@ -2,13 +2,14 @@
   "id": 370589875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.862533,33.50737,-80.862533,33.50737",
     "geom:latitude":33.50737,
     "geom:longitude":-80.862533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1099 Saint Matthews Rd",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370589875,
-    "wof:lastmodified":1449030881,
+    "wof:lastmodified":1467082338,
     "wof:name":"Hillcrest Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-80.862533,33.50737,-80.862533,33.50737],
+  "bbox": [
+    -80.862533,
+    33.50737,
+    -80.862533,
+    33.50737
+],
   "geometry": {"coordinates":[-80.862533,33.50737],"type":"Point"}
 }

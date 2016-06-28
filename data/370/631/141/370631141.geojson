@@ -2,13 +2,14 @@
   "id": 370631141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.230893,34.734055,-82.230893,34.734055",
     "geom:latitude":34.734055,
     "geom:longitude":-82.230893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Burdette Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":370631141,
-    "wof:lastmodified":1449030144,
+    "wof:lastmodified":1467082322,
     "wof:name":"Will B Fowler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-82.230893,34.734055,-82.230893,34.734055],
-  "geometry": {"coordinates":[-82.230893,34.734055],"type":"Point"}
+  "bbox": [
+    -82.230893,
+    34.734055,
+    -82.230893,
+    34.734055
+],
+  "geometry": {"coordinates":[-82.23089299999999,34.734055],"type":"Point"}
 }

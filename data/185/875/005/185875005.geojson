@@ -2,13 +2,14 @@
   "id": 185875005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.639662,34.718969,-81.639662,34.718969",
     "geom:latitude":34.718969,
     "geom:longitude":-81.639662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"599 Rice Ave",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185875005,
-    "wof:lastmodified":1449007798,
+    "wof:lastmodified":1467082201,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.639662,34.718969,-81.639662,34.718969],
+  "bbox": [
+    -81.639662,
+    34.718969,
+    -81.639662,
+    34.718969
+],
   "geometry": {"coordinates":[-81.639662,34.718969],"type":"Point"}
 }

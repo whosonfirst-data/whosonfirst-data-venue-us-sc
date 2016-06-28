@@ -2,13 +2,14 @@
   "id": 185803279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.729238,33.574665,-81.729238,33.574665",
     "geom:latitude":33.574665,
     "geom:longitude":-81.729238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Terry Dr",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185803279,
-    "wof:lastmodified":1449008227,
+    "wof:lastmodified":1467082207,
     "wof:name":"Jesus Is The Way Outreach",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.729238,33.574665,-81.729238,33.574665],
+  "bbox": [
+    -81.729238,
+    33.574665,
+    -81.729238,
+    33.574665
+],
   "geometry": {"coordinates":[-81.729238,33.574665],"type":"Point"}
 }

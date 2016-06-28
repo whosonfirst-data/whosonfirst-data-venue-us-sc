@@ -2,13 +2,14 @@
   "id": 370764101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.051517,33.552301,-79.051517,33.552301",
     "geom:latitude":33.552301,
     "geom:longitude":-79.051517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Planters Trce Lp",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370764101,
-    "wof:lastmodified":1449032311,
+    "wof:lastmodified":1467082370,
     "wof:name":"Bee Wares",
     "wof:parent_id":85854055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"
     ]
 },
-  "bbox": [-79.051517,33.552301,-79.051517,33.552301],
+  "bbox": [
+    -79.051517,
+    33.552301,
+    -79.051517,
+    33.552301
+],
   "geometry": {"coordinates":[-79.051517,33.552301],"type":"Point"}
 }

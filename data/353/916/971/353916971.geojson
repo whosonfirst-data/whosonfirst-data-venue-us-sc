@@ -2,13 +2,14 @@
   "id": 353916971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.648378,34.479596,-82.648378,34.479596",
     "geom:latitude":34.479596,
     "geom:longitude":-82.648378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2714 S Main St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353916971,
-    "wof:lastmodified":1449019662,
+    "wof:lastmodified":1467082238,
     "wof:name":"Collins Holding Corp",
     "wof:parent_id":85831829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "devices"
     ]
 },
-  "bbox": [-82.648378,34.479596,-82.648378,34.479596],
-  "geometry": {"coordinates":[-82.648378,34.479596],"type":"Point"}
+  "bbox": [
+    -82.648378,
+    34.479596,
+    -82.648378,
+    34.479596
+],
+  "geometry": {"coordinates":[-82.64837799999999,34.479596],"type":"Point"}
 }

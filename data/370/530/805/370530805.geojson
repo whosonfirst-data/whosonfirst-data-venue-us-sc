@@ -2,13 +2,14 @@
   "id": 370530805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.925891,34.958523,-81.925891,34.958523",
     "geom:latitude":34.958523,
     "geom:longitude":-81.925891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 E Daniel Morgan Ave",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370530805,
-    "wof:lastmodified":1449030876,
+    "wof:lastmodified":1467082338,
     "wof:name":"Vic Bailey Ford Inc",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.925891,34.958523,-81.925891,34.958523],
-  "geometry": {"coordinates":[-81.925891,34.958523],"type":"Point"}
+  "bbox": [
+    -81.925891,
+    34.958523,
+    -81.925891,
+    34.958523
+],
+  "geometry": {"coordinates":[-81.92589099999999,34.958523],"type":"Point"}
 }

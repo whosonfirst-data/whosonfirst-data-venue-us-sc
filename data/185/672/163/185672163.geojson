@@ -2,13 +2,14 @@
   "id": 185672163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.881501,34.289709,-79.881501,34.289709",
     "geom:latitude":34.289709,
     "geom:longitude":-79.881501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Brockington Rd",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185672163,
-    "wof:lastmodified":1449006706,
+    "wof:lastmodified":1467082184,
     "wof:name":"Church TV",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.881501,34.289709,-79.881501,34.289709],
+  "bbox": [
+    -79.881501,
+    34.289709,
+    -79.881501,
+    34.289709
+],
   "geometry": {"coordinates":[-79.881501,34.289709],"type":"Point"}
 }

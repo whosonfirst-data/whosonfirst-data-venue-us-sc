@@ -2,13 +2,14 @@
   "id": 370282621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.96355,33.63108,-78.96355,33.63108",
     "geom:latitude":33.63108,
     "geom:longitude":-78.96355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1284 Surfside Industrial Dr",
     "sg:city":"Surfside Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370282621,
-    "wof:lastmodified":1449031203,
+    "wof:lastmodified":1467082345,
     "wof:name":"Southeastern Cabinet & Trim Co",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-78.96355,33.63108,-78.96355,33.63108],
+  "bbox": [
+    -78.96355,
+    33.63108,
+    -78.96355,
+    33.63108
+],
   "geometry": {"coordinates":[-78.96355,33.63108],"type":"Point"}
 }

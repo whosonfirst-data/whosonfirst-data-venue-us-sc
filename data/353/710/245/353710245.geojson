@@ -2,13 +2,14 @@
   "id": 353710245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.289773,33.916254,-82.289773,33.916254",
     "geom:latitude":33.916254,
     "geom:longitude":-82.289773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 S Calhoun St",
     "sg:city":"Mc Cormick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353710245,
-    "wof:lastmodified":1449018413,
+    "wof:lastmodified":1467082213,
     "wof:name":"Commission Of Public Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-82.289773,33.916254,-82.289773,33.916254],
+  "bbox": [
+    -82.289773,
+    33.916254,
+    -82.289773,
+    33.916254
+],
   "geometry": {"coordinates":[-82.289773,33.916254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370601923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.785318,34.195315,-79.785318,34.195315",
     "geom:latitude":34.195315,
     "geom:longitude":-79.785318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 S Franklin Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370601923,
-    "wof:lastmodified":1449030612,
+    "wof:lastmodified":1467082332,
     "wof:name":"Insurance Services Of Sc Inc",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.785318,34.195315,-79.785318,34.195315],
+  "bbox": [
+    -79.785318,
+    34.195315,
+    -79.785318,
+    34.195315
+],
   "geometry": {"coordinates":[-79.785318,34.195315],"type":"Point"}
 }

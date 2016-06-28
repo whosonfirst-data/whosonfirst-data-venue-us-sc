@@ -2,13 +2,14 @@
   "id": 354161371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.825778,32.902584,-79.825778,32.902584",
     "geom:latitude":32.902584,
     "geom:longitude":-79.825778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2736 Four Winds Pl",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":354161371,
-    "wof:lastmodified":1449066590,
+    "wof:lastmodified":1467082429,
     "wof:name":"Better Homes Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-79.825778,32.902584,-79.825778,32.902584],
+  "bbox": [
+    -79.825778,
+    32.902584,
+    -79.825778,
+    32.902584
+],
   "geometry": {"coordinates":[-79.825778,32.902584],"type":"Point"}
 }

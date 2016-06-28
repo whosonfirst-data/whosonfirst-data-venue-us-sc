@@ -2,13 +2,14 @@
   "id": 185822927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.094657,33.884165,-81.094657,33.884165",
     "geom:latitude":33.884165,
     "geom:longitude":-81.094657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Stone Bridge Dr",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185822927,
-    "wof:lastmodified":1449008143,
+    "wof:lastmodified":1467082206,
     "wof:name":"OCain Enterprises Inc",
     "wof:parent_id":85828499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.094657,33.884165,-81.094657,33.884165],
+  "bbox": [
+    -81.094657,
+    33.884165,
+    -81.094657,
+    33.884165
+],
   "geometry": {"coordinates":[-81.094657,33.884165],"type":"Point"}
 }

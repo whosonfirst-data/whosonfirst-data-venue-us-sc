@@ -2,13 +2,14 @@
   "id": 354345573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.966707,32.742184,-79.966707,32.742184",
     "geom:latitude":32.742184,
     "geom:longitude":-79.966707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 Patterson Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354345573,
-    "wof:lastmodified":1449067536,
+    "wof:lastmodified":1467082451,
     "wof:name":"James Island Signs",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-79.966707,32.742184,-79.966707,32.742184],
+  "bbox": [
+    -79.966707,
+    32.742184,
+    -79.966707,
+    32.742184
+],
   "geometry": {"coordinates":[-79.966707,32.742184],"type":"Point"}
 }

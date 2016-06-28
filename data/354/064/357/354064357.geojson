@@ -2,13 +2,14 @@
   "id": 354064357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.075381,34.701857,-82.075381,34.701857",
     "geom:latitude":34.701857,
     "geom:longitude":-82.075381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1223 Knighton Chapel Rd",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354064357,
-    "wof:lastmodified":1449066521,
+    "wof:lastmodified":1467082428,
     "wof:name":"Duke Paint Co LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.075381,34.701857,-82.075381,34.701857],
-  "geometry": {"coordinates":[-82.075381,34.701857],"type":"Point"}
+  "bbox": [
+    -82.075381,
+    34.701857,
+    -82.075381,
+    34.701857
+],
+  "geometry": {"coordinates":[-82.07538099999999,34.701857],"type":"Point"}
 }

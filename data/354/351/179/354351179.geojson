@@ -2,13 +2,14 @@
   "id": 354351179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.791717,34.687345,-80.791717,34.687345",
     "geom:latitude":34.687345,
     "geom:longitude":-80.791717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 Great Falls Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354351179,
-    "wof:lastmodified":1449067397,
+    "wof:lastmodified":1467082448,
     "wof:name":"Patio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "deck"
     ]
 },
-  "bbox": [-80.791717,34.687345,-80.791717,34.687345],
-  "geometry": {"coordinates":[-80.791717,34.687345],"type":"Point"}
+  "bbox": [
+    -80.791717,
+    34.687345,
+    -80.791717,
+    34.687345
+],
+  "geometry": {"coordinates":[-80.79171700000001,34.687345],"type":"Point"}
 }

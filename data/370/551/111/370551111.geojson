@@ -2,13 +2,14 @@
   "id": 370551111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.764482,33.478997,-81.764482,33.478997",
     "geom:latitude":33.478997,
     "geom:longitude":-81.764482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Beaver Cove",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370551111,
-    "wof:lastmodified":1449029776,
+    "wof:lastmodified":1467082313,
     "wof:name":"Aiken Sitting Svc",
     "wof:parent_id":85812071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sitting"
     ]
 },
-  "bbox": [-81.764482,33.478997,-81.764482,33.478997],
+  "bbox": [
+    -81.764482,
+    33.478997,
+    -81.764482,
+    33.478997
+],
   "geometry": {"coordinates":[-81.764482,33.478997],"type":"Point"}
 }

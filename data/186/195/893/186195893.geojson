@@ -2,13 +2,14 @@
   "id": 186195893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.351712,33.836309,-80.351712,33.836309",
     "geom:latitude":33.836309,
     "geom:longitude":-80.351712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Catie Ct",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186195893,
-    "wof:lastmodified":1449052134,
+    "wof:lastmodified":1467082405,
     "wof:name":"Kinseys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.351712,33.836309,-80.351712,33.836309],
-  "geometry": {"coordinates":[-80.351712,33.836309],"type":"Point"}
+  "bbox": [
+    -80.351712,
+    33.836309,
+    -80.351712,
+    33.836309
+],
+  "geometry": {"coordinates":[-80.35171200000001,33.836309],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354031109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.239706,34.831111,-82.239706,34.831111",
     "geom:latitude":34.831111,
     "geom:longitude":-82.239706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Citation Way",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354031109,
-    "wof:lastmodified":1449066547,
+    "wof:lastmodified":1467082428,
     "wof:name":"Saxforte",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "saxophone"
     ]
 },
-  "bbox": [-82.239706,34.831111,-82.239706,34.831111],
+  "bbox": [
+    -82.239706,
+    34.831111,
+    -82.239706,
+    34.831111
+],
   "geometry": {"coordinates":[-82.239706,34.831111],"type":"Point"}
 }

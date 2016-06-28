@@ -2,13 +2,14 @@
   "id": 370465485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.984098,33.614838,-78.984098,33.614838",
     "geom:latitude":33.614838,
     "geom:longitude":-78.984098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1271 Glenns Bay Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370465485,
-    "wof:lastmodified":1449031355,
+    "wof:lastmodified":1467082348,
     "wof:name":"Sarah A Johnson Atty Office",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-78.984098,33.614838,-78.984098,33.614838],
+  "bbox": [
+    -78.984098,
+    33.614838,
+    -78.984098,
+    33.614838
+],
   "geometry": {"coordinates":[-78.984098,33.614838],"type":"Point"}
 }

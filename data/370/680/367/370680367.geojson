@@ -2,13 +2,14 @@
   "id": 370680367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.935827,34.950229,-81.935827,34.950229",
     "geom:latitude":34.950229,
     "geom:longitude":-81.935827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 W Saint John St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370680367,
-    "wof:lastmodified":1449031456,
+    "wof:lastmodified":1467082351,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85854631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-81.935827,34.950229,-81.935827,34.950229],
+  "bbox": [
+    -81.935827,
+    34.950229,
+    -81.935827,
+    34.950229
+],
   "geometry": {"coordinates":[-81.935827,34.950229],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185648435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.035875,33.562432,-79.035875,33.562432",
     "geom:latitude":33.562432,
     "geom:longitude":-79.035875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3947 Spanner Way",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185648435,
-    "wof:lastmodified":1449007051,
+    "wof:lastmodified":1467082189,
     "wof:name":"Santee Coffee Svc",
     "wof:parent_id":85813133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.035875,33.562432,-79.035875,33.562432],
+  "bbox": [
+    -79.035875,
+    33.562432,
+    -79.035875,
+    33.562432
+],
   "geometry": {"coordinates":[-79.035875,33.562432],"type":"Point"}
 }

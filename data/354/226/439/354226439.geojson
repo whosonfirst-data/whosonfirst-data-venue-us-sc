@@ -2,13 +2,14 @@
   "id": 354226439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.883192,32.789422,-79.883192,32.789422",
     "geom:latitude":32.789422,
     "geom:longitude":-79.883192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Haddrell St",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":354226439,
-    "wof:lastmodified":1449067194,
+    "wof:lastmodified":1467082443,
     "wof:name":"Pab Investments LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-79.883192,32.789422,-79.883192,32.789422],
-  "geometry": {"coordinates":[-79.883192,32.789422],"type":"Point"}
+  "bbox": [
+    -79.883192,
+    32.789422,
+    -79.883192,
+    32.789422
+],
+  "geometry": {"coordinates":[-79.88319199999999,32.789422],"type":"Point"}
 }

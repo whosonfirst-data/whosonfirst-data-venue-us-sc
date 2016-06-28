@@ -2,13 +2,14 @@
   "id": 354142653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.977415,32.881444,-79.977415,32.881444",
     "geom:latitude":32.881444,
     "geom:longitude":-79.977415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1079 E Montague Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354142653,
-    "wof:lastmodified":1449067291,
+    "wof:lastmodified":1467082446,
     "wof:name":"Charles Towne Stained Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.977415,32.881444,-79.977415,32.881444],
-  "geometry": {"coordinates":[-79.977415,32.881444],"type":"Point"}
+  "bbox": [
+    -79.977415,
+    32.881444,
+    -79.977415,
+    32.881444
+],
+  "geometry": {"coordinates":[-79.97741499999999,32.881444],"type":"Point"}
 }

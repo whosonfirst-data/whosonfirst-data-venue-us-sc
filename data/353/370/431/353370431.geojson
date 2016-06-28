@@ -2,13 +2,14 @@
   "id": 353370431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.001086,32.903618,-80.001086,32.903618",
     "geom:latitude":32.903618,
     "geom:longitude":-80.001086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1123 Melvin Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353370431,
-    "wof:lastmodified":1449019652,
+    "wof:lastmodified":1467082238,
     "wof:name":"Grimsley Home Inproveme",
     "wof:parent_id":85847907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.001086,32.903618,-80.001086,32.903618],
+  "bbox": [
+    -80.001086,
+    32.903618,
+    -80.001086,
+    32.903618
+],
   "geometry": {"coordinates":[-80.001086,32.903618],"type":"Point"}
 }

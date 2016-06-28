@@ -2,13 +2,14 @@
   "id": 353834435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.484997,34.832316,-82.484997,34.832316",
     "geom:latitude":34.832316,
     "geom:longitude":-82.484997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Riverview Cir",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353834435,
-    "wof:lastmodified":1449018501,
+    "wof:lastmodified":1467082215,
     "wof:name":"Carolina Chapel",
     "wof:parent_id":85838763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chapel"
     ]
 },
-  "bbox": [-82.484997,34.832316,-82.484997,34.832316],
-  "geometry": {"coordinates":[-82.484997,34.832316],"type":"Point"}
+  "bbox": [
+    -82.484997,
+    34.832316,
+    -82.484997,
+    34.832316
+],
+  "geometry": {"coordinates":[-82.48499700000001,34.832316],"type":"Point"}
 }

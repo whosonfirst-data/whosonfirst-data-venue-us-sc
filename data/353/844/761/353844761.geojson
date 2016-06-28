@@ -2,13 +2,14 @@
   "id": 353844761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.155341,34.899018,-83.155341,34.899018",
     "geom:latitude":34.899018,
     "geom:longitude":-83.155341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Camden Ln",
     "sg:city":"Mountain Rest",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353844761,
-    "wof:lastmodified":1449019336,
+    "wof:lastmodified":1467082232,
     "wof:name":"Warmer Than Paper",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "paper"
     ]
 },
-  "bbox": [-83.155341,34.899018,-83.155341,34.899018],
-  "geometry": {"coordinates":[-83.155341,34.899018],"type":"Point"}
+  "bbox": [
+    -83.155341,
+    34.899018,
+    -83.155341,
+    34.899018
+],
+  "geometry": {"coordinates":[-83.15534100000001,34.899018],"type":"Point"}
 }

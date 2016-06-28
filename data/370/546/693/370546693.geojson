@@ -2,13 +2,14 @@
   "id": 370546693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.599685,34.262792,-81.599685,34.262792",
     "geom:latitude":34.262792,
     "geom:longitude":-81.599685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2013 Dixie Dr",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370546693,
-    "wof:lastmodified":1449029058,
+    "wof:lastmodified":1467082297,
     "wof:name":"Shape & Style Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.599685,34.262792,-81.599685,34.262792],
-  "geometry": {"coordinates":[-81.599685,34.262792],"type":"Point"}
+  "bbox": [
+    -81.599685,
+    34.262792,
+    -81.599685,
+    34.262792
+],
+  "geometry": {"coordinates":[-81.59968499999999,34.262792],"type":"Point"}
 }

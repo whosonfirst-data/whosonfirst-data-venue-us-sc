@@ -2,13 +2,14 @@
   "id": 185879283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.689945,34.531192,-82.689945,34.531192",
     "geom:latitude":34.531192,
     "geom:longitude":-82.689945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Whitehall Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185879283,
-    "wof:lastmodified":1449006611,
+    "wof:lastmodified":1467082182,
     "wof:name":"T C Lending",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-82.689945,34.531192,-82.689945,34.531192],
-  "geometry": {"coordinates":[-82.689945,34.531192],"type":"Point"}
+  "bbox": [
+    -82.689945,
+    34.531192,
+    -82.689945,
+    34.531192
+],
+  "geometry": {"coordinates":[-82.68994499999999,34.531192],"type":"Point"}
 }

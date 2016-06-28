@@ -2,13 +2,14 @@
   "id": 186091525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.406381,33.88462,-80.406381,33.88462",
     "geom:latitude":33.88462,
     "geom:longitude":-80.406381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"948 Ridgehill Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186091525,
-    "wof:lastmodified":1449050507,
+    "wof:lastmodified":1467082391,
     "wof:name":"Topp Limousine LLC",
     "wof:parent_id":85817433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-80.406381,33.88462,-80.406381,33.88462],
+  "bbox": [
+    -80.406381,
+    33.88462,
+    -80.406381,
+    33.88462
+],
   "geometry": {"coordinates":[-80.406381,33.88462],"type":"Point"}
 }

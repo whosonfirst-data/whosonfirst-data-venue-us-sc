@@ -2,13 +2,14 @@
   "id": 337523833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.047311,34.958459,-81.047311,34.958459",
     "geom:latitude":34.958459,
     "geom:longitude":-81.047311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1746 Ebenezer Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337523833,
-    "wof:lastmodified":1449027416,
+    "wof:lastmodified":1467082283,
     "wof:name":"Carolina First Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.047311,34.958459,-81.047311,34.958459],
-  "geometry": {"coordinates":[-81.047311,34.958459],"type":"Point"}
+  "bbox": [
+    -81.047311,
+    34.958459,
+    -81.047311,
+    34.958459
+],
+  "geometry": {"coordinates":[-81.04731099999999,34.958459],"type":"Point"}
 }

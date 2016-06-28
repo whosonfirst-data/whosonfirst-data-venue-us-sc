@@ -2,13 +2,14 @@
   "id": 370637575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.702587,32.215324,-80.702587,32.215324",
     "geom:latitude":32.215324,
     "geom:longitude":-80.702587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 William Hilton Pkwy",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370637575,
-    "wof:lastmodified":1449029068,
+    "wof:lastmodified":1467082298,
     "wof:name":"Northridge Cinema 10",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.702587,32.215324,-80.702587,32.215324],
-  "geometry": {"coordinates":[-80.702587,32.215324],"type":"Point"}
+  "bbox": [
+    -80.702587,
+    32.215324,
+    -80.702587,
+    32.215324
+],
+  "geometry": {"coordinates":[-80.70258699999999,32.215324],"type":"Point"}
 }

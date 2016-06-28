@@ -2,13 +2,14 @@
   "id": 353589995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.899426,34.916841,-80.899426,34.916841",
     "geom:latitude":34.916841,
     "geom:longitude":-80.899426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Bianca Ct",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353589995,
-    "wof:lastmodified":1449019628,
+    "wof:lastmodified":1467082238,
     "wof:name":"Phillips Heating & Air Inc",
     "wof:parent_id":85827769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.899426,34.916841,-80.899426,34.916841],
-  "geometry": {"coordinates":[-80.899426,34.916841],"type":"Point"}
+  "bbox": [
+    -80.899426,
+    34.916841,
+    -80.899426,
+    34.916841
+],
+  "geometry": {"coordinates":[-80.89942600000001,34.916841],"type":"Point"}
 }

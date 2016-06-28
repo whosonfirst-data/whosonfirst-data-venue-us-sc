@@ -2,13 +2,14 @@
   "id": 354052109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.200927,32.991767,-80.200927,32.991767",
     "geom:latitude":32.991767,
     "geom:longitude":-80.200927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 King Charles Cir",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354052109,
-    "wof:lastmodified":1449066680,
+    "wof:lastmodified":1467082432,
     "wof:name":"Centra Archy Restaurant",
     "wof:parent_id":85851889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.200927,32.991767,-80.200927,32.991767],
-  "geometry": {"coordinates":[-80.200927,32.991767],"type":"Point"}
+  "bbox": [
+    -80.200927,
+    32.991767,
+    -80.200927,
+    32.991767
+],
+  "geometry": {"coordinates":[-80.20092699999999,32.991767],"type":"Point"}
 }

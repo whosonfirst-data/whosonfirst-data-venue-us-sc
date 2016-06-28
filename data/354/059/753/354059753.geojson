@@ -2,13 +2,14 @@
   "id": 354059753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.06713,34.227226,-81.06713,34.227226",
     "geom:latitude":34.227226,
     "geom:longitude":-81.06713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1428 Frick Rd",
     "sg:city":"Blythewood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354059753,
-    "wof:lastmodified":1449066370,
+    "wof:lastmodified":1467082424,
     "wof:name":"Pender's Electronic Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "radio"
     ]
 },
-  "bbox": [-81.06713,34.227226,-81.06713,34.227226],
-  "geometry": {"coordinates":[-81.06713,34.227226],"type":"Point"}
+  "bbox": [
+    -81.06713,
+    34.227226,
+    -81.06713,
+    34.227226
+],
+  "geometry": {"coordinates":[-81.06713000000001,34.227226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186108679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.725969,33.524682,-81.725969,33.524682",
     "geom:latitude":33.524682,
     "geom:longitude":-81.725969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Silver Bluff Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186108679,
-    "wof:lastmodified":1449050311,
+    "wof:lastmodified":1467082389,
     "wof:name":"Berry Olen Buddy",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.725969,33.524682,-81.725969,33.524682],
-  "geometry": {"coordinates":[-81.725969,33.524682],"type":"Point"}
+  "bbox": [
+    -81.725969,
+    33.524682,
+    -81.725969,
+    33.524682
+],
+  "geometry": {"coordinates":[-81.72596900000001,33.524682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370692403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.022268,33.981543,-81.022268,33.981543",
     "geom:latitude":33.981543,
     "geom:longitude":-81.022268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Rosewood Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370692403,
-    "wof:lastmodified":1449030001,
+    "wof:lastmodified":1467082318,
     "wof:name":"Shurgard Storage Ctr",
     "wof:parent_id":85826029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-81.022268,33.981543,-81.022268,33.981543],
+  "bbox": [
+    -81.022268,
+    33.981543,
+    -81.022268,
+    33.981543
+],
   "geometry": {"coordinates":[-81.022268,33.981543],"type":"Point"}
 }

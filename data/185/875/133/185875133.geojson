@@ -2,13 +2,14 @@
   "id": 185875133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.187539,32.984659,-80.187539,32.984659",
     "geom:latitude":32.984659,
     "geom:longitude":-80.187539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Covey Ct",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185875133,
-    "wof:lastmodified":1449007796,
+    "wof:lastmodified":1467082201,
     "wof:name":"Coastal Mining Co Inc",
     "wof:parent_id":85851889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gravel"
     ]
 },
-  "bbox": [-80.187539,32.984659,-80.187539,32.984659],
+  "bbox": [
+    -80.187539,
+    32.984659,
+    -80.187539,
+    32.984659
+],
   "geometry": {"coordinates":[-80.187539,32.984659],"type":"Point"}
 }

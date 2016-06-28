@@ -2,13 +2,14 @@
   "id": 169857393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.707475,34.86847,-82.707475,34.86847",
     "geom:latitude":34.86847,
     "geom:longitude":-82.707475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 McDaniel Ave",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169857393,
-    "wof:lastmodified":1449034826,
+    "wof:lastmodified":1467082384,
     "wof:name":"Pickens County Registration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.707475,34.86847,-82.707475,34.86847],
+  "bbox": [
+    -82.707475,
+    34.86847,
+    -82.707475,
+    34.86847
+],
   "geometry": {"coordinates":[-82.707475,34.86847],"type":"Point"}
 }

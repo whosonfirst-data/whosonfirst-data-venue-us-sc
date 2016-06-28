@@ -2,13 +2,14 @@
   "id": 353528727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.650741,33.368057,-80.650741,33.368057",
     "geom:latitude":33.368057,
     "geom:longitude":-80.650741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1256 Arista Rd",
     "sg:city":"Bowman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353528727,
-    "wof:lastmodified":1449018952,
+    "wof:lastmodified":1467082224,
     "wof:name":"Corbett & Sons Poultry Farm",
     "wof:parent_id":85843475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chicken"
     ]
 },
-  "bbox": [-80.650741,33.368057,-80.650741,33.368057],
+  "bbox": [
+    -80.650741,
+    33.368057,
+    -80.650741,
+    33.368057
+],
   "geometry": {"coordinates":[-80.650741,33.368057],"type":"Point"}
 }

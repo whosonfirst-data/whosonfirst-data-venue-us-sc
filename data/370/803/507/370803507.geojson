@@ -2,13 +2,14 @@
   "id": 370803507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.24626,32.774845,-80.24626,32.774845",
     "geom:latitude":32.774845,
     "geom:longitude":-80.24626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5987 State Hwy 165",
     "sg:city":"Ravenel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370803507,
-    "wof:lastmodified":1449032515,
+    "wof:lastmodified":1467082374,
     "wof:name":"First Baptist Church-Ravenel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.24626,32.774845,-80.24626,32.774845],
-  "geometry": {"coordinates":[-80.24626,32.774845],"type":"Point"}
+  "bbox": [
+    -80.24626,
+    32.774845,
+    -80.24626,
+    32.774845
+],
+  "geometry": {"coordinates":[-80.24626000000001,32.774845],"type":"Point"}
 }

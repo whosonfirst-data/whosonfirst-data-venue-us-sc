@@ -2,13 +2,14 @@
   "id": 185609825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.77878,34.165375,-79.77878,34.165375",
     "geom:latitude":34.165375,
     "geom:longitude":-79.77878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1503 Heritage Ln",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185609825,
-    "wof:lastmodified":1449007202,
+    "wof:lastmodified":1467082191,
     "wof:name":"Vacuum Center",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-79.77878,34.165375,-79.77878,34.165375],
+  "bbox": [
+    -79.77878,
+    34.165375,
+    -79.77878,
+    34.165375
+],
   "geometry": {"coordinates":[-79.77878,34.165375],"type":"Point"}
 }

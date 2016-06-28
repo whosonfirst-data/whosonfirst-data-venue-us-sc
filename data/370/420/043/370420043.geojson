@@ -2,13 +2,14 @@
   "id": 370420043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.25607,34.824164,-82.25607,34.824164",
     "geom:latitude":34.824164,
     "geom:longitude":-82.25607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Asheton Way",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370420043,
-    "wof:lastmodified":1449030714,
+    "wof:lastmodified":1467082334,
     "wof:name":"Hillside Tree Farms LLC",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-82.25607,34.824164,-82.25607,34.824164],
-  "geometry": {"coordinates":[-82.25607,34.824164],"type":"Point"}
+  "bbox": [
+    -82.25607,
+    34.824164,
+    -82.25607,
+    34.824164
+],
+  "geometry": {"coordinates":[-82.25606999999999,34.824164],"type":"Point"}
 }

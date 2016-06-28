@@ -2,13 +2,14 @@
   "id": 353579921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.320496,34.913967,-82.320496,34.913967",
     "geom:latitude":34.913967,
     "geom:longitude":-82.320496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3186 Wade Hampton Blvd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353579921,
-    "wof:lastmodified":1449019073,
+    "wof:lastmodified":1467082226,
     "wof:name":"AAAA Diamond Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.320496,34.913967,-82.320496,34.913967],
-  "geometry": {"coordinates":[-82.320496,34.913967],"type":"Point"}
+  "bbox": [
+    -82.320496,
+    34.913967,
+    -82.320496,
+    34.913967
+],
+  "geometry": {"coordinates":[-82.32049600000001,34.913967],"type":"Point"}
 }

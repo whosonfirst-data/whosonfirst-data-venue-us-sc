@@ -2,13 +2,14 @@
   "id": 370343031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.956534,33.515651,-81.956534,33.515651",
     "geom:latitude":33.515651,
     "geom:longitude":-81.956534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1766 Knox Ave",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370343031,
-    "wof:lastmodified":1449031495,
+    "wof:lastmodified":1467082351,
     "wof:name":"Riverside Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.956534,33.515651,-81.956534,33.515651],
+  "bbox": [
+    -81.956534,
+    33.515651,
+    -81.956534,
+    33.515651
+],
   "geometry": {"coordinates":[-81.956534,33.515651],"type":"Point"}
 }

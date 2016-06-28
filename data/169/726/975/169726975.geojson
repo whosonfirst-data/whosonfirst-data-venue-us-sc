@@ -2,13 +2,14 @@
   "id": 169726975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.972333,32.754407,-79.972333,32.754407",
     "geom:latitude":32.754407,
     "geom:longitude":-79.972333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Folly Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169726975,
-    "wof:lastmodified":1449034955,
+    "wof:lastmodified":1467082384,
     "wof:name":"Ravenous Reader",
     "wof:parent_id":85832547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-79.972333,32.754407,-79.972333,32.754407],
-  "geometry": {"coordinates":[-79.972333,32.754407],"type":"Point"}
+  "bbox": [
+    -79.972333,
+    32.754407,
+    -79.972333,
+    32.754407
+],
+  "geometry": {"coordinates":[-79.97233300000001,32.754407],"type":"Point"}
 }

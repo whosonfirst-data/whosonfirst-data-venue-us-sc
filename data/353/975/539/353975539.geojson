@@ -2,13 +2,14 @@
   "id": 353975539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.780737,32.789851,-79.780737,32.789851",
     "geom:latitude":32.789851,
     "geom:longitude":-79.780737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Palm Blvd",
     "sg:city":"Isle Of Palms",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353975539,
-    "wof:lastmodified":1449020457,
+    "wof:lastmodified":1467082255,
     "wof:name":"Jeter Pohl Construction",
     "wof:parent_id":85819989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-79.780737,32.789851,-79.780737,32.789851],
+  "bbox": [
+    -79.780737,
+    32.789851,
+    -79.780737,
+    32.789851
+],
   "geometry": {"coordinates":[-79.780737,32.789851],"type":"Point"}
 }

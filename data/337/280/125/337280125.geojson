@@ -2,13 +2,14 @@
   "id": 337280125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.769263,33.873541,-80.769263,33.873541",
     "geom:latitude":33.873541,
     "geom:longitude":-80.769263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 Congaree Rd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337280125,
-    "wof:lastmodified":1449027355,
+    "wof:lastmodified":1467082281,
     "wof:name":"Big T Bar-B-Q",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbecue"
     ]
 },
-  "bbox": [-80.769263,33.873541,-80.769263,33.873541],
+  "bbox": [
+    -80.769263,
+    33.873541,
+    -80.769263,
+    33.873541
+],
   "geometry": {"coordinates":[-80.769263,33.873541],"type":"Point"}
 }

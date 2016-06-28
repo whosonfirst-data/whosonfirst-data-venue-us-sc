@@ -2,13 +2,14 @@
   "id": 370196743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.256959,34.75973,-82.256959,34.75973",
     "geom:latitude":34.75973,
     "geom:longitude":-82.256959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Brookhaven Way",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370196743,
-    "wof:lastmodified":1449029861,
+    "wof:lastmodified":1467082315,
     "wof:name":"Martin K Hedrick",
     "wof:parent_id":85834923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-82.256959,34.75973,-82.256959,34.75973],
-  "geometry": {"coordinates":[-82.256959,34.75973],"type":"Point"}
+  "bbox": [
+    -82.256959,
+    34.75973,
+    -82.256959,
+    34.75973
+],
+  "geometry": {"coordinates":[-82.25695899999999,34.75973],"type":"Point"}
 }

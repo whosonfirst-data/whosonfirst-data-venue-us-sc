@@ -2,13 +2,14 @@
   "id": 186003029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.892247,34.967829,-81.892247,34.967829",
     "geom:latitude":34.967829,
     "geom:longitude":-81.892247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1854 E Main St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186003029,
-    "wof:lastmodified":1449052818,
+    "wof:lastmodified":1467082411,
     "wof:name":"North Hills Automotive",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.892247,34.967829,-81.892247,34.967829],
+  "bbox": [
+    -81.892247,
+    34.967829,
+    -81.892247,
+    34.967829
+],
   "geometry": {"coordinates":[-81.892247,34.967829],"type":"Point"}
 }

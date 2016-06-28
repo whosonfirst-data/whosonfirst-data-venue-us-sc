@@ -2,13 +2,14 @@
   "id": 370297889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.799819,32.851118,-79.799819,32.851118",
     "geom:latitude":32.851118,
     "geom:longitude":-79.799819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2628 Linnen Ln",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370297889,
-    "wof:lastmodified":1449031225,
+    "wof:lastmodified":1467082345,
     "wof:name":"Mt Plesent District Church",
     "wof:parent_id":85840345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.799819,32.851118,-79.799819,32.851118],
+  "bbox": [
+    -79.799819,
+    32.851118,
+    -79.799819,
+    32.851118
+],
   "geometry": {"coordinates":[-79.799819,32.851118],"type":"Point"}
 }

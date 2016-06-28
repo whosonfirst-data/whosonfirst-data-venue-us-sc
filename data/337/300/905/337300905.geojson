@@ -2,13 +2,14 @@
   "id": 337300905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.738566,32.430151,-80.738566,32.430151",
     "geom:latitude":32.430151,
     "geom:longitude":-80.738566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Milledge Village Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337300905,
-    "wof:lastmodified":1449027409,
+    "wof:lastmodified":1467082283,
     "wof:name":"Faithful Christian Church",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.738566,32.430151,-80.738566,32.430151],
-  "geometry": {"coordinates":[-80.738566,32.430151],"type":"Point"}
+  "bbox": [
+    -80.738566,
+    32.430151,
+    -80.738566,
+    32.430151
+],
+  "geometry": {"coordinates":[-80.73856600000001,32.430151],"type":"Point"}
 }

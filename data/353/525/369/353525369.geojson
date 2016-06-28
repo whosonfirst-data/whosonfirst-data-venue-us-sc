@@ -2,13 +2,14 @@
   "id": 353525369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.568612,34.827461,-82.568612,34.827461",
     "geom:latitude":34.827461,
     "geom:longitude":-82.568612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 E Main St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353525369,
-    "wof:lastmodified":1449020294,
+    "wof:lastmodified":1467082251,
     "wof:name":"Olson Smith Jordan & Cox",
     "wof:parent_id":85819785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.568612,34.827461,-82.568612,34.827461],
+  "bbox": [
+    -82.568612,
+    34.827461,
+    -82.568612,
+    34.827461
+],
   "geometry": {"coordinates":[-82.568612,34.827461],"type":"Point"}
 }

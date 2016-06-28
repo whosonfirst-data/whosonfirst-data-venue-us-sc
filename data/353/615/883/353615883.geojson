@@ -2,13 +2,14 @@
   "id": 353615883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.19628,33.973212,-81.19628,33.973212",
     "geom:latitude":33.973212,
     "geom:longitude":-81.19628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 Dooley Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353615883,
-    "wof:lastmodified":1449019063,
+    "wof:lastmodified":1467082226,
     "wof:name":"Kenan Transport Company",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.19628,33.973212,-81.19628,33.973212],
+  "bbox": [
+    -81.19628,
+    33.973212,
+    -81.19628,
+    33.973212
+],
   "geometry": {"coordinates":[-81.19628,33.973212],"type":"Point"}
 }

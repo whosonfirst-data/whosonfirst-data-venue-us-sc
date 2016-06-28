@@ -2,13 +2,14 @@
   "id": 353667601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.011156,33.761824,-79.011156,33.761824",
     "geom:latitude":33.761824,
     "geom:longitude":-79.011156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1082 Courtyard Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353667601,
-    "wof:lastmodified":1449019911,
+    "wof:lastmodified":1467082243,
     "wof:name":"Wayne's Electric Svc",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.011156,33.761824,-79.011156,33.761824],
+  "bbox": [
+    -79.011156,
+    33.761824,
+    -79.011156,
+    33.761824
+],
   "geometry": {"coordinates":[-79.011156,33.761824],"type":"Point"}
 }

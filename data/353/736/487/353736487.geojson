@@ -2,13 +2,14 @@
   "id": 353736487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.953437,34.686982,-82.953437,34.686982",
     "geom:latitude":34.686982,
     "geom:longitude":-82.953437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 N Townville St",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353736487,
-    "wof:lastmodified":1449020745,
+    "wof:lastmodified":1467082261,
     "wof:name":"Byrd-Mc Lellan Agency Inc",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.953437,34.686982,-82.953437,34.686982],
-  "geometry": {"coordinates":[-82.953437,34.686982],"type":"Point"}
+  "bbox": [
+    -82.953437,
+    34.686982,
+    -82.953437,
+    34.686982
+],
+  "geometry": {"coordinates":[-82.95343699999999,34.686982],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353434283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.772038,34.415147,-80.772038,34.415147",
     "geom:latitude":34.415147,
     "geom:longitude":-80.772038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2079 Sailing Club Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353434283,
-    "wof:lastmodified":1449018820,
+    "wof:lastmodified":1467082221,
     "wof:name":"House Doctor",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.772038,34.415147,-80.772038,34.415147],
-  "geometry": {"coordinates":[-80.772038,34.415147],"type":"Point"}
+  "bbox": [
+    -80.772038,
+    34.415147,
+    -80.772038,
+    34.415147
+],
+  "geometry": {"coordinates":[-80.77203799999999,34.415147],"type":"Point"}
 }

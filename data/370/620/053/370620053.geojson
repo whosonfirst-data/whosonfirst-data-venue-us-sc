@@ -2,13 +2,14 @@
   "id": 370620053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.94951,35.020691,-81.94951,35.020691",
     "geom:latitude":35.020691,
     "geom:longitude":-81.94951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3548 Parris Bridge Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370620053,
-    "wof:lastmodified":1449032182,
+    "wof:lastmodified":1467082367,
     "wof:name":"Wynn's Weddings & Portrait",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chapel"
     ]
 },
-  "bbox": [-81.94951,35.020691,-81.94951,35.020691],
+  "bbox": [
+    -81.94951,
+    35.020691,
+    -81.94951,
+    35.020691
+],
   "geometry": {"coordinates":[-81.94951,35.020691],"type":"Point"}
 }

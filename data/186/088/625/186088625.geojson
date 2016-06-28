@@ -2,13 +2,14 @@
   "id": 186088625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.01547,34.01819,-81.01547,34.01819",
     "geom:latitude":34.01819,
     "geom:longitude":-81.01547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1929 Harper St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186088625,
-    "wof:lastmodified":1449052408,
+    "wof:lastmodified":1467082407,
     "wof:name":"Eva P Trezevant Memorial Libr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-81.01547,34.01819,-81.01547,34.01819],
-  "geometry": {"coordinates":[-81.01547,34.01819],"type":"Point"}
+  "bbox": [
+    -81.01547,
+    34.01819,
+    -81.01547,
+    34.01819
+],
+  "geometry": {"coordinates":[-81.01546999999999,34.01819],"type":"Point"}
 }

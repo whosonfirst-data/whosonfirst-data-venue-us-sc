@@ -2,13 +2,14 @@
   "id": 370178081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.892814,35.179632,-81.892814,35.179632",
     "geom:latitude":35.179632,
     "geom:longitude":-81.892814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1319 Henderson Rd",
     "sg:city":"Chesnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370178081,
-    "wof:lastmodified":1449031521,
+    "wof:lastmodified":1467082352,
     "wof:name":"Electrical Engineers",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-81.892814,35.179632,-81.892814,35.179632],
+  "bbox": [
+    -81.892814,
+    35.179632,
+    -81.892814,
+    35.179632
+],
   "geometry": {"coordinates":[-81.892814,35.179632],"type":"Point"}
 }

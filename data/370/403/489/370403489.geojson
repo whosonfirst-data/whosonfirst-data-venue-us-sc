@@ -2,13 +2,14 @@
   "id": 370403489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.037686,34.010625,-81.037686,34.010625",
     "geom:latitude":34.010625,
     "geom:longitude":-81.037686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Main St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370403489,
-    "wof:lastmodified":1449031993,
+    "wof:lastmodified":1467082363,
     "wof:name":"Information & Referral United",
     "wof:parent_id":85897263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "referral"
     ]
 },
-  "bbox": [-81.037686,34.010625,-81.037686,34.010625],
-  "geometry": {"coordinates":[-81.037686,34.010625],"type":"Point"}
+  "bbox": [
+    -81.037686,
+    34.010625,
+    -81.037686,
+    34.010625
+],
+  "geometry": {"coordinates":[-81.03768599999999,34.010625],"type":"Point"}
 }

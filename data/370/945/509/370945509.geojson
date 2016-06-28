@@ -2,13 +2,14 @@
   "id": 370945509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.178226,33.971895,-81.178226,33.971895",
     "geom:latitude":33.971895,
     "geom:longitude":-81.178226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Freestone Ln",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370945509,
-    "wof:lastmodified":1449029373,
+    "wof:lastmodified":1467082304,
     "wof:name":"Holley Brown",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-81.178226,33.971895,-81.178226,33.971895],
+  "bbox": [
+    -81.178226,
+    33.971895,
+    -81.178226,
+    33.971895
+],
   "geometry": {"coordinates":[-81.178226,33.971895],"type":"Point"}
 }

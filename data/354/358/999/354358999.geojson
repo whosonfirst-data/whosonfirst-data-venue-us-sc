@@ -2,13 +2,14 @@
   "id": 354358999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.913982,34.945324,-81.913982,34.945324",
     "geom:latitude":34.945324,
     "geom:longitude":-81.913982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 S Pine St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354358999,
-    "wof:lastmodified":1449066638,
+    "wof:lastmodified":1467082431,
     "wof:name":"Elizabeth A Jabbour DDS",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.913982,34.945324,-81.913982,34.945324],
+  "bbox": [
+    -81.913982,
+    34.945324,
+    -81.913982,
+    34.945324
+],
   "geometry": {"coordinates":[-81.913982,34.945324],"type":"Point"}
 }

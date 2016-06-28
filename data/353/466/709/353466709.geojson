@@ -2,13 +2,14 @@
   "id": 353466709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.150807,35.081778,-81.150807,35.081778",
     "geom:latitude":35.081778,
     "geom:longitude":-81.150807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3213 Agean Ln",
     "sg:city":"York",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353466709,
-    "wof:lastmodified":1449019026,
+    "wof:lastmodified":1467082225,
     "wof:name":"HLC Trucking Inc",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.150807,35.081778,-81.150807,35.081778],
+  "bbox": [
+    -81.150807,
+    35.081778,
+    -81.150807,
+    35.081778
+],
   "geometry": {"coordinates":[-81.150807,35.081778],"type":"Point"}
 }

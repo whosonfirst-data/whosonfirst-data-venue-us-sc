@@ -2,13 +2,14 @@
   "id": 370193101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.657263,32.982526,-79.657263,32.982526",
     "geom:latitude":32.982526,
     "geom:longitude":-79.657263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6201 N Hwy 17",
     "sg:city":"Awendaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370193101,
-    "wof:lastmodified":1449029633,
+    "wof:lastmodified":1467082310,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.657263,32.982526,-79.657263,32.982526],
+  "bbox": [
+    -79.657263,
+    32.982526,
+    -79.657263,
+    32.982526
+],
   "geometry": {"coordinates":[-79.657263,32.982526],"type":"Point"}
 }

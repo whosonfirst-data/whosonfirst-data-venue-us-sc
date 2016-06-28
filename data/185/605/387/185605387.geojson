@@ -2,13 +2,14 @@
   "id": 185605387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.158394,34.175795,-82.158394,34.175795",
     "geom:latitude":34.175795,
     "geom:longitude":-82.158394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 Spring St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185605387,
-    "wof:lastmodified":1449007415,
+    "wof:lastmodified":1467082195,
     "wof:name":"Blood Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-82.158394,34.175795,-82.158394,34.175795],
+  "bbox": [
+    -82.158394,
+    34.175795,
+    -82.158394,
+    34.175795
+],
   "geometry": {"coordinates":[-82.158394,34.175795],"type":"Point"}
 }

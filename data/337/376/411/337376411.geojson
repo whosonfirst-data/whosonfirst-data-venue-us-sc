@@ -2,13 +2,14 @@
   "id": 337376411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.587723,34.549484,-80.587723,34.549484",
     "geom:latitude":34.549484,
     "geom:longitude":-80.587723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 W Church St",
     "sg:city":"Kershaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337376411,
-    "wof:lastmodified":1449027218,
+    "wof:lastmodified":1467082276,
     "wof:name":"Wksc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"
     ]
 },
-  "bbox": [-80.587723,34.549484,-80.587723,34.549484],
+  "bbox": [
+    -80.587723,
+    34.549484,
+    -80.587723,
+    34.549484
+],
   "geometry": {"coordinates":[-80.587723,34.549484],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337381303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.636783,35.075392,-81.636783,35.075392",
     "geom:latitude":35.075392,
     "geom:longitude":-81.636783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Spruce St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337381303,
-    "wof:lastmodified":1449027006,
+    "wof:lastmodified":1467082267,
     "wof:name":"Mary Bramlett Elementary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.636783,35.075392,-81.636783,35.075392],
-  "geometry": {"coordinates":[-81.636783,35.075392],"type":"Point"}
+  "bbox": [
+    -81.636783,
+    35.075392,
+    -81.636783,
+    35.075392
+],
+  "geometry": {"coordinates":[-81.63678299999999,35.075392],"type":"Point"}
 }

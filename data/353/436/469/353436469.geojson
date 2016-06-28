@@ -2,13 +2,14 @@
   "id": 353436469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.881392,33.965873,-80.881392,33.965873",
     "geom:latitude":33.965873,
     "geom:longitude":-80.881392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Bitternut Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353436469,
-    "wof:lastmodified":1449020567,
+    "wof:lastmodified":1467082257,
     "wof:name":"Hickory Ridge Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-80.881392,33.965873,-80.881392,33.965873],
-  "geometry": {"coordinates":[-80.881392,33.965873],"type":"Point"}
+  "bbox": [
+    -80.881392,
+    33.965873,
+    -80.881392,
+    33.965873
+],
+  "geometry": {"coordinates":[-80.88139200000001,33.965873],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354087003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.393248,34.154496,-82.393248,34.154496",
     "geom:latitude":34.154496,
     "geom:longitude":-82.393248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Union Church Rd",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354087003,
-    "wof:lastmodified":1449066704,
+    "wof:lastmodified":1467082432,
     "wof:name":"Beauford's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "parts"
     ]
 },
-  "bbox": [-82.393248,34.154496,-82.393248,34.154496],
+  "bbox": [
+    -82.393248,
+    34.154496,
+    -82.393248,
+    34.154496
+],
   "geometry": {"coordinates":[-82.393248,34.154496],"type":"Point"}
 }

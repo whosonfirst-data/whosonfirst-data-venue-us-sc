@@ -2,13 +2,14 @@
   "id": 370195591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.070983,32.757801,-80.070983,32.757801",
     "geom:latitude":32.757801,
     "geom:longitude":-80.070983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"831 Brownswood Rd",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370195591,
-    "wof:lastmodified":1449031300,
+    "wof:lastmodified":1467082347,
     "wof:name":"Sea Island Claims Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.070983,32.757801,-80.070983,32.757801],
+  "bbox": [
+    -80.070983,
+    32.757801,
+    -80.070983,
+    32.757801
+],
   "geometry": {"coordinates":[-80.070983,32.757801],"type":"Point"}
 }

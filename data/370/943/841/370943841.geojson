@@ -2,13 +2,14 @@
   "id": 370943841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.2148,34.945363,-82.2148,34.945363",
     "geom:latitude":34.945363,
     "geom:longitude":-82.2148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Francis St",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370943841,
-    "wof:lastmodified":1449029992,
+    "wof:lastmodified":1467082318,
     "wof:name":"GSR Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brake"
     ]
 },
-  "bbox": [-82.2148,34.945363,-82.2148,34.945363],
+  "bbox": [
+    -82.2148,
+    34.945363,
+    -82.2148,
+    34.945363
+],
   "geometry": {"coordinates":[-82.2148,34.945363],"type":"Point"}
 }

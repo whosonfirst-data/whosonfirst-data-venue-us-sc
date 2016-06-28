@@ -2,13 +2,14 @@
   "id": 370209305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.226979,34.787047,-82.226979,34.787047",
     "geom:latitude":34.787047,
     "geom:longitude":-82.226979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Bathurst Ln",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370209305,
-    "wof:lastmodified":1449032116,
+    "wof:lastmodified":1467082365,
     "wof:name":"House Doctors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.226979,34.787047,-82.226979,34.787047],
+  "bbox": [
+    -82.226979,
+    34.787047,
+    -82.226979,
+    34.787047
+],
   "geometry": {"coordinates":[-82.226979,34.787047],"type":"Point"}
 }

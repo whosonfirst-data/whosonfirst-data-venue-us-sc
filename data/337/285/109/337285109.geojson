@@ -2,13 +2,14 @@
   "id": 337285109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.051751,33.611608,-79.051751,33.611608",
     "geom:latitude":33.611608,
     "geom:longitude":-79.051751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10615 State Hwy 707",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337285109,
-    "wof:lastmodified":1449026955,
+    "wof:lastmodified":1467082265,
     "wof:name":"Grand Strand Concrete Contrs",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.051751,33.611608,-79.051751,33.611608],
+  "bbox": [
+    -79.051751,
+    33.611608,
+    -79.051751,
+    33.611608
+],
   "geometry": {"coordinates":[-79.051751,33.611608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353816971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.19628,33.973201,-81.19628,33.973201",
     "geom:latitude":33.973201,
     "geom:longitude":-81.19628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 Dooley Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353816971,
-    "wof:lastmodified":1449019758,
+    "wof:lastmodified":1467082240,
     "wof:name":"Columbia Container Corp",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-81.19628,33.973201,-81.19628,33.973201],
+  "bbox": [
+    -81.19628,
+    33.973201,
+    -81.19628,
+    33.973201
+],
   "geometry": {"coordinates":[-81.19628,33.973201],"type":"Point"}
 }

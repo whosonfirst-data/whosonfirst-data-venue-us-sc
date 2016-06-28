@@ -2,13 +2,14 @@
   "id": 370326991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.989739,34.019127,-80.989739,34.019127",
     "geom:latitude":34.019127,
     "geom:longitude":-80.989739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Forest Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370326991,
-    "wof:lastmodified":1449030524,
+    "wof:lastmodified":1467082330,
     "wof:name":"Columbia Art Cstm Frmng Gllery",
     "wof:parent_id":85819781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.989739,34.019127,-80.989739,34.019127],
+  "bbox": [
+    -80.989739,
+    34.019127,
+    -80.989739,
+    34.019127
+],
   "geometry": {"coordinates":[-80.989739,34.019127],"type":"Point"}
 }

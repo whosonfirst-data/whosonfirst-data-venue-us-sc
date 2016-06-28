@@ -2,13 +2,14 @@
   "id": 354274441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.985628,33.681437,-78.985628,33.681437",
     "geom:latitude":33.681437,
     "geom:longitude":-78.985628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Rice Mill Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354274441,
-    "wof:lastmodified":1449066145,
+    "wof:lastmodified":1467082419,
     "wof:name":"Affordable Home Improvements",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-78.985628,33.681437,-78.985628,33.681437],
-  "geometry": {"coordinates":[-78.985628,33.681437],"type":"Point"}
+  "bbox": [
+    -78.985628,
+    33.681437,
+    -78.985628,
+    33.681437
+],
+  "geometry": {"coordinates":[-78.98562800000001,33.681437],"type":"Point"}
 }

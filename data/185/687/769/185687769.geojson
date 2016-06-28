@@ -2,13 +2,14 @@
   "id": 185687769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.002049,34.056396,-81.002049,34.056396",
     "geom:latitude":34.056396,
     "geom:longitude":-81.002049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5889 Ames Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185687769,
-    "wof:lastmodified":1449007055,
+    "wof:lastmodified":1467082189,
     "wof:name":"Church Of Christ Ames Road",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.002049,34.056396,-81.002049,34.056396],
+  "bbox": [
+    -81.002049,
+    34.056396,
+    -81.002049,
+    34.056396
+],
   "geometry": {"coordinates":[-81.002049,34.056396],"type":"Point"}
 }

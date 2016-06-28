@@ -2,13 +2,14 @@
   "id": 370816543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.994686,32.783658,-79.994686,32.783658",
     "geom:latitude":32.783658,
     "geom:longitude":-79.994686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Savannah Hwy",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370816543,
-    "wof:lastmodified":1449031047,
+    "wof:lastmodified":1467082341,
     "wof:name":"Psi Omega Fraternity",
     "wof:parent_id":85838657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-79.994686,32.783658,-79.994686,32.783658],
+  "bbox": [
+    -79.994686,
+    32.783658,
+    -79.994686,
+    32.783658
+],
   "geometry": {"coordinates":[-79.994686,32.783658],"type":"Point"}
 }

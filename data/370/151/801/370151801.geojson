@@ -2,13 +2,14 @@
   "id": 370151801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.013984,32.904482,-80.013984,32.904482",
     "geom:latitude":32.904482,
     "geom:longitude":-80.013984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Borge St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370151801,
-    "wof:lastmodified":1449029104,
+    "wof:lastmodified":1467082299,
     "wof:name":"Andys Mobile Home Movers Inc",
     "wof:parent_id":85805661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.013984,32.904482,-80.013984,32.904482],
-  "geometry": {"coordinates":[-80.013984,32.904482],"type":"Point"}
+  "bbox": [
+    -80.013984,
+    32.904482,
+    -80.013984,
+    32.904482
+],
+  "geometry": {"coordinates":[-80.01398399999999,32.904482],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370873709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.999154,33.785625,-78.999154,33.785625",
     "geom:latitude":33.785625,
     "geom:longitude":-78.999154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Waccamaw Medical Park Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370873709,
-    "wof:lastmodified":1449029798,
+    "wof:lastmodified":1467082314,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.999154,33.785625,-78.999154,33.785625],
+  "bbox": [
+    -78.999154,
+    33.785625,
+    -78.999154,
+    33.785625
+],
   "geometry": {"coordinates":[-78.999154,33.785625],"type":"Point"}
 }

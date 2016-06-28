@@ -2,13 +2,14 @@
   "id": 370237287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.537873,34.825327,-82.537873,34.825327",
     "geom:latitude":34.825327,
     "geom:longitude":-82.537873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Bobbie Ln",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370237287,
-    "wof:lastmodified":1449029147,
+    "wof:lastmodified":1467082300,
     "wof:name":"PTO Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.537873,34.825327,-82.537873,34.825327],
+  "bbox": [
+    -82.537873,
+    34.825327,
+    -82.537873,
+    34.825327
+],
   "geometry": {"coordinates":[-82.537873,34.825327],"type":"Point"}
 }

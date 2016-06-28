@@ -2,13 +2,14 @@
   "id": 337376559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.208283,34.721795,-83.208283,34.721795",
     "geom:latitude":34.721795,
     "geom:longitude":-83.208283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 Lem Burton Rd",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337376559,
-    "wof:lastmodified":1449027218,
+    "wof:lastmodified":1467082276,
     "wof:name":"Marcus Logging Co",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-83.208283,34.721795,-83.208283,34.721795],
-  "geometry": {"coordinates":[-83.208283,34.721795],"type":"Point"}
+  "bbox": [
+    -83.208283,
+    34.721795,
+    -83.208283,
+    34.721795
+],
+  "geometry": {"coordinates":[-83.20828299999999,34.721795],"type":"Point"}
 }

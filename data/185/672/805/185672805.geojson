@@ -2,13 +2,14 @@
   "id": 185672805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.39605,34.854313,-82.39605,34.854313",
     "geom:latitude":34.854313,
     "geom:longitude":-82.39605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Insignia Pl",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185672805,
-    "wof:lastmodified":1449006703,
+    "wof:lastmodified":1467082184,
     "wof:name":"First Union",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-82.39605,34.854313,-82.39605,34.854313],
+  "bbox": [
+    -82.39605,
+    34.854313,
+    -82.39605,
+    34.854313
+],
   "geometry": {"coordinates":[-82.39605,34.854313],"type":"Point"}
 }

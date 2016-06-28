@@ -2,13 +2,14 @@
   "id": 370508591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.259955,34.20535,-79.259955,34.20535",
     "geom:latitude":34.20535,
     "geom:longitude":-79.259955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Seaboard Ave",
     "sg:city":"Johnsonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370508591,
-    "wof:lastmodified":1449030968,
+    "wof:lastmodified":1467082340,
     "wof:name":"Holy Spirit Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "religious"
     ]
 },
-  "bbox": [-79.259955,34.20535,-79.259955,34.20535],
-  "geometry": {"coordinates":[-79.259955,34.20535],"type":"Point"}
+  "bbox": [
+    -79.259955,
+    34.20535,
+    -79.259955,
+    34.20535
+],
+  "geometry": {"coordinates":[-79.25995500000001,34.20535],"type":"Point"}
 }

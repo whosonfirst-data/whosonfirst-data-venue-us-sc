@@ -2,13 +2,14 @@
   "id": 185762193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.970936,35.067593,-80.970936,35.067593",
     "geom:latitude":35.067593,
     "geom:longitude":-80.970936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 W Cheval Dr",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185762193,
-    "wof:lastmodified":1449007737,
+    "wof:lastmodified":1467082200,
     "wof:name":"Royal Lawn & Landscaping",
     "wof:parent_id":85843859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.970936,35.067593,-80.970936,35.067593],
-  "geometry": {"coordinates":[-80.970936,35.067593],"type":"Point"}
+  "bbox": [
+    -80.970936,
+    35.067593,
+    -80.970936,
+    35.067593
+],
+  "geometry": {"coordinates":[-80.97093599999999,35.067593],"type":"Point"}
 }

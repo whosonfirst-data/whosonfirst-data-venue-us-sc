@@ -2,13 +2,14 @@
   "id": 337567495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.724541,33.514773,-81.724541,33.514773",
     "geom:latitude":33.514773,
     "geom:longitude":-81.724541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 Dougherty Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337567495,
-    "wof:lastmodified":1449027739,
+    "wof:lastmodified":1467082295,
     "wof:name":"Blue Ridge Energy Svc",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conservation"
     ]
 },
-  "bbox": [-81.724541,33.514773,-81.724541,33.514773],
+  "bbox": [
+    -81.724541,
+    33.514773,
+    -81.724541,
+    33.514773
+],
   "geometry": {"coordinates":[-81.724541,33.514773],"type":"Point"}
 }

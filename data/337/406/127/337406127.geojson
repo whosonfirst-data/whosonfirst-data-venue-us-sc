@@ -2,13 +2,14 @@
   "id": 337406127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.010125,34.176284,-82.010125,34.176284",
     "geom:latitude":34.176284,
     "geom:longitude":-82.010125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4306 State Hwy 702",
     "sg:city":"Ninety Six",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337406127,
-    "wof:lastmodified":1449027385,
+    "wof:lastmodified":1467082282,
     "wof:name":"702 Bait & Tackle",
     "wof:parent_id":85811917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fishing"
     ]
 },
-  "bbox": [-82.010125,34.176284,-82.010125,34.176284],
+  "bbox": [
+    -82.010125,
+    34.176284,
+    -82.010125,
+    34.176284
+],
   "geometry": {"coordinates":[-82.010125,34.176284],"type":"Point"}
 }

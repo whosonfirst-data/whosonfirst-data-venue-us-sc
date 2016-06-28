@@ -2,13 +2,14 @@
   "id": 370953131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.79487,34.721162,-80.79487,34.721162",
     "geom:latitude":34.721162,
     "geom:longitude":-80.79487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1228 Colonial Commons Ct",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370953131,
-    "wof:lastmodified":1449031413,
+    "wof:lastmodified":1467082350,
     "wof:name":"Colonial Compounding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.79487,34.721162,-80.79487,34.721162],
+  "bbox": [
+    -80.79487,
+    34.721162,
+    -80.79487,
+    34.721162
+],
   "geometry": {"coordinates":[-80.79487,34.721162],"type":"Point"}
 }

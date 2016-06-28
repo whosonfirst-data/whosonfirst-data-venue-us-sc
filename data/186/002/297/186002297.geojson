@@ -2,13 +2,14 @@
   "id": 186002297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.889859,34.056929,-78.889859,34.056929",
     "geom:latitude":34.056929,
     "geom:longitude":-78.889859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4103 Walnut St",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186002297,
-    "wof:lastmodified":1449052523,
+    "wof:lastmodified":1467082408,
     "wof:name":"Loris Fire Dept",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-78.889859,34.056929,-78.889859,34.056929],
+  "bbox": [
+    -78.889859,
+    34.056929,
+    -78.889859,
+    34.056929
+],
   "geometry": {"coordinates":[-78.889859,34.056929],"type":"Point"}
 }

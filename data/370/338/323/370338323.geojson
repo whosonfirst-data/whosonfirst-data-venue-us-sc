@@ -2,13 +2,14 @@
   "id": 370338323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.860739,35.012365,-81.860739,35.012365",
     "geom:latitude":35.012365,
     "geom:longitude":-81.860739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1932 Bud Arthur Bridge Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370338323,
-    "wof:lastmodified":1449030269,
+    "wof:lastmodified":1467082324,
     "wof:name":"Tom Shealy",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.860739,35.012365,-81.860739,35.012365],
+  "bbox": [
+    -81.860739,
+    35.012365,
+    -81.860739,
+    35.012365
+],
   "geometry": {"coordinates":[-81.860739,35.012365],"type":"Point"}
 }

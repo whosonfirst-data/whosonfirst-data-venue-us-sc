@@ -2,13 +2,14 @@
   "id": 185631501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.903853,34.1255,-80.903853,34.1255",
     "geom:latitude":34.1255,
     "geom:longitude":-80.903853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Greensprings Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185631501,
-    "wof:lastmodified":1449007105,
+    "wof:lastmodified":1467082190,
     "wof:name":"Columbia Life Improvement Ctr",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.903853,34.1255,-80.903853,34.1255],
+  "bbox": [
+    -80.903853,
+    34.1255,
+    -80.903853,
+    34.1255
+],
   "geometry": {"coordinates":[-80.903853,34.1255],"type":"Point"}
 }

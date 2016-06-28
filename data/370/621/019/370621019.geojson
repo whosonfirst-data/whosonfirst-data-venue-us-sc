@@ -2,13 +2,14 @@
   "id": 370621019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.386506,34.849011,-82.386506,34.849011",
     "geom:latitude":34.849011,
     "geom:longitude":-82.386506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 E Washington St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370621019,
-    "wof:lastmodified":1449032074,
+    "wof:lastmodified":1467082364,
     "wof:name":"Impressions Media Svc",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "buying"
     ]
 },
-  "bbox": [-82.386506,34.849011,-82.386506,34.849011],
+  "bbox": [
+    -82.386506,
+    34.849011,
+    -82.386506,
+    34.849011
+],
   "geometry": {"coordinates":[-82.386506,34.849011],"type":"Point"}
 }

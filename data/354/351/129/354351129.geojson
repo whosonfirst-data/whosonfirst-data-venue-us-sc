@@ -2,13 +2,14 @@
   "id": 354351129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.125223,33.88852,-79.125223,33.88852",
     "geom:latitude":33.88852,
     "geom:longitude":-79.125223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1057 D St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354351129,
-    "wof:lastmodified":1449067394,
+    "wof:lastmodified":1467082448,
     "wof:name":"Donald Goude Brown Swamp Svc",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-79.125223,33.88852,-79.125223,33.88852],
-  "geometry": {"coordinates":[-79.125223,33.88852],"type":"Point"}
+  "bbox": [
+    -79.125223,
+    33.88852,
+    -79.125223,
+    33.88852
+],
+  "geometry": {"coordinates":[-79.12522300000001,33.88852],"type":"Point"}
 }

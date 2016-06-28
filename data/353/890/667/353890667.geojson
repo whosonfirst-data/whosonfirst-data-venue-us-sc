@@ -2,13 +2,14 @@
   "id": 353890667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.431765,33.642943,-79.431765,33.642943",
     "geom:latitude":33.642943,
     "geom:longitude":-79.431765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Henry Rd",
     "sg:city":"Hemingway",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353890667,
-    "wof:lastmodified":1449018828,
+    "wof:lastmodified":1467082221,
     "wof:name":"Black Mingo Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.431765,33.642943,-79.431765,33.642943],
+  "bbox": [
+    -79.431765,
+    33.642943,
+    -79.431765,
+    33.642943
+],
   "geometry": {"coordinates":[-79.431765,33.642943],"type":"Point"}
 }

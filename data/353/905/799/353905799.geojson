@@ -2,13 +2,14 @@
   "id": 353905799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.941854,34.907501,-81.941854,34.907501",
     "geom:latitude":34.907501,
     "geom:longitude":-81.941854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Tucker Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353905799,
-    "wof:lastmodified":1449019270,
+    "wof:lastmodified":1467082230,
     "wof:name":"Thompson Landscaping",
     "wof:parent_id":85828171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.941854,34.907501,-81.941854,34.907501],
-  "geometry": {"coordinates":[-81.941854,34.907501],"type":"Point"}
+  "bbox": [
+    -81.941854,
+    34.907501,
+    -81.941854,
+    34.907501
+],
+  "geometry": {"coordinates":[-81.94185400000001,34.907501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370716027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.679515,32.434573,-80.679515,32.434573",
     "geom:latitude":32.434573,
     "geom:longitude":-80.679515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 King St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370716027,
-    "wof:lastmodified":1449029570,
+    "wof:lastmodified":1467082309,
     "wof:name":"Sherwood N Fender & Assoc",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.679515,32.434573,-80.679515,32.434573],
-  "geometry": {"coordinates":[-80.679515,32.434573],"type":"Point"}
+  "bbox": [
+    -80.679515,
+    32.434573,
+    -80.679515,
+    32.434573
+],
+  "geometry": {"coordinates":[-80.67951499999999,32.434573],"type":"Point"}
 }

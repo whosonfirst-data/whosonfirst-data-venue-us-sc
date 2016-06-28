@@ -2,13 +2,14 @@
   "id": 353710671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.06908,33.907522,-79.06908,33.907522",
     "geom:latitude":33.907522,
     "geom:longitude":-79.06908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4196 State Hwy 319 E",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353710671,
-    "wof:lastmodified":1449018413,
+    "wof:lastmodified":1467082213,
     "wof:name":"Graces Catering",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.06908,33.907522,-79.06908,33.907522],
+  "bbox": [
+    -79.06908,
+    33.907522,
+    -79.06908,
+    33.907522
+],
   "geometry": {"coordinates":[-79.06908,33.907522],"type":"Point"}
 }

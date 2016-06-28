@@ -2,13 +2,14 @@
   "id": 337397631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.850617,32.800946,-79.850617,32.800946",
     "geom:latitude":32.800946,
     "geom:longitude":-79.850617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Merganser Ct",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":337397631,
-    "wof:lastmodified":1449027249,
+    "wof:lastmodified":1467082277,
     "wof:name":"Graham Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.850617,32.800946,-79.850617,32.800946],
+  "bbox": [
+    -79.850617,
+    32.800946,
+    -79.850617,
+    32.800946
+],
   "geometry": {"coordinates":[-79.850617,32.800946],"type":"Point"}
 }

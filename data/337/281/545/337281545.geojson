@@ -2,13 +2,14 @@
   "id": 337281545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.114329,33.971157,-81.114329,33.971157",
     "geom:latitude":33.971157,
     "geom:longitude":-81.114329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3133 Buckeye Dr",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337281545,
-    "wof:lastmodified":1449027614,
+    "wof:lastmodified":1467082290,
     "wof:name":"Mark Land",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-81.114329,33.971157,-81.114329,33.971157],
+  "bbox": [
+    -81.114329,
+    33.971157,
+    -81.114329,
+    33.971157
+],
   "geometry": {"coordinates":[-81.114329,33.971157],"type":"Point"}
 }

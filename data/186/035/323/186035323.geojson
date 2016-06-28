@@ -2,13 +2,14 @@
   "id": 186035323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.92705,32.776334,-79.92705,32.776334",
     "geom:latitude":32.776334,
     "geom:longitude":-79.92705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E Bay St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186035323,
-    "wof:lastmodified":1449052493,
+    "wof:lastmodified":1467082408,
     "wof:name":"Tavern Liquor Store",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-79.92705,32.776334,-79.92705,32.776334],
-  "geometry": {"coordinates":[-79.92705,32.776334],"type":"Point"}
+  "bbox": [
+    -79.92705,
+    32.776334,
+    -79.92705,
+    32.776334
+],
+  "geometry": {"coordinates":[-79.92704999999999,32.776334],"type":"Point"}
 }

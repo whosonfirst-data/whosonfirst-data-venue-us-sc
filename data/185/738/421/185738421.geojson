@@ -2,13 +2,14 @@
   "id": 185738421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.717519,33.524426,-81.717519,33.524426",
     "geom:latitude":33.524426,
     "geom:longitude":-81.717519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"176 E Pine Logging Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185738421,
-    "wof:lastmodified":1449007765,
+    "wof:lastmodified":1467082200,
     "wof:name":"Child Development Ctr",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.717519,33.524426,-81.717519,33.524426],
+  "bbox": [
+    -81.717519,
+    33.524426,
+    -81.717519,
+    33.524426
+],
   "geometry": {"coordinates":[-81.717519,33.524426],"type":"Point"}
 }

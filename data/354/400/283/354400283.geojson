@@ -2,13 +2,14 @@
   "id": 354400283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.607763,34.253742,-80.607763,34.253742",
     "geom:latitude":34.253742,
     "geom:longitude":-80.607763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 Broad St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354400283,
-    "wof:lastmodified":1449066094,
+    "wof:lastmodified":1467082418,
     "wof:name":"Camden House English B & B",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-80.607763,34.253742,-80.607763,34.253742],
-  "geometry": {"coordinates":[-80.607763,34.253742],"type":"Point"}
+  "bbox": [
+    -80.607763,
+    34.253742,
+    -80.607763,
+    34.253742
+],
+  "geometry": {"coordinates":[-80.60776300000001,34.253742],"type":"Point"}
 }

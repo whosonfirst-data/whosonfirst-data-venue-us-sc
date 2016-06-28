@@ -2,13 +2,14 @@
   "id": 353837713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.022112,33.998458,-81.022112,33.998458",
     "geom:latitude":33.998458,
     "geom:longitude":-81.022112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 Greene St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353837713,
-    "wof:lastmodified":1449018655,
+    "wof:lastmodified":1467082218,
     "wof:name":"Presbyterian Students Ctr",
     "wof:parent_id":85876831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.022112,33.998458,-81.022112,33.998458],
-  "geometry": {"coordinates":[-81.022112,33.998458],"type":"Point"}
+  "bbox": [
+    -81.022112,
+    33.998458,
+    -81.022112,
+    33.998458
+],
+  "geometry": {"coordinates":[-81.02211200000001,33.998458],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370960125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.665701,33.831212,-78.665701,33.831212",
     "geom:latitude":33.831212,
     "geom:longitude":-78.665701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 Jordan Rd",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370960125,
-    "wof:lastmodified":1449031528,
+    "wof:lastmodified":1467082352,
     "wof:name":"TLC Preschool & Kindergarten",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-78.665701,33.831212,-78.665701,33.831212],
+  "bbox": [
+    -78.665701,
+    33.831212,
+    -78.665701,
+    33.831212
+],
   "geometry": {"coordinates":[-78.665701,33.831212],"type":"Point"}
 }

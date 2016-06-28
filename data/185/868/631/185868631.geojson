@@ -2,13 +2,14 @@
   "id": 185868631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.043101,32.959731,-80.043101,32.959731",
     "geom:latitude":32.959731,
     "geom:longitude":-80.043101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8320 Rivers Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185868631,
-    "wof:lastmodified":1449006648,
+    "wof:lastmodified":1467082183,
     "wof:name":"Wheelchairs Plus LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "medical"
     ]
 },
-  "bbox": [-80.043101,32.959731,-80.043101,32.959731],
-  "geometry": {"coordinates":[-80.043101,32.959731],"type":"Point"}
+  "bbox": [
+    -80.043101,
+    32.959731,
+    -80.043101,
+    32.959731
+],
+  "geometry": {"coordinates":[-80.04310099999999,32.959731],"type":"Point"}
 }

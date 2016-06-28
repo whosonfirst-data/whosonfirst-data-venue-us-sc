@@ -2,13 +2,14 @@
   "id": 353393437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.650545,34.503555,-82.650545,34.503555",
     "geom:latitude":34.503555,
     "geom:longitude":-82.650545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 W Whitner St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353393437,
-    "wof:lastmodified":1449019055,
+    "wof:lastmodified":1467082226,
     "wof:name":"Juvenile Justice Dept",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counsel"
     ]
 },
-  "bbox": [-82.650545,34.503555,-82.650545,34.503555],
-  "geometry": {"coordinates":[-82.650545,34.503555],"type":"Point"}
+  "bbox": [
+    -82.650545,
+    34.503555,
+    -82.650545,
+    34.503555
+],
+  "geometry": {"coordinates":[-82.65054499999999,34.503555],"type":"Point"}
 }

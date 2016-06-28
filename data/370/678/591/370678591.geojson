@@ -2,13 +2,14 @@
   "id": 370678591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.455204,34.471126,-82.455204,34.471126",
     "geom:latitude":34.471126,
     "geom:longitude":-82.455204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"353 Bill Kay Rd",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370678591,
-    "wof:lastmodified":1449030724,
+    "wof:lastmodified":1467082334,
     "wof:name":"Small World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "abortion"
     ]
 },
-  "bbox": [-82.455204,34.471126,-82.455204,34.471126],
-  "geometry": {"coordinates":[-82.455204,34.471126],"type":"Point"}
+  "bbox": [
+    -82.455204,
+    34.471126,
+    -82.455204,
+    34.471126
+],
+  "geometry": {"coordinates":[-82.45520399999999,34.471126],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354075963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.952655,34.068645,-80.952655,34.068645",
     "geom:latitude":34.068645,
     "geom:longitude":-80.952655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7366 Notch Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354075963,
-    "wof:lastmodified":1449066863,
+    "wof:lastmodified":1467082436,
     "wof:name":"Book Dispensary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.952655,34.068645,-80.952655,34.068645],
-  "geometry": {"coordinates":[-80.952655,34.068645],"type":"Point"}
+  "bbox": [
+    -80.952655,
+    34.068645,
+    -80.952655,
+    34.068645
+],
+  "geometry": {"coordinates":[-80.95265499999999,34.068645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370565777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.033109,34.012106,-81.033109,34.012106",
     "geom:latitude":34.012106,
     "geom:longitude":-81.033109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 Richland St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370565777,
-    "wof:lastmodified":1449032176,
+    "wof:lastmodified":1467082367,
     "wof:name":"Booth Law Firm",
     "wof:parent_id":85805491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.033109,34.012106,-81.033109,34.012106],
+  "bbox": [
+    -81.033109,
+    34.012106,
+    -81.033109,
+    34.012106
+],
   "geometry": {"coordinates":[-81.033109,34.012106],"type":"Point"}
 }

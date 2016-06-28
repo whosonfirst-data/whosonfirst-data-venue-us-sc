@@ -2,13 +2,14 @@
   "id": 353838275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.845582,33.470561,-80.845582,33.470561",
     "geom:latitude":33.470561,
     "geom:longitude":-80.845582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1768 Charleston Hwy",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353838275,
-    "wof:lastmodified":1449018558,
+    "wof:lastmodified":1467082216,
     "wof:name":"South Carolina Hwy Dist 7CU",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.845582,33.470561,-80.845582,33.470561],
-  "geometry": {"coordinates":[-80.845582,33.470561],"type":"Point"}
+  "bbox": [
+    -80.845582,
+    33.470561,
+    -80.845582,
+    33.470561
+],
+  "geometry": {"coordinates":[-80.84558199999999,33.470561],"type":"Point"}
 }

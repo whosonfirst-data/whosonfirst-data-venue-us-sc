@@ -2,13 +2,14 @@
   "id": 353781087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.220125,34.685546,-82.220125,34.685546",
     "geom:latitude":34.685546,
     "geom:longitude":-82.220125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Fairview St Exd",
     "sg:city":"Fountain Inn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353781087,
-    "wof:lastmodified":1449018731,
+    "wof:lastmodified":1467082219,
     "wof:name":"Fountain Inn Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "capacitor"
     ]
 },
-  "bbox": [-82.220125,34.685546,-82.220125,34.685546],
+  "bbox": [
+    -82.220125,
+    34.685546,
+    -82.220125,
+    34.685546
+],
   "geometry": {"coordinates":[-82.220125,34.685546],"type":"Point"}
 }

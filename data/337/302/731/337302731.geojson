@@ -2,13 +2,14 @@
   "id": 337302731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.078535,33.950429,-81.078535,33.950429",
     "geom:latitude":33.950429,
     "geom:longitude":-81.078535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2273 Charleston Hwy",
     "sg:city":"Cayce",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337302731,
-    "wof:lastmodified":1449027217,
+    "wof:lastmodified":1467082276,
     "wof:name":"Becknell Cleaners",
     "wof:parent_id":85808009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-81.078535,33.950429,-81.078535,33.950429],
+  "bbox": [
+    -81.078535,
+    33.950429,
+    -81.078535,
+    33.950429
+],
   "geometry": {"coordinates":[-81.078535,33.950429],"type":"Point"}
 }

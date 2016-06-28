@@ -2,13 +2,14 @@
   "id": 353707815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.227095,33.963628,-81.227095,33.963628",
     "geom:latitude":33.963628,
     "geom:longitude":-81.227095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Bruner Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353707815,
-    "wof:lastmodified":1449020423,
+    "wof:lastmodified":1467082254,
     "wof:name":"Lawn-O-Green",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-81.227095,33.963628,-81.227095,33.963628],
-  "geometry": {"coordinates":[-81.227095,33.963628],"type":"Point"}
+  "bbox": [
+    -81.227095,
+    33.963628,
+    -81.227095,
+    33.963628
+],
+  "geometry": {"coordinates":[-81.22709500000001,33.963628],"type":"Point"}
 }

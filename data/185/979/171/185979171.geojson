@@ -2,13 +2,14 @@
   "id": 185979171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.014238,33.998773,-81.014238,33.998773",
     "geom:latitude":33.998773,
     "geom:longitude":-81.014238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2126 Devine St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185979171,
-    "wof:lastmodified":1449007737,
+    "wof:lastmodified":1467082200,
     "wof:name":"Colonial Life Southeast Region",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.014238,33.998773,-81.014238,33.998773],
-  "geometry": {"coordinates":[-81.014238,33.998773],"type":"Point"}
+  "bbox": [
+    -81.014238,
+    33.998773,
+    -81.014238,
+    33.998773
+],
+  "geometry": {"coordinates":[-81.01423800000001,33.998773],"type":"Point"}
 }

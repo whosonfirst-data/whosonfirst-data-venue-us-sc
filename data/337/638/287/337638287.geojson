@@ -2,13 +2,14 @@
   "id": 337638287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.928307,34.983253,-81.928307,34.983253",
     "geom:latitude":34.983253,
     "geom:longitude":-81.928307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 Chesnee Hwy",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337638287,
-    "wof:lastmodified":1449026987,
+    "wof:lastmodified":1467082267,
     "wof:name":"Andy's Appliance",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-81.928307,34.983253,-81.928307,34.983253],
+  "bbox": [
+    -81.928307,
+    34.983253,
+    -81.928307,
+    34.983253
+],
   "geometry": {"coordinates":[-81.928307,34.983253],"type":"Point"}
 }

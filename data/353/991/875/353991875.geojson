@@ -2,13 +2,14 @@
   "id": 353991875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.707863,34.503859,-82.707863,34.503859",
     "geom:latitude":34.503859,
     "geom:longitude":-82.707863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Hwy 24",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353991875,
-    "wof:lastmodified":1449019058,
+    "wof:lastmodified":1467082226,
     "wof:name":"Bullmart",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.707863,34.503859,-82.707863,34.503859],
+  "bbox": [
+    -82.707863,
+    34.503859,
+    -82.707863,
+    34.503859
+],
   "geometry": {"coordinates":[-82.707863,34.503859],"type":"Point"}
 }

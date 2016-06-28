@@ -2,13 +2,14 @@
   "id": 353830891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.851806,34.176731,-80.851806,34.176731",
     "geom:latitude":34.176731,
     "geom:longitude":-80.851806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Lance St",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353830891,
-    "wof:lastmodified":1449018808,
+    "wof:lastmodified":1467082221,
     "wof:name":"Real Estate Svc",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-80.851806,34.176731,-80.851806,34.176731],
+  "bbox": [
+    -80.851806,
+    34.176731,
+    -80.851806,
+    34.176731
+],
   "geometry": {"coordinates":[-80.851806,34.176731],"type":"Point"}
 }

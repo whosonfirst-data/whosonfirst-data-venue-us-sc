@@ -2,13 +2,14 @@
   "id": 185964401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.315221,34.918027,-82.315221,34.918027",
     "geom:latitude":34.918027,
     "geom:longitude":-82.315221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3335 Wade Hampton Blvd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185964401,
-    "wof:lastmodified":1449007824,
+    "wof:lastmodified":1467082201,
     "wof:name":"Taylors Fire & Sewer District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-82.315221,34.918027,-82.315221,34.918027],
-  "geometry": {"coordinates":[-82.315221,34.918027],"type":"Point"}
+  "bbox": [
+    -82.315221,
+    34.918027,
+    -82.315221,
+    34.918027
+],
+  "geometry": {"coordinates":[-82.31522099999999,34.918027],"type":"Point"}
 }

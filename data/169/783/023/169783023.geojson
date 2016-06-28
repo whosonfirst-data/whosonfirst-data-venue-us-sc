@@ -2,13 +2,14 @@
   "id": 169783023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.409924,34.827001,-82.409924,34.827001",
     "geom:latitude":34.827001,
     "geom:longitude":-82.409924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Mills Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169783023,
-    "wof:lastmodified":1449032794,
+    "wof:lastmodified":1467082377,
     "wof:name":"Port City Java",
     "wof:parent_id":85811527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-82.409924,34.827001,-82.409924,34.827001],
+  "bbox": [
+    -82.409924,
+    34.827001,
+    -82.409924,
+    34.827001
+],
   "geometry": {"coordinates":[-82.409924,34.827001],"type":"Point"}
 }

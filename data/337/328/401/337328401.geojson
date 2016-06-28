@@ -2,13 +2,14 @@
   "id": 337328401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.252577,34.778545,-82.252577,34.778545",
     "geom:latitude":34.778545,
     "geom:longitude":-82.252577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Maple Rock Ct",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337328401,
-    "wof:lastmodified":1449027428,
+    "wof:lastmodified":1467082283,
     "wof:name":"Gilley Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "acquisition"
     ]
 },
-  "bbox": [-82.252577,34.778545,-82.252577,34.778545],
+  "bbox": [
+    -82.252577,
+    34.778545,
+    -82.252577,
+    34.778545
+],
   "geometry": {"coordinates":[-82.252577,34.778545],"type":"Point"}
 }

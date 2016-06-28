@@ -2,13 +2,14 @@
   "id": 186132271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.037475,34.840818,-83.037475,34.840818",
     "geom:latitude":34.840818,
     "geom:longitude":-83.037475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5542 State Hwy 11 Scn",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186132271,
-    "wof:lastmodified":1449051687,
+    "wof:lastmodified":1467082400,
     "wof:name":"Hubbard Paving & Grading Inc",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-83.037475,34.840818,-83.037475,34.840818],
+  "bbox": [
+    -83.037475,
+    34.840818,
+    -83.037475,
+    34.840818
+],
   "geometry": {"coordinates":[-83.037475,34.840818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354291283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.634504,35.079348,-81.634504,35.079348",
     "geom:latitude":35.079348,
     "geom:longitude":-81.634504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"367 5th St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354291283,
-    "wof:lastmodified":1449066426,
+    "wof:lastmodified":1467082426,
     "wof:name":"Grubbs Meat & Processing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "packaged"
     ]
 },
-  "bbox": [-81.634504,35.079348,-81.634504,35.079348],
-  "geometry": {"coordinates":[-81.634504,35.079348],"type":"Point"}
+  "bbox": [
+    -81.634504,
+    35.079348,
+    -81.634504,
+    35.079348
+],
+  "geometry": {"coordinates":[-81.63450400000001,35.079348],"type":"Point"}
 }

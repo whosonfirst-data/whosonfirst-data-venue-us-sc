@@ -2,13 +2,14 @@
   "id": 354381443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.704055,34.881823,-82.704055,34.881823",
     "geom:latitude":34.881823,
     "geom:longitude":-82.704055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Johnson St",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354381443,
-    "wof:lastmodified":1449066066,
+    "wof:lastmodified":1467082417,
     "wof:name":"Hair Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.704055,34.881823,-82.704055,34.881823],
+  "bbox": [
+    -82.704055,
+    34.881823,
+    -82.704055,
+    34.881823
+],
   "geometry": {"coordinates":[-82.704055,34.881823],"type":"Point"}
 }

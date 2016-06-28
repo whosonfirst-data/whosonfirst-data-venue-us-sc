@@ -2,13 +2,14 @@
   "id": 354100133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.877175,34.170446,-79.877175,34.170446",
     "geom:latitude":34.170446,
     "geom:longitude":-79.877175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Troon Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354100133,
-    "wof:lastmodified":1449067214,
+    "wof:lastmodified":1467082444,
     "wof:name":"East Carolina Sporting Preserv",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.877175,34.170446,-79.877175,34.170446],
-  "geometry": {"coordinates":[-79.877175,34.170446],"type":"Point"}
+  "bbox": [
+    -79.877175,
+    34.170446,
+    -79.877175,
+    34.170446
+],
+  "geometry": {"coordinates":[-79.87717499999999,34.170446],"type":"Point"}
 }

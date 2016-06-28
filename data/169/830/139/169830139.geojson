@@ -2,13 +2,14 @@
   "id": 169830139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.439186,34.710381,-82.439186,34.710381",
     "geom:latitude":34.710381,
     "geom:longitude":-82.439186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"859 Old Pelzer Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169830139,
-    "wof:lastmodified":1449033383,
+    "wof:lastmodified":1467082379,
     "wof:name":"Auto Glass Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-82.439186,34.710381,-82.439186,34.710381],
-  "geometry": {"coordinates":[-82.439186,34.710381],"type":"Point"}
+  "bbox": [
+    -82.439186,
+    34.710381,
+    -82.439186,
+    34.710381
+],
+  "geometry": {"coordinates":[-82.43918600000001,34.710381],"type":"Point"}
 }

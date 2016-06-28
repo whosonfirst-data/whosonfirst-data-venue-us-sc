@@ -2,13 +2,14 @@
   "id": 370523989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.204571,34.143773,-79.204571,34.143773",
     "geom:latitude":34.143773,
     "geom:longitude":-79.204571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10801 State Hwy 917",
     "sg:city":"Nichols",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370523989,
-    "wof:lastmodified":1449031022,
+    "wof:lastmodified":1467082341,
     "wof:name":"B & B Ditching",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.204571,34.143773,-79.204571,34.143773],
+  "bbox": [
+    -79.204571,
+    34.143773,
+    -79.204571,
+    34.143773
+],
   "geometry": {"coordinates":[-79.204571,34.143773],"type":"Point"}
 }

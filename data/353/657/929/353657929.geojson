@@ -2,13 +2,14 @@
   "id": 353657929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.37256,33.943524,-80.37256,33.943524",
     "geom:latitude":33.943524,
     "geom:longitude":-80.37256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"726 Bultman Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353657929,
-    "wof:lastmodified":1449018539,
+    "wof:lastmodified":1467082216,
     "wof:name":"Thrift Store",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.37256,33.943524,-80.37256,33.943524],
-  "geometry": {"coordinates":[-80.37256,33.943524],"type":"Point"}
+  "bbox": [
+    -80.37256,
+    33.943524,
+    -80.37256,
+    33.943524
+],
+  "geometry": {"coordinates":[-80.37255999999999,33.943524],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370800485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.412783,34.897738,-82.412783,34.897738",
     "geom:latitude":34.897738,
     "geom:longitude":-82.412783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 Poinsett Hwy",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370800485,
-    "wof:lastmodified":1449029354,
+    "wof:lastmodified":1467082304,
     "wof:name":"Ron's Hair Styling",
     "wof:parent_id":85825355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.412783,34.897738,-82.412783,34.897738],
+  "bbox": [
+    -82.412783,
+    34.897738,
+    -82.412783,
+    34.897738
+],
   "geometry": {"coordinates":[-82.412783,34.897738],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186031633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.188431,34.058731,-81.188431,34.058731",
     "geom:latitude":34.058731,
     "geom:longitude":-81.188431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Tolson Ln",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186031633,
-    "wof:lastmodified":1449051377,
+    "wof:lastmodified":1467082397,
     "wof:name":"Southern Investment Insurance",
     "wof:parent_id":85897271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-81.188431,34.058731,-81.188431,34.058731],
-  "geometry": {"coordinates":[-81.188431,34.058731],"type":"Point"}
+  "bbox": [
+    -81.188431,
+    34.058731,
+    -81.188431,
+    34.058731
+],
+  "geometry": {"coordinates":[-81.18843099999999,34.058731],"type":"Point"}
 }

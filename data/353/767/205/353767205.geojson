@@ -2,13 +2,14 @@
   "id": 353767205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.212012,33.694908,-80.212012,33.694908",
     "geom:latitude":33.694908,
     "geom:longitude":-80.212012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 S Mill St",
     "sg:city":"Manning",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353767205,
-    "wof:lastmodified":1449019006,
+    "wof:lastmodified":1467082225,
     "wof:name":"Gallman Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.212012,33.694908,-80.212012,33.694908],
+  "bbox": [
+    -80.212012,
+    33.694908,
+    -80.212012,
+    33.694908
+],
   "geometry": {"coordinates":[-80.212012,33.694908],"type":"Point"}
 }

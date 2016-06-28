@@ -2,13 +2,14 @@
   "id": 353582949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.975665,32.763875,-79.975665,32.763875",
     "geom:latitude":32.763875,
     "geom:longitude":-79.975665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Wappoo Creek Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":353582949,
-    "wof:lastmodified":1449019637,
+    "wof:lastmodified":1467082238,
     "wof:name":"Fleming Appraisal & Rl Estt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-79.975665,32.763875,-79.975665,32.763875],
-  "geometry": {"coordinates":[-79.975665,32.763875],"type":"Point"}
+  "bbox": [
+    -79.975665,
+    32.763875,
+    -79.975665,
+    32.763875
+],
+  "geometry": {"coordinates":[-79.97566500000001,32.763875],"type":"Point"}
 }

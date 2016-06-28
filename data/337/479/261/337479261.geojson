@@ -2,13 +2,14 @@
   "id": 337479261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.802223,33.832786,-81.802223,33.832786",
     "geom:latitude":33.832786,
     "geom:longitude":-81.802223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"458 Lee St",
     "sg:city":"Johnston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337479261,
-    "wof:lastmodified":1449027509,
+    "wof:lastmodified":1467082286,
     "wof:name":"Citi Trends",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.802223,33.832786,-81.802223,33.832786],
+  "bbox": [
+    -81.802223,
+    33.832786,
+    -81.802223,
+    33.832786
+],
   "geometry": {"coordinates":[-81.802223,33.832786],"type":"Point"}
 }

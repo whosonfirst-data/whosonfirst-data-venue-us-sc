@@ -2,13 +2,14 @@
   "id": 186132153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.723147,34.222283,-80.723147,34.222283",
     "geom:latitude":34.222283,
     "geom:longitude":-80.723147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Hunters Point Dr",
     "sg:city":"Lugoff",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186132153,
-    "wof:lastmodified":1449051687,
+    "wof:lastmodified":1467082400,
     "wof:name":"STU Inc",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.723147,34.222283,-80.723147,34.222283],
+  "bbox": [
+    -80.723147,
+    34.222283,
+    -80.723147,
+    34.222283
+],
   "geometry": {"coordinates":[-80.723147,34.222283],"type":"Point"}
 }

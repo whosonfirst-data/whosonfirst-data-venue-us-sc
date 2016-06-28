@@ -2,13 +2,14 @@
   "id": 186104665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.945944,32.713425,-79.945944,32.713425",
     "geom:latitude":32.713425,
     "geom:longitude":-79.945944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1335 Seabass Cove",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186104665,
-    "wof:lastmodified":1449051481,
+    "wof:lastmodified":1467082398,
     "wof:name":"Lisas Links",
     "wof:parent_id":85847603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.945944,32.713425,-79.945944,32.713425],
+  "bbox": [
+    -79.945944,
+    32.713425,
+    -79.945944,
+    32.713425
+],
   "geometry": {"coordinates":[-79.945944,32.713425],"type":"Point"}
 }

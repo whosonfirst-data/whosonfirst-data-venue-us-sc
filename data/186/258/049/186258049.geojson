@@ -2,13 +2,14 @@
   "id": 186258049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.531518,34.147502,-81.531518,34.147502",
     "geom:latitude":34.147502,
     "geom:longitude":-81.531518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3919 State Hwy 391",
     "sg:city":"Prosperity",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186258049,
-    "wof:lastmodified":1449052457,
+    "wof:lastmodified":1467082407,
     "wof:name":"Milledge L Wilson Land Srvyng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-81.531518,34.147502,-81.531518,34.147502],
-  "geometry": {"coordinates":[-81.531518,34.147502],"type":"Point"}
+  "bbox": [
+    -81.531518,
+    34.147502,
+    -81.531518,
+    34.147502
+],
+  "geometry": {"coordinates":[-81.53151800000001,34.147502],"type":"Point"}
 }

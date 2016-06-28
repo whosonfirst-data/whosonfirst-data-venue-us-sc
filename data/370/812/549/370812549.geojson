@@ -2,13 +2,14 @@
   "id": 370812549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.368483,34.817051,-82.368483,34.817051",
     "geom:latitude":34.817051,
     "geom:longitude":-82.368483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 S Pleasantburg Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370812549,
-    "wof:lastmodified":1449029156,
+    "wof:lastmodified":1467082300,
     "wof:name":"Yourkievitz & Associates",
     "wof:parent_id":85809831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "financial"
     ]
 },
-  "bbox": [-82.368483,34.817051,-82.368483,34.817051],
+  "bbox": [
+    -82.368483,
+    34.817051,
+    -82.368483,
+    34.817051
+],
   "geometry": {"coordinates":[-82.368483,34.817051],"type":"Point"}
 }

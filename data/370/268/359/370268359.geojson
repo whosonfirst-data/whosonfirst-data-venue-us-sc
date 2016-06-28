@@ -2,13 +2,14 @@
   "id": 370268359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.078317,32.722449,-80.078317,32.722449",
     "geom:latitude":32.722449,
     "geom:longitude":-80.078317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3575 Maybank Hwy",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370268359,
-    "wof:lastmodified":1449030995,
+    "wof:lastmodified":1467082340,
     "wof:name":"El Merzadito & Taqueria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.078317,32.722449,-80.078317,32.722449],
+  "bbox": [
+    -80.078317,
+    32.722449,
+    -80.078317,
+    32.722449
+],
   "geometry": {"coordinates":[-80.078317,32.722449],"type":"Point"}
 }

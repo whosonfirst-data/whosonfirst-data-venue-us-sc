@@ -2,13 +2,14 @@
   "id": 185863181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.981239,32.875441,-79.981239,32.875441",
     "geom:latitude":32.875441,
     "geom:longitude":-79.981239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4420 Beaver St",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185863181,
-    "wof:lastmodified":1449007702,
+    "wof:lastmodified":1467082199,
     "wof:name":"Ernest M Arnot Electrical Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.981239,32.875441,-79.981239,32.875441],
+  "bbox": [
+    -79.981239,
+    32.875441,
+    -79.981239,
+    32.875441
+],
   "geometry": {"coordinates":[-79.981239,32.875441],"type":"Point"}
 }

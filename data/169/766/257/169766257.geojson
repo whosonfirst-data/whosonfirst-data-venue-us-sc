@@ -2,13 +2,14 @@
   "id": 169766257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.350983,34.782437,-82.350983,34.782437",
     "geom:latitude":34.782437,
     "geom:longitude":-82.350983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 Mauldin Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169766257,
-    "wof:lastmodified":1449032639,
+    "wof:lastmodified":1467082376,
     "wof:name":"Chemical Connection Inc",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.350983,34.782437,-82.350983,34.782437],
+  "bbox": [
+    -82.350983,
+    34.782437,
+    -82.350983,
+    34.782437
+],
   "geometry": {"coordinates":[-82.350983,34.782437],"type":"Point"}
 }

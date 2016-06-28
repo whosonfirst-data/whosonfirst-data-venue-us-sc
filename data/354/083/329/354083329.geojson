@@ -2,13 +2,14 @@
   "id": 354083329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.097896,34.039845,-81.097896,34.039845",
     "geom:latitude":34.039845,
     "geom:longitude":-81.097896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 Briargate Cir",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354083329,
-    "wof:lastmodified":1449066728,
+    "wof:lastmodified":1467082433,
     "wof:name":"Marketing Insights",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [-81.097896,34.039845,-81.097896,34.039845],
-  "geometry": {"coordinates":[-81.097896,34.039845],"type":"Point"}
+  "bbox": [
+    -81.097896,
+    34.039845,
+    -81.097896,
+    34.039845
+],
+  "geometry": {"coordinates":[-81.09789600000001,34.039845],"type":"Point"}
 }

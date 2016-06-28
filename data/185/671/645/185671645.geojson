@@ -2,13 +2,14 @@
   "id": 185671645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.937878,32.788327,-79.937878,32.788327",
     "geom:latitude":32.788327,
     "geom:longitude":-79.937878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"438 King St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185671645,
-    "wof:lastmodified":1449006982,
+    "wof:lastmodified":1467082188,
     "wof:name":"Circa Lighting",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lighting"
     ]
 },
-  "bbox": [-79.937878,32.788327,-79.937878,32.788327],
+  "bbox": [
+    -79.937878,
+    32.788327,
+    -79.937878,
+    32.788327
+],
   "geometry": {"coordinates":[-79.937878,32.788327],"type":"Point"}
 }

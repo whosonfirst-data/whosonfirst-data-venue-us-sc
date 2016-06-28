@@ -2,13 +2,14 @@
   "id": 354147635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.339575,33.898593,-80.339575,33.898593",
     "geom:latitude":33.898593,
     "geom:longitude":-80.339575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Manning Ave",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354147635,
-    "wof:lastmodified":1449067485,
+    "wof:lastmodified":1467082450,
     "wof:name":"A & T Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.339575,33.898593,-80.339575,33.898593],
+  "bbox": [
+    -80.339575,
+    33.898593,
+    -80.339575,
+    33.898593
+],
   "geometry": {"coordinates":[-80.339575,33.898593],"type":"Point"}
 }

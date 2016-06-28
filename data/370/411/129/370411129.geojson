@@ -2,13 +2,14 @@
   "id": 370411129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.194403,34.688517,-81.194403,34.688517",
     "geom:latitude":34.688517,
     "geom:longitude":-81.194403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"659 Columbia Rd",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370411129,
-    "wof:lastmodified":1449029230,
+    "wof:lastmodified":1467082301,
     "wof:name":"Pete Stepp Garage",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.194403,34.688517,-81.194403,34.688517],
-  "geometry": {"coordinates":[-81.194403,34.688517],"type":"Point"}
+  "bbox": [
+    -81.194403,
+    34.688517,
+    -81.194403,
+    34.688517
+],
+  "geometry": {"coordinates":[-81.19440299999999,34.688517],"type":"Point"}
 }

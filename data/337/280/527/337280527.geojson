@@ -2,13 +2,14 @@
   "id": 337280527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.282347,33.36745,-79.282347,33.36745",
     "geom:latitude":33.36745,
     "geom:longitude":-79.282347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Prince St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337280527,
-    "wof:lastmodified":1449027354,
+    "wof:lastmodified":1467082281,
     "wof:name":"Georgetown County Personnel",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.282347,33.36745,-79.282347,33.36745],
+  "bbox": [
+    -79.282347,
+    33.36745,
+    -79.282347,
+    33.36745
+],
   "geometry": {"coordinates":[-79.282347,33.36745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185809999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.083931,34.941912,-81.083931,34.941912",
     "geom:latitude":34.941912,
     "geom:longitude":-81.083931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1476 Summit View Dr",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185809999,
-    "wof:lastmodified":1449007941,
+    "wof:lastmodified":1467082203,
     "wof:name":"HI-Vac Corporation",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "establishment"
     ]
 },
-  "bbox": [-81.083931,34.941912,-81.083931,34.941912],
-  "geometry": {"coordinates":[-81.083931,34.941912],"type":"Point"}
+  "bbox": [
+    -81.083931,
+    34.941912,
+    -81.083931,
+    34.941912
+],
+  "geometry": {"coordinates":[-81.08393100000001,34.941912],"type":"Point"}
 }

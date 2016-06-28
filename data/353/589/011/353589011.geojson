@@ -2,13 +2,14 @@
   "id": 353589011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.981331,32.732775,-79.981331,32.732775",
     "geom:latitude":32.732775,
     "geom:longitude":-79.981331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1022 Stono River Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353589011,
-    "wof:lastmodified":1449019629,
+    "wof:lastmodified":1467082238,
     "wof:name":"Messy Mango Lcc",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.981331,32.732775,-79.981331,32.732775],
+  "bbox": [
+    -79.981331,
+    32.732775,
+    -79.981331,
+    32.732775
+],
   "geometry": {"coordinates":[-79.981331,32.732775],"type":"Point"}
 }

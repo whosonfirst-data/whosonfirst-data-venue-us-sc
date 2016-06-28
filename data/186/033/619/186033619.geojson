@@ -2,13 +2,14 @@
   "id": 186033619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.341737,33.919084,-80.341737,33.919084",
     "geom:latitude":33.919084,
     "geom:longitude":-80.341737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 S Main St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":186033619,
-    "wof:lastmodified":1449050954,
+    "wof:lastmodified":1467082393,
     "wof:name":"World Finance Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "institution"
     ]
 },
-  "bbox": [-80.341737,33.919084,-80.341737,33.919084],
-  "geometry": {"coordinates":[-80.341737,33.919084],"type":"Point"}
+  "bbox": [
+    -80.341737,
+    33.919084,
+    -80.341737,
+    33.919084
+],
+  "geometry": {"coordinates":[-80.34173699999999,33.919084],"type":"Point"}
 }

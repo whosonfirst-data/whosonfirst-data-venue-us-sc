@@ -2,13 +2,14 @@
   "id": 370430315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.992731,33.60139,-78.992731,33.60139",
     "geom:latitude":33.60139,
     "geom:longitude":-78.992731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 US Hwy 17 (Bus) S",
     "sg:city":"Surfside Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370430315,
-    "wof:lastmodified":1449031232,
+    "wof:lastmodified":1467082345,
     "wof:name":"Ultra Tan",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-78.992731,33.60139,-78.992731,33.60139],
-  "geometry": {"coordinates":[-78.992731,33.60139],"type":"Point"}
+  "bbox": [
+    -78.992731,
+    33.60139,
+    -78.992731,
+    33.60139
+],
+  "geometry": {"coordinates":[-78.99273100000001,33.60139],"type":"Point"}
 }

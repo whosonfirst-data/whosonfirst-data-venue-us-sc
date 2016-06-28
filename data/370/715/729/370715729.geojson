@@ -2,13 +2,14 @@
   "id": 370715729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.637033,34.526991,-82.637033,34.526991",
     "geom:latitude":34.526991,
     "geom:longitude":-82.637033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 E Greenville St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370715729,
-    "wof:lastmodified":1449031801,
+    "wof:lastmodified":1467082359,
     "wof:name":"NHC Health Care",
     "wof:parent_id":85825947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-82.637033,34.526991,-82.637033,34.526991],
+  "bbox": [
+    -82.637033,
+    34.526991,
+    -82.637033,
+    34.526991
+],
   "geometry": {"coordinates":[-82.637033,34.526991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354109097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.967128,32.744159,-79.967128,32.744159",
     "geom:latitude":32.744159,
     "geom:longitude":-79.967128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1670 Hunley Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354109097,
-    "wof:lastmodified":1449066507,
+    "wof:lastmodified":1467082428,
     "wof:name":"Charleston Classic Homes LLC",
     "wof:parent_id":85832547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.967128,32.744159,-79.967128,32.744159],
+  "bbox": [
+    -79.967128,
+    32.744159,
+    -79.967128,
+    32.744159
+],
   "geometry": {"coordinates":[-79.967128,32.744159],"type":"Point"}
 }

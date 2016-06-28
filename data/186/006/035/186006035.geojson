@@ -2,13 +2,14 @@
   "id": 186006035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.229408,34.850878,-82.229408,34.850878",
     "geom:latitude":34.850878,
     "geom:longitude":-82.229408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"980 Batesville Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186006035,
-    "wof:lastmodified":1449052488,
+    "wof:lastmodified":1467082407,
     "wof:name":"Regal Cleaner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-82.229408,34.850878,-82.229408,34.850878],
-  "geometry": {"coordinates":[-82.229408,34.850878],"type":"Point"}
+  "bbox": [
+    -82.229408,
+    34.850878,
+    -82.229408,
+    34.850878
+],
+  "geometry": {"coordinates":[-82.22940800000001,34.850878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370568987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.666474,33.820986,-78.666474,33.820986",
     "geom:latitude":33.820986,
     "geom:longitude":-78.666474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Ocean Blvd",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370568987,
-    "wof:lastmodified":1449028988,
+    "wof:lastmodified":1467082296,
     "wof:name":"Maritime Beach Club",
     "wof:parent_id":85826955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "time"
     ]
 },
-  "bbox": [-78.666474,33.820986,-78.666474,33.820986],
-  "geometry": {"coordinates":[-78.666474,33.820986],"type":"Point"}
+  "bbox": [
+    -78.666474,
+    33.820986,
+    -78.666474,
+    33.820986
+],
+  "geometry": {"coordinates":[-78.66647399999999,33.820986],"type":"Point"}
 }

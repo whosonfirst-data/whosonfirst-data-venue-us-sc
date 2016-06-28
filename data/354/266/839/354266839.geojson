@@ -2,13 +2,14 @@
   "id": 354266839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.49277,33.92651,-81.49277,33.92651",
     "geom:latitude":33.92651,
     "geom:longitude":-81.49277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6712 Augusta Hwy",
     "sg:city":"Leesville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354266839,
-    "wof:lastmodified":1449065999,
+    "wof:lastmodified":1467082416,
     "wof:name":"Majestic Touch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "day"
     ]
 },
-  "bbox": [-81.49277,33.92651,-81.49277,33.92651],
-  "geometry": {"coordinates":[-81.49277,33.92651],"type":"Point"}
+  "bbox": [
+    -81.49277,
+    33.92651,
+    -81.49277,
+    33.92651
+],
+  "geometry": {"coordinates":[-81.49276999999999,33.92651],"type":"Point"}
 }

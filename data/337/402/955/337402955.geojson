@@ -2,13 +2,14 @@
   "id": 337402955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.134917,34.733793,-83.134917,34.733793",
     "geom:latitude":34.733793,
     "geom:longitude":-83.134917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Stribling Shoals Rd",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337402955,
-    "wof:lastmodified":1449027208,
+    "wof:lastmodified":1467082275,
     "wof:name":"Son-Shine Cleaning Svc",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-83.134917,34.733793,-83.134917,34.733793],
+  "bbox": [
+    -83.134917,
+    34.733793,
+    -83.134917,
+    34.733793
+],
   "geometry": {"coordinates":[-83.134917,34.733793],"type":"Point"}
 }

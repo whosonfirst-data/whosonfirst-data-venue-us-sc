@@ -2,13 +2,14 @@
   "id": 186225267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.373448,34.417873,-79.373448,34.417873",
     "geom:latitude":34.417873,
     "geom:longitude":-79.373448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 W Main St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186225267,
-    "wof:lastmodified":1449051216,
+    "wof:lastmodified":1467082396,
     "wof:name":"Helping Hands Thrift Shop",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-79.373448,34.417873,-79.373448,34.417873],
+  "bbox": [
+    -79.373448,
+    34.417873,
+    -79.373448,
+    34.417873
+],
   "geometry": {"coordinates":[-79.373448,34.417873],"type":"Point"}
 }

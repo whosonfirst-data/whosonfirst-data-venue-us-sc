@@ -2,13 +2,14 @@
   "id": 353792539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.00595,35.002643,-82.00595,35.002643",
     "geom:latitude":35.002643,
     "geom:longitude":-82.00595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Springfield Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353792539,
-    "wof:lastmodified":1449018814,
+    "wof:lastmodified":1467082221,
     "wof:name":"Kelly's Styling Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.00595,35.002643,-82.00595,35.002643],
+  "bbox": [
+    -82.00595,
+    35.002643,
+    -82.00595,
+    35.002643
+],
   "geometry": {"coordinates":[-82.00595,35.002643],"type":"Point"}
 }

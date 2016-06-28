@@ -2,13 +2,14 @@
   "id": 353753375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.004156,34.7886,-82.004156,34.7886",
     "geom:latitude":34.7886,
     "geom:longitude":-82.004156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1464 Old Switzer Rd",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353753375,
-    "wof:lastmodified":1449018549,
+    "wof:lastmodified":1467082216,
     "wof:name":"Switzer Church Of God",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.004156,34.7886,-82.004156,34.7886],
-  "geometry": {"coordinates":[-82.004156,34.7886],"type":"Point"}
+  "bbox": [
+    -82.004156,
+    34.7886,
+    -82.004156,
+    34.7886
+],
+  "geometry": {"coordinates":[-82.00415599999999,34.7886],"type":"Point"}
 }

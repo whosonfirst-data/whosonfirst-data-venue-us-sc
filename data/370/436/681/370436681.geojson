@@ -2,13 +2,14 @@
   "id": 370436681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.481623,34.789444,-82.481623,34.789444",
     "geom:latitude":34.789444,
     "geom:longitude":-82.481623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11003 Anderson Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370436681,
-    "wof:lastmodified":1449032151,
+    "wof:lastmodified":1467082366,
     "wof:name":"One Of A Kind",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.481623,34.789444,-82.481623,34.789444],
+  "bbox": [
+    -82.481623,
+    34.789444,
+    -82.481623,
+    34.789444
+],
   "geometry": {"coordinates":[-82.481623,34.789444],"type":"Point"}
 }

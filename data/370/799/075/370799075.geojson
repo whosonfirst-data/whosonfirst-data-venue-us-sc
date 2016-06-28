@@ -2,13 +2,14 @@
   "id": 370799075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.58179,34.248282,-80.58179,34.248282",
     "geom:latitude":34.248282,
     "geom:longitude":-80.58179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 Jefferson Davis Hwy",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370799075,
-    "wof:lastmodified":1449032490,
+    "wof:lastmodified":1467082374,
     "wof:name":"Laney's Auto Sales",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.58179,34.248282,-80.58179,34.248282],
+  "bbox": [
+    -80.58179,
+    34.248282,
+    -80.58179,
+    34.248282
+],
   "geometry": {"coordinates":[-80.58179,34.248282],"type":"Point"}
 }

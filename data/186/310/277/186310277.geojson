@@ -2,13 +2,14 @@
   "id": 186310277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.931244,34.973902,-81.931244,34.973902",
     "geom:latitude":34.973902,
     "geom:longitude":-81.931244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 Beaumont Ave",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186310277,
-    "wof:lastmodified":1449052010,
+    "wof:lastmodified":1467082403,
     "wof:name":"Crown Cork & Seal Company Inc",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.931244,34.973902,-81.931244,34.973902],
-  "geometry": {"coordinates":[-81.931244,34.973902],"type":"Point"}
+  "bbox": [
+    -81.931244,
+    34.973902,
+    -81.931244,
+    34.973902
+],
+  "geometry": {"coordinates":[-81.93124400000001,34.973902],"type":"Point"}
 }

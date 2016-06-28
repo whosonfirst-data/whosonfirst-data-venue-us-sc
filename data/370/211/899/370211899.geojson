@@ -2,13 +2,14 @@
   "id": 370211899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.96617,32.718865,-79.96617,32.718865",
     "geom:latitude":32.718865,
     "geom:longitude":-79.96617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1265 Folly Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370211899,
-    "wof:lastmodified":1449029930,
+    "wof:lastmodified":1467082317,
     "wof:name":"Charleston Real Estate Guide",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "relocation"
     ]
 },
-  "bbox": [-79.96617,32.718865,-79.96617,32.718865],
-  "geometry": {"coordinates":[-79.96617,32.718865],"type":"Point"}
+  "bbox": [
+    -79.96617,
+    32.718865,
+    -79.96617,
+    32.718865
+],
+  "geometry": {"coordinates":[-79.96617000000001,32.718865],"type":"Point"}
 }

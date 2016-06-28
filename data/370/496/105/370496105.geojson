@@ -2,13 +2,14 @@
   "id": 370496105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.39983,34.188123,-82.39983,34.188123",
     "geom:latitude":34.188123,
     "geom:longitude":-82.39983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 N Main St",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370496105,
-    "wof:lastmodified":1449031954,
+    "wof:lastmodified":1467082362,
     "wof:name":"Abbeville Farm Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.39983,34.188123,-82.39983,34.188123],
-  "geometry": {"coordinates":[-82.39983,34.188123],"type":"Point"}
+  "bbox": [
+    -82.39983,
+    34.188123,
+    -82.39983,
+    34.188123
+],
+  "geometry": {"coordinates":[-82.39982999999999,34.188123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353678581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.890525,34.570127,-80.890525,34.570127",
     "geom:latitude":34.570127,
     "geom:longitude":-80.890525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Dearborn St",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353678581,
-    "wof:lastmodified":1449019499,
+    "wof:lastmodified":1467082235,
     "wof:name":"First Baptist Church",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.890525,34.570127,-80.890525,34.570127],
+  "bbox": [
+    -80.890525,
+    34.570127,
+    -80.890525,
+    34.570127
+],
   "geometry": {"coordinates":[-80.890525,34.570127],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370851101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.040801,34.95085,-81.040801,34.95085",
     "geom:latitude":34.95085,
     "geom:longitude":-81.040801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Dotson St",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370851101,
-    "wof:lastmodified":1449031305,
+    "wof:lastmodified":1467082347,
     "wof:name":"Catawba Community Mental Hlth",
     "wof:parent_id":85847885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-81.040801,34.95085,-81.040801,34.95085],
+  "bbox": [
+    -81.040801,
+    34.95085,
+    -81.040801,
+    34.95085
+],
   "geometry": {"coordinates":[-81.040801,34.95085],"type":"Point"}
 }

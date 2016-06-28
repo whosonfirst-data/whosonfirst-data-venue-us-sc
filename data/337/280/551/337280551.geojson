@@ -2,13 +2,14 @@
   "id": 337280551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.066299,32.840251,-80.066299,32.840251",
     "geom:latitude":32.840251,
     "geom:longitude":-80.066299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Still Shadow Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337280551,
-    "wof:lastmodified":1449027351,
+    "wof:lastmodified":1467082280,
     "wof:name":"A Cruise Planner",
     "wof:parent_id":85820043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cruise"
     ]
 },
-  "bbox": [-80.066299,32.840251,-80.066299,32.840251],
+  "bbox": [
+    -80.066299,
+    32.840251,
+    -80.066299,
+    32.840251
+],
   "geometry": {"coordinates":[-80.066299,32.840251],"type":"Point"}
 }

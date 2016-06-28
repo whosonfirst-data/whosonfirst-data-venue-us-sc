@@ -2,13 +2,14 @@
   "id": 370751395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.915748,33.947309,-80.915748,33.947309",
     "geom:latitude":33.947309,
     "geom:longitude":-80.915748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 Old Garners Ferry Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370751395,
-    "wof:lastmodified":1449029270,
+    "wof:lastmodified":1467082302,
     "wof:name":"Carolina Air & Water Balancing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "air"
     ]
 },
-  "bbox": [-80.915748,33.947309,-80.915748,33.947309],
-  "geometry": {"coordinates":[-80.915748,33.947309],"type":"Point"}
+  "bbox": [
+    -80.915748,
+    33.947309,
+    -80.915748,
+    33.947309
+],
+  "geometry": {"coordinates":[-80.91574799999999,33.947309],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337312495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.315703,34.879746,-82.315703,34.879746",
     "geom:latitude":34.879746,
     "geom:longitude":-82.315703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4315 E North St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337312495,
-    "wof:lastmodified":1449027361,
+    "wof:lastmodified":1467082281,
     "wof:name":"Bauer Contractors",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.315703,34.879746,-82.315703,34.879746],
+  "bbox": [
+    -82.315703,
+    34.879746,
+    -82.315703,
+    34.879746
+],
   "geometry": {"coordinates":[-82.315703,34.879746],"type":"Point"}
 }

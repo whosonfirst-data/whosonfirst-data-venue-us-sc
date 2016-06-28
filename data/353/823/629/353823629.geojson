@@ -2,13 +2,14 @@
   "id": 353823629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.55468,34.817376,-82.55468,34.817376",
     "geom:latitude":34.817376,
     "geom:longitude":-82.55468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Powdersville Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353823629,
-    "wof:lastmodified":1449020761,
+    "wof:lastmodified":1467082261,
     "wof:name":"Pat Hucker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-82.55468,34.817376,-82.55468,34.817376],
+  "bbox": [
+    -82.55468,
+    34.817376,
+    -82.55468,
+    34.817376
+],
   "geometry": {"coordinates":[-82.55468,34.817376],"type":"Point"}
 }

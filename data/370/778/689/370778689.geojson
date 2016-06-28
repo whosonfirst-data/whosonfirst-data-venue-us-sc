@@ -2,13 +2,14 @@
   "id": 370778689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.779285,34.255057,-79.779285,34.255057",
     "geom:latitude":34.255057,
     "geom:longitude":-79.779285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3014 Woodbridge Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370778689,
-    "wof:lastmodified":1449029134,
+    "wof:lastmodified":1467082299,
     "wof:name":"Florence Sewing & Vacuum Ctr",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewing"
     ]
 },
-  "bbox": [-79.779285,34.255057,-79.779285,34.255057],
+  "bbox": [
+    -79.779285,
+    34.255057,
+    -79.779285,
+    34.255057
+],
   "geometry": {"coordinates":[-79.779285,34.255057],"type":"Point"}
 }

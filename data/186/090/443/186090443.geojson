@@ -2,13 +2,14 @@
   "id": 186090443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.860334,33.483728,-80.860334,33.483728",
     "geom:latitude":33.483728,
     "geom:longitude":-80.860334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 Broughton St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186090443,
-    "wof:lastmodified":1449052468,
+    "wof:lastmodified":1467082407,
     "wof:name":"Whatley Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.860334,33.483728,-80.860334,33.483728],
-  "geometry": {"coordinates":[-80.860334,33.483728],"type":"Point"}
+  "bbox": [
+    -80.860334,
+    33.483728,
+    -80.860334,
+    33.483728
+],
+  "geometry": {"coordinates":[-80.86033399999999,33.483728],"type":"Point"}
 }

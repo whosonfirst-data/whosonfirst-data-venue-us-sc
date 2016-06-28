@@ -2,13 +2,14 @@
   "id": 370485373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.757967,32.14174,-80.757967,32.14174",
     "geom:latitude":32.14174,
     "geom:longitude":-80.757967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 de Allyon Ave",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370485373,
-    "wof:lastmodified":1449031147,
+    "wof:lastmodified":1467082344,
     "wof:name":"Dreamweaver Inc",
     "wof:parent_id":85819787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.757967,32.14174,-80.757967,32.14174],
-  "geometry": {"coordinates":[-80.757967,32.14174],"type":"Point"}
+  "bbox": [
+    -80.757967,
+    32.14174,
+    -80.757967,
+    32.14174
+],
+  "geometry": {"coordinates":[-80.75796699999999,32.14174],"type":"Point"}
 }

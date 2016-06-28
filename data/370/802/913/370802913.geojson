@@ -2,13 +2,14 @@
   "id": 370802913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.391473,34.183274,-79.391473,34.183274",
     "geom:latitude":34.183274,
     "geom:longitude":-79.391473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 Jones Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370802913,
-    "wof:lastmodified":1449031840,
+    "wof:lastmodified":1467082359,
     "wof:name":"Laverne's Hammock & Chairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [-79.391473,34.183274,-79.391473,34.183274],
+  "bbox": [
+    -79.391473,
+    34.183274,
+    -79.391473,
+    34.183274
+],
   "geometry": {"coordinates":[-79.391473,34.183274],"type":"Point"}
 }

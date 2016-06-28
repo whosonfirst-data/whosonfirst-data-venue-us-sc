@@ -2,13 +2,14 @@
   "id": 353582431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.945089,34.759222,-80.945089,34.759222",
     "geom:latitude":34.759222,
     "geom:longitude":-80.945089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4956 Wylies Mill Rd",
     "sg:city":"Edgemoor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353582431,
-    "wof:lastmodified":1449019637,
+    "wof:lastmodified":1467082238,
     "wof:name":"Ideal Logging",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "logging"
     ]
 },
-  "bbox": [-80.945089,34.759222,-80.945089,34.759222],
+  "bbox": [
+    -80.945089,
+    34.759222,
+    -80.945089,
+    34.759222
+],
   "geometry": {"coordinates":[-80.945089,34.759222],"type":"Point"}
 }

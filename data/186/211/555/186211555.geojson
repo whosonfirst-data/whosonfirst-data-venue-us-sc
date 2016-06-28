@@ -2,13 +2,14 @@
   "id": 186211555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.063294,33.84591,-79.063294,33.84591",
     "geom:latitude":33.84591,
     "geom:longitude":-79.063294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 Church St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186211555,
-    "wof:lastmodified":1449051053,
+    "wof:lastmodified":1467082394,
     "wof:name":"Equity One Inc",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-79.063294,33.84591,-79.063294,33.84591],
+  "bbox": [
+    -79.063294,
+    33.84591,
+    -79.063294,
+    33.84591
+],
   "geometry": {"coordinates":[-79.063294,33.84591],"type":"Point"}
 }

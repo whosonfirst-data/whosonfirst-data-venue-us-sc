@@ -2,13 +2,14 @@
   "id": 337344625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.73283,34.683766,-80.73283,34.683766",
     "geom:latitude":34.683766,
     "geom:longitude":-80.73283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Clearwater Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337344625,
-    "wof:lastmodified":1449026985,
+    "wof:lastmodified":1467082267,
     "wof:name":"Bill Ardrey Forestry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forester"
     ]
 },
-  "bbox": [-80.73283,34.683766,-80.73283,34.683766],
-  "geometry": {"coordinates":[-80.73283,34.683766],"type":"Point"}
+  "bbox": [
+    -80.73283,
+    34.683766,
+    -80.73283,
+    34.683766
+],
+  "geometry": {"coordinates":[-80.73283000000001,34.683766],"type":"Point"}
 }

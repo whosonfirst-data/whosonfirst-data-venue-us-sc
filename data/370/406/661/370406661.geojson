@@ -2,13 +2,14 @@
   "id": 370406661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.203489,34.041019,-81.203489,34.041019",
     "geom:latitude":34.041019,
     "geom:longitude":-81.203489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Meadowbrook Ln",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370406661,
-    "wof:lastmodified":1449030892,
+    "wof:lastmodified":1467082338,
     "wof:name":"Gerdau Ameristeel",
     "wof:parent_id":85897271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-81.203489,34.041019,-81.203489,34.041019],
+  "bbox": [
+    -81.203489,
+    34.041019,
+    -81.203489,
+    34.041019
+],
   "geometry": {"coordinates":[-81.203489,34.041019],"type":"Point"}
 }

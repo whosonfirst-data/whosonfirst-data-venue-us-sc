@@ -2,13 +2,14 @@
   "id": 353741653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.982255,32.734758,-79.982255,32.734758",
     "geom:latitude":32.734758,
     "geom:longitude":-79.982255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"865 Riverland Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353741653,
-    "wof:lastmodified":1449018380,
+    "wof:lastmodified":1467082212,
     "wof:name":"Lowcountry Senior Ctr",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "citizen"
     ]
 },
-  "bbox": [-79.982255,32.734758,-79.982255,32.734758],
-  "geometry": {"coordinates":[-79.982255,32.734758],"type":"Point"}
+  "bbox": [
+    -79.982255,
+    32.734758,
+    -79.982255,
+    32.734758
+],
+  "geometry": {"coordinates":[-79.98225499999999,32.734758],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370227867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.099013,34.098375,-79.099013,34.098375",
     "geom:latitude":34.098375,
     "geom:longitude":-79.099013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7158 Cookes Cir",
     "sg:city":"Nichols",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370227867,
-    "wof:lastmodified":1449029843,
+    "wof:lastmodified":1467082315,
     "wof:name":"Lowcountry Heating & Cooling",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.099013,34.098375,-79.099013,34.098375],
+  "bbox": [
+    -79.099013,
+    34.098375,
+    -79.099013,
+    34.098375
+],
   "geometry": {"coordinates":[-79.099013,34.098375],"type":"Point"}
 }

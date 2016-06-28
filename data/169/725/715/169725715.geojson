@@ -2,13 +2,14 @@
   "id": 169725715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.109306,34.052959,-81.109306,34.052959",
     "geom:latitude":34.052959,
     "geom:longitude":-81.109306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Metze Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169725715,
-    "wof:lastmodified":1449033497,
+    "wof:lastmodified":1467082380,
     "wof:name":"Richland Terrace Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.109306,34.052959,-81.109306,34.052959],
+  "bbox": [
+    -81.109306,
+    34.052959,
+    -81.109306,
+    34.052959
+],
   "geometry": {"coordinates":[-81.109306,34.052959],"type":"Point"}
 }

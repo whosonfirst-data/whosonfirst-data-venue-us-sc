@@ -2,13 +2,14 @@
   "id": 353483155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.001903,32.797827,-80.001903,32.797827",
     "geom:latitude":32.797827,
     "geom:longitude":-80.001903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1365 Ashley River Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353483155,
-    "wof:lastmodified":1449020275,
+    "wof:lastmodified":1467082251,
     "wof:name":"Ashley River Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.001903,32.797827,-80.001903,32.797827],
+  "bbox": [
+    -80.001903,
+    32.797827,
+    -80.001903,
+    32.797827
+],
   "geometry": {"coordinates":[-80.001903,32.797827],"type":"Point"}
 }

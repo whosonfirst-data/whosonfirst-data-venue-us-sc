@@ -2,13 +2,14 @@
   "id": 185900955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.012706,33.787953,-79.012706,33.787953",
     "geom:latitude":33.787953,
     "geom:longitude":-79.012706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Citadel Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185900955,
-    "wof:lastmodified":1449007304,
+    "wof:lastmodified":1467082193,
     "wof:name":"Owens Burnett J Construction",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.012706,33.787953,-79.012706,33.787953],
-  "geometry": {"coordinates":[-79.012706,33.787953],"type":"Point"}
+  "bbox": [
+    -79.012706,
+    33.787953,
+    -79.012706,
+    33.787953
+],
+  "geometry": {"coordinates":[-79.01270599999999,33.787953],"type":"Point"}
 }

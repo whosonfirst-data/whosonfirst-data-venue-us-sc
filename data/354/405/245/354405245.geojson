@@ -2,13 +2,14 @@
   "id": 354405245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.430669,34.338025,-79.430669,34.338025",
     "geom:latitude":34.338025,
     "geom:longitude":-79.430669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Richardson St",
     "sg:city":"Latta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354405245,
-    "wof:lastmodified":1449067519,
+    "wof:lastmodified":1467082451,
     "wof:name":"Afk Construction & Distributin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-79.430669,34.338025,-79.430669,34.338025],
-  "geometry": {"coordinates":[-79.430669,34.338025],"type":"Point"}
+  "bbox": [
+    -79.430669,
+    34.338025,
+    -79.430669,
+    34.338025
+],
+  "geometry": {"coordinates":[-79.43066899999999,34.338025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370257289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.245194,33.051974,-80.245194,33.051974",
     "geom:latitude":33.051974,
     "geom:longitude":-80.245194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Pine Dr",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370257289,
-    "wof:lastmodified":1449030104,
+    "wof:lastmodified":1467082321,
     "wof:name":"Portrait Homes Knowsley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-80.245194,33.051974,-80.245194,33.051974],
+  "bbox": [
+    -80.245194,
+    33.051974,
+    -80.245194,
+    33.051974
+],
   "geometry": {"coordinates":[-80.245194,33.051974],"type":"Point"}
 }

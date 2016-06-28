@@ -2,13 +2,14 @@
   "id": 354142153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.204879,33.693423,-80.204879,33.693423",
     "geom:latitude":33.693423,
     "geom:longitude":-80.204879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 E Boyce St",
     "sg:city":"Manning",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354142153,
-    "wof:lastmodified":1449067295,
+    "wof:lastmodified":1467082446,
     "wof:name":"Manning Tractor Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [-80.204879,33.693423,-80.204879,33.693423],
-  "geometry": {"coordinates":[-80.204879,33.693423],"type":"Point"}
+  "bbox": [
+    -80.204879,
+    33.693423,
+    -80.204879,
+    33.693423
+],
+  "geometry": {"coordinates":[-80.20487900000001,33.693423],"type":"Point"}
 }

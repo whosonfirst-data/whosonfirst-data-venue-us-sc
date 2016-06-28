@@ -2,13 +2,14 @@
   "id": 354333223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.464863,33.961564,-80.464863,33.961564",
     "geom:latitude":33.961564,
     "geom:longitude":-80.464863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1518 Cherryvale Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354333223,
-    "wof:lastmodified":1449067558,
+    "wof:lastmodified":1467082452,
     "wof:name":"Dan's Auto Svc",
     "wof:parent_id":85848059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brake"
     ]
 },
-  "bbox": [-80.464863,33.961564,-80.464863,33.961564],
-  "geometry": {"coordinates":[-80.464863,33.961564],"type":"Point"}
+  "bbox": [
+    -80.464863,
+    33.961564,
+    -80.464863,
+    33.961564
+],
+  "geometry": {"coordinates":[-80.46486299999999,33.961564],"type":"Point"}
 }

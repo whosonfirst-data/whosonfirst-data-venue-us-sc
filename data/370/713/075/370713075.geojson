@@ -2,13 +2,14 @@
   "id": 370713075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.770225,34.20619,-79.770225,34.20619",
     "geom:latitude":34.20619,
     "geom:longitude":-79.770225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 W Lucas St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370713075,
-    "wof:lastmodified":1449032159,
+    "wof:lastmodified":1467082366,
     "wof:name":"Rick's Pawn Shop",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-79.770225,34.20619,-79.770225,34.20619],
+  "bbox": [
+    -79.770225,
+    34.20619,
+    -79.770225,
+    34.20619
+],
   "geometry": {"coordinates":[-79.770225,34.20619],"type":"Point"}
 }

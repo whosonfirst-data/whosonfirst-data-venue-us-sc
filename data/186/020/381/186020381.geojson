@@ -2,13 +2,14 @@
   "id": 186020381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.862349,33.491695,-80.862349,33.491695",
     "geom:latitude":33.491695,
     "geom:longitude":-80.862349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Docket St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186020381,
-    "wof:lastmodified":1449051630,
+    "wof:lastmodified":1467082399,
     "wof:name":"Janne B Osborne",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.862349,33.491695,-80.862349,33.491695],
-  "geometry": {"coordinates":[-80.862349,33.491695],"type":"Point"}
+  "bbox": [
+    -80.862349,
+    33.491695,
+    -80.862349,
+    33.491695
+],
+  "geometry": {"coordinates":[-80.86234899999999,33.491695],"type":"Point"}
 }

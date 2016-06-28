@@ -2,13 +2,14 @@
   "id": 169848563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.83375,33.734474,-78.83375,33.734474",
     "geom:latitude":33.734474,
     "geom:longitude":-78.83375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5915 N Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169848563,
-    "wof:lastmodified":1449033151,
+    "wof:lastmodified":1467082378,
     "wof:name":"Agent Mark Ousley",
     "wof:parent_id":85825231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.83375,33.734474,-78.83375,33.734474],
-  "geometry": {"coordinates":[-78.83375,33.734474],"type":"Point"}
+  "bbox": [
+    -78.83375,
+    33.734474,
+    -78.83375,
+    33.734474
+],
+  "geometry": {"coordinates":[-78.83374999999999,33.734474],"type":"Point"}
 }

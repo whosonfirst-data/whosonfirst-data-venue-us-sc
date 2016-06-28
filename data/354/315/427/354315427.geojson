@@ -2,13 +2,14 @@
   "id": 354315427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.308147,33.979471,-81.308147,33.979471",
     "geom:latitude":33.979471,
     "geom:longitude":-81.308147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2464 Augusta Hwy",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354315427,
-    "wof:lastmodified":1449067587,
+    "wof:lastmodified":1467082452,
     "wof:name":"First Palmetto Insurance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.308147,33.979471,-81.308147,33.979471],
-  "geometry": {"coordinates":[-81.308147,33.979471],"type":"Point"}
+  "bbox": [
+    -81.308147,
+    33.979471,
+    -81.308147,
+    33.979471
+],
+  "geometry": {"coordinates":[-81.30814700000001,33.979471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370529295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.242999,34.288034,-82.242999,34.288034",
     "geom:latitude":34.288034,
     "geom:longitude":-82.242999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 Emerson St",
     "sg:city":"Hodges",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370529295,
-    "wof:lastmodified":1449030570,
+    "wof:lastmodified":1467082331,
     "wof:name":"Somebody's House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-82.242999,34.288034,-82.242999,34.288034],
+  "bbox": [
+    -82.242999,
+    34.288034,
+    -82.242999,
+    34.288034
+],
   "geometry": {"coordinates":[-82.242999,34.288034],"type":"Point"}
 }

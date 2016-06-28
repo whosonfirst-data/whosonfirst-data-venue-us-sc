@@ -2,13 +2,14 @@
   "id": 370938421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.085882,32.904717,-80.085882,32.904717",
     "geom:latitude":32.904717,
     "geom:longitude":-80.085882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7880 Dorchester Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370938421,
-    "wof:lastmodified":1449031619,
+    "wof:lastmodified":1467082354,
     "wof:name":"Willie's Restaurant",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.085882,32.904717,-80.085882,32.904717],
+  "bbox": [
+    -80.085882,
+    32.904717,
+    -80.085882,
+    32.904717
+],
   "geometry": {"coordinates":[-80.085882,32.904717],"type":"Point"}
 }

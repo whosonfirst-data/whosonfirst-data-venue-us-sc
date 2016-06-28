@@ -2,13 +2,14 @@
   "id": 337324669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.266714,34.128025,-81.266714,34.128025",
     "geom:latitude":34.128025,
     "geom:longitude":-81.266714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Love Valley Ct",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337324669,
-    "wof:lastmodified":1449027420,
+    "wof:lastmodified":1467082283,
     "wof:name":"Multi Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-81.266714,34.128025,-81.266714,34.128025],
-  "geometry": {"coordinates":[-81.266714,34.128025],"type":"Point"}
+  "bbox": [
+    -81.266714,
+    34.128025,
+    -81.266714,
+    34.128025
+],
+  "geometry": {"coordinates":[-81.26671399999999,34.128025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370925545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.003624,32.915565,-80.003624,32.915565",
     "geom:latitude":32.915565,
     "geom:longitude":-80.003624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1053 Riverview Dr",
     "sg:city":"Hanahan",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370925545,
-    "wof:lastmodified":1449029088,
+    "wof:lastmodified":1467082298,
     "wof:name":"Artz Enterprises",
     "wof:parent_id":85805661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "design"
     ]
 },
-  "bbox": [-80.003624,32.915565,-80.003624,32.915565],
+  "bbox": [
+    -80.003624,
+    32.915565,
+    -80.003624,
+    32.915565
+],
   "geometry": {"coordinates":[-80.003624,32.915565],"type":"Point"}
 }

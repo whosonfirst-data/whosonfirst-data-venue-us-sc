@@ -2,13 +2,14 @@
   "id": 337325419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.461579,33.92552,-80.461579,33.92552",
     "geom:latitude":33.92552,
     "geom:longitude":-80.461579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 James Haskell Rd",
     "sg:city":"Wedgefield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337325419,
-    "wof:lastmodified":1449027243,
+    "wof:lastmodified":1467082277,
     "wof:name":"Dianimal Dog Training School",
     "wof:parent_id":85848059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dog"
     ]
 },
-  "bbox": [-80.461579,33.92552,-80.461579,33.92552],
+  "bbox": [
+    -80.461579,
+    33.92552,
+    -80.461579,
+    33.92552
+],
   "geometry": {"coordinates":[-80.461579,33.92552],"type":"Point"}
 }

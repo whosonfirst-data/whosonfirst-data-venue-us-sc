@@ -2,13 +2,14 @@
   "id": 353929355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.016625,33.199672,-80.016625,33.199672",
     "geom:latitude":33.199672,
     "geom:longitude":-80.016625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Broughton Rd",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353929355,
-    "wof:lastmodified":1449019238,
+    "wof:lastmodified":1467082230,
     "wof:name":"Peagler & Weathers",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.016625,33.199672,-80.016625,33.199672],
+  "bbox": [
+    -80.016625,
+    33.199672,
+    -80.016625,
+    33.199672
+],
   "geometry": {"coordinates":[-80.016625,33.199672],"type":"Point"}
 }

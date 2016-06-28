@@ -2,13 +2,14 @@
   "id": 370865289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.181377,34.215131,-82.181377,34.215131",
     "geom:latitude":34.215131,
     "geom:longitude":-82.181377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1327 Montague Ave Exd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370865289,
-    "wof:lastmodified":1449031649,
+    "wof:lastmodified":1467082355,
     "wof:name":"Greenwood Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.181377,34.215131,-82.181377,34.215131],
+  "bbox": [
+    -82.181377,
+    34.215131,
+    -82.181377,
+    34.215131
+],
   "geometry": {"coordinates":[-82.181377,34.215131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370860835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.98283,32.81693,-79.98283,32.81693",
     "geom:latitude":32.81693,
     "geom:longitude":-79.98283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Norview Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370860835,
-    "wof:lastmodified":1449030600,
+    "wof:lastmodified":1467082332,
     "wof:name":"Wr Faucette & Co Inc",
     "wof:parent_id":85838205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.98283,32.81693,-79.98283,32.81693],
-  "geometry": {"coordinates":[-79.98283,32.81693],"type":"Point"}
+  "bbox": [
+    -79.98283,
+    32.81693,
+    -79.98283,
+    32.81693
+],
+  "geometry": {"coordinates":[-79.98283000000001,32.81693],"type":"Point"}
 }

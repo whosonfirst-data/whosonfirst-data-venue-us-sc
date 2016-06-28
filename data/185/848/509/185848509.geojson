@@ -2,13 +2,14 @@
   "id": 185848509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.350884,34.833963,-82.350884,34.833963",
     "geom:latitude":34.833963,
     "geom:longitude":-82.350884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2323 Laurens Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185848509,
-    "wof:lastmodified":1449006831,
+    "wof:lastmodified":1467082186,
     "wof:name":"Fairway Ford Inc",
     "wof:parent_id":85829925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.350884,34.833963,-82.350884,34.833963],
-  "geometry": {"coordinates":[-82.350884,34.833963],"type":"Point"}
+  "bbox": [
+    -82.350884,
+    34.833963,
+    -82.350884,
+    34.833963
+],
+  "geometry": {"coordinates":[-82.35088399999999,34.833963],"type":"Point"}
 }

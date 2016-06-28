@@ -2,13 +2,14 @@
   "id": 186109103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.756015,33.4875,-81.756015,33.4875",
     "geom:latitude":33.4875,
     "geom:longitude":-81.756015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1080 Silver Bluff Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186109103,
-    "wof:lastmodified":1449051324,
+    "wof:lastmodified":1467082397,
     "wof:name":"Mobley Properties",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.756015,33.4875,-81.756015,33.4875],
+  "bbox": [
+    -81.756015,
+    33.4875,
+    -81.756015,
+    33.4875
+],
   "geometry": {"coordinates":[-81.756015,33.4875],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337310099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.093317,33.859534,-79.093317,33.859534",
     "geom:latitude":33.859534,
     "geom:longitude":-79.093317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Dunn Short Cut Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337310099,
-    "wof:lastmodified":1449027453,
+    "wof:lastmodified":1467082284,
     "wof:name":"Dunn's Welding & Machine Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-79.093317,33.859534,-79.093317,33.859534],
+  "bbox": [
+    -79.093317,
+    33.859534,
+    -79.093317,
+    33.859534
+],
   "geometry": {"coordinates":[-79.093317,33.859534],"type":"Point"}
 }

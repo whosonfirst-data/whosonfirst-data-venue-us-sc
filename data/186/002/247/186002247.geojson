@@ -2,13 +2,14 @@
   "id": 186002247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.226845,35.099374,-81.226845,35.099374",
     "geom:latitude":35.099374,
     "geom:longitude":-81.226845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Willow Oaks Cir",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186002247,
-    "wof:lastmodified":1449052524,
+    "wof:lastmodified":1467082408,
     "wof:name":"Willow Oaks Apartments",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.226845,35.099374,-81.226845,35.099374],
+  "bbox": [
+    -81.226845,
+    35.099374,
+    -81.226845,
+    35.099374
+],
   "geometry": {"coordinates":[-81.226845,35.099374],"type":"Point"}
 }

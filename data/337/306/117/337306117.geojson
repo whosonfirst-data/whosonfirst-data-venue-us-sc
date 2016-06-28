@@ -2,13 +2,14 @@
   "id": 337306117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.016249,34.049525,-81.016249,34.049525",
     "geom:latitude":34.049525,
     "geom:longitude":-81.016249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5418 Mauldin Ave",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337306117,
-    "wof:lastmodified":1449027708,
+    "wof:lastmodified":1467082294,
     "wof:name":"First Calvary Apartments",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.016249,34.049525,-81.016249,34.049525],
+  "bbox": [
+    -81.016249,
+    34.049525,
+    -81.016249,
+    34.049525
+],
   "geometry": {"coordinates":[-81.016249,34.049525],"type":"Point"}
 }

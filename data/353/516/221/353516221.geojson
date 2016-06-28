@@ -2,13 +2,14 @@
   "id": 353516221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.922656,34.199033,-81.922656,34.199033",
     "geom:latitude":34.199033,
     "geom:longitude":-81.922656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Dutchman Ct",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353516221,
-    "wof:lastmodified":1449018746,
+    "wof:lastmodified":1467082220,
     "wof:name":"Fairfield County Sheriff Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-81.922656,34.199033,-81.922656,34.199033],
+  "bbox": [
+    -81.922656,
+    34.199033,
+    -81.922656,
+    34.199033
+],
   "geometry": {"coordinates":[-81.922656,34.199033],"type":"Point"}
 }

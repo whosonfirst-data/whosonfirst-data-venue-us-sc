@@ -2,13 +2,14 @@
   "id": 370835121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.735511,33.949385,-78.735511,33.949385",
     "geom:latitude":33.949385,
     "geom:longitude":-78.735511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 State Hwy 9 W",
     "sg:city":"Longs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370835121,
-    "wof:lastmodified":1449029577,
+    "wof:lastmodified":1467082309,
     "wof:name":"Long Bay Seafood Inc",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-78.735511,33.949385,-78.735511,33.949385],
+  "bbox": [
+    -78.735511,
+    33.949385,
+    -78.735511,
+    33.949385
+],
   "geometry": {"coordinates":[-78.735511,33.949385],"type":"Point"}
 }

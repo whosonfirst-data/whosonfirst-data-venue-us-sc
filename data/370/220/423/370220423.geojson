@@ -2,13 +2,14 @@
   "id": 370220423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.308409,34.888638,-82.308409,34.888638",
     "geom:latitude":34.888638,
     "geom:longitude":-82.308409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Corbin Ct",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370220423,
-    "wof:lastmodified":1449032350,
+    "wof:lastmodified":1467082371,
     "wof:name":"Old Man Fix It Cod Only",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.308409,34.888638,-82.308409,34.888638],
+  "bbox": [
+    -82.308409,
+    34.888638,
+    -82.308409,
+    34.888638
+],
   "geometry": {"coordinates":[-82.308409,34.888638],"type":"Point"}
 }

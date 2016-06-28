@@ -2,13 +2,14 @@
   "id": 370425835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.405655,34.867613,-82.405655,34.867613",
     "geom:latitude":34.867613,
     "geom:longitude":-82.405655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Shaw St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370425835,
-    "wof:lastmodified":1449030282,
+    "wof:lastmodified":1467082325,
     "wof:name":"Recycle Solutions Inc",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "waste"
     ]
 },
-  "bbox": [-82.405655,34.867613,-82.405655,34.867613],
+  "bbox": [
+    -82.405655,
+    34.867613,
+    -82.405655,
+    34.867613
+],
   "geometry": {"coordinates":[-82.405655,34.867613],"type":"Point"}
 }

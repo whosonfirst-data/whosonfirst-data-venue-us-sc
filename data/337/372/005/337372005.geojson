@@ -2,13 +2,14 @@
   "id": 337372005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.061443,32.924769,-80.061443,32.924769",
     "geom:latitude":32.924769,
     "geom:longitude":-80.061443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7290 Investment Dr",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337372005,
-    "wof:lastmodified":1449027440,
+    "wof:lastmodified":1467082284,
     "wof:name":"R & J Components",
     "wof:parent_id":85803745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-80.061443,32.924769,-80.061443,32.924769],
+  "bbox": [
+    -80.061443,
+    32.924769,
+    -80.061443,
+    32.924769
+],
   "geometry": {"coordinates":[-80.061443,32.924769],"type":"Point"}
 }

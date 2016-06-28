@@ -2,13 +2,14 @@
   "id": 353380479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.817218,34.250382,-79.817218,34.250382",
     "geom:latitude":34.250382,
     "geom:longitude":-79.817218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2335 Laurens Cir",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353380479,
-    "wof:lastmodified":1449019440,
+    "wof:lastmodified":1467082234,
     "wof:name":"Pilkington North America Svc",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-79.817218,34.250382,-79.817218,34.250382],
+  "bbox": [
+    -79.817218,
+    34.250382,
+    -79.817218,
+    34.250382
+],
   "geometry": {"coordinates":[-79.817218,34.250382],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370251353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.481904,34.543352,-80.481904,34.543352",
     "geom:latitude":34.543352,
     "geom:longitude":-80.481904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5990 Lockhart Rd",
     "sg:city":"Kershaw",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370251353,
-    "wof:lastmodified":1449029127,
+    "wof:lastmodified":1467082299,
     "wof:name":"Stoys Place",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.481904,34.543352,-80.481904,34.543352],
+  "bbox": [
+    -80.481904,
+    34.543352,
+    -80.481904,
+    34.543352
+],
   "geometry": {"coordinates":[-80.481904,34.543352],"type":"Point"}
 }

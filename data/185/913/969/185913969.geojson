@@ -2,13 +2,14 @@
   "id": 185913969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.401973,34.855195,-82.401973,34.855195",
     "geom:latitude":34.855195,
     "geom:longitude":-82.401973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 Buncombe St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185913969,
-    "wof:lastmodified":1449007233,
+    "wof:lastmodified":1467082192,
     "wof:name":"Express 629",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.401973,34.855195,-82.401973,34.855195],
+  "bbox": [
+    -82.401973,
+    34.855195,
+    -82.401973,
+    34.855195
+],
   "geometry": {"coordinates":[-82.401973,34.855195],"type":"Point"}
 }

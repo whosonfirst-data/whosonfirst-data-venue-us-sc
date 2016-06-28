@@ -2,13 +2,14 @@
   "id": 185729511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.821308,35.099261,-81.821308,35.099261",
     "geom:latitude":35.099261,
     "geom:longitude":-81.821308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Bobcat Trl",
     "sg:city":"Cowpens",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185729511,
-    "wof:lastmodified":1449007442,
+    "wof:lastmodified":1467082195,
     "wof:name":"Sam McCraw Bobcat Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.821308,35.099261,-81.821308,35.099261],
+  "bbox": [
+    -81.821308,
+    35.099261,
+    -81.821308,
+    35.099261
+],
   "geometry": {"coordinates":[-81.821308,35.099261],"type":"Point"}
 }

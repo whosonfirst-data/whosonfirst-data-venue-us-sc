@@ -2,13 +2,14 @@
   "id": 370597353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.405939,34.821852,-82.405939,34.821852",
     "geom:latitude":34.821852,
     "geom:longitude":-82.405939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Wren Way",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370597353,
-    "wof:lastmodified":1449032420,
+    "wof:lastmodified":1467082372,
     "wof:name":"Broome & Assoc Inc",
     "wof:parent_id":85811527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.405939,34.821852,-82.405939,34.821852],
+  "bbox": [
+    -82.405939,
+    34.821852,
+    -82.405939,
+    34.821852
+],
   "geometry": {"coordinates":[-82.405939,34.821852],"type":"Point"}
 }

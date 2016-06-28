@@ -2,13 +2,14 @@
   "id": 185940769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.070207,33.997463,-81.070207,33.997463",
     "geom:latitude":33.997463,
     "geom:longitude":-81.070207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"928 Sunset Blvd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185940769,
-    "wof:lastmodified":1449007009,
+    "wof:lastmodified":1467082188,
     "wof:name":"Air Mechanics",
     "wof:parent_id":85840603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.070207,33.997463,-81.070207,33.997463],
+  "bbox": [
+    -81.070207,
+    33.997463,
+    -81.070207,
+    33.997463
+],
   "geometry": {"coordinates":[-81.070207,33.997463],"type":"Point"}
 }

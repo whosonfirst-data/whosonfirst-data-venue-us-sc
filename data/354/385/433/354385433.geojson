@@ -2,13 +2,14 @@
   "id": 354385433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.946471,34.988407,-81.946471,34.988407",
     "geom:latitude":34.988407,
     "geom:longitude":-81.946471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 Boiling Springs Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354385433,
-    "wof:lastmodified":1449066958,
+    "wof:lastmodified":1467082438,
     "wof:name":"Dog Groomer",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.946471,34.988407,-81.946471,34.988407],
+  "bbox": [
+    -81.946471,
+    34.988407,
+    -81.946471,
+    34.988407
+],
   "geometry": {"coordinates":[-81.946471,34.988407],"type":"Point"}
 }

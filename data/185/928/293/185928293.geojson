@@ -2,13 +2,14 @@
   "id": 185928293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.253319,34.852187,-82.253319,34.852187",
     "geom:latitude":34.852187,
     "geom:longitude":-82.253319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Brozinni Ct",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185928293,
-    "wof:lastmodified":1449007991,
+    "wof:lastmodified":1467082204,
     "wof:name":"Solutions Plastic",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plastic"
     ]
 },
-  "bbox": [-82.253319,34.852187,-82.253319,34.852187],
+  "bbox": [
+    -82.253319,
+    34.852187,
+    -82.253319,
+    34.852187
+],
   "geometry": {"coordinates":[-82.253319,34.852187],"type":"Point"}
 }

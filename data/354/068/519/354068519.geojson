@@ -2,13 +2,14 @@
   "id": 354068519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.795212,33.771768,-78.795212,33.771768",
     "geom:latitude":33.771768,
     "geom:longitude":-78.795212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9404 Lake Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354068519,
-    "wof:lastmodified":1449066804,
+    "wof:lastmodified":1467082434,
     "wof:name":"Max Communications Inc",
     "wof:parent_id":85815435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-78.795212,33.771768,-78.795212,33.771768],
-  "geometry": {"coordinates":[-78.795212,33.771768],"type":"Point"}
+  "bbox": [
+    -78.795212,
+    33.771768,
+    -78.795212,
+    33.771768
+],
+  "geometry": {"coordinates":[-78.79521200000001,33.771768],"type":"Point"}
 }

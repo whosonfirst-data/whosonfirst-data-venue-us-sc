@@ -2,13 +2,14 @@
   "id": 354201667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.673927,32.431739,-80.673927,32.431739",
     "geom:latitude":32.431739,
     "geom:longitude":-80.673927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Bay St",
     "sg:city":"Port Royal",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354201667,
-    "wof:lastmodified":1449067438,
+    "wof:lastmodified":1467082449,
     "wof:name":"Coastal Carolina Realty",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.673927,32.431739,-80.673927,32.431739],
-  "geometry": {"coordinates":[-80.673927,32.431739],"type":"Point"}
+  "bbox": [
+    -80.673927,
+    32.431739,
+    -80.673927,
+    32.431739
+],
+  "geometry": {"coordinates":[-80.67392700000001,32.431739],"type":"Point"}
 }

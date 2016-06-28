@@ -2,13 +2,14 @@
   "id": 354076629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.735712,34.239368,-81.735712,34.239368",
     "geom:latitude":34.239368,
     "geom:longitude":-81.735712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"687 John Waldrop Rd",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354076629,
-    "wof:lastmodified":1449067275,
+    "wof:lastmodified":1467082445,
     "wof:name":"Trinity Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.735712,34.239368,-81.735712,34.239368],
-  "geometry": {"coordinates":[-81.735712,34.239368],"type":"Point"}
+  "bbox": [
+    -81.735712,
+    34.239368,
+    -81.735712,
+    34.239368
+],
+  "geometry": {"coordinates":[-81.73571200000001,34.239368],"type":"Point"}
 }

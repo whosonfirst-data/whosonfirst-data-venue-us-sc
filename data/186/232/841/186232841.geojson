@@ -2,13 +2,14 @@
   "id": 186232841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.01675,32.839891,-80.01675,32.839891",
     "geom:latitude":32.839891,
     "geom:longitude":-80.01675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4045 Bridge View Dr",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186232841,
-    "wof:lastmodified":1449051253,
+    "wof:lastmodified":1467082396,
     "wof:name":"Charleston County Magistrates",
     "wof:parent_id":85818395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-80.01675,32.839891,-80.01675,32.839891],
+  "bbox": [
+    -80.01675,
+    32.839891,
+    -80.01675,
+    32.839891
+],
   "geometry": {"coordinates":[-80.01675,32.839891],"type":"Point"}
 }

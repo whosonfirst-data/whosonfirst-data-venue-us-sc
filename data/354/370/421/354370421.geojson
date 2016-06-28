@@ -2,13 +2,14 @@
   "id": 354370421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.135,33.42556,-80.135,33.42556",
     "geom:latitude":33.42556,
     "geom:longitude":-80.135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Pleasant Ln",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354370421,
-    "wof:lastmodified":1449066871,
+    "wof:lastmodified":1467082436,
     "wof:name":"Legends At Mount Pleasant",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.135,33.42556,-80.135,33.42556],
-  "geometry": {"coordinates":[-80.135,33.42556],"type":"Point"}
+  "bbox": [
+    -80.135,
+    33.42556,
+    -80.135,
+    33.42556
+],
+  "geometry": {"coordinates":[-80.13500000000001,33.42556],"type":"Point"}
 }

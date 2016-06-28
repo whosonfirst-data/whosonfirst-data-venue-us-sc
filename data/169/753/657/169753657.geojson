@@ -2,13 +2,14 @@
   "id": 169753657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.677523,34.70268,-80.677523,34.70268",
     "geom:latitude":34.70268,
     "geom:longitude":-80.677523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2165 Flat Creek Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169753657,
-    "wof:lastmodified":1449033070,
+    "wof:lastmodified":1467082378,
     "wof:name":"Kersey's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.677523,34.70268,-80.677523,34.70268],
-  "geometry": {"coordinates":[-80.677523,34.70268],"type":"Point"}
+  "bbox": [
+    -80.677523,
+    34.70268,
+    -80.677523,
+    34.70268
+],
+  "geometry": {"coordinates":[-80.67752299999999,34.70268],"type":"Point"}
 }

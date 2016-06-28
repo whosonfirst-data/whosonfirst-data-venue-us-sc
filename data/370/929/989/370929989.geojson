@@ -2,13 +2,14 @@
   "id": 370929989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.688212,33.812667,-78.688212,33.812667",
     "geom:latitude":33.812667,
     "geom:longitude":-78.688212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 S Ocean Blvd",
     "sg:city":"North Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370929989,
-    "wof:lastmodified":1449030385,
+    "wof:lastmodified":1467082327,
     "wof:name":"Wellington Homeowners Assn",
     "wof:parent_id":85826955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.688212,33.812667,-78.688212,33.812667],
-  "geometry": {"coordinates":[-78.688212,33.812667],"type":"Point"}
+  "bbox": [
+    -78.688212,
+    33.812667,
+    -78.688212,
+    33.812667
+],
+  "geometry": {"coordinates":[-78.68821199999999,33.812667],"type":"Point"}
 }

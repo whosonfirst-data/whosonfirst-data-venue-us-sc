@@ -2,13 +2,14 @@
   "id": 169850585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.629986,34.287508,-81.629986,34.287508",
     "geom:latitude":34.287508,
     "geom:longitude":-81.629986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2402 Nance St",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169850585,
-    "wof:lastmodified":1449034602,
+    "wof:lastmodified":1467082383,
     "wof:name":"Tom Abraham Land Surveying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-81.629986,34.287508,-81.629986,34.287508],
+  "bbox": [
+    -81.629986,
+    34.287508,
+    -81.629986,
+    34.287508
+],
   "geometry": {"coordinates":[-81.629986,34.287508],"type":"Point"}
 }

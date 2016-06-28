@@ -2,13 +2,14 @@
   "id": 354299457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.723016,33.559935,-81.723016,33.559935",
     "geom:latitude":33.559935,
     "geom:longitude":-81.723016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Laurens St SW",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354299457,
-    "wof:lastmodified":1449066347,
+    "wof:lastmodified":1467082424,
     "wof:name":"Toole & Toole",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.723016,33.559935,-81.723016,33.559935],
+  "bbox": [
+    -81.723016,
+    33.559935,
+    -81.723016,
+    33.559935
+],
   "geometry": {"coordinates":[-81.723016,33.559935],"type":"Point"}
 }

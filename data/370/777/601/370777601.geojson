@@ -2,13 +2,14 @@
   "id": 370777601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.197735,34.225469,-82.197735,34.225469",
     "geom:latitude":34.225469,
     "geom:longitude":-82.197735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2077 Calhoun Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370777601,
-    "wof:lastmodified":1449030862,
+    "wof:lastmodified":1467082337,
     "wof:name":"Calhoun Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-82.197735,34.225469,-82.197735,34.225469],
-  "geometry": {"coordinates":[-82.197735,34.225469],"type":"Point"}
+  "bbox": [
+    -82.197735,
+    34.225469,
+    -82.197735,
+    34.225469
+],
+  "geometry": {"coordinates":[-82.19773499999999,34.225469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354266441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.782125,34.194167,-79.782125,34.194167",
     "geom:latitude":34.194167,
     "geom:longitude":-79.782125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 Gregg Ave",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354266441,
-    "wof:lastmodified":1449065997,
+    "wof:lastmodified":1467082416,
     "wof:name":"A-1 First Class Painting & Rpr",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-79.782125,34.194167,-79.782125,34.194167],
-  "geometry": {"coordinates":[-79.782125,34.194167],"type":"Point"}
+  "bbox": [
+    -79.782125,
+    34.194167,
+    -79.782125,
+    34.194167
+],
+  "geometry": {"coordinates":[-79.78212499999999,34.194167],"type":"Point"}
 }

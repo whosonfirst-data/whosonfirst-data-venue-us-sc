@@ -2,13 +2,14 @@
   "id": 370946923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.833098,33.735005,-78.833098,33.735005",
     "geom:latitude":33.735005,
     "geom:longitude":-78.833098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5900 N Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370946923,
-    "wof:lastmodified":1449032071,
+    "wof:lastmodified":1467082364,
     "wof:name":"Symbols Jewelers By Chillico",
     "wof:parent_id":85825231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "custom"
     ]
 },
-  "bbox": [-78.833098,33.735005,-78.833098,33.735005],
-  "geometry": {"coordinates":[-78.833098,33.735005],"type":"Point"}
+  "bbox": [
+    -78.833098,
+    33.735005,
+    -78.833098,
+    33.735005
+],
+  "geometry": {"coordinates":[-78.83309800000001,33.735005],"type":"Point"}
 }

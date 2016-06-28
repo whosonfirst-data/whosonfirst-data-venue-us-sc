@@ -2,13 +2,14 @@
   "id": 186079925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.19628,33.973228,-81.19628,33.973228",
     "geom:latitude":33.973228,
     "geom:longitude":-81.19628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Dooley Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186079925,
-    "wof:lastmodified":1449052556,
+    "wof:lastmodified":1467082408,
     "wof:name":"Roger's Computer Svc",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-81.19628,33.973228,-81.19628,33.973228],
+  "bbox": [
+    -81.19628,
+    33.973228,
+    -81.19628,
+    33.973228
+],
   "geometry": {"coordinates":[-81.19628,33.973228],"type":"Point"}
 }

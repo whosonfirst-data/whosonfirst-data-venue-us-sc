@@ -2,13 +2,14 @@
   "id": 186162175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.122541,33.004091,-80.122541,33.004091",
     "geom:latitude":33.004091,
     "geom:longitude":-80.122541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10052 Hwy 78 E",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186162175,
-    "wof:lastmodified":1449052621,
+    "wof:lastmodified":1467082409,
     "wof:name":"Petracraft Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "sales"
     ]
 },
-  "bbox": [-80.122541,33.004091,-80.122541,33.004091],
+  "bbox": [
+    -80.122541,
+    33.004091,
+    -80.122541,
+    33.004091
+],
   "geometry": {"coordinates":[-80.122541,33.004091],"type":"Point"}
 }

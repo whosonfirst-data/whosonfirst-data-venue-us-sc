@@ -2,13 +2,14 @@
   "id": 370775989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.322103,34.759343,-82.322103,34.759343",
     "geom:latitude":34.759343,
     "geom:longitude":-82.322103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Colombard Ct",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370775989,
-    "wof:lastmodified":1449031599,
+    "wof:lastmodified":1467082354,
     "wof:name":"Bull's Eye Auto Interiors",
     "wof:parent_id":85806237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "upholstery"
     ]
 },
-  "bbox": [-82.322103,34.759343,-82.322103,34.759343],
+  "bbox": [
+    -82.322103,
+    34.759343,
+    -82.322103,
+    34.759343
+],
   "geometry": {"coordinates":[-82.322103,34.759343],"type":"Point"}
 }

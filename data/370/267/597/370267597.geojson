@@ -2,13 +2,14 @@
   "id": 370267597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.039633,32.811315,-80.039633,32.811315",
     "geom:latitude":32.811315,
     "geom:longitude":-80.039633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Ashley Crossing Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370267597,
-    "wof:lastmodified":1449032169,
+    "wof:lastmodified":1467082367,
     "wof:name":"Trinity Mission Assisted Lvng",
     "wof:parent_id":85809785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-80.039633,32.811315,-80.039633,32.811315],
-  "geometry": {"coordinates":[-80.039633,32.811315],"type":"Point"}
+  "bbox": [
+    -80.039633,
+    32.811315,
+    -80.039633,
+    32.811315
+],
+  "geometry": {"coordinates":[-80.03963299999999,32.811315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353880661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.712461,34.897841,-82.712461,34.897841",
     "geom:latitude":34.897841,
     "geom:longitude":-82.712461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Sangamo Rd",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353880661,
-    "wof:lastmodified":1449020826,
+    "wof:lastmodified":1467082262,
     "wof:name":"Maddens Wholesale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.712461,34.897841,-82.712461,34.897841],
+  "bbox": [
+    -82.712461,
+    34.897841,
+    -82.712461,
+    34.897841
+],
   "geometry": {"coordinates":[-82.712461,34.897841],"type":"Point"}
 }

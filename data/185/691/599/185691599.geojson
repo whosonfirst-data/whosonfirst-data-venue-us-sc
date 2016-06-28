@@ -2,13 +2,14 @@
   "id": 185691599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.394077,33.829943,-80.394077,33.829943",
     "geom:latitude":33.829943,
     "geom:longitude":-80.394077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3091 Bruce Cir",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185691599,
-    "wof:lastmodified":1449006737,
+    "wof:lastmodified":1467082184,
     "wof:name":"J & J Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.394077,33.829943,-80.394077,33.829943],
+  "bbox": [
+    -80.394077,
+    33.829943,
+    -80.394077,
+    33.829943
+],
   "geometry": {"coordinates":[-80.394077,33.829943],"type":"Point"}
 }

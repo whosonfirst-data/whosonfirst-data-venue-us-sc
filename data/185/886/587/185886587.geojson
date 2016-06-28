@@ -2,13 +2,14 @@
   "id": 185886587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.72153,33.797921,-78.72153,33.797921",
     "geom:latitude":33.797921,
     "geom:longitude":-78.72153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3610 S Ocean Blvd",
     "sg:city":"North Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185886587,
-    "wof:lastmodified":1449007500,
+    "wof:lastmodified":1467082196,
     "wof:name":"Maintenance Shack",
     "wof:parent_id":85852275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.72153,33.797921,-78.72153,33.797921],
+  "bbox": [
+    -78.72153,
+    33.797921,
+    -78.72153,
+    33.797921
+],
   "geometry": {"coordinates":[-78.72153,33.797921],"type":"Point"}
 }

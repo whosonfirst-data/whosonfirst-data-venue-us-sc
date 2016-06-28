@@ -2,13 +2,14 @@
   "id": 186286535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.350297,34.190864,-82.350297,34.190864",
     "geom:latitude":34.190864,
     "geom:longitude":-82.350297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"543 Old Abbeville Hwy",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186286535,
-    "wof:lastmodified":1449051092,
+    "wof:lastmodified":1467082394,
     "wof:name":"Hershberger Erection Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "erects"
     ]
 },
-  "bbox": [-82.350297,34.190864,-82.350297,34.190864],
+  "bbox": [
+    -82.350297,
+    34.190864,
+    -82.350297,
+    34.190864
+],
   "geometry": {"coordinates":[-82.350297,34.190864],"type":"Point"}
 }

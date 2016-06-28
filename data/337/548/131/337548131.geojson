@@ -2,13 +2,14 @@
   "id": 337548131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.610768,35.087173,-81.610768,35.087173",
     "geom:latitude":35.087173,
     "geom:longitude":-81.610768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 River Dr",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337548131,
-    "wof:lastmodified":1449027514,
+    "wof:lastmodified":1467082287,
     "wof:name":"Coles Wldg & Met Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-81.610768,35.087173,-81.610768,35.087173],
-  "geometry": {"coordinates":[-81.610768,35.087173],"type":"Point"}
+  "bbox": [
+    -81.610768,
+    35.087173,
+    -81.610768,
+    35.087173
+],
+  "geometry": {"coordinates":[-81.61076799999999,35.087173],"type":"Point"}
 }

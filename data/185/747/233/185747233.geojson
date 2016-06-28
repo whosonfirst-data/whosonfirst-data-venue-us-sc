@@ -2,13 +2,14 @@
   "id": 185747233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.413478,34.195575,-81.413478,34.195575",
     "geom:latitude":34.195575,
     "geom:longitude":-81.413478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Depot St",
     "sg:city":"Ehrhardt",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185747233,
-    "wof:lastmodified":1449006906,
+    "wof:lastmodified":1467082187,
     "wof:name":"L&J Transport LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.413478,34.195575,-81.413478,34.195575],
+  "bbox": [
+    -81.413478,
+    34.195575,
+    -81.413478,
+    34.195575
+],
   "geometry": {"coordinates":[-81.413478,34.195575],"type":"Point"}
 }

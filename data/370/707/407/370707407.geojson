@@ -2,13 +2,14 @@
   "id": 370707407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.226473,34.937732,-82.226473,34.937732",
     "geom:latitude":34.937732,
     "geom:longitude":-82.226473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Trade St",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370707407,
-    "wof:lastmodified":1449031934,
+    "wof:lastmodified":1467082361,
     "wof:name":"John Wells Photography",
     "wof:parent_id":85853715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-82.226473,34.937732,-82.226473,34.937732],
+  "bbox": [
+    -82.226473,
+    34.937732,
+    -82.226473,
+    34.937732
+],
   "geometry": {"coordinates":[-82.226473,34.937732],"type":"Point"}
 }

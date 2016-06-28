@@ -2,13 +2,14 @@
   "id": 370872501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.545279,33.485804,-79.545279,33.485804",
     "geom:latitude":33.485804,
     "geom:longitude":-79.545279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Grape Dr",
     "sg:city":"Andrews",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370872501,
-    "wof:lastmodified":1449029390,
+    "wof:lastmodified":1467082305,
     "wof:name":"All About Trash",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "collection"
     ]
 },
-  "bbox": [-79.545279,33.485804,-79.545279,33.485804],
-  "geometry": {"coordinates":[-79.545279,33.485804],"type":"Point"}
+  "bbox": [
+    -79.545279,
+    33.485804,
+    -79.545279,
+    33.485804
+],
+  "geometry": {"coordinates":[-79.54527899999999,33.485804],"type":"Point"}
 }

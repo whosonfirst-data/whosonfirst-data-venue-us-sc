@@ -2,13 +2,14 @@
   "id": 353736903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.936107,35.094861,-80.936107,35.094861",
     "geom:latitude":35.094861,
     "geom:longitude":-80.936107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3630 Festival Dr",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353736903,
-    "wof:lastmodified":1449020744,
+    "wof:lastmodified":1467082261,
     "wof:name":"Frugal Mac Doogal's Beverage",
     "wof:parent_id":85843859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.936107,35.094861,-80.936107,35.094861],
-  "geometry": {"coordinates":[-80.936107,35.094861],"type":"Point"}
+  "bbox": [
+    -80.936107,
+    35.094861,
+    -80.936107,
+    35.094861
+],
+  "geometry": {"coordinates":[-80.93610700000001,35.094861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186008235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.230371,34.602669,-82.230371,34.602669",
     "geom:latitude":34.602669,
     "geom:longitude":-82.230371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 Fairview Rd",
     "sg:city":"Fountain Inn",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186008235,
-    "wof:lastmodified":1449051223,
+    "wof:lastmodified":1467082396,
     "wof:name":"Gutter Works Plus Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.230371,34.602669,-82.230371,34.602669],
-  "geometry": {"coordinates":[-82.230371,34.602669],"type":"Point"}
+  "bbox": [
+    -82.230371,
+    34.602669,
+    -82.230371,
+    34.602669
+],
+  "geometry": {"coordinates":[-82.23037100000001,34.602669],"type":"Point"}
 }

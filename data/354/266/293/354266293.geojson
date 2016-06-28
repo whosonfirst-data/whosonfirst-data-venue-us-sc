@@ -2,13 +2,14 @@
   "id": 354266293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.305905,34.78808,-82.305905,34.78808",
     "geom:latitude":34.78808,
     "geom:longitude":-82.305905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Miller Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354266293,
-    "wof:lastmodified":1449065995,
+    "wof:lastmodified":1467082416,
     "wof:name":"Medlin Builders Inc",
     "wof:parent_id":85851381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.305905,34.78808,-82.305905,34.78808],
+  "bbox": [
+    -82.305905,
+    34.78808,
+    -82.305905,
+    34.78808
+],
   "geometry": {"coordinates":[-82.305905,34.78808],"type":"Point"}
 }

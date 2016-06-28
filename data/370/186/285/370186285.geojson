@@ -2,13 +2,14 @@
   "id": 370186285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.368839,33.815828,-81.368839,33.815828",
     "geom:latitude":33.815828,
     "geom:longitude":-81.368839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 Hayride Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370186285,
-    "wof:lastmodified":1449031744,
+    "wof:lastmodified":1467082357,
     "wof:name":"Oak Grove Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.368839,33.815828,-81.368839,33.815828],
-  "geometry": {"coordinates":[-81.368839,33.815828],"type":"Point"}
+  "bbox": [
+    -81.368839,
+    33.815828,
+    -81.368839,
+    33.815828
+],
+  "geometry": {"coordinates":[-81.36883899999999,33.815828],"type":"Point"}
 }

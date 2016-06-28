@@ -2,13 +2,14 @@
   "id": 353579737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.977545,34.498381,-82.977545,34.498381",
     "geom:latitude":34.498381,
     "geom:longitude":-82.977545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Carolina Landing Dr",
     "sg:city":"Fair Play",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353579737,
-    "wof:lastmodified":1449019071,
+    "wof:lastmodified":1467082226,
     "wof:name":"Naco Carolina Landing",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.977545,34.498381,-82.977545,34.498381],
-  "geometry": {"coordinates":[-82.977545,34.498381],"type":"Point"}
+  "bbox": [
+    -82.977545,
+    34.498381,
+    -82.977545,
+    34.498381
+],
+  "geometry": {"coordinates":[-82.97754500000001,34.498381],"type":"Point"}
 }

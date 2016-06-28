@@ -2,13 +2,14 @@
   "id": 370636201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.225223,34.007453,-81.225223,34.007453",
     "geom:latitude":34.007453,
     "geom:longitude":-81.225223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207 N Lake Dr",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370636201,
-    "wof:lastmodified":1449030428,
+    "wof:lastmodified":1467082328,
     "wof:name":"Lexington Foot Clinic",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.225223,34.007453,-81.225223,34.007453],
+  "bbox": [
+    -81.225223,
+    34.007453,
+    -81.225223,
+    34.007453
+],
   "geometry": {"coordinates":[-81.225223,34.007453],"type":"Point"}
 }

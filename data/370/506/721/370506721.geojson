@@ -2,13 +2,14 @@
   "id": 370506721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.313917,33.029962,-81.313917,33.029962",
     "geom:latitude":33.029962,
     "geom:longitude":-81.313917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Bluff Rd",
     "sg:city":"Allendale",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370506721,
-    "wof:lastmodified":1449029142,
+    "wof:lastmodified":1467082299,
     "wof:name":"Choice Cut Meats and Seafood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.313917,33.029962,-81.313917,33.029962],
+  "bbox": [
+    -81.313917,
+    33.029962,
+    -81.313917,
+    33.029962
+],
   "geometry": {"coordinates":[-81.313917,33.029962],"type":"Point"}
 }

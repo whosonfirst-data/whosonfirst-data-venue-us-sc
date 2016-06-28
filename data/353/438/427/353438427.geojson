@@ -2,13 +2,14 @@
   "id": 353438427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.968543,33.624814,-78.968543,33.624814",
     "geom:latitude":33.624814,
     "geom:longitude":-78.968543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 US Hwy 17 Bus",
     "sg:city":"Surfside Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353438427,
-    "wof:lastmodified":1449019129,
+    "wof:lastmodified":1467082227,
     "wof:name":"KOBE Express",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.968543,33.624814,-78.968543,33.624814],
+  "bbox": [
+    -78.968543,
+    33.624814,
+    -78.968543,
+    33.624814
+],
   "geometry": {"coordinates":[-78.968543,33.624814],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370895545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.682843,34.613928,-79.682843,34.613928",
     "geom:latitude":34.613928,
     "geom:longitude":-79.682843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Broad St",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370895545,
-    "wof:lastmodified":1449030522,
+    "wof:lastmodified":1467082330,
     "wof:name":"Moe's Chick'n",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.682843,34.613928,-79.682843,34.613928],
-  "geometry": {"coordinates":[-79.682843,34.613928],"type":"Point"}
+  "bbox": [
+    -79.682843,
+    34.613928,
+    -79.682843,
+    34.613928
+],
+  "geometry": {"coordinates":[-79.68284300000001,34.613928],"type":"Point"}
 }

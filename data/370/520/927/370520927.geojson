@@ -2,13 +2,14 @@
   "id": 370520927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.440657,33.751887,-79.440657,33.751887",
     "geom:latitude":33.751887,
     "geom:longitude":-79.440657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 E Andrews St",
     "sg:city":"Hemingway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370520927,
-    "wof:lastmodified":1449030213,
+    "wof:lastmodified":1467082323,
     "wof:name":"Haselden & Haselden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.440657,33.751887,-79.440657,33.751887],
+  "bbox": [
+    -79.440657,
+    33.751887,
+    -79.440657,
+    33.751887
+],
   "geometry": {"coordinates":[-79.440657,33.751887],"type":"Point"}
 }

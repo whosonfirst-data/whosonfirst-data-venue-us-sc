@@ -2,13 +2,14 @@
   "id": 353962235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.262013,34.214882,-79.262013,34.214882",
     "geom:latitude":34.214882,
     "geom:longitude":-79.262013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Tucker Ct",
     "sg:city":"Society Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353962235,
-    "wof:lastmodified":1449019771,
+    "wof:lastmodified":1467082241,
     "wof:name":"Moree Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.262013,34.214882,-79.262013,34.214882],
+  "bbox": [
+    -79.262013,
+    34.214882,
+    -79.262013,
+    34.214882
+],
   "geometry": {"coordinates":[-79.262013,34.214882],"type":"Point"}
 }

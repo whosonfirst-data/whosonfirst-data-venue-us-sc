@@ -2,13 +2,14 @@
   "id": 185615789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.895583,34.672616,-82.895583,34.672616",
     "geom:latitude":34.672616,
     "geom:longitude":-82.895583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Hickory Tree Dr",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185615789,
-    "wof:lastmodified":1449007112,
+    "wof:lastmodified":1467082190,
     "wof:name":"Cut N Edge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.895583,34.672616,-82.895583,34.672616],
+  "bbox": [
+    -82.895583,
+    34.672616,
+    -82.895583,
+    34.672616
+],
   "geometry": {"coordinates":[-82.895583,34.672616],"type":"Point"}
 }

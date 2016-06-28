@@ -2,13 +2,14 @@
   "id": 354407475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.027654,33.566486,-79.027654,33.566486",
     "geom:latitude":33.566486,
     "geom:longitude":-79.027654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3669 US Hwy 17 Bus",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354407475,
-    "wof:lastmodified":1449066891,
+    "wof:lastmodified":1467082436,
     "wof:name":"Matchpoint Tennis Ctr",
     "wof:parent_id":85813133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "court"
     ]
 },
-  "bbox": [-79.027654,33.566486,-79.027654,33.566486],
+  "bbox": [
+    -79.027654,
+    33.566486,
+    -79.027654,
+    33.566486
+],
   "geometry": {"coordinates":[-79.027654,33.566486],"type":"Point"}
 }

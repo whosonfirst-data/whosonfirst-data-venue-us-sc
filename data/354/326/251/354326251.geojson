@@ -2,13 +2,14 @@
   "id": 354326251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.819578,32.273317,-80.819578,32.273317",
     "geom:latitude":32.273317,
     "geom:longitude":-80.819578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"189 Sawmill Creek Rd",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354326251,
-    "wof:lastmodified":1449066647,
+    "wof:lastmodified":1467082431,
     "wof:name":"Beever Mechanical LLC",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.819578,32.273317,-80.819578,32.273317],
-  "geometry": {"coordinates":[-80.819578,32.273317],"type":"Point"}
+  "bbox": [
+    -80.819578,
+    32.273317,
+    -80.819578,
+    32.273317
+],
+  "geometry": {"coordinates":[-80.81957800000001,32.273317],"type":"Point"}
 }

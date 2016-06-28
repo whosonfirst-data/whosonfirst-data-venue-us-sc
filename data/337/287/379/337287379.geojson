@@ -2,13 +2,14 @@
   "id": 337287379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.605342,34.361766,-82.605342,34.361766",
     "geom:latitude":34.361766,
     "geom:longitude":-82.605342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Baskin Rd",
     "sg:city":"Iva",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337287379,
-    "wof:lastmodified":1449026988,
+    "wof:lastmodified":1467082267,
     "wof:name":"AVT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.605342,34.361766,-82.605342,34.361766],
-  "geometry": {"coordinates":[-82.605342,34.361766],"type":"Point"}
+  "bbox": [
+    -82.605342,
+    34.361766,
+    -82.605342,
+    34.361766
+],
+  "geometry": {"coordinates":[-82.60534199999999,34.361766],"type":"Point"}
 }

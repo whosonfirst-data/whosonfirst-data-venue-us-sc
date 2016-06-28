@@ -2,13 +2,14 @@
   "id": 353797921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.301547,33.977151,-81.301547,33.977151",
     "geom:latitude":33.977151,
     "geom:longitude":-81.301547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"944 Pisgah Church Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353797921,
-    "wof:lastmodified":1449020557,
+    "wof:lastmodified":1467082257,
     "wof:name":"Lexington Alternative Learning",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.301547,33.977151,-81.301547,33.977151],
+  "bbox": [
+    -81.301547,
+    33.977151,
+    -81.301547,
+    33.977151
+],
   "geometry": {"coordinates":[-81.301547,33.977151],"type":"Point"}
 }

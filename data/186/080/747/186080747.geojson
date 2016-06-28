@@ -2,13 +2,14 @@
   "id": 186080747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.82098,35.143027,-81.82098,35.143027",
     "geom:latitude":35.143027,
     "geom:longitude":-81.82098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2386 Chesnee Hwy",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186080747,
-    "wof:lastmodified":1449052963,
+    "wof:lastmodified":1467082412,
     "wof:name":"Martin Hubert Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.82098,35.143027,-81.82098,35.143027],
-  "geometry": {"coordinates":[-81.82098,35.143027],"type":"Point"}
+  "bbox": [
+    -81.82098,
+    35.143027,
+    -81.82098,
+    35.143027
+],
+  "geometry": {"coordinates":[-81.82098000000001,35.143027],"type":"Point"}
 }

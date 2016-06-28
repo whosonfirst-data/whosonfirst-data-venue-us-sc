@@ -2,13 +2,14 @@
   "id": 353431559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.801874,34.218148,-79.801874,34.218148",
     "geom:latitude":34.218148,
     "geom:longitude":-79.801874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1323 Broughton Blvd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353431559,
-    "wof:lastmodified":1449018597,
+    "wof:lastmodified":1467082217,
     "wof:name":"Ace Construction Co",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.801874,34.218148,-79.801874,34.218148],
+  "bbox": [
+    -79.801874,
+    34.218148,
+    -79.801874,
+    34.218148
+],
   "geometry": {"coordinates":[-79.801874,34.218148],"type":"Point"}
 }

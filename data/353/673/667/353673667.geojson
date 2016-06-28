@@ -2,13 +2,14 @@
   "id": 353673667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.62249,34.279348,-81.62249,34.279348",
     "geom:latitude":34.279348,
     "geom:longitude":-81.62249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 Speers St",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353673667,
-    "wof:lastmodified":1449019254,
+    "wof:lastmodified":1467082230,
     "wof:name":"Boundary Street Elementary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.62249,34.279348,-81.62249,34.279348],
+  "bbox": [
+    -81.62249,
+    34.279348,
+    -81.62249,
+    34.279348
+],
   "geometry": {"coordinates":[-81.62249,34.279348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370468039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.775741,33.608582,-79.775741,33.608582",
     "geom:latitude":33.608582,
     "geom:longitude":-79.775741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"884 Millwood Rd",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370468039,
-    "wof:lastmodified":1449031517,
+    "wof:lastmodified":1467082352,
     "wof:name":"Annettes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.775741,33.608582,-79.775741,33.608582],
+  "bbox": [
+    -79.775741,
+    33.608582,
+    -79.775741,
+    33.608582
+],
   "geometry": {"coordinates":[-79.775741,33.608582],"type":"Point"}
 }

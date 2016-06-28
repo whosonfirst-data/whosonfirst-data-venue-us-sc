@@ -2,13 +2,14 @@
   "id": 370524289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.944501,33.723007,-78.944501,33.723007",
     "geom:latitude":33.723007,
     "geom:longitude":-78.944501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"481 Burcale Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370524289,
-    "wof:lastmodified":1449029035,
+    "wof:lastmodified":1467082297,
     "wof:name":"Myrtle Beach Assembly Of God",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.944501,33.723007,-78.944501,33.723007],
+  "bbox": [
+    -78.944501,
+    33.723007,
+    -78.944501,
+    33.723007
+],
   "geometry": {"coordinates":[-78.944501,33.723007],"type":"Point"}
 }

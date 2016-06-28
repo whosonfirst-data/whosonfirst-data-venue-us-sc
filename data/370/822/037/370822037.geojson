@@ -2,13 +2,14 @@
   "id": 370822037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.767975,34.610518,-82.767975,34.610518",
     "geom:latitude":34.610518,
     "geom:longitude":-82.767975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6610 US Hwy 76",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370822037,
-    "wof:lastmodified":1449032368,
+    "wof:lastmodified":1467082371,
     "wof:name":"Second Hand Rose",
     "wof:parent_id":85854499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-82.767975,34.610518,-82.767975,34.610518],
-  "geometry": {"coordinates":[-82.767975,34.610518],"type":"Point"}
+  "bbox": [
+    -82.767975,
+    34.610518,
+    -82.767975,
+    34.610518
+],
+  "geometry": {"coordinates":[-82.76797500000001,34.610518],"type":"Point"}
 }

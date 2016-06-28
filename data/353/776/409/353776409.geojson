@@ -2,13 +2,14 @@
   "id": 353776409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.021467,33.676335,-79.021467,33.676335",
     "geom:latitude":33.676335,
     "geom:longitude":-79.021467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6663 Enterprise Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353776409,
-    "wof:lastmodified":1449018821,
+    "wof:lastmodified":1467082221,
     "wof:name":"Marlowe Service Co Inc",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.021467,33.676335,-79.021467,33.676335],
+  "bbox": [
+    -79.021467,
+    33.676335,
+    -79.021467,
+    33.676335
+],
   "geometry": {"coordinates":[-79.021467,33.676335],"type":"Point"}
 }

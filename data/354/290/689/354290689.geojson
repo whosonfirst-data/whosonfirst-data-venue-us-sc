@@ -2,13 +2,14 @@
   "id": 354290689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.101317,33.46443,-79.101317,33.46443",
     "geom:latitude":33.46443,
     "geom:longitude":-79.101317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"474 Sundial Dr",
     "sg:city":"Pawleys Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354290689,
-    "wof:lastmodified":1449066655,
+    "wof:lastmodified":1467082431,
     "wof:name":"Los Arcos Imports LLC",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.101317,33.46443,-79.101317,33.46443],
-  "geometry": {"coordinates":[-79.101317,33.46443],"type":"Point"}
+  "bbox": [
+    -79.101317,
+    33.46443,
+    -79.101317,
+    33.46443
+],
+  "geometry": {"coordinates":[-79.10131699999999,33.46443],"type":"Point"}
 }

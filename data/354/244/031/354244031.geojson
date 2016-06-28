@@ -2,13 +2,14 @@
   "id": 354244031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.310615,34.78299,-82.310615,34.78299",
     "geom:latitude":34.78299,
     "geom:longitude":-82.310615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Jenkins St",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354244031,
-    "wof:lastmodified":1449066591,
+    "wof:lastmodified":1467082429,
     "wof:name":"Wells & Avery Medical Ctr",
     "wof:parent_id":85851381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.310615,34.78299,-82.310615,34.78299],
+  "bbox": [
+    -82.310615,
+    34.78299,
+    -82.310615,
+    34.78299
+],
   "geometry": {"coordinates":[-82.310615,34.78299],"type":"Point"}
 }

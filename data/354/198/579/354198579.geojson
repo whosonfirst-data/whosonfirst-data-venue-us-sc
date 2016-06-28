@@ -2,13 +2,14 @@
   "id": 354198579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.591783,34.178882,-79.591783,34.178882",
     "geom:latitude":34.178882,
     "geom:longitude":-79.591783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 Double Dee Ln",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354198579,
-    "wof:lastmodified":1449066530,
+    "wof:lastmodified":1467082428,
     "wof:name":"Double D Auction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-79.591783,34.178882,-79.591783,34.178882],
-  "geometry": {"coordinates":[-79.591783,34.178882],"type":"Point"}
+  "bbox": [
+    -79.591783,
+    34.178882,
+    -79.591783,
+    34.178882
+],
+  "geometry": {"coordinates":[-79.59178300000001,34.178882],"type":"Point"}
 }

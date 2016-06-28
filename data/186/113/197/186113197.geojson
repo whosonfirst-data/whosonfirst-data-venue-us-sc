@@ -2,13 +2,14 @@
   "id": 186113197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.079049,33.963513,-79.079049,33.963513",
     "geom:latitude":33.963513,
     "geom:longitude":-79.079049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 Hughes Gasque Rd",
     "sg:city":"Aynor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186113197,
-    "wof:lastmodified":1449052803,
+    "wof:lastmodified":1467082411,
     "wof:name":"Bakers Chapel Baptist Church",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.079049,33.963513,-79.079049,33.963513],
+  "bbox": [
+    -79.079049,
+    33.963513,
+    -79.079049,
+    33.963513
+],
   "geometry": {"coordinates":[-79.079049,33.963513],"type":"Point"}
 }

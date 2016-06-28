@@ -2,13 +2,14 @@
   "id": 370809839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.570323,34.741972,-82.570323,34.741972",
     "geom:latitude":34.741972,
     "geom:longitude":-82.570323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Weston Estates Dr",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370809839,
-    "wof:lastmodified":1449031863,
+    "wof:lastmodified":1467082360,
     "wof:name":"Brooks Trucking Equipment",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-82.570323,34.741972,-82.570323,34.741972],
+  "bbox": [
+    -82.570323,
+    34.741972,
+    -82.570323,
+    34.741972
+],
   "geometry": {"coordinates":[-82.570323,34.741972],"type":"Point"}
 }

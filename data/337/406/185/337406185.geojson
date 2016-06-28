@@ -2,13 +2,14 @@
   "id": 337406185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.050988,32.7929,-80.050988,32.7929",
     "geom:latitude":32.7929,
     "geom:longitude":-80.050988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2466 Savannah Hwy",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337406185,
-    "wof:lastmodified":1449027378,
+    "wof:lastmodified":1467082282,
     "wof:name":"Coastal Motor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.050988,32.7929,-80.050988,32.7929],
+  "bbox": [
+    -80.050988,
+    32.7929,
+    -80.050988,
+    32.7929
+],
   "geometry": {"coordinates":[-80.050988,32.7929],"type":"Point"}
 }

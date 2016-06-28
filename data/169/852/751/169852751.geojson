@@ -2,13 +2,14 @@
   "id": 169852751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.760805,32.797939,-79.760805,32.797939",
     "geom:latitude":32.797939,
     "geom:longitude":-79.760805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3906 Cameron Blvd",
     "sg:city":"Isle Of Palms",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169852751,
-    "wof:lastmodified":1449035400,
+    "wof:lastmodified":1467082386,
     "wof:name":"565 Long Point Road",
     "wof:parent_id":85819989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-79.760805,32.797939,-79.760805,32.797939],
+  "bbox": [
+    -79.760805,
+    32.797939,
+    -79.760805,
+    32.797939
+],
   "geometry": {"coordinates":[-79.760805,32.797939],"type":"Point"}
 }

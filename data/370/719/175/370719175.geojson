@@ -2,13 +2,14 @@
   "id": 370719175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.031149,34.026403,-81.031149,34.026403",
     "geom:latitude":34.026403,
     "geom:longitude":-81.031149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Harden St Exd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370719175,
-    "wof:lastmodified":1449029531,
+    "wof:lastmodified":1467082308,
     "wof:name":"Stork's Landing",
     "wof:parent_id":85811921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.031149,34.026403,-81.031149,34.026403],
+  "bbox": [
+    -81.031149,
+    34.026403,
+    -81.031149,
+    34.026403
+],
   "geometry": {"coordinates":[-81.031149,34.026403],"type":"Point"}
 }

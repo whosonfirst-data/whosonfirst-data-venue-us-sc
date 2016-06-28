@@ -2,13 +2,14 @@
   "id": 370922577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.932912,32.781915,-79.932912,32.781915",
     "geom:latitude":32.781915,
     "geom:longitude":-79.932912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Hasell St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370922577,
-    "wof:lastmodified":1449029396,
+    "wof:lastmodified":1467082305,
     "wof:name":"St Mary's Catholic Church",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.932912,32.781915,-79.932912,32.781915],
+  "bbox": [
+    -79.932912,
+    32.781915,
+    -79.932912,
+    32.781915
+],
   "geometry": {"coordinates":[-79.932912,32.781915],"type":"Point"}
 }

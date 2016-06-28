@@ -2,13 +2,14 @@
   "id": 370777387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.92933,32.788032,-79.92933,32.788032",
     "geom:latitude":32.788032,
     "geom:longitude":-79.92933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 E Bay St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370777387,
-    "wof:lastmodified":1449030863,
+    "wof:lastmodified":1467082337,
     "wof:name":"Pierce Herns Sloan & Mc Leod",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.92933,32.788032,-79.92933,32.788032],
-  "geometry": {"coordinates":[-79.92933,32.788032],"type":"Point"}
+  "bbox": [
+    -79.92933,
+    32.788032,
+    -79.92933,
+    32.788032
+],
+  "geometry": {"coordinates":[-79.92932999999999,32.788032],"type":"Point"}
 }

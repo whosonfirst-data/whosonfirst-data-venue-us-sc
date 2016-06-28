@@ -2,13 +2,14 @@
   "id": 354301203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.607942,34.68878,-81.607942,34.68878",
     "geom:latitude":34.68878,
     "geom:longitude":-81.607942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Westmead Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":354301203,
-    "wof:lastmodified":1449066349,
+    "wof:lastmodified":1467082424,
     "wof:name":"Bria Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.607942,34.68878,-81.607942,34.68878],
-  "geometry": {"coordinates":[-81.607942,34.68878],"type":"Point"}
+  "bbox": [
+    -81.607942,
+    34.68878,
+    -81.607942,
+    34.68878
+],
+  "geometry": {"coordinates":[-81.60794199999999,34.68878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353705417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.937324,35.056439,-81.937324,35.056439",
     "geom:latitude":35.056439,
     "geom:longitude":-81.937324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4606 Parris Bridge Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353705417,
-    "wof:lastmodified":1449020808,
+    "wof:lastmodified":1467082262,
     "wof:name":"Spartanburg School District 02",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.937324,35.056439,-81.937324,35.056439],
+  "bbox": [
+    -81.937324,
+    35.056439,
+    -81.937324,
+    35.056439
+],
   "geometry": {"coordinates":[-81.937324,35.056439],"type":"Point"}
 }

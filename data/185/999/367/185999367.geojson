@@ -2,13 +2,14 @@
   "id": 185999367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.160474,34.198349,-82.160474,34.198349",
     "geom:latitude":34.198349,
     "geom:longitude":-82.160474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 State Hwy 72 Bus",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185999367,
-    "wof:lastmodified":1449008022,
+    "wof:lastmodified":1467082204,
     "wof:name":"Gillespies Of Greenwood Inc",
     "wof:parent_id":85850887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.160474,34.198349,-82.160474,34.198349],
-  "geometry": {"coordinates":[-82.160474,34.198349],"type":"Point"}
+  "bbox": [
+    -82.160474,
+    34.198349,
+    -82.160474,
+    34.198349
+],
+  "geometry": {"coordinates":[-82.16047399999999,34.198349],"type":"Point"}
 }

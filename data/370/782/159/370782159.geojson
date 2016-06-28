@@ -2,13 +2,14 @@
   "id": 370782159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.991582,32.790624,-79.991582,32.790624",
     "geom:latitude":32.790624,
     "geom:longitude":-79.991582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Anita Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370782159,
-    "wof:lastmodified":1449029050,
+    "wof:lastmodified":1467082297,
     "wof:name":"Wholesale Parts Source LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.991582,32.790624,-79.991582,32.790624],
-  "geometry": {"coordinates":[-79.991582,32.790624],"type":"Point"}
+  "bbox": [
+    -79.991582,
+    32.790624,
+    -79.991582,
+    32.790624
+],
+  "geometry": {"coordinates":[-79.99158199999999,32.790624],"type":"Point"}
 }

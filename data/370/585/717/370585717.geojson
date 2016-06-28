@@ -2,13 +2,14 @@
   "id": 370585717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.730705,34.725254,-80.730705,34.725254",
     "geom:latitude":34.725254,
     "geom:longitude":-80.730705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1694 Pageland Hwy",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370585717,
-    "wof:lastmodified":1449031328,
+    "wof:lastmodified":1467082348,
     "wof:name":"Public Safety Dept-Motor Vhcls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "program"
     ]
 },
-  "bbox": [-80.730705,34.725254,-80.730705,34.725254],
+  "bbox": [
+    -80.730705,
+    34.725254,
+    -80.730705,
+    34.725254
+],
   "geometry": {"coordinates":[-80.730705,34.725254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370703125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.078804,33.492957,-79.078804,33.492957",
     "geom:latitude":33.492957,
     "geom:longitude":-79.078804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Hanover St",
     "sg:city":"Pawleys Island",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370703125,
-    "wof:lastmodified":1449030129,
+    "wof:lastmodified":1467082321,
     "wof:name":"Litchfield Home Maintenance",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-79.078804,33.492957,-79.078804,33.492957],
-  "geometry": {"coordinates":[-79.078804,33.492957],"type":"Point"}
+  "bbox": [
+    -79.078804,
+    33.492957,
+    -79.078804,
+    33.492957
+],
+  "geometry": {"coordinates":[-79.07880400000001,33.492957],"type":"Point"}
 }

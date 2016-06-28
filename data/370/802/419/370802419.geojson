@@ -2,13 +2,14 @@
   "id": 370802419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.027717,34.004248,-81.027717,34.004248",
     "geom:latitude":34.004248,
     "geom:longitude":-81.027717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 Pickens St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370802419,
-    "wof:lastmodified":1449031843,
+    "wof:lastmodified":1467082359,
     "wof:name":"Altman Appraisal Inc",
     "wof:parent_id":85876831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-81.027717,34.004248,-81.027717,34.004248],
+  "bbox": [
+    -81.027717,
+    34.004248,
+    -81.027717,
+    34.004248
+],
   "geometry": {"coordinates":[-81.027717,34.004248],"type":"Point"}
 }

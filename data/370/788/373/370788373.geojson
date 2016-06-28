@@ -2,13 +2,14 @@
   "id": 370788373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.808057,32.122241,-80.808057,32.122241",
     "geom:latitude":32.122241,
     "geom:longitude":-80.808057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Gunnery Ln",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370788373,
-    "wof:lastmodified":1449030825,
+    "wof:lastmodified":1467082336,
     "wof:name":"WYNN Marketing Assoc",
     "wof:parent_id":85847515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-80.808057,32.122241,-80.808057,32.122241],
-  "geometry": {"coordinates":[-80.808057,32.122241],"type":"Point"}
+  "bbox": [
+    -80.808057,
+    32.122241,
+    -80.808057,
+    32.122241
+],
+  "geometry": {"coordinates":[-80.80805700000001,32.122241],"type":"Point"}
 }

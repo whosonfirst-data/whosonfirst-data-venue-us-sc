@@ -2,13 +2,14 @@
   "id": 186126505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.263981,33.722388,-81.263981,33.722388",
     "geom:latitude":33.722388,
     "geom:longitude":-81.263981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2163 Pine St",
     "sg:city":"Pelion",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186126505,
-    "wof:lastmodified":1449051374,
+    "wof:lastmodified":1467082397,
     "wof:name":"Baptist Faith Mission Board",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mission"
     ]
 },
-  "bbox": [-81.263981,33.722388,-81.263981,33.722388],
+  "bbox": [
+    -81.263981,
+    33.722388,
+    -81.263981,
+    33.722388
+],
   "geometry": {"coordinates":[-81.263981,33.722388],"type":"Point"}
 }

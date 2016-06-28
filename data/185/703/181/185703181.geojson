@@ -2,13 +2,14 @@
   "id": 185703181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.16335,34.886274,-82.16335,34.886274",
     "geom:latitude":34.886274,
     "geom:longitude":-82.16335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Mayfield Rd",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185703181,
-    "wof:lastmodified":1449007097,
+    "wof:lastmodified":1467082190,
     "wof:name":"Lutheran Family Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "welfare"
     ]
 },
-  "bbox": [-82.16335,34.886274,-82.16335,34.886274],
-  "geometry": {"coordinates":[-82.16335,34.886274],"type":"Point"}
+  "bbox": [
+    -82.16335,
+    34.886274,
+    -82.16335,
+    34.886274
+],
+  "geometry": {"coordinates":[-82.16334999999999,34.886274],"type":"Point"}
 }

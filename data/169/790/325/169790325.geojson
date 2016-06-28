@@ -2,13 +2,14 @@
   "id": 169790325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.212194,33.687872,-80.212194,33.687872",
     "geom:latitude":33.687872,
     "geom:longitude":-80.212194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 S Mill St",
     "sg:city":"Manning",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169790325,
-    "wof:lastmodified":1449035188,
+    "wof:lastmodified":1467082385,
     "wof:name":"Barwick's Monument Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-80.212194,33.687872,-80.212194,33.687872],
+  "bbox": [
+    -80.212194,
+    33.687872,
+    -80.212194,
+    33.687872
+],
   "geometry": {"coordinates":[-80.212194,33.687872],"type":"Point"}
 }

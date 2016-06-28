@@ -2,13 +2,14 @@
   "id": 353800921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.963337,33.630816,-78.963337,33.630816",
     "geom:latitude":33.630816,
     "geom:longitude":-78.963337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1149 Dick Pond Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353800921,
-    "wof:lastmodified":1449018461,
+    "wof:lastmodified":1467082214,
     "wof:name":"Dynamite Fireworks Inc",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "firework"
     ]
 },
-  "bbox": [-78.963337,33.630816,-78.963337,33.630816],
+  "bbox": [
+    -78.963337,
+    33.630816,
+    -78.963337,
+    33.630816
+],
   "geometry": {"coordinates":[-78.963337,33.630816],"type":"Point"}
 }

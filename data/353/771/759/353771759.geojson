@@ -2,13 +2,14 @@
   "id": 353771759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.061383,33.013927,-80.061383,33.013927",
     "geom:latitude":33.013927,
     "geom:longitude":-80.061383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Londonderry Rd",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353771759,
-    "wof:lastmodified":1449019649,
+    "wof:lastmodified":1467082238,
     "wof:name":"Londonderry School-Children",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-80.061383,33.013927,-80.061383,33.013927],
-  "geometry": {"coordinates":[-80.061383,33.013927],"type":"Point"}
+  "bbox": [
+    -80.061383,
+    33.013927,
+    -80.061383,
+    33.013927
+],
+  "geometry": {"coordinates":[-80.06138300000001,33.013927],"type":"Point"}
 }

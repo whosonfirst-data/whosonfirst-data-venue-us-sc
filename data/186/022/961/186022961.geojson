@@ -2,13 +2,14 @@
   "id": 186022961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.010192,33.625827,-79.010192,33.625827",
     "geom:latitude":33.625827,
     "geom:longitude":-79.010192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3248 Holmestown Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186022961,
-    "wof:lastmodified":1449051284,
+    "wof:lastmodified":1467082396,
     "wof:name":"Dawol Contracting",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-79.010192,33.625827,-79.010192,33.625827],
+  "bbox": [
+    -79.010192,
+    33.625827,
+    -79.010192,
+    33.625827
+],
   "geometry": {"coordinates":[-79.010192,33.625827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353716297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.337479,33.932297,-80.337479,33.932297",
     "geom:latitude":33.932297,
     "geom:longitude":-80.337479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Crosswell Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":353716297,
-    "wof:lastmodified":1449018614,
+    "wof:lastmodified":1467082217,
     "wof:name":"Peter H Ford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hypnotist"
     ]
 },
-  "bbox": [-80.337479,33.932297,-80.337479,33.932297],
+  "bbox": [
+    -80.337479,
+    33.932297,
+    -80.337479,
+    33.932297
+],
   "geometry": {"coordinates":[-80.337479,33.932297],"type":"Point"}
 }

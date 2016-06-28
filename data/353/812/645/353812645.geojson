@@ -2,13 +2,14 @@
   "id": 353812645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.393226,34.832304,-82.393226,34.832304",
     "geom:latitude":34.832304,
     "geom:longitude":-82.393226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Crescent Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353812645,
-    "wof:lastmodified":1449018316,
+    "wof:lastmodified":1467082211,
     "wof:name":"Rey's Jewelers",
     "wof:parent_id":85802935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-82.393226,34.832304,-82.393226,34.832304],
+  "bbox": [
+    -82.393226,
+    34.832304,
+    -82.393226,
+    34.832304
+],
   "geometry": {"coordinates":[-82.393226,34.832304],"type":"Point"}
 }

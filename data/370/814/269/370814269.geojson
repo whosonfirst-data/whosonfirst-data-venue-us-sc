@@ -2,13 +2,14 @@
   "id": 370814269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.928568,32.780833,-79.928568,32.780833",
     "geom:latitude":32.780833,
     "geom:longitude":-79.928568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 S Market St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370814269,
-    "wof:lastmodified":1449029714,
+    "wof:lastmodified":1467082312,
     "wof:name":"Garibaldi Ltd",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "italian"
     ]
 },
-  "bbox": [-79.928568,32.780833,-79.928568,32.780833],
+  "bbox": [
+    -79.928568,
+    32.780833,
+    -79.928568,
+    32.780833
+],
   "geometry": {"coordinates":[-79.928568,32.780833],"type":"Point"}
 }

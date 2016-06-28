@@ -2,13 +2,14 @@
   "id": 353493689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.649714,34.500815,-82.649714,34.500815",
     "geom:latitude":34.500815,
     "geom:longitude":-82.649714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 State Hwy 28 Bus",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353493689,
-    "wof:lastmodified":1449019071,
+    "wof:lastmodified":1467082226,
     "wof:name":"2001 Staffing Svc",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-82.649714,34.500815,-82.649714,34.500815],
+  "bbox": [
+    -82.649714,
+    34.500815,
+    -82.649714,
+    34.500815
+],
   "geometry": {"coordinates":[-82.649714,34.500815],"type":"Point"}
 }

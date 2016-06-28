@@ -2,13 +2,14 @@
   "id": 370754691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.946501,32.80935,-79.946501,32.80935",
     "geom:latitude":32.80935,
     "geom:longitude":-79.946501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Williman St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370754691,
-    "wof:lastmodified":1449031290,
+    "wof:lastmodified":1467082347,
     "wof:name":"Air Sea Safety & Survival Inc",
     "wof:parent_id":85836137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "inspects"
     ]
 },
-  "bbox": [-79.946501,32.80935,-79.946501,32.80935],
+  "bbox": [
+    -79.946501,
+    32.80935,
+    -79.946501,
+    32.80935
+],
   "geometry": {"coordinates":[-79.946501,32.80935],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353509169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.797199,32.920434,-80.797199,32.920434",
     "geom:latitude":32.920434,
     "geom:longitude":-80.797199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Amelia Ln",
     "sg:city":"Ruffin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353509169,
-    "wof:lastmodified":1449018344,
+    "wof:lastmodified":1467082212,
     "wof:name":"Polks Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.797199,32.920434,-80.797199,32.920434],
-  "geometry": {"coordinates":[-80.797199,32.920434],"type":"Point"}
+  "bbox": [
+    -80.797199,
+    32.920434,
+    -80.797199,
+    32.920434
+],
+  "geometry": {"coordinates":[-80.79719900000001,32.920434],"type":"Point"}
 }

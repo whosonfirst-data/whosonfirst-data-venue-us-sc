@@ -2,13 +2,14 @@
   "id": 354256269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.217496,34.010185,-81.217496,34.010185",
     "geom:latitude":34.010185,
     "geom:longitude":-81.217496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"432 Saddlebrooke Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354256269,
-    "wof:lastmodified":1449067238,
+    "wof:lastmodified":1467082444,
     "wof:name":"Specialty Pet Care",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-81.217496,34.010185,-81.217496,34.010185],
+  "bbox": [
+    -81.217496,
+    34.010185,
+    -81.217496,
+    34.010185
+],
   "geometry": {"coordinates":[-81.217496,34.010185],"type":"Point"}
 }

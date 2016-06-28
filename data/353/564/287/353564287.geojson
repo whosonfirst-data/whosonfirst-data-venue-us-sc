@@ -2,13 +2,14 @@
   "id": 353564287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.28833,33.372133,-79.28833,33.372133",
     "geom:latitude":33.372133,
     "geom:longitude":-79.28833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Dozier St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353564287,
-    "wof:lastmodified":1449020643,
+    "wof:lastmodified":1467082258,
     "wof:name":"Sam's Service & Repair",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.28833,33.372133,-79.28833,33.372133],
+  "bbox": [
+    -79.28833,
+    33.372133,
+    -79.28833,
+    33.372133
+],
   "geometry": {"coordinates":[-79.28833,33.372133],"type":"Point"}
 }

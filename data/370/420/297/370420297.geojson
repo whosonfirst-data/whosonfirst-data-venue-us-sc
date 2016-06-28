@@ -2,13 +2,14 @@
   "id": 370420297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.773012,35.001206,-81.773012,35.001206",
     "geom:latitude":35.001206,
     "geom:longitude":-81.773012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Oak Dale Rd",
     "sg:city":"Cowpens",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370420297,
-    "wof:lastmodified":1449030713,
+    "wof:lastmodified":1467082334,
     "wof:name":"Scruggs Flags & Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "banner"
     ]
 },
-  "bbox": [-81.773012,35.001206,-81.773012,35.001206],
-  "geometry": {"coordinates":[-81.773012,35.001206],"type":"Point"}
+  "bbox": [
+    -81.773012,
+    35.001206,
+    -81.773012,
+    35.001206
+],
+  "geometry": {"coordinates":[-81.77301199999999,35.001206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169845689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.453,34.637873,-82.453,34.637873",
     "geom:latitude":34.637873,
     "geom:longitude":-82.453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Adger St",
     "sg:city":"Pelzer",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169845689,
-    "wof:lastmodified":1449033234,
+    "wof:lastmodified":1467082379,
     "wof:name":"Russell Canup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.453,34.637873,-82.453,34.637873],
+  "bbox": [
+    -82.453,
+    34.637873,
+    -82.453,
+    34.637873
+],
   "geometry": {"coordinates":[-82.453,34.637873],"type":"Point"}
 }

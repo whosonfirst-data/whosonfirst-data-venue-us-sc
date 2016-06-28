@@ -2,13 +2,14 @@
   "id": 185652767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.881919,34.104361,-80.881919,34.104361",
     "geom:latitude":34.104361,
     "geom:longitude":-80.881919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Running Fox Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185652767,
-    "wof:lastmodified":1449007638,
+    "wof:lastmodified":1467082198,
     "wof:name":"Layouts By Lowman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.881919,34.104361,-80.881919,34.104361],
+  "bbox": [
+    -80.881919,
+    34.104361,
+    -80.881919,
+    34.104361
+],
   "geometry": {"coordinates":[-80.881919,34.104361],"type":"Point"}
 }

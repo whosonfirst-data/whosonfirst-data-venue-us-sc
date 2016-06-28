@@ -2,13 +2,14 @@
   "id": 337411277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.709306,32.203397,-80.709306,32.203397",
     "geom:latitude":32.203397,
     "geom:longitude":-80.709306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Capital Dr",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337411277,
-    "wof:lastmodified":1449026977,
+    "wof:lastmodified":1467082266,
     "wof:name":"American Eagle",
     "wof:parent_id":85819729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-80.709306,32.203397,-80.709306,32.203397],
+  "bbox": [
+    -80.709306,
+    32.203397,
+    -80.709306,
+    32.203397
+],
   "geometry": {"coordinates":[-80.709306,32.203397],"type":"Point"}
 }

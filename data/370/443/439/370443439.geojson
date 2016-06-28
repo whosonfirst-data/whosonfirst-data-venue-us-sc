@@ -2,13 +2,14 @@
   "id": 370443439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.466215,34.729543,-82.466215,34.729543",
     "geom:latitude":34.729543,
     "geom:longitude":-82.466215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 Woodfield Dr",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370443439,
-    "wof:lastmodified":1449031847,
+    "wof:lastmodified":1467082360,
     "wof:name":"Carver Enterprises",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.466215,34.729543,-82.466215,34.729543],
-  "geometry": {"coordinates":[-82.466215,34.729543],"type":"Point"}
+  "bbox": [
+    -82.466215,
+    34.729543,
+    -82.466215,
+    34.729543
+],
+  "geometry": {"coordinates":[-82.46621500000001,34.729543],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370873993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.038213,34.747462,-82.038213,34.747462",
     "geom:latitude":34.747462,
     "geom:longitude":-82.038213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 E Peachtree St",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370873993,
-    "wof:lastmodified":1449029799,
+    "wof:lastmodified":1467082314,
     "wof:name":"Sabbath Day",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.038213,34.747462,-82.038213,34.747462],
+  "bbox": [
+    -82.038213,
+    34.747462,
+    -82.038213,
+    34.747462
+],
   "geometry": {"coordinates":[-82.038213,34.747462],"type":"Point"}
 }

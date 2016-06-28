@@ -2,13 +2,14 @@
   "id": 186219727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.685783,34.609502,-80.685783,34.609502",
     "geom:latitude":34.609502,
     "geom:longitude":-80.685783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4545 Kershaw Camden Hwy",
     "sg:city":"Heath Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186219727,
-    "wof:lastmodified":1449052927,
+    "wof:lastmodified":1467082412,
     "wof:name":"SCPC Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.685783,34.609502,-80.685783,34.609502],
+  "bbox": [
+    -80.685783,
+    34.609502,
+    -80.685783,
+    34.609502
+],
   "geometry": {"coordinates":[-80.685783,34.609502],"type":"Point"}
 }

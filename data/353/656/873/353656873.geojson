@@ -2,13 +2,14 @@
   "id": 353656873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.688972,34.620332,-79.688972,34.620332",
     "geom:latitude":34.620332,
     "geom:longitude":-79.688972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Cheraw St",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353656873,
-    "wof:lastmodified":1449019903,
+    "wof:lastmodified":1467082243,
     "wof:name":"Marlboro Appliance Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.688972,34.620332,-79.688972,34.620332],
-  "geometry": {"coordinates":[-79.688972,34.620332],"type":"Point"}
+  "bbox": [
+    -79.688972,
+    34.620332,
+    -79.688972,
+    34.620332
+],
+  "geometry": {"coordinates":[-79.68897200000001,34.620332],"type":"Point"}
 }

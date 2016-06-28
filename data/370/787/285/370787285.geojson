@@ -2,13 +2,14 @@
   "id": 370787285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.654645,34.517587,-82.654645,34.517587",
     "geom:latitude":34.517587,
     "geom:longitude":-82.654645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 N Main St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370787285,
-    "wof:lastmodified":1449030627,
+    "wof:lastmodified":1467082332,
     "wof:name":"Nature's Cupboard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "diet"
     ]
 },
-  "bbox": [-82.654645,34.517587,-82.654645,34.517587],
+  "bbox": [
+    -82.654645,
+    34.517587,
+    -82.654645,
+    34.517587
+],
   "geometry": {"coordinates":[-82.654645,34.517587],"type":"Point"}
 }

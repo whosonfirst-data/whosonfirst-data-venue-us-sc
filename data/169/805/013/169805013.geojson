@@ -2,13 +2,14 @@
   "id": 169805013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.960476,32.743207,-79.960476,32.743207",
     "geom:latitude":32.743207,
     "geom:longitude":-79.960476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"753 Sprague St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169805013,
-    "wof:lastmodified":1449033788,
+    "wof:lastmodified":1467082381,
     "wof:name":"Accurate Home Inspections LLC",
     "wof:parent_id":85832547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-79.960476,32.743207,-79.960476,32.743207],
+  "bbox": [
+    -79.960476,
+    32.743207,
+    -79.960476,
+    32.743207
+],
   "geometry": {"coordinates":[-79.960476,32.743207],"type":"Point"}
 }

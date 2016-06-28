@@ -2,13 +2,14 @@
   "id": 185608319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.937697,32.789801,-79.937697,32.789801",
     "geom:latitude":32.789801,
     "geom:longitude":-79.937697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Ann St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185608319,
-    "wof:lastmodified":1449007295,
+    "wof:lastmodified":1467082193,
     "wof:name":"Charleston City Public Info",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-79.937697,32.789801,-79.937697,32.789801],
+  "bbox": [
+    -79.937697,
+    32.789801,
+    -79.937697,
+    32.789801
+],
   "geometry": {"coordinates":[-79.937697,32.789801],"type":"Point"}
 }

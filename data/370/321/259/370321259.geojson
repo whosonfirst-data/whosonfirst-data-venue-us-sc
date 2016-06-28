@@ -2,13 +2,14 @@
   "id": 370321259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.559005,35.020427,-82.559005,35.020427",
     "geom:latitude":35.020427,
     "geom:longitude":-82.559005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Pumpkintown Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370321259,
-    "wof:lastmodified":1449029145,
+    "wof:lastmodified":1467082299,
     "wof:name":"Milliken & Company",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fabric"
     ]
 },
-  "bbox": [-82.559005,35.020427,-82.559005,35.020427],
+  "bbox": [
+    -82.559005,
+    35.020427,
+    -82.559005,
+    35.020427
+],
   "geometry": {"coordinates":[-82.559005,35.020427],"type":"Point"}
 }

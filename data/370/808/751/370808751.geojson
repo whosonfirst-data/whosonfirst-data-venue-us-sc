@@ -2,13 +2,14 @@
   "id": 370808751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.499838,34.614798,-82.499838,34.614798",
     "geom:latitude":34.614798,
     "geom:longitude":-82.499838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 Anderson Dr",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370808751,
-    "wof:lastmodified":1449029232,
+    "wof:lastmodified":1467082301,
     "wof:name":"Doll Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.499838,34.614798,-82.499838,34.614798],
+  "bbox": [
+    -82.499838,
+    34.614798,
+    -82.499838,
+    34.614798
+],
   "geometry": {"coordinates":[-82.499838,34.614798],"type":"Point"}
 }

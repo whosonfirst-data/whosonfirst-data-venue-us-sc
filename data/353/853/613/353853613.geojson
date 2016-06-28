@@ -2,13 +2,14 @@
   "id": 353853613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.526371,34.738245,-80.526371,34.738245",
     "geom:latitude":34.738245,
     "geom:longitude":-80.526371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"566 Ernest Wright Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353853613,
-    "wof:lastmodified":1449019287,
+    "wof:lastmodified":1467082231,
     "wof:name":"Marion C Wright",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.526371,34.738245,-80.526371,34.738245],
+  "bbox": [
+    -80.526371,
+    34.738245,
+    -80.526371,
+    34.738245
+],
   "geometry": {"coordinates":[-80.526371,34.738245],"type":"Point"}
 }

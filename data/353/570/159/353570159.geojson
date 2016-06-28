@@ -2,13 +2,14 @@
   "id": 353570159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.027291,32.853778,-80.027291,32.853778",
     "geom:latitude":32.853778,
     "geom:longitude":-80.027291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4131 Flynn Dr",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353570159,
-    "wof:lastmodified":1449019777,
+    "wof:lastmodified":1467082241,
     "wof:name":"Captain Rick Hiott's Fishing",
     "wof:parent_id":85805727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-80.027291,32.853778,-80.027291,32.853778],
-  "geometry": {"coordinates":[-80.027291,32.853778],"type":"Point"}
+  "bbox": [
+    -80.027291,
+    32.853778,
+    -80.027291,
+    32.853778
+],
+  "geometry": {"coordinates":[-80.02729100000001,32.853778],"type":"Point"}
 }

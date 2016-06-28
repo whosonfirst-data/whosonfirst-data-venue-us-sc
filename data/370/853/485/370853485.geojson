@@ -2,13 +2,14 @@
   "id": 370853485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.976008,34.984126,-81.976008,34.984126",
     "geom:latitude":34.984126,
     "geom:longitude":-81.976008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8050 Howard St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370853485,
-    "wof:lastmodified":1449030454,
+    "wof:lastmodified":1467082328,
     "wof:name":"Two Hawk Employment Svc",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-81.976008,34.984126,-81.976008,34.984126],
-  "geometry": {"coordinates":[-81.976008,34.984126],"type":"Point"}
+  "bbox": [
+    -81.976008,
+    34.984126,
+    -81.976008,
+    34.984126
+],
+  "geometry": {"coordinates":[-81.97600799999999,34.984126],"type":"Point"}
 }

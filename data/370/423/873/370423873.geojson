@@ -2,13 +2,14 @@
   "id": 370423873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.776937,32.301641,-80.776937,32.301641",
     "geom:latitude":32.301641,
     "geom:longitude":-80.776937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Double Eagle Dr",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370423873,
-    "wof:lastmodified":1449029645,
+    "wof:lastmodified":1467082310,
     "wof:name":"Colleton River Food & Beverage",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.776937,32.301641,-80.776937,32.301641],
+  "bbox": [
+    -80.776937,
+    32.301641,
+    -80.776937,
+    32.301641
+],
   "geometry": {"coordinates":[-80.776937,32.301641],"type":"Point"}
 }

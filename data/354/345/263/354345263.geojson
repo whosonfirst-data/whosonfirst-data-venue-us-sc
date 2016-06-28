@@ -2,13 +2,14 @@
   "id": 354345263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.444773,34.727287,-82.444773,34.727287",
     "geom:latitude":34.727287,
     "geom:longitude":-82.444773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Old Pelzer Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354345263,
-    "wof:lastmodified":1449067535,
+    "wof:lastmodified":1467082451,
     "wof:name":"Air Products & Chemicals Inc",
     "wof:parent_id":85810381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gas"
     ]
 },
-  "bbox": [-82.444773,34.727287,-82.444773,34.727287],
+  "bbox": [
+    -82.444773,
+    34.727287,
+    -82.444773,
+    34.727287
+],
   "geometry": {"coordinates":[-82.444773,34.727287],"type":"Point"}
 }

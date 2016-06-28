@@ -2,13 +2,14 @@
   "id": 353411791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.825676,34.205423,-79.825676,34.205423",
     "geom:latitude":34.205423,
     "geom:longitude":-79.825676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 Hawthorne Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353411791,
-    "wof:lastmodified":1449018360,
+    "wof:lastmodified":1467082212,
     "wof:name":"Bazens Landscaping",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.825676,34.205423,-79.825676,34.205423],
+  "bbox": [
+    -79.825676,
+    34.205423,
+    -79.825676,
+    34.205423
+],
   "geometry": {"coordinates":[-79.825676,34.205423],"type":"Point"}
 }

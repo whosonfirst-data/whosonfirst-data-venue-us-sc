@@ -2,13 +2,14 @@
   "id": 337440517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.554881,35.127283,-81.554881,35.127283",
     "geom:latitude":35.127283,
     "geom:longitude":-81.554881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 Milliken Rd",
     "sg:city":"Blacksburg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337440517,
-    "wof:lastmodified":1449027228,
+    "wof:lastmodified":1467082276,
     "wof:name":"Broad River Truck Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.554881,35.127283,-81.554881,35.127283],
-  "geometry": {"coordinates":[-81.554881,35.127283],"type":"Point"}
+  "bbox": [
+    -81.554881,
+    35.127283,
+    -81.554881,
+    35.127283
+],
+  "geometry": {"coordinates":[-81.55488099999999,35.127283],"type":"Point"}
 }

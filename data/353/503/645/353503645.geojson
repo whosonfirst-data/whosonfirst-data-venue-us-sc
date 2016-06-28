@@ -2,13 +2,14 @@
   "id": 353503645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.653691,34.514825,-82.653691,34.514825",
     "geom:latitude":34.514825,
     "geom:longitude":-82.653691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 N Main St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353503645,
-    "wof:lastmodified":1449020798,
+    "wof:lastmodified":1467082262,
     "wof:name":"Hawkins Richardson & Assoc",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.653691,34.514825,-82.653691,34.514825],
-  "geometry": {"coordinates":[-82.653691,34.514825],"type":"Point"}
+  "bbox": [
+    -82.653691,
+    34.514825,
+    -82.653691,
+    34.514825
+],
+  "geometry": {"coordinates":[-82.65369099999999,34.514825],"type":"Point"}
 }

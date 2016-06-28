@@ -2,13 +2,14 @@
   "id": 370551767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.446708,34.733715,-82.446708,34.733715",
     "geom:latitude":34.733715,
     "geom:longitude":-82.446708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"651 Piedmont Hwy",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370551767,
-    "wof:lastmodified":1449029772,
+    "wof:lastmodified":1467082313,
     "wof:name":"Rampey's Repair Shop",
     "wof:parent_id":85810381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mower"
     ]
 },
-  "bbox": [-82.446708,34.733715,-82.446708,34.733715],
+  "bbox": [
+    -82.446708,
+    34.733715,
+    -82.446708,
+    34.733715
+],
   "geometry": {"coordinates":[-82.446708,34.733715],"type":"Point"}
 }

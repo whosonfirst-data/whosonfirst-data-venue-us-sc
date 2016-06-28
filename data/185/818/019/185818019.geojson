@@ -2,13 +2,14 @@
   "id": 185818019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.248047,32.733573,-80.248047,32.733573",
     "geom:latitude":32.733573,
     "geom:longitude":-80.248047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6345 State Hwy 162",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185818019,
-    "wof:lastmodified":1449007410,
+    "wof:lastmodified":1467082194,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.248047,32.733573,-80.248047,32.733573],
+  "bbox": [
+    -80.248047,
+    32.733573,
+    -80.248047,
+    32.733573
+],
   "geometry": {"coordinates":[-80.248047,32.733573],"type":"Point"}
 }

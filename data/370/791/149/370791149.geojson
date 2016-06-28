@@ -2,13 +2,14 @@
   "id": 370791149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.172604,34.364465,-80.172604,34.364465",
     "geom:latitude":34.364465,
     "geom:longitude":-80.172604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"856 Deer Run Dr",
     "sg:city":"Hartsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370791149,
-    "wof:lastmodified":1449031695,
+    "wof:lastmodified":1467082356,
     "wof:name":"Mines Controls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.172604,34.364465,-80.172604,34.364465],
-  "geometry": {"coordinates":[-80.172604,34.364465],"type":"Point"}
+  "bbox": [
+    -80.172604,
+    34.364465,
+    -80.172604,
+    34.364465
+],
+  "geometry": {"coordinates":[-80.17260400000001,34.364465],"type":"Point"}
 }

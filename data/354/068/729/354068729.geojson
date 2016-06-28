@@ -2,13 +2,14 @@
   "id": 354068729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.435348,34.788003,-82.435348,34.788003",
     "geom:latitude":34.788003,
     "geom:longitude":-82.435348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Oakvale Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354068729,
-    "wof:lastmodified":1449066802,
+    "wof:lastmodified":1467082434,
     "wof:name":"Fergusons Masonry",
     "wof:parent_id":85810381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.435348,34.788003,-82.435348,34.788003],
+  "bbox": [
+    -82.435348,
+    34.788003,
+    -82.435348,
+    34.788003
+],
   "geometry": {"coordinates":[-82.435348,34.788003],"type":"Point"}
 }

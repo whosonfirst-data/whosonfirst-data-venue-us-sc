@@ -2,13 +2,14 @@
   "id": 370672413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.006384,33.193219,-80.006384,33.193219",
     "geom:latitude":33.193219,
     "geom:longitude":-80.006384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 E Main St",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370672413,
-    "wof:lastmodified":1449029300,
+    "wof:lastmodified":1467082303,
     "wof:name":"Crafts Plus Unique Gifts",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.006384,33.193219,-80.006384,33.193219],
+  "bbox": [
+    -80.006384,
+    33.193219,
+    -80.006384,
+    33.193219
+],
   "geometry": {"coordinates":[-80.006384,33.193219],"type":"Point"}
 }

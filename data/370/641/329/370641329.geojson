@@ -2,13 +2,14 @@
   "id": 370641329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.369279,34.738106,-82.369279,34.738106",
     "geom:latitude":34.738106,
     "geom:longitude":-82.369279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Osage Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370641329,
-    "wof:lastmodified":1449031668,
+    "wof:lastmodified":1467082356,
     "wof:name":"Garrison's Janitorial Svc Inc",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-82.369279,34.738106,-82.369279,34.738106],
-  "geometry": {"coordinates":[-82.369279,34.738106],"type":"Point"}
+  "bbox": [
+    -82.369279,
+    34.738106,
+    -82.369279,
+    34.738106
+],
+  "geometry": {"coordinates":[-82.36927900000001,34.738106],"type":"Point"}
 }

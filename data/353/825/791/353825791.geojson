@@ -2,13 +2,14 @@
   "id": 353825791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.724607,33.551065,-81.724607,33.551065",
     "geom:latitude":33.551065,
     "geom:longitude":-81.724607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Burkwood Pl",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353825791,
-    "wof:lastmodified":1449018338,
+    "wof:lastmodified":1467082212,
     "wof:name":"Red Hare Studio LLC",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.724607,33.551065,-81.724607,33.551065],
-  "geometry": {"coordinates":[-81.724607,33.551065],"type":"Point"}
+  "bbox": [
+    -81.724607,
+    33.551065,
+    -81.724607,
+    33.551065
+],
+  "geometry": {"coordinates":[-81.72460700000001,33.551065],"type":"Point"}
 }

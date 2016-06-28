@@ -2,13 +2,14 @@
   "id": 337280763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.942596,32.811634,-79.942596,32.811634",
     "geom:latitude":32.811634,
     "geom:longitude":-79.942596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 N Romney St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337280763,
-    "wof:lastmodified":1449027355,
+    "wof:lastmodified":1467082281,
     "wof:name":"Affordable Movers",
     "wof:parent_id":85836137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-79.942596,32.811634,-79.942596,32.811634],
-  "geometry": {"coordinates":[-79.942596,32.811634],"type":"Point"}
+  "bbox": [
+    -79.942596,
+    32.811634,
+    -79.942596,
+    32.811634
+],
+  "geometry": {"coordinates":[-79.94259599999999,32.811634],"type":"Point"}
 }

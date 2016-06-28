@@ -2,13 +2,14 @@
   "id": 185795475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.360308,33.915149,-80.360308,33.915149",
     "geom:latitude":33.915149,
     "geom:longitude":-80.360308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 W Oakland Ave",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185795475,
-    "wof:lastmodified":1449007565,
+    "wof:lastmodified":1467082197,
     "wof:name":"Sumter Cemetery Assn",
     "wof:parent_id":85819673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-80.360308,33.915149,-80.360308,33.915149],
+  "bbox": [
+    -80.360308,
+    33.915149,
+    -80.360308,
+    33.915149
+],
   "geometry": {"coordinates":[-80.360308,33.915149],"type":"Point"}
 }

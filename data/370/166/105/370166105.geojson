@@ -2,13 +2,14 @@
   "id": 370166105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.346494,33.914654,-80.346494,33.914654",
     "geom:latitude":33.914654,
     "geom:longitude":-80.346494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Dingle St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370166105,
-    "wof:lastmodified":1449030959,
+    "wof:lastmodified":1467082339,
     "wof:name":"Shaw Lumber Co",
     "wof:parent_id":85850119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-80.346494,33.914654,-80.346494,33.914654],
-  "geometry": {"coordinates":[-80.346494,33.914654],"type":"Point"}
+  "bbox": [
+    -80.346494,
+    33.914654,
+    -80.346494,
+    33.914654
+],
+  "geometry": {"coordinates":[-80.34649400000001,33.914654],"type":"Point"}
 }

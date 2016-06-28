@@ -2,13 +2,14 @@
   "id": 185608817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.992296,34.12845,-80.992296,34.12845",
     "geom:latitude":34.12845,
     "geom:longitude":-80.992296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9301 Wilson Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185608817,
-    "wof:lastmodified":1449007298,
+    "wof:lastmodified":1467082193,
     "wof:name":"United Estates Intl",
     "wof:parent_id":85850805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-80.992296,34.12845,-80.992296,34.12845],
+  "bbox": [
+    -80.992296,
+    34.12845,
+    -80.992296,
+    34.12845
+],
   "geometry": {"coordinates":[-80.992296,34.12845],"type":"Point"}
 }

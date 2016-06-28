@@ -2,13 +2,14 @@
   "id": 370268715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.958891,34.072446,-80.958891,34.072446",
     "geom:latitude":34.072446,
     "geom:longitude":-80.958891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7320 Parklane Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370268715,
-    "wof:lastmodified":1449030997,
+    "wof:lastmodified":1467082340,
     "wof:name":"Rainbow Vacuum Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-80.958891,34.072446,-80.958891,34.072446],
-  "geometry": {"coordinates":[-80.958891,34.072446],"type":"Point"}
+  "bbox": [
+    -80.958891,
+    34.072446,
+    -80.958891,
+    34.072446
+],
+  "geometry": {"coordinates":[-80.95889099999999,34.072446],"type":"Point"}
 }

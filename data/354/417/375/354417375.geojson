@@ -2,13 +2,14 @@
   "id": 354417375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.941357,32.789897,-79.941357,32.789897",
     "geom:latitude":32.789897,
     "geom:longitude":-79.941357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Morris St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354417375,
-    "wof:lastmodified":1449066613,
+    "wof:lastmodified":1467082430,
     "wof:name":"Palmetto Dental Clinics LLC",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-79.941357,32.789897,-79.941357,32.789897],
+  "bbox": [
+    -79.941357,
+    32.789897,
+    -79.941357,
+    32.789897
+],
   "geometry": {"coordinates":[-79.941357,32.789897],"type":"Point"}
 }

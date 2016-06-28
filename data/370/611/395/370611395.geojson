@@ -2,13 +2,14 @@
   "id": 370611395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.27843,34.74583,-82.27843,34.74583",
     "geom:latitude":34.74583,
     "geom:longitude":-82.27843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2835 Kemet Dr",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370611395,
-    "wof:lastmodified":1449031765,
+    "wof:lastmodified":1467082358,
     "wof:name":"Compass Group USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.27843,34.74583,-82.27843,34.74583],
+  "bbox": [
+    -82.27843,
+    34.74583,
+    -82.27843,
+    34.74583
+],
   "geometry": {"coordinates":[-82.27843,34.74583],"type":"Point"}
 }

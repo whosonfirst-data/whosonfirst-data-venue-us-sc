@@ -2,13 +2,14 @@
   "id": 185941813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.336905,34.963465,-82.336905,34.963465",
     "geom:latitude":34.963465,
     "geom:longitude":-82.336905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E Darby Rd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185941813,
-    "wof:lastmodified":1449007568,
+    "wof:lastmodified":1467082197,
     "wof:name":"Daniel's Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-82.336905,34.963465,-82.336905,34.963465],
+  "bbox": [
+    -82.336905,
+    34.963465,
+    -82.336905,
+    34.963465
+],
   "geometry": {"coordinates":[-82.336905,34.963465],"type":"Point"}
 }

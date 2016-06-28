@@ -2,13 +2,14 @@
   "id": 353855093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.559281,33.456339,-79.559281,33.456339",
     "geom:latitude":33.456339,
     "geom:longitude":-79.559281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 N Morgan Ave",
     "sg:city":"Andrews",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353855093,
-    "wof:lastmodified":1449020124,
+    "wof:lastmodified":1467082248,
     "wof:name":"Magic Mirror Stylists",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.559281,33.456339,-79.559281,33.456339],
+  "bbox": [
+    -79.559281,
+    33.456339,
+    -79.559281,
+    33.456339
+],
   "geometry": {"coordinates":[-79.559281,33.456339],"type":"Point"}
 }

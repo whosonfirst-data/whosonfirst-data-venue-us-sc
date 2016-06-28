@@ -2,13 +2,14 @@
   "id": 186146833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.005345,35.055768,-81.005345,35.055768",
     "geom:latitude":35.055768,
     "geom:longitude":-81.005345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1954 Gold Hill Rd",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186146833,
-    "wof:lastmodified":1449051487,
+    "wof:lastmodified":1467082398,
     "wof:name":"Cottage On Gold Hill",
     "wof:parent_id":85843859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.005345,35.055768,-81.005345,35.055768],
-  "geometry": {"coordinates":[-81.005345,35.055768],"type":"Point"}
+  "bbox": [
+    -81.005345,
+    35.055768,
+    -81.005345,
+    35.055768
+],
+  "geometry": {"coordinates":[-81.00534500000001,35.055768],"type":"Point"}
 }

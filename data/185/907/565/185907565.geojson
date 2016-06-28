@@ -2,13 +2,14 @@
   "id": 185907565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.954947,34.686843,-82.954947,34.686843",
     "geom:latitude":34.686843,
     "geom:longitude":-82.954947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 N Fairplay St",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":185907565,
-    "wof:lastmodified":1449008095,
+    "wof:lastmodified":1467082205,
     "wof:name":"Rainbow Authorized Distrs",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-82.954947,34.686843,-82.954947,34.686843],
+  "bbox": [
+    -82.954947,
+    34.686843,
+    -82.954947,
+    34.686843
+],
   "geometry": {"coordinates":[-82.954947,34.686843],"type":"Point"}
 }

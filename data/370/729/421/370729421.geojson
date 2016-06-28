@@ -2,13 +2,14 @@
   "id": 370729421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.762689,33.469326,-81.762689,33.469326",
     "geom:latitude":33.469326,
     "geom:longitude":-81.762689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 Silver Bluff Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370729421,
-    "wof:lastmodified":1449030786,
+    "wof:lastmodified":1467082335,
     "wof:name":"Woodside Plantation Property",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.762689,33.469326,-81.762689,33.469326],
-  "geometry": {"coordinates":[-81.762689,33.469326],"type":"Point"}
+  "bbox": [
+    -81.762689,
+    33.469326,
+    -81.762689,
+    33.469326
+],
+  "geometry": {"coordinates":[-81.76268899999999,33.469326],"type":"Point"}
 }

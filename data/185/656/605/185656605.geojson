@@ -2,13 +2,14 @@
   "id": 185656605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.248983,32.969107,-80.248983,32.969107",
     "geom:latitude":32.969107,
     "geom:longitude":-80.248983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Swan Dr",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185656605,
-    "wof:lastmodified":1449007646,
+    "wof:lastmodified":1467082198,
     "wof:name":"Mr Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "deck"
     ]
 },
-  "bbox": [-80.248983,32.969107,-80.248983,32.969107],
+  "bbox": [
+    -80.248983,
+    32.969107,
+    -80.248983,
+    32.969107
+],
   "geometry": {"coordinates":[-80.248983,32.969107],"type":"Point"}
 }

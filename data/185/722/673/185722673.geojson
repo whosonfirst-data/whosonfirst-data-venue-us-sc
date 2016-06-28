@@ -2,13 +2,14 @@
   "id": 185722673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.570863,34.290163,-81.570863,34.290163",
     "geom:latitude":34.290163,
     "geom:longitude":-81.570863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 Hillbrook Ln",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185722673,
-    "wof:lastmodified":1449007153,
+    "wof:lastmodified":1467082191,
     "wof:name":"Goodmans Automative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.570863,34.290163,-81.570863,34.290163],
+  "bbox": [
+    -81.570863,
+    34.290163,
+    -81.570863,
+    34.290163
+],
   "geometry": {"coordinates":[-81.570863,34.290163],"type":"Point"}
 }

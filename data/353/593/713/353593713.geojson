@@ -2,13 +2,14 @@
   "id": 353593713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.013438,34.496327,-82.013438,34.496327",
     "geom:latitude":34.496327,
     "geom:longitude":-82.013438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Hance St",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353593713,
-    "wof:lastmodified":1449019941,
+    "wof:lastmodified":1467082244,
     "wof:name":"Last Chance Bail Bonds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-82.013438,34.496327,-82.013438,34.496327],
-  "geometry": {"coordinates":[-82.013438,34.496327],"type":"Point"}
+  "bbox": [
+    -82.013438,
+    34.496327,
+    -82.013438,
+    34.496327
+],
+  "geometry": {"coordinates":[-82.01343799999999,34.496327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370720731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.378323,34.177095,-82.378323,34.177095",
     "geom:latitude":34.177095,
     "geom:longitude":-82.378323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 S Main St",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370720731,
-    "wof:lastmodified":1449029903,
+    "wof:lastmodified":1467082316,
     "wof:name":"Abbeville Outlet Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outlet"
     ]
 },
-  "bbox": [-82.378323,34.177095,-82.378323,34.177095],
-  "geometry": {"coordinates":[-82.378323,34.177095],"type":"Point"}
+  "bbox": [
+    -82.378323,
+    34.177095,
+    -82.378323,
+    34.177095
+],
+  "geometry": {"coordinates":[-82.37832299999999,34.177095],"type":"Point"}
 }

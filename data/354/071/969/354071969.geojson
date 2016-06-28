@@ -2,13 +2,14 @@
   "id": 354071969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.690516,34.624412,-79.690516,34.624412",
     "geom:latitude":34.624412,
     "geom:longitude":-79.690516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 State Hwy 38 Bus",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354071969,
-    "wof:lastmodified":1449067030,
+    "wof:lastmodified":1467082439,
     "wof:name":"Bennettsville Mattress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bed"
     ]
 },
-  "bbox": [-79.690516,34.624412,-79.690516,34.624412],
+  "bbox": [
+    -79.690516,
+    34.624412,
+    -79.690516,
+    34.624412
+],
   "geometry": {"coordinates":[-79.690516,34.624412],"type":"Point"}
 }

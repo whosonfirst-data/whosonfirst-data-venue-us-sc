@@ -2,13 +2,14 @@
   "id": 354085565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.208271,33.531323,-79.208271,33.531323",
     "geom:latitude":33.531323,
     "geom:longitude":-79.208271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1668 Exodus Dr",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354085565,
-    "wof:lastmodified":1449066339,
+    "wof:lastmodified":1467082424,
     "wof:name":"South Carolina Educational TV",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-79.208271,33.531323,-79.208271,33.531323],
+  "bbox": [
+    -79.208271,
+    33.531323,
+    -79.208271,
+    33.531323
+],
   "geometry": {"coordinates":[-79.208271,33.531323],"type":"Point"}
 }

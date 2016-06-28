@@ -2,13 +2,14 @@
   "id": 186004293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.031811,32.99166,-80.031811,32.99166",
     "geom:latitude":32.99166,
     "geom:longitude":-80.031811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Pandora Dr",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186004293,
-    "wof:lastmodified":1449051362,
+    "wof:lastmodified":1467082397,
     "wof:name":"Living Word Ministries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.031811,32.99166,-80.031811,32.99166],
+  "bbox": [
+    -80.031811,
+    32.99166,
+    -80.031811,
+    32.99166
+],
   "geometry": {"coordinates":[-80.031811,32.99166],"type":"Point"}
 }

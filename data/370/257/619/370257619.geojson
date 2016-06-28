@@ -2,13 +2,14 @@
   "id": 370257619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.012874,34.921545,-81.012874,34.921545",
     "geom:latitude":34.921545,
     "geom:longitude":-81.012874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"831 Standard St",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370257619,
-    "wof:lastmodified":1449030103,
+    "wof:lastmodified":1467082321,
     "wof:name":"Southern Electric",
     "wof:parent_id":85833915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.012874,34.921545,-81.012874,34.921545],
+  "bbox": [
+    -81.012874,
+    34.921545,
+    -81.012874,
+    34.921545
+],
   "geometry": {"coordinates":[-81.012874,34.921545],"type":"Point"}
 }

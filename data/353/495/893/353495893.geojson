@@ -2,13 +2,14 @@
   "id": 353495893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.909961,34.940706,-81.909961,34.940706",
     "geom:latitude":34.940706,
     "geom:longitude":-81.909961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"780 Union St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353495893,
-    "wof:lastmodified":1449019380,
+    "wof:lastmodified":1467082233,
     "wof:name":"Upstate Appraisal & Real Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.909961,34.940706,-81.909961,34.940706],
+  "bbox": [
+    -81.909961,
+    34.940706,
+    -81.909961,
+    34.940706
+],
   "geometry": {"coordinates":[-81.909961,34.940706],"type":"Point"}
 }

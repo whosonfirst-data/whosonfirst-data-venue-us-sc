@@ -2,13 +2,14 @@
   "id": 370770577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.690822,33.821514,-78.690822,33.821514",
     "geom:latitude":33.821514,
     "geom:longitude":-78.690822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 9th Ave S",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370770577,
-    "wof:lastmodified":1449032545,
+    "wof:lastmodified":1467082375,
     "wof:name":"Music On The Strand",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "music"
     ]
 },
-  "bbox": [-78.690822,33.821514,-78.690822,33.821514],
+  "bbox": [
+    -78.690822,
+    33.821514,
+    -78.690822,
+    33.821514
+],
   "geometry": {"coordinates":[-78.690822,33.821514],"type":"Point"}
 }

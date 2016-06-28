@@ -2,13 +2,14 @@
   "id": 185852525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.285958,33.368246,-79.285958,33.368246",
     "geom:latitude":33.368246,
     "geom:longitude":-79.285958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Front St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185852525,
-    "wof:lastmodified":1449007961,
+    "wof:lastmodified":1467082203,
     "wof:name":"River Room Restaurant",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.285958,33.368246,-79.285958,33.368246],
-  "geometry": {"coordinates":[-79.285958,33.368246],"type":"Point"}
+  "bbox": [
+    -79.285958,
+    33.368246,
+    -79.285958,
+    33.368246
+],
+  "geometry": {"coordinates":[-79.28595799999999,33.368246],"type":"Point"}
 }

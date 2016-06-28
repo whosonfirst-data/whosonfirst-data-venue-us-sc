@@ -2,13 +2,14 @@
   "id": 370241503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.237662,34.227554,-80.237662,34.227554",
     "geom:latitude":34.227554,
     "geom:longitude":-80.237662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"760 US Hwy 15",
     "sg:city":"Bishopville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370241503,
-    "wof:lastmodified":1449032378,
+    "wof:lastmodified":1467082371,
     "wof:name":"Mixon Logging Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "logging"
     ]
 },
-  "bbox": [-80.237662,34.227554,-80.237662,34.227554],
+  "bbox": [
+    -80.237662,
+    34.227554,
+    -80.237662,
+    34.227554
+],
   "geometry": {"coordinates":[-80.237662,34.227554],"type":"Point"}
 }

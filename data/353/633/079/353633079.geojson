@@ -2,13 +2,14 @@
   "id": 353633079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.177489,34.256139,-82.177489,34.256139",
     "geom:latitude":34.256139,
     "geom:longitude":-82.177489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Creekside Ct",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353633079,
-    "wof:lastmodified":1449020765,
+    "wof:lastmodified":1467082261,
     "wof:name":"Emerald Lawn Care",
     "wof:parent_id":85845351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-82.177489,34.256139,-82.177489,34.256139],
-  "geometry": {"coordinates":[-82.177489,34.256139],"type":"Point"}
+  "bbox": [
+    -82.177489,
+    34.256139,
+    -82.177489,
+    34.256139
+],
+  "geometry": {"coordinates":[-82.17748899999999,34.256139],"type":"Point"}
 }

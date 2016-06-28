@@ -2,13 +2,14 @@
   "id": 370751817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.784928,34.903475,-81.784928,34.903475",
     "geom:latitude":34.903475,
     "geom:longitude":-81.784928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6190 S Pine St",
     "sg:city":"Pacolet",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370751817,
-    "wof:lastmodified":1449029270,
+    "wof:lastmodified":1467082302,
     "wof:name":"Mabry Tax & Bookkeeping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "filing"
     ]
 },
-  "bbox": [-81.784928,34.903475,-81.784928,34.903475],
-  "geometry": {"coordinates":[-81.784928,34.903475],"type":"Point"}
+  "bbox": [
+    -81.784928,
+    34.903475,
+    -81.784928,
+    34.903475
+],
+  "geometry": {"coordinates":[-81.78492799999999,34.903475],"type":"Point"}
 }

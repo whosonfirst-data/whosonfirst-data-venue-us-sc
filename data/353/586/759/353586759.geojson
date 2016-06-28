@@ -2,13 +2,14 @@
   "id": 353586759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.427962,34.896625,-82.427962,34.896625",
     "geom:latitude":34.896625,
     "geom:longitude":-82.427962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Stradley Ter",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353586759,
-    "wof:lastmodified":1449020512,
+    "wof:lastmodified":1467082256,
     "wof:name":"Lornath Yard Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-82.427962,34.896625,-82.427962,34.896625],
-  "geometry": {"coordinates":[-82.427962,34.896625],"type":"Point"}
+  "bbox": [
+    -82.427962,
+    34.896625,
+    -82.427962,
+    34.896625
+],
+  "geometry": {"coordinates":[-82.42796199999999,34.896625],"type":"Point"}
 }

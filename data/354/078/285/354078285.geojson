@@ -2,13 +2,14 @@
   "id": 354078285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.508362,34.529904,-82.508362,34.529904",
     "geom:latitude":34.529904,
     "geom:longitude":-82.508362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Stevenson Dr",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354078285,
-    "wof:lastmodified":1449067384,
+    "wof:lastmodified":1467082448,
     "wof:name":"Fullbright Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-82.508362,34.529904,-82.508362,34.529904],
-  "geometry": {"coordinates":[-82.508362,34.529904],"type":"Point"}
+  "bbox": [
+    -82.508362,
+    34.529904,
+    -82.508362,
+    34.529904
+],
+  "geometry": {"coordinates":[-82.50836200000001,34.529904],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186008105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.424061,34.802297,-82.424061,34.802297",
     "geom:latitude":34.802297,
     "geom:longitude":-82.424061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 Grove Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186008105,
-    "wof:lastmodified":1449051222,
+    "wof:lastmodified":1467082396,
     "wof:name":"Jack Cochran Tires & Batteries",
     "wof:parent_id":85810381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-82.424061,34.802297,-82.424061,34.802297],
-  "geometry": {"coordinates":[-82.424061,34.802297],"type":"Point"}
+  "bbox": [
+    -82.424061,
+    34.802297,
+    -82.424061,
+    34.802297
+],
+  "geometry": {"coordinates":[-82.42406099999999,34.802297],"type":"Point"}
 }

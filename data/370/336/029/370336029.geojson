@@ -2,13 +2,14 @@
   "id": 370336029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.607916,34.830847,-82.607916,34.830847",
     "geom:latitude":34.830847,
     "geom:longitude":-82.607916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N 2nd St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370336029,
-    "wof:lastmodified":1449029001,
+    "wof:lastmodified":1467082296,
     "wof:name":"Easley Chapel United Methodist",
     "wof:parent_id":85832619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.607916,34.830847,-82.607916,34.830847],
+  "bbox": [
+    -82.607916,
+    34.830847,
+    -82.607916,
+    34.830847
+],
   "geometry": {"coordinates":[-82.607916,34.830847],"type":"Point"}
 }

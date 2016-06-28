@@ -2,13 +2,14 @@
   "id": 370621511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.109566,33.926457,-81.109566,33.926457",
     "geom:latitude":33.926457,
     "geom:longitude":-81.109566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 Old Dunbar Rd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370621511,
-    "wof:lastmodified":1449032073,
+    "wof:lastmodified":1467082364,
     "wof:name":"Professional Printers Inc",
     "wof:parent_id":85847855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-81.109566,33.926457,-81.109566,33.926457],
+  "bbox": [
+    -81.109566,
+    33.926457,
+    -81.109566,
+    33.926457
+],
   "geometry": {"coordinates":[-81.109566,33.926457],"type":"Point"}
 }

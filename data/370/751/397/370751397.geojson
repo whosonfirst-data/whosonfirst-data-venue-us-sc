@@ -2,13 +2,14 @@
   "id": 370751397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.454816,33.735434,-79.454816,33.735434",
     "geom:latitude":33.735434,
     "geom:longitude":-79.454816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Magnolia Dr",
     "sg:city":"Hemingway",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370751397,
-    "wof:lastmodified":1449029270,
+    "wof:lastmodified":1467082302,
     "wof:name":"Julie's Ceramics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.454816,33.735434,-79.454816,33.735434],
-  "geometry": {"coordinates":[-79.454816,33.735434],"type":"Point"}
+  "bbox": [
+    -79.454816,
+    33.735434,
+    -79.454816,
+    33.735434
+],
+  "geometry": {"coordinates":[-79.45481599999999,33.735434],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370379891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.83614,33.507592,-80.83614,33.507592",
     "geom:latitude":33.507592,
     "geom:longitude":-80.83614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1662 Irvin St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370379891,
-    "wof:lastmodified":1449031044,
+    "wof:lastmodified":1467082341,
     "wof:name":"True Church Of God",
     "wof:parent_id":85843475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.83614,33.507592,-80.83614,33.507592],
+  "bbox": [
+    -80.83614,
+    33.507592,
+    -80.83614,
+    33.507592
+],
   "geometry": {"coordinates":[-80.83614,33.507592],"type":"Point"}
 }

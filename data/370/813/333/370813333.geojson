@@ -2,13 +2,14 @@
   "id": 370813333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.029581,33.574048,-79.029581,33.574048",
     "geom:latitude":33.574048,
     "geom:longitude":-79.029581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11740 US Hwy 17 Byp",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370813333,
-    "wof:lastmodified":1449029969,
+    "wof:lastmodified":1467082318,
     "wof:name":"KBC Distributors Of Myrtle",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-79.029581,33.574048,-79.029581,33.574048],
-  "geometry": {"coordinates":[-79.029581,33.574048],"type":"Point"}
+  "bbox": [
+    -79.029581,
+    33.574048,
+    -79.029581,
+    33.574048
+],
+  "geometry": {"coordinates":[-79.02958099999999,33.574048],"type":"Point"}
 }

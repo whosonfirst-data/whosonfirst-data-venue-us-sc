@@ -2,13 +2,14 @@
   "id": 354004879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.392983,33.951101,-80.392983,33.951101",
     "geom:latitude":33.951101,
     "geom:longitude":-80.392983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 W Wesmark Blvd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354004879,
-    "wof:lastmodified":1449066532,
+    "wof:lastmodified":1467082428,
     "wof:name":"Wesmark Ambulatory Surgery Ctr",
     "wof:parent_id":85814545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.392983,33.951101,-80.392983,33.951101],
+  "bbox": [
+    -80.392983,
+    33.951101,
+    -80.392983,
+    33.951101
+],
   "geometry": {"coordinates":[-80.392983,33.951101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185763679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.153495,33.038272,-80.153495,33.038272",
     "geom:latitude":33.038272,
     "geom:longitude":-80.153495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Holiday Dr",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185763679,
-    "wof:lastmodified":1449008200,
+    "wof:lastmodified":1467082207,
     "wof:name":"J B Fins Seafood Shanty",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.153495,33.038272,-80.153495,33.038272],
-  "geometry": {"coordinates":[-80.153495,33.038272],"type":"Point"}
+  "bbox": [
+    -80.153495,
+    33.038272,
+    -80.153495,
+    33.038272
+],
+  "geometry": {"coordinates":[-80.15349500000001,33.038272],"type":"Point"}
 }

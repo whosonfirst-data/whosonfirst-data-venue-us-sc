@@ -2,13 +2,14 @@
   "id": 354167223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.008231,34.903224,-82.008231,34.903224",
     "geom:latitude":34.903224,
     "geom:longitude":-82.008231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Galway Trce",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354167223,
-    "wof:lastmodified":1449066814,
+    "wof:lastmodified":1467082435,
     "wof:name":"A & K Sports",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "house"
     ]
 },
-  "bbox": [-82.008231,34.903224,-82.008231,34.903224],
-  "geometry": {"coordinates":[-82.008231,34.903224],"type":"Point"}
+  "bbox": [
+    -82.008231,
+    34.903224,
+    -82.008231,
+    34.903224
+],
+  "geometry": {"coordinates":[-82.00823099999999,34.903224],"type":"Point"}
 }

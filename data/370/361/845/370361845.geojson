@@ -2,13 +2,14 @@
   "id": 370361845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.993651,34.016587,-80.993651,34.016587",
     "geom:latitude":34.016587,
     "geom:longitude":-80.993651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1580 Sunnyside Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370361845,
-    "wof:lastmodified":1449031558,
+    "wof:lastmodified":1467082353,
     "wof:name":"Nobles Art & Framing",
     "wof:parent_id":85819781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-80.993651,34.016587,-80.993651,34.016587],
+  "bbox": [
+    -80.993651,
+    34.016587,
+    -80.993651,
+    34.016587
+],
   "geometry": {"coordinates":[-80.993651,34.016587],"type":"Point"}
 }

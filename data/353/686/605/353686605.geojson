@@ -2,13 +2,14 @@
   "id": 353686605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.457824,34.665243,-81.457824,34.665243",
     "geom:latitude":34.665243,
     "geom:longitude":-81.457824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3037 River Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353686605,
-    "wof:lastmodified":1449020191,
+    "wof:lastmodified":1467082249,
     "wof:name":"South Carolina Electric & Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-81.457824,34.665243,-81.457824,34.665243],
+  "bbox": [
+    -81.457824,
+    34.665243,
+    -81.457824,
+    34.665243
+],
   "geometry": {"coordinates":[-81.457824,34.665243],"type":"Point"}
 }

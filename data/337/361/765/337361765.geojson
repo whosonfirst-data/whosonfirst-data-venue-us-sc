@@ -2,13 +2,14 @@
   "id": 337361765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.649318,35.074748,-81.649318,35.074748",
     "geom:latitude":35.074748,
     "geom:longitude":-81.649318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Meadow St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337361765,
-    "wof:lastmodified":1449027544,
+    "wof:lastmodified":1467082288,
     "wof:name":"B & R Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.649318,35.074748,-81.649318,35.074748],
-  "geometry": {"coordinates":[-81.649318,35.074748],"type":"Point"}
+  "bbox": [
+    -81.649318,
+    35.074748,
+    -81.649318,
+    35.074748
+],
+  "geometry": {"coordinates":[-81.64931799999999,35.074748],"type":"Point"}
 }

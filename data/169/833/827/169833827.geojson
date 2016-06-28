@@ -2,13 +2,14 @@
   "id": 169833827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.214177,33.701095,-80.214177,33.701095",
     "geom:latitude":33.701095,
     "geom:longitude":-80.214177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Rural Ave",
     "sg:city":"Manning",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169833827,
-    "wof:lastmodified":1449033106,
+    "wof:lastmodified":1467082378,
     "wof:name":"Caring & Sharing Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.214177,33.701095,-80.214177,33.701095],
-  "geometry": {"coordinates":[-80.214177,33.701095],"type":"Point"}
+  "bbox": [
+    -80.214177,
+    33.701095,
+    -80.214177,
+    33.701095
+],
+  "geometry": {"coordinates":[-80.21417700000001,33.701095],"type":"Point"}
 }

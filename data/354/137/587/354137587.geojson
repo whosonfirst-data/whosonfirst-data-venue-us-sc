@@ -2,13 +2,14 @@
   "id": 354137587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.188753,35.174926,-82.188753,35.174926",
     "geom:latitude":35.174926,
     "geom:longitude":-82.188753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 E Rutherford St",
     "sg:city":"Landrum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354137587,
-    "wof:lastmodified":1449067430,
+    "wof:lastmodified":1467082449,
     "wof:name":"Two Birds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.188753,35.174926,-82.188753,35.174926],
-  "geometry": {"coordinates":[-82.188753,35.174926],"type":"Point"}
+  "bbox": [
+    -82.188753,
+    35.174926,
+    -82.188753,
+    35.174926
+],
+  "geometry": {"coordinates":[-82.18875300000001,35.174926],"type":"Point"}
 }

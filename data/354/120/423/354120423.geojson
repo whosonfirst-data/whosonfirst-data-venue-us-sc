@@ -2,13 +2,14 @@
   "id": 354120423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.710164,33.803189,-78.710164,33.803189",
     "geom:latitude":33.803189,
     "geom:longitude":-78.710164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2507 S Ocean Blvd",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354120423,
-    "wof:lastmodified":1449067414,
+    "wof:lastmodified":1467082448,
     "wof:name":"Pinnacles Homeowners Associati",
     "wof:parent_id":85841995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.710164,33.803189,-78.710164,33.803189],
-  "geometry": {"coordinates":[-78.710164,33.803189],"type":"Point"}
+  "bbox": [
+    -78.710164,
+    33.803189,
+    -78.710164,
+    33.803189
+],
+  "geometry": {"coordinates":[-78.71016400000001,33.803189],"type":"Point"}
 }

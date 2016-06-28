@@ -2,13 +2,14 @@
   "id": 354088669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.361434,33.938327,-80.361434,33.938327",
     "geom:latitude":33.938327,
     "geom:longitude":-80.361434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Broad St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354088669,
-    "wof:lastmodified":1449067257,
+    "wof:lastmodified":1467082445,
     "wof:name":"TRM Corp",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.361434,33.938327,-80.361434,33.938327],
+  "bbox": [
+    -80.361434,
+    33.938327,
+    -80.361434,
+    33.938327
+],
   "geometry": {"coordinates":[-80.361434,33.938327],"type":"Point"}
 }

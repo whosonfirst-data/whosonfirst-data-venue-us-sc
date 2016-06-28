@@ -2,13 +2,14 @@
   "id": 337327615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.393397,34.755639,-82.393397,34.755639",
     "geom:latitude":34.755639,
     "geom:longitude":-82.393397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Beechtree Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337327615,
-    "wof:lastmodified":1449026997,
+    "wof:lastmodified":1467082267,
     "wof:name":"H T USA Inc",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trading"
     ]
 },
-  "bbox": [-82.393397,34.755639,-82.393397,34.755639],
-  "geometry": {"coordinates":[-82.393397,34.755639],"type":"Point"}
+  "bbox": [
+    -82.393397,
+    34.755639,
+    -82.393397,
+    34.755639
+],
+  "geometry": {"coordinates":[-82.39339699999999,34.755639],"type":"Point"}
 }

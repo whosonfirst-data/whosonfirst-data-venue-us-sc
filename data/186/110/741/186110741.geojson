@@ -2,13 +2,14 @@
   "id": 186110741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.300098,33.543874,-81.300098,33.543874",
     "geom:latitude":33.543874,
     "geom:longitude":-81.300098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Hanson Curtis Rd",
     "sg:city":"Salley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186110741,
-    "wof:lastmodified":1449051273,
+    "wof:lastmodified":1467082396,
     "wof:name":"Simmonds Floor Covering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.300098,33.543874,-81.300098,33.543874],
-  "geometry": {"coordinates":[-81.300098,33.543874],"type":"Point"}
+  "bbox": [
+    -81.300098,
+    33.543874,
+    -81.300098,
+    33.543874
+],
+  "geometry": {"coordinates":[-81.30009800000001,33.543874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370209157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.099321,32.992641,-80.099321,32.992641",
     "geom:latitude":32.992641,
     "geom:longitude":-80.099321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 College Park Rd",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370209157,
-    "wof:lastmodified":1449032119,
+    "wof:lastmodified":1467082365,
     "wof:name":"Southern Caseworks",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-80.099321,32.992641,-80.099321,32.992641],
+  "bbox": [
+    -80.099321,
+    32.992641,
+    -80.099321,
+    32.992641
+],
   "geometry": {"coordinates":[-80.099321,32.992641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353659349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.399926,34.827338,-82.399926,34.827338",
     "geom:latitude":34.827338,
     "geom:longitude":-82.399926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Aberdeen Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353659349,
-    "wof:lastmodified":1449018524,
+    "wof:lastmodified":1467082215,
     "wof:name":"Mansure & Co",
     "wof:parent_id":85811527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-82.399926,34.827338,-82.399926,34.827338],
-  "geometry": {"coordinates":[-82.399926,34.827338],"type":"Point"}
+  "bbox": [
+    -82.399926,
+    34.827338,
+    -82.399926,
+    34.827338
+],
+  "geometry": {"coordinates":[-82.39992599999999,34.827338],"type":"Point"}
 }

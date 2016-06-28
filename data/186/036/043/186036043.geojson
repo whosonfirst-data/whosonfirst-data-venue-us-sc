@@ -2,13 +2,14 @@
   "id": 186036043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.917899,34.991224,-81.917899,34.991224",
     "geom:latitude":34.991224,
     "geom:longitude":-81.917899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2024 Chesnee Hwy",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186036043,
-    "wof:lastmodified":1449050995,
+    "wof:lastmodified":1467082394,
     "wof:name":"Hooper's Quality Pest Control",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.917899,34.991224,-81.917899,34.991224],
-  "geometry": {"coordinates":[-81.917899,34.991224],"type":"Point"}
+  "bbox": [
+    -81.917899,
+    34.991224,
+    -81.917899,
+    34.991224
+],
+  "geometry": {"coordinates":[-81.91789900000001,34.991224],"type":"Point"}
 }

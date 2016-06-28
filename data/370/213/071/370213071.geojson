@@ -2,13 +2,14 @@
   "id": 370213071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.844716,34.995283,-81.844716,34.995283",
     "geom:latitude":34.995283,
     "geom:longitude":-81.844716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"257 Sunnyview Cir",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370213071,
-    "wof:lastmodified":1449029105,
+    "wof:lastmodified":1467082299,
     "wof:name":"Converse Beauty Shop",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.844716,34.995283,-81.844716,34.995283],
-  "geometry": {"coordinates":[-81.844716,34.995283],"type":"Point"}
+  "bbox": [
+    -81.844716,
+    34.995283,
+    -81.844716,
+    34.995283
+],
+  "geometry": {"coordinates":[-81.84471600000001,34.995283],"type":"Point"}
 }

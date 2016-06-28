@@ -2,13 +2,14 @@
   "id": 353909721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.414797,34.195831,-81.414797,34.195831",
     "geom:latitude":34.195831,
     "geom:longitude":-81.414797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 N Mill St",
     "sg:city":"Little Mountain",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353909721,
-    "wof:lastmodified":1449020174,
+    "wof:lastmodified":1467082249,
     "wof:name":"J KESS Derrick Community Hlth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.414797,34.195831,-81.414797,34.195831],
-  "geometry": {"coordinates":[-81.414797,34.195831],"type":"Point"}
+  "bbox": [
+    -81.414797,
+    34.195831,
+    -81.414797,
+    34.195831
+],
+  "geometry": {"coordinates":[-81.41479699999999,34.195831],"type":"Point"}
 }

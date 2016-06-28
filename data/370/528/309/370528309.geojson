@@ -2,13 +2,14 @@
   "id": 370528309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.290039,34.89245,-82.290039,34.89245",
     "geom:latitude":34.89245,
     "geom:longitude":-82.290039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2104 Old Spartanburg Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370528309,
-    "wof:lastmodified":1449030012,
+    "wof:lastmodified":1467082318,
     "wof:name":"James W Dickert DDS",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.290039,34.89245,-82.290039,34.89245],
-  "geometry": {"coordinates":[-82.290039,34.89245],"type":"Point"}
+  "bbox": [
+    -82.290039,
+    34.89245,
+    -82.290039,
+    34.89245
+],
+  "geometry": {"coordinates":[-82.29003899999999,34.89245],"type":"Point"}
 }

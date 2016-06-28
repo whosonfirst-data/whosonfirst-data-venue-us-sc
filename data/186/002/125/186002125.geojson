@@ -2,13 +2,14 @@
   "id": 186002125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.177119,33.019083,-80.177119,33.019083",
     "geom:latitude":33.019083,
     "geom:longitude":-80.177119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Central Ave",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186002125,
-    "wof:lastmodified":1449052525,
+    "wof:lastmodified":1467082408,
     "wof:name":"Josephine's Alterations",
     "wof:parent_id":85810341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-80.177119,33.019083,-80.177119,33.019083],
+  "bbox": [
+    -80.177119,
+    33.019083,
+    -80.177119,
+    33.019083
+],
   "geometry": {"coordinates":[-80.177119,33.019083],"type":"Point"}
 }

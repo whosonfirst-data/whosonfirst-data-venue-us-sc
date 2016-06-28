@@ -2,13 +2,14 @@
   "id": 337470261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.401134,34.833701,-82.401134,34.833701",
     "geom:latitude":34.833701,
     "geom:longitude":-82.401134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Tindal Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337470261,
-    "wof:lastmodified":1449027120,
+    "wof:lastmodified":1467082272,
     "wof:name":"AAA Assoc Reporting Agency",
     "wof:parent_id":85802935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "reporter"
     ]
 },
-  "bbox": [-82.401134,34.833701,-82.401134,34.833701],
+  "bbox": [
+    -82.401134,
+    34.833701,
+    -82.401134,
+    34.833701
+],
   "geometry": {"coordinates":[-82.401134,34.833701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185981709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.138675,33.029192,-80.138675,33.029192",
     "geom:latitude":33.029192,
     "geom:longitude":-80.138675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Farmington Rd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185981709,
-    "wof:lastmodified":1449008243,
+    "wof:lastmodified":1467082208,
     "wof:name":"Volvo Rents",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.138675,33.029192,-80.138675,33.029192],
-  "geometry": {"coordinates":[-80.138675,33.029192],"type":"Point"}
+  "bbox": [
+    -80.138675,
+    33.029192,
+    -80.138675,
+    33.029192
+],
+  "geometry": {"coordinates":[-80.13867500000001,33.029192],"type":"Point"}
 }

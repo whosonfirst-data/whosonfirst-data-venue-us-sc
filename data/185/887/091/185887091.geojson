@@ -2,13 +2,14 @@
   "id": 185887091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.102044,34.40442,-81.102044,34.40442",
     "geom:latitude":34.40442,
     "geom:longitude":-81.102044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1888 US Hwy 321 N",
     "sg:city":"Winnsboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185887091,
-    "wof:lastmodified":1449007901,
+    "wof:lastmodified":1467082202,
     "wof:name":"Handi-House Of Winnsboro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.102044,34.40442,-81.102044,34.40442],
-  "geometry": {"coordinates":[-81.102044,34.40442],"type":"Point"}
+  "bbox": [
+    -81.102044,
+    34.40442,
+    -81.102044,
+    34.40442
+],
+  "geometry": {"coordinates":[-81.10204400000001,34.40442],"type":"Point"}
 }

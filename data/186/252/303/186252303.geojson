@@ -2,13 +2,14 @@
   "id": 186252303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.406143,34.860197,-82.406143,34.860197",
     "geom:latitude":34.860197,
     "geom:longitude":-82.406143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Buncombe St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186252303,
-    "wof:lastmodified":1449050657,
+    "wof:lastmodified":1467082391,
     "wof:name":"Smith & Chiles",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-82.406143,34.860197,-82.406143,34.860197],
+  "bbox": [
+    -82.406143,
+    34.860197,
+    -82.406143,
+    34.860197
+],
   "geometry": {"coordinates":[-82.406143,34.860197],"type":"Point"}
 }

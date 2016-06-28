@@ -2,13 +2,14 @@
   "id": 370346699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.10992,35.051474,-82.10992,35.051474",
     "geom:latitude":35.051474,
     "geom:longitude":-82.10992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13255 Asheville Hwy",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370346699,
-    "wof:lastmodified":1449029047,
+    "wof:lastmodified":1467082297,
     "wof:name":"Greater St James Temple",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.10992,35.051474,-82.10992,35.051474],
+  "bbox": [
+    -82.10992,
+    35.051474,
+    -82.10992,
+    35.051474
+],
   "geometry": {"coordinates":[-82.10992,35.051474],"type":"Point"}
 }

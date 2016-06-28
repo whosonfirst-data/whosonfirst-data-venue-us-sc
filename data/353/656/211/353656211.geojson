@@ -2,13 +2,14 @@
   "id": 353656211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.825107,34.036531,-79.825107,34.036531",
     "geom:latitude":34.036531,
     "geom:longitude":-79.825107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6933 Meadow Prong Rd",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353656211,
-    "wof:lastmodified":1449019903,
+    "wof:lastmodified":1467082243,
     "wof:name":"Meadow Prong Baptist Church",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.825107,34.036531,-79.825107,34.036531],
+  "bbox": [
+    -79.825107,
+    34.036531,
+    -79.825107,
+    34.036531
+],
   "geometry": {"coordinates":[-79.825107,34.036531],"type":"Point"}
 }

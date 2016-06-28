@@ -2,13 +2,14 @@
   "id": 370842059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.139227,33.971746,-81.139227,33.971746",
     "geom:latitude":33.971746,
     "geom:longitude":-81.139227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3823 Augusta Rd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370842059,
-    "wof:lastmodified":1449029333,
+    "wof:lastmodified":1467082303,
     "wof:name":"Chandler Custom Upholstering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-81.139227,33.971746,-81.139227,33.971746],
-  "geometry": {"coordinates":[-81.139227,33.971746],"type":"Point"}
+  "bbox": [
+    -81.139227,
+    33.971746,
+    -81.139227,
+    33.971746
+],
+  "geometry": {"coordinates":[-81.13922700000001,33.971746],"type":"Point"}
 }

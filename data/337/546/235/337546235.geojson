@@ -2,13 +2,14 @@
   "id": 337546235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.148435,34.207232,-82.148435,34.207232",
     "geom:latitude":34.207232,
     "geom:longitude":-82.148435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Reynolds Ave",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337546235,
-    "wof:lastmodified":1449026931,
+    "wof:lastmodified":1467082264,
     "wof:name":"Zion Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.148435,34.207232,-82.148435,34.207232],
-  "geometry": {"coordinates":[-82.148435,34.207232],"type":"Point"}
+  "bbox": [
+    -82.148435,
+    34.207232,
+    -82.148435,
+    34.207232
+],
+  "geometry": {"coordinates":[-82.14843500000001,34.207232],"type":"Point"}
 }

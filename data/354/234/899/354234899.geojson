@@ -2,13 +2,14 @@
   "id": 354234899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.937555,34.162686,-78.937555,34.162686",
     "geom:latitude":34.162686,
     "geom:longitude":-78.937555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 Church Rd",
     "sg:city":"Green Sea",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354234899,
-    "wof:lastmodified":1449067586,
+    "wof:lastmodified":1467082452,
     "wof:name":"Carolina Baptist Church",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.937555,34.162686,-78.937555,34.162686],
+  "bbox": [
+    -78.937555,
+    34.162686,
+    -78.937555,
+    34.162686
+],
   "geometry": {"coordinates":[-78.937555,34.162686],"type":"Point"}
 }

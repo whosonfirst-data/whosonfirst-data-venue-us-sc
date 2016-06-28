@@ -2,13 +2,14 @@
   "id": 370350547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.742534,33.575223,-81.742534,33.575223",
     "geom:latitude":33.575223,
     "geom:longitude":-81.742534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 Hampton Ave NW",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370350547,
-    "wof:lastmodified":1449030806,
+    "wof:lastmodified":1467082336,
     "wof:name":"Lock-N-Key",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parks"
     ]
 },
-  "bbox": [-81.742534,33.575223,-81.742534,33.575223],
-  "geometry": {"coordinates":[-81.742534,33.575223],"type":"Point"}
+  "bbox": [
+    -81.742534,
+    33.575223,
+    -81.742534,
+    33.575223
+],
+  "geometry": {"coordinates":[-81.74253400000001,33.575223],"type":"Point"}
 }

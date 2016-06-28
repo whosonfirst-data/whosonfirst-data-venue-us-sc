@@ -2,13 +2,14 @@
   "id": 370213013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.366639,34.842614,-82.366639,34.842614",
     "geom:latitude":34.842614,
     "geom:longitude":-82.366639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W Antrim Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370213013,
-    "wof:lastmodified":1449029105,
+    "wof:lastmodified":1467082299,
     "wof:name":"Commonwealth Laboratories Inc",
     "wof:parent_id":85836955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-82.366639,34.842614,-82.366639,34.842614],
-  "geometry": {"coordinates":[-82.366639,34.842614],"type":"Point"}
+  "bbox": [
+    -82.366639,
+    34.842614,
+    -82.366639,
+    34.842614
+],
+  "geometry": {"coordinates":[-82.36663900000001,34.842614],"type":"Point"}
 }

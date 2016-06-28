@@ -2,13 +2,14 @@
   "id": 370449203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.943729,33.816131,-78.943729,33.816131",
     "geom:latitude":33.816131,
     "geom:longitude":-78.943729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 Old Altman Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370449203,
-    "wof:lastmodified":1449032219,
+    "wof:lastmodified":1467082368,
     "wof:name":"Atlantic Coast Converters",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-78.943729,33.816131,-78.943729,33.816131],
+  "bbox": [
+    -78.943729,
+    33.816131,
+    -78.943729,
+    33.816131
+],
   "geometry": {"coordinates":[-78.943729,33.816131],"type":"Point"}
 }

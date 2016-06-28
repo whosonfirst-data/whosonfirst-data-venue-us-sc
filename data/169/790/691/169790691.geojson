@@ -2,13 +2,14 @@
   "id": 169790691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.816159,33.250127,-80.816159,33.250127",
     "geom:latitude":33.250127,
     "geom:longitude":-80.816159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7621 Freedom Rd",
     "sg:city":"Branchville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169790691,
-    "wof:lastmodified":1449035188,
+    "wof:lastmodified":1467082385,
     "wof:name":"China Town",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.816159,33.250127,-80.816159,33.250127],
+  "bbox": [
+    -80.816159,
+    33.250127,
+    -80.816159,
+    33.250127
+],
   "geometry": {"coordinates":[-80.816159,33.250127],"type":"Point"}
 }

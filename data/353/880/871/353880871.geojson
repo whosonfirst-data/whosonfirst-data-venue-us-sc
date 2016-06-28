@@ -2,13 +2,14 @@
   "id": 353880871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.422922,34.768593,-82.422922,34.768593",
     "geom:latitude":34.768593,
     "geom:longitude":-82.422922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Gayle St",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353880871,
-    "wof:lastmodified":1449020824,
+    "wof:lastmodified":1467082262,
     "wof:name":"Swartz & Assoc Inc",
     "wof:parent_id":85810381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.422922,34.768593,-82.422922,34.768593],
+  "bbox": [
+    -82.422922,
+    34.768593,
+    -82.422922,
+    34.768593
+],
   "geometry": {"coordinates":[-82.422922,34.768593],"type":"Point"}
 }

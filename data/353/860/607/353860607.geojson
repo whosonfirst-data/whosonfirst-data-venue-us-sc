@@ -2,13 +2,14 @@
   "id": 353860607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.922123,35.002265,-81.922123,35.002265",
     "geom:latitude":35.002265,
     "geom:longitude":-81.922123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Herald Journal Blvd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353860607,
-    "wof:lastmodified":1449019391,
+    "wof:lastmodified":1467082233,
     "wof:name":"Radici USA Inc",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-81.922123,35.002265,-81.922123,35.002265],
+  "bbox": [
+    -81.922123,
+    35.002265,
+    -81.922123,
+    35.002265
+],
   "geometry": {"coordinates":[-81.922123,35.002265],"type":"Point"}
 }

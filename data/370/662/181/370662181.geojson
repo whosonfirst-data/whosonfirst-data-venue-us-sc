@@ -2,13 +2,14 @@
   "id": 370662181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.102505,33.893724,-81.102505,33.893724",
     "geom:latitude":33.893724,
     "geom:longitude":-81.102505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Floyd St",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370662181,
-    "wof:lastmodified":1449031369,
+    "wof:lastmodified":1467082349,
     "wof:name":"Roccos Deli",
     "wof:parent_id":85847855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.102505,33.893724,-81.102505,33.893724],
-  "geometry": {"coordinates":[-81.102505,33.893724],"type":"Point"}
+  "bbox": [
+    -81.102505,
+    33.893724,
+    -81.102505,
+    33.893724
+],
+  "geometry": {"coordinates":[-81.10250499999999,33.893724],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370951421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.719731,34.540164,-82.719731,34.540164",
     "geom:latitude":34.540164,
     "geom:longitude":-82.719731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3903 Dixon Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370951421,
-    "wof:lastmodified":1449029221,
+    "wof:lastmodified":1467082301,
     "wof:name":"Parkwood Baptist Church",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.719731,34.540164,-82.719731,34.540164],
+  "bbox": [
+    -82.719731,
+    34.540164,
+    -82.719731,
+    34.540164
+],
   "geometry": {"coordinates":[-82.719731,34.540164],"type":"Point"}
 }

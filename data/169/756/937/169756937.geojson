@@ -2,13 +2,14 @@
   "id": 169756937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.70971,33.521767,-81.70971,33.521767",
     "geom:latitude":33.521767,
     "geom:longitude":-81.70971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3007 Roses Run",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169756937,
-    "wof:lastmodified":1449034660,
+    "wof:lastmodified":1467082384,
     "wof:name":"Oakwood Corp Housing",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-81.70971,33.521767,-81.70971,33.521767],
+  "bbox": [
+    -81.70971,
+    33.521767,
+    -81.70971,
+    33.521767
+],
   "geometry": {"coordinates":[-81.70971,33.521767],"type":"Point"}
 }

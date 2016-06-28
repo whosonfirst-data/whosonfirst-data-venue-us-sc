@@ -2,13 +2,14 @@
   "id": 353821305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.987107,34.015402,-80.987107,34.015402",
     "geom:latitude":34.015402,
     "geom:longitude":-80.987107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 N Belt Line Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353821305,
-    "wof:lastmodified":1449019649,
+    "wof:lastmodified":1467082238,
     "wof:name":"Shelley's Vending Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.987107,34.015402,-80.987107,34.015402],
-  "geometry": {"coordinates":[-80.987107,34.015402],"type":"Point"}
+  "bbox": [
+    -80.987107,
+    34.015402,
+    -80.987107,
+    34.015402
+],
+  "geometry": {"coordinates":[-80.98710699999999,34.015402],"type":"Point"}
 }

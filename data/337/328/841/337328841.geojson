@@ -2,13 +2,14 @@
   "id": 337328841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.778546,32.845954,-80.778546,32.845954",
     "geom:latitude":32.845954,
     "geom:longitude":-80.778546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4983 Cane Branch Rd",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":337328841,
-    "wof:lastmodified":1449027424,
+    "wof:lastmodified":1467082283,
     "wof:name":"Southwind Carpet & Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "carpet"
     ]
 },
-  "bbox": [-80.778546,32.845954,-80.778546,32.845954],
-  "geometry": {"coordinates":[-80.778546,32.845954],"type":"Point"}
+  "bbox": [
+    -80.778546,
+    32.845954,
+    -80.778546,
+    32.845954
+],
+  "geometry": {"coordinates":[-80.77854600000001,32.845954],"type":"Point"}
 }

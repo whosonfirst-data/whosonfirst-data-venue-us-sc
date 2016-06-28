@@ -2,13 +2,14 @@
   "id": 353902807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.583784,34.547618,-80.583784,34.547618",
     "geom:latitude":34.547618,
     "geom:longitude":-80.583784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 W Marion St",
     "sg:city":"Kershaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353902807,
-    "wof:lastmodified":1449020139,
+    "wof:lastmodified":1467082248,
     "wof:name":"Thomas Drug Store Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.583784,34.547618,-80.583784,34.547618],
-  "geometry": {"coordinates":[-80.583784,34.547618],"type":"Point"}
+  "bbox": [
+    -80.583784,
+    34.547618,
+    -80.583784,
+    34.547618
+],
+  "geometry": {"coordinates":[-80.58378399999999,34.547618],"type":"Point"}
 }

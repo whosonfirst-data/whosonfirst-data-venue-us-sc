@@ -2,13 +2,14 @@
   "id": 354029683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.818689,33.666672,-79.818689,33.666672",
     "geom:latitude":33.666672,
     "geom:longitude":-79.818689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 E Main St",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354029683,
-    "wof:lastmodified":1449066641,
+    "wof:lastmodified":1467082431,
     "wof:name":"East Main Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.818689,33.666672,-79.818689,33.666672],
-  "geometry": {"coordinates":[-79.818689,33.666672],"type":"Point"}
+  "bbox": [
+    -79.818689,
+    33.666672,
+    -79.818689,
+    33.666672
+],
+  "geometry": {"coordinates":[-79.81868900000001,33.666672],"type":"Point"}
 }

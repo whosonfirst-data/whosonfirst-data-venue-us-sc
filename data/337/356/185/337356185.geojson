@@ -2,13 +2,14 @@
   "id": 337356185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.096443,34.041302,-81.096443,34.041302",
     "geom:latitude":34.041302,
     "geom:longitude":-81.096443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2341 Broad River Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337356185,
-    "wof:lastmodified":1449027598,
+    "wof:lastmodified":1467082290,
     "wof:name":"Performance Automotive Svc Ctr",
     "wof:parent_id":85845041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brake"
     ]
 },
-  "bbox": [-81.096443,34.041302,-81.096443,34.041302],
-  "geometry": {"coordinates":[-81.096443,34.041302],"type":"Point"}
+  "bbox": [
+    -81.096443,
+    34.041302,
+    -81.096443,
+    34.041302
+],
+  "geometry": {"coordinates":[-81.09644299999999,34.041302],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185618263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.118308,33.925132,-81.118308,33.925132",
     "geom:latitude":33.925132,
     "geom:longitude":-81.118308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1467 Old Dunbar Rd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185618263,
-    "wof:lastmodified":1449007610,
+    "wof:lastmodified":1467082198,
     "wof:name":"Palmetto Scales Svc Inc",
     "wof:parent_id":85847855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scale"
     ]
 },
-  "bbox": [-81.118308,33.925132,-81.118308,33.925132],
+  "bbox": [
+    -81.118308,
+    33.925132,
+    -81.118308,
+    33.925132
+],
   "geometry": {"coordinates":[-81.118308,33.925132],"type":"Point"}
 }

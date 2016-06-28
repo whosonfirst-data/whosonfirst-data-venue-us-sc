@@ -2,13 +2,14 @@
   "id": 337348533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.645912,34.704346,-81.645912,34.704346",
     "geom:latitude":34.704346,
     "geom:longitude":-81.645912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 Cross Keys Hwy",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337348533,
-    "wof:lastmodified":1449026970,
+    "wof:lastmodified":1467082266,
     "wof:name":"Mc Beth Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.645912,34.704346,-81.645912,34.704346],
+  "bbox": [
+    -81.645912,
+    34.704346,
+    -81.645912,
+    34.704346
+],
   "geometry": {"coordinates":[-81.645912,34.704346],"type":"Point"}
 }

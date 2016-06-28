@@ -2,13 +2,14 @@
   "id": 186049777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.00567,35.023724,-82.00567,35.023724",
     "geom:latitude":35.023724,
     "geom:longitude":-82.00567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"491 Belcher Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186049777,
-    "wof:lastmodified":1449051706,
+    "wof:lastmodified":1467082400,
     "wof:name":"Equipment Plus",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-82.00567,35.023724,-82.00567,35.023724],
-  "geometry": {"coordinates":[-82.00567,35.023724],"type":"Point"}
+  "bbox": [
+    -82.00567,
+    35.023724,
+    -82.00567,
+    35.023724
+],
+  "geometry": {"coordinates":[-82.00566999999999,35.023724],"type":"Point"}
 }

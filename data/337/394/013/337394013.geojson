@@ -2,13 +2,14 @@
   "id": 337394013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.744544,34.155415,-79.744544,34.155415",
     "geom:latitude":34.155415,
     "geom:longitude":-79.744544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 Pamplico Hwy",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337394013,
-    "wof:lastmodified":1449027079,
+    "wof:lastmodified":1467082270,
     "wof:name":"Southside Brake & Muffler",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brake"
     ]
 },
-  "bbox": [-79.744544,34.155415,-79.744544,34.155415],
+  "bbox": [
+    -79.744544,
+    34.155415,
+    -79.744544,
+    34.155415
+],
   "geometry": {"coordinates":[-79.744544,34.155415],"type":"Point"}
 }

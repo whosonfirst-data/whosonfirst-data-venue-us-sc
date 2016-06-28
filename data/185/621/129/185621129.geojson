@@ -2,13 +2,14 @@
   "id": 185621129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.139338,33.791877,-79.139338,33.791877",
     "geom:latitude":33.791877,
     "geom:longitude":-79.139338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4788 Quiet Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185621129,
-    "wof:lastmodified":1449008034,
+    "wof:lastmodified":1467082204,
     "wof:name":"MSC Contract Painting",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-79.139338,33.791877,-79.139338,33.791877],
+  "bbox": [
+    -79.139338,
+    33.791877,
+    -79.139338,
+    33.791877
+],
   "geometry": {"coordinates":[-79.139338,33.791877],"type":"Point"}
 }

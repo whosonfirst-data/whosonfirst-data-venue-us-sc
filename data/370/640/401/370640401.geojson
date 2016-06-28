@@ -2,13 +2,14 @@
   "id": 370640401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.999168,32.861329,-79.999168,32.861329",
     "geom:latitude":32.861329,
     "geom:longitude":-79.999168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2707 Clarkin Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370640401,
-    "wof:lastmodified":1449030561,
+    "wof:lastmodified":1467082331,
     "wof:name":"C M Creations",
     "wof:parent_id":85807225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-79.999168,32.861329,-79.999168,32.861329],
+  "bbox": [
+    -79.999168,
+    32.861329,
+    -79.999168,
+    32.861329
+],
   "geometry": {"coordinates":[-79.999168,32.861329],"type":"Point"}
 }

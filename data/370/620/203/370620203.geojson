@@ -2,13 +2,14 @@
   "id": 370620203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.601008,34.805752,-80.601008,34.805752",
     "geom:latitude":34.805752,
     "geom:longitude":-80.601008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3150 George Carnes Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370620203,
-    "wof:lastmodified":1449032185,
+    "wof:lastmodified":1467082367,
     "wof:name":"Total Coverage Spray Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-80.601008,34.805752,-80.601008,34.805752],
-  "geometry": {"coordinates":[-80.601008,34.805752],"type":"Point"}
+  "bbox": [
+    -80.601008,
+    34.805752,
+    -80.601008,
+    34.805752
+],
+  "geometry": {"coordinates":[-80.60100799999999,34.805752],"type":"Point"}
 }

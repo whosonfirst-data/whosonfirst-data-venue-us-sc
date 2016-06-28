@@ -2,13 +2,14 @@
   "id": 337394325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.64772,34.485886,-82.64772,34.485886",
     "geom:latitude":34.485886,
     "geom:longitude":-82.64772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 S Main St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337394325,
-    "wof:lastmodified":1449027076,
+    "wof:lastmodified":1467082270,
     "wof:name":"Camellia Courts LTD",
     "wof:parent_id":85831829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.64772,34.485886,-82.64772,34.485886],
-  "geometry": {"coordinates":[-82.64772,34.485886],"type":"Point"}
+  "bbox": [
+    -82.64772,
+    34.485886,
+    -82.64772,
+    34.485886
+],
+  "geometry": {"coordinates":[-82.64772000000001,34.485886],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370626397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.441221,34.965623,-82.441221,34.965623",
     "geom:latitude":34.965623,
     "geom:longitude":-82.441221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 S Main St",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370626397,
-    "wof:lastmodified":1449032471,
+    "wof:lastmodified":1467082373,
     "wof:name":"North Greenville Baptist Assn",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.441221,34.965623,-82.441221,34.965623],
+  "bbox": [
+    -82.441221,
+    34.965623,
+    -82.441221,
+    34.965623
+],
   "geometry": {"coordinates":[-82.441221,34.965623],"type":"Point"}
 }

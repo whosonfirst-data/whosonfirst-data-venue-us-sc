@@ -2,13 +2,14 @@
   "id": 337306335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.988796,33.689609,-78.988796,33.689609",
     "geom:latitude":33.689609,
     "geom:longitude":-78.988796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 Shem Creek Cir",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337306335,
-    "wof:lastmodified":1449027709,
+    "wof:lastmodified":1467082294,
     "wof:name":"Pool Services Corp",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "swimming"
     ]
 },
-  "bbox": [-78.988796,33.689609,-78.988796,33.689609],
-  "geometry": {"coordinates":[-78.988796,33.689609],"type":"Point"}
+  "bbox": [
+    -78.988796,
+    33.689609,
+    -78.988796,
+    33.689609
+],
+  "geometry": {"coordinates":[-78.98879599999999,33.689609],"type":"Point"}
 }

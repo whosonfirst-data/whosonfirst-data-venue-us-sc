@@ -2,13 +2,14 @@
   "id": 370436735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.355441,34.162848,-81.355441,34.162848",
     "geom:latitude":34.162848,
     "geom:longitude":-81.355441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Amicks Ferry Rd",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370436735,
-    "wof:lastmodified":1449032152,
+    "wof:lastmodified":1467082366,
     "wof:name":"Chapin Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-81.355441,34.162848,-81.355441,34.162848],
+  "bbox": [
+    -81.355441,
+    34.162848,
+    -81.355441,
+    34.162848
+],
   "geometry": {"coordinates":[-81.355441,34.162848],"type":"Point"}
 }

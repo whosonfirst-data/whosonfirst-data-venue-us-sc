@@ -2,13 +2,14 @@
   "id": 370155113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.242121,34.247991,-82.242121,34.247991",
     "geom:latitude":34.247991,
     "geom:longitude":-82.242121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Flatwood Rd",
     "sg:city":"Hodges",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370155113,
-    "wof:lastmodified":1449031884,
+    "wof:lastmodified":1467082360,
     "wof:name":"Walden Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.242121,34.247991,-82.242121,34.247991],
+  "bbox": [
+    -82.242121,
+    34.247991,
+    -82.242121,
+    34.247991
+],
   "geometry": {"coordinates":[-82.242121,34.247991],"type":"Point"}
 }

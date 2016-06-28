@@ -2,13 +2,14 @@
   "id": 185972081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.962945,33.428586,-79.962945,33.428586",
     "geom:latitude":33.428586,
     "geom:longitude":-79.962945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4513 US Hwy 52",
     "sg:city":"St Stephen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185972081,
-    "wof:lastmodified":1449007439,
+    "wof:lastmodified":1467082195,
     "wof:name":"Garden Of Prayer",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.962945,33.428586,-79.962945,33.428586],
+  "bbox": [
+    -79.962945,
+    33.428586,
+    -79.962945,
+    33.428586
+],
   "geometry": {"coordinates":[-79.962945,33.428586],"type":"Point"}
 }

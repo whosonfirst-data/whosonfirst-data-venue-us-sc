@@ -2,13 +2,14 @@
   "id": 169795925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.830903,34.176097,-79.830903,34.176097",
     "geom:latitude":34.176097,
     "geom:longitude":-79.830903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2803 W Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169795925,
-    "wof:lastmodified":1449034642,
+    "wof:lastmodified":1467082384,
     "wof:name":"Kim's Pet Grooming Ctr",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-79.830903,34.176097,-79.830903,34.176097],
-  "geometry": {"coordinates":[-79.830903,34.176097],"type":"Point"}
+  "bbox": [
+    -79.830903,
+    34.176097,
+    -79.830903,
+    34.176097
+],
+  "geometry": {"coordinates":[-79.83090300000001,34.176097],"type":"Point"}
 }

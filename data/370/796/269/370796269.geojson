@@ -2,13 +2,14 @@
   "id": 370796269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.889011,32.279338,-80.889011,32.279338",
     "geom:latitude":32.279338,
     "geom:longitude":-80.889011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Pipers Pond",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370796269,
-    "wof:lastmodified":1449030689,
+    "wof:lastmodified":1467082333,
     "wof:name":"Southern Hospitality",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-80.889011,32.279338,-80.889011,32.279338],
+  "bbox": [
+    -80.889011,
+    32.279338,
+    -80.889011,
+    32.279338
+],
   "geometry": {"coordinates":[-80.889011,32.279338],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354113387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.341956,33.918502,-80.341956,33.918502",
     "geom:latitude":33.918502,
     "geom:longitude":-80.341956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 S Main St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354113387,
-    "wof:lastmodified":1449067523,
+    "wof:lastmodified":1467082451,
     "wof:name":"Mathis Photographer Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-80.341956,33.918502,-80.341956,33.918502],
+  "bbox": [
+    -80.341956,
+    33.918502,
+    -80.341956,
+    33.918502
+],
   "geometry": {"coordinates":[-80.341956,33.918502],"type":"Point"}
 }

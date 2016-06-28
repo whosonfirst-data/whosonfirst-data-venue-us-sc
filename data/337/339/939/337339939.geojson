@@ -2,13 +2,14 @@
   "id": 337339939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.954971,32.798262,-79.954971,32.798262",
     "geom:latitude":32.798262,
     "geom:longitude":-79.954971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Moultrie St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337339939,
-    "wof:lastmodified":1449027302,
+    "wof:lastmodified":1467082279,
     "wof:name":"Mike's Video Inc",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.954971,32.798262,-79.954971,32.798262],
+  "bbox": [
+    -79.954971,
+    32.798262,
+    -79.954971,
+    32.798262
+],
   "geometry": {"coordinates":[-79.954971,32.798262],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354220725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.466589,34.700626,-82.466589,34.700626",
     "geom:latitude":34.700626,
     "geom:longitude":-82.466589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Anderson St",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354220725,
-    "wof:lastmodified":1449067612,
+    "wof:lastmodified":1467082453,
     "wof:name":"Buffamoyer Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casualty"
     ]
 },
-  "bbox": [-82.466589,34.700626,-82.466589,34.700626],
+  "bbox": [
+    -82.466589,
+    34.700626,
+    -82.466589,
+    34.700626
+],
   "geometry": {"coordinates":[-82.466589,34.700626],"type":"Point"}
 }

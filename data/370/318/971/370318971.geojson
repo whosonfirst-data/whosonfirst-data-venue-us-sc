@@ -2,13 +2,14 @@
   "id": 370318971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.876643,32.787283,-79.876643,32.787283",
     "geom:latitude":32.787283,
     "geom:longitude":-79.876643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Pitt St",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370318971,
-    "wof:lastmodified":1449029846,
+    "wof:lastmodified":1467082315,
     "wof:name":"Stuart M Saunders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-79.876643,32.787283,-79.876643,32.787283],
+  "bbox": [
+    -79.876643,
+    32.787283,
+    -79.876643,
+    32.787283
+],
   "geometry": {"coordinates":[-79.876643,32.787283],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337310749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.057724,34.24301,-79.057724,34.24301",
     "geom:latitude":34.24301,
     "geom:longitude":-79.057724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6401 US Hwy 76",
     "sg:city":"Nichols",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337310749,
-    "wof:lastmodified":1449027451,
+    "wof:lastmodified":1467082284,
     "wof:name":"Bailey & Bailey Swine Farm",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-79.057724,34.24301,-79.057724,34.24301],
-  "geometry": {"coordinates":[-79.057724,34.24301],"type":"Point"}
+  "bbox": [
+    -79.057724,
+    34.24301,
+    -79.057724,
+    34.24301
+],
+  "geometry": {"coordinates":[-79.05772399999999,34.24301],"type":"Point"}
 }

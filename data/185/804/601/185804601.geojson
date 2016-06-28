@@ -2,13 +2,14 @@
   "id": 185804601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.09353,34.034255,-81.09353,34.034255",
     "geom:latitude":34.034255,
     "geom:longitude":-81.09353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Dutch Square Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185804601,
-    "wof:lastmodified":1449007709,
+    "wof:lastmodified":1467082199,
     "wof:name":"Motion Forward Technology",
     "wof:parent_id":85845041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "design"
     ]
 },
-  "bbox": [-81.09353,34.034255,-81.09353,34.034255],
+  "bbox": [
+    -81.09353,
+    34.034255,
+    -81.09353,
+    34.034255
+],
   "geometry": {"coordinates":[-81.09353,34.034255],"type":"Point"}
 }

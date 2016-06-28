@@ -2,13 +2,14 @@
   "id": 185680949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.998066,33.316547,-79.998066,33.316547",
     "geom:latitude":33.316547,
     "geom:longitude":-79.998066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Butter Rd",
     "sg:city":"Bonneau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185680949,
-    "wof:lastmodified":1449007725,
+    "wof:lastmodified":1467082199,
     "wof:name":"Coastal Lawn Service",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.998066,33.316547,-79.998066,33.316547],
-  "geometry": {"coordinates":[-79.998066,33.316547],"type":"Point"}
+  "bbox": [
+    -79.998066,
+    33.316547,
+    -79.998066,
+    33.316547
+],
+  "geometry": {"coordinates":[-79.99806599999999,33.316547],"type":"Point"}
 }

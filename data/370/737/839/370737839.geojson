@@ -2,13 +2,14 @@
   "id": 370737839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.427244,34.780491,-82.427244,34.780491",
     "geom:latitude":34.780491,
     "geom:longitude":-82.427244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Oakvale Dr",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370737839,
-    "wof:lastmodified":1449029854,
+    "wof:lastmodified":1467082315,
     "wof:name":"David Bolden",
     "wof:parent_id":85810381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.427244,34.780491,-82.427244,34.780491],
+  "bbox": [
+    -82.427244,
+    34.780491,
+    -82.427244,
+    34.780491
+],
   "geometry": {"coordinates":[-82.427244,34.780491],"type":"Point"}
 }

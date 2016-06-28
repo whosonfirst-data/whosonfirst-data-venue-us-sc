@@ -2,13 +2,14 @@
   "id": 186170083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.729051,34.08904,-79.729051,34.08904",
     "geom:latitude":34.08904,
     "geom:longitude":-79.729051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4902 Pine Oak Rd",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186170083,
-    "wof:lastmodified":1449050489,
+    "wof:lastmodified":1467082390,
     "wof:name":"Craig's Photography",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-79.729051,34.08904,-79.729051,34.08904],
+  "bbox": [
+    -79.729051,
+    34.08904,
+    -79.729051,
+    34.08904
+],
   "geometry": {"coordinates":[-79.729051,34.08904],"type":"Point"}
 }

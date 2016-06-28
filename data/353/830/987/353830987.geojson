@@ -2,13 +2,14 @@
   "id": 353830987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.003949,34.956267,-82.003949,34.956267",
     "geom:latitude":34.956267,
     "geom:longitude":-82.003949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2245 Hayne St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353830987,
-    "wof:lastmodified":1449018808,
+    "wof:lastmodified":1467082221,
     "wof:name":"Reds Grille",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.003949,34.956267,-82.003949,34.956267],
-  "geometry": {"coordinates":[-82.003949,34.956267],"type":"Point"}
+  "bbox": [
+    -82.003949,
+    34.956267,
+    -82.003949,
+    34.956267
+],
+  "geometry": {"coordinates":[-82.00394900000001,34.956267],"type":"Point"}
 }

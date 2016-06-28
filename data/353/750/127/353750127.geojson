@@ -2,13 +2,14 @@
   "id": 353750127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.019291,32.819727,-80.019291,32.819727",
     "geom:latitude":32.819727,
     "geom:longitude":-80.019291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Captiva Row",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353750127,
-    "wof:lastmodified":1449019826,
+    "wof:lastmodified":1467082242,
     "wof:name":"AAAH Charleston Wedding",
     "wof:parent_id":85837901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [-80.019291,32.819727,-80.019291,32.819727],
+  "bbox": [
+    -80.019291,
+    32.819727,
+    -80.019291,
+    32.819727
+],
   "geometry": {"coordinates":[-80.019291,32.819727],"type":"Point"}
 }

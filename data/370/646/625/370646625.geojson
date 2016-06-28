@@ -2,13 +2,14 @@
   "id": 370646625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.112641,34.004176,-81.112641,34.004176",
     "geom:latitude":34.004176,
     "geom:longitude":-81.112641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Medical Cir",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370646625,
-    "wof:lastmodified":1449028983,
+    "wof:lastmodified":1467082296,
     "wof:name":"Carolina Eye Ctr",
     "wof:parent_id":85857097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.112641,34.004176,-81.112641,34.004176],
+  "bbox": [
+    -81.112641,
+    34.004176,
+    -81.112641,
+    34.004176
+],
   "geometry": {"coordinates":[-81.112641,34.004176],"type":"Point"}
 }

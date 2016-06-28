@@ -2,13 +2,14 @@
   "id": 337482593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.835413,32.851975,-79.835413,32.851975",
     "geom:latitude":32.851975,
     "geom:longitude":-79.835413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Arundel Pl",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337482593,
-    "wof:lastmodified":1449027231,
+    "wof:lastmodified":1467082276,
     "wof:name":"Harrington Plumbing Inc",
     "wof:parent_id":85840345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.835413,32.851975,-79.835413,32.851975],
+  "bbox": [
+    -79.835413,
+    32.851975,
+    -79.835413,
+    32.851975
+],
   "geometry": {"coordinates":[-79.835413,32.851975],"type":"Point"}
 }

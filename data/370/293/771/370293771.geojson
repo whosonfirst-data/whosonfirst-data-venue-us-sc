@@ -2,13 +2,14 @@
   "id": 370293771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.324722,34.875445,-82.324722,34.875445",
     "geom:latitude":34.875445,
     "geom:longitude":-82.324722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 E North St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370293771,
-    "wof:lastmodified":1449029757,
+    "wof:lastmodified":1467082313,
     "wof:name":"Kittel Transport",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.324722,34.875445,-82.324722,34.875445],
-  "geometry": {"coordinates":[-82.324722,34.875445],"type":"Point"}
+  "bbox": [
+    -82.324722,
+    34.875445,
+    -82.324722,
+    34.875445
+],
+  "geometry": {"coordinates":[-82.32472199999999,34.875445],"type":"Point"}
 }

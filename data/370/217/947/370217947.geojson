@@ -2,13 +2,14 @@
   "id": 370217947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.205011,34.405418,-82.205011,34.405418",
     "geom:latitude":34.405418,
     "geom:longitude":-82.205011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13284 Indian Mound Rd",
     "sg:city":"Ware Shoals",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370217947,
-    "wof:lastmodified":1449032265,
+    "wof:lastmodified":1467082369,
     "wof:name":"Christian Hope Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.205011,34.405418,-82.205011,34.405418],
+  "bbox": [
+    -82.205011,
+    34.405418,
+    -82.205011,
+    34.405418
+],
   "geometry": {"coordinates":[-82.205011,34.405418],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353794933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.718851,33.810241,-78.718851,33.810241",
     "geom:latitude":33.810241,
     "geom:longitude":-78.718851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2812 Airport Blvd",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353794933,
-    "wof:lastmodified":1449019489,
+    "wof:lastmodified":1467082235,
     "wof:name":"North Strand Mechanical Inc",
     "wof:parent_id":85852275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.718851,33.810241,-78.718851,33.810241],
+  "bbox": [
+    -78.718851,
+    33.810241,
+    -78.718851,
+    33.810241
+],
   "geometry": {"coordinates":[-78.718851,33.810241],"type":"Point"}
 }

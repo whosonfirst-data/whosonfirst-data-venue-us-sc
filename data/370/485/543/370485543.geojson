@@ -2,13 +2,14 @@
   "id": 370485543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.205784,35.105246,-81.205784,35.105246",
     "geom:latitude":35.105246,
     "geom:longitude":-81.205784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"983 Bethel St",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370485543,
-    "wof:lastmodified":1449031147,
+    "wof:lastmodified":1467082343,
     "wof:name":"Green Pond United Methodist",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.205784,35.105246,-81.205784,35.105246],
-  "geometry": {"coordinates":[-81.205784,35.105246],"type":"Point"}
+  "bbox": [
+    -81.205784,
+    35.105246,
+    -81.205784,
+    35.105246
+],
+  "geometry": {"coordinates":[-81.20578399999999,35.105246],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353791273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.58321,34.547786,-80.58321,34.547786",
     "geom:latitude":34.547786,
     "geom:longitude":-80.58321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Cleveland St",
     "sg:city":"Kershaw",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353791273,
-    "wof:lastmodified":1449020231,
+    "wof:lastmodified":1467082250,
     "wof:name":"WRHM Radio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-80.58321,34.547786,-80.58321,34.547786],
-  "geometry": {"coordinates":[-80.58321,34.547786],"type":"Point"}
+  "bbox": [
+    -80.58321,
+    34.547786,
+    -80.58321,
+    34.547786
+],
+  "geometry": {"coordinates":[-80.58320999999999,34.547786],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353808805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.038766,32.969127,-80.038766,32.969127",
     "geom:latitude":32.969127,
     "geom:longitude":-80.038766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Otranto Club Cir",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353808805,
-    "wof:lastmodified":1449018362,
+    "wof:lastmodified":1467082212,
     "wof:name":"Veras Macrame",
     "wof:parent_id":85852091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.038766,32.969127,-80.038766,32.969127],
+  "bbox": [
+    -80.038766,
+    32.969127,
+    -80.038766,
+    32.969127
+],
   "geometry": {"coordinates":[-80.038766,32.969127],"type":"Point"}
 }

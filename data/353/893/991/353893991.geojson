@@ -2,13 +2,14 @@
   "id": 353893991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.101953,33.817519,-81.101953,33.817519",
     "geom:latitude":33.817519,
     "geom:longitude":-81.101953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1166 Mack St",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353893991,
-    "wof:lastmodified":1449020346,
+    "wof:lastmodified":1467082252,
     "wof:name":"Gaston Rural Water District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-81.101953,33.817519,-81.101953,33.817519],
-  "geometry": {"coordinates":[-81.101953,33.817519],"type":"Point"}
+  "bbox": [
+    -81.101953,
+    33.817519,
+    -81.101953,
+    33.817519
+],
+  "geometry": {"coordinates":[-81.10195299999999,33.817519],"type":"Point"}
 }

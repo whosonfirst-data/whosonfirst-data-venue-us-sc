@@ -2,13 +2,14 @@
   "id": 185724681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.933031,34.891352,-81.933031,34.891352",
     "geom:latitude":34.891352,
     "geom:longitude":-81.933031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Old Canaan Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185724681,
-    "wof:lastmodified":1449008154,
+    "wof:lastmodified":1467082206,
     "wof:name":"Old Canaan Road Soccer Complex",
     "wof:parent_id":85828171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.933031,34.891352,-81.933031,34.891352],
+  "bbox": [
+    -81.933031,
+    34.891352,
+    -81.933031,
+    34.891352
+],
   "geometry": {"coordinates":[-81.933031,34.891352],"type":"Point"}
 }

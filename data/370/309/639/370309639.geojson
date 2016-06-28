@@ -2,13 +2,14 @@
   "id": 370309639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.07094,34.94035,-81.07094,34.94035",
     "geom:latitude":34.94035,
     "geom:longitude":-81.07094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1065 Pinecrest Dr",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370309639,
-    "wof:lastmodified":1449029852,
+    "wof:lastmodified":1467082315,
     "wof:name":"Pool Solutions",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "swimming"
     ]
 },
-  "bbox": [-81.07094,34.94035,-81.07094,34.94035],
-  "geometry": {"coordinates":[-81.07094,34.94035],"type":"Point"}
+  "bbox": [
+    -81.07094,
+    34.94035,
+    -81.07094,
+    34.94035
+],
+  "geometry": {"coordinates":[-81.07093999999999,34.94035],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186251905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.961316,33.630271,-78.961316,33.630271",
     "geom:latitude":33.630271,
     "geom:longitude":-78.961316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5920 S Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186251905,
-    "wof:lastmodified":1449050313,
+    "wof:lastmodified":1467082389,
     "wof:name":"Cow Store",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cream"
     ]
 },
-  "bbox": [-78.961316,33.630271,-78.961316,33.630271],
+  "bbox": [
+    -78.961316,
+    33.630271,
+    -78.961316,
+    33.630271
+],
   "geometry": {"coordinates":[-78.961316,33.630271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353653295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.031556,34.94408,-81.031556,34.94408",
     "geom:latitude":34.94408,
     "geom:longitude":-81.031556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1062 Oakland Ave",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353653295,
-    "wof:lastmodified":1449018441,
+    "wof:lastmodified":1467082214,
     "wof:name":"Home Builders Assn",
     "wof:parent_id":85847885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.031556,34.94408,-81.031556,34.94408],
-  "geometry": {"coordinates":[-81.031556,34.94408],"type":"Point"}
+  "bbox": [
+    -81.031556,
+    34.94408,
+    -81.031556,
+    34.94408
+],
+  "geometry": {"coordinates":[-81.03155599999999,34.94408],"type":"Point"}
 }

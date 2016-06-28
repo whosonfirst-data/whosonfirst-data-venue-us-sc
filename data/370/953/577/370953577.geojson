@@ -2,13 +2,14 @@
   "id": 370953577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.160534,34.198246,-82.160534,34.198246",
     "geom:latitude":34.198246,
     "geom:longitude":-82.160534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 State Hwy 72 Bus",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370953577,
-    "wof:lastmodified":1449031416,
+    "wof:lastmodified":1467082350,
     "wof:name":"Talon Communications Inc",
     "wof:parent_id":85850887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-82.160534,34.198246,-82.160534,34.198246],
+  "bbox": [
+    -82.160534,
+    34.198246,
+    -82.160534,
+    34.198246
+],
   "geometry": {"coordinates":[-82.160534,34.198246],"type":"Point"}
 }

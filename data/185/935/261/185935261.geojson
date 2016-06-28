@@ -2,13 +2,14 @@
   "id": 185935261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.710777,34.723063,-80.710777,34.723063",
     "geom:latitude":34.723063,
     "geom:longitude":-80.710777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2157 Pageland Hwy",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185935261,
-    "wof:lastmodified":1449007944,
+    "wof:lastmodified":1467082203,
     "wof:name":"Hughes Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.710777,34.723063,-80.710777,34.723063],
-  "geometry": {"coordinates":[-80.710777,34.723063],"type":"Point"}
+  "bbox": [
+    -80.710777,
+    34.723063,
+    -80.710777,
+    34.723063
+],
+  "geometry": {"coordinates":[-80.71077699999999,34.723063],"type":"Point"}
 }

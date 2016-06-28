@@ -2,13 +2,14 @@
   "id": 370588049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.64463,34.480738,-82.64463,34.480738",
     "geom:latitude":34.480738,
     "geom:longitude":-82.64463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Shockley Ferry Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370588049,
-    "wof:lastmodified":1449031813,
+    "wof:lastmodified":1467082359,
     "wof:name":"Taz Recovery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repossessing"
     ]
 },
-  "bbox": [-82.64463,34.480738,-82.64463,34.480738],
-  "geometry": {"coordinates":[-82.64463,34.480738],"type":"Point"}
+  "bbox": [
+    -82.64463,
+    34.480738,
+    -82.64463,
+    34.480738
+],
+  "geometry": {"coordinates":[-82.64463000000001,34.480738],"type":"Point"}
 }

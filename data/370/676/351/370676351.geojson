@@ -2,13 +2,14 @@
   "id": 370676351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.47148,34.994886,-82.47148,34.994886",
     "geom:latitude":34.994886,
     "geom:longitude":-82.47148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1565 Geer Hwy",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370676351,
-    "wof:lastmodified":1449031245,
+    "wof:lastmodified":1467082346,
     "wof:name":"Accurate Inventory Svc",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inventory"
     ]
 },
-  "bbox": [-82.47148,34.994886,-82.47148,34.994886],
+  "bbox": [
+    -82.47148,
+    34.994886,
+    -82.47148,
+    34.994886
+],
   "geometry": {"coordinates":[-82.47148,34.994886],"type":"Point"}
 }

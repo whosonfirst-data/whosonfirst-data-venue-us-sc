@@ -2,13 +2,14 @@
   "id": 185892587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.395408,34.850542,-82.395408,34.850542",
     "geom:latitude":34.850542,
     "geom:longitude":-82.395408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 E Coffee St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185892587,
-    "wof:lastmodified":1449006843,
+    "wof:lastmodified":1467082186,
     "wof:name":"Sherwood Lumber Corp",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-82.395408,34.850542,-82.395408,34.850542],
+  "bbox": [
+    -82.395408,
+    34.850542,
+    -82.395408,
+    34.850542
+],
   "geometry": {"coordinates":[-82.395408,34.850542],"type":"Point"}
 }

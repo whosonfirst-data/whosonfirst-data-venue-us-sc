@@ -2,13 +2,14 @@
   "id": 354411393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.345562,33.905294,-80.345562,33.905294",
     "geom:latitude":33.905294,
     "geom:longitude":-80.345562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Lawson St",
     "sg:city":"Santee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354411393,
-    "wof:lastmodified":1449066024,
+    "wof:lastmodified":1467082416,
     "wof:name":"TRM C's Healthplex At Santee",
     "wof:parent_id":85850119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-80.345562,33.905294,-80.345562,33.905294],
+  "bbox": [
+    -80.345562,
+    33.905294,
+    -80.345562,
+    33.905294
+],
   "geometry": {"coordinates":[-80.345562,33.905294],"type":"Point"}
 }

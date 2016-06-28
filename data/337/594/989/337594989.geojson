@@ -2,13 +2,14 @@
   "id": 337594989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.967696,33.684952,-78.967696,33.684952",
     "geom:latitude":33.684952,
     "geom:longitude":-78.967696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3833 Socastee Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337594989,
-    "wof:lastmodified":1449027045,
+    "wof:lastmodified":1467082269,
     "wof:name":"Glasstec Inc",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "glazing"
     ]
 },
-  "bbox": [-78.967696,33.684952,-78.967696,33.684952],
+  "bbox": [
+    -78.967696,
+    33.684952,
+    -78.967696,
+    33.684952
+],
   "geometry": {"coordinates":[-78.967696,33.684952],"type":"Point"}
 }

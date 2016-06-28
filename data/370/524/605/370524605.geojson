@@ -2,13 +2,14 @@
   "id": 370524605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.913906,34.945479,-81.913906,34.945479",
     "geom:latitude":34.945479,
     "geom:longitude":-81.913906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 S Pine St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370524605,
-    "wof:lastmodified":1449029035,
+    "wof:lastmodified":1467082297,
     "wof:name":"Custom Homes By Jerry I Miller",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "family"
     ]
 },
-  "bbox": [-81.913906,34.945479,-81.913906,34.945479],
+  "bbox": [
+    -81.913906,
+    34.945479,
+    -81.913906,
+    34.945479
+],
   "geometry": {"coordinates":[-81.913906,34.945479],"type":"Point"}
 }

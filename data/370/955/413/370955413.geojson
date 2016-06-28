@@ -2,13 +2,14 @@
   "id": 370955413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.861939,33.490703,-80.861939,33.490703",
     "geom:latitude":33.490703,
     "geom:longitude":-80.861939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1381 Russell St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370955413,
-    "wof:lastmodified":1449031431,
+    "wof:lastmodified":1467082350,
     "wof:name":"Corner Stone Church Of God",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.861939,33.490703,-80.861939,33.490703],
-  "geometry": {"coordinates":[-80.861939,33.490703],"type":"Point"}
+  "bbox": [
+    -80.861939,
+    33.490703,
+    -80.861939,
+    33.490703
+],
+  "geometry": {"coordinates":[-80.86193900000001,33.490703],"type":"Point"}
 }

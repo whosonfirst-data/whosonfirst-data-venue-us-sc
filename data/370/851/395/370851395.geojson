@@ -2,13 +2,14 @@
   "id": 370851395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.698841,32.441351,-80.698841,32.441351",
     "geom:latitude":32.441351,
     "geom:longitude":-80.698841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2266 Boundary St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370851395,
-    "wof:lastmodified":1449031304,
+    "wof:lastmodified":1467082347,
     "wof:name":"United Way Of Beaufort County",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [-80.698841,32.441351,-80.698841,32.441351],
+  "bbox": [
+    -80.698841,
+    32.441351,
+    -80.698841,
+    32.441351
+],
   "geometry": {"coordinates":[-80.698841,32.441351],"type":"Point"}
 }

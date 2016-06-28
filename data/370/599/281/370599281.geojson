@@ -2,13 +2,14 @@
   "id": 370599281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.875529,35.010464,-81.875529,35.010464",
     "geom:latitude":35.010464,
     "geom:longitude":-81.875529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Brooks Blvd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370599281,
-    "wof:lastmodified":1449030667,
+    "wof:lastmodified":1467082333,
     "wof:name":"Southern States Packaging Co",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "converter"
     ]
 },
-  "bbox": [-81.875529,35.010464,-81.875529,35.010464],
+  "bbox": [
+    -81.875529,
+    35.010464,
+    -81.875529,
+    35.010464
+],
   "geometry": {"coordinates":[-81.875529,35.010464],"type":"Point"}
 }

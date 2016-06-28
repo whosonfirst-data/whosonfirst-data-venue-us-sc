@@ -2,13 +2,14 @@
   "id": 186196523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.931215,34.970813,-81.931215,34.970813",
     "geom:latitude":34.970813,
     "geom:longitude":-81.931215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 McCravy Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186196523,
-    "wof:lastmodified":1449051002,
+    "wof:lastmodified":1467082394,
     "wof:name":"Wilkins' Opticians",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.931215,34.970813,-81.931215,34.970813],
-  "geometry": {"coordinates":[-81.931215,34.970813],"type":"Point"}
+  "bbox": [
+    -81.931215,
+    34.970813,
+    -81.931215,
+    34.970813
+],
+  "geometry": {"coordinates":[-81.93121499999999,34.970813],"type":"Point"}
 }

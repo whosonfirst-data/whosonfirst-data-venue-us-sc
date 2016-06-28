@@ -2,13 +2,14 @@
   "id": 370967965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.998038,33.682801,-78.998038,33.682801",
     "geom:latitude":33.682801,
     "geom:longitude":-78.998038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5711 State Hwy 707",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370967965,
-    "wof:lastmodified":1449032216,
+    "wof:lastmodified":1467082368,
     "wof:name":"Palmetto Tax Svc",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-78.998038,33.682801,-78.998038,33.682801],
-  "geometry": {"coordinates":[-78.998038,33.682801],"type":"Point"}
+  "bbox": [
+    -78.998038,
+    33.682801,
+    -78.998038,
+    33.682801
+],
+  "geometry": {"coordinates":[-78.99803799999999,33.682801],"type":"Point"}
 }

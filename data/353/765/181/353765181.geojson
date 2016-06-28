@@ -2,13 +2,14 @@
   "id": 353765181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.721538,33.526419,-81.721538,33.526419",
     "geom:latitude":33.526419,
     "geom:longitude":-81.721538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 Whiskey Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353765181,
-    "wof:lastmodified":1449019738,
+    "wof:lastmodified":1467082240,
     "wof:name":"South Side Performance",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.721538,33.526419,-81.721538,33.526419],
+  "bbox": [
+    -81.721538,
+    33.526419,
+    -81.721538,
+    33.526419
+],
   "geometry": {"coordinates":[-81.721538,33.526419],"type":"Point"}
 }

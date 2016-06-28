@@ -2,13 +2,14 @@
   "id": 353532381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.632369,34.510419,-82.632369,34.510419",
     "geom:latitude":34.510419,
     "geom:longitude":-82.632369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 Williamston Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353532381,
-    "wof:lastmodified":1449019123,
+    "wof:lastmodified":1467082227,
     "wof:name":"Anderson County Fair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fairground"
     ]
 },
-  "bbox": [-82.632369,34.510419,-82.632369,34.510419],
+  "bbox": [
+    -82.632369,
+    34.510419,
+    -82.632369,
+    34.510419
+],
   "geometry": {"coordinates":[-82.632369,34.510419],"type":"Point"}
 }

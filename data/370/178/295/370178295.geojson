@@ -2,13 +2,14 @@
   "id": 370178295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.65463,34.517545,-82.65463,34.517545",
     "geom:latitude":34.517545,
     "geom:longitude":-82.65463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1632 N Main St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370178295,
-    "wof:lastmodified":1449031519,
+    "wof:lastmodified":1467082352,
     "wof:name":"Lady Windsor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wear"
     ]
 },
-  "bbox": [-82.65463,34.517545,-82.65463,34.517545],
+  "bbox": [
+    -82.65463,
+    34.517545,
+    -82.65463,
+    34.517545
+],
   "geometry": {"coordinates":[-82.65463,34.517545],"type":"Point"}
 }

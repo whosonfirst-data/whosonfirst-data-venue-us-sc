@@ -2,13 +2,14 @@
   "id": 370299473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.225109,32.659173,-80.225109,32.659173",
     "geom:latitude":32.659173,
     "geom:longitude":-80.225109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6454 Bears Bluff Rd",
     "sg:city":"Wadmalaw Island",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370299473,
-    "wof:lastmodified":1449029954,
+    "wof:lastmodified":1467082317,
     "wof:name":"Riverside Dock and Deck Cnstr",
     "wof:parent_id":85809109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.225109,32.659173,-80.225109,32.659173],
+  "bbox": [
+    -80.225109,
+    32.659173,
+    -80.225109,
+    32.659173
+],
   "geometry": {"coordinates":[-80.225109,32.659173],"type":"Point"}
 }

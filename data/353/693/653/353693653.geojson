@@ -2,13 +2,14 @@
   "id": 353693653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.688534,34.61914,-79.688534,34.61914",
     "geom:latitude":34.61914,
     "geom:longitude":-79.688534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 State Hwy 38 Bus",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353693653,
-    "wof:lastmodified":1449018395,
+    "wof:lastmodified":1467082213,
     "wof:name":"Golden Run Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.688534,34.61914,-79.688534,34.61914],
+  "bbox": [
+    -79.688534,
+    34.61914,
+    -79.688534,
+    34.61914
+],
   "geometry": {"coordinates":[-79.688534,34.61914],"type":"Point"}
 }

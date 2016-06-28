@@ -2,13 +2,14 @@
   "id": 353693783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.768609,34.257265,-81.768609,34.257265",
     "geom:latitude":34.257265,
     "geom:longitude":-81.768609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Belmont Church Rd",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353693783,
-    "wof:lastmodified":1449018395,
+    "wof:lastmodified":1467082213,
     "wof:name":"Belmont Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.768609,34.257265,-81.768609,34.257265],
+  "bbox": [
+    -81.768609,
+    34.257265,
+    -81.768609,
+    34.257265
+],
   "geometry": {"coordinates":[-81.768609,34.257265],"type":"Point"}
 }

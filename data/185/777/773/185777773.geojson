@@ -2,13 +2,14 @@
   "id": 185777773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.156253,34.88918,-82.156253,34.88918",
     "geom:latitude":34.88918,
     "geom:longitude":-82.156253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1876 State Hwy 101",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185777773,
-    "wof:lastmodified":1449007470,
+    "wof:lastmodified":1467082195,
     "wof:name":"Highway 101 Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.156253,34.88918,-82.156253,34.88918],
-  "geometry": {"coordinates":[-82.156253,34.88918],"type":"Point"}
+  "bbox": [
+    -82.156253,
+    34.88918,
+    -82.156253,
+    34.88918
+],
+  "geometry": {"coordinates":[-82.15625300000001,34.88918],"type":"Point"}
 }

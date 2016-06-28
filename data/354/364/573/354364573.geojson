@@ -2,13 +2,14 @@
   "id": 354364573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.772635,32.172784,-80.772635,32.172784",
     "geom:latitude":32.172784,
     "geom:longitude":-80.772635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Palmetto Bay Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354364573,
-    "wof:lastmodified":1449066906,
+    "wof:lastmodified":1467082437,
     "wof:name":"Closet Classics Inc",
     "wof:parent_id":85850409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-80.772635,32.172784,-80.772635,32.172784],
-  "geometry": {"coordinates":[-80.772635,32.172784],"type":"Point"}
+  "bbox": [
+    -80.772635,
+    32.172784,
+    -80.772635,
+    32.172784
+],
+  "geometry": {"coordinates":[-80.77263499999999,32.172784],"type":"Point"}
 }

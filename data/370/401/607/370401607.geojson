@@ -2,13 +2,14 @@
   "id": 370401607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.293896,33.847308,-80.293896,33.847308",
     "geom:latitude":33.847308,
     "geom:longitude":-80.293896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1381 Britton Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370401607,
-    "wof:lastmodified":1449031967,
+    "wof:lastmodified":1467082362,
     "wof:name":"Backgroun Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.293896,33.847308,-80.293896,33.847308],
+  "bbox": [
+    -80.293896,
+    33.847308,
+    -80.293896,
+    33.847308
+],
   "geometry": {"coordinates":[-80.293896,33.847308],"type":"Point"}
 }

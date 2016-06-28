@@ -2,13 +2,14 @@
   "id": 353576705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.970536,34.054175,-80.970536,34.054175",
     "geom:latitude":34.054175,
     "geom:longitude":-80.970536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Ward Ct",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353576705,
-    "wof:lastmodified":1449020238,
+    "wof:lastmodified":1467082250,
     "wof:name":"Laurence Ladue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.970536,34.054175,-80.970536,34.054175],
+  "bbox": [
+    -80.970536,
+    34.054175,
+    -80.970536,
+    34.054175
+],
   "geometry": {"coordinates":[-80.970536,34.054175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354129391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.282125,34.036928,-81.282125,34.036928",
     "geom:latitude":34.036928,
     "geom:longitude":-81.282125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Bream Pt",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354129391,
-    "wof:lastmodified":1449067310,
+    "wof:lastmodified":1467082446,
     "wof:name":"Dove Const Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.282125,34.036928,-81.282125,34.036928],
-  "geometry": {"coordinates":[-81.282125,34.036928],"type":"Point"}
+  "bbox": [
+    -81.282125,
+    34.036928,
+    -81.282125,
+    34.036928
+],
+  "geometry": {"coordinates":[-81.28212499999999,34.036928],"type":"Point"}
 }

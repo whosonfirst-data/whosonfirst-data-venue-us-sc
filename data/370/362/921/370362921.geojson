@@ -2,13 +2,14 @@
   "id": 370362921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.442499,33.819999,-79.442499,33.819999",
     "geom:latitude":33.819999,
     "geom:longitude":-79.442499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N Georgetown Hwy",
     "sg:city":"Johnsonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370362921,
-    "wof:lastmodified":1449031261,
+    "wof:lastmodified":1467082346,
     "wof:name":"Food Chief",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.442499,33.819999,-79.442499,33.819999],
+  "bbox": [
+    -79.442499,
+    33.819999,
+    -79.442499,
+    33.819999
+],
   "geometry": {"coordinates":[-79.442499,33.819999],"type":"Point"}
 }

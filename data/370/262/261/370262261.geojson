@@ -2,13 +2,14 @@
   "id": 370262261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.686752,33.530927,-81.686752,33.530927",
     "geom:latitude":33.530927,
     "geom:longitude":-81.686752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1295 Banks Mill Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370262261,
-    "wof:lastmodified":1449031178,
+    "wof:lastmodified":1467082344,
     "wof:name":"A&D Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.686752,33.530927,-81.686752,33.530927],
+  "bbox": [
+    -81.686752,
+    33.530927,
+    -81.686752,
+    33.530927
+],
   "geometry": {"coordinates":[-81.686752,33.530927],"type":"Point"}
 }

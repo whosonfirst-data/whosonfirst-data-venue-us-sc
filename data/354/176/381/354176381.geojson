@@ -2,13 +2,14 @@
   "id": 354176381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.08401,32.904136,-80.08401,32.904136",
     "geom:latitude":32.904136,
     "geom:longitude":-80.08401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7610 Dorchester Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354176381,
-    "wof:lastmodified":1449067085,
+    "wof:lastmodified":1467082441,
     "wof:name":"Payless Car Sales",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.08401,32.904136,-80.08401,32.904136],
-  "geometry": {"coordinates":[-80.08401,32.904136],"type":"Point"}
+  "bbox": [
+    -80.08401,
+    32.904136,
+    -80.08401,
+    32.904136
+],
+  "geometry": {"coordinates":[-80.08401000000001,32.904136],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169743691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.247118,33.989231,-81.247118,33.989231",
     "geom:latitude":33.989231,
     "geom:longitude":-81.247118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Old Chapin Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169743691,
-    "wof:lastmodified":1449035946,
+    "wof:lastmodified":1467082387,
     "wof:name":"Party Land",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.247118,33.989231,-81.247118,33.989231],
+  "bbox": [
+    -81.247118,
+    33.989231,
+    -81.247118,
+    33.989231
+],
   "geometry": {"coordinates":[-81.247118,33.989231],"type":"Point"}
 }

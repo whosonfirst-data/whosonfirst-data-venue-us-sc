@@ -2,13 +2,14 @@
   "id": 353762175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.933051,32.779232,-79.933051,32.779232",
     "geom:latitude":32.779232,
     "geom:longitude":-79.933051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 King St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353762175,
-    "wof:lastmodified":1449020052,
+    "wof:lastmodified":1467082246,
     "wof:name":"Helen S Martin Antiques LLC",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-79.933051,32.779232,-79.933051,32.779232],
-  "geometry": {"coordinates":[-79.933051,32.779232],"type":"Point"}
+  "bbox": [
+    -79.933051,
+    32.779232,
+    -79.933051,
+    32.779232
+],
+  "geometry": {"coordinates":[-79.93305100000001,32.779232],"type":"Point"}
 }

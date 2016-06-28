@@ -2,13 +2,14 @@
   "id": 354207961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.864313,33.489524,-80.864313,33.489524",
     "geom:latitude":33.489524,
     "geom:longitude":-80.864313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1128 Russell St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354207961,
-    "wof:lastmodified":1449067157,
+    "wof:lastmodified":1467082442,
     "wof:name":"Lil Walt Authicity",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.864313,33.489524,-80.864313,33.489524],
+  "bbox": [
+    -80.864313,
+    33.489524,
+    -80.864313,
+    33.489524
+],
   "geometry": {"coordinates":[-80.864313,33.489524],"type":"Point"}
 }

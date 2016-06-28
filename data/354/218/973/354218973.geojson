@@ -2,13 +2,14 @@
   "id": 354218973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.061091,32.873108,-80.061091,32.873108",
     "geom:latitude":32.873108,
     "geom:longitude":-80.061091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4550 Great Oak Dr",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354218973,
-    "wof:lastmodified":1449067047,
+    "wof:lastmodified":1467082440,
     "wof:name":"Twin Oaks Villa",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-80.061091,32.873108,-80.061091,32.873108],
+  "bbox": [
+    -80.061091,
+    32.873108,
+    -80.061091,
+    32.873108
+],
   "geometry": {"coordinates":[-80.061091,32.873108],"type":"Point"}
 }

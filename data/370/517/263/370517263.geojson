@@ -2,13 +2,14 @@
   "id": 370517263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.949729,34.668701,-82.949729,34.668701",
     "geom:latitude":34.668701,
     "geom:longitude":-82.949729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Laing Ct",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370517263,
-    "wof:lastmodified":1449031007,
+    "wof:lastmodified":1467082340,
     "wof:name":"Seneca Gardens Apartments",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.949729,34.668701,-82.949729,34.668701],
+  "bbox": [
+    -82.949729,
+    34.668701,
+    -82.949729,
+    34.668701
+],
   "geometry": {"coordinates":[-82.949729,34.668701],"type":"Point"}
 }

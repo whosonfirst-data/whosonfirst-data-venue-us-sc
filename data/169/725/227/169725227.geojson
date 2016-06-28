@@ -2,13 +2,14 @@
   "id": 169725227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.791866,32.601459,-80.791866,32.601459",
     "geom:latitude":32.601459,
     "geom:longitude":-80.791866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Trask Pkwy",
     "sg:city":"Seabrook",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169725227,
-    "wof:lastmodified":1449033493,
+    "wof:lastmodified":1467082380,
     "wof:name":"Forestry Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government"
     ]
 },
-  "bbox": [-80.791866,32.601459,-80.791866,32.601459],
+  "bbox": [
+    -80.791866,
+    32.601459,
+    -80.791866,
+    32.601459
+],
   "geometry": {"coordinates":[-80.791866,32.601459],"type":"Point"}
 }

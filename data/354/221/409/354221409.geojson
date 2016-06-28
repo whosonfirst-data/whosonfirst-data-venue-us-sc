@@ -2,13 +2,14 @@
   "id": 354221409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.097077,32.678364,-80.097077,32.678364",
     "geom:latitude":32.678364,
     "geom:longitude":-80.097077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2734 Bohicket Rd",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354221409,
-    "wof:lastmodified":1449066661,
+    "wof:lastmodified":1467082431,
     "wof:name":"Bohicket Ceramics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.097077,32.678364,-80.097077,32.678364],
+  "bbox": [
+    -80.097077,
+    32.678364,
+    -80.097077,
+    32.678364
+],
   "geometry": {"coordinates":[-80.097077,32.678364],"type":"Point"}
 }

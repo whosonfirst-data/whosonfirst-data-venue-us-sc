@@ -2,13 +2,14 @@
   "id": 169747109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.668242,34.834645,-82.668242,34.834645",
     "geom:latitude":34.834645,
     "geom:longitude":-82.668242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Beverly Cir",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169747109,
-    "wof:lastmodified":1449033290,
+    "wof:lastmodified":1467082379,
     "wof:name":"HIS Heating & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.668242,34.834645,-82.668242,34.834645],
-  "geometry": {"coordinates":[-82.668242,34.834645],"type":"Point"}
+  "bbox": [
+    -82.668242,
+    34.834645,
+    -82.668242,
+    34.834645
+],
+  "geometry": {"coordinates":[-82.66824200000001,34.834645],"type":"Point"}
 }

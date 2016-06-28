@@ -2,13 +2,14 @@
   "id": 185729583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.967729,33.680278,-78.967729,33.680278",
     "geom:latitude":33.680278,
     "geom:longitude":-78.967729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Flagstone Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185729583,
-    "wof:lastmodified":1449007444,
+    "wof:lastmodified":1467082195,
     "wof:name":"Platinum Limousine Service",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-78.967729,33.680278,-78.967729,33.680278],
-  "geometry": {"coordinates":[-78.967729,33.680278],"type":"Point"}
+  "bbox": [
+    -78.967729,
+    33.680278,
+    -78.967729,
+    33.680278
+],
+  "geometry": {"coordinates":[-78.96772900000001,33.680278],"type":"Point"}
 }

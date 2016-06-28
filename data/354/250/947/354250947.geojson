@@ -2,13 +2,14 @@
   "id": 354250947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.997268,32.874563,-79.997268,32.874563",
     "geom:latitude":32.874563,
     "geom:longitude":-79.997268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4784 Gaynor St",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354250947,
-    "wof:lastmodified":1449066924,
+    "wof:lastmodified":1467082437,
     "wof:name":"North Area Funeral Home",
     "wof:parent_id":85830427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-79.997268,32.874563,-79.997268,32.874563],
-  "geometry": {"coordinates":[-79.997268,32.874563],"type":"Point"}
+  "bbox": [
+    -79.997268,
+    32.874563,
+    -79.997268,
+    32.874563
+],
+  "geometry": {"coordinates":[-79.99726800000001,32.874563],"type":"Point"}
 }

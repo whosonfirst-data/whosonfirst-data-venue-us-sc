@@ -2,13 +2,14 @@
   "id": 370194693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.611718,34.595327,-82.611718,34.595327",
     "geom:latitude":34.595327,
     "geom:longitude":-82.611718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4045 Windward Trl",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370194693,
-    "wof:lastmodified":1449031978,
+    "wof:lastmodified":1467082362,
     "wof:name":"Clean Sweep",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chimney"
     ]
 },
-  "bbox": [-82.611718,34.595327,-82.611718,34.595327],
+  "bbox": [
+    -82.611718,
+    34.595327,
+    -82.611718,
+    34.595327
+],
   "geometry": {"coordinates":[-82.611718,34.595327],"type":"Point"}
 }

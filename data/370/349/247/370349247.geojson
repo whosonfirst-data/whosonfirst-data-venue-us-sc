@@ -2,13 +2,14 @@
   "id": 370349247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.987326,33.983609,-80.987326,33.983609",
     "geom:latitude":33.983609,
     "geom:longitude":-80.987326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3855 Overbrook Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370349247,
-    "wof:lastmodified":1449030364,
+    "wof:lastmodified":1467082327,
     "wof:name":"Caudill Construction",
     "wof:parent_id":85876829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.987326,33.983609,-80.987326,33.983609],
+  "bbox": [
+    -80.987326,
+    33.983609,
+    -80.987326,
+    33.983609
+],
   "geometry": {"coordinates":[-80.987326,33.983609],"type":"Point"}
 }

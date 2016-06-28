@@ -2,13 +2,14 @@
   "id": 337412279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.490942,34.78392,-82.490942,34.78392",
     "geom:latitude":34.78392,
     "geom:longitude":-82.490942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 Powdersville Main",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337412279,
-    "wof:lastmodified":1449027088,
+    "wof:lastmodified":1467082271,
     "wof:name":"ECRI Southern Div",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hospital"
     ]
 },
-  "bbox": [-82.490942,34.78392,-82.490942,34.78392],
+  "bbox": [
+    -82.490942,
+    34.78392,
+    -82.490942,
+    34.78392
+],
   "geometry": {"coordinates":[-82.490942,34.78392],"type":"Point"}
 }

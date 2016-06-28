@@ -2,13 +2,14 @@
   "id": 353817301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.909792,34.125712,-80.909792,34.125712",
     "geom:latitude":34.125712,
     "geom:longitude":-80.909792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Oak Creek Cir",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353817301,
-    "wof:lastmodified":1449020325,
+    "wof:lastmodified":1467082252,
     "wof:name":"Apex Bail Bonding",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-80.909792,34.125712,-80.909792,34.125712],
+  "bbox": [
+    -80.909792,
+    34.125712,
+    -80.909792,
+    34.125712
+],
   "geometry": {"coordinates":[-80.909792,34.125712],"type":"Point"}
 }

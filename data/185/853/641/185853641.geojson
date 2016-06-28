@@ -2,13 +2,14 @@
   "id": 185853641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.99949,33.668328,-78.99949,33.668328",
     "geom:latitude":33.668328,
     "geom:longitude":-78.99949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6404 Yellow Jasmine Ave",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185853641,
-    "wof:lastmodified":1449007261,
+    "wof:lastmodified":1467082192,
     "wof:name":"What About Bob's",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-78.99949,33.668328,-78.99949,33.668328],
-  "geometry": {"coordinates":[-78.99949,33.668328],"type":"Point"}
+  "bbox": [
+    -78.99949,
+    33.668328,
+    -78.99949,
+    33.668328
+],
+  "geometry": {"coordinates":[-78.99948999999999,33.668328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337421801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.936067,32.958534,-79.936067,32.958534",
     "geom:latitude":32.958534,
     "geom:longitude":-79.936067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2315 Red Bank Rd",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337421801,
-    "wof:lastmodified":1449027469,
+    "wof:lastmodified":1467082285,
     "wof:name":"US Post Office",
     "wof:parent_id":85814443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.936067,32.958534,-79.936067,32.958534],
-  "geometry": {"coordinates":[-79.936067,32.958534],"type":"Point"}
+  "bbox": [
+    -79.936067,
+    32.958534,
+    -79.936067,
+    32.958534
+],
+  "geometry": {"coordinates":[-79.93606699999999,32.958534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337475203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.014627,32.786974,-80.014627,32.786974",
     "geom:latitude":32.786974,
     "geom:longitude":-80.014627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1649 Savannah Hwy",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337475203,
-    "wof:lastmodified":1449027274,
+    "wof:lastmodified":1467082278,
     "wof:name":"AAA Personal Check Advance",
     "wof:parent_id":85846627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-80.014627,32.786974,-80.014627,32.786974],
+  "bbox": [
+    -80.014627,
+    32.786974,
+    -80.014627,
+    32.786974
+],
   "geometry": {"coordinates":[-80.014627,32.786974],"type":"Point"}
 }

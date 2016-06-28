@@ -2,13 +2,14 @@
   "id": 354206769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.801683,34.214567,-79.801683,34.214567",
     "geom:latitude":34.214567,
     "geom:longitude":-79.801683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 Broughton Blvd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354206769,
-    "wof:lastmodified":1449067138,
+    "wof:lastmodified":1467082442,
     "wof:name":"S C Employment Security Cmmssn",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "government"
     ]
 },
-  "bbox": [-79.801683,34.214567,-79.801683,34.214567],
+  "bbox": [
+    -79.801683,
+    34.214567,
+    -79.801683,
+    34.214567
+],
   "geometry": {"coordinates":[-79.801683,34.214567],"type":"Point"}
 }

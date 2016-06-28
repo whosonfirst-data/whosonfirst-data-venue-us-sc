@@ -2,13 +2,14 @@
   "id": 185841779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.503774,34.70114,-82.503774,34.70114",
     "geom:latitude":34.70114,
     "geom:longitude":-82.503774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Hurricane Creek Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185841779,
-    "wof:lastmodified":1449006951,
+    "wof:lastmodified":1467082187,
     "wof:name":"Moody Machinery Sales",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "broker"
     ]
 },
-  "bbox": [-82.503774,34.70114,-82.503774,34.70114],
-  "geometry": {"coordinates":[-82.503774,34.70114],"type":"Point"}
+  "bbox": [
+    -82.503774,
+    34.70114,
+    -82.503774,
+    34.70114
+],
+  "geometry": {"coordinates":[-82.50377400000001,34.70114],"type":"Point"}
 }

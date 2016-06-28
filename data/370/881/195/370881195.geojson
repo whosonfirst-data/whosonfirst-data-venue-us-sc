@@ -2,13 +2,14 @@
   "id": 370881195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.011914,32.890275,-80.011914,32.890275",
     "geom:latitude":32.890275,
     "geom:longitude":-80.011914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5255 Rivers Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370881195,
-    "wof:lastmodified":1449031037,
+    "wof:lastmodified":1467082341,
     "wof:name":"Cel 2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-80.011914,32.890275,-80.011914,32.890275],
+  "bbox": [
+    -80.011914,
+    32.890275,
+    -80.011914,
+    32.890275
+],
   "geometry": {"coordinates":[-80.011914,32.890275],"type":"Point"}
 }

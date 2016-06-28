@@ -2,13 +2,14 @@
   "id": 354343495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.668188,33.866026,-78.668188,33.866026",
     "geom:latitude":33.866026,
     "geom:longitude":-78.668188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4308 Sea Mountain Hwy",
     "sg:city":"Little River",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354343495,
-    "wof:lastmodified":1449067166,
+    "wof:lastmodified":1467082443,
     "wof:name":"Franklin Baking Co",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-78.668188,33.866026,-78.668188,33.866026],
+  "bbox": [
+    -78.668188,
+    33.866026,
+    -78.668188,
+    33.866026
+],
   "geometry": {"coordinates":[-78.668188,33.866026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370411417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.038298,34.001207,-81.038298,34.001207",
     "geom:latitude":34.001207,
     "geom:longitude":-81.038298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 Lady St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370411417,
-    "wof:lastmodified":1449029229,
+    "wof:lastmodified":1467082301,
     "wof:name":"P Crawford Photography",
     "wof:parent_id":85876827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-81.038298,34.001207,-81.038298,34.001207],
+  "bbox": [
+    -81.038298,
+    34.001207,
+    -81.038298,
+    34.001207
+],
   "geometry": {"coordinates":[-81.038298,34.001207],"type":"Point"}
 }

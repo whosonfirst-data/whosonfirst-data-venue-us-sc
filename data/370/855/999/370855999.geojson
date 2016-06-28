@@ -2,13 +2,14 @@
   "id": 370855999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.835236,34.68007,-82.835236,34.68007",
     "geom:latitude":34.68007,
     "geom:longitude":-82.835236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Old Greenville Hwy",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370855999,
-    "wof:lastmodified":1449031590,
+    "wof:lastmodified":1467082354,
     "wof:name":"Little General 617",
     "wof:parent_id":85808859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gas"
     ]
 },
-  "bbox": [-82.835236,34.68007,-82.835236,34.68007],
-  "geometry": {"coordinates":[-82.835236,34.68007],"type":"Point"}
+  "bbox": [
+    -82.835236,
+    34.68007,
+    -82.835236,
+    34.68007
+],
+  "geometry": {"coordinates":[-82.83523599999999,34.68007],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370552813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.755201,33.531994,-81.755201,33.531994",
     "geom:latitude":33.531994,
     "geom:longitude":-81.755201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Cadence Ct",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370552813,
-    "wof:lastmodified":1449030497,
+    "wof:lastmodified":1467082329,
     "wof:name":"Nutra System",
     "wof:parent_id":85857253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.755201,33.531994,-81.755201,33.531994],
+  "bbox": [
+    -81.755201,
+    33.531994,
+    -81.755201,
+    33.531994
+],
   "geometry": {"coordinates":[-81.755201,33.531994],"type":"Point"}
 }

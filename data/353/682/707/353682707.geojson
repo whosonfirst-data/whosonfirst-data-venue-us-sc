@@ -2,13 +2,14 @@
   "id": 353682707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.297146,32.50445,-80.297146,32.50445",
     "geom:latitude":32.50445,
     "geom:longitude":-80.297146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Jungle Rd",
     "sg:city":"Edisto Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353682707,
-    "wof:lastmodified":1449018688,
+    "wof:lastmodified":1467082218,
     "wof:name":"Fairfield Ocean Ridge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.297146,32.50445,-80.297146,32.50445],
+  "bbox": [
+    -80.297146,
+    32.50445,
+    -80.297146,
+    32.50445
+],
   "geometry": {"coordinates":[-80.297146,32.50445],"type":"Point"}
 }

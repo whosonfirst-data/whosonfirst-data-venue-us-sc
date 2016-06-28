@@ -2,13 +2,14 @@
   "id": 353592897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.51847,34.859375,-82.51847,34.859375",
     "geom:latitude":34.859375,
     "geom:longitude":-82.51847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Georgetown Way",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353592897,
-    "wof:lastmodified":1449019721,
+    "wof:lastmodified":1467082240,
     "wof:name":"Person Touch Flooring Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.51847,34.859375,-82.51847,34.859375],
-  "geometry": {"coordinates":[-82.51847,34.859375],"type":"Point"}
+  "bbox": [
+    -82.51847,
+    34.859375,
+    -82.51847,
+    34.859375
+],
+  "geometry": {"coordinates":[-82.51846999999999,34.859375],"type":"Point"}
 }

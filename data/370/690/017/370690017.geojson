@@ -2,13 +2,14 @@
   "id": 370690017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.328159,33.027522,-80.328159,33.027522",
     "geom:latitude":33.027522,
     "geom:longitude":-80.328159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1365 Givhans Rd",
     "sg:city":"Ridgeville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370690017,
-    "wof:lastmodified":1449030866,
+    "wof:lastmodified":1467082337,
     "wof:name":"McArn Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "retention"
     ]
 },
-  "bbox": [-80.328159,33.027522,-80.328159,33.027522],
+  "bbox": [
+    -80.328159,
+    33.027522,
+    -80.328159,
+    33.027522
+],
   "geometry": {"coordinates":[-80.328159,33.027522],"type":"Point"}
 }

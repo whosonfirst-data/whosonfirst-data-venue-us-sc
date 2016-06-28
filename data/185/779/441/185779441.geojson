@@ -2,13 +2,14 @@
   "id": 185779441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.049777,34.940135,-81.049777,34.940135",
     "geom:latitude":34.940135,
     "geom:longitude":-81.049777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 W Main St",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185779441,
-    "wof:lastmodified":1449006854,
+    "wof:lastmodified":1467082186,
     "wof:name":"Byrd Machine Works",
     "wof:parent_id":85806915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-81.049777,34.940135,-81.049777,34.940135],
-  "geometry": {"coordinates":[-81.049777,34.940135],"type":"Point"}
+  "bbox": [
+    -81.049777,
+    34.940135,
+    -81.049777,
+    34.940135
+],
+  "geometry": {"coordinates":[-81.04977700000001,34.940135],"type":"Point"}
 }

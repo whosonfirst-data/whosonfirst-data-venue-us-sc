@@ -2,13 +2,14 @@
   "id": 370317761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.07267,33.620382,-79.07267,33.620382",
     "geom:latitude":33.620382,
     "geom:longitude":-79.07267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9390 Applesauce Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370317761,
-    "wof:lastmodified":1449030647,
+    "wof:lastmodified":1467082333,
     "wof:name":"Tech Marine Supply Inc",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.07267,33.620382,-79.07267,33.620382],
+  "bbox": [
+    -79.07267,
+    33.620382,
+    -79.07267,
+    33.620382
+],
   "geometry": {"coordinates":[-79.07267,33.620382],"type":"Point"}
 }

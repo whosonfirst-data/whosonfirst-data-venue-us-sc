@@ -2,13 +2,14 @@
   "id": 337604573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.475411,34.766186,-82.475411,34.766186",
     "geom:latitude":34.766186,
     "geom:longitude":-82.475411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2533 River Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337604573,
-    "wof:lastmodified":1449027647,
+    "wof:lastmodified":1467082292,
     "wof:name":"Marquis Marble & Granite",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counter"
     ]
 },
-  "bbox": [-82.475411,34.766186,-82.475411,34.766186],
-  "geometry": {"coordinates":[-82.475411,34.766186],"type":"Point"}
+  "bbox": [
+    -82.475411,
+    34.766186,
+    -82.475411,
+    34.766186
+],
+  "geometry": {"coordinates":[-82.47541099999999,34.766186],"type":"Point"}
 }

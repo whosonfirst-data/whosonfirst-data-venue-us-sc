@@ -2,13 +2,14 @@
   "id": 186096817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.985541,34.991167,-81.985541,34.991167",
     "geom:latitude":34.991167,
     "geom:longitude":-81.985541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7130 Geddes St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186096817,
-    "wof:lastmodified":1449051257,
+    "wof:lastmodified":1467082396,
     "wof:name":"Gregory Electrical Svc",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.985541,34.991167,-81.985541,34.991167],
+  "bbox": [
+    -81.985541,
+    34.991167,
+    -81.985541,
+    34.991167
+],
   "geometry": {"coordinates":[-81.985541,34.991167],"type":"Point"}
 }

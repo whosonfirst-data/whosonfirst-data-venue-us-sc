@@ -2,13 +2,14 @@
   "id": 337620329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.229001,34.395426,-79.229001,34.395426",
     "geom:latitude":34.395426,
     "geom:longitude":-79.229001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1930 Brenwood Rd",
     "sg:city":"Lake View",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337620329,
-    "wof:lastmodified":1449027663,
+    "wof:lastmodified":1467082292,
     "wof:name":"McKenzies Farm",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-79.229001,34.395426,-79.229001,34.395426],
+  "bbox": [
+    -79.229001,
+    34.395426,
+    -79.229001,
+    34.395426
+],
   "geometry": {"coordinates":[-79.229001,34.395426],"type":"Point"}
 }

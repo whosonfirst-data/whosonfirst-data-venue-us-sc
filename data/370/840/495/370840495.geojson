@@ -2,13 +2,14 @@
   "id": 370840495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.076132,34.772116,-83.076132,34.772116",
     "geom:latitude":34.772116,
     "geom:longitude":-83.076132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Walhalla Gardens Cir",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370840495,
-    "wof:lastmodified":1449031721,
+    "wof:lastmodified":1467082357,
     "wof:name":"Walhalla Gardens Apartments",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-83.076132,34.772116,-83.076132,34.772116],
+  "bbox": [
+    -83.076132,
+    34.772116,
+    -83.076132,
+    34.772116
+],
   "geometry": {"coordinates":[-83.076132,34.772116],"type":"Point"}
 }

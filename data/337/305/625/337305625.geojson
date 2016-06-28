@@ -2,13 +2,14 @@
   "id": 337305625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.992173,34.942073,-81.992173,34.942073",
     "geom:latitude":34.942073,
     "geom:longitude":-81.992173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Blackstock Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":337305625,
-    "wof:lastmodified":1449027051,
+    "wof:lastmodified":1467082269,
     "wof:name":"Sofa Express",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.992173,34.942073,-81.992173,34.942073],
-  "geometry": {"coordinates":[-81.992173,34.942073],"type":"Point"}
+  "bbox": [
+    -81.992173,
+    34.942073,
+    -81.992173,
+    34.942073
+],
+  "geometry": {"coordinates":[-81.99217299999999,34.942073],"type":"Point"}
 }

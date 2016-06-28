@@ -2,13 +2,14 @@
   "id": 353723777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.556613,34.698124,-82.556613,34.698124",
     "geom:latitude":34.698124,
     "geom:longitude":-82.556613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6811 Hwy 81 N",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353723777,
-    "wof:lastmodified":1449019761,
+    "wof:lastmodified":1467082240,
     "wof:name":"K-D Multi Services",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "grading"
     ]
 },
-  "bbox": [-82.556613,34.698124,-82.556613,34.698124],
+  "bbox": [
+    -82.556613,
+    34.698124,
+    -82.556613,
+    34.698124
+],
   "geometry": {"coordinates":[-82.556613,34.698124],"type":"Point"}
 }

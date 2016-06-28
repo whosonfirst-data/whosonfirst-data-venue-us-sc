@@ -2,13 +2,14 @@
   "id": 186268947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.9517,32.818082,-79.9517,32.818082",
     "geom:latitude":32.818082,
     "geom:longitude":-79.9517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 King St Exd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186268947,
-    "wof:lastmodified":1449051906,
+    "wof:lastmodified":1467082402,
     "wof:name":"Dixie Box & Crating of SC",
     "wof:parent_id":85836137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "industrial"
     ]
 },
-  "bbox": [-79.9517,32.818082,-79.9517,32.818082],
+  "bbox": [
+    -79.9517,
+    32.818082,
+    -79.9517,
+    32.818082
+],
   "geometry": {"coordinates":[-79.9517,32.818082],"type":"Point"}
 }

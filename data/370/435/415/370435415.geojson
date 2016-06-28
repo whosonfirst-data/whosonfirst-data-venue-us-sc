@@ -2,13 +2,14 @@
   "id": 370435415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.157294,33.968148,-81.157294,33.968148",
     "geom:latitude":33.968148,
     "geom:longitude":-81.157294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"361 Bradley Dr",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370435415,
-    "wof:lastmodified":1449032162,
+    "wof:lastmodified":1467082366,
     "wof:name":"Asphalt Paving & Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.157294,33.968148,-81.157294,33.968148],
-  "geometry": {"coordinates":[-81.157294,33.968148],"type":"Point"}
+  "bbox": [
+    -81.157294,
+    33.968148,
+    -81.157294,
+    33.968148
+],
+  "geometry": {"coordinates":[-81.15729399999999,33.968148],"type":"Point"}
 }

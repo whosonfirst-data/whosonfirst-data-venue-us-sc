@@ -2,13 +2,14 @@
   "id": 370531295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.961283,33.92565,-80.961283,33.92565",
     "geom:latitude":33.92565,
     "geom:longitude":-80.961283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Tupelo Farms Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370531295,
-    "wof:lastmodified":1449029893,
+    "wof:lastmodified":1467082316,
     "wof:name":"Allisons Tupelo LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-80.961283,33.92565,-80.961283,33.92565],
-  "geometry": {"coordinates":[-80.961283,33.92565],"type":"Point"}
+  "bbox": [
+    -80.961283,
+    33.92565,
+    -80.961283,
+    33.92565
+],
+  "geometry": {"coordinates":[-80.96128299999999,33.92565],"type":"Point"}
 }

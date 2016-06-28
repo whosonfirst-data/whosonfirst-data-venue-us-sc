@@ -2,13 +2,14 @@
   "id": 370359493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.908586,34.958903,-81.908586,34.958903",
     "geom:latitude":34.958903,
     "geom:longitude":-81.908586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 E Main St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370359493,
-    "wof:lastmodified":1449029017,
+    "wof:lastmodified":1467082296,
     "wof:name":"OOPS Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furnishing"
     ]
 },
-  "bbox": [-81.908586,34.958903,-81.908586,34.958903],
+  "bbox": [
+    -81.908586,
+    34.958903,
+    -81.908586,
+    34.958903
+],
   "geometry": {"coordinates":[-81.908586,34.958903],"type":"Point"}
 }

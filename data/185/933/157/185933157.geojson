@@ -2,13 +2,14 @@
   "id": 185933157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.196576,33.855717,-80.196576,33.855717",
     "geom:latitude":33.855717,
     "geom:longitude":-80.196576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4060 Relief Rd",
     "sg:city":"Alcolu",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185933157,
-    "wof:lastmodified":1449006947,
+    "wof:lastmodified":1467082187,
     "wof:name":"Avon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-80.196576,33.855717,-80.196576,33.855717],
-  "geometry": {"coordinates":[-80.196576,33.855717],"type":"Point"}
+  "bbox": [
+    -80.196576,
+    33.855717,
+    -80.196576,
+    33.855717
+],
+  "geometry": {"coordinates":[-80.19657599999999,33.855717],"type":"Point"}
 }

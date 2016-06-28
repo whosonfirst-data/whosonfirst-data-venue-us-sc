@@ -2,13 +2,14 @@
   "id": 370922245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.342126,34.89539,-82.342126,34.89539",
     "geom:latitude":34.89539,
     "geom:longitude":-82.342126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 Wade Hampton Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370922245,
-    "wof:lastmodified":1449029396,
+    "wof:lastmodified":1467082305,
     "wof:name":"Korum Solutions LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-82.342126,34.89539,-82.342126,34.89539],
-  "geometry": {"coordinates":[-82.342126,34.89539],"type":"Point"}
+  "bbox": [
+    -82.342126,
+    34.89539,
+    -82.342126,
+    34.89539
+],
+  "geometry": {"coordinates":[-82.34212599999999,34.89539],"type":"Point"}
 }

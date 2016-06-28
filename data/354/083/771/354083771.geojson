@@ -2,13 +2,14 @@
   "id": 354083771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.371898,33.951453,-80.371898,33.951453",
     "geom:latitude":33.951453,
     "geom:longitude":-80.371898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Rast St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354083771,
-    "wof:lastmodified":1449066727,
+    "wof:lastmodified":1467082433,
     "wof:name":"Super Center",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.371898,33.951453,-80.371898,33.951453],
+  "bbox": [
+    -80.371898,
+    33.951453,
+    -80.371898,
+    33.951453
+],
   "geometry": {"coordinates":[-80.371898,33.951453],"type":"Point"}
 }

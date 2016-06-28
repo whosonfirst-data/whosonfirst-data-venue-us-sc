@@ -2,13 +2,14 @@
   "id": 353873059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.104345,34.002033,-81.104345,34.002033",
     "geom:latitude":34.002033,
     "geom:longitude":-81.104345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2318 Sunset Blvd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353873059,
-    "wof:lastmodified":1449018789,
+    "wof:lastmodified":1467082220,
     "wof:name":"Phil Wilson Co",
     "wof:parent_id":85857097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.104345,34.002033,-81.104345,34.002033],
+  "bbox": [
+    -81.104345,
+    34.002033,
+    -81.104345,
+    34.002033
+],
   "geometry": {"coordinates":[-81.104345,34.002033],"type":"Point"}
 }

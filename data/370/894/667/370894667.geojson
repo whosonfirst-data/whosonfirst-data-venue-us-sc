@@ -2,13 +2,14 @@
   "id": 370894667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.959908,35.078602,-80.959908,35.078602",
     "geom:latitude":35.078602,
     "geom:longitude":-80.959908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Mary Ellen Dr",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370894667,
-    "wof:lastmodified":1449030481,
+    "wof:lastmodified":1467082329,
     "wof:name":"Marathon Construction",
     "wof:parent_id":85843859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.959908,35.078602,-80.959908,35.078602],
+  "bbox": [
+    -80.959908,
+    35.078602,
+    -80.959908,
+    35.078602
+],
   "geometry": {"coordinates":[-80.959908,35.078602],"type":"Point"}
 }

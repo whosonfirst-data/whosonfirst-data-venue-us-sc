@@ -2,13 +2,14 @@
   "id": 370526771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.931275,32.779193,-79.931275,32.779193",
     "geom:latitude":32.779193,
     "geom:longitude":-79.931275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Meeting St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370526771,
-    "wof:lastmodified":1449030134,
+    "wof:lastmodified":1467082321,
     "wof:name":"Thomas P Lowndes Jr",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.931275,32.779193,-79.931275,32.779193],
+  "bbox": [
+    -79.931275,
+    32.779193,
+    -79.931275,
+    32.779193
+],
   "geometry": {"coordinates":[-79.931275,32.779193],"type":"Point"}
 }

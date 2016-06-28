@@ -2,13 +2,14 @@
   "id": 185880601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.712007,32.220235,-80.712007,32.220235",
     "geom:latitude":32.220235,
     "geom:longitude":-80.712007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Beach City Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185880601,
-    "wof:lastmodified":1449008224,
+    "wof:lastmodified":1467082207,
     "wof:name":"Sabor Latino",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.712007,32.220235,-80.712007,32.220235],
+  "bbox": [
+    -80.712007,
+    32.220235,
+    -80.712007,
+    32.220235
+],
   "geometry": {"coordinates":[-80.712007,32.220235],"type":"Point"}
 }

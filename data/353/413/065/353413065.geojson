@@ -2,13 +2,14 @@
   "id": 353413065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.355503,33.91438,-80.355503,33.91438",
     "geom:latitude":33.91438,
     "geom:longitude":-80.355503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 S Guignard Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":353413065,
-    "wof:lastmodified":1449018661,
+    "wof:lastmodified":1467082218,
     "wof:name":"Jet Wrecking Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.355503,33.91438,-80.355503,33.91438],
+  "bbox": [
+    -80.355503,
+    33.91438,
+    -80.355503,
+    33.91438
+],
   "geometry": {"coordinates":[-80.355503,33.91438],"type":"Point"}
 }

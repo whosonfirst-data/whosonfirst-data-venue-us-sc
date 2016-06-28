@@ -2,13 +2,14 @@
   "id": 185961601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.773407,34.191623,-79.773407,34.191623",
     "geom:latitude":34.191623,
     "geom:longitude":-79.773407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Covington St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185961601,
-    "wof:lastmodified":1449008159,
+    "wof:lastmodified":1467082206,
     "wof:name":"Allied Telephone Answering Svc",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "answering"
     ]
 },
-  "bbox": [-79.773407,34.191623,-79.773407,34.191623],
-  "geometry": {"coordinates":[-79.773407,34.191623],"type":"Point"}
+  "bbox": [
+    -79.773407,
+    34.191623,
+    -79.773407,
+    34.191623
+],
+  "geometry": {"coordinates":[-79.77340700000001,34.191623],"type":"Point"}
 }

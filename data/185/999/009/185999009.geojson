@@ -2,13 +2,14 @@
   "id": 185999009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.198207,34.122501,-81.198207,34.122501",
     "geom:latitude":34.122501,
     "geom:longitude":-81.198207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Western Ln",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185999009,
-    "wof:lastmodified":1449008024,
+    "wof:lastmodified":1467082204,
     "wof:name":"AFL Network Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.198207,34.122501,-81.198207,34.122501],
+  "bbox": [
+    -81.198207,
+    34.122501,
+    -81.198207,
+    34.122501
+],
   "geometry": {"coordinates":[-81.198207,34.122501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169819259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.110334,34.139831,-82.110334,34.139831",
     "geom:latitude":34.139831,
     "geom:longitude":-82.110334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 E Scotch Cross Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169819259,
-    "wof:lastmodified":1449033478,
+    "wof:lastmodified":1467082380,
     "wof:name":"House Of Colors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greenhouse"
     ]
 },
-  "bbox": [-82.110334,34.139831,-82.110334,34.139831],
-  "geometry": {"coordinates":[-82.110334,34.139831],"type":"Point"}
+  "bbox": [
+    -82.110334,
+    34.139831,
+    -82.110334,
+    34.139831
+],
+  "geometry": {"coordinates":[-82.11033399999999,34.139831],"type":"Point"}
 }

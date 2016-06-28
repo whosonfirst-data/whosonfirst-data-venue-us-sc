@@ -2,13 +2,14 @@
   "id": 370530461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.492358,33.968465,-80.492358,33.968465",
     "geom:latitude":33.968465,
     "geom:longitude":-80.492358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1787 State Hwy 441",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370530461,
-    "wof:lastmodified":1449030876,
+    "wof:lastmodified":1467082338,
     "wof:name":"Videovision",
     "wof:parent_id":85848059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-80.492358,33.968465,-80.492358,33.968465],
+  "bbox": [
+    -80.492358,
+    33.968465,
+    -80.492358,
+    33.968465
+],
   "geometry": {"coordinates":[-80.492358,33.968465],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185982145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.419226,34.842886,-82.419226,34.842886",
     "geom:latitude":34.842886,
     "geom:longitude":-82.419226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Sumner St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185982145,
-    "wof:lastmodified":1449006886,
+    "wof:lastmodified":1467082186,
     "wof:name":"G & C Appraisals",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-82.419226,34.842886,-82.419226,34.842886],
-  "geometry": {"coordinates":[-82.419226,34.842886],"type":"Point"}
+  "bbox": [
+    -82.419226,
+    34.842886,
+    -82.419226,
+    34.842886
+],
+  "geometry": {"coordinates":[-82.41922599999999,34.842886],"type":"Point"}
 }

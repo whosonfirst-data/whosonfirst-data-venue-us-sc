@@ -2,13 +2,14 @@
   "id": 353954371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.490536,34.788937,-82.490536,34.788937",
     "geom:latitude":34.788937,
     "geom:longitude":-82.490536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Powdersville Main",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353954371,
-    "wof:lastmodified":1449020478,
+    "wof:lastmodified":1467082255,
     "wof:name":"Top Tech",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mail"
     ]
 },
-  "bbox": [-82.490536,34.788937,-82.490536,34.788937],
-  "geometry": {"coordinates":[-82.490536,34.788937],"type":"Point"}
+  "bbox": [
+    -82.490536,
+    34.788937,
+    -82.490536,
+    34.788937
+],
+  "geometry": {"coordinates":[-82.49053600000001,34.788937],"type":"Point"}
 }

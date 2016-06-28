@@ -2,13 +2,14 @@
   "id": 370600435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.719484,34.5706,-82.719484,34.5706",
     "geom:latitude":34.5706,
     "geom:longitude":-82.719484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Appian Way",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370600435,
-    "wof:lastmodified":1449029400,
+    "wof:lastmodified":1467082305,
     "wof:name":"Select Appraisals",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-82.719484,34.5706,-82.719484,34.5706],
-  "geometry": {"coordinates":[-82.719484,34.5706],"type":"Point"}
+  "bbox": [
+    -82.719484,
+    34.5706,
+    -82.719484,
+    34.5706
+],
+  "geometry": {"coordinates":[-82.71948399999999,34.5706],"type":"Point"}
 }

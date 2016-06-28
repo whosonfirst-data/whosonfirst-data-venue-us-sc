@@ -2,13 +2,14 @@
   "id": 169788545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.465184,33.662601,-81.465184,33.662601",
     "geom:latitude":33.662601,
     "geom:longitude":-81.465184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 J B Swartz Rd",
     "sg:city":"Wagener",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169788545,
-    "wof:lastmodified":1449034384,
+    "wof:lastmodified":1467082383,
     "wof:name":"TDs Favors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "coin"
     ]
 },
-  "bbox": [-81.465184,33.662601,-81.465184,33.662601],
-  "geometry": {"coordinates":[-81.465184,33.662601],"type":"Point"}
+  "bbox": [
+    -81.465184,
+    33.662601,
+    -81.465184,
+    33.662601
+],
+  "geometry": {"coordinates":[-81.46518399999999,33.662601],"type":"Point"}
 }

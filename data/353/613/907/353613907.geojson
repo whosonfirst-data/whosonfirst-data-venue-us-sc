@@ -2,13 +2,14 @@
   "id": 353613907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.393061,34.857718,-82.393061,34.857718",
     "geom:latitude":34.857718,
     "geom:longitude":-82.393061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Park Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353613907,
-    "wof:lastmodified":1449019451,
+    "wof:lastmodified":1467082234,
     "wof:name":"Senior Citizens Sears Shelter",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-82.393061,34.857718,-82.393061,34.857718],
+  "bbox": [
+    -82.393061,
+    34.857718,
+    -82.393061,
+    34.857718
+],
   "geometry": {"coordinates":[-82.393061,34.857718],"type":"Point"}
 }

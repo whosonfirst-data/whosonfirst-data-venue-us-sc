@@ -2,13 +2,14 @@
   "id": 370718951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.067637,34.238229,-82.067637,34.238229",
     "geom:latitude":34.238229,
     "geom:longitude":-82.067637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Puckett Ferry Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370718951,
-    "wof:lastmodified":1449029823,
+    "wof:lastmodified":1467082314,
     "wof:name":"MOL Logistic",
     "wof:parent_id":85843643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.067637,34.238229,-82.067637,34.238229],
+  "bbox": [
+    -82.067637,
+    34.238229,
+    -82.067637,
+    34.238229
+],
   "geometry": {"coordinates":[-82.067637,34.238229],"type":"Point"}
 }

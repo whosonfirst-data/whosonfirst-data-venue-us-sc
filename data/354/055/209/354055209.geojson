@@ -2,13 +2,14 @@
   "id": 354055209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.653973,33.860335,-78.653973,33.860335",
     "geom:latitude":33.860335,
     "geom:longitude":-78.653973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 State Hwy 90 E",
     "sg:city":"Little River",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354055209,
-    "wof:lastmodified":1449066304,
+    "wof:lastmodified":1467082423,
     "wof:name":"Beach Boys Auto Svc",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-78.653973,33.860335,-78.653973,33.860335],
-  "geometry": {"coordinates":[-78.653973,33.860335],"type":"Point"}
+  "bbox": [
+    -78.653973,
+    33.860335,
+    -78.653973,
+    33.860335
+],
+  "geometry": {"coordinates":[-78.65397299999999,33.860335],"type":"Point"}
 }

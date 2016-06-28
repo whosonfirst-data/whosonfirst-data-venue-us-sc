@@ -2,13 +2,14 @@
   "id": 186074907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.011304,34.731459,-82.011304,34.731459",
     "geom:latitude":34.731459,
     "geom:longitude":-82.011304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Lucy P Edwards Rd",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186074907,
-    "wof:lastmodified":1449051830,
+    "wof:lastmodified":1467082401,
     "wof:name":"Woodruff Primary School",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.011304,34.731459,-82.011304,34.731459],
+  "bbox": [
+    -82.011304,
+    34.731459,
+    -82.011304,
+    34.731459
+],
   "geometry": {"coordinates":[-82.011304,34.731459],"type":"Point"}
 }

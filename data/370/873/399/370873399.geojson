@@ -2,13 +2,14 @@
   "id": 370873399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.820511,34.187519,-79.820511,34.187519",
     "geom:latitude":34.187519,
     "geom:longitude":-79.820511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 David H McLeod Blvd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370873399,
-    "wof:lastmodified":1449029796,
+    "wof:lastmodified":1467082314,
     "wof:name":"231 South",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.820511,34.187519,-79.820511,34.187519],
+  "bbox": [
+    -79.820511,
+    34.187519,
+    -79.820511,
+    34.187519
+],
   "geometry": {"coordinates":[-79.820511,34.187519],"type":"Point"}
 }

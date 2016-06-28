@@ -2,13 +2,14 @@
   "id": 370485633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.610314,34.198837,-79.610314,34.198837",
     "geom:latitude":34.198837,
     "geom:longitude":-79.610314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6901 E Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370485633,
-    "wof:lastmodified":1449031150,
+    "wof:lastmodified":1467082344,
     "wof:name":"INS Foods-Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.610314,34.198837,-79.610314,34.198837],
+  "bbox": [
+    -79.610314,
+    34.198837,
+    -79.610314,
+    34.198837
+],
   "geometry": {"coordinates":[-79.610314,34.198837],"type":"Point"}
 }

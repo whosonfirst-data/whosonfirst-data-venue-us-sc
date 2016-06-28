@@ -2,13 +2,14 @@
   "id": 370361247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.909213,34.724522,-82.909213,34.724522",
     "geom:latitude":34.724522,
     "geom:longitude":-82.909213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 2nd St",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370361247,
-    "wof:lastmodified":1449031561,
+    "wof:lastmodified":1467082353,
     "wof:name":"Seneca Engineering",
     "wof:parent_id":85828189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-82.909213,34.724522,-82.909213,34.724522],
-  "geometry": {"coordinates":[-82.909213,34.724522],"type":"Point"}
+  "bbox": [
+    -82.909213,
+    34.724522,
+    -82.909213,
+    34.724522
+],
+  "geometry": {"coordinates":[-82.90921299999999,34.724522],"type":"Point"}
 }

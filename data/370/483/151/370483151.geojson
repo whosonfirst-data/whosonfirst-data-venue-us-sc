@@ -2,13 +2,14 @@
   "id": 370483151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.379941,34.178568,-82.379941,34.178568",
     "geom:latitude":34.178568,
     "geom:longitude":-82.379941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Main St",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370483151,
-    "wof:lastmodified":1449031757,
+    "wof:lastmodified":1467082358,
     "wof:name":"Abbeville Florist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.379941,34.178568,-82.379941,34.178568],
+  "bbox": [
+    -82.379941,
+    34.178568,
+    -82.379941,
+    34.178568
+],
   "geometry": {"coordinates":[-82.379941,34.178568],"type":"Point"}
 }

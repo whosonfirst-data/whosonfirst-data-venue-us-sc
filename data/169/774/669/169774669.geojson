@@ -2,13 +2,14 @@
   "id": 169774669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.004191,32.904393,-80.004191,32.904393",
     "geom:latitude":32.904393,
     "geom:longitude":-80.004191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5831 Moore St",
     "sg:city":"Hanahan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169774669,
-    "wof:lastmodified":1449033962,
+    "wof:lastmodified":1467082381,
     "wof:name":"R L Taylor",
     "wof:parent_id":85847907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.004191,32.904393,-80.004191,32.904393],
-  "geometry": {"coordinates":[-80.004191,32.904393],"type":"Point"}
+  "bbox": [
+    -80.004191,
+    32.904393,
+    -80.004191,
+    32.904393
+],
+  "geometry": {"coordinates":[-80.00419100000001,32.904393],"type":"Point"}
 }

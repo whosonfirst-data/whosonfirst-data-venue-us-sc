@@ -2,13 +2,14 @@
   "id": 185962647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.550033,34.670159,-79.550033,34.670159",
     "geom:latitude":34.670159,
     "geom:longitude":-79.550033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 N Main St",
     "sg:city":"Mc Coll",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185962647,
-    "wof:lastmodified":1449007561,
+    "wof:lastmodified":1467082197,
     "wof:name":"Nic's Pic KWIK",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.550033,34.670159,-79.550033,34.670159],
+  "bbox": [
+    -79.550033,
+    34.670159,
+    -79.550033,
+    34.670159
+],
   "geometry": {"coordinates":[-79.550033,34.670159],"type":"Point"}
 }

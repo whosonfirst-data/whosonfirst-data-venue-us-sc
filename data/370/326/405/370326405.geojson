@@ -2,13 +2,14 @@
   "id": 370326405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.088993,34.377895,-81.088993,34.377895",
     "geom:latitude":34.377895,
     "geom:longitude":-81.088993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Liberty St",
     "sg:city":"Winnsboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370326405,
-    "wof:lastmodified":1449030528,
+    "wof:lastmodified":1467082330,
     "wof:name":"St John's Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.088993,34.377895,-81.088993,34.377895],
+  "bbox": [
+    -81.088993,
+    34.377895,
+    -81.088993,
+    34.377895
+],
   "geometry": {"coordinates":[-81.088993,34.377895],"type":"Point"}
 }

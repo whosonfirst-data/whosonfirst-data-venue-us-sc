@@ -2,13 +2,14 @@
   "id": 185757139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.083523,33.578333,-79.083523,33.578333",
     "geom:latitude":33.578333,
     "geom:longitude":-79.083523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3452 Woodstock Ln",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185757139,
-    "wof:lastmodified":1449007508,
+    "wof:lastmodified":1467082196,
     "wof:name":"Westfield Ross LLC",
     "wof:parent_id":85815725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leasing"
     ]
 },
-  "bbox": [-79.083523,33.578333,-79.083523,33.578333],
+  "bbox": [
+    -79.083523,
+    33.578333,
+    -79.083523,
+    33.578333
+],
   "geometry": {"coordinates":[-79.083523,33.578333],"type":"Point"}
 }

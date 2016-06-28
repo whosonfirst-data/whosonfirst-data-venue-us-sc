@@ -2,13 +2,14 @@
   "id": 185735265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.27522,34.819551,-82.27522,34.819551",
     "geom:latitude":34.819551,
     "geom:longitude":-82.27522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1748 Woodruff Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185735265,
-    "wof:lastmodified":1449008148,
+    "wof:lastmodified":1467082206,
     "wof:name":"Frame Warehouse Inc",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "frame"
     ]
 },
-  "bbox": [-82.27522,34.819551,-82.27522,34.819551],
+  "bbox": [
+    -82.27522,
+    34.819551,
+    -82.27522,
+    34.819551
+],
   "geometry": {"coordinates":[-82.27522,34.819551],"type":"Point"}
 }

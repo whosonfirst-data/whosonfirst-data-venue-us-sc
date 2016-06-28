@@ -2,13 +2,14 @@
   "id": 337532605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.226492,33.973258,-81.226492,33.973258",
     "geom:latitude":33.973258,
     "geom:longitude":-81.226492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Swartz Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337532605,
-    "wof:lastmodified":1449027212,
+    "wof:lastmodified":1467082275,
     "wof:name":"American Home Patient Repair",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-81.226492,33.973258,-81.226492,33.973258],
-  "geometry": {"coordinates":[-81.226492,33.973258],"type":"Point"}
+  "bbox": [
+    -81.226492,
+    33.973258,
+    -81.226492,
+    33.973258
+],
+  "geometry": {"coordinates":[-81.22649199999999,33.973258],"type":"Point"}
 }

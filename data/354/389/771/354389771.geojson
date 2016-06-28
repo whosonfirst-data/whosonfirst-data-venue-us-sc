@@ -2,13 +2,14 @@
   "id": 354389771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.214545,33.974914,-81.214545,33.974914",
     "geom:latitude":33.974914,
     "geom:longitude":-81.214545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5319 Augusta Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354389771,
-    "wof:lastmodified":1449067281,
+    "wof:lastmodified":1467082445,
     "wof:name":"Christensen Electrical",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.214545,33.974914,-81.214545,33.974914],
+  "bbox": [
+    -81.214545,
+    33.974914,
+    -81.214545,
+    33.974914
+],
   "geometry": {"coordinates":[-81.214545,33.974914],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370750353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.373657,34.870445,-82.373657,34.870445",
     "geom:latitude":34.870445,
     "geom:longitude":-82.373657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Wade Hampton Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370750353,
-    "wof:lastmodified":1449031126,
+    "wof:lastmodified":1467082343,
     "wof:name":"Barbare & Barbare Insurance",
     "wof:parent_id":85839969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.373657,34.870445,-82.373657,34.870445],
-  "geometry": {"coordinates":[-82.373657,34.870445],"type":"Point"}
+  "bbox": [
+    -82.373657,
+    34.870445,
+    -82.373657,
+    34.870445
+],
+  "geometry": {"coordinates":[-82.37365699999999,34.870445],"type":"Point"}
 }

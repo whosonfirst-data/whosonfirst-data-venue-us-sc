@@ -2,13 +2,14 @@
   "id": 353434615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.703749,34.475231,-82.703749,34.475231",
     "geom:latitude":34.475231,
     "geom:longitude":-82.703749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Masters Blvd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353434615,
-    "wof:lastmodified":1449018819,
+    "wof:lastmodified":1467082221,
     "wof:name":"Southeast Federal Credit Union",
     "wof:parent_id":85831829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.703749,34.475231,-82.703749,34.475231],
+  "bbox": [
+    -82.703749,
+    34.475231,
+    -82.703749,
+    34.475231
+],
   "geometry": {"coordinates":[-82.703749,34.475231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169721657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.229226,34.816781,-82.229226,34.816781",
     "geom:latitude":34.816781,
     "geom:longitude":-82.229226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Batesville Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169721657,
-    "wof:lastmodified":1449035958,
+    "wof:lastmodified":1467082388,
     "wof:name":"Kingsbridge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.229226,34.816781,-82.229226,34.816781],
+  "bbox": [
+    -82.229226,
+    34.816781,
+    -82.229226,
+    34.816781
+],
   "geometry": {"coordinates":[-82.229226,34.816781],"type":"Point"}
 }

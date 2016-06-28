@@ -2,13 +2,14 @@
   "id": 370435931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.645909,32.369753,-80.645909,32.369753",
     "geom:latitude":32.369753,
     "geom:longitude":-80.645909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Sheffield Ave",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370435931,
-    "wof:lastmodified":1449032166,
+    "wof:lastmodified":1467082366,
     "wof:name":"Atlantic Asphalt Co",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.645909,32.369753,-80.645909,32.369753],
+  "bbox": [
+    -80.645909,
+    32.369753,
+    -80.645909,
+    32.369753
+],
   "geometry": {"coordinates":[-80.645909,32.369753],"type":"Point"}
 }

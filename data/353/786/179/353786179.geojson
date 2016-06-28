@@ -2,13 +2,14 @@
   "id": 353786179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.096567,33.013992,-80.096567,33.013992",
     "geom:latitude":33.013992,
     "geom:longitude":-80.096567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Columbia Dr",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353786179,
-    "wof:lastmodified":1449018592,
+    "wof:lastmodified":1467082216,
     "wof:name":"Empire Pools",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-80.096567,33.013992,-80.096567,33.013992],
-  "geometry": {"coordinates":[-80.096567,33.013992],"type":"Point"}
+  "bbox": [
+    -80.096567,
+    33.013992,
+    -80.096567,
+    33.013992
+],
+  "geometry": {"coordinates":[-80.09656699999999,33.013992],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354010493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.075915,32.902162,-80.075915,32.902162",
     "geom:latitude":32.902162,
     "geom:longitude":-80.075915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7157 Cross County Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354010493,
-    "wof:lastmodified":1449067008,
+    "wof:lastmodified":1467082439,
     "wof:name":"Karen's Customizing Inc",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "upholstery"
     ]
 },
-  "bbox": [-80.075915,32.902162,-80.075915,32.902162],
-  "geometry": {"coordinates":[-80.075915,32.902162],"type":"Point"}
+  "bbox": [
+    -80.075915,
+    32.902162,
+    -80.075915,
+    32.902162
+],
+  "geometry": {"coordinates":[-80.07591499999999,32.902162],"type":"Point"}
 }

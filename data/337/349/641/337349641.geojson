@@ -2,13 +2,14 @@
   "id": 337349641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.917673,34.949837,-81.917673,34.949837",
     "geom:latitude":34.949837,
     "geom:longitude":-81.917673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 S Pine St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337349641,
-    "wof:lastmodified":1449027240,
+    "wof:lastmodified":1467082276,
     "wof:name":"Beauty Mark",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.917673,34.949837,-81.917673,34.949837],
-  "geometry": {"coordinates":[-81.917673,34.949837],"type":"Point"}
+  "bbox": [
+    -81.917673,
+    34.949837,
+    -81.917673,
+    34.949837
+],
+  "geometry": {"coordinates":[-81.91767299999999,34.949837],"type":"Point"}
 }

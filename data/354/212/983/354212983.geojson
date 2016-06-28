@@ -2,13 +2,14 @@
   "id": 354212983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.981184,32.482366,-80.981184,32.482366",
     "geom:latitude":32.482366,
     "geom:longitude":-80.981184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Green St",
     "sg:city":"Ridgeland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354212983,
-    "wof:lastmodified":1449067075,
+    "wof:lastmodified":1467082441,
     "wof:name":"Salon Amira",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.981184,32.482366,-80.981184,32.482366],
+  "bbox": [
+    -80.981184,
+    32.482366,
+    -80.981184,
+    32.482366
+],
   "geometry": {"coordinates":[-80.981184,32.482366],"type":"Point"}
 }

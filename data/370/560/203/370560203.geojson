@@ -2,13 +2,14 @@
   "id": 370560203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.382353,33.966191,-81.382353,33.966191",
     "geom:latitude":33.966191,
     "geom:longitude":-81.382353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1538 Spring Hill Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370560203,
-    "wof:lastmodified":1449031679,
+    "wof:lastmodified":1467082356,
     "wof:name":"Oswald Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.382353,33.966191,-81.382353,33.966191],
-  "geometry": {"coordinates":[-81.382353,33.966191],"type":"Point"}
+  "bbox": [
+    -81.382353,
+    33.966191,
+    -81.382353,
+    33.966191
+],
+  "geometry": {"coordinates":[-81.38235299999999,33.966191],"type":"Point"}
 }

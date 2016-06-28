@@ -2,13 +2,14 @@
   "id": 353926229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.753797,33.872334,-79.753797,33.872334",
     "geom:latitude":33.872334,
     "geom:longitude":-79.753797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 E Main St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353926229,
-    "wof:lastmodified":1449019145,
+    "wof:lastmodified":1467082228,
     "wof:name":"Shirley's Wedding Accessories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.753797,33.872334,-79.753797,33.872334],
-  "geometry": {"coordinates":[-79.753797,33.872334],"type":"Point"}
+  "bbox": [
+    -79.753797,
+    33.872334,
+    -79.753797,
+    33.872334
+],
+  "geometry": {"coordinates":[-79.75379700000001,33.872334],"type":"Point"}
 }

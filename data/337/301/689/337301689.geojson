@@ -2,13 +2,14 @@
   "id": 337301689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.971647,34.804493,-82.971647,34.804493",
     "geom:latitude":34.804493,
     "geom:longitude":-82.971647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2753 Pickens Hwy",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337301689,
-    "wof:lastmodified":1449027139,
+    "wof:lastmodified":1467082272,
     "wof:name":"High Falls Rv Park",
     "wof:parent_id":85854689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.971647,34.804493,-82.971647,34.804493],
+  "bbox": [
+    -82.971647,
+    34.804493,
+    -82.971647,
+    34.804493
+],
   "geometry": {"coordinates":[-82.971647,34.804493],"type":"Point"}
 }

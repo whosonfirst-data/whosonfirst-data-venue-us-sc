@@ -2,13 +2,14 @@
   "id": 337426099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.285958,33.368246,-79.285958,33.368246",
     "geom:latitude":33.368246,
     "geom:longitude":-79.285958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Front St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337426099,
-    "wof:lastmodified":1449027098,
+    "wof:lastmodified":1467082271,
     "wof:name":"Augustus & Carolina Oriental",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-79.285958,33.368246,-79.285958,33.368246],
-  "geometry": {"coordinates":[-79.285958,33.368246],"type":"Point"}
+  "bbox": [
+    -79.285958,
+    33.368246,
+    -79.285958,
+    33.368246
+],
+  "geometry": {"coordinates":[-79.28595799999999,33.368246],"type":"Point"}
 }

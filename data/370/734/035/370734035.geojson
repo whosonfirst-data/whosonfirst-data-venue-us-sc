@@ -2,13 +2,14 @@
   "id": 370734035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.432414,34.337517,-79.432414,34.337517",
     "geom:latitude":34.337517,
     "geom:longitude":-79.432414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 SE Railroad Ave",
     "sg:city":"Latta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370734035,
-    "wof:lastmodified":1449032045,
+    "wof:lastmodified":1467082364,
     "wof:name":"Latta Machine Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.432414,34.337517,-79.432414,34.337517],
-  "geometry": {"coordinates":[-79.432414,34.337517],"type":"Point"}
+  "bbox": [
+    -79.432414,
+    34.337517,
+    -79.432414,
+    34.337517
+],
+  "geometry": {"coordinates":[-79.43241399999999,34.337517],"type":"Point"}
 }

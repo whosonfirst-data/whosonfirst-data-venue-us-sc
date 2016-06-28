@@ -2,13 +2,14 @@
   "id": 353921007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.948327,34.687184,-82.948327,34.687184",
     "geom:latitude":34.687184,
     "geom:longitude":-82.948327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 N Cherry St",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353921007,
-    "wof:lastmodified":1449019887,
+    "wof:lastmodified":1467082243,
     "wof:name":"Ken's Upholstery",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "upholstery"
     ]
 },
-  "bbox": [-82.948327,34.687184,-82.948327,34.687184],
-  "geometry": {"coordinates":[-82.948327,34.687184],"type":"Point"}
+  "bbox": [
+    -82.948327,
+    34.687184,
+    -82.948327,
+    34.687184
+],
+  "geometry": {"coordinates":[-82.94832700000001,34.687184],"type":"Point"}
 }

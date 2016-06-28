@@ -2,13 +2,14 @@
   "id": 353702705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.718052,33.513484,-81.718052,33.513484",
     "geom:latitude":33.513484,
     "geom:longitude":-81.718052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 Dougherty Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353702705,
-    "wof:lastmodified":1449019539,
+    "wof:lastmodified":1467082236,
     "wof:name":"Tripp Land Surveying Inc",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-81.718052,33.513484,-81.718052,33.513484],
+  "bbox": [
+    -81.718052,
+    33.513484,
+    -81.718052,
+    33.513484
+],
   "geometry": {"coordinates":[-81.718052,33.513484],"type":"Point"}
 }

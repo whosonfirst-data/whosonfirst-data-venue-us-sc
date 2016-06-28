@@ -2,13 +2,14 @@
   "id": 186042341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.308917,33.005308,-81.308917,33.005308",
     "geom:latitude":33.005308,
     "geom:longitude":-81.308917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Gum St E",
     "sg:city":"Allendale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186042341,
-    "wof:lastmodified":1449052365,
+    "wof:lastmodified":1467082407,
     "wof:name":"Highway Maintenance Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.308917,33.005308,-81.308917,33.005308],
-  "geometry": {"coordinates":[-81.308917,33.005308],"type":"Point"}
+  "bbox": [
+    -81.308917,
+    33.005308,
+    -81.308917,
+    33.005308
+],
+  "geometry": {"coordinates":[-81.30891699999999,33.005308],"type":"Point"}
 }

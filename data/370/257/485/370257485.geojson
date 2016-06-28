@@ -2,13 +2,14 @@
   "id": 370257485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.770471,34.241786,-79.770471,34.241786",
     "geom:latitude":34.241786,
     "geom:longitude":-79.770471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2402 Cicero Ln",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370257485,
-    "wof:lastmodified":1449030104,
+    "wof:lastmodified":1467082321,
     "wof:name":"Parks Florist & Gifts",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "florist"
     ]
 },
-  "bbox": [-79.770471,34.241786,-79.770471,34.241786],
+  "bbox": [
+    -79.770471,
+    34.241786,
+    -79.770471,
+    34.241786
+],
   "geometry": {"coordinates":[-79.770471,34.241786],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353738787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.172936,33.02624,-80.172936,33.02624",
     "geom:latitude":33.02624,
     "geom:longitude":-80.172936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W 4th St N",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353738787,
-    "wof:lastmodified":1449020104,
+    "wof:lastmodified":1467082247,
     "wof:name":"Summerville Family Dentistry",
     "wof:parent_id":85833421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.172936,33.02624,-80.172936,33.02624],
-  "geometry": {"coordinates":[-80.172936,33.02624],"type":"Point"}
+  "bbox": [
+    -80.172936,
+    33.02624,
+    -80.172936,
+    33.02624
+],
+  "geometry": {"coordinates":[-80.17293600000001,33.02624],"type":"Point"}
 }

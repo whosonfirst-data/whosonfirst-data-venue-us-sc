@@ -2,13 +2,14 @@
   "id": 370840861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.996612,32.783927,-79.996612,32.783927",
     "geom:latitude":32.783927,
     "geom:longitude":-79.996612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1127 Savannah Hwy",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370840861,
-    "wof:lastmodified":1449031722,
+    "wof:lastmodified":1467082357,
     "wof:name":"Food Mart",
     "wof:parent_id":85838657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "stops"
     ]
 },
-  "bbox": [-79.996612,32.783927,-79.996612,32.783927],
+  "bbox": [
+    -79.996612,
+    32.783927,
+    -79.996612,
+    32.783927
+],
   "geometry": {"coordinates":[-79.996612,32.783927],"type":"Point"}
 }

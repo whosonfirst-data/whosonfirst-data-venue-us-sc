@@ -2,13 +2,14 @@
   "id": 354046583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.326432,34.856693,-82.326432,34.856693",
     "geom:latitude":34.856693,
     "geom:longitude":-82.326432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Enterprise Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354046583,
-    "wof:lastmodified":1449066887,
+    "wof:lastmodified":1467082436,
     "wof:name":"Upstate Maternal Fetal",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.326432,34.856693,-82.326432,34.856693],
+  "bbox": [
+    -82.326432,
+    34.856693,
+    -82.326432,
+    34.856693
+],
   "geometry": {"coordinates":[-82.326432,34.856693],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185729009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.710419,32.41448,-80.710419,32.41448",
     "geom:latitude":32.41448,
     "geom:longitude":-80.710419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Beavers Den",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185729009,
-    "wof:lastmodified":1449007445,
+    "wof:lastmodified":1467082195,
     "wof:name":"Lowcountry Legends",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-80.710419,32.41448,-80.710419,32.41448],
+  "bbox": [
+    -80.710419,
+    32.41448,
+    -80.710419,
+    32.41448
+],
   "geometry": {"coordinates":[-80.710419,32.41448],"type":"Point"}
 }

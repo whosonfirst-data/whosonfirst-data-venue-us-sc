@@ -2,13 +2,14 @@
   "id": 337313357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.746756,33.91126,-79.746756,33.91126",
     "geom:latitude":33.91126,
     "geom:longitude":-79.746756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1672 US Hwy 52",
     "sg:city":"Scranton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337313357,
-    "wof:lastmodified":1449026962,
+    "wof:lastmodified":1467082266,
     "wof:name":"Scranton Loans Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-79.746756,33.91126,-79.746756,33.91126],
+  "bbox": [
+    -79.746756,
+    33.91126,
+    -79.746756,
+    33.91126
+],
   "geometry": {"coordinates":[-79.746756,33.91126],"type":"Point"}
 }

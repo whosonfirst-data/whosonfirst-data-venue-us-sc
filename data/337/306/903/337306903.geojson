@@ -2,13 +2,14 @@
   "id": 337306903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.278748,34.757982,-81.278748,34.757982",
     "geom:latitude":34.757982,
     "geom:longitude":-81.278748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Sourwood Dr",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337306903,
-    "wof:lastmodified":1449027705,
+    "wof:lastmodified":1467082294,
     "wof:name":"S & H Gutter",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.278748,34.757982,-81.278748,34.757982],
-  "geometry": {"coordinates":[-81.278748,34.757982],"type":"Point"}
+  "bbox": [
+    -81.278748,
+    34.757982,
+    -81.278748,
+    34.757982
+],
+  "geometry": {"coordinates":[-81.27874799999999,34.757982],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185800109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.918469,34.953385,-81.918469,34.953385",
     "geom:latitude":34.953385,
     "geom:longitude":-81.918469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 E Main St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185800109,
-    "wof:lastmodified":1449006731,
+    "wof:lastmodified":1467082184,
     "wof:name":"Starnes Flower Shop",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.918469,34.953385,-81.918469,34.953385],
+  "bbox": [
+    -81.918469,
+    34.953385,
+    -81.918469,
+    34.953385
+],
   "geometry": {"coordinates":[-81.918469,34.953385],"type":"Point"}
 }

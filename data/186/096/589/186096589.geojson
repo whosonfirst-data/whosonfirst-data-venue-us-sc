@@ -2,13 +2,14 @@
   "id": 186096589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.176468,33.019151,-80.176468,33.019151",
     "geom:latitude":33.019151,
     "geom:longitude":-80.176468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 W Richardson Ave",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186096589,
-    "wof:lastmodified":1449051256,
+    "wof:lastmodified":1467082396,
     "wof:name":"Continental Corner Greek",
     "wof:parent_id":85810341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greek"
     ]
 },
-  "bbox": [-80.176468,33.019151,-80.176468,33.019151],
+  "bbox": [
+    -80.176468,
+    33.019151,
+    -80.176468,
+    33.019151
+],
   "geometry": {"coordinates":[-80.176468,33.019151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354315981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.22302,33.73356,-81.22302,33.73356",
     "geom:latitude":33.73356,
     "geom:longitude":-81.22302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Austin Ct",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":354315981,
-    "wof:lastmodified":1449067589,
+    "wof:lastmodified":1467082452,
     "wof:name":"Scott Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.22302,33.73356,-81.22302,33.73356],
-  "geometry": {"coordinates":[-81.22302,33.73356],"type":"Point"}
+  "bbox": [
+    -81.22302,
+    33.73356,
+    -81.22302,
+    33.73356
+],
+  "geometry": {"coordinates":[-81.22302000000001,33.73356],"type":"Point"}
 }

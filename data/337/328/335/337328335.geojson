@@ -2,13 +2,14 @@
   "id": 337328335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.598929,34.24792,-80.598929,34.24792",
     "geom:latitude":34.24792,
     "geom:longitude":-80.598929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Mill St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337328335,
-    "wof:lastmodified":1449027427,
+    "wof:lastmodified":1467082283,
     "wof:name":"Camden Bone & Joint",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.598929,34.24792,-80.598929,34.24792],
+  "bbox": [
+    -80.598929,
+    34.24792,
+    -80.598929,
+    34.24792
+],
   "geometry": {"coordinates":[-80.598929,34.24792],"type":"Point"}
 }

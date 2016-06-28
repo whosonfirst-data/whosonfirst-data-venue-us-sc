@@ -2,13 +2,14 @@
   "id": 169704691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.045921,34.022602,-81.045921,34.022602",
     "geom:latitude":34.022602,
     "geom:longitude":-81.045921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2742 River Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169704691,
-    "wof:lastmodified":1449033553,
+    "wof:lastmodified":1467082380,
     "wof:name":"Masjid-As-Salafiyeen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.045921,34.022602,-81.045921,34.022602],
-  "geometry": {"coordinates":[-81.045921,34.022602],"type":"Point"}
+  "bbox": [
+    -81.045921,
+    34.022602,
+    -81.045921,
+    34.022602
+],
+  "geometry": {"coordinates":[-81.04592100000001,34.022602],"type":"Point"}
 }

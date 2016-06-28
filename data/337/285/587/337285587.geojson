@@ -2,13 +2,14 @@
   "id": 337285587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.887961,34.055224,-78.887961,34.055224",
     "geom:latitude":34.055224,
     "geom:longitude":-78.887961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4270 Main St",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337285587,
-    "wof:lastmodified":1449026955,
+    "wof:lastmodified":1467082265,
     "wof:name":"Luna's Mexican Store",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-78.887961,34.055224,-78.887961,34.055224],
+  "bbox": [
+    -78.887961,
+    34.055224,
+    -78.887961,
+    34.055224
+],
   "geometry": {"coordinates":[-78.887961,34.055224],"type":"Point"}
 }

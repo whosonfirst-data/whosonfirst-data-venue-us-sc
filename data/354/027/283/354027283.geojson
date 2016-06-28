@@ -2,13 +2,14 @@
   "id": 354027283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.71832,33.803641,-78.71832,33.803641",
     "geom:latitude":33.803641,
     "geom:longitude":-78.71832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 31st Ave S",
     "sg:city":"Atlantic Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354027283,
-    "wof:lastmodified":1449066245,
+    "wof:lastmodified":1467082421,
     "wof:name":"Randall's At Skeeters",
     "wof:parent_id":85852275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.71832,33.803641,-78.71832,33.803641],
-  "geometry": {"coordinates":[-78.71832,33.803641],"type":"Point"}
+  "bbox": [
+    -78.71832,
+    33.803641,
+    -78.71832,
+    33.803641
+],
+  "geometry": {"coordinates":[-78.71832000000001,33.803641],"type":"Point"}
 }

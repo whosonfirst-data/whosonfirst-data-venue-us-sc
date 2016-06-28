@@ -2,13 +2,14 @@
   "id": 370635859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.006962,32.96887,-80.006962,32.96887",
     "geom:latitude":32.96887,
     "geom:longitude":-80.006962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Cranford Rd",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370635859,
-    "wof:lastmodified":1449030555,
+    "wof:lastmodified":1467082331,
     "wof:name":"AMCS",
     "wof:parent_id":85823911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-80.006962,32.96887,-80.006962,32.96887],
+  "bbox": [
+    -80.006962,
+    32.96887,
+    -80.006962,
+    32.96887
+],
   "geometry": {"coordinates":[-80.006962,32.96887],"type":"Point"}
 }

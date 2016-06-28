@@ -2,13 +2,14 @@
   "id": 370169833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.738413,33.843656,-80.738413,33.843656",
     "geom:latitude":33.843656,
     "geom:longitude":-80.738413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Pleasant Grove Rd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370169833,
-    "wof:lastmodified":1449031176,
+    "wof:lastmodified":1467082344,
     "wof:name":"St Naomi Child Development Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.738413,33.843656,-80.738413,33.843656],
-  "geometry": {"coordinates":[-80.738413,33.843656],"type":"Point"}
+  "bbox": [
+    -80.738413,
+    33.843656,
+    -80.738413,
+    33.843656
+],
+  "geometry": {"coordinates":[-80.73841299999999,33.843656],"type":"Point"}
 }

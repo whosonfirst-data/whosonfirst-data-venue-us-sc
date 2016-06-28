@@ -2,13 +2,14 @@
   "id": 370342041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.646903,32.416075,-80.646903,32.416075",
     "geom:latitude":32.416075,
     "geom:longitude":-80.646903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Sams Point Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370342041,
-    "wof:lastmodified":1449032224,
+    "wof:lastmodified":1467082368,
     "wof:name":"Pro Slab Inc",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.646903,32.416075,-80.646903,32.416075],
-  "geometry": {"coordinates":[-80.646903,32.416075],"type":"Point"}
+  "bbox": [
+    -80.646903,
+    32.416075,
+    -80.646903,
+    32.416075
+],
+  "geometry": {"coordinates":[-80.64690299999999,32.416075],"type":"Point"}
 }

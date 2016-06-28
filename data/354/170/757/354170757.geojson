@@ -2,13 +2,14 @@
   "id": 354170757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.698704,34.889414,-82.698704,34.889414",
     "geom:latitude":34.889414,
     "geom:longitude":-82.698704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Pumpkintown Hwy",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354170757,
-    "wof:lastmodified":1449066081,
+    "wof:lastmodified":1467082418,
     "wof:name":"Sam's Party Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.698704,34.889414,-82.698704,34.889414],
-  "geometry": {"coordinates":[-82.698704,34.889414],"type":"Point"}
+  "bbox": [
+    -82.698704,
+    34.889414,
+    -82.698704,
+    34.889414
+],
+  "geometry": {"coordinates":[-82.69870400000001,34.889414],"type":"Point"}
 }

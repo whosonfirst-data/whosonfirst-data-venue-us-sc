@@ -2,13 +2,14 @@
   "id": 353847701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.194514,32.926595,-81.194514,32.926595",
     "geom:latitude":32.926595,
     "geom:longitude":-81.194514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Williams St",
     "sg:city":"Brunson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353847701,
-    "wof:lastmodified":1449019181,
+    "wof:lastmodified":1467082229,
     "wof:name":"Brunson Bus Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "administrative"
     ]
 },
-  "bbox": [-81.194514,32.926595,-81.194514,32.926595],
+  "bbox": [
+    -81.194514,
+    32.926595,
+    -81.194514,
+    32.926595
+],
   "geometry": {"coordinates":[-81.194514,32.926595],"type":"Point"}
 }

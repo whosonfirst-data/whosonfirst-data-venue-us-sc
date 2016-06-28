@@ -2,13 +2,14 @@
   "id": 353915589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.869278,34.300496,-79.869278,34.300496",
     "geom:latitude":34.300496,
     "geom:longitude":-79.869278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 S Main St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353915589,
-    "wof:lastmodified":1449020755,
+    "wof:lastmodified":1467082261,
     "wof:name":"St Davis Lodge 72 AFM",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-79.869278,34.300496,-79.869278,34.300496],
-  "geometry": {"coordinates":[-79.869278,34.300496],"type":"Point"}
+  "bbox": [
+    -79.869278,
+    34.300496,
+    -79.869278,
+    34.300496
+],
+  "geometry": {"coordinates":[-79.86927799999999,34.300496],"type":"Point"}
 }

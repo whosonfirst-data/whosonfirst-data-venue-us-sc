@@ -2,13 +2,14 @@
   "id": 370610497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.966848,32.739392,-79.966848,32.739392",
     "geom:latitude":32.739392,
     "geom:longitude":-79.966848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Folly Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370610497,
-    "wof:lastmodified":1449032414,
+    "wof:lastmodified":1467082372,
     "wof:name":"Island Tobacco",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.966848,32.739392,-79.966848,32.739392],
+  "bbox": [
+    -79.966848,
+    32.739392,
+    -79.966848,
+    32.739392
+],
   "geometry": {"coordinates":[-79.966848,32.739392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337489057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.856563,33.691381,-79.856563,33.691381",
     "geom:latitude":33.691381,
     "geom:longitude":-79.856563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"535 Sumter Hwy",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":337489057,
-    "wof:lastmodified":1449027388,
+    "wof:lastmodified":1467082282,
     "wof:name":"Hughes Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.856563,33.691381,-79.856563,33.691381],
-  "geometry": {"coordinates":[-79.856563,33.691381],"type":"Point"}
+  "bbox": [
+    -79.856563,
+    33.691381,
+    -79.856563,
+    33.691381
+],
+  "geometry": {"coordinates":[-79.85656299999999,33.691381],"type":"Point"}
 }

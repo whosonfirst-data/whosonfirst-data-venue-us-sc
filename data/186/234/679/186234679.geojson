@@ -2,13 +2,14 @@
   "id": 186234679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.637622,33.865447,-78.637622,33.865447",
     "geom:latitude":33.865447,
     "geom:longitude":-78.637622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4751 Lightkeepers Way",
     "sg:city":"Little River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186234679,
-    "wof:lastmodified":1449052889,
+    "wof:lastmodified":1467082412,
     "wof:name":"Coastal Nutrition LLC",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.637622,33.865447,-78.637622,33.865447],
-  "geometry": {"coordinates":[-78.637622,33.865447],"type":"Point"}
+  "bbox": [
+    -78.637622,
+    33.865447,
+    -78.637622,
+    33.865447
+],
+  "geometry": {"coordinates":[-78.63762199999999,33.865447],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370291655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.932327,32.780572,-79.932327,32.780572",
     "geom:latitude":32.780572,
     "geom:longitude":-79.932327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Market St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370291655,
-    "wof:lastmodified":1449030141,
+    "wof:lastmodified":1467082321,
     "wof:name":"House of Versailles",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "souvenir"
     ]
 },
-  "bbox": [-79.932327,32.780572,-79.932327,32.780572],
+  "bbox": [
+    -79.932327,
+    32.780572,
+    -79.932327,
+    32.780572
+],
   "geometry": {"coordinates":[-79.932327,32.780572],"type":"Point"}
 }

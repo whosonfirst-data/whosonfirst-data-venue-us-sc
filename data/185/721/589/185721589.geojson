@@ -2,13 +2,14 @@
   "id": 185721589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.80929,34.175657,-79.80929,34.175657",
     "geom:latitude":34.175657,
     "geom:longitude":-79.80929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2421 2nd Loop Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185721589,
-    "wof:lastmodified":1449008206,
+    "wof:lastmodified":1467082207,
     "wof:name":"Heat Street",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-79.80929,34.175657,-79.80929,34.175657],
+  "bbox": [
+    -79.80929,
+    34.175657,
+    -79.80929,
+    34.175657
+],
   "geometry": {"coordinates":[-79.80929,34.175657],"type":"Point"}
 }

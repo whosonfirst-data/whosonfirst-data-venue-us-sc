@@ -2,13 +2,14 @@
   "id": 370343105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.925272,34.95274,-81.925272,34.95274",
     "geom:latitude":34.95274,
     "geom:longitude":-81.925272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Alabama St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370343105,
-    "wof:lastmodified":1449031494,
+    "wof:lastmodified":1467082351,
     "wof:name":"Spartanburg Development Svc",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-81.925272,34.95274,-81.925272,34.95274],
-  "geometry": {"coordinates":[-81.925272,34.95274],"type":"Point"}
+  "bbox": [
+    -81.925272,
+    34.95274,
+    -81.925272,
+    34.95274
+],
+  "geometry": {"coordinates":[-81.92527200000001,34.95274],"type":"Point"}
 }

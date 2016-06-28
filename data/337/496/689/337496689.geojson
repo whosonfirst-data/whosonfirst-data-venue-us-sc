@@ -2,13 +2,14 @@
   "id": 337496689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.377141,34.405946,-79.377141,34.405946",
     "geom:latitude":34.405946,
     "geom:longitude":-79.377141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 Hwy 301 S",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337496689,
-    "wof:lastmodified":1449027618,
+    "wof:lastmodified":1467082291,
     "wof:name":"Marvin's Grocer",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-79.377141,34.405946,-79.377141,34.405946],
-  "geometry": {"coordinates":[-79.377141,34.405946],"type":"Point"}
+  "bbox": [
+    -79.377141,
+    34.405946,
+    -79.377141,
+    34.405946
+],
+  "geometry": {"coordinates":[-79.37714099999999,34.405946],"type":"Point"}
 }

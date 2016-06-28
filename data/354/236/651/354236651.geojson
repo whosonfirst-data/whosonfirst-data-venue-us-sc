@@ -2,13 +2,14 @@
   "id": 354236651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.497387,32.90309,-80.497387,32.90309",
     "geom:latitude":32.90309,
     "geom:longitude":-80.497387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"297 Inway Ln",
     "sg:city":"Round O",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354236651,
-    "wof:lastmodified":1449066117,
+    "wof:lastmodified":1467082419,
     "wof:name":"Southern Pride",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.497387,32.90309,-80.497387,32.90309],
+  "bbox": [
+    -80.497387,
+    32.90309,
+    -80.497387,
+    32.90309
+],
   "geometry": {"coordinates":[-80.497387,32.90309],"type":"Point"}
 }

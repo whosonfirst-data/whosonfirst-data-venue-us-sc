@@ -2,13 +2,14 @@
   "id": 353743703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.196925,34.735485,-82.196925,34.735485",
     "geom:latitude":34.735485,
     "geom:longitude":-82.196925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1457 Jones Mill Rd",
     "sg:city":"Fountain Inn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353743703,
-    "wof:lastmodified":1449020770,
+    "wof:lastmodified":1467082261,
     "wof:name":"Shaver Builders Inc",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.196925,34.735485,-82.196925,34.735485],
-  "geometry": {"coordinates":[-82.196925,34.735485],"type":"Point"}
+  "bbox": [
+    -82.196925,
+    34.735485,
+    -82.196925,
+    34.735485
+],
+  "geometry": {"coordinates":[-82.19692499999999,34.735485],"type":"Point"}
 }

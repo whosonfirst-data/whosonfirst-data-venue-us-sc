@@ -2,13 +2,14 @@
   "id": 185939473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.299809,34.791402,-82.299809,34.791402",
     "geom:latitude":34.791402,
     "geom:longitude":-82.299809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Old Mill Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185939473,
-    "wof:lastmodified":1449007085,
+    "wof:lastmodified":1467082189,
     "wof:name":"Chicago Lock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.299809,34.791402,-82.299809,34.791402],
+  "bbox": [
+    -82.299809,
+    34.791402,
+    -82.299809,
+    34.791402
+],
   "geometry": {"coordinates":[-82.299809,34.791402],"type":"Point"}
 }

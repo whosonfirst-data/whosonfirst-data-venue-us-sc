@@ -2,13 +2,14 @@
   "id": 186152347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.204433,33.693371,-80.204433,33.693371",
     "geom:latitude":33.693371,
     "geom:longitude":-80.204433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"328 E Boyce St",
     "sg:city":"Manning",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186152347,
-    "wof:lastmodified":1449052388,
+    "wof:lastmodified":1467082407,
     "wof:name":"Beauty Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.204433,33.693371,-80.204433,33.693371],
-  "geometry": {"coordinates":[-80.204433,33.693371],"type":"Point"}
+  "bbox": [
+    -80.204433,
+    33.693371,
+    -80.204433,
+    33.693371
+],
+  "geometry": {"coordinates":[-80.20443299999999,33.693371],"type":"Point"}
 }

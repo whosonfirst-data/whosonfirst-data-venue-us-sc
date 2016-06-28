@@ -2,13 +2,14 @@
   "id": 353730045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.754308,33.873488,-79.754308,33.873488",
     "geom:latitude":33.873488,
     "geom:longitude":-79.754308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Sauls St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353730045,
-    "wof:lastmodified":1449020416,
+    "wof:lastmodified":1467082254,
     "wof:name":"Lee's Fruit & Vegetables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-79.754308,33.873488,-79.754308,33.873488],
-  "geometry": {"coordinates":[-79.754308,33.873488],"type":"Point"}
+  "bbox": [
+    -79.754308,
+    33.873488,
+    -79.754308,
+    33.873488
+],
+  "geometry": {"coordinates":[-79.75430799999999,33.873488],"type":"Point"}
 }

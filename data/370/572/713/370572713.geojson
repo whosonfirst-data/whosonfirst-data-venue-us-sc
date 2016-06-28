@@ -2,13 +2,14 @@
   "id": 370572713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.018245,33.971172,-81.018245,33.971172",
     "geom:latitude":33.971172,
     "geom:longitude":-81.018245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1047 Berea Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370572713,
-    "wof:lastmodified":1449031162,
+    "wof:lastmodified":1467082344,
     "wof:name":"Ellis Flooring Sales Inc",
     "wof:parent_id":85897275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.018245,33.971172,-81.018245,33.971172],
-  "geometry": {"coordinates":[-81.018245,33.971172],"type":"Point"}
+  "bbox": [
+    -81.018245,
+    33.971172,
+    -81.018245,
+    33.971172
+],
+  "geometry": {"coordinates":[-81.01824499999999,33.971172],"type":"Point"}
 }

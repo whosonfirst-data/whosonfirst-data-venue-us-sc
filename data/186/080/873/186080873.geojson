@@ -2,13 +2,14 @@
   "id": 186080873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.96847,33.614309,-78.96847,33.614309",
     "geom:latitude":33.614309,
     "geom:longitude":-78.96847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 N Myrtle Dr",
     "sg:city":"Surfside Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186080873,
-    "wof:lastmodified":1449052963,
+    "wof:lastmodified":1467082412,
     "wof:name":"Criterium Rishel Engineers",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-78.96847,33.614309,-78.96847,33.614309],
+  "bbox": [
+    -78.96847,
+    33.614309,
+    -78.96847,
+    33.614309
+],
   "geometry": {"coordinates":[-78.96847,33.614309],"type":"Point"}
 }

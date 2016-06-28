@@ -2,13 +2,14 @@
   "id": 370785793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.812976,34.185388,-79.812976,34.185388",
     "geom:latitude":34.185388,
     "geom:longitude":-79.812976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2215 W Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370785793,
-    "wof:lastmodified":1449031893,
+    "wof:lastmodified":1467082360,
     "wof:name":"Pinnacle Network Solutions Inc",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.812976,34.185388,-79.812976,34.185388],
-  "geometry": {"coordinates":[-79.812976,34.185388],"type":"Point"}
+  "bbox": [
+    -79.812976,
+    34.185388,
+    -79.812976,
+    34.185388
+],
+  "geometry": {"coordinates":[-79.81297600000001,34.185388],"type":"Point"}
 }

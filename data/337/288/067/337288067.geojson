@@ -2,13 +2,14 @@
   "id": 337288067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.935418,34.908162,-81.935418,34.908162",
     "geom:latitude":34.908162,
     "geom:longitude":-81.935418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Southport Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337288067,
-    "wof:lastmodified":1449027024,
+    "wof:lastmodified":1467082268,
     "wof:name":"Southport Kennel Company",
     "wof:parent_id":85828171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-81.935418,34.908162,-81.935418,34.908162],
+  "bbox": [
+    -81.935418,
+    34.908162,
+    -81.935418,
+    34.908162
+],
   "geometry": {"coordinates":[-81.935418,34.908162],"type":"Point"}
 }

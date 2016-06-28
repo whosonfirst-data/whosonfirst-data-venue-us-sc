@@ -2,13 +2,14 @@
   "id": 353834771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.779885,34.159737,-79.779885,34.159737",
     "geom:latitude":34.159737,
     "geom:longitude":-79.779885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 Hummingbird Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353834771,
-    "wof:lastmodified":1449018500,
+    "wof:lastmodified":1467082215,
     "wof:name":"McNair Forestry Services LLC",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forestry"
     ]
 },
-  "bbox": [-79.779885,34.159737,-79.779885,34.159737],
-  "geometry": {"coordinates":[-79.779885,34.159737],"type":"Point"}
+  "bbox": [
+    -79.779885,
+    34.159737,
+    -79.779885,
+    34.159737
+],
+  "geometry": {"coordinates":[-79.77988499999999,34.159737],"type":"Point"}
 }

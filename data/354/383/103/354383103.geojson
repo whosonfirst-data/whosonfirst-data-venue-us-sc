@@ -2,13 +2,14 @@
   "id": 354383103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.238549,34.802275,-81.238549,34.802275",
     "geom:latitude":34.802275,
     "geom:longitude":-81.238549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"728 Charity Rd",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354383103,
-    "wof:lastmodified":1449066645,
+    "wof:lastmodified":1467082431,
     "wof:name":"Brown's Chapel AME Zion Chr",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.238549,34.802275,-81.238549,34.802275],
-  "geometry": {"coordinates":[-81.238549,34.802275],"type":"Point"}
+  "bbox": [
+    -81.238549,
+    34.802275,
+    -81.238549,
+    34.802275
+],
+  "geometry": {"coordinates":[-81.23854900000001,34.802275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169723371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.288435,33.371885,-79.288435,33.371885",
     "geom:latitude":33.371885,
     "geom:longitude":-79.288435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Prince St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169723371,
-    "wof:lastmodified":1449034619,
+    "wof:lastmodified":1467082384,
     "wof:name":"Jesse Green Electrical Contr",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.288435,33.371885,-79.288435,33.371885],
-  "geometry": {"coordinates":[-79.288435,33.371885],"type":"Point"}
+  "bbox": [
+    -79.288435,
+    33.371885,
+    -79.288435,
+    33.371885
+],
+  "geometry": {"coordinates":[-79.28843500000001,33.371885],"type":"Point"}
 }

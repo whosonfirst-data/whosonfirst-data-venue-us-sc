@@ -2,13 +2,14 @@
   "id": 185606251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.38843,33.880585,-82.38843,33.880585",
     "geom:latitude":33.880585,
     "geom:longitude":-82.38843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"243 Fairway Dr",
     "sg:city":"Mc Cormick",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185606251,
-    "wof:lastmodified":1449006860,
+    "wof:lastmodified":1467082186,
     "wof:name":"Kozy Kats Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "customized"
     ]
 },
-  "bbox": [-82.38843,33.880585,-82.38843,33.880585],
+  "bbox": [
+    -82.38843,
+    33.880585,
+    -82.38843,
+    33.880585
+],
   "geometry": {"coordinates":[-82.38843,33.880585],"type":"Point"}
 }

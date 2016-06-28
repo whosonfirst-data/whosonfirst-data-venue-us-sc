@@ -2,13 +2,14 @@
   "id": 337319463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.625352,35.081332,-81.625352,35.081332",
     "geom:latitude":35.081332,
     "geom:longitude":-81.625352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 Cherokee Ave",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337319463,
-    "wof:lastmodified":1449027263,
+    "wof:lastmodified":1467082277,
     "wof:name":"E & K Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.625352,35.081332,-81.625352,35.081332],
-  "geometry": {"coordinates":[-81.625352,35.081332],"type":"Point"}
+  "bbox": [
+    -81.625352,
+    35.081332,
+    -81.625352,
+    35.081332
+],
+  "geometry": {"coordinates":[-81.62535200000001,35.081332],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370813691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.356947,33.86858,-80.356947,33.86858",
     "geom:latitude":33.86858,
     "geom:longitude":-80.356947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1821 US Hwy 15 S",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370813691,
-    "wof:lastmodified":1449029966,
+    "wof:lastmodified":1467082318,
     "wof:name":"China Wok Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.356947,33.86858,-80.356947,33.86858],
-  "geometry": {"coordinates":[-80.356947,33.86858],"type":"Point"}
+  "bbox": [
+    -80.356947,
+    33.86858,
+    -80.356947,
+    33.86858
+],
+  "geometry": {"coordinates":[-80.35694700000001,33.86858],"type":"Point"}
 }

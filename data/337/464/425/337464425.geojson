@@ -2,13 +2,14 @@
   "id": 337464425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.110439,34.303494,-82.110439,34.303494",
     "geom:latitude":34.303494,
     "geom:longitude":-82.110439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5009 Old Laurens Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337464425,
-    "wof:lastmodified":1449027152,
+    "wof:lastmodified":1467082273,
     "wof:name":"Lakeview Baptist Church",
     "wof:parent_id":85843643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.110439,34.303494,-82.110439,34.303494],
+  "bbox": [
+    -82.110439,
+    34.303494,
+    -82.110439,
+    34.303494
+],
   "geometry": {"coordinates":[-82.110439,34.303494],"type":"Point"}
 }

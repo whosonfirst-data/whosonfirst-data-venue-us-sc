@@ -2,13 +2,14 @@
   "id": 185614671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.339751,34.772573,-82.339751,34.772573",
     "geom:latitude":34.772573,
     "geom:longitude":-82.339751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Lakewood Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185614671,
-    "wof:lastmodified":1449008269,
+    "wof:lastmodified":1467082208,
     "wof:name":"Capstone Properties Inc",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "renovation"
     ]
 },
-  "bbox": [-82.339751,34.772573,-82.339751,34.772573],
-  "geometry": {"coordinates":[-82.339751,34.772573],"type":"Point"}
+  "bbox": [
+    -82.339751,
+    34.772573,
+    -82.339751,
+    34.772573
+],
+  "geometry": {"coordinates":[-82.33975100000001,34.772573],"type":"Point"}
 }

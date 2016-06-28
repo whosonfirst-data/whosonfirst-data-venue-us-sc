@@ -2,13 +2,14 @@
   "id": 370610039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.170867,34.955748,-82.170867,34.955748",
     "geom:latitude":34.955748,
     "geom:longitude":-82.170867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"956 Gap Creek Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370610039,
-    "wof:lastmodified":1449032413,
+    "wof:lastmodified":1467082372,
     "wof:name":"Kid-Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.170867,34.955748,-82.170867,34.955748],
+  "bbox": [
+    -82.170867,
+    34.955748,
+    -82.170867,
+    34.955748
+],
   "geometry": {"coordinates":[-82.170867,34.955748],"type":"Point"}
 }

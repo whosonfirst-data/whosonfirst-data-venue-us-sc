@@ -2,13 +2,14 @@
   "id": 354364907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.687249,33.351034,-80.687249,33.351034",
     "geom:latitude":33.351034,
     "geom:longitude":-80.687249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Reevesville Rd",
     "sg:city":"Bowman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354364907,
-    "wof:lastmodified":1449066909,
+    "wof:lastmodified":1467082437,
     "wof:name":"Bowman City Hall",
     "wof:parent_id":85843475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-80.687249,33.351034,-80.687249,33.351034],
-  "geometry": {"coordinates":[-80.687249,33.351034],"type":"Point"}
+  "bbox": [
+    -80.687249,
+    33.351034,
+    -80.687249,
+    33.351034
+],
+  "geometry": {"coordinates":[-80.68724899999999,33.351034],"type":"Point"}
 }

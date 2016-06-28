@@ -2,13 +2,14 @@
   "id": 370234865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.289508,35.067728,-82.289508,35.067728",
     "geom:latitude":35.067728,
     "geom:longitude":-82.289508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4899 Jordan Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":370234865,
-    "wof:lastmodified":1449032283,
+    "wof:lastmodified":1467082369,
     "wof:name":"Pleasant Hill Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.289508,35.067728,-82.289508,35.067728],
+  "bbox": [
+    -82.289508,
+    35.067728,
+    -82.289508,
+    35.067728
+],
   "geometry": {"coordinates":[-82.289508,35.067728],"type":"Point"}
 }

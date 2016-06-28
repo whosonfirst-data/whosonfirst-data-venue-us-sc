@@ -2,13 +2,14 @@
   "id": 370686509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.933078,32.778709,-79.933078,32.778709",
     "geom:latitude":32.778709,
     "geom:longitude":-79.933078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 King St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370686509,
-    "wof:lastmodified":1449031656,
+    "wof:lastmodified":1467082355,
     "wof:name":"Jack Patla Co",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-79.933078,32.778709,-79.933078,32.778709],
-  "geometry": {"coordinates":[-79.933078,32.778709],"type":"Point"}
+  "bbox": [
+    -79.933078,
+    32.778709,
+    -79.933078,
+    32.778709
+],
+  "geometry": {"coordinates":[-79.93307799999999,32.778709],"type":"Point"}
 }

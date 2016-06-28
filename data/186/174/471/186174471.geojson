@@ -2,13 +2,14 @@
   "id": 186174471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.001404,32.882721,-80.001404,32.882721",
     "geom:latitude":32.882721,
     "geom:longitude":-80.001404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4914 Nesbit Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186174471,
-    "wof:lastmodified":1449050698,
+    "wof:lastmodified":1467082391,
     "wof:name":"Bethel Pentecostal Church",
     "wof:parent_id":85819163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.001404,32.882721,-80.001404,32.882721],
-  "geometry": {"coordinates":[-80.001404,32.882721],"type":"Point"}
+  "bbox": [
+    -80.001404,
+    32.882721,
+    -80.001404,
+    32.882721
+],
+  "geometry": {"coordinates":[-80.00140399999999,32.882721],"type":"Point"}
 }

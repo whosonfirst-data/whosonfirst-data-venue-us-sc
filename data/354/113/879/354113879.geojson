@@ -2,13 +2,14 @@
   "id": 354113879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.934514,33.662457,-78.934514,33.662457",
     "geom:latitude":33.662457,
     "geom:longitude":-78.934514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 Shine Ave",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354113879,
-    "wof:lastmodified":1449067521,
+    "wof:lastmodified":1467082451,
     "wof:name":"South Carolina Electric & Gas",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-78.934514,33.662457,-78.934514,33.662457],
-  "geometry": {"coordinates":[-78.934514,33.662457],"type":"Point"}
+  "bbox": [
+    -78.934514,
+    33.662457,
+    -78.934514,
+    33.662457
+],
+  "geometry": {"coordinates":[-78.93451399999999,33.662457],"type":"Point"}
 }

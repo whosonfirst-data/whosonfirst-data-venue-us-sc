@@ -2,13 +2,14 @@
   "id": 353814263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.707281,33.591838,-79.707281,33.591838",
     "geom:latitude":33.591838,
     "geom:longitude":-79.707281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"477 F Guerry Rd",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353814263,
-    "wof:lastmodified":1449018718,
+    "wof:lastmodified":1467082219,
     "wof:name":"Mc Collough's Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.707281,33.591838,-79.707281,33.591838],
-  "geometry": {"coordinates":[-79.707281,33.591838],"type":"Point"}
+  "bbox": [
+    -79.707281,
+    33.591838,
+    -79.707281,
+    33.591838
+],
+  "geometry": {"coordinates":[-79.70728099999999,33.591838],"type":"Point"}
 }

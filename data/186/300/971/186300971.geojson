@@ -2,13 +2,14 @@
   "id": 186300971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.016883,35.011468,-82.016883,35.011468",
     "geom:latitude":35.011468,
     "geom:longitude":-82.016883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8975 Asheville Hwy",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186300971,
-    "wof:lastmodified":1449051893,
+    "wof:lastmodified":1467082402,
     "wof:name":"N J Renfro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.016883,35.011468,-82.016883,35.011468],
-  "geometry": {"coordinates":[-82.016883,35.011468],"type":"Point"}
+  "bbox": [
+    -82.016883,
+    35.011468,
+    -82.016883,
+    35.011468
+],
+  "geometry": {"coordinates":[-82.01688300000001,35.011468],"type":"Point"}
 }

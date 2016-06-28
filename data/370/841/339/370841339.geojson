@@ -2,13 +2,14 @@
   "id": 370841339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.002103,34.015819,-81.002103,34.015819",
     "geom:latitude":34.015819,
     "geom:longitude":-81.002103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2719 Middleburg Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370841339,
-    "wof:lastmodified":1449029805,
+    "wof:lastmodified":1467082314,
     "wof:name":"Cockrell Ione Insurance & Fin",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.002103,34.015819,-81.002103,34.015819],
-  "geometry": {"coordinates":[-81.002103,34.015819],"type":"Point"}
+  "bbox": [
+    -81.002103,
+    34.015819,
+    -81.002103,
+    34.015819
+],
+  "geometry": {"coordinates":[-81.00210300000001,34.015819],"type":"Point"}
 }

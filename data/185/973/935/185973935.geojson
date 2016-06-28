@@ -2,13 +2,14 @@
   "id": 185973935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.096643,33.013729,-80.096643,33.013729",
     "geom:latitude":33.013729,
     "geom:longitude":-80.096643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 Columbia Dr",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185973935,
-    "wof:lastmodified":1449007578,
+    "wof:lastmodified":1467082197,
     "wof:name":"ABC Siding LLC",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.096643,33.013729,-80.096643,33.013729],
+  "bbox": [
+    -80.096643,
+    33.013729,
+    -80.096643,
+    33.013729
+],
   "geometry": {"coordinates":[-80.096643,33.013729],"type":"Point"}
 }

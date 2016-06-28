@@ -2,13 +2,14 @@
   "id": 370868449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.503762,34.701359,-82.503762,34.701359",
     "geom:latitude":34.701359,
     "geom:longitude":-82.503762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Hurricane Creek Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370868449,
-    "wof:lastmodified":1449029228,
+    "wof:lastmodified":1467082301,
     "wof:name":"Griffin Racing Radiator",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-82.503762,34.701359,-82.503762,34.701359],
-  "geometry": {"coordinates":[-82.503762,34.701359],"type":"Point"}
+  "bbox": [
+    -82.503762,
+    34.701359,
+    -82.503762,
+    34.701359
+],
+  "geometry": {"coordinates":[-82.50376199999999,34.701359],"type":"Point"}
 }

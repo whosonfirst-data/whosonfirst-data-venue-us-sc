@@ -2,13 +2,14 @@
   "id": 370288907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.508786,33.732135,-79.508786,33.732135",
     "geom:latitude":33.732135,
     "geom:longitude":-79.508786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Hemingway Hwy",
     "sg:city":"Hemingway",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370288907,
-    "wof:lastmodified":1449029445,
+    "wof:lastmodified":1467082306,
     "wof:name":"Pizzazz Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.508786,33.732135,-79.508786,33.732135],
+  "bbox": [
+    -79.508786,
+    33.732135,
+    -79.508786,
+    33.732135
+],
   "geometry": {"coordinates":[-79.508786,33.732135],"type":"Point"}
 }

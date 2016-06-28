@@ -2,13 +2,14 @@
   "id": 370159159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.00455,34.913373,-81.00455,34.913373",
     "geom:latitude":34.913373,
     "geom:longitude":-81.00455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1297 Flint St Exd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370159159,
-    "wof:lastmodified":1449029493,
+    "wof:lastmodified":1467082307,
     "wof:name":"GTC Technologies",
     "wof:parent_id":85833915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-81.00455,34.913373,-81.00455,34.913373],
-  "geometry": {"coordinates":[-81.00455,34.913373],"type":"Point"}
+  "bbox": [
+    -81.00455,
+    34.913373,
+    -81.00455,
+    34.913373
+],
+  "geometry": {"coordinates":[-81.00454999999999,34.913373],"type":"Point"}
 }

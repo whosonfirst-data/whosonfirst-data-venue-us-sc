@@ -2,13 +2,14 @@
   "id": 353681125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.523788,34.499004,-82.523788,34.499004",
     "geom:latitude":34.499004,
     "geom:longitude":-82.523788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6135 Belton Hwy",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353681125,
-    "wof:lastmodified":1449019844,
+    "wof:lastmodified":1467082242,
     "wof:name":"Mike Bell Paint Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-82.523788,34.499004,-82.523788,34.499004],
+  "bbox": [
+    -82.523788,
+    34.499004,
+    -82.523788,
+    34.499004
+],
   "geometry": {"coordinates":[-82.523788,34.499004],"type":"Point"}
 }

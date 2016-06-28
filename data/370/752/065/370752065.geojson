@@ -2,13 +2,14 @@
   "id": 370752065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.591734,34.825544,-82.591734,34.825544",
     "geom:latitude":34.825544,
     "geom:longitude":-82.591734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 S B St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370752065,
-    "wof:lastmodified":1449029656,
+    "wof:lastmodified":1467082310,
     "wof:name":"Gilstrap's Grocery",
     "wof:parent_id":85804075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-82.591734,34.825544,-82.591734,34.825544],
+  "bbox": [
+    -82.591734,
+    34.825544,
+    -82.591734,
+    34.825544
+],
   "geometry": {"coordinates":[-82.591734,34.825544],"type":"Point"}
 }

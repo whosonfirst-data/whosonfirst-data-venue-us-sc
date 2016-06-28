@@ -2,13 +2,14 @@
   "id": 370373953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.855756,33.51024,-80.855756,33.51024",
     "geom:latitude":33.51024,
     "geom:longitude":-80.855756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 Chestnut St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370373953,
-    "wof:lastmodified":1449030834,
+    "wof:lastmodified":1467082336,
     "wof:name":"Golden China",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.855756,33.51024,-80.855756,33.51024],
+  "bbox": [
+    -80.855756,
+    33.51024,
+    -80.855756,
+    33.51024
+],
   "geometry": {"coordinates":[-80.855756,33.51024],"type":"Point"}
 }

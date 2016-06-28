@@ -2,13 +2,14 @@
   "id": 370372991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.383418,33.915835,-80.383418,33.915835",
     "geom:latitude":33.915835,
     "geom:longitude":-80.383418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 W Liberty St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370372991,
-    "wof:lastmodified":1449031137,
+    "wof:lastmodified":1467082343,
     "wof:name":"Community Resource Mortgage",
     "wof:parent_id":85817433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-80.383418,33.915835,-80.383418,33.915835],
-  "geometry": {"coordinates":[-80.383418,33.915835],"type":"Point"}
+  "bbox": [
+    -80.383418,
+    33.915835,
+    -80.383418,
+    33.915835
+],
+  "geometry": {"coordinates":[-80.38341800000001,33.915835],"type":"Point"}
 }

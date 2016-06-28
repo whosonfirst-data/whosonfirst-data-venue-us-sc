@@ -2,13 +2,14 @@
   "id": 169733163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.379604,34.739824,-82.379604,34.739824",
     "geom:latitude":34.739824,
     "geom:longitude":-82.379604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2003 Perimeter Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169733163,
-    "wof:lastmodified":1449033151,
+    "wof:lastmodified":1467082378,
     "wof:name":"Liquid Floor Systems",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "floor"
     ]
 },
-  "bbox": [-82.379604,34.739824,-82.379604,34.739824],
+  "bbox": [
+    -82.379604,
+    34.739824,
+    -82.379604,
+    34.739824
+],
   "geometry": {"coordinates":[-82.379604,34.739824],"type":"Point"}
 }

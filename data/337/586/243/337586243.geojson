@@ -2,13 +2,14 @@
   "id": 337586243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.076938,34.981626,-81.076938,34.981626",
     "geom:latitude":34.981626,
     "geom:longitude":-81.076938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"196 Grayson Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337586243,
-    "wof:lastmodified":1449027649,
+    "wof:lastmodified":1467082292,
     "wof:name":"Rock Hill Jaycees",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-81.076938,34.981626,-81.076938,34.981626],
+  "bbox": [
+    -81.076938,
+    34.981626,
+    -81.076938,
+    34.981626
+],
   "geometry": {"coordinates":[-81.076938,34.981626],"type":"Point"}
 }

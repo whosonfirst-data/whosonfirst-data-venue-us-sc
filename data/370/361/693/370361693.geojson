@@ -2,13 +2,14 @@
   "id": 370361693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.991855,32.901653,-79.991855,32.901653",
     "geom:latitude":32.901653,
     "geom:longitude":-79.991855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1275 Remount Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370361693,
-    "wof:lastmodified":1449031559,
+    "wof:lastmodified":1467082353,
     "wof:name":"Charleston Funtime",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.991855,32.901653,-79.991855,32.901653],
+  "bbox": [
+    -79.991855,
+    32.901653,
+    -79.991855,
+    32.901653
+],
   "geometry": {"coordinates":[-79.991855,32.901653],"type":"Point"}
 }

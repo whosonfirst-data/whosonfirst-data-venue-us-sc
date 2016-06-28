@@ -2,13 +2,14 @@
   "id": 370881925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.79418,34.270757,-80.79418,34.270757",
     "geom:latitude":34.270757,
     "geom:longitude":-80.79418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2063 Salt Pond Rd",
     "sg:city":"Lugoff",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370881925,
-    "wof:lastmodified":1449031036,
+    "wof:lastmodified":1467082341,
     "wof:name":"Smart One Shopping",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.79418,34.270757,-80.79418,34.270757],
+  "bbox": [
+    -80.79418,
+    34.270757,
+    -80.79418,
+    34.270757
+],
   "geometry": {"coordinates":[-80.79418,34.270757],"type":"Point"}
 }

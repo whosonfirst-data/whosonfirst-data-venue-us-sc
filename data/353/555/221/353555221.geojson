@@ -2,13 +2,14 @@
   "id": 353555221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.940165,32.782783,-79.940165,32.782783",
     "geom:latitude":32.782783,
     "geom:longitude":-79.940165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Pitt St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353555221,
-    "wof:lastmodified":1449020445,
+    "wof:lastmodified":1467082254,
     "wof:name":"Bethel United Methodist Church",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.940165,32.782783,-79.940165,32.782783],
-  "geometry": {"coordinates":[-79.940165,32.782783],"type":"Point"}
+  "bbox": [
+    -79.940165,
+    32.782783,
+    -79.940165,
+    32.782783
+],
+  "geometry": {"coordinates":[-79.94016499999999,32.782783],"type":"Point"}
 }

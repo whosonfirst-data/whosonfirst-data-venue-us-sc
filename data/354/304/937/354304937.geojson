@@ -2,13 +2,14 @@
   "id": 354304937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.346879,33.895389,-80.346879,33.895389",
     "geom:latitude":33.895389,
     "geom:longitude":-80.346879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Jonathan St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354304937,
-    "wof:lastmodified":1449067222,
+    "wof:lastmodified":1467082444,
     "wof:name":"Glisson Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.346879,33.895389,-80.346879,33.895389],
+  "bbox": [
+    -80.346879,
+    33.895389,
+    -80.346879,
+    33.895389
+],
   "geometry": {"coordinates":[-80.346879,33.895389],"type":"Point"}
 }

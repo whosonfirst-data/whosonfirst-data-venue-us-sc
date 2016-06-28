@@ -2,13 +2,14 @@
   "id": 370437379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.816614,34.176739,-79.816614,34.176739",
     "geom:latitude":34.176739,
     "geom:longitude":-79.816614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 W Lillian Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370437379,
-    "wof:lastmodified":1449031540,
+    "wof:lastmodified":1467082352,
     "wof:name":"Mac's Brass Refinishing",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brass"
     ]
 },
-  "bbox": [-79.816614,34.176739,-79.816614,34.176739],
+  "bbox": [
+    -79.816614,
+    34.176739,
+    -79.816614,
+    34.176739
+],
   "geometry": {"coordinates":[-79.816614,34.176739],"type":"Point"}
 }

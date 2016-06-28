@@ -2,13 +2,14 @@
   "id": 370632331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.429989,34.915507,-82.429989,34.915507",
     "geom:latitude":34.915507,
     "geom:longitude":-82.429989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2627 Poinsett Hwy",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370632331,
-    "wof:lastmodified":1449031235,
+    "wof:lastmodified":1467082346,
     "wof:name":"Hillandale Apts",
     "wof:parent_id":85838465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.429989,34.915507,-82.429989,34.915507],
-  "geometry": {"coordinates":[-82.429989,34.915507],"type":"Point"}
+  "bbox": [
+    -82.429989,
+    34.915507,
+    -82.429989,
+    34.915507
+],
+  "geometry": {"coordinates":[-82.42998900000001,34.915507],"type":"Point"}
 }

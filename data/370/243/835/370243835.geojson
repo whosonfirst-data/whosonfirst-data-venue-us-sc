@@ -2,13 +2,14 @@
   "id": 370243835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.923108,33.403,-79.923108,33.403",
     "geom:latitude":33.403,
     "geom:longitude":-79.923108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1158 S Main St",
     "sg:city":"St Stephen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370243835,
-    "wof:lastmodified":1449030193,
+    "wof:lastmodified":1467082323,
     "wof:name":"County Magistrate",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-79.923108,33.403,-79.923108,33.403],
+  "bbox": [
+    -79.923108,
+    33.403,
+    -79.923108,
+    33.403
+],
   "geometry": {"coordinates":[-79.923108,33.403],"type":"Point"}
 }

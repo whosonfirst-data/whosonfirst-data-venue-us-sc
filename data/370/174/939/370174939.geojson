@@ -2,13 +2,14 @@
   "id": 370174939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.988498,34.938619,-81.988498,34.938619",
     "geom:latitude":34.938619,
     "geom:longitude":-81.988498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Westgate Mall Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370174939,
-    "wof:lastmodified":1449029555,
+    "wof:lastmodified":1467082308,
     "wof:name":"Stravolo & Co",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-81.988498,34.938619,-81.988498,34.938619],
-  "geometry": {"coordinates":[-81.988498,34.938619],"type":"Point"}
+  "bbox": [
+    -81.988498,
+    34.938619,
+    -81.988498,
+    34.938619
+],
+  "geometry": {"coordinates":[-81.98849800000001,34.938619],"type":"Point"}
 }

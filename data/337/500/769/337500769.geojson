@@ -2,13 +2,14 @@
   "id": 337500769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.865245,32.237307,-80.865245,32.237307",
     "geom:latitude":32.237307,
     "geom:longitude":-80.865245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1263 May River Rd",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337500769,
-    "wof:lastmodified":1449027123,
+    "wof:lastmodified":1467082272,
     "wof:name":"Commonwealth Insurance Brokers",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.865245,32.237307,-80.865245,32.237307],
+  "bbox": [
+    -80.865245,
+    32.237307,
+    -80.865245,
+    32.237307
+],
   "geometry": {"coordinates":[-80.865245,32.237307],"type":"Point"}
 }

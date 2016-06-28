@@ -2,13 +2,14 @@
   "id": 370798941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.821122,32.840623,-79.821122,32.840623",
     "geom:latitude":32.840623,
     "geom:longitude":-79.821122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1129 Parkway Dr",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370798941,
-    "wof:lastmodified":1449029722,
+    "wof:lastmodified":1467082312,
     "wof:name":"Sentinal Window Strength Film",
     "wof:parent_id":85840345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tinting"
     ]
 },
-  "bbox": [-79.821122,32.840623,-79.821122,32.840623],
+  "bbox": [
+    -79.821122,
+    32.840623,
+    -79.821122,
+    32.840623
+],
   "geometry": {"coordinates":[-79.821122,32.840623],"type":"Point"}
 }

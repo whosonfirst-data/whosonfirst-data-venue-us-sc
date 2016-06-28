@@ -2,13 +2,14 @@
   "id": 186298665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.056458,34.544542,-83.056458,34.544542",
     "geom:latitude":34.544542,
     "geom:longitude":-83.056458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Chickasaw Dr",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186298665,
-    "wof:lastmodified":1449051110,
+    "wof:lastmodified":1467082395,
     "wof:name":"Chichasaw Point Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "land"
     ]
 },
-  "bbox": [-83.056458,34.544542,-83.056458,34.544542],
-  "geometry": {"coordinates":[-83.056458,34.544542],"type":"Point"}
+  "bbox": [
+    -83.056458,
+    34.544542,
+    -83.056458,
+    34.544542
+],
+  "geometry": {"coordinates":[-83.05645800000001,34.544542],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354274379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.171196,33.025216,-80.171196,33.025216",
     "geom:latitude":33.025216,
     "geom:longitude":-80.171196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Main St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354274379,
-    "wof:lastmodified":1449066147,
+    "wof:lastmodified":1467082419,
     "wof:name":"Dorchester Emergency Medical",
     "wof:parent_id":85833421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.171196,33.025216,-80.171196,33.025216],
-  "geometry": {"coordinates":[-80.171196,33.025216],"type":"Point"}
+  "bbox": [
+    -80.171196,
+    33.025216,
+    -80.171196,
+    33.025216
+],
+  "geometry": {"coordinates":[-80.17119599999999,33.025216],"type":"Point"}
 }

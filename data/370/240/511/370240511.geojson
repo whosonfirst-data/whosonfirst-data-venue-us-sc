@@ -2,13 +2,14 @@
   "id": 370240511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.931362,33.790165,-81.931362,33.790165",
     "geom:latitude":33.790165,
     "geom:longitude":-81.931362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Railroad St",
     "sg:city":"Edgefield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370240511,
-    "wof:lastmodified":1449029442,
+    "wof:lastmodified":1467082306,
     "wof:name":"Edgefield County Jail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-81.931362,33.790165,-81.931362,33.790165],
-  "geometry": {"coordinates":[-81.931362,33.790165],"type":"Point"}
+  "bbox": [
+    -81.931362,
+    33.790165,
+    -81.931362,
+    33.790165
+],
+  "geometry": {"coordinates":[-81.93136199999999,33.790165],"type":"Point"}
 }

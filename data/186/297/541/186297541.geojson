@@ -2,13 +2,14 @@
   "id": 186297541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.581214,34.823068,-82.581214,34.823068",
     "geom:latitude":34.823068,
     "geom:longitude":-82.581214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5659 Calhoun Memorial Hwy",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186297541,
-    "wof:lastmodified":1449052081,
+    "wof:lastmodified":1467082404,
     "wof:name":"W S Badcock Corporation",
     "wof:parent_id":85804075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "furniture"
     ]
 },
-  "bbox": [-82.581214,34.823068,-82.581214,34.823068],
+  "bbox": [
+    -82.581214,
+    34.823068,
+    -82.581214,
+    34.823068
+],
   "geometry": {"coordinates":[-82.581214,34.823068],"type":"Point"}
 }

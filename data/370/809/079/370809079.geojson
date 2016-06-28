@@ -2,13 +2,14 @@
   "id": 370809079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.352709,33.338403,-79.352709,33.338403",
     "geom:latitude":33.338403,
     "geom:longitude":-79.352709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1640 Pennyroyal Rd",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370809079,
-    "wof:lastmodified":1449031863,
+    "wof:lastmodified":1467082360,
     "wof:name":"Pennyroyal Memorial Gardens",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-79.352709,33.338403,-79.352709,33.338403],
+  "bbox": [
+    -79.352709,
+    33.338403,
+    -79.352709,
+    33.338403
+],
   "geometry": {"coordinates":[-79.352709,33.338403],"type":"Point"}
 }

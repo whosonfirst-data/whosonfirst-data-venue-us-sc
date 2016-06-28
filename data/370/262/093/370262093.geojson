@@ -2,13 +2,14 @@
   "id": 370262093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.13161,34.809812,-82.13161,34.809812",
     "geom:latitude":34.809812,
     "geom:longitude":-82.13161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 State Hwy 101",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370262093,
-    "wof:lastmodified":1449031177,
+    "wof:lastmodified":1467082344,
     "wof:name":"Gasmart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.13161,34.809812,-82.13161,34.809812],
-  "geometry": {"coordinates":[-82.13161,34.809812],"type":"Point"}
+  "bbox": [
+    -82.13161,
+    34.809812,
+    -82.13161,
+    34.809812
+],
+  "geometry": {"coordinates":[-82.13160999999999,34.809812],"type":"Point"}
 }

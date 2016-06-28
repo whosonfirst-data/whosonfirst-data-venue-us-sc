@@ -2,13 +2,14 @@
   "id": 354036715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.721691,32.216375,-80.721691,32.216375",
     "geom:latitude":32.216375,
     "geom:longitude":-80.721691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Main St",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354036715,
-    "wof:lastmodified":1449066300,
+    "wof:lastmodified":1467082423,
     "wof:name":"Senior Education Alliance",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "citizen"
     ]
 },
-  "bbox": [-80.721691,32.216375,-80.721691,32.216375],
-  "geometry": {"coordinates":[-80.721691,32.216375],"type":"Point"}
+  "bbox": [
+    -80.721691,
+    32.216375,
+    -80.721691,
+    32.216375
+],
+  "geometry": {"coordinates":[-80.72169100000001,32.216375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370824461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.389405,34.773481,-82.389405,34.773481",
     "geom:latitude":34.773481,
     "geom:longitude":-82.389405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Randolph St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370824461,
-    "wof:lastmodified":1449030293,
+    "wof:lastmodified":1467082325,
     "wof:name":"Gambrell's Cabinet Shop",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-82.389405,34.773481,-82.389405,34.773481],
+  "bbox": [
+    -82.389405,
+    34.773481,
+    -82.389405,
+    34.773481
+],
   "geometry": {"coordinates":[-82.389405,34.773481],"type":"Point"}
 }

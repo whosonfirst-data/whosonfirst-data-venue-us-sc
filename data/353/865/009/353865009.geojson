@@ -2,13 +2,14 @@
   "id": 353865009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.935933,34.952251,-81.935933,34.952251",
     "geom:latitude":34.952251,
     "geom:longitude":-81.935933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Library St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353865009,
-    "wof:lastmodified":1449020183,
+    "wof:lastmodified":1467082249,
     "wof:name":"Perrin Perrin Mann & Patterson",
     "wof:parent_id":85826389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.935933,34.952251,-81.935933,34.952251],
-  "geometry": {"coordinates":[-81.935933,34.952251],"type":"Point"}
+  "bbox": [
+    -81.935933,
+    34.952251,
+    -81.935933,
+    34.952251
+],
+  "geometry": {"coordinates":[-81.93593300000001,34.952251],"type":"Point"}
 }

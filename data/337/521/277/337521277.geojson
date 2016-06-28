@@ -2,13 +2,14 @@
   "id": 337521277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.843108,33.489467,-80.843108,33.489467",
     "geom:latitude":33.489467,
     "geom:longitude":-80.843108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 John C Calhoun Dr",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337521277,
-    "wof:lastmodified":1449027700,
+    "wof:lastmodified":1467082294,
     "wof:name":"Seymour's Barn",
     "wof:parent_id":85843475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-80.843108,33.489467,-80.843108,33.489467],
+  "bbox": [
+    -80.843108,
+    33.489467,
+    -80.843108,
+    33.489467
+],
   "geometry": {"coordinates":[-80.843108,33.489467],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337312183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.629491,34.71592,-81.629491,34.71592",
     "geom:latitude":34.71592,
     "geom:longitude":-81.629491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N Boyce St",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337312183,
-    "wof:lastmodified":1449027362,
+    "wof:lastmodified":1467082281,
     "wof:name":"Mutual Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.629491,34.71592,-81.629491,34.71592],
+  "bbox": [
+    -81.629491,
+    34.71592,
+    -81.629491,
+    34.71592
+],
   "geometry": {"coordinates":[-81.629491,34.71592],"type":"Point"}
 }

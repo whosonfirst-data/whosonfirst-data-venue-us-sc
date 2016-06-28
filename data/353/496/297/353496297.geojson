@@ -2,13 +2,14 @@
   "id": 353496297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.216456,33.838628,-79.216456,33.838628",
     "geom:latitude":33.838628,
     "geom:longitude":-79.216456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7074 Oak Grove Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353496297,
-    "wof:lastmodified":1449020435,
+    "wof:lastmodified":1467082254,
     "wof:name":"B&B Wholesalers Inc",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-79.216456,33.838628,-79.216456,33.838628],
-  "geometry": {"coordinates":[-79.216456,33.838628],"type":"Point"}
+  "bbox": [
+    -79.216456,
+    33.838628,
+    -79.216456,
+    33.838628
+],
+  "geometry": {"coordinates":[-79.21645599999999,33.838628],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337365611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.365624,34.428148,-79.365624,34.428148",
     "geom:latitude":34.428148,
     "geom:longitude":-79.365624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 N 1st Ave",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337365611,
-    "wof:lastmodified":1449027057,
+    "wof:lastmodified":1467082269,
     "wof:name":"Allen's Home & Garden Ctr",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.365624,34.428148,-79.365624,34.428148],
+  "bbox": [
+    -79.365624,
+    34.428148,
+    -79.365624,
+    34.428148
+],
   "geometry": {"coordinates":[-79.365624,34.428148],"type":"Point"}
 }

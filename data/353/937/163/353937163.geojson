@@ -2,13 +2,14 @@
   "id": 353937163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.556054,34.216337,-80.556054,34.216337",
     "geom:latitude":34.216337,
     "geom:longitude":-80.556054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"595 Black River Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353937163,
-    "wof:lastmodified":1449018737,
+    "wof:lastmodified":1467082219,
     "wof:name":"Smith's Mobile Home Park",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-80.556054,34.216337,-80.556054,34.216337],
+  "bbox": [
+    -80.556054,
+    34.216337,
+    -80.556054,
+    34.216337
+],
   "geometry": {"coordinates":[-80.556054,34.216337],"type":"Point"}
 }

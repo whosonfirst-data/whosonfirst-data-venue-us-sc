@@ -2,13 +2,14 @@
   "id": 169722349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.293627,34.842789,-82.293627,34.842789",
     "geom:latitude":34.842789,
     "geom:longitude":-82.293627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Ponders Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169722349,
-    "wof:lastmodified":1449033846,
+    "wof:lastmodified":1467082381,
     "wof:name":"Medi-Quick Systems Inc",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "software"
     ]
 },
-  "bbox": [-82.293627,34.842789,-82.293627,34.842789],
+  "bbox": [
+    -82.293627,
+    34.842789,
+    -82.293627,
+    34.842789
+],
   "geometry": {"coordinates":[-82.293627,34.842789],"type":"Point"}
 }

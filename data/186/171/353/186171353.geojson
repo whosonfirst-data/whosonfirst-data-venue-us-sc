@@ -2,13 +2,14 @@
   "id": 186171353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.746053,32.381585,-80.746053,32.381585",
     "geom:latitude":32.381585,
     "geom:longitude":-80.746053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5007 Dogwood St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186171353,
-    "wof:lastmodified":1449053042,
+    "wof:lastmodified":1467082413,
     "wof:name":"Kintz Electric",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.746053,32.381585,-80.746053,32.381585],
+  "bbox": [
+    -80.746053,
+    32.381585,
+    -80.746053,
+    32.381585
+],
   "geometry": {"coordinates":[-80.746053,32.381585],"type":"Point"}
 }

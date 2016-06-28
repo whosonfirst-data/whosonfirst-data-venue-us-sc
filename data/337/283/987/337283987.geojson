@@ -2,13 +2,14 @@
   "id": 337283987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.725704,34.149505,-79.725704,34.149505",
     "geom:latitude":34.149505,
     "geom:longitude":-79.725704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2002 Cypress Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337283987,
-    "wof:lastmodified":1449027184,
+    "wof:lastmodified":1467082274,
     "wof:name":"Jamie Belk Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.725704,34.149505,-79.725704,34.149505],
-  "geometry": {"coordinates":[-79.725704,34.149505],"type":"Point"}
+  "bbox": [
+    -79.725704,
+    34.149505,
+    -79.725704,
+    34.149505
+],
+  "geometry": {"coordinates":[-79.72570399999999,34.149505],"type":"Point"}
 }

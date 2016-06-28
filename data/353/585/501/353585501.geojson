@@ -2,13 +2,14 @@
   "id": 353585501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.379137,34.178144,-82.379137,34.178144",
     "geom:latitude":34.178144,
     "geom:longitude":-82.379137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Washington St",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353585501,
-    "wof:lastmodified":1449019944,
+    "wof:lastmodified":1467082244,
     "wof:name":"Big B's Bbq",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbecue"
     ]
 },
-  "bbox": [-82.379137,34.178144,-82.379137,34.178144],
+  "bbox": [
+    -82.379137,
+    34.178144,
+    -82.379137,
+    34.178144
+],
   "geometry": {"coordinates":[-82.379137,34.178144],"type":"Point"}
 }

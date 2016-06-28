@@ -2,13 +2,14 @@
   "id": 370536019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.400313,34.849967,-82.400313,34.849967",
     "geom:latitude":34.849967,
     "geom:longitude":-82.400313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 W McBee Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370536019,
-    "wof:lastmodified":1449031097,
+    "wof:lastmodified":1467082342,
     "wof:name":"Cazbah",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.400313,34.849967,-82.400313,34.849967],
+  "bbox": [
+    -82.400313,
+    34.849967,
+    -82.400313,
+    34.849967
+],
   "geometry": {"coordinates":[-82.400313,34.849967],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370608279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.076857,33.973035,-81.076857,33.973035",
     "geom:latitude":33.973035,
     "geom:longitude":-81.076857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1474 Charleston Hwy",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370608279,
-    "wof:lastmodified":1449030531,
+    "wof:lastmodified":1467082330,
     "wof:name":"American Beach Bingo",
     "wof:parent_id":85808009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "game"
     ]
 },
-  "bbox": [-81.076857,33.973035,-81.076857,33.973035],
+  "bbox": [
+    -81.076857,
+    33.973035,
+    -81.076857,
+    33.973035
+],
   "geometry": {"coordinates":[-81.076857,33.973035],"type":"Point"}
 }

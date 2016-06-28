@@ -2,13 +2,14 @@
   "id": 337364473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.160313,34.957224,-81.160313,34.957224",
     "geom:latitude":34.957224,
     "geom:longitude":-81.160313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2784 Billy Wilson Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337364473,
-    "wof:lastmodified":1449027403,
+    "wof:lastmodified":1467082283,
     "wof:name":"Rag's Welding",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-81.160313,34.957224,-81.160313,34.957224],
+  "bbox": [
+    -81.160313,
+    34.957224,
+    -81.160313,
+    34.957224
+],
   "geometry": {"coordinates":[-81.160313,34.957224],"type":"Point"}
 }

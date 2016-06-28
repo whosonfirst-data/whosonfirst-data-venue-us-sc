@@ -2,13 +2,14 @@
   "id": 353805193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.91066,33.682319,-78.91066,33.682319",
     "geom:latitude":33.682319,
     "geom:longitude":-78.91066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 17th Ave S",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353805193,
-    "wof:lastmodified":1449019114,
+    "wof:lastmodified":1467082227,
     "wof:name":"Whispering Pines Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-78.91066,33.682319,-78.91066,33.682319],
-  "geometry": {"coordinates":[-78.91066,33.682319],"type":"Point"}
+  "bbox": [
+    -78.91066,
+    33.682319,
+    -78.91066,
+    33.682319
+],
+  "geometry": {"coordinates":[-78.91065999999999,33.682319],"type":"Point"}
 }

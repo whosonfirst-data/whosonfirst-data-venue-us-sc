@@ -2,13 +2,14 @@
   "id": 169828573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.761717,32.197079,-80.761717,32.197079",
     "geom:latitude":32.197079,
     "geom:longitude":-80.761717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Bluebell Ln",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169828573,
-    "wof:lastmodified":1449034356,
+    "wof:lastmodified":1467082383,
     "wof:name":"Wilborn's Locks & Alarms",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-80.761717,32.197079,-80.761717,32.197079],
+  "bbox": [
+    -80.761717,
+    32.197079,
+    -80.761717,
+    32.197079
+],
   "geometry": {"coordinates":[-80.761717,32.197079],"type":"Point"}
 }

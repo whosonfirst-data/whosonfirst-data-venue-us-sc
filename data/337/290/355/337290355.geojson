@@ -2,13 +2,14 @@
   "id": 337290355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.797679,34.673229,-82.797679,34.673229",
     "geom:latitude":34.673229,
     "geom:longitude":-82.797679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Berkeley Dr",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337290355,
-    "wof:lastmodified":1449027287,
+    "wof:lastmodified":1467082278,
     "wof:name":"Ashley Dearing Park",
     "wof:parent_id":85808967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-82.797679,34.673229,-82.797679,34.673229],
+  "bbox": [
+    -82.797679,
+    34.673229,
+    -82.797679,
+    34.673229
+],
   "geometry": {"coordinates":[-82.797679,34.673229],"type":"Point"}
 }

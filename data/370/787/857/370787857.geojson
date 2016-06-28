@@ -2,13 +2,14 @@
   "id": 370787857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.964957,34.882915,-81.964957,34.882915",
     "geom:latitude":34.882915,
     "geom:longitude":-81.964957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Sunset Dr",
     "sg:city":"Roebuck",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370787857,
-    "wof:lastmodified":1449030629,
+    "wof:lastmodified":1467082332,
     "wof:name":"Light N Up Inc",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lighting"
     ]
 },
-  "bbox": [-81.964957,34.882915,-81.964957,34.882915],
+  "bbox": [
+    -81.964957,
+    34.882915,
+    -81.964957,
+    34.882915
+],
   "geometry": {"coordinates":[-81.964957,34.882915],"type":"Point"}
 }

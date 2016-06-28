@@ -2,13 +2,14 @@
   "id": 370850353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.298398,34.874763,-82.298398,34.874763",
     "geom:latitude":34.874763,
     "geom:longitude":-82.298398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 White Kirk Way",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370850353,
-    "wof:lastmodified":1449031033,
+    "wof:lastmodified":1467082341,
     "wof:name":"S & W Commodities LLC",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contract"
     ]
 },
-  "bbox": [-82.298398,34.874763,-82.298398,34.874763],
-  "geometry": {"coordinates":[-82.298398,34.874763],"type":"Point"}
+  "bbox": [
+    -82.298398,
+    34.874763,
+    -82.298398,
+    34.874763
+],
+  "geometry": {"coordinates":[-82.29839800000001,34.874763],"type":"Point"}
 }

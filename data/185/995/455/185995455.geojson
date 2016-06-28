@@ -2,13 +2,14 @@
   "id": 185995455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.974905,33.194155,-79.974905,33.194155",
     "geom:latitude":33.194155,
     "geom:longitude":-79.974905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 Stoney Landing Rd",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185995455,
-    "wof:lastmodified":1449008045,
+    "wof:lastmodified":1467082205,
     "wof:name":"Berkeley Museum",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.974905,33.194155,-79.974905,33.194155],
-  "geometry": {"coordinates":[-79.974905,33.194155],"type":"Point"}
+  "bbox": [
+    -79.974905,
+    33.194155,
+    -79.974905,
+    33.194155
+],
+  "geometry": {"coordinates":[-79.97490500000001,33.194155],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370738587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.164746,34.189612,-82.164746,34.189612",
     "geom:latitude":34.189612,
     "geom:longitude":-82.164746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Maxwell Ave",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370738587,
-    "wof:lastmodified":1449031571,
+    "wof:lastmodified":1467082353,
     "wof:name":"Eaton Cutler Hammer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "breakers"
     ]
 },
-  "bbox": [-82.164746,34.189612,-82.164746,34.189612],
-  "geometry": {"coordinates":[-82.164746,34.189612],"type":"Point"}
+  "bbox": [
+    -82.164746,
+    34.189612,
+    -82.164746,
+    34.189612
+],
+  "geometry": {"coordinates":[-82.16474599999999,34.189612],"type":"Point"}
 }

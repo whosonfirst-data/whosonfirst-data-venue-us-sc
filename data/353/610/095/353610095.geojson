@@ -2,13 +2,14 @@
   "id": 353610095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.210761,35.055579,-82.210761,35.055579",
     "geom:latitude":35.055579,
     "geom:longitude":-82.210761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Strickland Rd",
     "sg:city":"Campobello",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353610095,
-    "wof:lastmodified":1449020734,
+    "wof:lastmodified":1467082260,
     "wof:name":"5 Talents Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.210761,35.055579,-82.210761,35.055579],
-  "geometry": {"coordinates":[-82.210761,35.055579],"type":"Point"}
+  "bbox": [
+    -82.210761,
+    35.055579,
+    -82.210761,
+    35.055579
+],
+  "geometry": {"coordinates":[-82.21076100000001,35.055579],"type":"Point"}
 }

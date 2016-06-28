@@ -2,13 +2,14 @@
   "id": 186229939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.290715,34.100698,-81.290715,34.100698",
     "geom:latitude":34.100698,
     "geom:longitude":-81.290715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Hilton View Dr",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186229939,
-    "wof:lastmodified":1449052470,
+    "wof:lastmodified":1467082407,
     "wof:name":"Linshaley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-81.290715,34.100698,-81.290715,34.100698],
-  "geometry": {"coordinates":[-81.290715,34.100698],"type":"Point"}
+  "bbox": [
+    -81.290715,
+    34.100698,
+    -81.290715,
+    34.100698
+],
+  "geometry": {"coordinates":[-81.29071500000001,34.100698],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370705501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.896771,33.501933,-81.896771,33.501933",
     "geom:latitude":33.501933,
     "geom:longitude":-81.896771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Belvedere Rd",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370705501,
-    "wof:lastmodified":1449032497,
+    "wof:lastmodified":1467082374,
     "wof:name":"Cafe On The Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.896771,33.501933,-81.896771,33.501933],
+  "bbox": [
+    -81.896771,
+    33.501933,
+    -81.896771,
+    33.501933
+],
   "geometry": {"coordinates":[-81.896771,33.501933],"type":"Point"}
 }

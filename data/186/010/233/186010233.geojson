@@ -2,13 +2,14 @@
   "id": 186010233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.988303,34.961478,-81.988303,34.961478",
     "geom:latitude":34.961478,
     "geom:longitude":-81.988303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"377 Arcadia St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186010233,
-    "wof:lastmodified":1449052042,
+    "wof:lastmodified":1467082403,
     "wof:name":"Arcadia United Methodist Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.988303,34.961478,-81.988303,34.961478],
+  "bbox": [
+    -81.988303,
+    34.961478,
+    -81.988303,
+    34.961478
+],
   "geometry": {"coordinates":[-81.988303,34.961478],"type":"Point"}
 }

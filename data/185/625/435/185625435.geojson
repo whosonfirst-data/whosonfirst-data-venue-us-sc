@@ -2,13 +2,14 @@
   "id": 185625435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.345309,34.892931,-82.345309,34.892931",
     "geom:latitude":34.892931,
     "geom:longitude":-82.345309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2413 Wade Hampton Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185625435,
-    "wof:lastmodified":1449008243,
+    "wof:lastmodified":1467082208,
     "wof:name":"Hickory Ridge Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.345309,34.892931,-82.345309,34.892931],
+  "bbox": [
+    -82.345309,
+    34.892931,
+    -82.345309,
+    34.892931
+],
   "geometry": {"coordinates":[-82.345309,34.892931],"type":"Point"}
 }

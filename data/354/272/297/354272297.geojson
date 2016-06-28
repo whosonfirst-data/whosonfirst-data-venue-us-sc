@@ -2,13 +2,14 @@
   "id": 354272297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.334097,33.924271,-80.334097,33.924271",
     "geom:latitude":33.924271,
     "geom:longitude":-80.334097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 E Calhoun St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354272297,
-    "wof:lastmodified":1449067565,
+    "wof:lastmodified":1467082452,
     "wof:name":"Hodge Distribution & Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-80.334097,33.924271,-80.334097,33.924271],
+  "bbox": [
+    -80.334097,
+    33.924271,
+    -80.334097,
+    33.924271
+],
   "geometry": {"coordinates":[-80.334097,33.924271],"type":"Point"}
 }

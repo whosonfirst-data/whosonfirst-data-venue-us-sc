@@ -2,13 +2,14 @@
   "id": 353817569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.03251,32.814534,-80.03251,32.814534",
     "geom:latitude":32.814534,
     "geom:longitude":-80.03251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 Westchase Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353817569,
-    "wof:lastmodified":1449020326,
+    "wof:lastmodified":1467082252,
     "wof:name":"Holy City Restoration",
     "wof:parent_id":85809785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.03251,32.814534,-80.03251,32.814534],
+  "bbox": [
+    -80.03251,
+    32.814534,
+    -80.03251,
+    32.814534
+],
   "geometry": {"coordinates":[-80.03251,32.814534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186035861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.420663,34.584841,-79.420663,34.584841",
     "geom:latitude":34.584841,
     "geom:longitude":-79.420663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4423 Hwy 57 N",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186035861,
-    "wof:lastmodified":1449052496,
+    "wof:lastmodified":1467082408,
     "wof:name":"Leland Grove Freewill Baptist",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.420663,34.584841,-79.420663,34.584841],
+  "bbox": [
+    -79.420663,
+    34.584841,
+    -79.420663,
+    34.584841
+],
   "geometry": {"coordinates":[-79.420663,34.584841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354024583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.992352,32.921461,-79.992352,32.921461",
     "geom:latitude":32.921461,
     "geom:longitude":-79.992352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5861 N Rhett Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354024583,
-    "wof:lastmodified":1449066734,
+    "wof:lastmodified":1467082433,
     "wof:name":"Hanahan's Neighborhood Pub",
     "wof:parent_id":85823911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-79.992352,32.921461,-79.992352,32.921461],
+  "bbox": [
+    -79.992352,
+    32.921461,
+    -79.992352,
+    32.921461
+],
   "geometry": {"coordinates":[-79.992352,32.921461],"type":"Point"}
 }

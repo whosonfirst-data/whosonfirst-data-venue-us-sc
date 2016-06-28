@@ -2,13 +2,14 @@
   "id": 337437591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.566421,33.990048,-79.566421,33.990048",
     "geom:latitude":33.990048,
     "geom:longitude":-79.566421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 S Walnut St",
     "sg:city":"Pamplico",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337437591,
-    "wof:lastmodified":1449027538,
+    "wof:lastmodified":1467082288,
     "wof:name":"Pamplico Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.566421,33.990048,-79.566421,33.990048],
-  "geometry": {"coordinates":[-79.566421,33.990048],"type":"Point"}
+  "bbox": [
+    -79.566421,
+    33.990048,
+    -79.566421,
+    33.990048
+],
+  "geometry": {"coordinates":[-79.56642100000001,33.990048],"type":"Point"}
 }

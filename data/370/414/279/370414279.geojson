@@ -2,13 +2,14 @@
   "id": 370414279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.47065,34.497469,-82.47065,34.497469",
     "geom:latitude":34.497469,
     "geom:longitude":-82.47065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 Floyd Wright Dr",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370414279,
-    "wof:lastmodified":1449030673,
+    "wof:lastmodified":1467082333,
     "wof:name":"Goodman Conveyor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "conveying"
     ]
 },
-  "bbox": [-82.47065,34.497469,-82.47065,34.497469],
-  "geometry": {"coordinates":[-82.47065,34.497469],"type":"Point"}
+  "bbox": [
+    -82.47065,
+    34.497469,
+    -82.47065,
+    34.497469
+],
+  "geometry": {"coordinates":[-82.47065000000001,34.497469],"type":"Point"}
 }

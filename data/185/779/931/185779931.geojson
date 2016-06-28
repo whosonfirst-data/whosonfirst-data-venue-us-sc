@@ -2,13 +2,14 @@
   "id": 185779931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.937398,32.789854,-79.937398,32.789854",
     "geom:latitude":32.789854,
     "geom:longitude":-79.937398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Ann St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185779931,
-    "wof:lastmodified":1449006860,
+    "wof:lastmodified":1467082186,
     "wof:name":"Charleston Tea Co",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-79.937398,32.789854,-79.937398,32.789854],
+  "bbox": [
+    -79.937398,
+    32.789854,
+    -79.937398,
+    32.789854
+],
   "geometry": {"coordinates":[-79.937398,32.789854],"type":"Point"}
 }

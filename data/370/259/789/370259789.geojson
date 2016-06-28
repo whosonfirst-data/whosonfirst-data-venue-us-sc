@@ -2,13 +2,14 @@
   "id": 370259789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.554566,34.673587,-79.554566,34.673587",
     "geom:latitude":34.673587,
     "geom:longitude":-79.554566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N Main St",
     "sg:city":"Mc Coll",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370259789,
-    "wof:lastmodified":1449029864,
+    "wof:lastmodified":1467082315,
     "wof:name":"Helms Tire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-79.554566,34.673587,-79.554566,34.673587],
-  "geometry": {"coordinates":[-79.554566,34.673587],"type":"Point"}
+  "bbox": [
+    -79.554566,
+    34.673587,
+    -79.554566,
+    34.673587
+],
+  "geometry": {"coordinates":[-79.55456599999999,34.673587],"type":"Point"}
 }

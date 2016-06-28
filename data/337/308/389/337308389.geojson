@@ -2,13 +2,14 @@
   "id": 337308389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.950933,32.784051,-79.950933,32.784051",
     "geom:latitude":32.784051,
     "geom:longitude":-79.950933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Doughty St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337308389,
-    "wof:lastmodified":1449027758,
+    "wof:lastmodified":1467082295,
     "wof:name":"Eye-Care Optical",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.950933,32.784051,-79.950933,32.784051],
-  "geometry": {"coordinates":[-79.950933,32.784051],"type":"Point"}
+  "bbox": [
+    -79.950933,
+    32.784051,
+    -79.950933,
+    32.784051
+],
+  "geometry": {"coordinates":[-79.95093300000001,32.784051],"type":"Point"}
 }

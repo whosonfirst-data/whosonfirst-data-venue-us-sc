@@ -2,13 +2,14 @@
   "id": 337592221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.338872,33.924054,-80.338872,33.924054",
     "geom:latitude":33.924054,
     "geom:longitude":-80.338872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 E Calhoun St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":337592221,
-    "wof:lastmodified":1449027417,
+    "wof:lastmodified":1467082283,
     "wof:name":"Sumter Chamber Of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "commerce"
     ]
 },
-  "bbox": [-80.338872,33.924054,-80.338872,33.924054],
-  "geometry": {"coordinates":[-80.338872,33.924054],"type":"Point"}
+  "bbox": [
+    -80.338872,
+    33.924054,
+    -80.338872,
+    33.924054
+],
+  "geometry": {"coordinates":[-80.33887199999999,33.924054],"type":"Point"}
 }

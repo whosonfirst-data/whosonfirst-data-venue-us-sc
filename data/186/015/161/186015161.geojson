@@ -2,13 +2,14 @@
   "id": 186015161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.029352,35.014802,-81.029352,35.014802",
     "geom:latitude":35.014802,
     "geom:longitude":-81.029352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2860 Lake Wylie Dr",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186015161,
-    "wof:lastmodified":1449051011,
+    "wof:lastmodified":1467082394,
     "wof:name":"Hull House Construction LLC",
     "wof:parent_id":85810107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.029352,35.014802,-81.029352,35.014802],
+  "bbox": [
+    -81.029352,
+    35.014802,
+    -81.029352,
+    35.014802
+],
   "geometry": {"coordinates":[-81.029352,35.014802],"type":"Point"}
 }

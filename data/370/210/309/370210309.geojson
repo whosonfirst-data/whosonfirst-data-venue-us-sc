@@ -2,13 +2,14 @@
   "id": 370210309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.914655,33.545509,-80.914655,33.545509",
     "geom:latitude":33.545509,
     "geom:longitude":-80.914655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4166 North Rd",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370210309,
-    "wof:lastmodified":1449030249,
+    "wof:lastmodified":1467082324,
     "wof:name":"Palmetto Outdoor Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mower"
     ]
 },
-  "bbox": [-80.914655,33.545509,-80.914655,33.545509],
+  "bbox": [
+    -80.914655,
+    33.545509,
+    -80.914655,
+    33.545509
+],
   "geometry": {"coordinates":[-80.914655,33.545509],"type":"Point"}
 }

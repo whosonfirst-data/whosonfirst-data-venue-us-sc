@@ -2,13 +2,14 @@
   "id": 370485525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.752196,33.872181,-79.752196,33.872181",
     "geom:latitude":33.872181,
     "geom:longitude":-79.752196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 N Church St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370485525,
-    "wof:lastmodified":1449031147,
+    "wof:lastmodified":1467082344,
     "wof:name":"Southern Distributing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.752196,33.872181,-79.752196,33.872181],
+  "bbox": [
+    -79.752196,
+    33.872181,
+    -79.752196,
+    33.872181
+],
   "geometry": {"coordinates":[-79.752196,33.872181],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354382809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.951214,32.815055,-79.951214,32.815055",
     "geom:latitude":32.815055,
     "geom:longitude":-79.951214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 King St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354382809,
-    "wof:lastmodified":1449066363,
+    "wof:lastmodified":1467082424,
     "wof:name":"Dialysis Clinics Inc",
     "wof:parent_id":85836137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-79.951214,32.815055,-79.951214,32.815055],
-  "geometry": {"coordinates":[-79.951214,32.815055],"type":"Point"}
+  "bbox": [
+    -79.951214,
+    32.815055,
+    -79.951214,
+    32.815055
+],
+  "geometry": {"coordinates":[-79.95121399999999,32.815055],"type":"Point"}
 }

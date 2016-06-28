@@ -2,13 +2,14 @@
   "id": 169859171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.842787,33.490746,-80.842787,33.490746",
     "geom:latitude":33.490746,
     "geom:longitude":-80.842787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1278 Whitman St SE",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169859171,
-    "wof:lastmodified":1449035046,
+    "wof:lastmodified":1467082385,
     "wof:name":"Mike's Machine Shop",
     "wof:parent_id":85843475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-80.842787,33.490746,-80.842787,33.490746],
+  "bbox": [
+    -80.842787,
+    33.490746,
+    -80.842787,
+    33.490746
+],
   "geometry": {"coordinates":[-80.842787,33.490746],"type":"Point"}
 }

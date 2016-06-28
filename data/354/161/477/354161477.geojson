@@ -2,13 +2,14 @@
   "id": 354161477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.189286,35.132701,-81.189286,35.132701",
     "geom:latitude":35.132701,
     "geom:longitude":-81.189286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1045 Green Pond Rd",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354161477,
-    "wof:lastmodified":1449066585,
+    "wof:lastmodified":1467082429,
     "wof:name":"Cabinets Plus",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-81.189286,35.132701,-81.189286,35.132701],
+  "bbox": [
+    -81.189286,
+    35.132701,
+    -81.189286,
+    35.132701
+],
   "geometry": {"coordinates":[-81.189286,35.132701],"type":"Point"}
 }

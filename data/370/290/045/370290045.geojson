@@ -2,13 +2,14 @@
   "id": 370290045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.050018,35.043907,-81.050018,35.043907",
     "geom:latitude":35.043907,
     "geom:longitude":-81.050018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4010 Kingfisher Dr",
     "sg:city":"York",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370290045,
-    "wof:lastmodified":1449030544,
+    "wof:lastmodified":1467082330,
     "wof:name":"Commodore Yacht Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.050018,35.043907,-81.050018,35.043907],
-  "geometry": {"coordinates":[-81.050018,35.043907],"type":"Point"}
+  "bbox": [
+    -81.050018,
+    35.043907,
+    -81.050018,
+    35.043907
+],
+  "geometry": {"coordinates":[-81.05001799999999,35.043907],"type":"Point"}
 }

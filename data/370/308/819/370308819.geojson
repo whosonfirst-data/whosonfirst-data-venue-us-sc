@@ -2,13 +2,14 @@
   "id": 370308819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.972016,33.663934,-78.972016,33.663934",
     "geom:latitude":33.663934,
     "geom:longitude":-78.972016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3935 Gladiola Ct",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370308819,
-    "wof:lastmodified":1449032573,
+    "wof:lastmodified":1467082375,
     "wof:name":"David A Murphy Rental",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.972016,33.663934,-78.972016,33.663934],
+  "bbox": [
+    -78.972016,
+    33.663934,
+    -78.972016,
+    33.663934
+],
   "geometry": {"coordinates":[-78.972016,33.663934],"type":"Point"}
 }

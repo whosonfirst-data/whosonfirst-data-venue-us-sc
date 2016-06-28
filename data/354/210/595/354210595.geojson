@@ -2,13 +2,14 @@
   "id": 354210595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.967337,35.029524,-81.967337,35.029524",
     "geom:latitude":35.029524,
     "geom:longitude":-81.967337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2117 Boiling Springs Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354210595,
-    "wof:lastmodified":1449066489,
+    "wof:lastmodified":1467082427,
     "wof:name":"PSI Customs Homes",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-81.967337,35.029524,-81.967337,35.029524],
+  "bbox": [
+    -81.967337,
+    35.029524,
+    -81.967337,
+    35.029524
+],
   "geometry": {"coordinates":[-81.967337,35.029524],"type":"Point"}
 }

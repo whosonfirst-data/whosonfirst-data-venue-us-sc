@@ -2,13 +2,14 @@
   "id": 185989137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.055913,33.84442,-79.055913,33.84442",
     "geom:latitude":33.84442,
     "geom:longitude":-79.055913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 12th Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185989137,
-    "wof:lastmodified":1449007773,
+    "wof:lastmodified":1467082200,
     "wof:name":"Conway Borough Apartments",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-79.055913,33.84442,-79.055913,33.84442],
+  "bbox": [
+    -79.055913,
+    33.84442,
+    -79.055913,
+    33.84442
+],
   "geometry": {"coordinates":[-79.055913,33.84442],"type":"Point"}
 }

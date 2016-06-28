@@ -2,13 +2,14 @@
   "id": 354136751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.417251,33.994707,-80.417251,33.994707",
     "geom:latitude":33.994707,
     "geom:longitude":-80.417251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2910 Thomas Sumter Hwy",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354136751,
-    "wof:lastmodified":1449067654,
+    "wof:lastmodified":1467082454,
     "wof:name":"Sumter Home Insulators",
     "wof:parent_id":85814545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.417251,33.994707,-80.417251,33.994707],
-  "geometry": {"coordinates":[-80.417251,33.994707],"type":"Point"}
+  "bbox": [
+    -80.417251,
+    33.994707,
+    -80.417251,
+    33.994707
+],
+  "geometry": {"coordinates":[-80.41725099999999,33.994707],"type":"Point"}
 }

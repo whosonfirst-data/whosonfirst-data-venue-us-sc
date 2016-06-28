@@ -2,13 +2,14 @@
   "id": 353819335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.492413,33.975687,-80.492413,33.975687",
     "geom:latitude":33.975687,
     "geom:longitude":-80.492413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Hard Pack Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353819335,
-    "wof:lastmodified":1449018860,
+    "wof:lastmodified":1467082222,
     "wof:name":"Service Electric & Plumbing",
     "wof:parent_id":85848059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.492413,33.975687,-80.492413,33.975687],
+  "bbox": [
+    -80.492413,
+    33.975687,
+    -80.492413,
+    33.975687
+],
   "geometry": {"coordinates":[-80.492413,33.975687],"type":"Point"}
 }

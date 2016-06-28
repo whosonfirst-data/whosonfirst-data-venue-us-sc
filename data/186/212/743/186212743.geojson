@@ -2,13 +2,14 @@
   "id": 186212743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.976785,32.881529,-79.976785,32.881529",
     "geom:latitude":32.881529,
     "geom:longitude":-79.976785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1083 E Montague Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186212743,
-    "wof:lastmodified":1449052112,
+    "wof:lastmodified":1467082404,
     "wof:name":"Flories Screen Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trimming"
     ]
 },
-  "bbox": [-79.976785,32.881529,-79.976785,32.881529],
-  "geometry": {"coordinates":[-79.976785,32.881529],"type":"Point"}
+  "bbox": [
+    -79.976785,
+    32.881529,
+    -79.976785,
+    32.881529
+],
+  "geometry": {"coordinates":[-79.97678500000001,32.881529],"type":"Point"}
 }

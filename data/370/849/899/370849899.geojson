@@ -2,13 +2,14 @@
   "id": 370849899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.88023,34.690308,-79.88023,34.690308",
     "geom:latitude":34.690308,
     "geom:longitude":-79.88023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Tote Rd",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370849899,
-    "wof:lastmodified":1449029721,
+    "wof:lastmodified":1467082312,
     "wof:name":"Household Of Faith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.88023,34.690308,-79.88023,34.690308],
+  "bbox": [
+    -79.88023,
+    34.690308,
+    -79.88023,
+    34.690308
+],
   "geometry": {"coordinates":[-79.88023,34.690308],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354020279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.818138,34.171097,-79.818138,34.171097",
     "geom:latitude":34.171097,
     "geom:longitude":-79.818138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 S Cashua Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354020279,
-    "wof:lastmodified":1449066711,
+    "wof:lastmodified":1467082432,
     "wof:name":"Mutual Mortgage",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-79.818138,34.171097,-79.818138,34.171097],
+  "bbox": [
+    -79.818138,
+    34.171097,
+    -79.818138,
+    34.171097
+],
   "geometry": {"coordinates":[-79.818138,34.171097],"type":"Point"}
 }

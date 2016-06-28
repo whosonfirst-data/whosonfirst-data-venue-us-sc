@@ -2,13 +2,14 @@
   "id": 185601955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.570103,34.143852,-79.570103,34.143852",
     "geom:latitude":34.143852,
     "geom:longitude":-79.570103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 Paper Mill Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185601955,
-    "wof:lastmodified":1449007336,
+    "wof:lastmodified":1467082193,
     "wof:name":"North American Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.570103,34.143852,-79.570103,34.143852],
+  "bbox": [
+    -79.570103,
+    34.143852,
+    -79.570103,
+    34.143852
+],
   "geometry": {"coordinates":[-79.570103,34.143852],"type":"Point"}
 }

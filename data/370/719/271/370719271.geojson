@@ -2,13 +2,14 @@
   "id": 370719271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.181749,35.19119,-82.181749,35.19119",
     "geom:latitude":35.19119,
     "geom:longitude":-82.181749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 N Morgan Rd",
     "sg:city":"Landrum",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370719271,
-    "wof:lastmodified":1449029530,
+    "wof:lastmodified":1467082308,
     "wof:name":"Steve Wilson Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.181749,35.19119,-82.181749,35.19119],
+  "bbox": [
+    -82.181749,
+    35.19119,
+    -82.181749,
+    35.19119
+],
   "geometry": {"coordinates":[-82.181749,35.19119],"type":"Point"}
 }

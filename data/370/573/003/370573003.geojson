@@ -2,13 +2,14 @@
   "id": 370573003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.929722,33.789624,-81.929722,33.789624",
     "geom:latitude":33.789624,
     "geom:longitude":-81.929722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Courthouse Sq",
     "sg:city":"Edgefield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370573003,
-    "wof:lastmodified":1449031595,
+    "wof:lastmodified":1467082354,
     "wof:name":"Edgefield County Auditor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [-81.929722,33.789624,-81.929722,33.789624],
+  "bbox": [
+    -81.929722,
+    33.789624,
+    -81.929722,
+    33.789624
+],
   "geometry": {"coordinates":[-81.929722,33.789624],"type":"Point"}
 }

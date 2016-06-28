@@ -2,13 +2,14 @@
   "id": 354069667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.032142,32.911031,-80.032142,32.911031",
     "geom:latitude":32.911031,
     "geom:longitude":-80.032142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2270 Technical Pkwy",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354069667,
-    "wof:lastmodified":1449067039,
+    "wof:lastmodified":1467082440,
     "wof:name":"Dialysis Clinics Inc",
     "wof:parent_id":85825199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.032142,32.911031,-80.032142,32.911031],
-  "geometry": {"coordinates":[-80.032142,32.911031],"type":"Point"}
+  "bbox": [
+    -80.032142,
+    32.911031,
+    -80.032142,
+    32.911031
+],
+  "geometry": {"coordinates":[-80.03214199999999,32.911031],"type":"Point"}
 }

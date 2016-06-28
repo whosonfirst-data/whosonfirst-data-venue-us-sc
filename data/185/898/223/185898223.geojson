@@ -2,13 +2,14 @@
   "id": 185898223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.700254,32.230218,-80.700254,32.230218",
     "geom:latitude":32.230218,
     "geom:longitude":-80.700254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Fort Howell Dr",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185898223,
-    "wof:lastmodified":1449006568,
+    "wof:lastmodified":1467082181,
     "wof:name":"Vincent Turf Corp",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-80.700254,32.230218,-80.700254,32.230218],
+  "bbox": [
+    -80.700254,
+    32.230218,
+    -80.700254,
+    32.230218
+],
   "geometry": {"coordinates":[-80.700254,32.230218],"type":"Point"}
 }

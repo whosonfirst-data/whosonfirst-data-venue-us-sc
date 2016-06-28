@@ -2,13 +2,14 @@
   "id": 370195469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.346032,33.855654,-80.346032,33.855654",
     "geom:latitude":33.855654,
     "geom:longitude":-80.346032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Cotton Tail Ln",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370195469,
-    "wof:lastmodified":1449031303,
+    "wof:lastmodified":1467082347,
     "wof:name":"Turn 2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.346032,33.855654,-80.346032,33.855654],
-  "geometry": {"coordinates":[-80.346032,33.855654],"type":"Point"}
+  "bbox": [
+    -80.346032,
+    33.855654,
+    -80.346032,
+    33.855654
+],
+  "geometry": {"coordinates":[-80.34603199999999,33.855654],"type":"Point"}
 }

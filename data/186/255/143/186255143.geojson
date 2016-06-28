@@ -2,13 +2,14 @@
   "id": 186255143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.783722,34.646872,-82.783722,34.646872",
     "geom:latitude":34.646872,
     "geom:longitude":-82.783722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 S Mechanic St",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186255143,
-    "wof:lastmodified":1449051591,
+    "wof:lastmodified":1467082399,
     "wof:name":"Granny Zuercher's Bakery",
     "wof:parent_id":85858639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.783722,34.646872,-82.783722,34.646872],
+  "bbox": [
+    -82.783722,
+    34.646872,
+    -82.783722,
+    34.646872
+],
   "geometry": {"coordinates":[-82.783722,34.646872],"type":"Point"}
 }

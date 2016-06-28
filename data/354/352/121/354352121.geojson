@@ -2,13 +2,14 @@
   "id": 354352121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.77986,33.669964,-80.77986,33.669964",
     "geom:latitude":33.669964,
     "geom:longitude":-80.77986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Agnes St",
     "sg:city":"St Matthews",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354352121,
-    "wof:lastmodified":1449066983,
+    "wof:lastmodified":1467082438,
     "wof:name":"John Ford Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.77986,33.669964,-80.77986,33.669964],
+  "bbox": [
+    -80.77986,
+    33.669964,
+    -80.77986,
+    33.669964
+],
   "geometry": {"coordinates":[-80.77986,33.669964],"type":"Point"}
 }

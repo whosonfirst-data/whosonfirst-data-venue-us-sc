@@ -2,13 +2,14 @@
   "id": 354276627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.087964,34.032736,-81.087964,34.032736",
     "geom:latitude":34.032736,
     "geom:longitude":-81.087964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1621 Broad River Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354276627,
-    "wof:lastmodified":1449066010,
+    "wof:lastmodified":1467082416,
     "wof:name":"Tall Finery",
     "wof:parent_id":85845041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.087964,34.032736,-81.087964,34.032736],
+  "bbox": [
+    -81.087964,
+    34.032736,
+    -81.087964,
+    34.032736
+],
   "geometry": {"coordinates":[-81.087964,34.032736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353926001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.751612,33.929194,-78.751612,33.929194",
     "geom:latitude":33.929194,
     "geom:longitude":-78.751612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Freemont Rd",
     "sg:city":"Longs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353926001,
-    "wof:lastmodified":1449019142,
+    "wof:lastmodified":1467082228,
     "wof:name":"Longs Head Start",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.751612,33.929194,-78.751612,33.929194],
-  "geometry": {"coordinates":[-78.751612,33.929194],"type":"Point"}
+  "bbox": [
+    -78.751612,
+    33.929194,
+    -78.751612,
+    33.929194
+],
+  "geometry": {"coordinates":[-78.75161199999999,33.929194],"type":"Point"}
 }

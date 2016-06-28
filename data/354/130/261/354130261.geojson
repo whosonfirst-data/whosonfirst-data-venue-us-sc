@@ -2,13 +2,14 @@
   "id": 354130261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.045334,34.953964,-81.045334,34.953964",
     "geom:latitude":34.953964,
     "geom:longitude":-81.045334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Glenwood Dr",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354130261,
-    "wof:lastmodified":1449066497,
+    "wof:lastmodified":1467082427,
     "wof:name":"Rock Hill Veteran's Affair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-81.045334,34.953964,-81.045334,34.953964],
+  "bbox": [
+    -81.045334,
+    34.953964,
+    -81.045334,
+    34.953964
+],
   "geometry": {"coordinates":[-81.045334,34.953964],"type":"Point"}
 }

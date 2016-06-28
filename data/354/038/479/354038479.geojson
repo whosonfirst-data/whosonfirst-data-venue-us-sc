@@ -2,13 +2,14 @@
   "id": 354038479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.701735,34.443974,-82.701735,34.443974",
     "geom:latitude":34.443974,
     "geom:longitude":-82.701735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Hinton Dr",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354038479,
-    "wof:lastmodified":1449067062,
+    "wof:lastmodified":1467082440,
     "wof:name":"Invisible Fence-Coastal",
     "wof:parent_id":85831829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-82.701735,34.443974,-82.701735,34.443974],
+  "bbox": [
+    -82.701735,
+    34.443974,
+    -82.701735,
+    34.443974
+],
   "geometry": {"coordinates":[-82.701735,34.443974],"type":"Point"}
 }

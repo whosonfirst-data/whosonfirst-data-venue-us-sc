@@ -2,13 +2,14 @@
   "id": 370408273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.871481,34.326058,-79.871481,34.326058",
     "geom:latitude":34.326058,
     "geom:longitude":-79.871481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Lawson Rd",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370408273,
-    "wof:lastmodified":1449029507,
+    "wof:lastmodified":1467082307,
     "wof:name":"B Stone Enterprises",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-79.871481,34.326058,-79.871481,34.326058],
+  "bbox": [
+    -79.871481,
+    34.326058,
+    -79.871481,
+    34.326058
+],
   "geometry": {"coordinates":[-79.871481,34.326058],"type":"Point"}
 }

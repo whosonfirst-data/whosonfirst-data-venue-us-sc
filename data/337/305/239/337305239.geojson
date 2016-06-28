@@ -2,13 +2,14 @@
   "id": 337305239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.029846,34.050532,-81.029846,34.050532",
     "geom:latitude":34.050532,
     "geom:longitude":-81.029846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4909 Fairfield Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337305239,
-    "wof:lastmodified":1449027045,
+    "wof:lastmodified":1467082269,
     "wof:name":"Villa Hermosa Village Apts",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.029846,34.050532,-81.029846,34.050532],
-  "geometry": {"coordinates":[-81.029846,34.050532],"type":"Point"}
+  "bbox": [
+    -81.029846,
+    34.050532,
+    -81.029846,
+    34.050532
+],
+  "geometry": {"coordinates":[-81.02984600000001,34.050532],"type":"Point"}
 }

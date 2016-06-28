@@ -2,13 +2,14 @@
   "id": 337446485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.929333,32.787561,-79.929333,32.787561",
     "geom:latitude":32.787561,
     "geom:longitude":-79.929333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 E Bay St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337446485,
-    "wof:lastmodified":1449027664,
+    "wof:lastmodified":1467082292,
     "wof:name":"Bella Donna LLC",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.929333,32.787561,-79.929333,32.787561],
+  "bbox": [
+    -79.929333,
+    32.787561,
+    -79.929333,
+    32.787561
+],
   "geometry": {"coordinates":[-79.929333,32.787561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370731329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.954228,32.829273,-79.954228,32.829273",
     "geom:latitude":32.829273,
     "geom:longitude":-79.954228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1864 Summerville Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370731329,
-    "wof:lastmodified":1449032096,
+    "wof:lastmodified":1467082365,
     "wof:name":"Bills Custom Woodworking",
     "wof:parent_id":85824749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-79.954228,32.829273,-79.954228,32.829273],
+  "bbox": [
+    -79.954228,
+    32.829273,
+    -79.954228,
+    32.829273
+],
   "geometry": {"coordinates":[-79.954228,32.829273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353608105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.196857,33.853159,-79.196857,33.853159",
     "geom:latitude":33.853159,
     "geom:longitude":-79.196857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6095 Ford Taylor Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353608105,
-    "wof:lastmodified":1449019341,
+    "wof:lastmodified":1467082232,
     "wof:name":"Coastal Carolina Apparel",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garment"
     ]
 },
-  "bbox": [-79.196857,33.853159,-79.196857,33.853159],
-  "geometry": {"coordinates":[-79.196857,33.853159],"type":"Point"}
+  "bbox": [
+    -79.196857,
+    33.853159,
+    -79.196857,
+    33.853159
+],
+  "geometry": {"coordinates":[-79.19685699999999,33.853159],"type":"Point"}
 }

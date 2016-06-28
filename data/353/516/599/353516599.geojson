@@ -2,13 +2,14 @@
   "id": 353516599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.076062,32.901944,-80.076062,32.901944",
     "geom:latitude":32.901944,
     "geom:longitude":-80.076062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7163 Cross County Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353516599,
-    "wof:lastmodified":1449018745,
+    "wof:lastmodified":1467082220,
     "wof:name":"Gun & Indoor Range",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sporting"
     ]
 },
-  "bbox": [-80.076062,32.901944,-80.076062,32.901944],
-  "geometry": {"coordinates":[-80.076062,32.901944],"type":"Point"}
+  "bbox": [
+    -80.076062,
+    32.901944,
+    -80.076062,
+    32.901944
+],
+  "geometry": {"coordinates":[-80.07606199999999,32.901944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370830247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.747913,34.209559,-79.747913,34.209559",
     "geom:latitude":34.209559,
     "geom:longitude":-79.747913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 N Lewis Ln",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370830247,
-    "wof:lastmodified":1449029811,
+    "wof:lastmodified":1467082314,
     "wof:name":"R C Ford Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.747913,34.209559,-79.747913,34.209559],
+  "bbox": [
+    -79.747913,
+    34.209559,
+    -79.747913,
+    34.209559
+],
   "geometry": {"coordinates":[-79.747913,34.209559],"type":"Point"}
 }

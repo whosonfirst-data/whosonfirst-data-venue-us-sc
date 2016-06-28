@@ -2,13 +2,14 @@
   "id": 370749959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.341572,34.931678,-82.341572,34.931678",
     "geom:latitude":34.931678,
     "geom:longitude":-82.341572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Stallings Rd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370749959,
-    "wof:lastmodified":1449030074,
+    "wof:lastmodified":1467082320,
     "wof:name":"Hawkins John Phillips 66",
     "wof:parent_id":85857455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "station"
     ]
 },
-  "bbox": [-82.341572,34.931678,-82.341572,34.931678],
+  "bbox": [
+    -82.341572,
+    34.931678,
+    -82.341572,
+    34.931678
+],
   "geometry": {"coordinates":[-82.341572,34.931678],"type":"Point"}
 }

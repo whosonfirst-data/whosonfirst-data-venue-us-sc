@@ -2,13 +2,14 @@
   "id": 370281581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.072574,32.929449,-80.072574,32.929449",
     "geom:latitude":32.929449,
     "geom:longitude":-80.072574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3316 Ashley Phosphate Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370281581,
-    "wof:lastmodified":1449031950,
+    "wof:lastmodified":1467082362,
     "wof:name":"J PS Vacuum and Sewing",
     "wof:parent_id":85803745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-80.072574,32.929449,-80.072574,32.929449],
+  "bbox": [
+    -80.072574,
+    32.929449,
+    -80.072574,
+    32.929449
+],
   "geometry": {"coordinates":[-80.072574,32.929449],"type":"Point"}
 }

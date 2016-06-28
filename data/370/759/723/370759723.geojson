@@ -2,13 +2,14 @@
   "id": 370759723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.650742,35.071067,-81.650742,35.071067",
     "geom:latitude":35.071067,
     "geom:longitude":-81.650742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 S Limestone St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370759723,
-    "wof:lastmodified":1449032526,
+    "wof:lastmodified":1467082375,
     "wof:name":"Cherokee County Chamber-Cmmrc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-81.650742,35.071067,-81.650742,35.071067],
-  "geometry": {"coordinates":[-81.650742,35.071067],"type":"Point"}
+  "bbox": [
+    -81.650742,
+    35.071067,
+    -81.650742,
+    35.071067
+],
+  "geometry": {"coordinates":[-81.65074199999999,35.071067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337353803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.081696,32.903186,-80.081696,32.903186",
     "geom:latitude":32.903186,
     "geom:longitude":-80.081696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7661 Dorchester Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337353803,
-    "wof:lastmodified":1449027174,
+    "wof:lastmodified":1467082274,
     "wof:name":"Structure One Real Estate",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.081696,32.903186,-80.081696,32.903186],
-  "geometry": {"coordinates":[-80.081696,32.903186],"type":"Point"}
+  "bbox": [
+    -80.081696,
+    32.903186,
+    -80.081696,
+    32.903186
+],
+  "geometry": {"coordinates":[-80.08169599999999,32.903186],"type":"Point"}
 }

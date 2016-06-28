@@ -2,13 +2,14 @@
   "id": 353659217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.934424,34.950423,-81.934424,34.950423",
     "geom:latitude":34.950423,
     "geom:longitude":-81.934424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 N Spring St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353659217,
-    "wof:lastmodified":1449018526,
+    "wof:lastmodified":1467082215,
     "wof:name":"Hughes Co",
     "wof:parent_id":85854631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-81.934424,34.950423,-81.934424,34.950423],
-  "geometry": {"coordinates":[-81.934424,34.950423],"type":"Point"}
+  "bbox": [
+    -81.934424,
+    34.950423,
+    -81.934424,
+    34.950423
+],
+  "geometry": {"coordinates":[-81.93442400000001,34.950423],"type":"Point"}
 }

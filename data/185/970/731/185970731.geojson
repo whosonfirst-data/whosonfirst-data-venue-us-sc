@@ -2,13 +2,14 @@
   "id": 185970731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.84324,33.489496,-80.84324,33.489496",
     "geom:latitude":33.489496,
     "geom:longitude":-80.84324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 John C Calhoun Dr",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185970731,
-    "wof:lastmodified":1449008162,
+    "wof:lastmodified":1467082206,
     "wof:name":"Broughton Pawn Shop",
     "wof:parent_id":85843475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.84324,33.489496,-80.84324,33.489496],
-  "geometry": {"coordinates":[-80.84324,33.489496],"type":"Point"}
+  "bbox": [
+    -80.84324,
+    33.489496,
+    -80.84324,
+    33.489496
+],
+  "geometry": {"coordinates":[-80.84323999999999,33.489496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185828019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.976049,34.983884,-81.976049,34.983884",
     "geom:latitude":34.983884,
     "geom:longitude":-81.976049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8055 Howard St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185828019,
-    "wof:lastmodified":1449007450,
+    "wof:lastmodified":1467082195,
     "wof:name":"Freedom Homes",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.976049,34.983884,-81.976049,34.983884],
+  "bbox": [
+    -81.976049,
+    34.983884,
+    -81.976049,
+    34.983884
+],
   "geometry": {"coordinates":[-81.976049,34.983884],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337422641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.014023,33.998757,-81.014023,33.998757",
     "geom:latitude":33.998757,
     "geom:longitude":-81.014023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 Devine St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":337422641,
-    "wof:lastmodified":1449026993,
+    "wof:lastmodified":1467082267,
     "wof:name":"Jake's Bar & Grill",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.014023,33.998757,-81.014023,33.998757],
-  "geometry": {"coordinates":[-81.014023,33.998757],"type":"Point"}
+  "bbox": [
+    -81.014023,
+    33.998757,
+    -81.014023,
+    33.998757
+],
+  "geometry": {"coordinates":[-81.01402299999999,33.998757],"type":"Point"}
 }

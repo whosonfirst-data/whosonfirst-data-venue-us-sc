@@ -2,13 +2,14 @@
   "id": 370159255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.257871,33.013915,-80.257871,33.013915",
     "geom:latitude":33.013915,
     "geom:longitude":-80.257871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"267 E Highland Dr",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370159255,
-    "wof:lastmodified":1449029498,
+    "wof:lastmodified":1467082307,
     "wof:name":"Pd Painting",
     "wof:parent_id":85812305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.257871,33.013915,-80.257871,33.013915],
-  "geometry": {"coordinates":[-80.257871,33.013915],"type":"Point"}
+  "bbox": [
+    -80.257871,
+    33.013915,
+    -80.257871,
+    33.013915
+],
+  "geometry": {"coordinates":[-80.25787099999999,33.013915],"type":"Point"}
 }

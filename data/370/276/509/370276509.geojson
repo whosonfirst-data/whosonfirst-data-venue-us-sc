@@ -2,13 +2,14 @@
   "id": 370276509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.042917,34.063301,-81.042917,34.063301",
     "geom:latitude":34.063301,
     "geom:longitude":-81.042917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"368 Buckner Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370276509,
-    "wof:lastmodified":1449029189,
+    "wof:lastmodified":1467082300,
     "wof:name":"Partners Communications Svc",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.042917,34.063301,-81.042917,34.063301],
+  "bbox": [
+    -81.042917,
+    34.063301,
+    -81.042917,
+    34.063301
+],
   "geometry": {"coordinates":[-81.042917,34.063301],"type":"Point"}
 }

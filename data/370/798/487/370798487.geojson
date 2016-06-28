@@ -2,13 +2,14 @@
   "id": 370798487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.617512,34.293793,-81.617512,34.293793",
     "geom:latitude":34.293793,
     "geom:longitude":-81.617512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1523 Trent St",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370798487,
-    "wof:lastmodified":1449029722,
+    "wof:lastmodified":1467082312,
     "wof:name":"Pederson Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.617512,34.293793,-81.617512,34.293793],
+  "bbox": [
+    -81.617512,
+    34.293793,
+    -81.617512,
+    34.293793
+],
   "geometry": {"coordinates":[-81.617512,34.293793],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354028319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.081611,32.903152,-80.081611,32.903152",
     "geom:latitude":32.903152,
     "geom:longitude":-80.081611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7665 Dorchester Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354028319,
-    "wof:lastmodified":1449066862,
+    "wof:lastmodified":1467082436,
     "wof:name":"AAA Personal Check Advance",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "check"
     ]
 },
-  "bbox": [-80.081611,32.903152,-80.081611,32.903152],
+  "bbox": [
+    -80.081611,
+    32.903152,
+    -80.081611,
+    32.903152
+],
   "geometry": {"coordinates":[-80.081611,32.903152],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337500475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.349043,34.424108,-79.349043,34.424108",
     "geom:latitude":34.424108,
     "geom:longitude":-79.349043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Hillside Dr",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337500475,
-    "wof:lastmodified":1449027122,
+    "wof:lastmodified":1467082272,
     "wof:name":"Home of Darlington",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.349043,34.424108,-79.349043,34.424108],
-  "geometry": {"coordinates":[-79.349043,34.424108],"type":"Point"}
+  "bbox": [
+    -79.349043,
+    34.424108,
+    -79.349043,
+    34.424108
+],
+  "geometry": {"coordinates":[-79.34904299999999,34.424108],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185791105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.004191,32.852873,-80.004191,32.852873",
     "geom:latitude":32.852873,
     "geom:longitude":-80.004191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2666 Industrial Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185791105,
-    "wof:lastmodified":1449007860,
+    "wof:lastmodified":1467082202,
     "wof:name":"A & J Complete Automotive",
     "wof:parent_id":85807225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-80.004191,32.852873,-80.004191,32.852873],
-  "geometry": {"coordinates":[-80.004191,32.852873],"type":"Point"}
+  "bbox": [
+    -80.004191,
+    32.852873,
+    -80.004191,
+    32.852873
+],
+  "geometry": {"coordinates":[-80.00419100000001,32.852873],"type":"Point"}
 }

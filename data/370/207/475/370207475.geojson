@@ -2,13 +2,14 @@
   "id": 370207475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.338788,34.804555,-82.338788,34.804555",
     "geom:latitude":34.804555,
     "geom:longitude":-82.338788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Fairforest Way",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370207475,
-    "wof:lastmodified":1449031453,
+    "wof:lastmodified":1467082351,
     "wof:name":"Bayne Machine Works Inc",
     "wof:parent_id":85827103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.338788,34.804555,-82.338788,34.804555],
-  "geometry": {"coordinates":[-82.338788,34.804555],"type":"Point"}
+  "bbox": [
+    -82.338788,
+    34.804555,
+    -82.338788,
+    34.804555
+],
+  "geometry": {"coordinates":[-82.33878799999999,34.804555],"type":"Point"}
 }

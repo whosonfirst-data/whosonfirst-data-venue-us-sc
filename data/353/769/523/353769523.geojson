@@ -2,13 +2,14 @@
   "id": 353769523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.961293,34.896183,-80.961293,34.896183",
     "geom:latitude":34.896183,
     "geom:longitude":-80.961293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2975 Lesslie Hwy",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353769523,
-    "wof:lastmodified":1449019105,
+    "wof:lastmodified":1467082227,
     "wof:name":"Lesslie Welding & Fabricating",
     "wof:parent_id":85833915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welding"
     ]
 },
-  "bbox": [-80.961293,34.896183,-80.961293,34.896183],
+  "bbox": [
+    -80.961293,
+    34.896183,
+    -80.961293,
+    34.896183
+],
   "geometry": {"coordinates":[-80.961293,34.896183],"type":"Point"}
 }

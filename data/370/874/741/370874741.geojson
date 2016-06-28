@@ -2,13 +2,14 @@
   "id": 370874741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.341158,33.925768,-80.341158,33.925768",
     "geom:latitude":33.925768,
     "geom:longitude":-80.341158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Main St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":370874741,
-    "wof:lastmodified":1449032246,
+    "wof:lastmodified":1467082368,
     "wof:name":"Tony's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.341158,33.925768,-80.341158,33.925768],
-  "geometry": {"coordinates":[-80.341158,33.925768],"type":"Point"}
+  "bbox": [
+    -80.341158,
+    33.925768,
+    -80.341158,
+    33.925768
+],
+  "geometry": {"coordinates":[-80.34115799999999,33.925768],"type":"Point"}
 }

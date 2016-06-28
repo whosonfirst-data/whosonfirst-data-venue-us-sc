@@ -2,13 +2,14 @@
   "id": 353955401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.282347,33.36745,-79.282347,33.36745",
     "geom:latitude":33.36745,
     "geom:longitude":-79.282347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Prince St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353955401,
-    "wof:lastmodified":1449020014,
+    "wof:lastmodified":1467082246,
     "wof:name":"Georgetown Cnty Tax Collector",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [-79.282347,33.36745,-79.282347,33.36745],
+  "bbox": [
+    -79.282347,
+    33.36745,
+    -79.282347,
+    33.36745
+],
   "geometry": {"coordinates":[-79.282347,33.36745],"type":"Point"}
 }

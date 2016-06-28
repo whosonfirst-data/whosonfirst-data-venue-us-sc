@@ -2,13 +2,14 @@
   "id": 354338823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.771652,34.166948,-79.771652,34.166948",
     "geom:latitude":34.166948,
     "geom:longitude":-79.771652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 2nd Loop Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354338823,
-    "wof:lastmodified":1449066506,
+    "wof:lastmodified":1467082428,
     "wof:name":"K & M Express Cleaners",
     "wof:parent_id":85829393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-79.771652,34.166948,-79.771652,34.166948],
+  "bbox": [
+    -79.771652,
+    34.166948,
+    -79.771652,
+    34.166948
+],
   "geometry": {"coordinates":[-79.771652,34.166948],"type":"Point"}
 }

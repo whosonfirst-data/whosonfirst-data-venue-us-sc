@@ -2,13 +2,14 @@
   "id": 353407901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.91806,34.944826,-81.91806,34.944826",
     "geom:latitude":34.944826,
     "geom:longitude":-81.91806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 Union St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353407901,
-    "wof:lastmodified":1449019672,
+    "wof:lastmodified":1467082239,
     "wof:name":"Jones Sign Co Inc",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacture"
     ]
 },
-  "bbox": [-81.91806,34.944826,-81.91806,34.944826],
+  "bbox": [
+    -81.91806,
+    34.944826,
+    -81.91806,
+    34.944826
+],
   "geometry": {"coordinates":[-81.91806,34.944826],"type":"Point"}
 }

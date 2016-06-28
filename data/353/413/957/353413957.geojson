@@ -2,13 +2,14 @@
   "id": 353413957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.368164,34.422381,-79.368164,34.422381",
     "geom:latitude":34.422381,
     "geom:longitude":-79.368164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Jackson St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353413957,
-    "wof:lastmodified":1449018661,
+    "wof:lastmodified":1467082218,
     "wof:name":"Dillon Family Dental Ctr",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-79.368164,34.422381,-79.368164,34.422381],
-  "geometry": {"coordinates":[-79.368164,34.422381],"type":"Point"}
+  "bbox": [
+    -79.368164,
+    34.422381,
+    -79.368164,
+    34.422381
+],
+  "geometry": {"coordinates":[-79.36816399999999,34.422381],"type":"Point"}
 }

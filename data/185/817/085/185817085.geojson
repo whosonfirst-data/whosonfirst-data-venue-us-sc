@@ -2,13 +2,14 @@
   "id": 185817085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.653994,34.461239,-82.653994,34.461239",
     "geom:latitude":34.461239,
     "geom:longitude":-82.653994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Twig Ln",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185817085,
-    "wof:lastmodified":1449007904,
+    "wof:lastmodified":1467082202,
     "wof:name":"Twig CTH",
     "wof:parent_id":85831829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.653994,34.461239,-82.653994,34.461239],
+  "bbox": [
+    -82.653994,
+    34.461239,
+    -82.653994,
+    34.461239
+],
   "geometry": {"coordinates":[-82.653994,34.461239],"type":"Point"}
 }

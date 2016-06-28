@@ -2,13 +2,14 @@
   "id": 186096603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.752962,32.453888,-80.752962,32.453888",
     "geom:latitude":32.453888,
     "geom:longitude":-80.752962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"182 Laurel Bay Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186096603,
-    "wof:lastmodified":1449051257,
+    "wof:lastmodified":1467082396,
     "wof:name":"84648244",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-80.752962,32.453888,-80.752962,32.453888],
+  "bbox": [
+    -80.752962,
+    32.453888,
+    -80.752962,
+    32.453888
+],
   "geometry": {"coordinates":[-80.752962,32.453888],"type":"Point"}
 }

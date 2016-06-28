@@ -2,13 +2,14 @@
   "id": 353545195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.689817,32.414613,-80.689817,32.414613",
     "geom:latitude":32.414613,
     "geom:longitude":-80.689817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2414 Allison Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353545195,
-    "wof:lastmodified":1449018873,
+    "wof:lastmodified":1467082222,
     "wof:name":"Accu-Dental Lab C & B",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-80.689817,32.414613,-80.689817,32.414613],
-  "geometry": {"coordinates":[-80.689817,32.414613],"type":"Point"}
+  "bbox": [
+    -80.689817,
+    32.414613,
+    -80.689817,
+    32.414613
+],
+  "geometry": {"coordinates":[-80.68981700000001,32.414613],"type":"Point"}
 }

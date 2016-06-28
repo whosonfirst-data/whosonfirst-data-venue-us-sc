@@ -2,13 +2,14 @@
   "id": 337279547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.864917,34.158069,-79.864917,34.158069",
     "geom:latitude":34.158069,
     "geom:longitude":-79.864917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3764 W Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337279547,
-    "wof:lastmodified":1449027317,
+    "wof:lastmodified":1467082279,
     "wof:name":"I-95 & 76 Phillips 66",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-79.864917,34.158069,-79.864917,34.158069],
-  "geometry": {"coordinates":[-79.864917,34.158069],"type":"Point"}
+  "bbox": [
+    -79.864917,
+    34.158069,
+    -79.864917,
+    34.158069
+],
+  "geometry": {"coordinates":[-79.86491700000001,34.158069],"type":"Point"}
 }

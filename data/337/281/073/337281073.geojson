@@ -2,13 +2,14 @@
   "id": 337281073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.129272,34.006573,-81.129272,34.006573",
     "geom:latitude":34.006573,
     "geom:longitude":-81.129272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 C Trotter Rd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337281073,
-    "wof:lastmodified":1449027614,
+    "wof:lastmodified":1467082290,
     "wof:name":"Custom Medical Solutions",
     "wof:parent_id":85857097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.129272,34.006573,-81.129272,34.006573],
+  "bbox": [
+    -81.129272,
+    34.006573,
+    -81.129272,
+    34.006573
+],
   "geometry": {"coordinates":[-81.129272,34.006573],"type":"Point"}
 }

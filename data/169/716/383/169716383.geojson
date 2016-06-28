@@ -2,13 +2,14 @@
   "id": 169716383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.964499,33.306663,-79.964499,33.306663",
     "geom:latitude":33.306663,
     "geom:longitude":-79.964499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"266 Black Oak Rd",
     "sg:city":"Bonneau",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169716383,
-    "wof:lastmodified":1449033156,
+    "wof:lastmodified":1467082378,
     "wof:name":"Red Barn",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "night"
     ]
 },
-  "bbox": [-79.964499,33.306663,-79.964499,33.306663],
+  "bbox": [
+    -79.964499,
+    33.306663,
+    -79.964499,
+    33.306663
+],
   "geometry": {"coordinates":[-79.964499,33.306663],"type":"Point"}
 }

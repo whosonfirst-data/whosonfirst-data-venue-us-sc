@@ -2,13 +2,14 @@
   "id": 370195999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.292556,34.818258,-82.292556,34.818258",
     "geom:latitude":34.818258,
     "geom:longitude":-82.292556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1022 Thousand Oaks Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370195999,
-    "wof:lastmodified":1449031302,
+    "wof:lastmodified":1467082347,
     "wof:name":"Materials Handling Solutions",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "derrick"
     ]
 },
-  "bbox": [-82.292556,34.818258,-82.292556,34.818258],
+  "bbox": [
+    -82.292556,
+    34.818258,
+    -82.292556,
+    34.818258
+],
   "geometry": {"coordinates":[-82.292556,34.818258],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353752863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.218462,33.959624,-81.218462,33.959624",
     "geom:latitude":33.959624,
     "geom:longitude":-81.218462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 Two Notch Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353752863,
-    "wof:lastmodified":1449018669,
+    "wof:lastmodified":1467082218,
     "wof:name":"Tiny Junction",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.218462,33.959624,-81.218462,33.959624],
+  "bbox": [
+    -81.218462,
+    33.959624,
+    -81.218462,
+    33.959624
+],
   "geometry": {"coordinates":[-81.218462,33.959624],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370647709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.981726,34.966897,-81.981726,34.966897",
     "geom:latitude":34.966897,
     "geom:longitude":-81.981726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"480 Old Greenville Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370647709,
-    "wof:lastmodified":1449030694,
+    "wof:lastmodified":1467082334,
     "wof:name":"Aramark Uniform Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "matting"
     ]
 },
-  "bbox": [-81.981726,34.966897,-81.981726,34.966897],
-  "geometry": {"coordinates":[-81.981726,34.966897],"type":"Point"}
+  "bbox": [
+    -81.981726,
+    34.966897,
+    -81.981726,
+    34.966897
+],
+  "geometry": {"coordinates":[-81.98172599999999,34.966897],"type":"Point"}
 }

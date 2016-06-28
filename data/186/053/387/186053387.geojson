@@ -2,13 +2,14 @@
   "id": 186053387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.454515,33.411659,-81.454515,33.411659",
     "geom:latitude":33.411659,
     "geom:longitude":-81.454515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15152 US Hwy 78",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186053387,
-    "wof:lastmodified":1449050913,
+    "wof:lastmodified":1467082393,
     "wof:name":"Utility Construction Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.454515,33.411659,-81.454515,33.411659],
+  "bbox": [
+    -81.454515,
+    33.411659,
+    -81.454515,
+    33.411659
+],
   "geometry": {"coordinates":[-81.454515,33.411659],"type":"Point"}
 }

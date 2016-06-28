@@ -2,13 +2,14 @@
   "id": 337637725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.366632,33.245565,-81.366632,33.245565",
     "geom:latitude":33.245565,
     "geom:longitude":-81.366632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 Jackson St",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337637725,
-    "wof:lastmodified":1449026934,
+    "wof:lastmodified":1467082265,
     "wof:name":"Ness Motley Loadholt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.366632,33.245565,-81.366632,33.245565],
+  "bbox": [
+    -81.366632,
+    33.245565,
+    -81.366632,
+    33.245565
+],
   "geometry": {"coordinates":[-81.366632,33.245565],"type":"Point"}
 }

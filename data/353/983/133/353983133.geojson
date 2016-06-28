@@ -2,13 +2,14 @@
   "id": 353983133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.042834,32.815836,-80.042834,32.815836",
     "geom:latitude":32.815836,
     "geom:longitude":-80.042834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2126 Charlie Hall Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353983133,
-    "wof:lastmodified":1449020599,
+    "wof:lastmodified":1467082258,
     "wof:name":"WCSC",
     "wof:parent_id":85809785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "co"
     ]
 },
-  "bbox": [-80.042834,32.815836,-80.042834,32.815836],
+  "bbox": [
+    -80.042834,
+    32.815836,
+    -80.042834,
+    32.815836
+],
   "geometry": {"coordinates":[-80.042834,32.815836],"type":"Point"}
 }

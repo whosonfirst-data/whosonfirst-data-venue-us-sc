@@ -2,13 +2,14 @@
   "id": 337595797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.892563,34.050906,-78.892563,34.050906",
     "geom:latitude":34.050906,
     "geom:longitude":-78.892563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4232 Meadow St",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":337595797,
-    "wof:lastmodified":1449027659,
+    "wof:lastmodified":1467082292,
     "wof:name":"Southern Ammunition Company",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "ammunition"
     ]
 },
-  "bbox": [-78.892563,34.050906,-78.892563,34.050906],
+  "bbox": [
+    -78.892563,
+    34.050906,
+    -78.892563,
+    34.050906
+],
   "geometry": {"coordinates":[-78.892563,34.050906],"type":"Point"}
 }

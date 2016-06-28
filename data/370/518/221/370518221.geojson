@@ -2,13 +2,14 @@
   "id": 370518221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.075903,35.122351,-81.075903,35.122351",
     "geom:latitude":35.122351,
     "geom:longitude":-81.075903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2694 Landing Pointe Dr",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370518221,
-    "wof:lastmodified":1449030985,
+    "wof:lastmodified":1467082340,
     "wof:name":"Weekley Homes LP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.075903,35.122351,-81.075903,35.122351],
+  "bbox": [
+    -81.075903,
+    35.122351,
+    -81.075903,
+    35.122351
+],
   "geometry": {"coordinates":[-81.075903,35.122351],"type":"Point"}
 }

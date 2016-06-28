@@ -2,13 +2,14 @@
   "id": 186203707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.582175,34.548047,-80.582175,34.548047",
     "geom:latitude":34.548047,
     "geom:longitude":-80.582175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 N Hampton St",
     "sg:city":"Kershaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186203707,
-    "wof:lastmodified":1449051567,
+    "wof:lastmodified":1467082399,
     "wof:name":"Plunder Box",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.582175,34.548047,-80.582175,34.548047],
-  "geometry": {"coordinates":[-80.582175,34.548047],"type":"Point"}
+  "bbox": [
+    -80.582175,
+    34.548047,
+    -80.582175,
+    34.548047
+],
+  "geometry": {"coordinates":[-80.58217500000001,34.548047],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186150949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.981625,33.185082,-79.981625,33.185082",
     "geom:latitude":33.185082,
     "geom:longitude":-79.981625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1326 Edward Dr",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186150949,
-    "wof:lastmodified":1449050291,
+    "wof:lastmodified":1467082389,
     "wof:name":"Wesley United Methodist Church",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-79.981625,33.185082,-79.981625,33.185082],
-  "geometry": {"coordinates":[-79.981625,33.185082],"type":"Point"}
+  "bbox": [
+    -79.981625,
+    33.185082,
+    -79.981625,
+    33.185082
+],
+  "geometry": {"coordinates":[-79.98162499999999,33.185082],"type":"Point"}
 }

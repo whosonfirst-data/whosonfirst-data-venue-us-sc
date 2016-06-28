@@ -2,13 +2,14 @@
   "id": 370763637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.855802,34.974841,-81.855802,34.974841",
     "geom:latitude":34.974841,
     "geom:longitude":-81.855802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Thackston Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370763637,
-    "wof:lastmodified":1449032451,
+    "wof:lastmodified":1467082373,
     "wof:name":"Upstate Med Sups & Scooters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.855802,34.974841,-81.855802,34.974841],
+  "bbox": [
+    -81.855802,
+    34.974841,
+    -81.855802,
+    34.974841
+],
   "geometry": {"coordinates":[-81.855802,34.974841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370314259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.992815,32.787102,-79.992815,32.787102",
     "geom:latitude":32.787102,
     "geom:longitude":-79.992815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Magnolia Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370314259,
-    "wof:lastmodified":1449032326,
+    "wof:lastmodified":1467082370,
     "wof:name":"Mental Health-Magnolia House",
     "wof:parent_id":85803739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "health"
     ]
 },
-  "bbox": [-79.992815,32.787102,-79.992815,32.787102],
-  "geometry": {"coordinates":[-79.992815,32.787102],"type":"Point"}
+  "bbox": [
+    -79.992815,
+    32.787102,
+    -79.992815,
+    32.787102
+],
+  "geometry": {"coordinates":[-79.99281499999999,32.787102],"type":"Point"}
 }

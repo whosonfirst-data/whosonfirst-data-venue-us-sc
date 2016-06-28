@@ -2,13 +2,14 @@
   "id": 337351663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.203075,34.729169,-81.203075,34.729169",
     "geom:latitude":34.729169,
     "geom:longitude":-81.203075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 Old York Rd",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337351663,
-    "wof:lastmodified":1449027621,
+    "wof:lastmodified":1467082291,
     "wof:name":"N M King Bail Bond Co",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-81.203075,34.729169,-81.203075,34.729169],
+  "bbox": [
+    -81.203075,
+    34.729169,
+    -81.203075,
+    34.729169
+],
   "geometry": {"coordinates":[-81.203075,34.729169],"type":"Point"}
 }

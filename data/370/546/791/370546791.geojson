@@ -2,13 +2,14 @@
   "id": 370546791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.523548,34.991424,-82.523548,34.991424",
     "geom:latitude":34.991424,
     "geom:longitude":-82.523548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"627 Dacusville Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370546791,
-    "wof:lastmodified":1449029060,
+    "wof:lastmodified":1467082298,
     "wof:name":"B & L Sharpening Svc",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sharpening"
     ]
 },
-  "bbox": [-82.523548,34.991424,-82.523548,34.991424],
-  "geometry": {"coordinates":[-82.523548,34.991424],"type":"Point"}
+  "bbox": [
+    -82.523548,
+    34.991424,
+    -82.523548,
+    34.991424
+],
+  "geometry": {"coordinates":[-82.52354800000001,34.991424],"type":"Point"}
 }

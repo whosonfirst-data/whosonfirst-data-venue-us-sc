@@ -2,13 +2,14 @@
   "id": 353855035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.979882,33.547167,-81.979882,33.547167",
     "geom:latitude":33.547167,
     "geom:longitude":-81.979882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Cooper Mill Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353855035,
-    "wof:lastmodified":1449020126,
+    "wof:lastmodified":1467082248,
     "wof:name":"Scrubs N Such",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.979882,33.547167,-81.979882,33.547167],
+  "bbox": [
+    -81.979882,
+    33.547167,
+    -81.979882,
+    33.547167
+],
   "geometry": {"coordinates":[-81.979882,33.547167],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353941823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.942737,33.933996,-79.942737,33.933996",
     "geom:latitude":33.933996,
     "geom:longitude":-79.942737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"432 S Jones Rd",
     "sg:city":"Olanta",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353941823,
-    "wof:lastmodified":1449019801,
+    "wof:lastmodified":1467082241,
     "wof:name":"Southern Impressions Inc",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.942737,33.933996,-79.942737,33.933996],
-  "geometry": {"coordinates":[-79.942737,33.933996],"type":"Point"}
+  "bbox": [
+    -79.942737,
+    33.933996,
+    -79.942737,
+    33.933996
+],
+  "geometry": {"coordinates":[-79.94273699999999,33.933996],"type":"Point"}
 }

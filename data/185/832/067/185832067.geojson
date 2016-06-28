@@ -2,13 +2,14 @@
   "id": 185832067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.873271,32.833115,-79.873271,32.833115",
     "geom:latitude":32.833115,
     "geom:longitude":-79.873271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"278 Hook Ln",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":185832067,
-    "wof:lastmodified":1449006600,
+    "wof:lastmodified":1467082182,
     "wof:name":"Hora North America Inc",
     "wof:parent_id":85849287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valve"
     ]
 },
-  "bbox": [-79.873271,32.833115,-79.873271,32.833115],
+  "bbox": [
+    -79.873271,
+    32.833115,
+    -79.873271,
+    32.833115
+],
   "geometry": {"coordinates":[-79.873271,32.833115],"type":"Point"}
 }

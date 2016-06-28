@@ -2,13 +2,14 @@
   "id": 354050611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.015154,34.922343,-81.015154,34.922343",
     "geom:latitude":34.922343,
     "geom:longitude":-81.015154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"648 E White St",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354050611,
-    "wof:lastmodified":1449066881,
+    "wof:lastmodified":1467082436,
     "wof:name":"ESR Corp",
     "wof:parent_id":85833915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motor"
     ]
 },
-  "bbox": [-81.015154,34.922343,-81.015154,34.922343],
+  "bbox": [
+    -81.015154,
+    34.922343,
+    -81.015154,
+    34.922343
+],
   "geometry": {"coordinates":[-81.015154,34.922343],"type":"Point"}
 }

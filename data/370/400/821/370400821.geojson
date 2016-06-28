@@ -2,13 +2,14 @@
   "id": 370400821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.464549,34.996533,-82.464549,34.996533",
     "geom:latitude":34.996533,
     "geom:longitude":-82.464549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Hammons Rd",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370400821,
-    "wof:lastmodified":1449029419,
+    "wof:lastmodified":1467082305,
     "wof:name":"All American Fence",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-82.464549,34.996533,-82.464549,34.996533],
-  "geometry": {"coordinates":[-82.464549,34.996533],"type":"Point"}
+  "bbox": [
+    -82.464549,
+    34.996533,
+    -82.464549,
+    34.996533
+],
+  "geometry": {"coordinates":[-82.46454900000001,34.996533],"type":"Point"}
 }

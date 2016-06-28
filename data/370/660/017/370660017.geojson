@@ -2,13 +2,14 @@
   "id": 370660017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.618186,34.275037,-81.618186,34.275037",
     "geom:latitude":34.275037,
     "geom:longitude":-81.618186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Main St",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370660017,
-    "wof:lastmodified":1449032124,
+    "wof:lastmodified":1467082366,
     "wof:name":"Skyscraper Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.618186,34.275037,-81.618186,34.275037],
-  "geometry": {"coordinates":[-81.618186,34.275037],"type":"Point"}
+  "bbox": [
+    -81.618186,
+    34.275037,
+    -81.618186,
+    34.275037
+],
+  "geometry": {"coordinates":[-81.61818599999999,34.275037],"type":"Point"}
 }

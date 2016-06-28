@@ -2,13 +2,14 @@
   "id": 353549609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.39026,34.857149,-82.39026,34.857149",
     "geom:latitude":34.857149,
     "geom:longitude":-82.39026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Bennett St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353549609,
-    "wof:lastmodified":1449018970,
+    "wof:lastmodified":1467082224,
     "wof:name":"Greenville Woman's Club",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-82.39026,34.857149,-82.39026,34.857149],
+  "bbox": [
+    -82.39026,
+    34.857149,
+    -82.39026,
+    34.857149
+],
   "geometry": {"coordinates":[-82.39026,34.857149],"type":"Point"}
 }

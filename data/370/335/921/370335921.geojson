@@ -2,13 +2,14 @@
   "id": 370335921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.053795,33.85105,-79.053795,33.85105",
     "geom:latitude":33.85105,
     "geom:longitude":-79.053795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 16th Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370335921,
-    "wof:lastmodified":1449031310,
+    "wof:lastmodified":1467082347,
     "wof:name":"J Joseph Sanders Inc",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-79.053795,33.85105,-79.053795,33.85105],
-  "geometry": {"coordinates":[-79.053795,33.85105],"type":"Point"}
+  "bbox": [
+    -79.053795,
+    33.85105,
+    -79.053795,
+    33.85105
+],
+  "geometry": {"coordinates":[-79.05379499999999,33.85105],"type":"Point"}
 }

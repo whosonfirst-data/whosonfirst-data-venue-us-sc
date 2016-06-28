@@ -2,13 +2,14 @@
   "id": 354318573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.859673,35.148638,-81.859673,35.148638",
     "geom:latitude":35.148638,
     "geom:longitude":-81.859673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Cherokee St",
     "sg:city":"Chesnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354318573,
-    "wof:lastmodified":1449066291,
+    "wof:lastmodified":1467082423,
     "wof:name":"Chesnee City Hall",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-81.859673,35.148638,-81.859673,35.148638],
+  "bbox": [
+    -81.859673,
+    35.148638,
+    -81.859673,
+    35.148638
+],
   "geometry": {"coordinates":[-81.859673,35.148638],"type":"Point"}
 }

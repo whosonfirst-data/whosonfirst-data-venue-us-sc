@@ -2,13 +2,14 @@
   "id": 337398051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.610253,34.804073,-82.610253,34.804073",
     "geom:latitude":34.804073,
     "geom:longitude":-82.610253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Woodfield Dr",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337398051,
-    "wof:lastmodified":1449027005,
+    "wof:lastmodified":1467082267,
     "wof:name":"Southern Silver",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-82.610253,34.804073,-82.610253,34.804073],
+  "bbox": [
+    -82.610253,
+    34.804073,
+    -82.610253,
+    34.804073
+],
   "geometry": {"coordinates":[-82.610253,34.804073],"type":"Point"}
 }

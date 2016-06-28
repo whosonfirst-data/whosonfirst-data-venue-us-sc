@@ -2,13 +2,14 @@
   "id": 353537401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.8025,34.172098,-79.8025,34.172098",
     "geom:latitude":34.172098,
     "geom:longitude":-79.8025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 2nd Loop Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353537401,
-    "wof:lastmodified":1449018888,
+    "wof:lastmodified":1467082223,
     "wof:name":"Carolina Custom Truck",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hitch"
     ]
 },
-  "bbox": [-79.8025,34.172098,-79.8025,34.172098],
-  "geometry": {"coordinates":[-79.8025,34.172098],"type":"Point"}
+  "bbox": [
+    -79.8025,
+    34.172098,
+    -79.8025,
+    34.172098
+],
+  "geometry": {"coordinates":[-79.80249999999999,34.172098],"type":"Point"}
 }

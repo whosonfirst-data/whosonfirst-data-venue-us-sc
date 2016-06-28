@@ -2,13 +2,14 @@
   "id": 185752097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.99508,33.998597,-80.99508,33.998597",
     "geom:latitude":33.998597,
     "geom:longitude":-80.99508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Bellwood Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185752097,
-    "wof:lastmodified":1449006881,
+    "wof:lastmodified":1467082186,
     "wof:name":"Jones Leitner & Co",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-80.99508,33.998597,-80.99508,33.998597],
+  "bbox": [
+    -80.99508,
+    33.998597,
+    -80.99508,
+    33.998597
+],
   "geometry": {"coordinates":[-80.99508,33.998597],"type":"Point"}
 }

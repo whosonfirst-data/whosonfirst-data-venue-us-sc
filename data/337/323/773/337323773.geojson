@@ -2,13 +2,14 @@
   "id": 337323773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.318334,33.252345,-80.318334,33.252345",
     "geom:latitude":33.252345,
     "geom:longitude":-80.318334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4742 State Rd",
     "sg:city":"Ridgeville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337323773,
-    "wof:lastmodified":1449027013,
+    "wof:lastmodified":1467082268,
     "wof:name":"Country Store",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-80.318334,33.252345,-80.318334,33.252345],
-  "geometry": {"coordinates":[-80.318334,33.252345],"type":"Point"}
+  "bbox": [
+    -80.318334,
+    33.252345,
+    -80.318334,
+    33.252345
+],
+  "geometry": {"coordinates":[-80.31833399999999,33.252345],"type":"Point"}
 }

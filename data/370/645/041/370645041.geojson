@@ -2,13 +2,14 @@
   "id": 370645041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.369965,34.830228,-82.369965,34.830228",
     "geom:latitude":34.830228,
     "geom:longitude":-82.369965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 S Pleasantburg Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370645041,
-    "wof:lastmodified":1449029427,
+    "wof:lastmodified":1467082305,
     "wof:name":"Check Advance",
     "wof:parent_id":85809831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-82.369965,34.830228,-82.369965,34.830228],
-  "geometry": {"coordinates":[-82.369965,34.830228],"type":"Point"}
+  "bbox": [
+    -82.369965,
+    34.830228,
+    -82.369965,
+    34.830228
+],
+  "geometry": {"coordinates":[-82.36996499999999,34.830228],"type":"Point"}
 }

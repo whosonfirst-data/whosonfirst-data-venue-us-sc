@@ -2,13 +2,14 @@
   "id": 353799247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.23293,34.707707,-81.23293,34.707707",
     "geom:latitude":34.707707,
     "geom:longitude":-81.23293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2714 Dawson Dr",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353799247,
-    "wof:lastmodified":1449020804,
+    "wof:lastmodified":1467082262,
     "wof:name":"Chester County Animal Shelter",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.23293,34.707707,-81.23293,34.707707],
+  "bbox": [
+    -81.23293,
+    34.707707,
+    -81.23293,
+    34.707707
+],
   "geometry": {"coordinates":[-81.23293,34.707707],"type":"Point"}
 }

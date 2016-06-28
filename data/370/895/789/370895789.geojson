@@ -2,13 +2,14 @@
   "id": 370895789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.820848,33.739515,-78.820848,33.739515",
     "geom:latitude":33.739515,
     "geom:longitude":-78.820848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6900 N Ocean Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370895789,
-    "wof:lastmodified":1449030522,
+    "wof:lastmodified":1467082330,
     "wof:name":"Santa Maria Restaurant",
     "wof:parent_id":85809243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.820848,33.739515,-78.820848,33.739515],
+  "bbox": [
+    -78.820848,
+    33.739515,
+    -78.820848,
+    33.739515
+],
   "geometry": {"coordinates":[-78.820848,33.739515],"type":"Point"}
 }

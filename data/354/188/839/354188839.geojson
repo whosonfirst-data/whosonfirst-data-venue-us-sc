@@ -2,13 +2,14 @@
   "id": 354188839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.647557,35.074764,-81.647557,35.074764",
     "geom:latitude":35.074764,
     "geom:longitude":-81.647557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 N Limestone St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354188839,
-    "wof:lastmodified":1449066773,
+    "wof:lastmodified":1467082434,
     "wof:name":"Capri Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.647557,35.074764,-81.647557,35.074764],
-  "geometry": {"coordinates":[-81.647557,35.074764],"type":"Point"}
+  "bbox": [
+    -81.647557,
+    35.074764,
+    -81.647557,
+    35.074764
+],
+  "geometry": {"coordinates":[-81.64755700000001,35.074764],"type":"Point"}
 }

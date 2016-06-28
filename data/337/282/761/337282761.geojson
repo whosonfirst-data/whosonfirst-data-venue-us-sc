@@ -2,13 +2,14 @@
   "id": 337282761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.733295,34.265425,-79.733295,34.265425",
     "geom:latitude":34.265425,
     "geom:longitude":-79.733295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 W Freight Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337282761,
-    "wof:lastmodified":1449027465,
+    "wof:lastmodified":1467082285,
     "wof:name":"Trailer Sls Svc Interstate Gr",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trailer"
     ]
 },
-  "bbox": [-79.733295,34.265425,-79.733295,34.265425],
+  "bbox": [
+    -79.733295,
+    34.265425,
+    -79.733295,
+    34.265425
+],
   "geometry": {"coordinates":[-79.733295,34.265425],"type":"Point"}
 }

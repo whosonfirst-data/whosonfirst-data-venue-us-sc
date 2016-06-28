@@ -2,13 +2,14 @@
   "id": 353596841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.138196,34.938904,-82.138196,34.938904",
     "geom:latitude":34.938904,
     "geom:longitude":-82.138196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Moore St",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353596841,
-    "wof:lastmodified":1449019572,
+    "wof:lastmodified":1467082236,
     "wof:name":"Palmetto Supply & Repair Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.138196,34.938904,-82.138196,34.938904],
-  "geometry": {"coordinates":[-82.138196,34.938904],"type":"Point"}
+  "bbox": [
+    -82.138196,
+    34.938904,
+    -82.138196,
+    34.938904
+],
+  "geometry": {"coordinates":[-82.13819599999999,34.938904],"type":"Point"}
 }

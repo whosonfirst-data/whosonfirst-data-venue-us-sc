@@ -2,13 +2,14 @@
   "id": 354003503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.025611,32.979175,-80.025611,32.979175",
     "geom:latitude":32.979175,
     "geom:longitude":-80.025611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Howe Hall Rd",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354003503,
-    "wof:lastmodified":1449067539,
+    "wof:lastmodified":1467082451,
     "wof:name":"Pbp Building Products Inc",
     "wof:parent_id":85852091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "exterior"
     ]
 },
-  "bbox": [-80.025611,32.979175,-80.025611,32.979175],
+  "bbox": [
+    -80.025611,
+    32.979175,
+    -80.025611,
+    32.979175
+],
   "geometry": {"coordinates":[-80.025611,32.979175],"type":"Point"}
 }

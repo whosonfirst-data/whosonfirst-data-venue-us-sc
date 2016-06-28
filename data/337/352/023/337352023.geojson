@@ -2,13 +2,14 @@
   "id": 337352023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.399476,33.95504,-80.399476,33.95504",
     "geom:latitude":33.95504,
     "geom:longitude":-80.399476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1236 Wilson Hall Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337352023,
-    "wof:lastmodified":1449027450,
+    "wof:lastmodified":1467082284,
     "wof:name":"Hospice Care Of Tri-County",
     "wof:parent_id":85814545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-80.399476,33.95504,-80.399476,33.95504],
-  "geometry": {"coordinates":[-80.399476,33.95504],"type":"Point"}
+  "bbox": [
+    -80.399476,
+    33.95504,
+    -80.399476,
+    33.95504
+],
+  "geometry": {"coordinates":[-80.39947600000001,33.95504],"type":"Point"}
 }

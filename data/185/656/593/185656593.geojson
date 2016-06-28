@@ -2,13 +2,14 @@
   "id": 185656593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.938081,34.965122,-81.938081,34.965122",
     "geom:latitude":34.965122,
     "geom:longitude":-81.938081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Catawba St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185656593,
-    "wof:lastmodified":1449007647,
+    "wof:lastmodified":1467082198,
     "wof:name":"Spartanburg Area Mental Health",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.938081,34.965122,-81.938081,34.965122],
+  "bbox": [
+    -81.938081,
+    34.965122,
+    -81.938081,
+    34.965122
+],
   "geometry": {"coordinates":[-81.938081,34.965122],"type":"Point"}
 }

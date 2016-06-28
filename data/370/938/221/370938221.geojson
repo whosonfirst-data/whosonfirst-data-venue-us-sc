@@ -2,13 +2,14 @@
   "id": 370938221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.248847,33.82713,-81.248847,33.82713",
     "geom:latitude":33.82713,
     "geom:longitude":-81.248847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"663 Crystal Springs Dr",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370938221,
-    "wof:lastmodified":1449031618,
+    "wof:lastmodified":1467082354,
     "wof:name":"Rose Roofing",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.248847,33.82713,-81.248847,33.82713],
+  "bbox": [
+    -81.248847,
+    33.82713,
+    -81.248847,
+    33.82713
+],
   "geometry": {"coordinates":[-81.248847,33.82713],"type":"Point"}
 }

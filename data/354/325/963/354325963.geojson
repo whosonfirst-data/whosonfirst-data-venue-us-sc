@@ -2,13 +2,14 @@
   "id": 354325963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.971589,34.941399,-81.971589,34.941399",
     "geom:latitude":34.941399,
     "geom:longitude":-81.971589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"193 Stribling Cir",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354325963,
-    "wof:lastmodified":1449066576,
+    "wof:lastmodified":1467082429,
     "wof:name":"Badr Properties LLC",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-81.971589,34.941399,-81.971589,34.941399],
-  "geometry": {"coordinates":[-81.971589,34.941399],"type":"Point"}
+  "bbox": [
+    -81.971589,
+    34.941399,
+    -81.971589,
+    34.941399
+],
+  "geometry": {"coordinates":[-81.97158899999999,34.941399],"type":"Point"}
 }

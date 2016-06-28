@@ -2,13 +2,14 @@
   "id": 370390181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.577858,33.17877,-80.577858,33.17877",
     "geom:latitude":33.17877,
     "geom:longitude":-80.577858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Dukes St",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370390181,
-    "wof:lastmodified":1449032511,
+    "wof:lastmodified":1467082374,
     "wof:name":"Joseph N Byron Jr Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.577858,33.17877,-80.577858,33.17877],
-  "geometry": {"coordinates":[-80.577858,33.17877],"type":"Point"}
+  "bbox": [
+    -80.577858,
+    33.17877,
+    -80.577858,
+    33.17877
+],
+  "geometry": {"coordinates":[-80.57785800000001,33.17877],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370304139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.706832,34.815205,-80.706832,34.815205",
     "geom:latitude":34.815205,
     "geom:longitude":-80.706832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3547 Helms Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370304139,
-    "wof:lastmodified":1449031614,
+    "wof:lastmodified":1467082354,
     "wof:name":"Its For You",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.706832,34.815205,-80.706832,34.815205],
-  "geometry": {"coordinates":[-80.706832,34.815205],"type":"Point"}
+  "bbox": [
+    -80.706832,
+    34.815205,
+    -80.706832,
+    34.815205
+],
+  "geometry": {"coordinates":[-80.70683200000001,34.815205],"type":"Point"}
 }

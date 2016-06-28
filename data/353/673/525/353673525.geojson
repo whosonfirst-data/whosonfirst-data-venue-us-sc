@@ -2,13 +2,14 @@
   "id": 353673525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.979627,32.854808,-79.979627,32.854808",
     "geom:latitude":32.854808,
     "geom:longitude":-79.979627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2155 Dorchester Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353673525,
-    "wof:lastmodified":1449019257,
+    "wof:lastmodified":1467082230,
     "wof:name":"Steen Brothers Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.979627,32.854808,-79.979627,32.854808],
-  "geometry": {"coordinates":[-79.979627,32.854808],"type":"Point"}
+  "bbox": [
+    -79.979627,
+    32.854808,
+    -79.979627,
+    32.854808
+],
+  "geometry": {"coordinates":[-79.97962699999999,32.854808],"type":"Point"}
 }

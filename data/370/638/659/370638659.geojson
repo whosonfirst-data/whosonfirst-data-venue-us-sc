@@ -2,13 +2,14 @@
   "id": 370638659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.692877,34.791393,-82.692877,34.791393",
     "geom:latitude":34.791393,
     "geom:longitude":-82.692877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Highland Ter",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370638659,
-    "wof:lastmodified":1449029261,
+    "wof:lastmodified":1467082302,
     "wof:name":"Steves Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.692877,34.791393,-82.692877,34.791393],
+  "bbox": [
+    -82.692877,
+    34.791393,
+    -82.692877,
+    34.791393
+],
   "geometry": {"coordinates":[-82.692877,34.791393],"type":"Point"}
 }

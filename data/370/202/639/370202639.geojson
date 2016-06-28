@@ -2,13 +2,14 @@
   "id": 370202639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.101171,34.045784,-81.101171,34.045784",
     "geom:latitude":34.045784,
     "geom:longitude":-81.101171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Broad River Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370202639,
-    "wof:lastmodified":1449032036,
+    "wof:lastmodified":1467082364,
     "wof:name":"Express Check Advance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "check"
     ]
 },
-  "bbox": [-81.101171,34.045784,-81.101171,34.045784],
-  "geometry": {"coordinates":[-81.101171,34.045784],"type":"Point"}
+  "bbox": [
+    -81.101171,
+    34.045784,
+    -81.101171,
+    34.045784
+],
+  "geometry": {"coordinates":[-81.10117099999999,34.045784],"type":"Point"}
 }

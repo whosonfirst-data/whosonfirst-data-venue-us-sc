@@ -2,13 +2,14 @@
   "id": 353853581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.616663,34.566851,-80.616663,34.566851",
     "geom:latitude":34.566851,
     "geom:longitude":-80.616663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Scout Cabin Rd",
     "sg:city":"Kershaw",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353853581,
-    "wof:lastmodified":1449019286,
+    "wof:lastmodified":1467082231,
     "wof:name":"Center Grove Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.616663,34.566851,-80.616663,34.566851],
+  "bbox": [
+    -80.616663,
+    34.566851,
+    -80.616663,
+    34.566851
+],
   "geometry": {"coordinates":[-80.616663,34.566851],"type":"Point"}
 }

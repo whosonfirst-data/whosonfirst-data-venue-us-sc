@@ -2,13 +2,14 @@
   "id": 354346053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.013843,35.012703,-82.013843,35.012703",
     "geom:latitude":35.012703,
     "geom:longitude":-82.013843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Belcher Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354346053,
-    "wof:lastmodified":1449065918,
+    "wof:lastmodified":1467082414,
     "wof:name":"North Spartanburg Free Will",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.013843,35.012703,-82.013843,35.012703],
-  "geometry": {"coordinates":[-82.013843,35.012703],"type":"Point"}
+  "bbox": [
+    -82.013843,
+    35.012703,
+    -82.013843,
+    35.012703
+],
+  "geometry": {"coordinates":[-82.01384299999999,35.012703],"type":"Point"}
 }

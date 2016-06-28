@@ -2,13 +2,14 @@
   "id": 370433879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.811803,34.19352,-79.811803,34.19352",
     "geom:latitude":34.19352,
     "geom:longitude":-79.811803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 Hoffmeyer Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370433879,
-    "wof:lastmodified":1449029477,
+    "wof:lastmodified":1467082307,
     "wof:name":"Salvation Army",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-79.811803,34.19352,-79.811803,34.19352],
+  "bbox": [
+    -79.811803,
+    34.19352,
+    -79.811803,
+    34.19352
+],
   "geometry": {"coordinates":[-79.811803,34.19352],"type":"Point"}
 }

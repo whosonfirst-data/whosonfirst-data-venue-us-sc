@@ -2,13 +2,14 @@
   "id": 337626053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.074796,33.9596,-81.074796,33.9596",
     "geom:latitude":33.9596,
     "geom:longitude":-81.074796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1939 Dunbar Rd",
     "sg:city":"Cayce",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337626053,
-    "wof:lastmodified":1449027737,
+    "wof:lastmodified":1467082295,
     "wof:name":"Clear H2o Recordings",
     "wof:parent_id":85808009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.074796,33.9596,-81.074796,33.9596],
-  "geometry": {"coordinates":[-81.074796,33.9596],"type":"Point"}
+  "bbox": [
+    -81.074796,
+    33.9596,
+    -81.074796,
+    33.9596
+],
+  "geometry": {"coordinates":[-81.07479600000001,33.9596],"type":"Point"}
 }

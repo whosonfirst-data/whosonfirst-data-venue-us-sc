@@ -2,13 +2,14 @@
   "id": 186176101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.560079,33.449576,-79.560079,33.449576",
     "geom:latitude":33.449576,
     "geom:longitude":-79.560079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 S Rosemary Ave",
     "sg:city":"Andrews",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186176101,
-    "wof:lastmodified":1449052124,
+    "wof:lastmodified":1467082404,
     "wof:name":"Andrews Presbyterian Church",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.560079,33.449576,-79.560079,33.449576],
+  "bbox": [
+    -79.560079,
+    33.449576,
+    -79.560079,
+    33.449576
+],
   "geometry": {"coordinates":[-79.560079,33.449576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370943193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.583807,34.533827,-80.583807,34.533827",
     "geom:latitude":34.533827,
     "geom:longitude":-80.583807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 S Hampton St",
     "sg:city":"Kershaw",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370943193,
-    "wof:lastmodified":1449029992,
+    "wof:lastmodified":1467082318,
     "wof:name":"Kershaw Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.583807,34.533827,-80.583807,34.533827],
-  "geometry": {"coordinates":[-80.583807,34.533827],"type":"Point"}
+  "bbox": [
+    -80.583807,
+    34.533827,
+    -80.583807,
+    34.533827
+],
+  "geometry": {"coordinates":[-80.58380699999999,34.533827],"type":"Point"}
 }

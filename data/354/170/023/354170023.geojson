@@ -2,13 +2,14 @@
   "id": 354170023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.162304,34.070822,-81.162304,34.070822",
     "geom:latitude":34.070822,
     "geom:longitude":-81.162304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"189 Harbison Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354170023,
-    "wof:lastmodified":1449066083,
+    "wof:lastmodified":1467082418,
     "wof:name":"Golf Headquarters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-81.162304,34.070822,-81.162304,34.070822],
-  "geometry": {"coordinates":[-81.162304,34.070822],"type":"Point"}
+  "bbox": [
+    -81.162304,
+    34.070822,
+    -81.162304,
+    34.070822
+],
+  "geometry": {"coordinates":[-81.16230400000001,34.070822],"type":"Point"}
 }

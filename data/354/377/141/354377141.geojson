@@ -2,13 +2,14 @@
   "id": 354377141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.880415,34.47315,-81.880415,34.47315",
     "geom:latitude":34.47315,
     "geom:longitude":-81.880415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 E Main St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354377141,
-    "wof:lastmodified":1449066556,
+    "wof:lastmodified":1467082429,
     "wof:name":"Hair Flair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.880415,34.47315,-81.880415,34.47315],
+  "bbox": [
+    -81.880415,
+    34.47315,
+    -81.880415,
+    34.47315
+],
   "geometry": {"coordinates":[-81.880415,34.47315],"type":"Point"}
 }

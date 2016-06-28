@@ -2,13 +2,14 @@
   "id": 337283687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.074361,32.845868,-81.074361,32.845868",
     "geom:latitude":32.845868,
     "geom:longitude":-81.074361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"593 E Carolina Ave",
     "sg:city":"Varnville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337283687,
-    "wof:lastmodified":1449027181,
+    "wof:lastmodified":1467082274,
     "wof:name":"Hampton Dialysis Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.074361,32.845868,-81.074361,32.845868],
+  "bbox": [
+    -81.074361,
+    32.845868,
+    -81.074361,
+    32.845868
+],
   "geometry": {"coordinates":[-81.074361,32.845868],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185697419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.578798,33.180538,-80.578798,33.180538",
     "geom:latitude":33.180538,
     "geom:longitude":-80.578798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Quaker Rd",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":185697419,
-    "wof:lastmodified":1449007620,
+    "wof:lastmodified":1467082198,
     "wof:name":"Fralix Poultry Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.578798,33.180538,-80.578798,33.180538],
-  "geometry": {"coordinates":[-80.578798,33.180538],"type":"Point"}
+  "bbox": [
+    -80.578798,
+    33.180538,
+    -80.578798,
+    33.180538
+],
+  "geometry": {"coordinates":[-80.57879800000001,33.180538],"type":"Point"}
 }

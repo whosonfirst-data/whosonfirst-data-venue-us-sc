@@ -2,13 +2,14 @@
   "id": 353721489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.790004,32.307065,-80.790004,32.307065",
     "geom:latitude":32.307065,
     "geom:longitude":-80.790004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Turnberry Way",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353721489,
-    "wof:lastmodified":1449020786,
+    "wof:lastmodified":1467082261,
     "wof:name":"Robert W Booher Const Co",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.790004,32.307065,-80.790004,32.307065],
+  "bbox": [
+    -80.790004,
+    32.307065,
+    -80.790004,
+    32.307065
+],
   "geometry": {"coordinates":[-80.790004,32.307065],"type":"Point"}
 }

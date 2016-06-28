@@ -2,13 +2,14 @@
   "id": 354106607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.790601,34.738858,-82.790601,34.738858",
     "geom:latitude":34.738858,
     "geom:longitude":-82.790601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Maw Bridge Rd",
     "sg:city":"Central",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354106607,
-    "wof:lastmodified":1449065905,
+    "wof:lastmodified":1467082414,
     "wof:name":"Reid Wrecker Svc",
     "wof:parent_id":85824489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-82.790601,34.738858,-82.790601,34.738858],
+  "bbox": [
+    -82.790601,
+    34.738858,
+    -82.790601,
+    34.738858
+],
   "geometry": {"coordinates":[-82.790601,34.738858],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370151633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.078875,33.912369,-79.078875,33.912369",
     "geom:latitude":33.912369,
     "geom:longitude":-79.078875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1660 Alford Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370151633,
-    "wof:lastmodified":1449029102,
+    "wof:lastmodified":1467082299,
     "wof:name":"River Rats",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "promoter"
     ]
 },
-  "bbox": [-79.078875,33.912369,-79.078875,33.912369],
+  "bbox": [
+    -79.078875,
+    33.912369,
+    -79.078875,
+    33.912369
+],
   "geometry": {"coordinates":[-79.078875,33.912369],"type":"Point"}
 }

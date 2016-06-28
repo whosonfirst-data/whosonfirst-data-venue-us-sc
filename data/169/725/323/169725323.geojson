@@ -2,13 +2,14 @@
   "id": 169725323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.218508,32.996427,-80.218508,32.996427",
     "geom:latitude":32.996427,
     "geom:longitude":-80.218508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1223 Boonehill Rd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169725323,
-    "wof:lastmodified":1449033492,
+    "wof:lastmodified":1467082380,
     "wof:name":"Amanda Gregory DDS",
     "wof:parent_id":85851889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.218508,32.996427,-80.218508,32.996427],
+  "bbox": [
+    -80.218508,
+    32.996427,
+    -80.218508,
+    32.996427
+],
   "geometry": {"coordinates":[-80.218508,32.996427],"type":"Point"}
 }

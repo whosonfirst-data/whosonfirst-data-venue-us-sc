@@ -2,13 +2,14 @@
   "id": 354335061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.772832,33.770959,-78.772832,33.770959",
     "geom:latitude":33.770959,
     "geom:longitude":-78.772832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10100 Beach Club Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354335061,
-    "wof:lastmodified":1449067098,
+    "wof:lastmodified":1467082441,
     "wof:name":"Arcadian II Condominiums",
     "wof:parent_id":85815435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-78.772832,33.770959,-78.772832,33.770959],
-  "geometry": {"coordinates":[-78.772832,33.770959],"type":"Point"}
+  "bbox": [
+    -78.772832,
+    33.770959,
+    -78.772832,
+    33.770959
+],
+  "geometry": {"coordinates":[-78.77283199999999,33.770959],"type":"Point"}
 }

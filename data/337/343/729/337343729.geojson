@@ -2,13 +2,14 @@
   "id": 337343729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.343985,33.926679,-80.343985,33.926679",
     "geom:latitude":33.926679,
     "geom:longitude":-80.343985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 N Washington St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":337343729,
-    "wof:lastmodified":1449027521,
+    "wof:lastmodified":1467082287,
     "wof:name":"Byron A Reid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.343985,33.926679,-80.343985,33.926679],
+  "bbox": [
+    -80.343985,
+    33.926679,
+    -80.343985,
+    33.926679
+],
   "geometry": {"coordinates":[-80.343985,33.926679],"type":"Point"}
 }

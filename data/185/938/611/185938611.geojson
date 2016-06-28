@@ -2,13 +2,14 @@
   "id": 185938611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.017741,33.603382,-79.017741,33.603382",
     "geom:latitude":33.603382,
     "geom:longitude":-79.017741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9356 US Hwy 17 Byp",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185938611,
-    "wof:lastmodified":1449007802,
+    "wof:lastmodified":1467082201,
     "wof:name":"Duncan & Floyd",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-79.017741,33.603382,-79.017741,33.603382],
+  "bbox": [
+    -79.017741,
+    33.603382,
+    -79.017741,
+    33.603382
+],
   "geometry": {"coordinates":[-79.017741,33.603382],"type":"Point"}
 }

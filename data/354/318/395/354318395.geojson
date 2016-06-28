@@ -2,13 +2,14 @@
   "id": 354318395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.981395,32.478617,-80.981395,32.478617",
     "geom:latitude":32.478617,
     "geom:longitude":-80.981395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 S Jacob Smart Blvd",
     "sg:city":"Ridgeland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354318395,
-    "wof:lastmodified":1449066291,
+    "wof:lastmodified":1467082423,
     "wof:name":"Ojeda's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.981395,32.478617,-80.981395,32.478617],
-  "geometry": {"coordinates":[-80.981395,32.478617],"type":"Point"}
+  "bbox": [
+    -80.981395,
+    32.478617,
+    -80.981395,
+    32.478617
+],
+  "geometry": {"coordinates":[-80.98139500000001,32.478617],"type":"Point"}
 }

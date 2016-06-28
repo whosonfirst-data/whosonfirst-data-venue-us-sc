@@ -2,13 +2,14 @@
   "id": 337451883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.791582,33.777685,-78.791582,33.777685",
     "geom:latitude":33.777685,
     "geom:longitude":-78.791582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Lake Arrowhead Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337451883,
-    "wof:lastmodified":1449027293,
+    "wof:lastmodified":1467082278,
     "wof:name":"2001 Night Club",
     "wof:parent_id":85815435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-78.791582,33.777685,-78.791582,33.777685],
-  "geometry": {"coordinates":[-78.791582,33.777685],"type":"Point"}
+  "bbox": [
+    -78.791582,
+    33.777685,
+    -78.791582,
+    33.777685
+],
+  "geometry": {"coordinates":[-78.79158200000001,33.777685],"type":"Point"}
 }

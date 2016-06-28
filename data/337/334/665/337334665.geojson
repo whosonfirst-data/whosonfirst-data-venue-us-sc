@@ -2,13 +2,14 @@
   "id": 337334665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.856696,34.843806,-81.856696,34.843806",
     "geom:latitude":34.843806,
     "geom:longitude":-81.856696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"748 Foster Mill Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337334665,
-    "wof:lastmodified":1449027178,
+    "wof:lastmodified":1467082274,
     "wof:name":"John's Boat Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "boat"
     ]
 },
-  "bbox": [-81.856696,34.843806,-81.856696,34.843806],
+  "bbox": [
+    -81.856696,
+    34.843806,
+    -81.856696,
+    34.843806
+],
   "geometry": {"coordinates":[-81.856696,34.843806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169807755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.869044,34.294404,-79.869044,34.294404",
     "geom:latitude":34.294404,
     "geom:longitude":-79.869044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Jessamine St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169807755,
-    "wof:lastmodified":1449033536,
+    "wof:lastmodified":1467082380,
     "wof:name":"Pine Recreation Ctr",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-79.869044,34.294404,-79.869044,34.294404],
+  "bbox": [
+    -79.869044,
+    34.294404,
+    -79.869044,
+    34.294404
+],
   "geometry": {"coordinates":[-79.869044,34.294404],"type":"Point"}
 }

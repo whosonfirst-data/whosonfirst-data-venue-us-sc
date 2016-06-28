@@ -2,13 +2,14 @@
   "id": 353447517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.663948,34.196525,-79.663948,34.196525",
     "geom:latitude":34.196525,
     "geom:longitude":-79.663948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 E Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353447517,
-    "wof:lastmodified":1449020046,
+    "wof:lastmodified":1467082246,
     "wof:name":"Du Pont De Nemours EI & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.663948,34.196525,-79.663948,34.196525],
+  "bbox": [
+    -79.663948,
+    34.196525,
+    -79.663948,
+    34.196525
+],
   "geometry": {"coordinates":[-79.663948,34.196525],"type":"Point"}
 }

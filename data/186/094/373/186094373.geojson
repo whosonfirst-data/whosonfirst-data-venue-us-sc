@@ -2,13 +2,14 @@
   "id": 186094373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.005084,34.913581,-81.005084,34.913581",
     "geom:latitude":34.913581,
     "geom:longitude":-81.005084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1273 Flint St Exd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186094373,
-    "wof:lastmodified":1449052052,
+    "wof:lastmodified":1467082403,
     "wof:name":"Fort Mill Industries",
     "wof:parent_id":85833915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glass"
     ]
 },
-  "bbox": [-81.005084,34.913581,-81.005084,34.913581],
+  "bbox": [
+    -81.005084,
+    34.913581,
+    -81.005084,
+    34.913581
+],
   "geometry": {"coordinates":[-81.005084,34.913581],"type":"Point"}
 }

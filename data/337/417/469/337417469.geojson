@@ -2,13 +2,14 @@
   "id": 337417469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.93559,32.78515,-79.93559,32.78515",
     "geom:latitude":32.78515,
     "geom:longitude":-79.93559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Burns Ln",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337417469,
-    "wof:lastmodified":1449027268,
+    "wof:lastmodified":1467082278,
     "wof:name":"Trust For Public Land",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "org"
     ]
 },
-  "bbox": [-79.93559,32.78515,-79.93559,32.78515],
+  "bbox": [
+    -79.93559,
+    32.78515,
+    -79.93559,
+    32.78515
+],
   "geometry": {"coordinates":[-79.93559,32.78515],"type":"Point"}
 }

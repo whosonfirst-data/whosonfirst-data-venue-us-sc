@@ -2,13 +2,14 @@
   "id": 186205973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.917585,34.994189,-81.917585,34.994189",
     "geom:latitude":34.994189,
     "geom:longitude":-81.917585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"346 Successful Way",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186205973,
-    "wof:lastmodified":1449051980,
+    "wof:lastmodified":1467082403,
     "wof:name":"Screen Machine",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "screen"
     ]
 },
-  "bbox": [-81.917585,34.994189,-81.917585,34.994189],
+  "bbox": [
+    -81.917585,
+    34.994189,
+    -81.917585,
+    34.994189
+],
   "geometry": {"coordinates":[-81.917585,34.994189],"type":"Point"}
 }

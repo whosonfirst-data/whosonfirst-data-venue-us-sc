@@ -2,13 +2,14 @@
   "id": 354311997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.182941,34.087798,-81.182941,34.087798",
     "geom:latitude":34.087798,
     "geom:longitude":-81.182941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7478 Carlisle St",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354311997,
-    "wof:lastmodified":1449066329,
+    "wof:lastmodified":1467082423,
     "wof:name":"Access Analytical",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-81.182941,34.087798,-81.182941,34.087798],
+  "bbox": [
+    -81.182941,
+    34.087798,
+    -81.182941,
+    34.087798
+],
   "geometry": {"coordinates":[-81.182941,34.087798],"type":"Point"}
 }

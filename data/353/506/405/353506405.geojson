@@ -2,13 +2,14 @@
   "id": 353506405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.0366,34.941309,-81.0366,34.941309",
     "geom:latitude":34.941309,
     "geom:longitude":-81.0366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Cherry Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353506405,
-    "wof:lastmodified":1449018312,
+    "wof:lastmodified":1467082211,
     "wof:name":"Fast Pace Store",
     "wof:parent_id":85806915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.0366,34.941309,-81.0366,34.941309],
-  "geometry": {"coordinates":[-81.0366,34.941309],"type":"Point"}
+  "bbox": [
+    -81.0366,
+    34.941309,
+    -81.0366,
+    34.941309
+],
+  "geometry": {"coordinates":[-81.03660000000001,34.941309],"type":"Point"}
 }

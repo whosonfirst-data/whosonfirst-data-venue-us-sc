@@ -2,13 +2,14 @@
   "id": 353810855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.353632,34.869436,-82.353632,34.869436",
     "geom:latitude":34.869436,
     "geom:longitude":-82.353632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2514 E North St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353810855,
-    "wof:lastmodified":1449019016,
+    "wof:lastmodified":1467082225,
     "wof:name":"Carolina Nutrition Corner",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "diet"
     ]
 },
-  "bbox": [-82.353632,34.869436,-82.353632,34.869436],
+  "bbox": [
+    -82.353632,
+    34.869436,
+    -82.353632,
+    34.869436
+],
   "geometry": {"coordinates":[-82.353632,34.869436],"type":"Point"}
 }

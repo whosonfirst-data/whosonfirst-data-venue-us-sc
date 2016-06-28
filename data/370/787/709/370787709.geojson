@@ -2,13 +2,14 @@
   "id": 370787709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.089321,34.040702,-81.089321,34.040702",
     "geom:latitude":34.040702,
     "geom:longitude":-81.089321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1345 Garner Ln",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370787709,
-    "wof:lastmodified":1449030626,
+    "wof:lastmodified":1467082332,
     "wof:name":"First Cellular Of Columbia",
     "wof:parent_id":85845041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-81.089321,34.040702,-81.089321,34.040702],
+  "bbox": [
+    -81.089321,
+    34.040702,
+    -81.089321,
+    34.040702
+],
   "geometry": {"coordinates":[-81.089321,34.040702],"type":"Point"}
 }

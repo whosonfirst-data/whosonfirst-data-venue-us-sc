@@ -2,13 +2,14 @@
   "id": 185644903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.986567,34.902154,-81.986567,34.902154",
     "geom:latitude":34.902154,
     "geom:longitude":-81.986567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 Old Anderson Mill Rd",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185644903,
-    "wof:lastmodified":1449007521,
+    "wof:lastmodified":1467082196,
     "wof:name":"Elegant Solutions",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woman"
     ]
 },
-  "bbox": [-81.986567,34.902154,-81.986567,34.902154],
-  "geometry": {"coordinates":[-81.986567,34.902154],"type":"Point"}
+  "bbox": [
+    -81.986567,
+    34.902154,
+    -81.986567,
+    34.902154
+],
+  "geometry": {"coordinates":[-81.98656699999999,34.902154],"type":"Point"}
 }

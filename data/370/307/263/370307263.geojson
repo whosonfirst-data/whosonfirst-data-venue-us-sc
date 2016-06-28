@@ -2,13 +2,14 @@
   "id": 370307263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.968033,34.003693,-80.968033,34.003693",
     "geom:latitude":34.003693,
     "geom:longitude":-80.968033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4638 Pinegrove Ct",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370307263,
-    "wof:lastmodified":1449029976,
+    "wof:lastmodified":1467082318,
     "wof:name":"Eleanor K Ellison Interiors",
     "wof:parent_id":85813843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-80.968033,34.003693,-80.968033,34.003693],
-  "geometry": {"coordinates":[-80.968033,34.003693],"type":"Point"}
+  "bbox": [
+    -80.968033,
+    34.003693,
+    -80.968033,
+    34.003693
+],
+  "geometry": {"coordinates":[-80.96803300000001,34.003693],"type":"Point"}
 }

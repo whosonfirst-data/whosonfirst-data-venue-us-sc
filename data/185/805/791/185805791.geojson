@@ -2,13 +2,14 @@
   "id": 185805791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.145912,34.889047,-82.145912,34.889047",
     "geom:latitude":34.889047,
     "geom:longitude":-82.145912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Rogers Bridge Rd",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185805791,
-    "wof:lastmodified":1449007139,
+    "wof:lastmodified":1467082190,
     "wof:name":"Site 744b",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-82.145912,34.889047,-82.145912,34.889047],
+  "bbox": [
+    -82.145912,
+    34.889047,
+    -82.145912,
+    34.889047
+],
   "geometry": {"coordinates":[-82.145912,34.889047],"type":"Point"}
 }

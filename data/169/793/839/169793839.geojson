@@ -2,13 +2,14 @@
   "id": 169793839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.839419,35.078308,-81.839419,35.078308",
     "geom:latitude":35.078308,
     "geom:longitude":-81.839419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Humphries Rd",
     "sg:city":"Cowpens",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169793839,
-    "wof:lastmodified":1449034507,
+    "wof:lastmodified":1467082383,
     "wof:name":"Grandma's House",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.839419,35.078308,-81.839419,35.078308],
-  "geometry": {"coordinates":[-81.839419,35.078308],"type":"Point"}
+  "bbox": [
+    -81.839419,
+    35.078308,
+    -81.839419,
+    35.078308
+],
+  "geometry": {"coordinates":[-81.83941900000001,35.078308],"type":"Point"}
 }

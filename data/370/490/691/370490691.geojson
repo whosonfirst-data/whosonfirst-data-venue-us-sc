@@ -2,13 +2,14 @@
   "id": 370490691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.057797,33.546679,-79.057797,33.546679",
     "geom:latitude":33.546679,
     "geom:longitude":-79.057797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4525 Wesley Rd",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370490691,
-    "wof:lastmodified":1449032131,
+    "wof:lastmodified":1467082366,
     "wof:name":"Water Garden Creations",
     "wof:parent_id":85854055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "water"
     ]
 },
-  "bbox": [-79.057797,33.546679,-79.057797,33.546679],
-  "geometry": {"coordinates":[-79.057797,33.546679],"type":"Point"}
+  "bbox": [
+    -79.057797,
+    33.546679,
+    -79.057797,
+    33.546679
+],
+  "geometry": {"coordinates":[-79.05779699999999,33.546679],"type":"Point"}
 }

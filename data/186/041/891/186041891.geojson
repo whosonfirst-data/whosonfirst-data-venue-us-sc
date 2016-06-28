@@ -2,13 +2,14 @@
   "id": 186041891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.787602,32.149525,-80.787602,32.149525",
     "geom:latitude":32.149525,
     "geom:longitude":-80.787602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Oyster Landing Rd",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186041891,
-    "wof:lastmodified":1449051356,
+    "wof:lastmodified":1467082397,
     "wof:name":"Fredco",
     "wof:parent_id":85830025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.787602,32.149525,-80.787602,32.149525],
-  "geometry": {"coordinates":[-80.787602,32.149525],"type":"Point"}
+  "bbox": [
+    -80.787602,
+    32.149525,
+    -80.787602,
+    32.149525
+],
+  "geometry": {"coordinates":[-80.78760200000001,32.149525],"type":"Point"}
 }

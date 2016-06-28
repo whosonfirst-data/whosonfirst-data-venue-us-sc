@@ -2,13 +2,14 @@
   "id": 186040873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.287168,33.368998,-79.287168,33.368998",
     "geom:latitude":33.368998,
     "geom:longitude":-79.287168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 Front St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186040873,
-    "wof:lastmodified":1449052959,
+    "wof:lastmodified":1467082412,
     "wof:name":"George Sink Law Office",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.287168,33.368998,-79.287168,33.368998],
-  "geometry": {"coordinates":[-79.287168,33.368998],"type":"Point"}
+  "bbox": [
+    -79.287168,
+    33.368998,
+    -79.287168,
+    33.368998
+],
+  "geometry": {"coordinates":[-79.28716799999999,33.368998],"type":"Point"}
 }

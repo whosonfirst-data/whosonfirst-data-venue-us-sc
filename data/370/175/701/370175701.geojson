@@ -2,13 +2,14 @@
   "id": 370175701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.475157,34.773575,-82.475157,34.773575",
     "geom:latitude":34.773575,
     "geom:longitude":-82.475157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Childers Cir",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370175701,
-    "wof:lastmodified":1449031428,
+    "wof:lastmodified":1467082350,
     "wof:name":"Scott's Equipment Repair",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-82.475157,34.773575,-82.475157,34.773575],
+  "bbox": [
+    -82.475157,
+    34.773575,
+    -82.475157,
+    34.773575
+],
   "geometry": {"coordinates":[-82.475157,34.773575],"type":"Point"}
 }

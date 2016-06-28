@@ -2,13 +2,14 @@
   "id": 370891849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.748753,34.657949,-80.748753,34.657949",
     "geom:latitude":34.657949,
     "geom:longitude":-80.748753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1824 McIlwain Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370891849,
-    "wof:lastmodified":1449031121,
+    "wof:lastmodified":1467082343,
     "wof:name":"Tripps Convenience",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.748753,34.657949,-80.748753,34.657949],
-  "geometry": {"coordinates":[-80.748753,34.657949],"type":"Point"}
+  "bbox": [
+    -80.748753,
+    34.657949,
+    -80.748753,
+    34.657949
+],
+  "geometry": {"coordinates":[-80.74875299999999,34.657949],"type":"Point"}
 }

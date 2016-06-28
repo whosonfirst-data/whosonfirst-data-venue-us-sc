@@ -2,13 +2,14 @@
   "id": 354258527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.564271,34.796033,-82.564271,34.796033",
     "geom:latitude":34.796033,
     "geom:longitude":-82.564271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Sheffield Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354258527,
-    "wof:lastmodified":1449067279,
+    "wof:lastmodified":1467082445,
     "wof:name":"IE Thomas Interpretors",
     "wof:parent_id":85819785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.564271,34.796033,-82.564271,34.796033],
-  "geometry": {"coordinates":[-82.564271,34.796033],"type":"Point"}
+  "bbox": [
+    -82.564271,
+    34.796033,
+    -82.564271,
+    34.796033
+],
+  "geometry": {"coordinates":[-82.56427100000001,34.796033],"type":"Point"}
 }

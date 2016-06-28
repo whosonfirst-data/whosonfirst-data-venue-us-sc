@@ -2,13 +2,14 @@
   "id": 354413587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.025805,32.79532,-80.025805,32.79532",
     "geom:latitude":32.79532,
     "geom:longitude":-80.025805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Dupont Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354413587,
-    "wof:lastmodified":1449066193,
+    "wof:lastmodified":1467082420,
     "wof:name":"Mary H Norman CPA",
     "wof:parent_id":85839787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-80.025805,32.79532,-80.025805,32.79532],
-  "geometry": {"coordinates":[-80.025805,32.79532],"type":"Point"}
+  "bbox": [
+    -80.025805,
+    32.79532,
+    -80.025805,
+    32.79532
+],
+  "geometry": {"coordinates":[-80.02580500000001,32.79532],"type":"Point"}
 }

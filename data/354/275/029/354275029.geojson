@@ -2,13 +2,14 @@
   "id": 354275029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.404198,34.844785,-82.404198,34.844785",
     "geom:latitude":34.844785,
     "geom:longitude":-82.404198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 River St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354275029,
-    "wof:lastmodified":1449066457,
+    "wof:lastmodified":1467082426,
     "wof:name":"Julia Peters Studio",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.404198,34.844785,-82.404198,34.844785],
-  "geometry": {"coordinates":[-82.404198,34.844785],"type":"Point"}
+  "bbox": [
+    -82.404198,
+    34.844785,
+    -82.404198,
+    34.844785
+],
+  "geometry": {"coordinates":[-82.40419799999999,34.844785],"type":"Point"}
 }

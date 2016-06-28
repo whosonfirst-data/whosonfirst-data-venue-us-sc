@@ -2,13 +2,14 @@
   "id": 354292145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.274479,34.727615,-82.274479,34.727615",
     "geom:latitude":34.727615,
     "geom:longitude":-82.274479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Tamwood Cir",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354292145,
-    "wof:lastmodified":1449066070,
+    "wof:lastmodified":1467082418,
     "wof:name":"Marshall Masonry",
     "wof:parent_id":85857259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.274479,34.727615,-82.274479,34.727615],
+  "bbox": [
+    -82.274479,
+    34.727615,
+    -82.274479,
+    34.727615
+],
   "geometry": {"coordinates":[-82.274479,34.727615],"type":"Point"}
 }

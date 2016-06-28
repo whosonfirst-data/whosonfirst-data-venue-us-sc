@@ -2,13 +2,14 @@
   "id": 337369233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.153175,34.245869,-82.153175,34.245869",
     "geom:latitude":34.245869,
     "geom:longitude":-82.153175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Terminal Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337369233,
-    "wof:lastmodified":1449027701,
+    "wof:lastmodified":1467082294,
     "wof:name":"Greenwood County Airport",
     "wof:parent_id":85845351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.153175,34.245869,-82.153175,34.245869],
+  "bbox": [
+    -82.153175,
+    34.245869,
+    -82.153175,
+    34.245869
+],
   "geometry": {"coordinates":[-82.153175,34.245869],"type":"Point"}
 }

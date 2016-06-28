@@ -2,13 +2,14 @@
   "id": 370628171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.902244,34.561878,-82.902244,34.561878",
     "geom:latitude":34.561878,
     "geom:longitude":-82.902244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Fairplay Rd",
     "sg:city":"Townville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370628171,
-    "wof:lastmodified":1449031834,
+    "wof:lastmodified":1467082359,
     "wof:name":"Farm Poultry & Cattle",
     "wof:parent_id":85858639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cattle"
     ]
 },
-  "bbox": [-82.902244,34.561878,-82.902244,34.561878],
+  "bbox": [
+    -82.902244,
+    34.561878,
+    -82.902244,
+    34.561878
+],
   "geometry": {"coordinates":[-82.902244,34.561878],"type":"Point"}
 }

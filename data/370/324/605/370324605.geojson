@@ -2,13 +2,14 @@
   "id": 370324605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.241322,34.99481,-81.241322,34.99481",
     "geom:latitude":34.99481,
     "geom:longitude":-81.241322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 N Congress St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370324605,
-    "wof:lastmodified":1449031051,
+    "wof:lastmodified":1467082341,
     "wof:name":"Remax Lakes & Land",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.241322,34.99481,-81.241322,34.99481],
+  "bbox": [
+    -81.241322,
+    34.99481,
+    -81.241322,
+    34.99481
+],
   "geometry": {"coordinates":[-81.241322,34.99481],"type":"Point"}
 }

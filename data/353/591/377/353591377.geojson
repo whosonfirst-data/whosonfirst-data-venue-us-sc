@@ -2,13 +2,14 @@
   "id": 353591377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.021251,33.766957,-79.021251,33.766957",
     "geom:latitude":33.766957,
     "geom:longitude":-79.021251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 Dunn Acres Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353591377,
-    "wof:lastmodified":1449019631,
+    "wof:lastmodified":1467082238,
     "wof:name":"Palmetto Portraits",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-79.021251,33.766957,-79.021251,33.766957],
-  "geometry": {"coordinates":[-79.021251,33.766957],"type":"Point"}
+  "bbox": [
+    -79.021251,
+    33.766957,
+    -79.021251,
+    33.766957
+],
+  "geometry": {"coordinates":[-79.02125100000001,33.766957],"type":"Point"}
 }

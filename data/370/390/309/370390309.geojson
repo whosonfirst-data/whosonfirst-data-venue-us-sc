@@ -2,13 +2,14 @@
   "id": 370390309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.065588,34.765099,-83.065588,34.765099",
     "geom:latitude":34.765099,
     "geom:longitude":-83.065588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E Main St",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370390309,
-    "wof:lastmodified":1449032509,
+    "wof:lastmodified":1467082374,
     "wof:name":"Joanne's Sweet Shop & Cafe",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.065588,34.765099,-83.065588,34.765099],
-  "geometry": {"coordinates":[-83.065588,34.765099],"type":"Point"}
+  "bbox": [
+    -83.065588,
+    34.765099,
+    -83.065588,
+    34.765099
+],
+  "geometry": {"coordinates":[-83.06558800000001,34.765099],"type":"Point"}
 }

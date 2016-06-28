@@ -2,13 +2,14 @@
   "id": 353604875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.643678,33.862732,-78.643678,33.862732",
     "geom:latitude":33.862732,
     "geom:longitude":-78.643678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2574 Lake Cir",
     "sg:city":"Little River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353604875,
-    "wof:lastmodified":1449020508,
+    "wof:lastmodified":1467082256,
     "wof:name":"Ryder Realty LLC",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.643678,33.862732,-78.643678,33.862732],
-  "geometry": {"coordinates":[-78.643678,33.862732],"type":"Point"}
+  "bbox": [
+    -78.643678,
+    33.862732,
+    -78.643678,
+    33.862732
+],
+  "geometry": {"coordinates":[-78.64367799999999,33.862732],"type":"Point"}
 }

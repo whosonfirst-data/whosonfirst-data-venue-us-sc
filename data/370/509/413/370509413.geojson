@@ -2,13 +2,14 @@
   "id": 370509413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.709994,34.791758,-80.709994,34.791758",
     "geom:latitude":34.791758,
     "geom:longitude":-80.709994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2243 Shiloh Unity Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370509413,
-    "wof:lastmodified":1449029206,
+    "wof:lastmodified":1467082301,
     "wof:name":"Northside Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.709994,34.791758,-80.709994,34.791758],
-  "geometry": {"coordinates":[-80.709994,34.791758],"type":"Point"}
+  "bbox": [
+    -80.709994,
+    34.791758,
+    -80.709994,
+    34.791758
+],
+  "geometry": {"coordinates":[-80.70999399999999,34.791758],"type":"Point"}
 }

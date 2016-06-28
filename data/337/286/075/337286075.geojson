@@ -2,13 +2,14 @@
   "id": 337286075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930576,32.798257,-79.930576,32.798257",
     "geom:latitude":32.798257,
     "geom:longitude":-79.930576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Immigration St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":337286075,
-    "wof:lastmodified":1449027149,
+    "wof:lastmodified":1467082273,
     "wof:name":"Batten & Moore",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.930576,32.798257,-79.930576,32.798257],
+  "bbox": [
+    -79.930576,
+    32.798257,
+    -79.930576,
+    32.798257
+],
   "geometry": {"coordinates":[-79.930576,32.798257],"type":"Point"}
 }

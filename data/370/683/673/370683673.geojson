@@ -2,13 +2,14 @@
   "id": 370683673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.928978,34.944346,-81.928978,34.944346",
     "geom:latitude":34.944346,
     "geom:longitude":-81.928978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"258 S Church St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370683673,
-    "wof:lastmodified":1449030331,
+    "wof:lastmodified":1467082326,
     "wof:name":"Spartanburg County Defenders",
     "wof:parent_id":85824173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.928978,34.944346,-81.928978,34.944346],
+  "bbox": [
+    -81.928978,
+    34.944346,
+    -81.928978,
+    34.944346
+],
   "geometry": {"coordinates":[-81.928978,34.944346],"type":"Point"}
 }

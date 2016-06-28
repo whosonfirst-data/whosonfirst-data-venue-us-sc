@@ -2,13 +2,14 @@
   "id": 370861141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.81828,33.741794,-78.81828,33.741794",
     "geom:latitude":33.741794,
     "geom:longitude":-78.81828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7200 N Ocean Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370861141,
-    "wof:lastmodified":1449032442,
+    "wof:lastmodified":1467082373,
     "wof:name":"Long Bay Resort",
     "wof:parent_id":85809243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-78.81828,33.741794,-78.81828,33.741794],
+  "bbox": [
+    -78.81828,
+    33.741794,
+    -78.81828,
+    33.741794
+],
   "geometry": {"coordinates":[-78.81828,33.741794],"type":"Point"}
 }

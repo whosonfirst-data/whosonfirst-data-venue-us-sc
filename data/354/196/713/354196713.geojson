@@ -2,13 +2,14 @@
   "id": 354196713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.940199,34.043164,-80.940199,34.043164",
     "geom:latitude":34.043164,
     "geom:longitude":-80.940199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 Decker Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354196713,
-    "wof:lastmodified":1449066308,
+    "wof:lastmodified":1467082423,
     "wof:name":"Capitol Auto Tint & Acces",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tinting"
     ]
 },
-  "bbox": [-80.940199,34.043164,-80.940199,34.043164],
-  "geometry": {"coordinates":[-80.940199,34.043164],"type":"Point"}
+  "bbox": [
+    -80.940199,
+    34.043164,
+    -80.940199,
+    34.043164
+],
+  "geometry": {"coordinates":[-80.94019900000001,34.043164],"type":"Point"}
 }

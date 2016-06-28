@@ -2,13 +2,14 @@
   "id": 370488473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.406244,33.616433,-79.406244,33.616433",
     "geom:latitude":33.616433,
     "geom:longitude":-79.406244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 Rose Hill Rd",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370488473,
-    "wof:lastmodified":1449032380,
+    "wof:lastmodified":1467082371,
     "wof:name":"T Harry Mntnc & Plumbing Svc",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.406244,33.616433,-79.406244,33.616433],
+  "bbox": [
+    -79.406244,
+    33.616433,
+    -79.406244,
+    33.616433
+],
   "geometry": {"coordinates":[-79.406244,33.616433],"type":"Point"}
 }

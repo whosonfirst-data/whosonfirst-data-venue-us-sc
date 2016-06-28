@@ -2,13 +2,14 @@
   "id": 353916187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.023061,34.496073,-82.023061,34.496073",
     "geom:latitude":34.496073,
     "geom:longitude":-82.023061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 W Main St",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353916187,
-    "wof:lastmodified":1449019660,
+    "wof:lastmodified":1467082238,
     "wof:name":"Kennedy Mortuary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-82.023061,34.496073,-82.023061,34.496073],
+  "bbox": [
+    -82.023061,
+    34.496073,
+    -82.023061,
+    34.496073
+],
   "geometry": {"coordinates":[-82.023061,34.496073],"type":"Point"}
 }

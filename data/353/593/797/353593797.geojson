@@ -2,13 +2,14 @@
   "id": 353593797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.868227,33.502592,-80.868227,33.502592",
     "geom:latitude":33.502592,
     "geom:longitude":-80.868227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"585 Dantzler St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353593797,
-    "wof:lastmodified":1449019940,
+    "wof:lastmodified":1467082244,
     "wof:name":"Williams Hairstyling & Beauty",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.868227,33.502592,-80.868227,33.502592],
+  "bbox": [
+    -80.868227,
+    33.502592,
+    -80.868227,
+    33.502592
+],
   "geometry": {"coordinates":[-80.868227,33.502592],"type":"Point"}
 }

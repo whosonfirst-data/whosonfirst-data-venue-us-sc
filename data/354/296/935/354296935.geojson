@@ -2,13 +2,14 @@
   "id": 354296935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.077705,35.038337,-82.077705,35.038337",
     "geom:latitude":35.038337,
     "geom:longitude":-82.077705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11280 Asheville Hwy",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354296935,
-    "wof:lastmodified":1449067326,
+    "wof:lastmodified":1467082446,
     "wof:name":"National Bank-South Carolina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.077705,35.038337,-82.077705,35.038337],
-  "geometry": {"coordinates":[-82.077705,35.038337],"type":"Point"}
+  "bbox": [
+    -82.077705,
+    35.038337,
+    -82.077705,
+    35.038337
+],
+  "geometry": {"coordinates":[-82.07770499999999,35.038337],"type":"Point"}
 }

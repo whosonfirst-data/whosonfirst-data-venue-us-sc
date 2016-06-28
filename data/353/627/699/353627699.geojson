@@ -2,13 +2,14 @@
   "id": 353627699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.094343,34.166304,-82.094343,34.166304",
     "geom:latitude":34.166304,
     "geom:longitude":-82.094343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1433 Ninety Six Hwy",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353627699,
-    "wof:lastmodified":1449020861,
+    "wof:lastmodified":1467082263,
     "wof:name":"Kidds Upholstry",
     "wof:parent_id":85818515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.094343,34.166304,-82.094343,34.166304],
-  "geometry": {"coordinates":[-82.094343,34.166304],"type":"Point"}
+  "bbox": [
+    -82.094343,
+    34.166304,
+    -82.094343,
+    34.166304
+],
+  "geometry": {"coordinates":[-82.09434299999999,34.166304],"type":"Point"}
 }

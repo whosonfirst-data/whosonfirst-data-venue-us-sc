@@ -2,13 +2,14 @@
   "id": 186296843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.96253,33.935301,-80.96253,33.935301",
     "geom:latitude":33.935301,
     "geom:longitude":-80.96253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Reeder Point Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186296843,
-    "wof:lastmodified":1449052511,
+    "wof:lastmodified":1467082408,
     "wof:name":"Zion Chapel Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.96253,33.935301,-80.96253,33.935301],
+  "bbox": [
+    -80.96253,
+    33.935301,
+    -80.96253,
+    33.935301
+],
   "geometry": {"coordinates":[-80.96253,33.935301],"type":"Point"}
 }

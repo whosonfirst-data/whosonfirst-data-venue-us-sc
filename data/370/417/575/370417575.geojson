@@ -2,13 +2,14 @@
   "id": 370417575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.716682,33.558886,-81.716682,33.558886",
     "geom:latitude":33.558886,
     "geom:longitude":-81.716682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Fairfield St SE",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370417575,
-    "wof:lastmodified":1449030471,
+    "wof:lastmodified":1467082329,
     "wof:name":"Jackson-Brooks Funeral Home",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-81.716682,33.558886,-81.716682,33.558886],
-  "geometry": {"coordinates":[-81.716682,33.558886],"type":"Point"}
+  "bbox": [
+    -81.716682,
+    33.558886,
+    -81.716682,
+    33.558886
+],
+  "geometry": {"coordinates":[-81.71668200000001,33.558886],"type":"Point"}
 }

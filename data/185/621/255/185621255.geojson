@@ -2,13 +2,14 @@
   "id": 185621255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.643275,32.908652,-80.643275,32.908652",
     "geom:latitude":32.908652,
     "geom:longitude":-80.643275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 Wichman St",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185621255,
-    "wof:lastmodified":1449008032,
+    "wof:lastmodified":1467082204,
     "wof:name":"Bobops",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.643275,32.908652,-80.643275,32.908652],
+  "bbox": [
+    -80.643275,
+    32.908652,
+    -80.643275,
+    32.908652
+],
   "geometry": {"coordinates":[-80.643275,32.908652],"type":"Point"}
 }

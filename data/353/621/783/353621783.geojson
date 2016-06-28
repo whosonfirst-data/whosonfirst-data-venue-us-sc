@@ -2,13 +2,14 @@
   "id": 353621783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.894704,34.941299,-81.894704,34.941299",
     "geom:latitude":34.941299,
     "geom:longitude":-81.894704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Coburn Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353621783,
-    "wof:lastmodified":1449020499,
+    "wof:lastmodified":1467082255,
     "wof:name":"Dale Carnegie Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "program"
     ]
 },
-  "bbox": [-81.894704,34.941299,-81.894704,34.941299],
+  "bbox": [
+    -81.894704,
+    34.941299,
+    -81.894704,
+    34.941299
+],
   "geometry": {"coordinates":[-81.894704,34.941299],"type":"Point"}
 }

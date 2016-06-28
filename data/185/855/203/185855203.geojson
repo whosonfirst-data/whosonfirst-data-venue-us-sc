@@ -2,13 +2,14 @@
   "id": 185855203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.957163,34.121951,-80.957163,34.121951",
     "geom:latitude":34.121951,
     "geom:longitude":-80.957163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Briercliff Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185855203,
-    "wof:lastmodified":1449007783,
+    "wof:lastmodified":1467082200,
     "wof:name":"Time Cutters Concierge Svc",
     "wof:parent_id":85850805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.957163,34.121951,-80.957163,34.121951],
-  "geometry": {"coordinates":[-80.957163,34.121951],"type":"Point"}
+  "bbox": [
+    -80.957163,
+    34.121951,
+    -80.957163,
+    34.121951
+],
+  "geometry": {"coordinates":[-80.95716299999999,34.121951],"type":"Point"}
 }

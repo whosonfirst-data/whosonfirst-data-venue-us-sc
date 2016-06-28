@@ -2,13 +2,14 @@
   "id": 354296465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.381944,33.935089,-80.381944,33.935089",
     "geom:latitude":33.935089,
     "geom:longitude":-80.381944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Alice Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354296465,
-    "wof:lastmodified":1449067326,
+    "wof:lastmodified":1467082446,
     "wof:name":"Palmetto Pointe Apartment Hms",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.381944,33.935089,-80.381944,33.935089],
+  "bbox": [
+    -80.381944,
+    33.935089,
+    -80.381944,
+    33.935089
+],
   "geometry": {"coordinates":[-80.381944,33.935089],"type":"Point"}
 }

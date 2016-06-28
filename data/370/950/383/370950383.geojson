@@ -2,13 +2,14 @@
   "id": 370950383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.645393,35.144909,-81.645393,35.144909",
     "geom:latitude":35.144909,
     "geom:longitude":-81.645393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1396 Pleasant School Rd",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370950383,
-    "wof:lastmodified":1449030404,
+    "wof:lastmodified":1467082327,
     "wof:name":"SCP Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-81.645393,35.144909,-81.645393,35.144909],
+  "bbox": [
+    -81.645393,
+    35.144909,
+    -81.645393,
+    35.144909
+],
   "geometry": {"coordinates":[-81.645393,35.144909],"type":"Point"}
 }

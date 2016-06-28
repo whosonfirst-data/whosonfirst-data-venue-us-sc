@@ -2,13 +2,14 @@
   "id": 353992791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.824661,34.922612,-81.824661,34.922612",
     "geom:latitude":34.922612,
     "geom:longitude":-81.824661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4681 S Pine St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":353992791,
-    "wof:lastmodified":1449019463,
+    "wof:lastmodified":1467082234,
     "wof:name":"J & D Htg & Air Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.824661,34.922612,-81.824661,34.922612],
-  "geometry": {"coordinates":[-81.824661,34.922612],"type":"Point"}
+  "bbox": [
+    -81.824661,
+    34.922612,
+    -81.824661,
+    34.922612
+],
+  "geometry": {"coordinates":[-81.82466100000001,34.922612],"type":"Point"}
 }

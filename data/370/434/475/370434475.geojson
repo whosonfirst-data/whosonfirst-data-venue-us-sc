@@ -2,13 +2,14 @@
   "id": 370434475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.836486,33.48731,-80.836486,33.48731",
     "geom:latitude":33.48731,
     "geom:longitude":-80.836486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 John C Calhoun Dr",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370434475,
-    "wof:lastmodified":1449029827,
+    "wof:lastmodified":1467082314,
     "wof:name":"Honda Of Orangeburg",
     "wof:parent_id":85843475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-80.836486,33.48731,-80.836486,33.48731],
-  "geometry": {"coordinates":[-80.836486,33.48731],"type":"Point"}
+  "bbox": [
+    -80.836486,
+    33.48731,
+    -80.836486,
+    33.48731
+],
+  "geometry": {"coordinates":[-80.83648599999999,33.48731],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169804615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.776879,33.354712,-81.776879,33.354712",
     "geom:latitude":33.354712,
     "geom:longitude":-81.776879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"945 Turner Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169804615,
-    "wof:lastmodified":1449034986,
+    "wof:lastmodified":1467082384,
     "wof:name":"Fred Chavous",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-81.776879,33.354712,-81.776879,33.354712],
-  "geometry": {"coordinates":[-81.776879,33.354712],"type":"Point"}
+  "bbox": [
+    -81.776879,
+    33.354712,
+    -81.776879,
+    33.354712
+],
+  "geometry": {"coordinates":[-81.77687899999999,33.354712],"type":"Point"}
 }

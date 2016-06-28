@@ -2,13 +2,14 @@
   "id": 353820607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.745424,34.281913,-79.745424,34.281913",
     "geom:latitude":34.281913,
     "geom:longitude":-79.745424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2328 Pocket Rd",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353820607,
-    "wof:lastmodified":1449019585,
+    "wof:lastmodified":1467082237,
     "wof:name":"Glorius Church Of Jesus",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.745424,34.281913,-79.745424,34.281913],
+  "bbox": [
+    -79.745424,
+    34.281913,
+    -79.745424,
+    34.281913
+],
   "geometry": {"coordinates":[-79.745424,34.281913],"type":"Point"}
 }

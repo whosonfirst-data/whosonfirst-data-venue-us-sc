@@ -2,13 +2,14 @@
   "id": 370765051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.004504,33.193754,-80.004504,33.193754",
     "geom:latitude":33.193754,
     "geom:longitude":-80.004504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 W Railroad Ave",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370765051,
-    "wof:lastmodified":1449031028,
+    "wof:lastmodified":1467082341,
     "wof:name":"Russell Travel Svc Inc",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-80.004504,33.193754,-80.004504,33.193754],
+  "bbox": [
+    -80.004504,
+    33.193754,
+    -80.004504,
+    33.193754
+],
   "geometry": {"coordinates":[-80.004504,33.193754],"type":"Point"}
 }

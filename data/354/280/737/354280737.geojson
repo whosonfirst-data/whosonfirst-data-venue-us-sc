@@ -2,13 +2,14 @@
   "id": 354280737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.337747,34.777134,-82.337747,34.777134",
     "geom:latitude":34.777134,
     "geom:longitude":-82.337747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Maple Creek Cir",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354280737,
-    "wof:lastmodified":1449066756,
+    "wof:lastmodified":1467082433,
     "wof:name":"Dixie Concrete Cutting Inc",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "sawing"
     ]
 },
-  "bbox": [-82.337747,34.777134,-82.337747,34.777134],
-  "geometry": {"coordinates":[-82.337747,34.777134],"type":"Point"}
+  "bbox": [
+    -82.337747,
+    34.777134,
+    -82.337747,
+    34.777134
+],
+  "geometry": {"coordinates":[-82.33774699999999,34.777134],"type":"Point"}
 }

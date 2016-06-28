@@ -2,13 +2,14 @@
   "id": 186190487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.914939,34.468976,-81.914939,34.468976",
     "geom:latitude":34.468976,
     "geom:longitude":-81.914939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Hazel Dr",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186190487,
-    "wof:lastmodified":1449052859,
+    "wof:lastmodified":1467082411,
     "wof:name":"Creations Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.914939,34.468976,-81.914939,34.468976],
+  "bbox": [
+    -81.914939,
+    34.468976,
+    -81.914939,
+    34.468976
+],
   "geometry": {"coordinates":[-81.914939,34.468976],"type":"Point"}
 }

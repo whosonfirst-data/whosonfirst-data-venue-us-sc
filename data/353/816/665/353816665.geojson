@@ -2,13 +2,14 @@
   "id": 353816665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.372235,33.978317,-81.372235,33.978317",
     "geom:latitude":33.978317,
     "geom:longitude":-81.372235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Spring Hill Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":353816665,
-    "wof:lastmodified":1449019756,
+    "wof:lastmodified":1467082240,
     "wof:name":"Shiloh United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.372235,33.978317,-81.372235,33.978317],
+  "bbox": [
+    -81.372235,
+    33.978317,
+    -81.372235,
+    33.978317
+],
   "geometry": {"coordinates":[-81.372235,33.978317],"type":"Point"}
 }

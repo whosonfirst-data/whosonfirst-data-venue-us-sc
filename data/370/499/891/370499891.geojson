@@ -2,13 +2,14 @@
   "id": 370499891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.509803,34.610872,-82.509803,34.610872",
     "geom:latitude":34.610872,
     "geom:longitude":-82.509803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Forest Ln",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370499891,
-    "wof:lastmodified":1449029736,
+    "wof:lastmodified":1467082312,
     "wof:name":"Radical Changes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-82.509803,34.610872,-82.509803,34.610872],
-  "geometry": {"coordinates":[-82.509803,34.610872],"type":"Point"}
+  "bbox": [
+    -82.509803,
+    34.610872,
+    -82.509803,
+    34.610872
+],
+  "geometry": {"coordinates":[-82.50980300000001,34.610872],"type":"Point"}
 }

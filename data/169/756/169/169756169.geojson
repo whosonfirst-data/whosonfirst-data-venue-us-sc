@@ -2,13 +2,14 @@
   "id": 169756169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.998232,32.797342,-79.998232,32.797342",
     "geom:latitude":32.797342,
     "geom:longitude":-79.998232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Ashley River Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169756169,
-    "wof:lastmodified":1449034663,
+    "wof:lastmodified":1467082384,
     "wof:name":"Prudential Carolina Real Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.998232,32.797342,-79.998232,32.797342],
+  "bbox": [
+    -79.998232,
+    32.797342,
+    -79.998232,
+    32.797342
+],
   "geometry": {"coordinates":[-79.998232,32.797342],"type":"Point"}
 }

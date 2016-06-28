@@ -2,13 +2,14 @@
   "id": 370511639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.715873,32.440266,-80.715873,32.440266",
     "geom:latitude":32.440266,
     "geom:longitude":-80.715873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2741 Boundary St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370511639,
-    "wof:lastmodified":1449030658,
+    "wof:lastmodified":1467082333,
     "wof:name":"Coastal Transmission Svc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-80.715873,32.440266,-80.715873,32.440266],
+  "bbox": [
+    -80.715873,
+    32.440266,
+    -80.715873,
+    32.440266
+],
   "geometry": {"coordinates":[-80.715873,32.440266],"type":"Point"}
 }

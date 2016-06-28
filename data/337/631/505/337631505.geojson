@@ -2,13 +2,14 @@
   "id": 337631505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.7203,33.558924,-81.7203,33.558924",
     "geom:latitude":33.558924,
     "geom:longitude":-81.7203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Park Ave SW",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337631505,
-    "wof:lastmodified":1449027195,
+    "wof:lastmodified":1467082275,
     "wof:name":"Michael W Chesser",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.7203,33.558924,-81.7203,33.558924],
-  "geometry": {"coordinates":[-81.7203,33.558924],"type":"Point"}
+  "bbox": [
+    -81.7203,
+    33.558924,
+    -81.7203,
+    33.558924
+],
+  "geometry": {"coordinates":[-81.72029999999999,33.558924],"type":"Point"}
 }

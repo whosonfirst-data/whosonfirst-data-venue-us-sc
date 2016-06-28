@@ -2,13 +2,14 @@
   "id": 354309985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.721272,33.509563,-81.721272,33.509563",
     "geom:latitude":33.509563,
     "geom:longitude":-81.721272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Shelby Dr",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354309985,
-    "wof:lastmodified":1449066293,
+    "wof:lastmodified":1467082423,
     "wof:name":"Velocity Technologies",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.721272,33.509563,-81.721272,33.509563],
+  "bbox": [
+    -81.721272,
+    33.509563,
+    -81.721272,
+    33.509563
+],
   "geometry": {"coordinates":[-81.721272,33.509563],"type":"Point"}
 }

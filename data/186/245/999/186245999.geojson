@@ -2,13 +2,14 @@
   "id": 186245999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.927236,32.255355,-80.927236,32.255355",
     "geom:latitude":32.255355,
     "geom:longitude":-80.927236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Grande Oaks Dr",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186245999,
-    "wof:lastmodified":1449052949,
+    "wof:lastmodified":1467082412,
     "wof:name":"Sonny Boat Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fisherman"
     ]
 },
-  "bbox": [-80.927236,32.255355,-80.927236,32.255355],
-  "geometry": {"coordinates":[-80.927236,32.255355],"type":"Point"}
+  "bbox": [
+    -80.927236,
+    32.255355,
+    -80.927236,
+    32.255355
+],
+  "geometry": {"coordinates":[-80.92723599999999,32.255355],"type":"Point"}
 }

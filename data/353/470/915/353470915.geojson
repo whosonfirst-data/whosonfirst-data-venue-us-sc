@@ -2,13 +2,14 @@
   "id": 353470915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.591923,34.873088,-82.591923,34.873088",
     "geom:latitude":34.873088,
     "geom:longitude":-82.591923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 Holly Bush Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353470915,
-    "wof:lastmodified":1449018877,
+    "wof:lastmodified":1467082222,
     "wof:name":"T W Associates Inc",
     "wof:parent_id":85832619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.591923,34.873088,-82.591923,34.873088],
-  "geometry": {"coordinates":[-82.591923,34.873088],"type":"Point"}
+  "bbox": [
+    -82.591923,
+    34.873088,
+    -82.591923,
+    34.873088
+],
+  "geometry": {"coordinates":[-82.59192299999999,34.873088],"type":"Point"}
 }

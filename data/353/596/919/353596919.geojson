@@ -2,13 +2,14 @@
   "id": 353596919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.791852,34.778531,-79.791852,34.778531",
     "geom:latitude":34.778531,
     "geom:longitude":-79.791852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1994 State Hwy 177",
     "sg:city":"Wallace",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353596919,
-    "wof:lastmodified":1449019573,
+    "wof:lastmodified":1467082236,
     "wof:name":"K & M Discounts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-79.791852,34.778531,-79.791852,34.778531],
-  "geometry": {"coordinates":[-79.791852,34.778531],"type":"Point"}
+  "bbox": [
+    -79.791852,
+    34.778531,
+    -79.791852,
+    34.778531
+],
+  "geometry": {"coordinates":[-79.79185200000001,34.778531],"type":"Point"}
 }

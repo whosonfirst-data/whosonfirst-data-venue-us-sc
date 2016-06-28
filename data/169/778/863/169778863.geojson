@@ -2,13 +2,14 @@
   "id": 169778863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.191076,34.688379,-81.191076,34.688379",
     "geom:latitude":34.688379,
     "geom:longitude":-81.191076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Doctors Ct",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169778863,
-    "wof:lastmodified":1449032750,
+    "wof:lastmodified":1467082376,
     "wof:name":"Catawba Community Mental Hlth",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-81.191076,34.688379,-81.191076,34.688379],
+  "bbox": [
+    -81.191076,
+    34.688379,
+    -81.191076,
+    34.688379
+],
   "geometry": {"coordinates":[-81.191076,34.688379],"type":"Point"}
 }

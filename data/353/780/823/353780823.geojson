@@ -2,13 +2,14 @@
   "id": 353780823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.85716,32.225025,-80.85716,32.225025",
     "geom:latitude":32.225025,
     "geom:longitude":-80.85716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Alljoy Rd",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353780823,
-    "wof:lastmodified":1449020162,
+    "wof:lastmodified":1467082249,
     "wof:name":"Specialty Catering",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-80.85716,32.225025,-80.85716,32.225025],
-  "geometry": {"coordinates":[-80.85716,32.225025],"type":"Point"}
+  "bbox": [
+    -80.85716,
+    32.225025,
+    -80.85716,
+    32.225025
+],
+  "geometry": {"coordinates":[-80.85715999999999,32.225025],"type":"Point"}
 }

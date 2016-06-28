@@ -2,13 +2,14 @@
   "id": 169847939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.450598,33.219485,-80.450598,33.219485",
     "geom:latitude":33.219485,
     "geom:longitude":-80.450598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Judge St",
     "sg:city":"Harleyville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169847939,
-    "wof:lastmodified":1449033889,
+    "wof:lastmodified":1467082381,
     "wof:name":"Family Diagnostic Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.450598,33.219485,-80.450598,33.219485],
+  "bbox": [
+    -80.450598,
+    33.219485,
+    -80.450598,
+    33.219485
+],
   "geometry": {"coordinates":[-80.450598,33.219485],"type":"Point"}
 }

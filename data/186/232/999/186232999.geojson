@@ -2,13 +2,14 @@
   "id": 186232999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.890631,34.970095,-81.890631,34.970095",
     "geom:latitude":34.970095,
     "geom:longitude":-81.890631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1826 Old Charlotte Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186232999,
-    "wof:lastmodified":1449051254,
+    "wof:lastmodified":1467082396,
     "wof:name":"Mangal Construction",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.890631,34.970095,-81.890631,34.970095],
+  "bbox": [
+    -81.890631,
+    34.970095,
+    -81.890631,
+    34.970095
+],
   "geometry": {"coordinates":[-81.890631,34.970095],"type":"Point"}
 }

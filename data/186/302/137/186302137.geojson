@@ -2,13 +2,14 @@
   "id": 186302137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.800509,34.195676,-79.800509,34.195676",
     "geom:latitude":34.195676,
     "geom:longitude":-79.800509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1807 W Evans St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186302137,
-    "wof:lastmodified":1449051293,
+    "wof:lastmodified":1467082396,
     "wof:name":"Moss & Reed",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.800509,34.195676,-79.800509,34.195676],
-  "geometry": {"coordinates":[-79.800509,34.195676],"type":"Point"}
+  "bbox": [
+    -79.800509,
+    34.195676,
+    -79.800509,
+    34.195676
+],
+  "geometry": {"coordinates":[-79.80050900000001,34.195676],"type":"Point"}
 }

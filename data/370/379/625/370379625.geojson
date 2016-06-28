@@ -2,13 +2,14 @@
   "id": 370379625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.970705,32.843383,-79.970705,32.843383",
     "geom:latitude":32.843383,
     "geom:longitude":-79.970705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2864 Azalea Dr",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370379625,
-    "wof:lastmodified":1449031044,
+    "wof:lastmodified":1467082341,
     "wof:name":"International Supply Consortiu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "industrial"
     ]
 },
-  "bbox": [-79.970705,32.843383,-79.970705,32.843383],
+  "bbox": [
+    -79.970705,
+    32.843383,
+    -79.970705,
+    32.843383
+],
   "geometry": {"coordinates":[-79.970705,32.843383],"type":"Point"}
 }

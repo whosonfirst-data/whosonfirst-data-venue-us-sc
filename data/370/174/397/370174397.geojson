@@ -2,13 +2,14 @@
   "id": 370174397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.980144,32.873515,-79.980144,32.873515",
     "geom:latitude":32.873515,
     "geom:longitude":-79.980144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4287 Spruill Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370174397,
-    "wof:lastmodified":1449029557,
+    "wof:lastmodified":1467082308,
     "wof:name":"Triangle Ice Co",
     "wof:parent_id":85857379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ice"
     ]
 },
-  "bbox": [-79.980144,32.873515,-79.980144,32.873515],
+  "bbox": [
+    -79.980144,
+    32.873515,
+    -79.980144,
+    32.873515
+],
   "geometry": {"coordinates":[-79.980144,32.873515],"type":"Point"}
 }

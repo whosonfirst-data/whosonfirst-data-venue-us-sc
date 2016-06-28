@@ -2,13 +2,14 @@
   "id": 353519305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.78013,34.263835,-79.78013,34.263835",
     "geom:latitude":34.263835,
     "geom:longitude":-79.78013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3237 Sunny Point Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353519305,
-    "wof:lastmodified":1449020622,
+    "wof:lastmodified":1467082258,
     "wof:name":"Vacuums Plus",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-79.78013,34.263835,-79.78013,34.263835],
+  "bbox": [
+    -79.78013,
+    34.263835,
+    -79.78013,
+    34.263835
+],
   "geometry": {"coordinates":[-79.78013,34.263835],"type":"Point"}
 }

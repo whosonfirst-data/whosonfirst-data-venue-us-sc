@@ -2,13 +2,14 @@
   "id": 370230731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.205925,33.013692,-80.205925,33.013692",
     "geom:latitude":33.013692,
     "geom:longitude":-80.205925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Pinewood Dr",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370230731,
-    "wof:lastmodified":1449031609,
+    "wof:lastmodified":1467082354,
     "wof:name":"Altman Apartments",
     "wof:parent_id":85851889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.205925,33.013692,-80.205925,33.013692],
-  "geometry": {"coordinates":[-80.205925,33.013692],"type":"Point"}
+  "bbox": [
+    -80.205925,
+    33.013692,
+    -80.205925,
+    33.013692
+],
+  "geometry": {"coordinates":[-80.20592499999999,33.013692],"type":"Point"}
 }

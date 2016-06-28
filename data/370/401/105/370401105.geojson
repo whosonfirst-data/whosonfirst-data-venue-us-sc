@@ -2,13 +2,14 @@
   "id": 370401105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.47557,34.353272,-81.47557,34.353272",
     "geom:latitude":34.353272,
     "geom:longitude":-81.47557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5458 State Hwy 34",
     "sg:city":"Pomaria",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370401105,
-    "wof:lastmodified":1449031968,
+    "wof:lastmodified":1467082362,
     "wof:name":"Olin Lominick Timber Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "logging"
     ]
 },
-  "bbox": [-81.47557,34.353272,-81.47557,34.353272],
+  "bbox": [
+    -81.47557,
+    34.353272,
+    -81.47557,
+    34.353272
+],
   "geometry": {"coordinates":[-81.47557,34.353272],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370950743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.936149,32.736437,-79.936149,32.736437",
     "geom:latitude":32.736437,
     "geom:longitude":-79.936149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Regatta Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370950743,
-    "wof:lastmodified":1449030406,
+    "wof:lastmodified":1467082327,
     "wof:name":"Island Pride",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.936149,32.736437,-79.936149,32.736437],
+  "bbox": [
+    -79.936149,
+    32.736437,
+    -79.936149,
+    32.736437
+],
   "geometry": {"coordinates":[-79.936149,32.736437],"type":"Point"}
 }

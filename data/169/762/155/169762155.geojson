@@ -2,13 +2,14 @@
   "id": 169762155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.97912,35.043878,-81.97912,35.043878",
     "geom:latitude":35.043878,
     "geom:longitude":-81.97912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3236 State Hwy 9",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169762155,
-    "wof:lastmodified":1449035010,
+    "wof:lastmodified":1467082385,
     "wof:name":"Xpresstax",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-81.97912,35.043878,-81.97912,35.043878],
-  "geometry": {"coordinates":[-81.97912,35.043878],"type":"Point"}
+  "bbox": [
+    -81.97912,
+    35.043878,
+    -81.97912,
+    35.043878
+],
+  "geometry": {"coordinates":[-81.97911999999999,35.043878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370591449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.677326,33.8291,-78.677326,33.8291",
     "geom:latitude":33.8291,
     "geom:longitude":-78.677326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 2nd Ave N",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370591449,
-    "wof:lastmodified":1449030889,
+    "wof:lastmodified":1467082338,
     "wof:name":"Viking Stylist & Barber Shop",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.677326,33.8291,-78.677326,33.8291],
-  "geometry": {"coordinates":[-78.677326,33.8291],"type":"Point"}
+  "bbox": [
+    -78.677326,
+    33.8291,
+    -78.677326,
+    33.8291
+],
+  "geometry": {"coordinates":[-78.67732599999999,33.8291],"type":"Point"}
 }

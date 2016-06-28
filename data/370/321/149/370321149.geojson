@@ -2,13 +2,14 @@
   "id": 370321149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.155046,34.093625,-81.155046,34.093625",
     "geom:latitude":34.093625,
     "geom:longitude":-81.155046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7130 Broad River Rd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370321149,
-    "wof:lastmodified":1449029142,
+    "wof:lastmodified":1467082299,
     "wof:name":"MAL Income Tax",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "filing"
     ]
 },
-  "bbox": [-81.155046,34.093625,-81.155046,34.093625],
+  "bbox": [
+    -81.155046,
+    34.093625,
+    -81.155046,
+    34.093625
+],
   "geometry": {"coordinates":[-81.155046,34.093625],"type":"Point"}
 }

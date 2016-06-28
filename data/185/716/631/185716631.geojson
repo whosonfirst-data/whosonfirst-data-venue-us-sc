@@ -2,13 +2,14 @@
   "id": 185716631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.937886,32.291026,-80.937886,32.291026",
     "geom:latitude":32.291026,
     "geom:longitude":-80.937886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Cecil Reynolds Dr",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185716631,
-    "wof:lastmodified":1449006834,
+    "wof:lastmodified":1467082186,
     "wof:name":"Matthews Marine",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "sales"
     ]
 },
-  "bbox": [-80.937886,32.291026,-80.937886,32.291026],
-  "geometry": {"coordinates":[-80.937886,32.291026],"type":"Point"}
+  "bbox": [
+    -80.937886,
+    32.291026,
+    -80.937886,
+    32.291026
+],
+  "geometry": {"coordinates":[-80.93788600000001,32.291026],"type":"Point"}
 }

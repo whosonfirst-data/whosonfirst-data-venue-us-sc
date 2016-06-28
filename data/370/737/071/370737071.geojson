@@ -2,13 +2,14 @@
   "id": 370737071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.199263,32.969934,-80.199263,32.969934",
     "geom:latitude":32.969934,
     "geom:longitude":-80.199263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1264 Bacons Bridge Rd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370737071,
-    "wof:lastmodified":1449029855,
+    "wof:lastmodified":1467082315,
     "wof:name":"Gazebo School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.199263,32.969934,-80.199263,32.969934],
+  "bbox": [
+    -80.199263,
+    32.969934,
+    -80.199263,
+    32.969934
+],
   "geometry": {"coordinates":[-80.199263,32.969934],"type":"Point"}
 }

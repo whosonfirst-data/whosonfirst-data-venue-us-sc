@@ -2,13 +2,14 @@
   "id": 354232943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.334261,34.775491,-82.334261,34.775491",
     "geom:latitude":34.775491,
     "geom:longitude":-82.334261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 W Butler Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354232943,
-    "wof:lastmodified":1449066458,
+    "wof:lastmodified":1467082427,
     "wof:name":"Majestic Builders",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-82.334261,34.775491,-82.334261,34.775491],
+  "bbox": [
+    -82.334261,
+    34.775491,
+    -82.334261,
+    34.775491
+],
   "geometry": {"coordinates":[-82.334261,34.775491],"type":"Point"}
 }

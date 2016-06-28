@@ -2,13 +2,14 @@
   "id": 337577201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.97177,34.710772,-82.97177,34.710772",
     "geom:latitude":34.710772,
     "geom:longitude":-82.97177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Apollo Dr",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337577201,
-    "wof:lastmodified":1449027762,
+    "wof:lastmodified":1467082296,
     "wof:name":"Patrick D Meyer Builder LLC",
     "wof:parent_id":85854689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.97177,34.710772,-82.97177,34.710772],
-  "geometry": {"coordinates":[-82.97177,34.710772],"type":"Point"}
+  "bbox": [
+    -82.97177,
+    34.710772,
+    -82.97177,
+    34.710772
+],
+  "geometry": {"coordinates":[-82.97177000000001,34.710772],"type":"Point"}
 }

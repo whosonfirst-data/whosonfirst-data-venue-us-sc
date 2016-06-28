@@ -2,13 +2,14 @@
   "id": 370358115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.767447,33.870178,-79.767447,33.870178",
     "geom:latitude":33.870178,
     "geom:longitude":-79.767447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Floyd Ave",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370358115,
-    "wof:lastmodified":1449030505,
+    "wof:lastmodified":1467082330,
     "wof:name":"Candy's Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.767447,33.870178,-79.767447,33.870178],
+  "bbox": [
+    -79.767447,
+    33.870178,
+    -79.767447,
+    33.870178
+],
   "geometry": {"coordinates":[-79.767447,33.870178],"type":"Point"}
 }

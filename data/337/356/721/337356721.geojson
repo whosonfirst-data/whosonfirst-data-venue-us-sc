@@ -2,13 +2,14 @@
   "id": 337356721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.380231,34.807961,-82.380231,34.807961",
     "geom:latitude":34.807961,
     "geom:longitude":-82.380231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 Augusta St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337356721,
-    "wof:lastmodified":1449027603,
+    "wof:lastmodified":1467082290,
     "wof:name":"Laundry Center",
     "wof:parent_id":85832615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.380231,34.807961,-82.380231,34.807961],
-  "geometry": {"coordinates":[-82.380231,34.807961],"type":"Point"}
+  "bbox": [
+    -82.380231,
+    34.807961,
+    -82.380231,
+    34.807961
+],
+  "geometry": {"coordinates":[-82.38023099999999,34.807961],"type":"Point"}
 }

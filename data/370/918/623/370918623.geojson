@@ -2,13 +2,14 @@
   "id": 370918623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.575023,33.17732,-80.575023,33.17732",
     "geom:latitude":33.17732,
     "geom:longitude":-80.575023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 S Parler Ave",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370918623,
-    "wof:lastmodified":1449031379,
+    "wof:lastmodified":1467082349,
     "wof:name":"Persaud's Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.575023,33.17732,-80.575023,33.17732],
+  "bbox": [
+    -80.575023,
+    33.17732,
+    -80.575023,
+    33.17732
+],
   "geometry": {"coordinates":[-80.575023,33.17732],"type":"Point"}
 }

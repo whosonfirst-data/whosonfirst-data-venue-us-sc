@@ -2,13 +2,14 @@
   "id": 354003497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.76349,34.649191,-81.76349,34.649191",
     "geom:latitude":34.649191,
     "geom:longitude":-81.76349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4222 Cross Keys Hwy",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354003497,
-    "wof:lastmodified":1449067540,
+    "wof:lastmodified":1467082451,
     "wof:name":"Prince's Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-81.76349,34.649191,-81.76349,34.649191],
+  "bbox": [
+    -81.76349,
+    34.649191,
+    -81.76349,
+    34.649191
+],
   "geometry": {"coordinates":[-81.76349,34.649191],"type":"Point"}
 }

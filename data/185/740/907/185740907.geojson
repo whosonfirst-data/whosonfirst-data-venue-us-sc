@@ -2,13 +2,14 @@
   "id": 185740907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.090593,34.429317,-80.090593,34.429317",
     "geom:latitude":34.429317,
     "geom:longitude":-80.090593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2218 Bob White Ln",
     "sg:city":"Hartsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185740907,
-    "wof:lastmodified":1449007354,
+    "wof:lastmodified":1467082194,
     "wof:name":"Hearts Filled With Treasures",
     "wof:parent_id":85825479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.090593,34.429317,-80.090593,34.429317],
+  "bbox": [
+    -80.090593,
+    34.429317,
+    -80.090593,
+    34.429317
+],
   "geometry": {"coordinates":[-80.090593,34.429317],"type":"Point"}
 }

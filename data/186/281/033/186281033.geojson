@@ -2,13 +2,14 @@
   "id": 186281033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.147954,34.240793,-82.147954,34.240793",
     "geom:latitude":34.240793,
     "geom:longitude":-82.147954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2516 Airport Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186281033,
-    "wof:lastmodified":1449052599,
+    "wof:lastmodified":1467082409,
     "wof:name":"Airport Pet Stying",
     "wof:parent_id":85845351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.147954,34.240793,-82.147954,34.240793],
+  "bbox": [
+    -82.147954,
+    34.240793,
+    -82.147954,
+    34.240793
+],
   "geometry": {"coordinates":[-82.147954,34.240793],"type":"Point"}
 }

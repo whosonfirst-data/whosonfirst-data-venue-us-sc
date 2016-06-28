@@ -2,13 +2,14 @@
   "id": 186105841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.057794,33.832229,-79.057794,33.832229",
     "geom:latitude":33.832229,
     "geom:longitude":-79.057794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 Wright Blvd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186105841,
-    "wof:lastmodified":1449051400,
+    "wof:lastmodified":1467082397,
     "wof:name":"Conway Vacuum Center Inc",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electrical"
     ]
 },
-  "bbox": [-79.057794,33.832229,-79.057794,33.832229],
+  "bbox": [
+    -79.057794,
+    33.832229,
+    -79.057794,
+    33.832229
+],
   "geometry": {"coordinates":[-79.057794,33.832229],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354292615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.120292,33.950121,-79.120292,33.950121",
     "geom:latitude":33.950121,
     "geom:longitude":-79.120292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4293 State Hwy 319",
     "sg:city":"Aynor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354292615,
-    "wof:lastmodified":1449066069,
+    "wof:lastmodified":1467082418,
     "wof:name":"Carrolls Lawn Care",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.120292,33.950121,-79.120292,33.950121],
-  "geometry": {"coordinates":[-79.120292,33.950121],"type":"Point"}
+  "bbox": [
+    -79.120292,
+    33.950121,
+    -79.120292,
+    33.950121
+],
+  "geometry": {"coordinates":[-79.12029200000001,33.950121],"type":"Point"}
 }

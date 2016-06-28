@@ -2,13 +2,14 @@
   "id": 185627197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.403207,33.869684,-80.403207,33.869684",
     "geom:latitude":33.869684,
     "geom:longitude":-80.403207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1768 Pinewood Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185627197,
-    "wof:lastmodified":1449008254,
+    "wof:lastmodified":1467082208,
     "wof:name":"K F Grocery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-80.403207,33.869684,-80.403207,33.869684],
-  "geometry": {"coordinates":[-80.403207,33.869684],"type":"Point"}
+  "bbox": [
+    -80.403207,
+    33.869684,
+    -80.403207,
+    33.869684
+],
+  "geometry": {"coordinates":[-80.40320699999999,33.869684],"type":"Point"}
 }

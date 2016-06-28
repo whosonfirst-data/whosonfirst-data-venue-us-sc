@@ -2,13 +2,14 @@
   "id": 370633017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.888218,33.847788,-78.888218,33.847788",
     "geom:latitude":33.847788,
     "geom:longitude":-78.888218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6837 Old Reaves Ferry Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370633017,
-    "wof:lastmodified":1449032438,
+    "wof:lastmodified":1467082373,
     "wof:name":"Daniel Kniffen",
     "wof:parent_id":85806541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.888218,33.847788,-78.888218,33.847788],
-  "geometry": {"coordinates":[-78.888218,33.847788],"type":"Point"}
+  "bbox": [
+    -78.888218,
+    33.847788,
+    -78.888218,
+    33.847788
+],
+  "geometry": {"coordinates":[-78.88821799999999,33.847788],"type":"Point"}
 }

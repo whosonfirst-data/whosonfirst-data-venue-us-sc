@@ -2,13 +2,14 @@
   "id": 337373095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.955374,33.704398,-78.955374,33.704398",
     "geom:latitude":33.704398,
     "geom:longitude":-78.955374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 Ambling Way Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337373095,
-    "wof:lastmodified":1449027373,
+    "wof:lastmodified":1467082281,
     "wof:name":"M A Pini Co Inc",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.955374,33.704398,-78.955374,33.704398],
-  "geometry": {"coordinates":[-78.955374,33.704398],"type":"Point"}
+  "bbox": [
+    -78.955374,
+    33.704398,
+    -78.955374,
+    33.704398
+],
+  "geometry": {"coordinates":[-78.95537400000001,33.704398],"type":"Point"}
 }

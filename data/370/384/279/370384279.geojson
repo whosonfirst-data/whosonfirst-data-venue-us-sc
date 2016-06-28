@@ -2,13 +2,14 @@
   "id": 370384279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.813918,34.194847,-79.813918,34.194847",
     "geom:latitude":34.194847,
     "geom:longitude":-79.813918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 W Jody Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370384279,
-    "wof:lastmodified":1449029511,
+    "wof:lastmodified":1467082307,
     "wof:name":"Manage Treatment Svc",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "resource"
     ]
 },
-  "bbox": [-79.813918,34.194847,-79.813918,34.194847],
+  "bbox": [
+    -79.813918,
+    34.194847,
+    -79.813918,
+    34.194847
+],
   "geometry": {"coordinates":[-79.813918,34.194847],"type":"Point"}
 }

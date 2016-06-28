@@ -2,13 +2,14 @@
   "id": 370747667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.183797,32.963467,-80.183797,32.963467",
     "geom:latitude":32.963467,
     "geom:longitude":-80.183797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Isley Ct",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370747667,
-    "wof:lastmodified":1449029711,
+    "wof:lastmodified":1467082312,
     "wof:name":"Air Time Wireless",
     "wof:parent_id":85852525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-80.183797,32.963467,-80.183797,32.963467],
+  "bbox": [
+    -80.183797,
+    32.963467,
+    -80.183797,
+    32.963467
+],
   "geometry": {"coordinates":[-80.183797,32.963467],"type":"Point"}
 }

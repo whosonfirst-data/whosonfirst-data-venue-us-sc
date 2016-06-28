@@ -2,13 +2,14 @@
   "id": 186105181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.224532,33.90623,-80.224532,33.90623",
     "geom:latitude":33.90623,
     "geom:longitude":-80.224532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Ootie Ct",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186105181,
-    "wof:lastmodified":1449051401,
+    "wof:lastmodified":1467082398,
     "wof:name":"SKW Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.224532,33.90623,-80.224532,33.90623],
+  "bbox": [
+    -80.224532,
+    33.90623,
+    -80.224532,
+    33.90623
+],
   "geometry": {"coordinates":[-80.224532,33.90623],"type":"Point"}
 }

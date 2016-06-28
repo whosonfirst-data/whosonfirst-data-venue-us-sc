@@ -2,13 +2,14 @@
   "id": 370910103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.262696,34.837375,-82.262696,34.837375",
     "geom:latitude":34.837375,
     "geom:longitude":-82.262696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 E Thistle Ln",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370910103,
-    "wof:lastmodified":1449030495,
+    "wof:lastmodified":1467082329,
     "wof:name":"Southridge Builders Inc",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.262696,34.837375,-82.262696,34.837375],
-  "geometry": {"coordinates":[-82.262696,34.837375],"type":"Point"}
+  "bbox": [
+    -82.262696,
+    34.837375,
+    -82.262696,
+    34.837375
+],
+  "geometry": {"coordinates":[-82.26269600000001,34.837375],"type":"Point"}
 }

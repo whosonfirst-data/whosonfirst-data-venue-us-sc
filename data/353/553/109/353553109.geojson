@@ -2,13 +2,14 @@
   "id": 353553109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.835237,33.668433,-79.835237,33.668433",
     "geom:latitude":33.668433,
     "geom:longitude":-79.835237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 N Longstreet St",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353553109,
-    "wof:lastmodified":1449018273,
+    "wof:lastmodified":1467082210,
     "wof:name":"Toni Ward Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.835237,33.668433,-79.835237,33.668433],
-  "geometry": {"coordinates":[-79.835237,33.668433],"type":"Point"}
+  "bbox": [
+    -79.835237,
+    33.668433,
+    -79.835237,
+    33.668433
+],
+  "geometry": {"coordinates":[-79.83523700000001,33.668433],"type":"Point"}
 }

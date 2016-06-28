@@ -2,13 +2,14 @@
   "id": 370257927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.755906,34.194236,-79.755906,34.194236",
     "geom:latitude":34.194236,
     "geom:longitude":-79.755906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 E Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370257927,
-    "wof:lastmodified":1449030105,
+    "wof:lastmodified":1467082321,
     "wof:name":"Rick's Pawn Shop",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-79.755906,34.194236,-79.755906,34.194236],
+  "bbox": [
+    -79.755906,
+    34.194236,
+    -79.755906,
+    34.194236
+],
   "geometry": {"coordinates":[-79.755906,34.194236],"type":"Point"}
 }

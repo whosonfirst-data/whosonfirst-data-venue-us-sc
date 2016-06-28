@@ -2,13 +2,14 @@
   "id": 370775399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.026636,32.979127,-80.026636,32.979127",
     "geom:latitude":32.979127,
     "geom:longitude":-80.026636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Howe Hall Rd",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370775399,
-    "wof:lastmodified":1449031597,
+    "wof:lastmodified":1467082354,
     "wof:name":"D & D Automobile Repair & Twng",
     "wof:parent_id":85852091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.026636,32.979127,-80.026636,32.979127],
+  "bbox": [
+    -80.026636,
+    32.979127,
+    -80.026636,
+    32.979127
+],
   "geometry": {"coordinates":[-80.026636,32.979127],"type":"Point"}
 }

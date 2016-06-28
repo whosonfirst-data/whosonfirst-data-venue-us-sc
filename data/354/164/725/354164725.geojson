@@ -2,13 +2,14 @@
   "id": 354164725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.396358,34.887459,-82.396358,34.887459",
     "geom:latitude":34.887459,
     "geom:longitude":-82.396358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3111 N Pleasantburg Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354164725,
-    "wof:lastmodified":1449066136,
+    "wof:lastmodified":1467082419,
     "wof:name":"Patrick's Restaurant",
     "wof:parent_id":85840709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.396358,34.887459,-82.396358,34.887459],
-  "geometry": {"coordinates":[-82.396358,34.887459],"type":"Point"}
+  "bbox": [
+    -82.396358,
+    34.887459,
+    -82.396358,
+    34.887459
+],
+  "geometry": {"coordinates":[-82.39635800000001,34.887459],"type":"Point"}
 }

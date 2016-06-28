@@ -2,13 +2,14 @@
   "id": 370599907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.377792,33.336875,-80.377792,33.336875",
     "geom:latitude":33.336875,
     "geom:longitude":-80.377792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1238 Toney Bay Rd",
     "sg:city":"Holly Hill",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370599907,
-    "wof:lastmodified":1449030665,
+    "wof:lastmodified":1467082333,
     "wof:name":"Bert's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.377792,33.336875,-80.377792,33.336875],
+  "bbox": [
+    -80.377792,
+    33.336875,
+    -80.377792,
+    33.336875
+],
   "geometry": {"coordinates":[-80.377792,33.336875],"type":"Point"}
 }

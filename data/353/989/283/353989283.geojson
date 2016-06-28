@@ -2,13 +2,14 @@
   "id": 353989283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.342373,34.167656,-81.342373,34.167656",
     "geom:latitude":34.167656,
     "geom:longitude":-81.342373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 Columbia Ave",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353989283,
-    "wof:lastmodified":1449020108,
+    "wof:lastmodified":1467082248,
     "wof:name":"Best Home Center of Chapin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "building"
     ]
 },
-  "bbox": [-81.342373,34.167656,-81.342373,34.167656],
-  "geometry": {"coordinates":[-81.342373,34.167656],"type":"Point"}
+  "bbox": [
+    -81.342373,
+    34.167656,
+    -81.342373,
+    34.167656
+],
+  "geometry": {"coordinates":[-81.34237299999999,34.167656],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370165705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.815033,34.174844,-79.815033,34.174844",
     "geom:latitude":34.174844,
     "geom:longitude":-79.815033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 Brava Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370165705,
-    "wof:lastmodified":1449032478,
+    "wof:lastmodified":1467082374,
     "wof:name":"T Carter Logging Inc",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-79.815033,34.174844,-79.815033,34.174844],
+  "bbox": [
+    -79.815033,
+    34.174844,
+    -79.815033,
+    34.174844
+],
   "geometry": {"coordinates":[-79.815033,34.174844],"type":"Point"}
 }

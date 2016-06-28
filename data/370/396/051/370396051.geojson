@@ -2,13 +2,14 @@
   "id": 370396051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.802689,34.188522,-79.802689,34.188522",
     "geom:latitude":34.188522,
     "geom:longitude":-79.802689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 Cherokee Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370396051,
-    "wof:lastmodified":1449031294,
+    "wof:lastmodified":1467082347,
     "wof:name":"Paula Haley Richardson DDS",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-79.802689,34.188522,-79.802689,34.188522],
+  "bbox": [
+    -79.802689,
+    34.188522,
+    -79.802689,
+    34.188522
+],
   "geometry": {"coordinates":[-79.802689,34.188522],"type":"Point"}
 }

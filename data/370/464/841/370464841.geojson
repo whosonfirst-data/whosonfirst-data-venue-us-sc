@@ -2,13 +2,14 @@
   "id": 370464841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.069656,34.783305,-83.069656,34.783305",
     "geom:latitude":34.783305,
     "geom:longitude":-83.069656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Christy Ln",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370464841,
-    "wof:lastmodified":1449030017,
+    "wof:lastmodified":1467082319,
     "wof:name":"Davenport Photography",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-83.069656,34.783305,-83.069656,34.783305],
-  "geometry": {"coordinates":[-83.069656,34.783305],"type":"Point"}
+  "bbox": [
+    -83.069656,
+    34.783305,
+    -83.069656,
+    34.783305
+],
+  "geometry": {"coordinates":[-83.06965599999999,34.783305],"type":"Point"}
 }

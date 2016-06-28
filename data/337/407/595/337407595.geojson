@@ -2,13 +2,14 @@
   "id": 337407595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.045514,33.881086,-79.045514,33.881086",
     "geom:latitude":33.881086,
     "geom:longitude":-79.045514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3027 Bashor Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337407595,
-    "wof:lastmodified":1449027395,
+    "wof:lastmodified":1467082282,
     "wof:name":"Conway United Desk Co",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.045514,33.881086,-79.045514,33.881086],
+  "bbox": [
+    -79.045514,
+    33.881086,
+    -79.045514,
+    33.881086
+],
   "geometry": {"coordinates":[-79.045514,33.881086],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353458021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.708897,34.883302,-82.708897,34.883302",
     "geom:latitude":34.883302,
     "geom:longitude":-82.708897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Garvin St",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353458021,
-    "wof:lastmodified":1449020062,
+    "wof:lastmodified":1467082247,
     "wof:name":"Owens Mechanical & Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-82.708897,34.883302,-82.708897,34.883302],
-  "geometry": {"coordinates":[-82.708897,34.883302],"type":"Point"}
+  "bbox": [
+    -82.708897,
+    34.883302,
+    -82.708897,
+    34.883302
+],
+  "geometry": {"coordinates":[-82.70889699999999,34.883302],"type":"Point"}
 }

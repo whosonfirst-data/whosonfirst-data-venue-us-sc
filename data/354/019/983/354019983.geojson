@@ -2,13 +2,14 @@
   "id": 354019983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.2443,33.767098,-81.2443,33.767098",
     "geom:latitude":33.767098,
     "geom:longitude":-81.2443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 Maple St",
     "sg:city":"Pelion",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354019983,
-    "wof:lastmodified":1449066928,
+    "wof:lastmodified":1467082437,
     "wof:name":"Pelion Eldercare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-81.2443,33.767098,-81.2443,33.767098],
+  "bbox": [
+    -81.2443,
+    33.767098,
+    -81.2443,
+    33.767098
+],
   "geometry": {"coordinates":[-81.2443,33.767098],"type":"Point"}
 }

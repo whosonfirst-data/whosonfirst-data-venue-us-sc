@@ -2,13 +2,14 @@
   "id": 354086575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.007973,34.573794,-83.007973,34.573794",
     "geom:latitude":34.573794,
     "geom:longitude":-83.007973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Dunn Roamin Ranch Dr",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354086575,
-    "wof:lastmodified":1449067116,
+    "wof:lastmodified":1467082441,
     "wof:name":"Luther Roach Floor Sanding",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-83.007973,34.573794,-83.007973,34.573794],
-  "geometry": {"coordinates":[-83.007973,34.573794],"type":"Point"}
+  "bbox": [
+    -83.007973,
+    34.573794,
+    -83.007973,
+    34.573794
+],
+  "geometry": {"coordinates":[-83.00797300000001,34.573794],"type":"Point"}
 }

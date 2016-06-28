@@ -2,13 +2,14 @@
   "id": 353827495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.105132,34.03069,-81.105132,34.03069",
     "geom:latitude":34.03069,
     "geom:longitude":-81.105132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1244 Bush River Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353827495,
-    "wof:lastmodified":1449019169,
+    "wof:lastmodified":1467082228,
     "wof:name":"Allstate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.105132,34.03069,-81.105132,34.03069],
+  "bbox": [
+    -81.105132,
+    34.03069,
+    -81.105132,
+    34.03069
+],
   "geometry": {"coordinates":[-81.105132,34.03069],"type":"Point"}
 }

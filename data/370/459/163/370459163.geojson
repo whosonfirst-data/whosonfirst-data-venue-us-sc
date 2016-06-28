@@ -2,13 +2,14 @@
   "id": 370459163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.098221,34.964401,-81.098221,34.964401",
     "geom:latitude":34.964401,
     "geom:longitude":-81.098221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3008 Hilton Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370459163,
-    "wof:lastmodified":1449030466,
+    "wof:lastmodified":1467082329,
     "wof:name":"National Electrical Carbon Pro",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.098221,34.964401,-81.098221,34.964401],
+  "bbox": [
+    -81.098221,
+    34.964401,
+    -81.098221,
+    34.964401
+],
   "geometry": {"coordinates":[-81.098221,34.964401],"type":"Point"}
 }

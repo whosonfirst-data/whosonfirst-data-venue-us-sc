@@ -2,13 +2,14 @@
   "id": 353937323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.297117,34.784424,-82.297117,34.784424",
     "geom:latitude":34.784424,
     "geom:longitude":-82.297117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"748 Old Mill Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353937323,
-    "wof:lastmodified":1449018732,
+    "wof:lastmodified":1467082219,
     "wof:name":"Watertech",
     "wof:parent_id":85851381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "water"
     ]
 },
-  "bbox": [-82.297117,34.784424,-82.297117,34.784424],
+  "bbox": [
+    -82.297117,
+    34.784424,
+    -82.297117,
+    34.784424
+],
   "geometry": {"coordinates":[-82.297117,34.784424],"type":"Point"}
 }

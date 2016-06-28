@@ -2,13 +2,14 @@
   "id": 353754887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.92363,34.951312,-81.92363,34.951312",
     "geom:latitude":34.951312,
     "geom:longitude":-81.92363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 E Main St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353754887,
-    "wof:lastmodified":1449019919,
+    "wof:lastmodified":1467082244,
     "wof:name":"Inn On Main",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-81.92363,34.951312,-81.92363,34.951312],
+  "bbox": [
+    -81.92363,
+    34.951312,
+    -81.92363,
+    34.951312
+],
   "geometry": {"coordinates":[-81.92363,34.951312],"type":"Point"}
 }

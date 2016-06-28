@@ -2,13 +2,14 @@
   "id": 185673299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.973843,33.669405,-78.973843,33.669405",
     "geom:latitude":33.669405,
     "geom:longitude":-78.973843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Sherry Brook Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185673299,
-    "wof:lastmodified":1449007239,
+    "wof:lastmodified":1467082192,
     "wof:name":"Coastal Pressure Cleaning",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaning"
     ]
 },
-  "bbox": [-78.973843,33.669405,-78.973843,33.669405],
+  "bbox": [
+    -78.973843,
+    33.669405,
+    -78.973843,
+    33.669405
+],
   "geometry": {"coordinates":[-78.973843,33.669405],"type":"Point"}
 }

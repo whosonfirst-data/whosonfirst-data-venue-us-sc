@@ -2,13 +2,14 @@
   "id": 186092353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.419813,34.919612,-82.419813,34.919612",
     "geom:latitude":34.919612,
     "geom:longitude":-82.419813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Viewmont Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186092353,
-    "wof:lastmodified":1449052506,
+    "wof:lastmodified":1467082408,
     "wof:name":"George Electric Co",
     "wof:parent_id":85838465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-82.419813,34.919612,-82.419813,34.919612],
+  "bbox": [
+    -82.419813,
+    34.919612,
+    -82.419813,
+    34.919612
+],
   "geometry": {"coordinates":[-82.419813,34.919612],"type":"Point"}
 }

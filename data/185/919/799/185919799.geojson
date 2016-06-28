@@ -2,13 +2,14 @@
   "id": 185919799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.302919,34.866088,-82.302919,34.866088",
     "geom:latitude":34.866088,
     "geom:longitude":-82.302919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Devenger Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185919799,
-    "wof:lastmodified":1449007833,
+    "wof:lastmodified":1467082201,
     "wof:name":"Palmetto Properties",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.302919,34.866088,-82.302919,34.866088],
+  "bbox": [
+    -82.302919,
+    34.866088,
+    -82.302919,
+    34.866088
+],
   "geometry": {"coordinates":[-82.302919,34.866088],"type":"Point"}
 }

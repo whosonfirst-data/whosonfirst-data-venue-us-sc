@@ -2,13 +2,14 @@
   "id": 353724657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.827126,34.725936,-82.827126,34.725936",
     "geom:latitude":34.725936,
     "geom:longitude":-82.827126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Riverford Dr",
     "sg:city":"Central",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353724657,
-    "wof:lastmodified":1449020720,
+    "wof:lastmodified":1467082260,
     "wof:name":"Hurst Air Svc Inc",
     "wof:parent_id":85808845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.827126,34.725936,-82.827126,34.725936],
-  "geometry": {"coordinates":[-82.827126,34.725936],"type":"Point"}
+  "bbox": [
+    -82.827126,
+    34.725936,
+    -82.827126,
+    34.725936
+],
+  "geometry": {"coordinates":[-82.82712600000001,34.725936],"type":"Point"}
 }

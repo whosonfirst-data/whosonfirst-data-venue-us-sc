@@ -2,13 +2,14 @@
   "id": 185899679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.040639,33.564935,-79.040639,33.564935",
     "geom:latitude":33.564935,
     "geom:longitude":-79.040639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1623 Pond Rd",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185899679,
-    "wof:lastmodified":1449008115,
+    "wof:lastmodified":1467082206,
     "wof:name":"Wachesaw Plantation Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "golf"
     ]
 },
-  "bbox": [-79.040639,33.564935,-79.040639,33.564935],
+  "bbox": [
+    -79.040639,
+    33.564935,
+    -79.040639,
+    33.564935
+],
   "geometry": {"coordinates":[-79.040639,33.564935],"type":"Point"}
 }

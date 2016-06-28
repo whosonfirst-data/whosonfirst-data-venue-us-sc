@@ -2,13 +2,14 @@
   "id": 169820309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.847894,34.167237,-79.847894,34.167237",
     "geom:latitude":34.167237,
     "geom:longitude":-79.847894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 W Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169820309,
-    "wof:lastmodified":1449034387,
+    "wof:lastmodified":1467082383,
     "wof:name":"Peking Chinese Restaurants",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-79.847894,34.167237,-79.847894,34.167237],
+  "bbox": [
+    -79.847894,
+    34.167237,
+    -79.847894,
+    34.167237
+],
   "geometry": {"coordinates":[-79.847894,34.167237],"type":"Point"}
 }

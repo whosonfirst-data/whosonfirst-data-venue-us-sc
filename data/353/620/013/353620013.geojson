@@ -2,13 +2,14 @@
   "id": 353620013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.993232,32.816973,-79.993232,32.816973",
     "geom:latitude":32.816973,
     "geom:longitude":-79.993232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 Old Towne Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353620013,
-    "wof:lastmodified":1449020591,
+    "wof:lastmodified":1467082257,
     "wof:name":"Cherished Children Inc",
     "wof:parent_id":85838205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [-79.993232,32.816973,-79.993232,32.816973],
-  "geometry": {"coordinates":[-79.993232,32.816973],"type":"Point"}
+  "bbox": [
+    -79.993232,
+    32.816973,
+    -79.993232,
+    32.816973
+],
+  "geometry": {"coordinates":[-79.99323200000001,32.816973],"type":"Point"}
 }

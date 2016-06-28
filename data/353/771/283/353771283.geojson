@@ -2,13 +2,14 @@
   "id": 353771283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.870106,34.134458,-79.870106,34.134458",
     "geom:latitude":34.134458,
     "geom:longitude":-79.870106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3867 Garner Rd",
     "sg:city":"Timmonsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353771283,
-    "wof:lastmodified":1449019646,
+    "wof:lastmodified":1467082238,
     "wof:name":"Southeastern Outfitters",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.870106,34.134458,-79.870106,34.134458],
-  "geometry": {"coordinates":[-79.870106,34.134458],"type":"Point"}
+  "bbox": [
+    -79.870106,
+    34.134458,
+    -79.870106,
+    34.134458
+],
+  "geometry": {"coordinates":[-79.87010600000001,34.134458],"type":"Point"}
 }

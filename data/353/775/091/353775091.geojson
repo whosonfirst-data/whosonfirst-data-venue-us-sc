@@ -2,13 +2,14 @@
   "id": 353775091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.864063,34.307347,-80.864063,34.307347",
     "geom:latitude":34.307347,
     "geom:longitude":-80.864063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1329 Park Rd",
     "sg:city":"Ridgeway",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353775091,
-    "wof:lastmodified":1449020137,
+    "wof:lastmodified":1467082248,
     "wof:name":"Peake Tile & Marble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.864063,34.307347,-80.864063,34.307347],
+  "bbox": [
+    -80.864063,
+    34.307347,
+    -80.864063,
+    34.307347
+],
   "geometry": {"coordinates":[-80.864063,34.307347],"type":"Point"}
 }

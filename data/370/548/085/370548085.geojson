@@ -2,13 +2,14 @@
   "id": 370548085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.015667,34.144317,-79.015667,34.144317",
     "geom:latitude":34.144317,
     "geom:longitude":-79.015667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5272 State Hwy 9 W",
     "sg:city":"Green Sea",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370548085,
-    "wof:lastmodified":1449031420,
+    "wof:lastmodified":1467082350,
     "wof:name":"Strickland Wrenn Equipment Sls",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.015667,34.144317,-79.015667,34.144317],
-  "geometry": {"coordinates":[-79.015667,34.144317],"type":"Point"}
+  "bbox": [
+    -79.015667,
+    34.144317,
+    -79.015667,
+    34.144317
+],
+  "geometry": {"coordinates":[-79.01566699999999,34.144317],"type":"Point"}
 }

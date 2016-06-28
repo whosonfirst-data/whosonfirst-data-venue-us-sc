@@ -2,13 +2,14 @@
   "id": 353580455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.857664,34.16105,-79.857664,34.16105",
     "geom:latitude":34.16105,
     "geom:longitude":-79.857664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3622 W Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353580455,
-    "wof:lastmodified":1449019962,
+    "wof:lastmodified":1467082244,
     "wof:name":"Forest Lake Pointe Inc",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.857664,34.16105,-79.857664,34.16105],
+  "bbox": [
+    -79.857664,
+    34.16105,
+    -79.857664,
+    34.16105
+],
   "geometry": {"coordinates":[-79.857664,34.16105],"type":"Point"}
 }

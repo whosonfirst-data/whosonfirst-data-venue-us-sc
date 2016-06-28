@@ -2,13 +2,14 @@
   "id": 353562513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.719974,32.438463,-80.719974,32.438463",
     "geom:latitude":32.438463,
     "geom:longitude":-80.719974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Broad River Blvd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353562513,
-    "wof:lastmodified":1449019609,
+    "wof:lastmodified":1467082237,
     "wof:name":"County Electric Supply Co",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.719974,32.438463,-80.719974,32.438463],
-  "geometry": {"coordinates":[-80.719974,32.438463],"type":"Point"}
+  "bbox": [
+    -80.719974,
+    32.438463,
+    -80.719974,
+    32.438463
+],
+  "geometry": {"coordinates":[-80.71997399999999,32.438463],"type":"Point"}
 }

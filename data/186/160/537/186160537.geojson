@@ -2,13 +2,14 @@
   "id": 186160537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.600693,34.37701,-80.600693,34.37701",
     "geom:latitude":34.37701,
     "geom:longitude":-80.600693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1989 Dekalb School Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186160537,
-    "wof:lastmodified":1449052578,
+    "wof:lastmodified":1467082409,
     "wof:name":"Jordan Builders LLC",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.600693,34.37701,-80.600693,34.37701],
-  "geometry": {"coordinates":[-80.600693,34.37701],"type":"Point"}
+  "bbox": [
+    -80.600693,
+    34.37701,
+    -80.600693,
+    34.37701
+],
+  "geometry": {"coordinates":[-80.60069300000001,34.37701],"type":"Point"}
 }

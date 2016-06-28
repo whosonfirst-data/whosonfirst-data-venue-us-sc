@@ -2,13 +2,14 @@
   "id": 337480125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.799916,34.230176,-79.799916,34.230176",
     "geom:latitude":34.230176,
     "geom:longitude":-79.799916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2003 W Lucas St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337480125,
-    "wof:lastmodified":1449027207,
+    "wof:lastmodified":1467082275,
     "wof:name":"Bojangles",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.799916,34.230176,-79.799916,34.230176],
+  "bbox": [
+    -79.799916,
+    34.230176,
+    -79.799916,
+    34.230176
+],
   "geometry": {"coordinates":[-79.799916,34.230176],"type":"Point"}
 }

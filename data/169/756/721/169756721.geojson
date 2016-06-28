@@ -2,13 +2,14 @@
   "id": 169756721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.885903,34.443438,-79.885903,34.443438",
     "geom:latitude":34.443438,
     "geom:longitude":-79.885903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 G Graham Segars Pkwy",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169756721,
-    "wof:lastmodified":1449034665,
+    "wof:lastmodified":1467082384,
     "wof:name":"Dove Aviation",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.885903,34.443438,-79.885903,34.443438],
+  "bbox": [
+    -79.885903,
+    34.443438,
+    -79.885903,
+    34.443438
+],
   "geometry": {"coordinates":[-79.885903,34.443438],"type":"Point"}
 }

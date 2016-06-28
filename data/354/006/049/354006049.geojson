@@ -2,13 +2,14 @@
   "id": 354006049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.987039,33.987683,-80.987039,33.987683",
     "geom:latitude":33.987683,
     "geom:longitude":-80.987039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3830 Rosewood Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354006049,
-    "wof:lastmodified":1449067303,
+    "wof:lastmodified":1467082446,
     "wof:name":"Jim Casey's Discount Fireworks",
     "wof:parent_id":85876829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "firework"
     ]
 },
-  "bbox": [-80.987039,33.987683,-80.987039,33.987683],
+  "bbox": [
+    -80.987039,
+    33.987683,
+    -80.987039,
+    33.987683
+],
   "geometry": {"coordinates":[-80.987039,33.987683],"type":"Point"}
 }

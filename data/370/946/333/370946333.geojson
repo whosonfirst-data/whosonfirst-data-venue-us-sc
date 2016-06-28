@@ -2,13 +2,14 @@
   "id": 370946333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.573543,34.256246,-80.573543,34.256246",
     "geom:latitude":34.256246,
     "geom:longitude":-80.573543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 McRae Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370946333,
-    "wof:lastmodified":1449032072,
+    "wof:lastmodified":1467082364,
     "wof:name":"Holland Ironworks & Welding",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-80.573543,34.256246,-80.573543,34.256246],
+  "bbox": [
+    -80.573543,
+    34.256246,
+    -80.573543,
+    34.256246
+],
   "geometry": {"coordinates":[-80.573543,34.256246],"type":"Point"}
 }

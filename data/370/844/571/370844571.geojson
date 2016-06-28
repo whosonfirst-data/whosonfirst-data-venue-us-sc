@@ -2,13 +2,14 @@
   "id": 370844571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.885776,33.715613,-78.885776,33.715613",
     "geom:latitude":33.715613,
     "geom:longitude":-78.885776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Celebrity Cir",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370844571,
-    "wof:lastmodified":1449030530,
+    "wof:lastmodified":1467082330,
     "wof:name":"Silver Belles",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-78.885776,33.715613,-78.885776,33.715613],
-  "geometry": {"coordinates":[-78.885776,33.715613],"type":"Point"}
+  "bbox": [
+    -78.885776,
+    33.715613,
+    -78.885776,
+    33.715613
+],
+  "geometry": {"coordinates":[-78.88577600000001,33.715613],"type":"Point"}
 }

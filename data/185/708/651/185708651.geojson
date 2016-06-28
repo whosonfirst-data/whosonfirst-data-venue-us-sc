@@ -2,13 +2,14 @@
   "id": 185708651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.009783,34.912871,-81.009783,34.912871",
     "geom:latitude":34.912871,
     "geom:longitude":-81.009783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Albright Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185708651,
-    "wof:lastmodified":1449006870,
+    "wof:lastmodified":1467082186,
     "wof:name":"Rock Hill Auto Sales",
     "wof:parent_id":85833915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.009783,34.912871,-81.009783,34.912871],
+  "bbox": [
+    -81.009783,
+    34.912871,
+    -81.009783,
+    34.912871
+],
   "geometry": {"coordinates":[-81.009783,34.912871],"type":"Point"}
 }

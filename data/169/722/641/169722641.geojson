@@ -2,13 +2,14 @@
   "id": 169722641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.056818,33.941514,-81.056818,33.941514",
     "geom:latitude":33.941514,
     "geom:longitude":-81.056818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Tamwood Cir",
     "sg:city":"Cayce",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169722641,
-    "wof:lastmodified":1449033849,
+    "wof:lastmodified":1467082381,
     "wof:name":"Lorick Builders Inc",
     "wof:parent_id":85828499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-81.056818,33.941514,-81.056818,33.941514],
-  "geometry": {"coordinates":[-81.056818,33.941514],"type":"Point"}
+  "bbox": [
+    -81.056818,
+    33.941514,
+    -81.056818,
+    33.941514
+],
+  "geometry": {"coordinates":[-81.05681800000001,33.941514],"type":"Point"}
 }

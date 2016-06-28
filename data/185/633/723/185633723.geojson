@@ -2,13 +2,14 @@
   "id": 185633723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.739321,33.509747,-81.739321,33.509747",
     "geom:latitude":33.509747,
     "geom:longitude":-81.739321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Silver Bluff Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185633723,
-    "wof:lastmodified":1449008186,
+    "wof:lastmodified":1467082207,
     "wof:name":"Bronze Body",
     "wof:parent_id":85812071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-81.739321,33.509747,-81.739321,33.509747],
+  "bbox": [
+    -81.739321,
+    33.509747,
+    -81.739321,
+    33.509747
+],
   "geometry": {"coordinates":[-81.739321,33.509747],"type":"Point"}
 }

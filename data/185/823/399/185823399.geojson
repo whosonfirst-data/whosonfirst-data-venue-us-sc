@@ -2,13 +2,14 @@
   "id": 185823399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.261008,33.387427,-80.261008,33.387427",
     "geom:latitude":33.387427,
     "geom:longitude":-80.261008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Dingill Ln",
     "sg:city":"Eutawville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185823399,
-    "wof:lastmodified":1449008177,
+    "wof:lastmodified":1467082207,
     "wof:name":"Sandy's Flowers & Things",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.261008,33.387427,-80.261008,33.387427],
+  "bbox": [
+    -80.261008,
+    33.387427,
+    -80.261008,
+    33.387427
+],
   "geometry": {"coordinates":[-80.261008,33.387427],"type":"Point"}
 }

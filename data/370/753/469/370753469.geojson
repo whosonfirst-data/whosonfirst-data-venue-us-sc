@@ -2,13 +2,14 @@
   "id": 370753469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.975581,33.997094,-80.975581,33.997094",
     "geom:latitude":33.997094,
     "geom:longitude":-80.975581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"826 Arbutus Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370753469,
-    "wof:lastmodified":1449029489,
+    "wof:lastmodified":1467082307,
     "wof:name":"Applied Geosciences Inc",
     "wof:parent_id":85876829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-80.975581,33.997094,-80.975581,33.997094],
-  "geometry": {"coordinates":[-80.975581,33.997094],"type":"Point"}
+  "bbox": [
+    -80.975581,
+    33.997094,
+    -80.975581,
+    33.997094
+],
+  "geometry": {"coordinates":[-80.97558100000001,33.997094],"type":"Point"}
 }

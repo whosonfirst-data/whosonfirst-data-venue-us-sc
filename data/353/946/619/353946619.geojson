@@ -2,13 +2,14 @@
   "id": 353946619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.920938,34.213954,-80.920938,34.213954",
     "geom:latitude":34.213954,
     "geom:longitude":-80.920938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Claude Bundrick Rd",
     "sg:city":"Blythewood",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353946619,
-    "wof:lastmodified":1449020493,
+    "wof:lastmodified":1467082255,
     "wof:name":"3 G LP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "plate"
     ]
 },
-  "bbox": [-80.920938,34.213954,-80.920938,34.213954],
-  "geometry": {"coordinates":[-80.920938,34.213954],"type":"Point"}
+  "bbox": [
+    -80.920938,
+    34.213954,
+    -80.920938,
+    34.213954
+],
+  "geometry": {"coordinates":[-80.92093800000001,34.213954],"type":"Point"}
 }

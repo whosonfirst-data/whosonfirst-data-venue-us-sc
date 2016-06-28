@@ -2,13 +2,14 @@
   "id": 370173101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.02643,32.86149,-80.02643,32.86149",
     "geom:latitude":32.86149,
     "geom:longitude":-80.02643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4947 Fargo St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370173101,
-    "wof:lastmodified":1449029743,
+    "wof:lastmodified":1467082312,
     "wof:name":"Zeltwanger LP",
     "wof:parent_id":85805727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "other"
     ]
 },
-  "bbox": [-80.02643,32.86149,-80.02643,32.86149],
+  "bbox": [
+    -80.02643,
+    32.86149,
+    -80.02643,
+    32.86149
+],
   "geometry": {"coordinates":[-80.02643,32.86149],"type":"Point"}
 }

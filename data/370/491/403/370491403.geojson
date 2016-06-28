@@ -2,13 +2,14 @@
   "id": 370491403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.933572,32.783506,-79.933572,32.783506",
     "geom:latitude":32.783506,
     "geom:longitude":-79.933572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Society St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370491403,
-    "wof:lastmodified":1449029016,
+    "wof:lastmodified":1467082296,
     "wof:name":"Stella Nova Inc",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "miscellaneous"
     ]
 },
-  "bbox": [-79.933572,32.783506,-79.933572,32.783506],
+  "bbox": [
+    -79.933572,
+    32.783506,
+    -79.933572,
+    32.783506
+],
   "geometry": {"coordinates":[-79.933572,32.783506],"type":"Point"}
 }

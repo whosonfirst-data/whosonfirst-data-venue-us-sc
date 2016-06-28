@@ -2,13 +2,14 @@
   "id": 185830189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.388365,34.062305,-80.388365,34.062305",
     "geom:latitude":34.062305,
     "geom:longitude":-80.388365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5090 Cotton Acres Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185830189,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1467082188,
     "wof:name":"Cotton Acres Mini Mart",
     "wof:parent_id":85814545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.388365,34.062305,-80.388365,34.062305],
-  "geometry": {"coordinates":[-80.388365,34.062305],"type":"Point"}
+  "bbox": [
+    -80.388365,
+    34.062305,
+    -80.388365,
+    34.062305
+],
+  "geometry": {"coordinates":[-80.38836499999999,34.062305],"type":"Point"}
 }

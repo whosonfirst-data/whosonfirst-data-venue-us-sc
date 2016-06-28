@@ -2,13 +2,14 @@
   "id": 353821183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.186995,34.089025,-81.186995,34.089025",
     "geom:latitude":34.089025,
     "geom:longitude":-81.186995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Thames Valley Rd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353821183,
-    "wof:lastmodified":1449019651,
+    "wof:lastmodified":1467082238,
     "wof:name":"Fishman & Assoc",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.186995,34.089025,-81.186995,34.089025],
+  "bbox": [
+    -81.186995,
+    34.089025,
+    -81.186995,
+    34.089025
+],
   "geometry": {"coordinates":[-81.186995,34.089025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370435953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.646761,34.242271,-81.646761,34.242271",
     "geom:latitude":34.242271,
     "geom:longitude":-81.646761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5983 State Hwy 121",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370435953,
-    "wof:lastmodified":1449032162,
+    "wof:lastmodified":1467082366,
     "wof:name":"Newberry Sewage Treatment Plnt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-81.646761,34.242271,-81.646761,34.242271],
+  "bbox": [
+    -81.646761,
+    34.242271,
+    -81.646761,
+    34.242271
+],
   "geometry": {"coordinates":[-81.646761,34.242271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353790771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.788078,34.587106,-82.788078,34.587106",
     "geom:latitude":34.587106,
     "geom:longitude":-82.788078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Miller Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353790771,
-    "wof:lastmodified":1449020226,
+    "wof:lastmodified":1467082250,
     "wof:name":"Pepper Grading",
     "wof:parent_id":85858639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.788078,34.587106,-82.788078,34.587106],
+  "bbox": [
+    -82.788078,
+    34.587106,
+    -82.788078,
+    34.587106
+],
   "geometry": {"coordinates":[-82.788078,34.587106],"type":"Point"}
 }

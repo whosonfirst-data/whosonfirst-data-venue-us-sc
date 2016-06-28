@@ -2,13 +2,14 @@
   "id": 370646041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.673549,33.818446,-78.673549,33.818446",
     "geom:latitude":33.818446,
     "geom:longitude":-78.673549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Ocean Blvd",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370646041,
-    "wof:lastmodified":1449028983,
+    "wof:lastmodified":1467082296,
     "wof:name":"Society Of Stranders Inc",
     "wof:parent_id":85826955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "company"
     ]
 },
-  "bbox": [-78.673549,33.818446,-78.673549,33.818446],
-  "geometry": {"coordinates":[-78.673549,33.818446],"type":"Point"}
+  "bbox": [
+    -78.673549,
+    33.818446,
+    -78.673549,
+    33.818446
+],
+  "geometry": {"coordinates":[-78.67354899999999,33.818446],"type":"Point"}
 }

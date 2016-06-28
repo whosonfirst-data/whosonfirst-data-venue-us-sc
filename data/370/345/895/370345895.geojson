@@ -2,13 +2,14 @@
   "id": 370345895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.186523,34.151396,-81.186523,34.151396",
     "geom:latitude":34.151396,
     "geom:longitude":-81.186523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 Old Tamah Rd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370345895,
-    "wof:lastmodified":1449032206,
+    "wof:lastmodified":1467082367,
     "wof:name":"Hoffman Enclosures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "electric"
     ]
 },
-  "bbox": [-81.186523,34.151396,-81.186523,34.151396],
-  "geometry": {"coordinates":[-81.186523,34.151396],"type":"Point"}
+  "bbox": [
+    -81.186523,
+    34.151396,
+    -81.186523,
+    34.151396
+],
+  "geometry": {"coordinates":[-81.18652299999999,34.151396],"type":"Point"}
 }

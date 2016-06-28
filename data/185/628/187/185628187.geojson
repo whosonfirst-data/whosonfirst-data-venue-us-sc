@@ -2,13 +2,14 @@
   "id": 185628187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.726031,33.590175,-81.726031,33.590175",
     "geom:latitude":33.590175,
     "geom:longitude":-81.726031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Balltown Dr",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185628187,
-    "wof:lastmodified":1449007916,
+    "wof:lastmodified":1467082202,
     "wof:name":"Aiken Ballet School",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-81.726031,33.590175,-81.726031,33.590175],
-  "geometry": {"coordinates":[-81.726031,33.590175],"type":"Point"}
+  "bbox": [
+    -81.726031,
+    33.590175,
+    -81.726031,
+    33.590175
+],
+  "geometry": {"coordinates":[-81.72603100000001,33.590175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370396975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.058869,32.866137,-80.058869,32.866137",
     "geom:latitude":32.866137,
     "geom:longitude":-80.058869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5878 Ryans Bluff Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370396975,
-    "wof:lastmodified":1449031299,
+    "wof:lastmodified":1467082347,
     "wof:name":"Richard Bello Enterprises",
     "wof:parent_id":85820043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.058869,32.866137,-80.058869,32.866137],
+  "bbox": [
+    -80.058869,
+    32.866137,
+    -80.058869,
+    32.866137
+],
   "geometry": {"coordinates":[-80.058869,32.866137],"type":"Point"}
 }

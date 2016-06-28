@@ -2,13 +2,14 @@
   "id": 354282365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.296166,33.34674,-79.296166,33.34674",
     "geom:latitude":33.34674,
     "geom:longitude":-79.296166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1929 S Fraser St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354282365,
-    "wof:lastmodified":1449067018,
+    "wof:lastmodified":1467082439,
     "wof:name":"Keith's Golf Carts",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cart"
     ]
 },
-  "bbox": [-79.296166,33.34674,-79.296166,33.34674],
+  "bbox": [
+    -79.296166,
+    33.34674,
+    -79.296166,
+    33.34674
+],
   "geometry": {"coordinates":[-79.296166,33.34674],"type":"Point"}
 }

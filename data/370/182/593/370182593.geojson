@@ -2,13 +2,14 @@
   "id": 370182593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.625366,32.860314,-80.625366,32.860314",
     "geom:latitude":32.860314,
     "geom:longitude":-80.625366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 White Pine Ave",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370182593,
-    "wof:lastmodified":1449031216,
+    "wof:lastmodified":1467082345,
     "wof:name":"J L W Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.625366,32.860314,-80.625366,32.860314],
+  "bbox": [
+    -80.625366,
+    32.860314,
+    -80.625366,
+    32.860314
+],
   "geometry": {"coordinates":[-80.625366,32.860314],"type":"Point"}
 }

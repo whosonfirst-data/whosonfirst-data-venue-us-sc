@@ -2,13 +2,14 @@
   "id": 370860249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.109602,35.076265,-81.109602,35.076265",
     "geom:latitude":35.076265,
     "geom:longitude":-81.109602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4609 Charlotte Hwy",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370860249,
-    "wof:lastmodified":1449030599,
+    "wof:lastmodified":1467082332,
     "wof:name":"Kitchen Source",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-81.109602,35.076265,-81.109602,35.076265],
+  "bbox": [
+    -81.109602,
+    35.076265,
+    -81.109602,
+    35.076265
+],
   "geometry": {"coordinates":[-81.109602,35.076265],"type":"Point"}
 }

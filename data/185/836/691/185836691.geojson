@@ -2,13 +2,14 @@
   "id": 185836691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.382493,34.806389,-82.382493,34.806389",
     "geom:latitude":34.806389,
     "geom:longitude":-82.382493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Potomac Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185836691,
-    "wof:lastmodified":1449007662,
+    "wof:lastmodified":1467082198,
     "wof:name":"Upton & Upton",
     "wof:parent_id":85832615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-82.382493,34.806389,-82.382493,34.806389],
+  "bbox": [
+    -82.382493,
+    34.806389,
+    -82.382493,
+    34.806389
+],
   "geometry": {"coordinates":[-82.382493,34.806389],"type":"Point"}
 }

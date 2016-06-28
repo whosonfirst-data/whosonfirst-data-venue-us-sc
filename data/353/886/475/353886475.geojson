@@ -2,13 +2,14 @@
   "id": 353886475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.880637,33.719492,-78.880637,33.719492",
     "geom:latitude":33.719492,
     "geom:longitude":-78.880637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 Celebrity Cir",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353886475,
-    "wof:lastmodified":1449019670,
+    "wof:lastmodified":1467082238,
     "wof:name":"Jungle Jims Myrtle Beach Inc",
     "wof:parent_id":85816109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "family"
     ]
 },
-  "bbox": [-78.880637,33.719492,-78.880637,33.719492],
-  "geometry": {"coordinates":[-78.880637,33.719492],"type":"Point"}
+  "bbox": [
+    -78.880637,
+    33.719492,
+    -78.880637,
+    33.719492
+],
+  "geometry": {"coordinates":[-78.88063699999999,33.719492],"type":"Point"}
 }

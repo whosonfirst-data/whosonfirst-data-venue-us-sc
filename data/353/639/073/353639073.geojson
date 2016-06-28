@@ -2,13 +2,14 @@
   "id": 353639073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.161526,34.115311,-81.161526,34.115311",
     "geom:latitude":34.115311,
     "geom:longitude":-81.161526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Botany Cir",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353639073,
-    "wof:lastmodified":1449020776,
+    "wof:lastmodified":1467082261,
     "wof:name":"Clearvue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.161526,34.115311,-81.161526,34.115311],
-  "geometry": {"coordinates":[-81.161526,34.115311],"type":"Point"}
+  "bbox": [
+    -81.161526,
+    34.115311,
+    -81.161526,
+    34.115311
+],
+  "geometry": {"coordinates":[-81.16152599999999,34.115311],"type":"Point"}
 }

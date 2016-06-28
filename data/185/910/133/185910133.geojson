@@ -2,13 +2,14 @@
   "id": 185910133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.985276,34.916015,-81.985276,34.916015",
     "geom:latitude":34.916015,
     "geom:longitude":-81.985276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"358 E Blackstock Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185910133,
-    "wof:lastmodified":1449007276,
+    "wof:lastmodified":1467082192,
     "wof:name":"Clayton Marcus Realty",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.985276,34.916015,-81.985276,34.916015],
+  "bbox": [
+    -81.985276,
+    34.916015,
+    -81.985276,
+    34.916015
+],
   "geometry": {"coordinates":[-81.985276,34.916015],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354131855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.764898,33.79064,-78.764898,33.79064",
     "geom:latitude":33.79064,
     "geom:longitude":-78.764898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10177 N Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354131855,
-    "wof:lastmodified":1449066420,
+    "wof:lastmodified":1467082426,
     "wof:name":"Burlington Shoe 118",
     "wof:parent_id":85815435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.764898,33.79064,-78.764898,33.79064],
+  "bbox": [
+    -78.764898,
+    33.79064,
+    -78.764898,
+    33.79064
+],
   "geometry": {"coordinates":[-78.764898,33.79064],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370413735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.025115,32.859162,-80.025115,32.859162",
     "geom:latitude":32.859162,
     "geom:longitude":-80.025115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3630 Bowen St",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370413735,
-    "wof:lastmodified":1449029627,
+    "wof:lastmodified":1467082310,
     "wof:name":"Triad Trucking",
     "wof:parent_id":85805727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.025115,32.859162,-80.025115,32.859162],
+  "bbox": [
+    -80.025115,
+    32.859162,
+    -80.025115,
+    32.859162
+],
   "geometry": {"coordinates":[-80.025115,32.859162],"type":"Point"}
 }

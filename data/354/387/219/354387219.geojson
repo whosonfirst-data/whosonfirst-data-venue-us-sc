@@ -2,13 +2,14 @@
   "id": 354387219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.017969,33.752057,-79.017969,33.752057",
     "geom:latitude":33.752057,
     "geom:longitude":-79.017969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"858 Kingswood Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354387219,
-    "wof:lastmodified":1449067436,
+    "wof:lastmodified":1467082449,
     "wof:name":"Archie Bell Construction",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.017969,33.752057,-79.017969,33.752057],
-  "geometry": {"coordinates":[-79.017969,33.752057],"type":"Point"}
+  "bbox": [
+    -79.017969,
+    33.752057,
+    -79.017969,
+    33.752057
+],
+  "geometry": {"coordinates":[-79.01796899999999,33.752057],"type":"Point"}
 }

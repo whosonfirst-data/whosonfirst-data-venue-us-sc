@@ -2,13 +2,14 @@
   "id": 186004105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.107177,32.868378,-81.107177,32.868378",
     "geom:latitude":32.868378,
     "geom:longitude":-81.107177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Lee Ave",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186004105,
-    "wof:lastmodified":1449051364,
+    "wof:lastmodified":1467082397,
     "wof:name":"The Frock Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [-81.107177,32.868378,-81.107177,32.868378],
-  "geometry": {"coordinates":[-81.107177,32.868378],"type":"Point"}
+  "bbox": [
+    -81.107177,
+    32.868378,
+    -81.107177,
+    32.868378
+],
+  "geometry": {"coordinates":[-81.10717699999999,32.868378],"type":"Point"}
 }

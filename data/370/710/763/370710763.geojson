@@ -2,13 +2,14 @@
   "id": 370710763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.801681,34.214339,-79.801681,34.214339",
     "geom:latitude":34.214339,
     "geom:longitude":-79.801681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Broughton Blvd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370710763,
-    "wof:lastmodified":1449029291,
+    "wof:lastmodified":1467082303,
     "wof:name":"Lucent Technologies Inc",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-79.801681,34.214339,-79.801681,34.214339],
+  "bbox": [
+    -79.801681,
+    34.214339,
+    -79.801681,
+    34.214339
+],
   "geometry": {"coordinates":[-79.801681,34.214339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354205831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.299849,34.116019,-81.299849,34.116019",
     "geom:latitude":34.116019,
     "geom:longitude":-81.299849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Birdsong Trl",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354205831,
-    "wof:lastmodified":1449066962,
+    "wof:lastmodified":1467082438,
     "wof:name":"Ophthlmic Instrmnts Cndtioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmic"
     ]
 },
-  "bbox": [-81.299849,34.116019,-81.299849,34.116019],
-  "geometry": {"coordinates":[-81.299849,34.116019],"type":"Point"}
+  "bbox": [
+    -81.299849,
+    34.116019,
+    -81.299849,
+    34.116019
+],
+  "geometry": {"coordinates":[-81.29984899999999,34.116019],"type":"Point"}
 }

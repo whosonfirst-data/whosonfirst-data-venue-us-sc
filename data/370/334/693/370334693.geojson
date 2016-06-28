@@ -2,13 +2,14 @@
   "id": 370334693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.031146,32.792074,-80.031146,32.792074",
     "geom:latitude":32.792074,
     "geom:longitude":-80.031146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2051 Sam Rittenberg Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370334693,
-    "wof:lastmodified":1449030092,
+    "wof:lastmodified":1467082320,
     "wof:name":"China Gourmet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.031146,32.792074,-80.031146,32.792074],
-  "geometry": {"coordinates":[-80.031146,32.792074],"type":"Point"}
+  "bbox": [
+    -80.031146,
+    32.792074,
+    -80.031146,
+    32.792074
+],
+  "geometry": {"coordinates":[-80.03114600000001,32.792074],"type":"Point"}
 }

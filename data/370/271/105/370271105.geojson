@@ -2,13 +2,14 @@
   "id": 370271105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.648865,34.510928,-82.648865,34.510928",
     "geom:latitude":34.510928,
     "geom:longitude":-82.648865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Bonham Ct",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370271105,
-    "wof:lastmodified":1449030854,
+    "wof:lastmodified":1467082337,
     "wof:name":"Safe Kids Of Anderson County",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [-82.648865,34.510928,-82.648865,34.510928],
+  "bbox": [
+    -82.648865,
+    34.510928,
+    -82.648865,
+    34.510928
+],
   "geometry": {"coordinates":[-82.648865,34.510928],"type":"Point"}
 }

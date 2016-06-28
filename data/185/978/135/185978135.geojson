@@ -2,13 +2,14 @@
   "id": 185978135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.424389,34.849232,-82.424389,34.849232",
     "geom:latitude":34.849232,
     "geom:longitude":-82.424389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Bob St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185978135,
-    "wof:lastmodified":1449007533,
+    "wof:lastmodified":1467082196,
     "wof:name":"Bethel Bible Missionary Church",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.424389,34.849232,-82.424389,34.849232],
-  "geometry": {"coordinates":[-82.424389,34.849232],"type":"Point"}
+  "bbox": [
+    -82.424389,
+    34.849232,
+    -82.424389,
+    34.849232
+],
+  "geometry": {"coordinates":[-82.42438900000001,34.849232],"type":"Point"}
 }

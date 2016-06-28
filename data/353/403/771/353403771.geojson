@@ -2,13 +2,14 @@
   "id": 353403771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.006755,34.499248,-82.006755,34.499248",
     "geom:latitude":34.499248,
     "geom:longitude":-82.006755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 E Main St",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353403771,
-    "wof:lastmodified":1449020448,
+    "wof:lastmodified":1467082254,
     "wof:name":"River Tracks Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.006755,34.499248,-82.006755,34.499248],
+  "bbox": [
+    -82.006755,
+    34.499248,
+    -82.006755,
+    34.499248
+],
   "geometry": {"coordinates":[-82.006755,34.499248],"type":"Point"}
 }

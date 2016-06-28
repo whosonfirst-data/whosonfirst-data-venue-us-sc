@@ -2,13 +2,14 @@
   "id": 169700793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.050891,32.817997,-80.050891,32.817997",
     "geom:latitude":32.817997,
     "geom:longitude":-80.050891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 Maria's Ct",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169700793,
-    "wof:lastmodified":1449035670,
+    "wof:lastmodified":1467082387,
     "wof:name":"Godfrey Construction",
     "wof:parent_id":85809785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.050891,32.817997,-80.050891,32.817997],
-  "geometry": {"coordinates":[-80.050891,32.817997],"type":"Point"}
+  "bbox": [
+    -80.050891,
+    32.817997,
+    -80.050891,
+    32.817997
+],
+  "geometry": {"coordinates":[-80.05089099999999,32.817997],"type":"Point"}
 }

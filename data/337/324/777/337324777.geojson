@@ -2,13 +2,14 @@
   "id": 337324777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.718041,32.253207,-80.718041,32.253207",
     "geom:latitude":32.253207,
     "geom:longitude":-80.718041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Field Sparrow Rd",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337324777,
-    "wof:lastmodified":1449027422,
+    "wof:lastmodified":1467082283,
     "wof:name":"Welsh Hills Oil & Gas Co Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wells"
     ]
 },
-  "bbox": [-80.718041,32.253207,-80.718041,32.253207],
+  "bbox": [
+    -80.718041,
+    32.253207,
+    -80.718041,
+    32.253207
+],
   "geometry": {"coordinates":[-80.718041,32.253207],"type":"Point"}
 }

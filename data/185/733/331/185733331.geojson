@@ -2,13 +2,14 @@
   "id": 185733331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.059058,33.830657,-79.059058,33.830657",
     "geom:latitude":33.830657,
     "geom:longitude":-79.059058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Church St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185733331,
-    "wof:lastmodified":1449006827,
+    "wof:lastmodified":1467082186,
     "wof:name":"Booth Printing & Publishing",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "book"
     ]
 },
-  "bbox": [-79.059058,33.830657,-79.059058,33.830657],
-  "geometry": {"coordinates":[-79.059058,33.830657],"type":"Point"}
+  "bbox": [
+    -79.059058,
+    33.830657,
+    -79.059058,
+    33.830657
+],
+  "geometry": {"coordinates":[-79.05905799999999,33.830657],"type":"Point"}
 }

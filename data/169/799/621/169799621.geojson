@@ -2,13 +2,14 @@
   "id": 169799621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.653721,34.514913,-82.653721,34.514913",
     "geom:latitude":34.514913,
     "geom:longitude":-82.653721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 N Main St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169799621,
-    "wof:lastmodified":1449035990,
+    "wof:lastmodified":1467082388,
     "wof:name":"Powell's Antiques",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-82.653721,34.514913,-82.653721,34.514913],
+  "bbox": [
+    -82.653721,
+    34.514913,
+    -82.653721,
+    34.514913
+],
   "geometry": {"coordinates":[-82.653721,34.514913],"type":"Point"}
 }

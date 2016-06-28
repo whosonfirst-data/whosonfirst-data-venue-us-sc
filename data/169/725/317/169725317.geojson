@@ -2,13 +2,14 @@
   "id": 169725317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.790416,34.199769,-79.790416,34.199769",
     "geom:latitude":34.199769,
     "geom:longitude":-79.790416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1419 W Darlington St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169725317,
-    "wof:lastmodified":1449033492,
+    "wof:lastmodified":1467082380,
     "wof:name":"Altman's Upholstery & Fabrics",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-79.790416,34.199769,-79.790416,34.199769],
-  "geometry": {"coordinates":[-79.790416,34.199769],"type":"Point"}
+  "bbox": [
+    -79.790416,
+    34.199769,
+    -79.790416,
+    34.199769
+],
+  "geometry": {"coordinates":[-79.79041599999999,34.199769],"type":"Point"}
 }

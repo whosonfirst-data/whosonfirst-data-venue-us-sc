@@ -2,13 +2,14 @@
   "id": 186032539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.065493,34.764925,-83.065493,34.764925",
     "geom:latitude":34.764925,
     "geom:longitude":-83.065493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 E Main St",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186032539,
-    "wof:lastmodified":1449051691,
+    "wof:lastmodified":1467082400,
     "wof:name":"Moores Mens Store",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shoes"
     ]
 },
-  "bbox": [-83.065493,34.764925,-83.065493,34.764925],
+  "bbox": [
+    -83.065493,
+    34.764925,
+    -83.065493,
+    34.764925
+],
   "geometry": {"coordinates":[-83.065493,34.764925],"type":"Point"}
 }

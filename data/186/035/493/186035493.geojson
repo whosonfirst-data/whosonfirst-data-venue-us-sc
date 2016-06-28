@@ -2,13 +2,14 @@
   "id": 186035493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.719148,32.43994,-80.719148,32.43994",
     "geom:latitude":32.43994,
     "geom:longitude":-80.719148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Ice House Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186035493,
-    "wof:lastmodified":1449052496,
+    "wof:lastmodified":1467082408,
     "wof:name":"Chappell's Better Built Bldgs",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-80.719148,32.43994,-80.719148,32.43994],
+  "bbox": [
+    -80.719148,
+    32.43994,
+    -80.719148,
+    32.43994
+],
   "geometry": {"coordinates":[-80.719148,32.43994],"type":"Point"}
 }

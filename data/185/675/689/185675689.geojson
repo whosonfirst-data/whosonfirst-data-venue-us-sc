@@ -2,13 +2,14 @@
   "id": 185675689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.03705,34.739363,-82.03705,34.739363",
     "geom:latitude":34.739363,
     "geom:longitude":-82.03705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 S Main St",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185675689,
-    "wof:lastmodified":1449007455,
+    "wof:lastmodified":1467082195,
     "wof:name":"Pickity Picks",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.03705,34.739363,-82.03705,34.739363],
-  "geometry": {"coordinates":[-82.03705,34.739363],"type":"Point"}
+  "bbox": [
+    -82.03705,
+    34.739363,
+    -82.03705,
+    34.739363
+],
+  "geometry": {"coordinates":[-82.03704999999999,34.739363],"type":"Point"}
 }

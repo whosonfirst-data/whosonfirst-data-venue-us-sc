@@ -2,13 +2,14 @@
   "id": 337596719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.873055,35.002207,-81.873055,35.002207",
     "geom:latitude":35.002207,
     "geom:longitude":-81.873055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Dietz Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337596719,
-    "wof:lastmodified":1449027368,
+    "wof:lastmodified":1467082281,
     "wof:name":"Stacys Heating & AC",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.873055,35.002207,-81.873055,35.002207],
-  "geometry": {"coordinates":[-81.873055,35.002207],"type":"Point"}
+  "bbox": [
+    -81.873055,
+    35.002207,
+    -81.873055,
+    35.002207
+],
+  "geometry": {"coordinates":[-81.87305499999999,35.002207],"type":"Point"}
 }

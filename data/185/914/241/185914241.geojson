@@ -2,13 +2,14 @@
   "id": 185914241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.905813,34.703465,-79.905813,34.703465",
     "geom:latitude":34.703465,
     "geom:longitude":-79.905813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"635 State Rd",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185914241,
-    "wof:lastmodified":1449007225,
+    "wof:lastmodified":1467082192,
     "wof:name":"Wallace Mechanical Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [-79.905813,34.703465,-79.905813,34.703465],
-  "geometry": {"coordinates":[-79.905813,34.703465],"type":"Point"}
+  "bbox": [
+    -79.905813,
+    34.703465,
+    -79.905813,
+    34.703465
+],
+  "geometry": {"coordinates":[-79.90581299999999,34.703465],"type":"Point"}
 }

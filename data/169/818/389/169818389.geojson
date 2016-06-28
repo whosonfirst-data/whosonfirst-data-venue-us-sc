@@ -2,13 +2,14 @@
   "id": 169818389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.938083,32.788588,-79.938083,32.788588",
     "geom:latitude":32.788588,
     "geom:longitude":-79.938083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 King St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169818389,
-    "wof:lastmodified":1449034287,
+    "wof:lastmodified":1467082383,
     "wof:name":"Ceramics Cafe",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"
     ]
 },
-  "bbox": [-79.938083,32.788588,-79.938083,32.788588],
-  "geometry": {"coordinates":[-79.938083,32.788588],"type":"Point"}
+  "bbox": [
+    -79.938083,
+    32.788588,
+    -79.938083,
+    32.788588
+],
+  "geometry": {"coordinates":[-79.93808300000001,32.788588],"type":"Point"}
 }

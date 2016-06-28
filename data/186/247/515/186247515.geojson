@@ -2,13 +2,14 @@
   "id": 186247515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.712042,34.628426,-79.712042,34.628426",
     "geom:latitude":34.628426,
     "geom:longitude":-79.712042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1231 Airport Rd",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186247515,
-    "wof:lastmodified":1449051941,
+    "wof:lastmodified":1467082402,
     "wof:name":"Marlboro County Jetport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-79.712042,34.628426,-79.712042,34.628426],
+  "bbox": [
+    -79.712042,
+    34.628426,
+    -79.712042,
+    34.628426
+],
   "geometry": {"coordinates":[-79.712042,34.628426],"type":"Point"}
 }

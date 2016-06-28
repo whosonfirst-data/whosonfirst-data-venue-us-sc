@@ -2,13 +2,14 @@
   "id": 370967647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.285279,33.382574,-80.285279,33.382574",
     "geom:latitude":33.382574,
     "geom:longitude":-80.285279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"394 Rodeo Dr",
     "sg:city":"Eutawville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370967647,
-    "wof:lastmodified":1449032215,
+    "wof:lastmodified":1467082367,
     "wof:name":"Stevenson Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.285279,33.382574,-80.285279,33.382574],
+  "bbox": [
+    -80.285279,
+    33.382574,
+    -80.285279,
+    33.382574
+],
   "geometry": {"coordinates":[-80.285279,33.382574],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370216517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.40094,35.049137,-82.40094,35.049137",
     "geom:latitude":35.049137,
     "geom:longitude":-82.40094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 S Songbird Ln",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370216517,
-    "wof:lastmodified":1449032091,
+    "wof:lastmodified":1467082365,
     "wof:name":"Alleycats Mobile Dance Party",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-82.40094,35.049137,-82.40094,35.049137],
-  "geometry": {"coordinates":[-82.40094,35.049137],"type":"Point"}
+  "bbox": [
+    -82.40094,
+    35.049137,
+    -82.40094,
+    35.049137
+],
+  "geometry": {"coordinates":[-82.40094000000001,35.049137],"type":"Point"}
 }

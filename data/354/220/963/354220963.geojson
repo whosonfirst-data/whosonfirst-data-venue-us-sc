@@ -2,13 +2,14 @@
   "id": 354220963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.399347,34.16917,-79.399347,34.16917",
     "geom:latitude":34.16917,
     "geom:longitude":-79.399347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 S Main St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354220963,
-    "wof:lastmodified":1449067610,
+    "wof:lastmodified":1467082453,
     "wof:name":"Distinguished Gentlemen #2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.399347,34.16917,-79.399347,34.16917],
-  "geometry": {"coordinates":[-79.399347,34.16917],"type":"Point"}
+  "bbox": [
+    -79.399347,
+    34.16917,
+    -79.399347,
+    34.16917
+],
+  "geometry": {"coordinates":[-79.39934700000001,34.16917],"type":"Point"}
 }

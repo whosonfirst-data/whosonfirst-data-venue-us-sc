@@ -2,13 +2,14 @@
   "id": 353958297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.331725,34.479541,-79.331725,34.479541",
     "geom:latitude":34.479541,
     "geom:longitude":-79.331725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2948 Faithful Rd",
     "sg:city":"Hamer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353958297,
-    "wof:lastmodified":1449020262,
+    "wof:lastmodified":1467082251,
     "wof:name":"Charles Craft Inc",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "yarn"
     ]
 },
-  "bbox": [-79.331725,34.479541,-79.331725,34.479541],
-  "geometry": {"coordinates":[-79.331725,34.479541],"type":"Point"}
+  "bbox": [
+    -79.331725,
+    34.479541,
+    -79.331725,
+    34.479541
+],
+  "geometry": {"coordinates":[-79.33172500000001,34.479541],"type":"Point"}
 }

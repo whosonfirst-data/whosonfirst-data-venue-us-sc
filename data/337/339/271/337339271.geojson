@@ -2,13 +2,14 @@
   "id": 337339271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.024246,33.566437,-79.024246,33.566437",
     "geom:latitude":33.566437,
     "geom:longitude":-79.024246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Sunnyside Ave",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337339271,
-    "wof:lastmodified":1449027303,
+    "wof:lastmodified":1467082279,
     "wof:name":"Water Services",
     "wof:parent_id":85813133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.024246,33.566437,-79.024246,33.566437],
-  "geometry": {"coordinates":[-79.024246,33.566437],"type":"Point"}
+  "bbox": [
+    -79.024246,
+    33.566437,
+    -79.024246,
+    33.566437
+],
+  "geometry": {"coordinates":[-79.02424600000001,33.566437],"type":"Point"}
 }

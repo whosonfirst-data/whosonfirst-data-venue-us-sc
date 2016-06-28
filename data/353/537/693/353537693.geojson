@@ -2,13 +2,14 @@
   "id": 353537693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.857334,33.480819,-80.857334,33.480819",
     "geom:latitude":33.480819,
     "geom:longitude":-80.857334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"473 Broughton St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353537693,
-    "wof:lastmodified":1449018886,
+    "wof:lastmodified":1467082222,
     "wof:name":"Gospel Temple Of Deliverence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.857334,33.480819,-80.857334,33.480819],
-  "geometry": {"coordinates":[-80.857334,33.480819],"type":"Point"}
+  "bbox": [
+    -80.857334,
+    33.480819,
+    -80.857334,
+    33.480819
+],
+  "geometry": {"coordinates":[-80.85733399999999,33.480819],"type":"Point"}
 }

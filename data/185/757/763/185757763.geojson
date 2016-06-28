@@ -2,13 +2,14 @@
   "id": 185757763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.111713,34.605801,-82.111713,34.605801",
     "geom:latitude":34.605801,
     "geom:longitude":-82.111713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3932 State Hwy 92",
     "sg:city":"Gray Court",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185757763,
-    "wof:lastmodified":1449007514,
+    "wof:lastmodified":1467082196,
     "wof:name":"Audrey's House Of Beauty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.111713,34.605801,-82.111713,34.605801],
-  "geometry": {"coordinates":[-82.111713,34.605801],"type":"Point"}
+  "bbox": [
+    -82.111713,
+    34.605801,
+    -82.111713,
+    34.605801
+],
+  "geometry": {"coordinates":[-82.11171299999999,34.605801],"type":"Point"}
 }

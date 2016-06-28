@@ -2,13 +2,14 @@
   "id": 353436297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.341504,34.872578,-82.341504,34.872578",
     "geom:latitude":34.872578,
     "geom:longitude":-82.341504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Hermitage Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353436297,
-    "wof:lastmodified":1449020565,
+    "wof:lastmodified":1467082257,
     "wof:name":"Swiger Associates",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-82.341504,34.872578,-82.341504,34.872578],
+  "bbox": [
+    -82.341504,
+    34.872578,
+    -82.341504,
+    34.872578
+],
   "geometry": {"coordinates":[-82.341504,34.872578],"type":"Point"}
 }

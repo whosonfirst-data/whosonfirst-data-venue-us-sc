@@ -2,13 +2,14 @@
   "id": 353853221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.41606,34.861002,-82.41606,34.861002",
     "geom:latitude":34.861002,
     "geom:longitude":-82.41606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 W Washington St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353853221,
-    "wof:lastmodified":1449019286,
+    "wof:lastmodified":1467082231,
     "wof:name":"Greenville Sanitation",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-82.41606,34.861002,-82.41606,34.861002],
+  "bbox": [
+    -82.41606,
+    34.861002,
+    -82.41606,
+    34.861002
+],
   "geometry": {"coordinates":[-82.41606,34.861002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370312671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.028989,33.810874,-79.028989,33.810874",
     "geom:latitude":33.810874,
     "geom:longitude":-79.028989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1091 US Hwy 501 E",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370312671,
-    "wof:lastmodified":1449030790,
+    "wof:lastmodified":1467082336,
     "wof:name":"South Atlantic Monument Co",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-79.028989,33.810874,-79.028989,33.810874],
+  "bbox": [
+    -79.028989,
+    33.810874,
+    -79.028989,
+    33.810874
+],
   "geometry": {"coordinates":[-79.028989,33.810874],"type":"Point"}
 }

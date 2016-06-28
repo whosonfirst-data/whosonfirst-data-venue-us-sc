@@ -2,13 +2,14 @@
   "id": 370217355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.01959,35.05108,-81.01959,35.05108",
     "geom:latitude":35.05108,
     "geom:longitude":-81.01959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12037 Spinnaker Dr",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370217355,
-    "wof:lastmodified":1449032263,
+    "wof:lastmodified":1467082369,
     "wof:name":"Cooley & Associates LLC",
     "wof:parent_id":85810107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.01959,35.05108,-81.01959,35.05108],
-  "geometry": {"coordinates":[-81.01959,35.05108],"type":"Point"}
+  "bbox": [
+    -81.01959,
+    35.05108,
+    -81.01959,
+    35.05108
+],
+  "geometry": {"coordinates":[-81.01958999999999,35.05108],"type":"Point"}
 }

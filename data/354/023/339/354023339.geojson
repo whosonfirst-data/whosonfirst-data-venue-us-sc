@@ -2,13 +2,14 @@
   "id": 354023339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.042139,34.025852,-81.042139,34.025852",
     "geom:latitude":34.025852,
     "geom:longitude":-81.042139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3041 Main St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354023339,
-    "wof:lastmodified":1449067505,
+    "wof:lastmodified":1467082450,
     "wof:name":"Prompt Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sign"
     ]
 },
-  "bbox": [-81.042139,34.025852,-81.042139,34.025852],
-  "geometry": {"coordinates":[-81.042139,34.025852],"type":"Point"}
+  "bbox": [
+    -81.042139,
+    34.025852,
+    -81.042139,
+    34.025852
+],
+  "geometry": {"coordinates":[-81.04213900000001,34.025852],"type":"Point"}
 }

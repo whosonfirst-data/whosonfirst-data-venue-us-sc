@@ -2,13 +2,14 @@
   "id": 354283683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.080459,32.858461,-80.080459,32.858461",
     "geom:latitude":32.858461,
     "geom:longitude":-80.080459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3104 Waterville Pl",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354283683,
-    "wof:lastmodified":1449066410,
+    "wof:lastmodified":1467082425,
     "wof:name":"Bridge International Trade",
     "wof:parent_id":85812627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.080459,32.858461,-80.080459,32.858461],
+  "bbox": [
+    -80.080459,
+    32.858461,
+    -80.080459,
+    32.858461
+],
   "geometry": {"coordinates":[-80.080459,32.858461],"type":"Point"}
 }

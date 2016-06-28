@@ -2,13 +2,14 @@
   "id": 370706467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.859829,35.166965,-81.859829,35.166965",
     "geom:latitude":35.166965,
     "geom:longitude":-81.859829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 McDonald Farms Dr",
     "sg:city":"Chesnee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370706467,
-    "wof:lastmodified":1449029325,
+    "wof:lastmodified":1467082303,
     "wof:name":"Thompsons Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.859829,35.166965,-81.859829,35.166965],
+  "bbox": [
+    -81.859829,
+    35.166965,
+    -81.859829,
+    35.166965
+],
   "geometry": {"coordinates":[-81.859829,35.166965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370883759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.719197,33.547316,-81.719197,33.547316",
     "geom:latitude":33.547316,
     "geom:longitude":-81.719197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"544 Magnolia St SE",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":370883759,
-    "wof:lastmodified":1449031687,
+    "wof:lastmodified":1467082356,
     "wof:name":"Briar Patch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "bed"
     ]
 },
-  "bbox": [-81.719197,33.547316,-81.719197,33.547316],
-  "geometry": {"coordinates":[-81.719197,33.547316],"type":"Point"}
+  "bbox": [
+    -81.719197,
+    33.547316,
+    -81.719197,
+    33.547316
+],
+  "geometry": {"coordinates":[-81.71919699999999,33.547316],"type":"Point"}
 }

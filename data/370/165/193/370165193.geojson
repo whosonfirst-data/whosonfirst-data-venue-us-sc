@@ -2,13 +2,14 @@
   "id": 370165193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.305503,35.048592,-82.305503,35.048592",
     "geom:latitude":35.048592,
     "geom:longitude":-82.305503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 State Hwy 101",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370165193,
-    "wof:lastmodified":1449032475,
+    "wof:lastmodified":1467082374,
     "wof:name":"Pruitts Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-82.305503,35.048592,-82.305503,35.048592],
+  "bbox": [
+    -82.305503,
+    35.048592,
+    -82.305503,
+    35.048592
+],
   "geometry": {"coordinates":[-82.305503,35.048592],"type":"Point"}
 }

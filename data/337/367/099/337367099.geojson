@@ -2,13 +2,14 @@
   "id": 337367099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.8611,32.234891,-80.8611,32.234891",
     "geom:latitude":32.234891,
     "geom:longitude":-80.8611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Boundary St",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337367099,
-    "wof:lastmodified":1449027430,
+    "wof:lastmodified":1467082283,
     "wof:name":"Society Of Bluffton Artists",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.8611,32.234891,-80.8611,32.234891],
-  "geometry": {"coordinates":[-80.8611,32.234891],"type":"Point"}
+  "bbox": [
+    -80.8611,
+    32.234891,
+    -80.8611,
+    32.234891
+],
+  "geometry": {"coordinates":[-80.86109999999999,32.234891],"type":"Point"}
 }

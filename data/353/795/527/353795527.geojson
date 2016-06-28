@@ -2,13 +2,14 @@
   "id": 353795527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.337074,33.944925,-80.337074,33.944925",
     "geom:latitude":33.944925,
     "geom:longitude":-80.337074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 S Pike E",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353795527,
-    "wof:lastmodified":1449019776,
+    "wof:lastmodified":1467082241,
     "wof:name":"Farmers Long Distance",
     "wof:parent_id":85855087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-80.337074,33.944925,-80.337074,33.944925],
+  "bbox": [
+    -80.337074,
+    33.944925,
+    -80.337074,
+    33.944925
+],
   "geometry": {"coordinates":[-80.337074,33.944925],"type":"Point"}
 }

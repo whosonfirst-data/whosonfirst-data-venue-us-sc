@@ -2,13 +2,14 @@
   "id": 337308483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.956811,34.065152,-80.956811,34.065152",
     "geom:latitude":34.065152,
     "geom:longitude":-80.956811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 Notch Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337308483,
-    "wof:lastmodified":1449027751,
+    "wof:lastmodified":1467082295,
     "wof:name":"Great American Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-80.956811,34.065152,-80.956811,34.065152],
+  "bbox": [
+    -80.956811,
+    34.065152,
+    -80.956811,
+    34.065152
+],
   "geometry": {"coordinates":[-80.956811,34.065152],"type":"Point"}
 }

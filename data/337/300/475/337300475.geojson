@@ -2,13 +2,14 @@
   "id": 337300475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.986627,34.990847,-81.986627,34.990847",
     "geom:latitude":34.990847,
     "geom:longitude":-81.986627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7960 Asheville Hwy",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337300475,
-    "wof:lastmodified":1449027409,
+    "wof:lastmodified":1467082283,
     "wof:name":"Morgan's Used Cars",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.986627,34.990847,-81.986627,34.990847],
+  "bbox": [
+    -81.986627,
+    34.990847,
+    -81.986627,
+    34.990847
+],
   "geometry": {"coordinates":[-81.986627,34.990847],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353916395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.776306,32.46392,-80.776306,32.46392",
     "geom:latitude":32.46392,
     "geom:longitude":-80.776306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4340 Quail Dr",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353916395,
-    "wof:lastmodified":1449019662,
+    "wof:lastmodified":1467082238,
     "wof:name":"Rivers Towing & Recovery",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.776306,32.46392,-80.776306,32.46392],
-  "geometry": {"coordinates":[-80.776306,32.46392],"type":"Point"}
+  "bbox": [
+    -80.776306,
+    32.46392,
+    -80.776306,
+    32.46392
+],
+  "geometry": {"coordinates":[-80.77630600000001,32.46392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370769943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.291573,33.370037,-79.291573,33.370037",
     "geom:latitude":33.370037,
     "geom:longitude":-79.291573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Winyah St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370769943,
-    "wof:lastmodified":1449030219,
+    "wof:lastmodified":1467082323,
     "wof:name":"Turning Heads",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.291573,33.370037,-79.291573,33.370037],
+  "bbox": [
+    -79.291573,
+    33.370037,
+    -79.291573,
+    33.370037
+],
   "geometry": {"coordinates":[-79.291573,33.370037],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370884957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.401436,34.180785,-79.401436,34.180785",
     "geom:latitude":34.180785,
     "geom:longitude":-79.401436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Tom Gasque Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370884957,
-    "wof:lastmodified":1449031829,
+    "wof:lastmodified":1467082359,
     "wof:name":"Swamp Fox Timber Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "timber"
     ]
 },
-  "bbox": [-79.401436,34.180785,-79.401436,34.180785],
+  "bbox": [
+    -79.401436,
+    34.180785,
+    -79.401436,
+    34.180785
+],
   "geometry": {"coordinates":[-79.401436,34.180785],"type":"Point"}
 }

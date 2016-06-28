@@ -2,13 +2,14 @@
   "id": 337475595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.295229,33.980571,-81.295229,33.980571",
     "geom:latitude":33.980571,
     "geom:longitude":-81.295229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 Augusta Hwy",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337475595,
-    "wof:lastmodified":1449027275,
+    "wof:lastmodified":1467082278,
     "wof:name":"Robert D Hendrix Construction",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.295229,33.980571,-81.295229,33.980571],
-  "geometry": {"coordinates":[-81.295229,33.980571],"type":"Point"}
+  "bbox": [
+    -81.295229,
+    33.980571,
+    -81.295229,
+    33.980571
+],
+  "geometry": {"coordinates":[-81.29522900000001,33.980571],"type":"Point"}
 }

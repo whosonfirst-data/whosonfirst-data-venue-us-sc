@@ -2,13 +2,14 @@
   "id": 370478969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.328875,34.872785,-82.328875,34.872785",
     "geom:latitude":34.872785,
     "geom:longitude":-82.328875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3706 E North St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370478969,
-    "wof:lastmodified":1449029178,
+    "wof:lastmodified":1467082300,
     "wof:name":"Confidential Investigative Svc",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-82.328875,34.872785,-82.328875,34.872785],
+  "bbox": [
+    -82.328875,
+    34.872785,
+    -82.328875,
+    34.872785
+],
   "geometry": {"coordinates":[-82.328875,34.872785],"type":"Point"}
 }

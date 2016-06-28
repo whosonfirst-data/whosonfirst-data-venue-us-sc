@@ -2,13 +2,14 @@
   "id": 337422801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.212281,34.69948,-81.212281,34.69948",
     "geom:latitude":34.69948,
     "geom:longitude":-81.212281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Ashford St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337422801,
-    "wof:lastmodified":1449026994,
+    "wof:lastmodified":1467082267,
     "wof:name":"Brooklyn AME Zion",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.212281,34.69948,-81.212281,34.69948],
+  "bbox": [
+    -81.212281,
+    34.69948,
+    -81.212281,
+    34.69948
+],
   "geometry": {"coordinates":[-81.212281,34.69948],"type":"Point"}
 }

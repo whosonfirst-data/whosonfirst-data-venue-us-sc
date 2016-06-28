@@ -2,13 +2,14 @@
   "id": 186113335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.838551,33.741843,-78.838551,33.741843",
     "geom:latitude":33.741843,
     "geom:longitude":-78.838551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 62nd Ave N",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186113335,
-    "wof:lastmodified":1449052803,
+    "wof:lastmodified":1467082411,
     "wof:name":"Northside Worship Ctr",
     "wof:parent_id":85829199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.838551,33.741843,-78.838551,33.741843],
+  "bbox": [
+    -78.838551,
+    33.741843,
+    -78.838551,
+    33.741843
+],
   "geometry": {"coordinates":[-78.838551,33.741843],"type":"Point"}
 }

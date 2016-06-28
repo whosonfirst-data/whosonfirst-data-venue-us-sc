@@ -2,13 +2,14 @@
   "id": 370838167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.945448,33.968336,-80.945448,33.968336",
     "geom:latitude":33.968336,
     "geom:longitude":-80.945448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7450 Garners Ferry Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370838167,
-    "wof:lastmodified":1449029500,
+    "wof:lastmodified":1467082307,
     "wof:name":"Rush's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.945448,33.968336,-80.945448,33.968336],
+  "bbox": [
+    -80.945448,
+    33.968336,
+    -80.945448,
+    33.968336
+],
   "geometry": {"coordinates":[-80.945448,33.968336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370742919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.983527,33.612626,-78.983527,33.612626",
     "geom:latitude":33.612626,
     "geom:longitude":-78.983527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Sandy Ln",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370742919,
-    "wof:lastmodified":1449029305,
+    "wof:lastmodified":1467082303,
     "wof:name":"Builders Wholesale Carpet Inc",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.983527,33.612626,-78.983527,33.612626],
+  "bbox": [
+    -78.983527,
+    33.612626,
+    -78.983527,
+    33.612626
+],
   "geometry": {"coordinates":[-78.983527,33.612626],"type":"Point"}
 }

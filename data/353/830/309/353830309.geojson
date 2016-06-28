@@ -2,13 +2,14 @@
   "id": 353830309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.080177,33.998177,-81.080177,33.998177",
     "geom:latitude":33.998177,
     "geom:longitude":-81.080177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207 Sunset Blvd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":353830309,
-    "wof:lastmodified":1449018803,
+    "wof:lastmodified":1467082221,
     "wof:name":"Queen's Quarters Inc",
     "wof:parent_id":85840603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-81.080177,33.998177,-81.080177,33.998177],
-  "geometry": {"coordinates":[-81.080177,33.998177],"type":"Point"}
+  "bbox": [
+    -81.080177,
+    33.998177,
+    -81.080177,
+    33.998177
+],
+  "geometry": {"coordinates":[-81.08017700000001,33.998177],"type":"Point"}
 }

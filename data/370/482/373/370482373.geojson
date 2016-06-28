@@ -2,13 +2,14 @@
   "id": 370482373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.364027,34.420204,-79.364027,34.420204",
     "geom:latitude":34.420204,
     "geom:longitude":-79.364027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 E Jackson St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370482373,
-    "wof:lastmodified":1449030291,
+    "wof:lastmodified":1467082325,
     "wof:name":"St Eugene Medical Ctr",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-79.364027,34.420204,-79.364027,34.420204],
-  "geometry": {"coordinates":[-79.364027,34.420204],"type":"Point"}
+  "bbox": [
+    -79.364027,
+    34.420204,
+    -79.364027,
+    34.420204
+],
+  "geometry": {"coordinates":[-79.36402699999999,34.420204],"type":"Point"}
 }

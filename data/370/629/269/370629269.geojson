@@ -2,13 +2,14 @@
   "id": 370629269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.006963,35.021526,-82.006963,35.021526",
     "geom:latitude":35.021526,
     "geom:longitude":-82.006963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"449 Belcher Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370629269,
-    "wof:lastmodified":1449031688,
+    "wof:lastmodified":1467082356,
     "wof:name":"Carroll Roofing",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.006963,35.021526,-82.006963,35.021526],
+  "bbox": [
+    -82.006963,
+    35.021526,
+    -82.006963,
+    35.021526
+],
   "geometry": {"coordinates":[-82.006963,35.021526],"type":"Point"}
 }

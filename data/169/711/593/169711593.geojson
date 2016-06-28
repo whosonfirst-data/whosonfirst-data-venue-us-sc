@@ -2,13 +2,14 @@
   "id": 169711593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.931948,35.089281,-80.931948,35.089281",
     "geom:latitude":35.089281,
     "geom:longitude":-80.931948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Springhill Farm Rd",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169711593,
-    "wof:lastmodified":1449035353,
+    "wof:lastmodified":1467082386,
     "wof:name":"Horizon Meat & Seafood Distrs",
     "wof:parent_id":85843859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "packaged"
     ]
 },
-  "bbox": [-80.931948,35.089281,-80.931948,35.089281],
-  "geometry": {"coordinates":[-80.931948,35.089281],"type":"Point"}
+  "bbox": [
+    -80.931948,
+    35.089281,
+    -80.931948,
+    35.089281
+],
+  "geometry": {"coordinates":[-80.93194800000001,35.089281],"type":"Point"}
 }

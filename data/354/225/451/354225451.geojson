@@ -2,13 +2,14 @@
   "id": 354225451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.928709,32.776603,-79.928709,32.776603",
     "geom:latitude":32.776603,
     "geom:longitude":-79.928709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Broad St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354225451,
-    "wof:lastmodified":1449066437,
+    "wof:lastmodified":1467082426,
     "wof:name":"Rivendell Woodworks & Gallery",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.928709,32.776603,-79.928709,32.776603],
+  "bbox": [
+    -79.928709,
+    32.776603,
+    -79.928709,
+    32.776603
+],
   "geometry": {"coordinates":[-79.928709,32.776603],"type":"Point"}
 }

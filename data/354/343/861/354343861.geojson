@@ -2,13 +2,14 @@
   "id": 354343861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.862319,33.71055,-78.862319,33.71055",
     "geom:latitude":33.71055,
     "geom:longitude":-78.862319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 N Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354343861,
-    "wof:lastmodified":1449067170,
+    "wof:lastmodified":1467082443,
     "wof:name":"Netmark International Corp",
     "wof:parent_id":85816109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-78.862319,33.71055,-78.862319,33.71055],
+  "bbox": [
+    -78.862319,
+    33.71055,
+    -78.862319,
+    33.71055
+],
   "geometry": {"coordinates":[-78.862319,33.71055],"type":"Point"}
 }

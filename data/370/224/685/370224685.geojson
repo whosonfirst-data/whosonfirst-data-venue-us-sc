@@ -2,13 +2,14 @@
   "id": 370224685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.017967,32.856923,-80.017967,32.856923",
     "geom:latitude":32.856923,
     "geom:longitude":-80.017967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3540 Oscar Johnson Dr",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370224685,
-    "wof:lastmodified":1449031570,
+    "wof:lastmodified":1467082353,
     "wof:name":"Apria Healthcare",
     "wof:parent_id":85807225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oxygen"
     ]
 },
-  "bbox": [-80.017967,32.856923,-80.017967,32.856923],
+  "bbox": [
+    -80.017967,
+    32.856923,
+    -80.017967,
+    32.856923
+],
   "geometry": {"coordinates":[-80.017967,32.856923],"type":"Point"}
 }

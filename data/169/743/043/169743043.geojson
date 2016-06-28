@@ -2,13 +2,14 @@
   "id": 169743043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.017634,34.797482,-82.017634,34.797482",
     "geom:latitude":34.797482,
     "geom:longitude":-82.017634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8272 US Hwy 221",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169743043,
-    "wof:lastmodified":1449035948,
+    "wof:lastmodified":1467082387,
     "wof:name":"Animal Clinic Of Woodruff",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-82.017634,34.797482,-82.017634,34.797482],
+  "bbox": [
+    -82.017634,
+    34.797482,
+    -82.017634,
+    34.797482
+],
   "geometry": {"coordinates":[-82.017634,34.797482],"type":"Point"}
 }

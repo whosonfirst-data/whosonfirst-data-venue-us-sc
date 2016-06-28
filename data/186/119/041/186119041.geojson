@@ -2,13 +2,14 @@
   "id": 186119041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.115836,33.880977,-81.115836,33.880977",
     "geom:latitude":33.880977,
     "geom:longitude":-81.115836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3249 Fish Hatchery Rd",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186119041,
-    "wof:lastmodified":1449052276,
+    "wof:lastmodified":1467082406,
     "wof:name":"Fish Hatchery Church Of God",
     "wof:parent_id":85847855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.115836,33.880977,-81.115836,33.880977],
+  "bbox": [
+    -81.115836,
+    33.880977,
+    -81.115836,
+    33.880977
+],
   "geometry": {"coordinates":[-81.115836,33.880977],"type":"Point"}
 }

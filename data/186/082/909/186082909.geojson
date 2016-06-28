@@ -2,13 +2,14 @@
   "id": 186082909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.993372,32.816588,-79.993372,32.816588",
     "geom:latitude":32.816588,
     "geom:longitude":-79.993372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 Old Towne Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186082909,
-    "wof:lastmodified":1449050339,
+    "wof:lastmodified":1467082389,
     "wof:name":"Frame Up Inc",
     "wof:parent_id":85838205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-79.993372,32.816588,-79.993372,32.816588],
-  "geometry": {"coordinates":[-79.993372,32.816588],"type":"Point"}
+  "bbox": [
+    -79.993372,
+    32.816588,
+    -79.993372,
+    32.816588
+],
+  "geometry": {"coordinates":[-79.99337199999999,32.816588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370556507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.623442,34.277904,-81.623442,34.277904",
     "geom:latitude":34.277904,
     "geom:longitude":-81.623442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 Nance St",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370556507,
-    "wof:lastmodified":1449029934,
+    "wof:lastmodified":1467082317,
     "wof:name":"Newberry Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.623442,34.277904,-81.623442,34.277904],
+  "bbox": [
+    -81.623442,
+    34.277904,
+    -81.623442,
+    34.277904
+],
   "geometry": {"coordinates":[-81.623442,34.277904],"type":"Point"}
 }

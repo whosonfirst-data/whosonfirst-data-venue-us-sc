@@ -2,13 +2,14 @@
   "id": 370350703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.244556,34.807069,-82.244556,34.807069",
     "geom:latitude":34.807069,
     "geom:longitude":-82.244556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Millstone Way",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370350703,
-    "wof:lastmodified":1449030808,
+    "wof:lastmodified":1467082336,
     "wof:name":"Azaleas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.244556,34.807069,-82.244556,34.807069],
+  "bbox": [
+    -82.244556,
+    34.807069,
+    -82.244556,
+    34.807069
+],
   "geometry": {"coordinates":[-82.244556,34.807069],"type":"Point"}
 }

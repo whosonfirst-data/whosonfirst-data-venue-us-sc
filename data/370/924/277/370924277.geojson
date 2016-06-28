@@ -2,13 +2,14 @@
   "id": 370924277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.05486,35.033924,-82.05486,35.033924",
     "geom:latitude":35.033924,
     "geom:longitude":-82.05486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Carol Ln",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370924277,
-    "wof:lastmodified":1449030041,
+    "wof:lastmodified":1467082319,
     "wof:name":"Collins Moving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "real estate"
     ]
 },
-  "bbox": [-82.05486,35.033924,-82.05486,35.033924],
-  "geometry": {"coordinates":[-82.05486,35.033924],"type":"Point"}
+  "bbox": [
+    -82.05486,
+    35.033924,
+    -82.05486,
+    35.033924
+],
+  "geometry": {"coordinates":[-82.05486000000001,35.033924],"type":"Point"}
 }

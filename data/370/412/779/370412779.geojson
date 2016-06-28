@@ -2,13 +2,14 @@
   "id": 370412779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.053479,34.970367,-81.053479,34.970367",
     "geom:latitude":34.970367,
     "geom:longitude":-81.053479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2346 Ebenezer Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370412779,
-    "wof:lastmodified":1449029781,
+    "wof:lastmodified":1467082313,
     "wof:name":"Tewksbury Wood Products Inc",
     "wof:parent_id":85806757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-81.053479,34.970367,-81.053479,34.970367],
+  "bbox": [
+    -81.053479,
+    34.970367,
+    -81.053479,
+    34.970367
+],
   "geometry": {"coordinates":[-81.053479,34.970367],"type":"Point"}
 }

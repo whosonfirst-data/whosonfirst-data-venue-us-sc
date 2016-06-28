@@ -2,13 +2,14 @@
   "id": 185948713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.901564,33.673157,-78.901564,33.673157",
     "geom:latitude":33.673157,
     "geom:longitude":-78.901564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 S Ocean Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185948713,
-    "wof:lastmodified":1449007895,
+    "wof:lastmodified":1467082202,
     "wof:name":"Oceanbreeze Cafe & Delivery",
     "wof:parent_id":85826641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-78.901564,33.673157,-78.901564,33.673157],
-  "geometry": {"coordinates":[-78.901564,33.673157],"type":"Point"}
+  "bbox": [
+    -78.901564,
+    33.673157,
+    -78.901564,
+    33.673157
+],
+  "geometry": {"coordinates":[-78.90156399999999,33.673157],"type":"Point"}
 }

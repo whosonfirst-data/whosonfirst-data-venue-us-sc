@@ -2,13 +2,14 @@
   "id": 370260517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.027504,34.055767,-81.027504,34.055767",
     "geom:latitude":34.055767,
     "geom:longitude":-81.027504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5313 Fairfield Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370260517,
-    "wof:lastmodified":1449029652,
+    "wof:lastmodified":1467082310,
     "wof:name":"Willow Lake Apartments",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.027504,34.055767,-81.027504,34.055767],
-  "geometry": {"coordinates":[-81.027504,34.055767],"type":"Point"}
+  "bbox": [
+    -81.027504,
+    34.055767,
+    -81.027504,
+    34.055767
+],
+  "geometry": {"coordinates":[-81.02750399999999,34.055767],"type":"Point"}
 }

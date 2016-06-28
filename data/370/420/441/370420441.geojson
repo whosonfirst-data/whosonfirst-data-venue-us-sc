@@ -2,13 +2,14 @@
   "id": 370420441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.006684,34.509144,-82.006684,34.509144",
     "geom:latitude":34.509144,
     "geom:longitude":-82.006684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 N Harper St",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370420441,
-    "wof:lastmodified":1449030712,
+    "wof:lastmodified":1467082334,
     "wof:name":"Adams Outdoor Advertising",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.006684,34.509144,-82.006684,34.509144],
-  "geometry": {"coordinates":[-82.006684,34.509144],"type":"Point"}
+  "bbox": [
+    -82.006684,
+    34.509144,
+    -82.006684,
+    34.509144
+],
+  "geometry": {"coordinates":[-82.00668400000001,34.509144],"type":"Point"}
 }

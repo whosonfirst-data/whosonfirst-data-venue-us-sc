@@ -2,13 +2,14 @@
   "id": 185780485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.39803,34.761605,-82.39803,34.761605",
     "geom:latitude":34.761605,
     "geom:longitude":-82.39803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91 S Fairfield Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185780485,
-    "wof:lastmodified":1449007808,
+    "wof:lastmodified":1467082201,
     "wof:name":"Maritec-Metpro",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-82.39803,34.761605,-82.39803,34.761605],
-  "geometry": {"coordinates":[-82.39803,34.761605],"type":"Point"}
+  "bbox": [
+    -82.39803,
+    34.761605,
+    -82.39803,
+    34.761605
+],
+  "geometry": {"coordinates":[-82.39803000000001,34.761605],"type":"Point"}
 }

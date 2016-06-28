@@ -2,13 +2,14 @@
   "id": 370421795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.943295,32.78842,-79.943295,32.78842",
     "geom:latitude":32.78842,
     "geom:longitude":-79.943295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Jasper St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":370421795,
-    "wof:lastmodified":1449031223,
+    "wof:lastmodified":1467082345,
     "wof:name":"Charles' Grocery",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.943295,32.78842,-79.943295,32.78842],
-  "geometry": {"coordinates":[-79.943295,32.78842],"type":"Point"}
+  "bbox": [
+    -79.943295,
+    32.78842,
+    -79.943295,
+    32.78842
+],
+  "geometry": {"coordinates":[-79.94329500000001,32.78842],"type":"Point"}
 }

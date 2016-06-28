@@ -2,13 +2,14 @@
   "id": 337288793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.455977,34.46802,-81.455977,34.46802",
     "geom:latitude":34.46802,
     "geom:longitude":-81.455977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6198 Dogwalla Rd",
     "sg:city":"Whitmire",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337288793,
-    "wof:lastmodified":1449027024,
+    "wof:lastmodified":1467082268,
     "wof:name":"Trinity Whitmire Zion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.455977,34.46802,-81.455977,34.46802],
+  "bbox": [
+    -81.455977,
+    34.46802,
+    -81.455977,
+    34.46802
+],
   "geometry": {"coordinates":[-81.455977,34.46802],"type":"Point"}
 }

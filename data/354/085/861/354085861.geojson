@@ -2,13 +2,14 @@
   "id": 354085861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.957131,35.051085,-80.957131,35.051085",
     "geom:latitude":35.051085,
     "geom:longitude":-80.957131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2280 Deerfield Dr",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354085861,
-    "wof:lastmodified":1449066340,
+    "wof:lastmodified":1467082424,
     "wof:name":"Charlotte Knights",
     "wof:parent_id":85843859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "baseball"
     ]
 },
-  "bbox": [-80.957131,35.051085,-80.957131,35.051085],
+  "bbox": [
+    -80.957131,
+    35.051085,
+    -80.957131,
+    35.051085
+],
   "geometry": {"coordinates":[-80.957131,35.051085],"type":"Point"}
 }

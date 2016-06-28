@@ -2,13 +2,14 @@
   "id": 370177619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.964042,32.709809,-79.964042,32.709809",
     "geom:latitude":32.709809,
     "geom:longitude":-79.964042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 Folly Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370177619,
-    "wof:lastmodified":1449032466,
+    "wof:lastmodified":1467082373,
     "wof:name":"Ohlandt Veterinary Clinic",
     "wof:parent_id":85847603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.964042,32.709809,-79.964042,32.709809],
-  "geometry": {"coordinates":[-79.964042,32.709809],"type":"Point"}
+  "bbox": [
+    -79.964042,
+    32.709809,
+    -79.964042,
+    32.709809
+],
+  "geometry": {"coordinates":[-79.96404200000001,32.709809],"type":"Point"}
 }

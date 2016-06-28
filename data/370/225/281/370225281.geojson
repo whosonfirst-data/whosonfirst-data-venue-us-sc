@@ -2,13 +2,14 @@
   "id": 370225281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.093404,33.998915,-81.093404,33.998915",
     "geom:latitude":33.998915,
     "geom:longitude":-81.093404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1911 Sunset Blvd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370225281,
-    "wof:lastmodified":1449030149,
+    "wof:lastmodified":1467082322,
     "wof:name":"Direct Dial Communications",
     "wof:parent_id":85857097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "signaling"
     ]
 },
-  "bbox": [-81.093404,33.998915,-81.093404,33.998915],
-  "geometry": {"coordinates":[-81.093404,33.998915],"type":"Point"}
+  "bbox": [
+    -81.093404,
+    33.998915,
+    -81.093404,
+    33.998915
+],
+  "geometry": {"coordinates":[-81.09340400000001,33.998915],"type":"Point"}
 }

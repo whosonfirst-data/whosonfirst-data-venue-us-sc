@@ -2,13 +2,14 @@
   "id": 370544015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.023037,34.937669,-81.023037,34.937669",
     "geom:latitude":34.937669,
     "geom:longitude":-81.023037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Orchard Ln",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370544015,
-    "wof:lastmodified":1449032462,
+    "wof:lastmodified":1467082373,
     "wof:name":"Visual Concepts",
     "wof:parent_id":85833915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-81.023037,34.937669,-81.023037,34.937669],
+  "bbox": [
+    -81.023037,
+    34.937669,
+    -81.023037,
+    34.937669
+],
   "geometry": {"coordinates":[-81.023037,34.937669],"type":"Point"}
 }

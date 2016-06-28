@@ -2,13 +2,14 @@
   "id": 370850097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.591063,34.709782,-81.591063,34.709782",
     "geom:latitude":34.709782,
     "geom:longitude":-81.591063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Short St",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370850097,
-    "wof:lastmodified":1449031035,
+    "wof:lastmodified":1467082341,
     "wof:name":"Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-81.591063,34.709782,-81.591063,34.709782],
-  "geometry": {"coordinates":[-81.591063,34.709782],"type":"Point"}
+  "bbox": [
+    -81.591063,
+    34.709782,
+    -81.591063,
+    34.709782
+],
+  "geometry": {"coordinates":[-81.59106300000001,34.709782],"type":"Point"}
 }

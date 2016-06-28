@@ -2,13 +2,14 @@
   "id": 169806371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.371327,33.93749,-80.371327,33.93749",
     "geom:latitude":33.93749,
     "geom:longitude":-80.371327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Bultman Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169806371,
-    "wof:lastmodified":1449032677,
+    "wof:lastmodified":1467082376,
     "wof:name":"James D Dailey Jr DDS",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.371327,33.93749,-80.371327,33.93749],
-  "geometry": {"coordinates":[-80.371327,33.93749],"type":"Point"}
+  "bbox": [
+    -80.371327,
+    33.93749,
+    -80.371327,
+    33.93749
+],
+  "geometry": {"coordinates":[-80.37132699999999,33.93749],"type":"Point"}
 }

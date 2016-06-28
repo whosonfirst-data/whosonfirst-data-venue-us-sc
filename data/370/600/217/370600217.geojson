@@ -2,13 +2,14 @@
   "id": 370600217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.529417,32.407202,-80.529417,32.407202",
     "geom:latitude":32.407202,
     "geom:longitude":-80.529417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1452 Sea Island Pkwy",
     "sg:city":"St Helena Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370600217,
-    "wof:lastmodified":1449029400,
+    "wof:lastmodified":1467082305,
     "wof:name":"Bradley Seafood Market",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-80.529417,32.407202,-80.529417,32.407202],
+  "bbox": [
+    -80.529417,
+    32.407202,
+    -80.529417,
+    32.407202
+],
   "geometry": {"coordinates":[-80.529417,32.407202],"type":"Point"}
 }

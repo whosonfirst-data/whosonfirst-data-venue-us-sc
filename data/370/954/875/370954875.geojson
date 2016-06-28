@@ -2,13 +2,14 @@
   "id": 370954875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.938314,33.813465,-78.938314,33.813465",
     "geom:latitude":33.813465,
     "geom:longitude":-78.938314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2887 Barnfield Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370954875,
-    "wof:lastmodified":1449032037,
+    "wof:lastmodified":1467082364,
     "wof:name":"Carroll Logging",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "logging"
     ]
 },
-  "bbox": [-78.938314,33.813465,-78.938314,33.813465],
-  "geometry": {"coordinates":[-78.938314,33.813465],"type":"Point"}
+  "bbox": [
+    -78.938314,
+    33.813465,
+    -78.938314,
+    33.813465
+],
+  "geometry": {"coordinates":[-78.93831400000001,33.813465],"type":"Point"}
 }

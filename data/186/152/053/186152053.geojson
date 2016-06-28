@@ -2,13 +2,14 @@
   "id": 186152053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.084065,33.562162,-79.084065,33.562162",
     "geom:latitude":33.562162,
     "geom:longitude":-79.084065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1886 Wachesaw Rd",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186152053,
-    "wof:lastmodified":1449052385,
+    "wof:lastmodified":1467082407,
     "wof:name":"EDR Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.084065,33.562162,-79.084065,33.562162],
+  "bbox": [
+    -79.084065,
+    33.562162,
+    -79.084065,
+    33.562162
+],
   "geometry": {"coordinates":[-79.084065,33.562162],"type":"Point"}
 }

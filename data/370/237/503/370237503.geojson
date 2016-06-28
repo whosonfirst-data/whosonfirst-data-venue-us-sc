@@ -2,13 +2,14 @@
   "id": 370237503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.288199,33.9084,-82.288199,33.9084",
     "geom:latitude":33.9084,
     "geom:longitude":-82.288199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 S Main St",
     "sg:city":"Mc Cormick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370237503,
-    "wof:lastmodified":1449029152,
+    "wof:lastmodified":1467082300,
     "wof:name":"Sibert's Utility Buildings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.288199,33.9084,-82.288199,33.9084],
-  "geometry": {"coordinates":[-82.288199,33.9084],"type":"Point"}
+  "bbox": [
+    -82.288199,
+    33.9084,
+    -82.288199,
+    33.9084
+],
+  "geometry": {"coordinates":[-82.28819900000001,33.9084],"type":"Point"}
 }

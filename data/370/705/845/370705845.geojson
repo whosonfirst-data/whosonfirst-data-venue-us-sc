@@ -2,13 +2,14 @@
   "id": 370705845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.007119,33.585959,-79.007119,33.585959",
     "geom:latitude":33.585959,
     "geom:longitude":-79.007119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Boundary Dr",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370705845,
-    "wof:lastmodified":1449032492,
+    "wof:lastmodified":1467082374,
     "wof:name":"Roomsavers",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.007119,33.585959,-79.007119,33.585959],
+  "bbox": [
+    -79.007119,
+    33.585959,
+    -79.007119,
+    33.585959
+],
   "geometry": {"coordinates":[-79.007119,33.585959],"type":"Point"}
 }

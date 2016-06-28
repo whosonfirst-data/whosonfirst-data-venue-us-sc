@@ -2,13 +2,14 @@
   "id": 354123411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.993195,32.817128,-79.993195,32.817128",
     "geom:latitude":32.817128,
     "geom:longitude":-79.993195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1698 Old Towne Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354123411,
-    "wof:lastmodified":1449066412,
+    "wof:lastmodified":1467082425,
     "wof:name":"Goldleaf Boutique",
     "wof:parent_id":85838205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-79.993195,32.817128,-79.993195,32.817128],
+  "bbox": [
+    -79.993195,
+    32.817128,
+    -79.993195,
+    32.817128
+],
   "geometry": {"coordinates":[-79.993195,32.817128],"type":"Point"}
 }

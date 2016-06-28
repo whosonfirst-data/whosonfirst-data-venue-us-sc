@@ -2,13 +2,14 @@
   "id": 370373261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.265048,33.446035,-79.265048,33.446035",
     "geom:latitude":33.446035,
     "geom:longitude":-79.265048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Beneventum Rd",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370373261,
-    "wof:lastmodified":1449030830,
+    "wof:lastmodified":1467082336,
     "wof:name":"Randy Mc Clary Guest House",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.265048,33.446035,-79.265048,33.446035],
-  "geometry": {"coordinates":[-79.265048,33.446035],"type":"Point"}
+  "bbox": [
+    -79.265048,
+    33.446035,
+    -79.265048,
+    33.446035
+],
+  "geometry": {"coordinates":[-79.26504799999999,33.446035],"type":"Point"}
 }

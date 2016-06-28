@@ -2,13 +2,14 @@
   "id": 370567957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.763332,33.75788,-81.763332,33.75788",
     "geom:latitude":33.75788,
     "geom:longitude":-81.763332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1194 State Hwy 191",
     "sg:city":"Johnston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370567957,
-    "wof:lastmodified":1449032501,
+    "wof:lastmodified":1467082374,
     "wof:name":"Margie's Flea Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "market"
     ]
 },
-  "bbox": [-81.763332,33.75788,-81.763332,33.75788],
-  "geometry": {"coordinates":[-81.763332,33.75788],"type":"Point"}
+  "bbox": [
+    -81.763332,
+    33.75788,
+    -81.763332,
+    33.75788
+],
+  "geometry": {"coordinates":[-81.76333200000001,33.75788],"type":"Point"}
 }

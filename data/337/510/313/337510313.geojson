@@ -2,13 +2,14 @@
   "id": 337510313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.828614,33.66555,-79.828614,33.66555",
     "geom:latitude":33.66555,
     "geom:longitude":-79.828614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 E Mill St",
     "sg:city":"Patrick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337510313,
-    "wof:lastmodified":1449027435,
+    "wof:lastmodified":1467082284,
     "wof:name":"Quality Tool & Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "precision"
     ]
 },
-  "bbox": [-79.828614,33.66555,-79.828614,33.66555],
+  "bbox": [
+    -79.828614,
+    33.66555,
+    -79.828614,
+    33.66555
+],
   "geometry": {"coordinates":[-79.828614,33.66555],"type":"Point"}
 }

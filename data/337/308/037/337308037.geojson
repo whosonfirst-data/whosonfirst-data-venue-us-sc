@@ -2,13 +2,14 @@
   "id": 337308037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.992252,34.018217,-80.992252,34.018217",
     "geom:latitude":34.018217,
     "geom:longitude":-80.992252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3312 Forest Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337308037,
-    "wof:lastmodified":1449027758,
+    "wof:lastmodified":1467082295,
     "wof:name":"Columbia Wireless",
     "wof:parent_id":85819781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-80.992252,34.018217,-80.992252,34.018217],
-  "geometry": {"coordinates":[-80.992252,34.018217],"type":"Point"}
+  "bbox": [
+    -80.992252,
+    34.018217,
+    -80.992252,
+    34.018217
+],
+  "geometry": {"coordinates":[-80.99225199999999,34.018217],"type":"Point"}
 }

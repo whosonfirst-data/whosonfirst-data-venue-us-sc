@@ -2,13 +2,14 @@
   "id": 370963279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.601013,34.443564,-81.601013,34.443564",
     "geom:latitude":34.443564,
     "geom:longitude":-81.601013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1816 Old Newberry Hwy",
     "sg:city":"Saluda",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370963279,
-    "wof:lastmodified":1449029410,
+    "wof:lastmodified":1467082305,
     "wof:name":"Carolina Country Constr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.601013,34.443564,-81.601013,34.443564],
-  "geometry": {"coordinates":[-81.601013,34.443564],"type":"Point"}
+  "bbox": [
+    -81.601013,
+    34.443564,
+    -81.601013,
+    34.443564
+],
+  "geometry": {"coordinates":[-81.60101299999999,34.443564],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370459885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.088422,34.735465,-80.088422,34.735465",
     "geom:latitude":34.735465,
     "geom:longitude":-80.088422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 S Page St",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370459885,
-    "wof:lastmodified":1449030465,
+    "wof:lastmodified":1467082329,
     "wof:name":"Nu-2-U",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-80.088422,34.735465,-80.088422,34.735465],
-  "geometry": {"coordinates":[-80.088422,34.735465],"type":"Point"}
+  "bbox": [
+    -80.088422,
+    34.735465,
+    -80.088422,
+    34.735465
+],
+  "geometry": {"coordinates":[-80.08842199999999,34.735465],"type":"Point"}
 }

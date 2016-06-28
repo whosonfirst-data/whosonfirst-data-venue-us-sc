@@ -2,13 +2,14 @@
   "id": 169865313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.57316,33.185614,-80.57316,33.185614",
     "geom:latitude":33.185614,
     "geom:longitude":-80.57316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 N Parler Ave",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169865313,
-    "wof:lastmodified":1449035151,
+    "wof:lastmodified":1467082385,
     "wof:name":"Bell & Witherspoon Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.57316,33.185614,-80.57316,33.185614],
+  "bbox": [
+    -80.57316,
+    33.185614,
+    -80.57316,
+    33.185614
+],
   "geometry": {"coordinates":[-80.57316,33.185614],"type":"Point"}
 }

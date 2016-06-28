@@ -2,13 +2,14 @@
   "id": 370545005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.762544,33.862284,-79.762544,33.862284",
     "geom:latitude":33.862284,
     "geom:longitude":-79.762544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"471 US Hwy 52",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370545005,
-    "wof:lastmodified":1449029912,
+    "wof:lastmodified":1467082316,
     "wof:name":"Lake City Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-79.762544,33.862284,-79.762544,33.862284],
-  "geometry": {"coordinates":[-79.762544,33.862284],"type":"Point"}
+  "bbox": [
+    -79.762544,
+    33.862284,
+    -79.762544,
+    33.862284
+],
+  "geometry": {"coordinates":[-79.76254400000001,33.862284],"type":"Point"}
 }

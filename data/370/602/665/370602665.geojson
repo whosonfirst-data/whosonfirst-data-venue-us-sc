@@ -2,13 +2,14 @@
   "id": 370602665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.023397,33.994394,-81.023397,33.994394",
     "geom:latitude":33.994394,
     "geom:longitude":-81.023397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Pickens St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370602665,
-    "wof:lastmodified":1449030681,
+    "wof:lastmodified":1467082333,
     "wof:name":"US Naval Reserve Recruiting",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "recruiting"
     ]
 },
-  "bbox": [-81.023397,33.994394,-81.023397,33.994394],
+  "bbox": [
+    -81.023397,
+    33.994394,
+    -81.023397,
+    33.994394
+],
   "geometry": {"coordinates":[-81.023397,33.994394],"type":"Point"}
 }

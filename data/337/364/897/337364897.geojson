@@ -2,13 +2,14 @@
   "id": 337364897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.854163,34.064039,-79.854163,34.064039",
     "geom:latitude":34.064039,
     "geom:longitude":-79.854163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3422 Alvin Kirby Rd",
     "sg:city":"Timmonsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337364897,
-    "wof:lastmodified":1449027407,
+    "wof:lastmodified":1467082283,
     "wof:name":"Creative Computer Solutions",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.854163,34.064039,-79.854163,34.064039],
+  "bbox": [
+    -79.854163,
+    34.064039,
+    -79.854163,
+    34.064039
+],
   "geometry": {"coordinates":[-79.854163,34.064039],"type":"Point"}
 }

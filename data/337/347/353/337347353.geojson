@@ -2,13 +2,14 @@
   "id": 337347353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.368321,34.420245,-79.368321,34.420245",
     "geom:latitude":34.420245,
     "geom:longitude":-79.368321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Hwy 301 N",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337347353,
-    "wof:lastmodified":1449027344,
+    "wof:lastmodified":1467082280,
     "wof:name":"Rbc Centura Bank",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-79.368321,34.420245,-79.368321,34.420245],
-  "geometry": {"coordinates":[-79.368321,34.420245],"type":"Point"}
+  "bbox": [
+    -79.368321,
+    34.420245,
+    -79.368321,
+    34.420245
+],
+  "geometry": {"coordinates":[-79.36832099999999,34.420245],"type":"Point"}
 }

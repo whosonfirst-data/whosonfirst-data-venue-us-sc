@@ -2,13 +2,14 @@
   "id": 370204735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.361624,33.652099,-81.361624,33.652099",
     "geom:latitude":33.652099,
     "geom:longitude":-81.361624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Main St N",
     "sg:city":"Wagener",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370204735,
-    "wof:lastmodified":1449032581,
+    "wof:lastmodified":1467082376,
     "wof:name":"B & B Loans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-81.361624,33.652099,-81.361624,33.652099],
-  "geometry": {"coordinates":[-81.361624,33.652099],"type":"Point"}
+  "bbox": [
+    -81.361624,
+    33.652099,
+    -81.361624,
+    33.652099
+],
+  "geometry": {"coordinates":[-81.36162400000001,33.652099],"type":"Point"}
 }

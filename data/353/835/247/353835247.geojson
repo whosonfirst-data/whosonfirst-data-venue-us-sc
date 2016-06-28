@@ -2,13 +2,14 @@
   "id": 353835247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.140861,34.003327,-81.140861,34.003327",
     "geom:latitude":34.003327,
     "geom:longitude":-81.140861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Laurel Meadows Dr",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353835247,
-    "wof:lastmodified":1449018619,
+    "wof:lastmodified":1467082217,
     "wof:name":"H & H Woodworking",
     "wof:parent_id":85864289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "con"
     ]
 },
-  "bbox": [-81.140861,34.003327,-81.140861,34.003327],
+  "bbox": [
+    -81.140861,
+    34.003327,
+    -81.140861,
+    34.003327
+],
   "geometry": {"coordinates":[-81.140861,34.003327],"type":"Point"}
 }

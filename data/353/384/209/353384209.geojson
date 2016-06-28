@@ -2,13 +2,14 @@
   "id": 353384209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.887804,34.055941,-78.887804,34.055941",
     "geom:latitude":34.055941,
     "geom:longitude":-78.887804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4249 Walnut St",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353384209,
-    "wof:lastmodified":1449018564,
+    "wof:lastmodified":1467082216,
     "wof:name":"Inland Associates",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.887804,34.055941,-78.887804,34.055941],
+  "bbox": [
+    -78.887804,
+    34.055941,
+    -78.887804,
+    34.055941
+],
   "geometry": {"coordinates":[-78.887804,34.055941],"type":"Point"}
 }

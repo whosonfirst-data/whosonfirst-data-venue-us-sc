@@ -2,13 +2,14 @@
   "id": 353653297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.928198,33.40799,-79.928198,33.40799",
     "geom:latitude":33.40799,
     "geom:longitude":-79.928198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3931 Byrnes Dr",
     "sg:city":"St Stephen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353653297,
-    "wof:lastmodified":1449018445,
+    "wof:lastmodified":1467082214,
     "wof:name":"Phone Tel",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-79.928198,33.40799,-79.928198,33.40799],
-  "geometry": {"coordinates":[-79.928198,33.40799],"type":"Point"}
+  "bbox": [
+    -79.928198,
+    33.40799,
+    -79.928198,
+    33.40799
+],
+  "geometry": {"coordinates":[-79.92819799999999,33.40799],"type":"Point"}
 }

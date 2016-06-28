@@ -2,13 +2,14 @@
   "id": 370282249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.795724,34.222752,-79.795724,34.222752",
     "geom:latitude":34.222752,
     "geom:longitude":-79.795724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 N Cashua Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370282249,
-    "wof:lastmodified":1449031198,
+    "wof:lastmodified":1467082345,
     "wof:name":"City Electric Supply Florida",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-79.795724,34.222752,-79.795724,34.222752],
-  "geometry": {"coordinates":[-79.795724,34.222752],"type":"Point"}
+  "bbox": [
+    -79.795724,
+    34.222752,
+    -79.795724,
+    34.222752
+],
+  "geometry": {"coordinates":[-79.79572400000001,34.222752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370284565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.903302,33.676232,-78.903302,33.676232",
     "geom:latitude":33.676232,
     "geom:longitude":-78.903302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 S Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370284565,
-    "wof:lastmodified":1449031193,
+    "wof:lastmodified":1467082345,
     "wof:name":"Plantation House Of Pancakes",
     "wof:parent_id":85847631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.903302,33.676232,-78.903302,33.676232],
+  "bbox": [
+    -78.903302,
+    33.676232,
+    -78.903302,
+    33.676232
+],
   "geometry": {"coordinates":[-78.903302,33.676232],"type":"Point"}
 }

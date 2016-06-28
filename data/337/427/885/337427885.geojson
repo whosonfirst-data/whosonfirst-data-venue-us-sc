@@ -2,13 +2,14 @@
   "id": 337427885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.027526,33.030333,-80.027526,33.030333",
     "geom:latitude":33.030333,
     "geom:longitude":-80.027526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 Amy Dr",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337427885,
-    "wof:lastmodified":1449027188,
+    "wof:lastmodified":1467082275,
     "wof:name":"Helen Elj",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "religious"
     ]
 },
-  "bbox": [-80.027526,33.030333,-80.027526,33.030333],
-  "geometry": {"coordinates":[-80.027526,33.030333],"type":"Point"}
+  "bbox": [
+    -80.027526,
+    33.030333,
+    -80.027526,
+    33.030333
+],
+  "geometry": {"coordinates":[-80.02752599999999,33.030333],"type":"Point"}
 }

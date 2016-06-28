@@ -2,13 +2,14 @@
   "id": 354413625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.528889,33.887428,-79.528889,33.887428",
     "geom:latitude":33.887428,
     "geom:longitude":-79.528889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"541 US Hwy 378",
     "sg:city":"Pamplico",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354413625,
-    "wof:lastmodified":1449066195,
+    "wof:lastmodified":1467082420,
     "wof:name":"Ola & Son Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.528889,33.887428,-79.528889,33.887428],
-  "geometry": {"coordinates":[-79.528889,33.887428],"type":"Point"}
+  "bbox": [
+    -79.528889,
+    33.887428,
+    -79.528889,
+    33.887428
+],
+  "geometry": {"coordinates":[-79.52888900000001,33.887428],"type":"Point"}
 }

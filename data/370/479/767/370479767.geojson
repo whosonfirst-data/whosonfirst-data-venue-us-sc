@@ -2,13 +2,14 @@
   "id": 370479767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.837673,33.515257,-80.837673,33.515257",
     "geom:latitude":33.515257,
     "geom:longitude":-80.837673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"899 Nance St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370479767,
-    "wof:lastmodified":1449031393,
+    "wof:lastmodified":1467082349,
     "wof:name":"Stroman Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.837673,33.515257,-80.837673,33.515257],
+  "bbox": [
+    -80.837673,
+    33.515257,
+    -80.837673,
+    33.515257
+],
   "geometry": {"coordinates":[-80.837673,33.515257],"type":"Point"}
 }

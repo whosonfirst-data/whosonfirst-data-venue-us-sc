@@ -2,13 +2,14 @@
   "id": 337557461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.992594,32.783146,-79.992594,32.783146",
     "geom:latitude":32.783146,
     "geom:longitude":-79.992594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 Savannah Hwy",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337557461,
-    "wof:lastmodified":1449027531,
+    "wof:lastmodified":1467082287,
     "wof:name":"Keystone Chiropractic",
     "wof:parent_id":85803739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-79.992594,32.783146,-79.992594,32.783146],
+  "bbox": [
+    -79.992594,
+    32.783146,
+    -79.992594,
+    32.783146
+],
   "geometry": {"coordinates":[-79.992594,32.783146],"type":"Point"}
 }

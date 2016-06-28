@@ -2,13 +2,14 @@
   "id": 370674331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.014325,35.070074,-82.014325,35.070074",
     "geom:latitude":35.070074,
     "geom:longitude":-82.014325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5490 State Hwy 9",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370674331,
-    "wof:lastmodified":1449031623,
+    "wof:lastmodified":1467082355,
     "wof:name":"Inman Paving Inc",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.014325,35.070074,-82.014325,35.070074],
+  "bbox": [
+    -82.014325,
+    35.070074,
+    -82.014325,
+    35.070074
+],
   "geometry": {"coordinates":[-82.014325,35.070074],"type":"Point"}
 }

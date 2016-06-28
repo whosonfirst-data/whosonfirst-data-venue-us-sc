@@ -2,13 +2,14 @@
   "id": 354339255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.128676,34.029367,-81.128676,34.029367",
     "geom:latitude":34.029367,
     "geom:longitude":-81.128676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2421 Pine Tops Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354339255,
-    "wof:lastmodified":1449066672,
+    "wof:lastmodified":1467082431,
     "wof:name":"Bill Krause Painting",
     "wof:parent_id":85864289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.128676,34.029367,-81.128676,34.029367],
+  "bbox": [
+    -81.128676,
+    34.029367,
+    -81.128676,
+    34.029367
+],
   "geometry": {"coordinates":[-81.128676,34.029367],"type":"Point"}
 }

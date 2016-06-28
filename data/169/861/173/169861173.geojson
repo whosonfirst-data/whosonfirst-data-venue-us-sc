@@ -2,13 +2,14 @@
   "id": 169861173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.721681,33.55939,-81.721681,33.55939",
     "geom:latitude":33.55939,
     "geom:longitude":-81.721681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Newberry St SW",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169861173,
-    "wof:lastmodified":1449035941,
+    "wof:lastmodified":1467082387,
     "wof:name":"Aiken Iron Works",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.721681,33.55939,-81.721681,33.55939],
+  "bbox": [
+    -81.721681,
+    33.55939,
+    -81.721681,
+    33.55939
+],
   "geometry": {"coordinates":[-81.721681,33.55939],"type":"Point"}
 }

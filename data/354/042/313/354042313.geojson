@@ -2,13 +2,14 @@
   "id": 354042313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.033274,33.693386,-79.033274,33.693386",
     "geom:latitude":33.693386,
     "geom:longitude":-79.033274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4627 Clardy Ln",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354042313,
-    "wof:lastmodified":1449067230,
+    "wof:lastmodified":1467082444,
     "wof:name":"Fullwood's Service & Repair",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.033274,33.693386,-79.033274,33.693386],
-  "geometry": {"coordinates":[-79.033274,33.693386],"type":"Point"}
+  "bbox": [
+    -79.033274,
+    33.693386,
+    -79.033274,
+    33.693386
+],
+  "geometry": {"coordinates":[-79.03327400000001,33.693386],"type":"Point"}
 }

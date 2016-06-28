@@ -2,13 +2,14 @@
   "id": 370440357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.027683,33.566409,-79.027683,33.566409",
     "geom:latitude":33.566409,
     "geom:longitude":-79.027683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3675 US Hwy 17 Bus",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370440357,
-    "wof:lastmodified":1449030286,
+    "wof:lastmodified":1467082325,
     "wof:name":"Tiger Graphics & Printing",
     "wof:parent_id":85813133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-79.027683,33.566409,-79.027683,33.566409],
+  "bbox": [
+    -79.027683,
+    33.566409,
+    -79.027683,
+    33.566409
+],
   "geometry": {"coordinates":[-79.027683,33.566409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337325237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.005357,34.968482,-81.005357,34.968482",
     "geom:latitude":34.968482,
     "geom:longitude":-81.005357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Woodhaven Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337325237,
-    "wof:lastmodified":1449027240,
+    "wof:lastmodified":1467082276,
     "wof:name":"Piedmont Siding & Gutter",
     "wof:parent_id":85841095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.005357,34.968482,-81.005357,34.968482],
+  "bbox": [
+    -81.005357,
+    34.968482,
+    -81.005357,
+    34.968482
+],
   "geometry": {"coordinates":[-81.005357,34.968482],"type":"Point"}
 }

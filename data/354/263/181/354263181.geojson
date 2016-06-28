@@ -2,13 +2,14 @@
   "id": 354263181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.00141,34.976598,-81.00141,34.976598",
     "geom:latitude":34.976598,
     "geom:longitude":-81.00141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 Celanese Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":354263181,
-    "wof:lastmodified":1449067629,
+    "wof:lastmodified":1467082453,
     "wof:name":"Bridal Place & Alterations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "provides"
     ]
 },
-  "bbox": [-81.00141,34.976598,-81.00141,34.976598],
-  "geometry": {"coordinates":[-81.00141,34.976598],"type":"Point"}
+  "bbox": [
+    -81.00141,
+    34.976598,
+    -81.00141,
+    34.976598
+],
+  "geometry": {"coordinates":[-81.00141000000001,34.976598],"type":"Point"}
 }

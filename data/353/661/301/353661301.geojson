@@ -2,13 +2,14 @@
   "id": 353661301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.132879,34.905355,-81.132879,34.905355",
     "geom:latitude":34.905355,
     "geom:longitude":-81.132879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3705 McConnells Hwy",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353661301,
-    "wof:lastmodified":1449020532,
+    "wof:lastmodified":1467082256,
     "wof:name":"Dragner Enterprises Inc",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.132879,34.905355,-81.132879,34.905355],
+  "bbox": [
+    -81.132879,
+    34.905355,
+    -81.132879,
+    34.905355
+],
   "geometry": {"coordinates":[-81.132879,34.905355],"type":"Point"}
 }

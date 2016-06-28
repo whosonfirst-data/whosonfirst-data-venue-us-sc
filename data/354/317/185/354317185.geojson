@@ -2,13 +2,14 @@
   "id": 354317185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.417167,34.875562,-82.417167,34.875562",
     "geom:latitude":34.875562,
     "geom:longitude":-82.417167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Morris St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354317185,
-    "wof:lastmodified":1449066688,
+    "wof:lastmodified":1467082432,
     "wof:name":"Morgan Memorial Baptist",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.417167,34.875562,-82.417167,34.875562],
-  "geometry": {"coordinates":[-82.417167,34.875562],"type":"Point"}
+  "bbox": [
+    -82.417167,
+    34.875562,
+    -82.417167,
+    34.875562
+],
+  "geometry": {"coordinates":[-82.41716700000001,34.875562],"type":"Point"}
 }

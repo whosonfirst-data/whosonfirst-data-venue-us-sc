@@ -2,13 +2,14 @@
   "id": 354305535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.390321,34.984773,-82.390321,34.984773",
     "geom:latitude":34.984773,
     "geom:longitude":-82.390321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Pine Log Ford Rd",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354305535,
-    "wof:lastmodified":1449066188,
+    "wof:lastmodified":1467082420,
     "wof:name":"Cherokee Trucks",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-82.390321,34.984773,-82.390321,34.984773],
+  "bbox": [
+    -82.390321,
+    34.984773,
+    -82.390321,
+    34.984773
+],
   "geometry": {"coordinates":[-82.390321,34.984773],"type":"Point"}
 }

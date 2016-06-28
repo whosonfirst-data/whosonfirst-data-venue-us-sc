@@ -2,13 +2,14 @@
   "id": 370240691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.680931,33.350843,-80.680931,33.350843",
     "geom:latitude":33.350843,
     "geom:longitude":-80.680931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Smith St",
     "sg:city":"Bowman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370240691,
-    "wof:lastmodified":1449029439,
+    "wof:lastmodified":1467082306,
     "wof:name":"Bowman Academy",
     "wof:parent_id":85843475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.680931,33.350843,-80.680931,33.350843],
+  "bbox": [
+    -80.680931,
+    33.350843,
+    -80.680931,
+    33.350843
+],
   "geometry": {"coordinates":[-80.680931,33.350843],"type":"Point"}
 }

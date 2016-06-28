@@ -2,13 +2,14 @@
   "id": 370765713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.683308,34.616483,-79.683308,34.616483",
     "geom:latitude":34.616483,
     "geom:longitude":-79.683308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 S Marlboro St",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370765713,
-    "wof:lastmodified":1449031032,
+    "wof:lastmodified":1467082341,
     "wof:name":"Bennettsville Downtown Dev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.683308,34.616483,-79.683308,34.616483],
+  "bbox": [
+    -79.683308,
+    34.616483,
+    -79.683308,
+    34.616483
+],
   "geometry": {"coordinates":[-79.683308,34.616483],"type":"Point"}
 }

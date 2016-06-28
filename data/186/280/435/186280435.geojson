@@ -2,13 +2,14 @@
   "id": 186280435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.389629,34.853393,-82.389629,34.853393",
     "geom:latitude":34.853393,
     "geom:longitude":-82.389629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Lavinia Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186280435,
-    "wof:lastmodified":1449051700,
+    "wof:lastmodified":1467082400,
     "wof:name":"Clifton Land & Timber",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.389629,34.853393,-82.389629,34.853393],
+  "bbox": [
+    -82.389629,
+    34.853393,
+    -82.389629,
+    34.853393
+],
   "geometry": {"coordinates":[-82.389629,34.853393],"type":"Point"}
 }

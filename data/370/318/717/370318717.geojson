@@ -2,13 +2,14 @@
   "id": 370318717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.230374,33.962237,-81.230374,33.962237",
     "geom:latitude":33.962237,
     "geom:longitude":-81.230374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Glassmaster Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370318717,
-    "wof:lastmodified":1449029844,
+    "wof:lastmodified":1467082315,
     "wof:name":"Buckets",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.230374,33.962237,-81.230374,33.962237],
+  "bbox": [
+    -81.230374,
+    33.962237,
+    -81.230374,
+    33.962237
+],
   "geometry": {"coordinates":[-81.230374,33.962237],"type":"Point"}
 }

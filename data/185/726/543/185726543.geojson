@@ -2,13 +2,14 @@
   "id": 185726543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.522967,34.978926,-82.522967,34.978926",
     "geom:latitude":34.978926,
     "geom:longitude":-82.522967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Keeler Bridge Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185726543,
-    "wof:lastmodified":1449007688,
+    "wof:lastmodified":1467082199,
     "wof:name":"Old Mill Upholstery",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-82.522967,34.978926,-82.522967,34.978926],
-  "geometry": {"coordinates":[-82.522967,34.978926],"type":"Point"}
+  "bbox": [
+    -82.522967,
+    34.978926,
+    -82.522967,
+    34.978926
+],
+  "geometry": {"coordinates":[-82.52296699999999,34.978926],"type":"Point"}
 }

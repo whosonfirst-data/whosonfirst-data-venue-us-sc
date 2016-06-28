@@ -2,13 +2,14 @@
   "id": 337288471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.433529,33.403518,-81.433529,33.403518",
     "geom:latitude":33.403518,
     "geom:longitude":-81.433529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Church St",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337288471,
-    "wof:lastmodified":1449027025,
+    "wof:lastmodified":1467082268,
     "wof:name":"Baxley's Auto & Tire Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-81.433529,33.403518,-81.433529,33.403518],
-  "geometry": {"coordinates":[-81.433529,33.403518],"type":"Point"}
+  "bbox": [
+    -81.433529,
+    33.403518,
+    -81.433529,
+    33.403518
+],
+  "geometry": {"coordinates":[-81.43352899999999,33.403518],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370521471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.359997,34.763232,-82.359997,34.763232",
     "geom:latitude":34.763232,
     "geom:longitude":-82.359997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Delaware St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370521471,
-    "wof:lastmodified":1449032302,
+    "wof:lastmodified":1467082370,
     "wof:name":"Ladue Polymers Inc",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plastic"
     ]
 },
-  "bbox": [-82.359997,34.763232,-82.359997,34.763232],
-  "geometry": {"coordinates":[-82.359997,34.763232],"type":"Point"}
+  "bbox": [
+    -82.359997,
+    34.763232,
+    -82.359997,
+    34.763232
+],
+  "geometry": {"coordinates":[-82.35999700000001,34.763232],"type":"Point"}
 }

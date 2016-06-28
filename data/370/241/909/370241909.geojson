@@ -2,13 +2,14 @@
   "id": 370241909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.307133,33.565324,-81.307133,33.565324",
     "geom:latitude":33.565324,
     "geom:longitude":-81.307133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 Walnut St",
     "sg:city":"Salley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370241909,
-    "wof:lastmodified":1449032378,
+    "wof:lastmodified":1467082371,
     "wof:name":"Sardis Missionary Baptist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.307133,33.565324,-81.307133,33.565324],
-  "geometry": {"coordinates":[-81.307133,33.565324],"type":"Point"}
+  "bbox": [
+    -81.307133,
+    33.565324,
+    -81.307133,
+    33.565324
+],
+  "geometry": {"coordinates":[-81.30713299999999,33.565324],"type":"Point"}
 }

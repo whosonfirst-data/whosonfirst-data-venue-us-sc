@@ -2,13 +2,14 @@
   "id": 354353815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.865997,33.516488,-80.865997,33.516488",
     "geom:latitude":33.516488,
     "geom:longitude":-80.865997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 Columbia Rd NE",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354353815,
-    "wof:lastmodified":1449066389,
+    "wof:lastmodified":1467082425,
     "wof:name":"L & S Pro Dry Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.865997,33.516488,-80.865997,33.516488],
-  "geometry": {"coordinates":[-80.865997,33.516488],"type":"Point"}
+  "bbox": [
+    -80.865997,
+    33.516488,
+    -80.865997,
+    33.516488
+],
+  "geometry": {"coordinates":[-80.86599699999999,33.516488],"type":"Point"}
 }

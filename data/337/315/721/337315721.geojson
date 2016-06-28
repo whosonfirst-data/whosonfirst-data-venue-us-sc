@@ -2,13 +2,14 @@
   "id": 337315721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.420565,33.963114,-80.420565,33.963114",
     "geom:latitude":33.963114,
     "geom:longitude":-80.420565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3269 Broad St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337315721,
-    "wof:lastmodified":1449027701,
+    "wof:lastmodified":1467082293,
     "wof:name":"Car Care & Repair",
     "wof:parent_id":85814545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.420565,33.963114,-80.420565,33.963114],
+  "bbox": [
+    -80.420565,
+    33.963114,
+    -80.420565,
+    33.963114
+],
   "geometry": {"coordinates":[-80.420565,33.963114],"type":"Point"}
 }

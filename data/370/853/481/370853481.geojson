@@ -2,13 +2,14 @@
   "id": 370853481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.060651,34.760081,-83.060651,34.760081",
     "geom:latitude":34.760081,
     "geom:longitude":-83.060651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 S John St",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370853481,
-    "wof:lastmodified":1449030454,
+    "wof:lastmodified":1467082329,
     "wof:name":"St John Street Church Of God",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-83.060651,34.760081,-83.060651,34.760081],
-  "geometry": {"coordinates":[-83.060651,34.760081],"type":"Point"}
+  "bbox": [
+    -83.060651,
+    34.760081,
+    -83.060651,
+    34.760081
+],
+  "geometry": {"coordinates":[-83.06065099999999,34.760081],"type":"Point"}
 }

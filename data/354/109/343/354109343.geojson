@@ -2,13 +2,14 @@
   "id": 354109343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.774409,34.193427,-79.774409,34.193427",
     "geom:latitude":34.193427,
     "geom:longitude":-79.774409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"461 W Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354109343,
-    "wof:lastmodified":1449066511,
+    "wof:lastmodified":1467082428,
     "wof:name":"HLS Design",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-79.774409,34.193427,-79.774409,34.193427],
-  "geometry": {"coordinates":[-79.774409,34.193427],"type":"Point"}
+  "bbox": [
+    -79.774409,
+    34.193427,
+    -79.774409,
+    34.193427
+],
+  "geometry": {"coordinates":[-79.77440900000001,34.193427],"type":"Point"}
 }

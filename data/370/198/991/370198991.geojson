@@ -2,13 +2,14 @@
   "id": 370198991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.935945,35.078841,-81.935945,35.078841",
     "geom:latitude":35.078841,
     "geom:longitude":-81.935945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Wildberry Ct",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370198991,
-    "wof:lastmodified":1449030314,
+    "wof:lastmodified":1467082325,
     "wof:name":"Colvert's Lock & Repair Svc",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-81.935945,35.078841,-81.935945,35.078841],
+  "bbox": [
+    -81.935945,
+    35.078841,
+    -81.935945,
+    35.078841
+],
   "geometry": {"coordinates":[-81.935945,35.078841],"type":"Point"}
 }

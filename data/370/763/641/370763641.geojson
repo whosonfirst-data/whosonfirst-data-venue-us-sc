@@ -2,13 +2,14 @@
   "id": 370763641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.246527,34.793025,-82.246527,34.793025",
     "geom:latitude":34.793025,
     "geom:longitude":-82.246527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Gilder Point Ct",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370763641,
-    "wof:lastmodified":1449032456,
+    "wof:lastmodified":1467082373,
     "wof:name":"Co Ordinated Images",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.246527,34.793025,-82.246527,34.793025],
+  "bbox": [
+    -82.246527,
+    34.793025,
+    -82.246527,
+    34.793025
+],
   "geometry": {"coordinates":[-82.246527,34.793025],"type":"Point"}
 }

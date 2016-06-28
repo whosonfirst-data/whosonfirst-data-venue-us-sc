@@ -2,13 +2,14 @@
   "id": 353500225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.024383,34.226347,-81.024383,34.226347",
     "geom:latitude":34.226347,
     "geom:longitude":-81.024383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Persimmon Fork Rd",
     "sg:city":"Blythewood",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353500225,
-    "wof:lastmodified":1449018905,
+    "wof:lastmodified":1467082223,
     "wof:name":"Farewell Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "animal"
     ]
 },
-  "bbox": [-81.024383,34.226347,-81.024383,34.226347],
+  "bbox": [
+    -81.024383,
+    34.226347,
+    -81.024383,
+    34.226347
+],
   "geometry": {"coordinates":[-81.024383,34.226347],"type":"Point"}
 }

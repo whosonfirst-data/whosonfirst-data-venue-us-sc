@@ -2,13 +2,14 @@
   "id": 186156007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.880895,34.476516,-81.880895,34.476516",
     "geom:latitude":34.476516,
     "geom:longitude":-81.880895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 N Broad St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186156007,
-    "wof:lastmodified":1449050941,
+    "wof:lastmodified":1467082393,
     "wof:name":"Clinton Mayor's Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-81.880895,34.476516,-81.880895,34.476516],
+  "bbox": [
+    -81.880895,
+    34.476516,
+    -81.880895,
+    34.476516
+],
   "geometry": {"coordinates":[-81.880895,34.476516],"type":"Point"}
 }

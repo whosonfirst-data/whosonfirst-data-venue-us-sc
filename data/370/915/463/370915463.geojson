@@ -2,13 +2,14 @@
   "id": 370915463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.092888,35.188575,-82.092888,35.188575",
     "geom:latitude":35.188575,
     "geom:longitude":-82.092888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Silo Rd",
     "sg:city":"Landrum",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370915463,
-    "wof:lastmodified":1449032431,
+    "wof:lastmodified":1467082372,
     "wof:name":"Still Point",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-82.092888,35.188575,-82.092888,35.188575],
+  "bbox": [
+    -82.092888,
+    35.188575,
+    -82.092888,
+    35.188575
+],
   "geometry": {"coordinates":[-82.092888,35.188575],"type":"Point"}
 }

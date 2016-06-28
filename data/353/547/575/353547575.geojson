@@ -2,13 +2,14 @@
   "id": 353547575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.132446,34.061265,-81.132446,34.061265",
     "geom:latitude":34.061265,
     "geom:longitude":-81.132446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Suber Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353547575,
-    "wof:lastmodified":1449018517,
+    "wof:lastmodified":1467082215,
     "wof:name":"Curative Health Svc",
     "wof:parent_id":85857505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [-81.132446,34.061265,-81.132446,34.061265],
+  "bbox": [
+    -81.132446,
+    34.061265,
+    -81.132446,
+    34.061265
+],
   "geometry": {"coordinates":[-81.132446,34.061265],"type":"Point"}
 }

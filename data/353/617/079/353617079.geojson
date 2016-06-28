@@ -2,13 +2,14 @@
   "id": 353617079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.306643,34.786525,-82.306643,34.786525",
     "geom:latitude":34.786525,
     "geom:longitude":-82.306643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Miller Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353617079,
-    "wof:lastmodified":1449018329,
+    "wof:lastmodified":1467082211,
     "wof:name":"Caddy Shack",
     "wof:parent_id":85851381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.306643,34.786525,-82.306643,34.786525],
-  "geometry": {"coordinates":[-82.306643,34.786525],"type":"Point"}
+  "bbox": [
+    -82.306643,
+    34.786525,
+    -82.306643,
+    34.786525
+],
+  "geometry": {"coordinates":[-82.30664299999999,34.786525],"type":"Point"}
 }

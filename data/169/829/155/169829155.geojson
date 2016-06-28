@@ -2,13 +2,14 @@
   "id": 169829155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.825376,32.891298,-79.825376,32.891298",
     "geom:latitude":32.891298,
     "geom:longitude":-79.825376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2308 Salt Wind Way",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169829155,
-    "wof:lastmodified":1449035745,
+    "wof:lastmodified":1467082387,
     "wof:name":"Smurro Patricia & Smurro",
     "wof:parent_id":85840345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.825376,32.891298,-79.825376,32.891298],
-  "geometry": {"coordinates":[-79.825376,32.891298],"type":"Point"}
+  "bbox": [
+    -79.825376,
+    32.891298,
+    -79.825376,
+    32.891298
+],
+  "geometry": {"coordinates":[-79.82537600000001,32.891298],"type":"Point"}
 }

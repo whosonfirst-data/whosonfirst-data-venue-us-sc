@@ -2,13 +2,14 @@
   "id": 370425363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.916859,34.948999,-81.916859,34.948999",
     "geom:latitude":34.948999,
     "geom:longitude":-81.916859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 S Pine St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370425363,
-    "wof:lastmodified":1449030283,
+    "wof:lastmodified":1467082325,
     "wof:name":"Robertson & Mullinax LLC",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plan"
     ]
 },
-  "bbox": [-81.916859,34.948999,-81.916859,34.948999],
+  "bbox": [
+    -81.916859,
+    34.948999,
+    -81.916859,
+    34.948999
+],
   "geometry": {"coordinates":[-81.916859,34.948999],"type":"Point"}
 }

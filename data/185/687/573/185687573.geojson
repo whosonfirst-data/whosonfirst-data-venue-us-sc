@@ -2,13 +2,14 @@
   "id": 185687573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.960415,35.021767,-80.960415,35.021767",
     "geom:latitude":35.021767,
     "geom:longitude":-80.960415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Springcrest Dr",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":185687573,
-    "wof:lastmodified":1449007056,
+    "wof:lastmodified":1467082189,
     "wof:name":"Vital Care Of York County",
     "wof:parent_id":85839383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-80.960415,35.021767,-80.960415,35.021767],
+  "bbox": [
+    -80.960415,
+    35.021767,
+    -80.960415,
+    35.021767
+],
   "geometry": {"coordinates":[-80.960415,35.021767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353888075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.480997,32.936845,-80.480997,32.936845",
     "geom:latitude":32.936845,
     "geom:longitude":-80.480997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10730 Cottageville Hwy",
     "sg:city":"Cottageville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353888075,
-    "wof:lastmodified":1449019863,
+    "wof:lastmodified":1467082242,
     "wof:name":"Garner Tackle Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fishing"
     ]
 },
-  "bbox": [-80.480997,32.936845,-80.480997,32.936845],
+  "bbox": [
+    -80.480997,
+    32.936845,
+    -80.480997,
+    32.936845
+],
   "geometry": {"coordinates":[-80.480997,32.936845],"type":"Point"}
 }

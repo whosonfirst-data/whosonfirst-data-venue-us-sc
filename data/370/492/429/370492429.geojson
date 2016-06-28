@@ -2,13 +2,14 @@
   "id": 370492429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.02007,32.798447,-80.02007,32.798447",
     "geom:latitude":32.798447,
     "geom:longitude":-80.02007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1038 Jenkins Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370492429,
-    "wof:lastmodified":1449029066,
+    "wof:lastmodified":1467082298,
     "wof:name":"G Graphics",
     "wof:parent_id":85839787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-80.02007,32.798447,-80.02007,32.798447],
+  "bbox": [
+    -80.02007,
+    32.798447,
+    -80.02007,
+    32.798447
+],
   "geometry": {"coordinates":[-80.02007,32.798447],"type":"Point"}
 }

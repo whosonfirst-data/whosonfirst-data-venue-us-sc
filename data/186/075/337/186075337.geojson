@@ -2,13 +2,14 @@
   "id": 186075337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.037998,34.00255,-81.037998,34.00255",
     "geom:latitude":34.00255,
     "geom:longitude":-81.037998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 Park St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186075337,
-    "wof:lastmodified":1449051838,
+    "wof:lastmodified":1467082402,
     "wof:name":"Weathers Group",
     "wof:parent_id":85876827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-81.037998,34.00255,-81.037998,34.00255],
+  "bbox": [
+    -81.037998,
+    34.00255,
+    -81.037998,
+    34.00255
+],
   "geometry": {"coordinates":[-81.037998,34.00255],"type":"Point"}
 }

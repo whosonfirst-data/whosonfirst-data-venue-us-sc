@@ -2,13 +2,14 @@
   "id": 185690595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.393561,34.143497,-79.393561,34.143497",
     "geom:latitude":34.143497,
     "geom:longitude":-79.393561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 Tubello Ct",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185690595,
-    "wof:lastmodified":1449007478,
+    "wof:lastmodified":1467082195,
     "wof:name":"Martins Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.393561,34.143497,-79.393561,34.143497],
-  "geometry": {"coordinates":[-79.393561,34.143497],"type":"Point"}
+  "bbox": [
+    -79.393561,
+    34.143497,
+    -79.393561,
+    34.143497
+],
+  "geometry": {"coordinates":[-79.39356100000001,34.143497],"type":"Point"}
 }

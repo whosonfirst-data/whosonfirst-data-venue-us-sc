@@ -2,13 +2,14 @@
   "id": 370730811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.257653,32.79251,-80.257653,32.79251",
     "geom:latitude":32.79251,
     "geom:longitude":-80.257653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6260 Shilelagh Oaks Pkwy",
     "sg:city":"Ravenel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370730811,
-    "wof:lastmodified":1449031922,
+    "wof:lastmodified":1467082361,
     "wof:name":"Access Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-80.257653,32.79251,-80.257653,32.79251],
+  "bbox": [
+    -80.257653,
+    32.79251,
+    -80.257653,
+    32.79251
+],
   "geometry": {"coordinates":[-80.257653,32.79251],"type":"Point"}
 }

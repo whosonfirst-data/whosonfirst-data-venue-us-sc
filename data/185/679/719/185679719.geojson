@@ -2,13 +2,14 @@
   "id": 185679719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.89664,34.974174,-81.89664,34.974174",
     "geom:latitude":34.974174,
     "geom:longitude":-81.89664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1690 Skylyn Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185679719,
-    "wof:lastmodified":1449007632,
+    "wof:lastmodified":1467082198,
     "wof:name":"Steadman-Hawkins Clinic",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.89664,34.974174,-81.89664,34.974174],
+  "bbox": [
+    -81.89664,
+    34.974174,
+    -81.89664,
+    34.974174
+],
   "geometry": {"coordinates":[-81.89664,34.974174],"type":"Point"}
 }

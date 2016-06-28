@@ -2,13 +2,14 @@
   "id": 354365837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.287873,33.374587,-79.287873,33.374587",
     "geom:latitude":33.374587,
     "geom:longitude":-79.287873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 N Fraser St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354365837,
-    "wof:lastmodified":1449066204,
+    "wof:lastmodified":1467082421,
     "wof:name":"Georgetown Ice & Cold Storage",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ice"
     ]
 },
-  "bbox": [-79.287873,33.374587,-79.287873,33.374587],
+  "bbox": [
+    -79.287873,
+    33.374587,
+    -79.287873,
+    33.374587
+],
   "geometry": {"coordinates":[-79.287873,33.374587],"type":"Point"}
 }

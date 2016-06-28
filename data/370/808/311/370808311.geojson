@@ -2,13 +2,14 @@
   "id": 370808311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.086261,34.379558,-81.086261,34.379558",
     "geom:latitude":34.379558,
     "geom:longitude":-81.086261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 S Congress St",
     "sg:city":"Winnsboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370808311,
-    "wof:lastmodified":1449029232,
+    "wof:lastmodified":1467082301,
     "wof:name":"Security Fiance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institution"
     ]
 },
-  "bbox": [-81.086261,34.379558,-81.086261,34.379558],
-  "geometry": {"coordinates":[-81.086261,34.379558],"type":"Point"}
+  "bbox": [
+    -81.086261,
+    34.379558,
+    -81.086261,
+    34.379558
+],
+  "geometry": {"coordinates":[-81.08626099999999,34.379558],"type":"Point"}
 }

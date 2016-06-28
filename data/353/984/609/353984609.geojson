@@ -2,13 +2,14 @@
   "id": 353984609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.364753,34.825398,-82.364753,34.825398",
     "geom:latitude":34.825398,
     "geom:longitude":-82.364753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"828 Parkins Mill Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353984609,
-    "wof:lastmodified":1449019702,
+    "wof:lastmodified":1467082239,
     "wof:name":"New South Design",
     "wof:parent_id":85809831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.364753,34.825398,-82.364753,34.825398],
-  "geometry": {"coordinates":[-82.364753,34.825398],"type":"Point"}
+  "bbox": [
+    -82.364753,
+    34.825398,
+    -82.364753,
+    34.825398
+],
+  "geometry": {"coordinates":[-82.36475299999999,34.825398],"type":"Point"}
 }

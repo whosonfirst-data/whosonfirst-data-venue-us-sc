@@ -2,13 +2,14 @@
   "id": 354028879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.251871,33.009348,-80.251871,33.009348",
     "geom:latitude":33.009348,
     "geom:longitude":-80.251871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Country Boy Ln",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354028879,
-    "wof:lastmodified":1449066859,
+    "wof:lastmodified":1467082436,
     "wof:name":"Creative Pools & Spas",
     "wof:parent_id":85812305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "swimming"
     ]
 },
-  "bbox": [-80.251871,33.009348,-80.251871,33.009348],
-  "geometry": {"coordinates":[-80.251871,33.009348],"type":"Point"}
+  "bbox": [
+    -80.251871,
+    33.009348,
+    -80.251871,
+    33.009348
+],
+  "geometry": {"coordinates":[-80.25187099999999,33.009348],"type":"Point"}
 }

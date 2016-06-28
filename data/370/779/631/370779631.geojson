@@ -2,13 +2,14 @@
   "id": 370779631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.066028,34.721618,-83.066028,34.721618",
     "geom:latitude":34.721618,
     "geom:longitude":-83.066028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Timberlane Dr",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370779631,
-    "wof:lastmodified":1449029607,
+    "wof:lastmodified":1467082309,
     "wof:name":"Oconee Plumbing",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-83.066028,34.721618,-83.066028,34.721618],
+  "bbox": [
+    -83.066028,
+    34.721618,
+    -83.066028,
+    34.721618
+],
   "geometry": {"coordinates":[-83.066028,34.721618],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186171823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.060237,33.83975,-79.060237,33.83975",
     "geom:latitude":33.83975,
     "geom:longitude":-79.060237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 Church St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186171823,
-    "wof:lastmodified":1449053044,
+    "wof:lastmodified":1467082413,
     "wof:name":"Budget Heating & Air",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.060237,33.83975,-79.060237,33.83975],
+  "bbox": [
+    -79.060237,
+    33.83975,
+    -79.060237,
+    33.83975
+],
   "geometry": {"coordinates":[-79.060237,33.83975],"type":"Point"}
 }

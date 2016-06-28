@@ -2,13 +2,14 @@
   "id": 186235637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.62041,34.829827,-82.62041,34.829827",
     "geom:latitude":34.829827,
     "geom:longitude":-82.62041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Bannister St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186235637,
-    "wof:lastmodified":1449050873,
+    "wof:lastmodified":1467082392,
     "wof:name":"Shockley Automotive",
     "wof:parent_id":85832619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.62041,34.829827,-82.62041,34.829827],
-  "geometry": {"coordinates":[-82.62041,34.829827],"type":"Point"}
+  "bbox": [
+    -82.62041,
+    34.829827,
+    -82.62041,
+    34.829827
+],
+  "geometry": {"coordinates":[-82.62041000000001,34.829827],"type":"Point"}
 }

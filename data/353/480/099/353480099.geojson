@@ -2,13 +2,14 @@
   "id": 353480099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.989326,33.199483,-79.989326,33.199483",
     "geom:latitude":33.199483,
     "geom:longitude":-79.989326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Barony St",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353480099,
-    "wof:lastmodified":1449019083,
+    "wof:lastmodified":1467082226,
     "wof:name":"Yaden Chiropractic Clinic",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.989326,33.199483,-79.989326,33.199483],
-  "geometry": {"coordinates":[-79.989326,33.199483],"type":"Point"}
+  "bbox": [
+    -79.989326,
+    33.199483,
+    -79.989326,
+    33.199483
+],
+  "geometry": {"coordinates":[-79.98932600000001,33.199483],"type":"Point"}
 }

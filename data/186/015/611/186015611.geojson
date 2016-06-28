@@ -2,13 +2,14 @@
   "id": 186015611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.607987,34.254625,-80.607987,34.254625",
     "geom:latitude":34.254625,
     "geom:longitude":-80.607987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Broad St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186015611,
-    "wof:lastmodified":1449051011,
+    "wof:lastmodified":1467082394,
     "wof:name":"Aberdeen Bed & Breakfast",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-80.607987,34.254625,-80.607987,34.254625],
-  "geometry": {"coordinates":[-80.607987,34.254625],"type":"Point"}
+  "bbox": [
+    -80.607987,
+    34.254625,
+    -80.607987,
+    34.254625
+],
+  "geometry": {"coordinates":[-80.60798699999999,34.254625],"type":"Point"}
 }

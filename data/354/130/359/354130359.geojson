@@ -2,13 +2,14 @@
   "id": 354130359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.995033,33.201004,-79.995033,33.201004",
     "geom:latitude":33.201004,
     "geom:longitude":-79.995033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 N Live Oak Dr",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354130359,
-    "wof:lastmodified":1449066498,
+    "wof:lastmodified":1467082427,
     "wof:name":"Berkeley Middle School",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.995033,33.201004,-79.995033,33.201004],
-  "geometry": {"coordinates":[-79.995033,33.201004],"type":"Point"}
+  "bbox": [
+    -79.995033,
+    33.201004,
+    -79.995033,
+    33.201004
+],
+  "geometry": {"coordinates":[-79.99503300000001,33.201004],"type":"Point"}
 }

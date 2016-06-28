@@ -2,13 +2,14 @@
   "id": 337376365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.850101,34.271112,-79.850101,34.271112",
     "geom:latitude":34.271112,
     "geom:longitude":-79.850101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1824 S Main St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337376365,
-    "wof:lastmodified":1449027218,
+    "wof:lastmodified":1467082276,
     "wof:name":"Westward 1 Intl",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-79.850101,34.271112,-79.850101,34.271112],
+  "bbox": [
+    -79.850101,
+    34.271112,
+    -79.850101,
+    34.271112
+],
   "geometry": {"coordinates":[-79.850101,34.271112],"type":"Point"}
 }

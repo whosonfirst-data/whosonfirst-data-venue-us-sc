@@ -2,13 +2,14 @@
   "id": 185761781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.238306,32.734926,-80.238306,32.734926",
     "geom:latitude":32.734926,
     "geom:longitude":-80.238306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6326 Hollywood Dr",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185761781,
-    "wof:lastmodified":1449007844,
+    "wof:lastmodified":1467082201,
     "wof:name":"Sea Island Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.238306,32.734926,-80.238306,32.734926],
-  "geometry": {"coordinates":[-80.238306,32.734926],"type":"Point"}
+  "bbox": [
+    -80.238306,
+    32.734926,
+    -80.238306,
+    32.734926
+],
+  "geometry": {"coordinates":[-80.23830599999999,32.734926],"type":"Point"}
 }

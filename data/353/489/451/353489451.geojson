@@ -2,13 +2,14 @@
   "id": 353489451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.992613,34.942892,-80.992613,34.942892",
     "geom:latitude":34.942892,
     "geom:longitude":-80.992613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N Garrison Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353489451,
-    "wof:lastmodified":1449019659,
+    "wof:lastmodified":1467082238,
     "wof:name":"Manchester Self Storage",
     "wof:parent_id":85858367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-80.992613,34.942892,-80.992613,34.942892],
-  "geometry": {"coordinates":[-80.992613,34.942892],"type":"Point"}
+  "bbox": [
+    -80.992613,
+    34.942892,
+    -80.992613,
+    34.942892
+],
+  "geometry": {"coordinates":[-80.99261300000001,34.942892],"type":"Point"}
 }

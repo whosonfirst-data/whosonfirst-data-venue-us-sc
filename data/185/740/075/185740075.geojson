@@ -2,13 +2,14 @@
   "id": 185740075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.179974,32.998241,-80.179974,32.998241",
     "geom:latitude":32.998241,
     "geom:longitude":-80.179974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Arbor Rd",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185740075,
-    "wof:lastmodified":1449007350,
+    "wof:lastmodified":1467082194,
     "wof:name":"Summer Square Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.179974,32.998241,-80.179974,32.998241],
+  "bbox": [
+    -80.179974,
+    32.998241,
+    -80.179974,
+    32.998241
+],
   "geometry": {"coordinates":[-80.179974,32.998241],"type":"Point"}
 }

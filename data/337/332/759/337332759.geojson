@@ -2,13 +2,14 @@
   "id": 337332759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.331122,34.901773,-82.331122,34.901773",
     "geom:latitude":34.901773,
     "geom:longitude":-82.331122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E Lee Rd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337332759,
-    "wof:lastmodified":1449027402,
+    "wof:lastmodified":1467082282,
     "wof:name":"Jim Swartz Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.331122,34.901773,-82.331122,34.901773],
-  "geometry": {"coordinates":[-82.331122,34.901773],"type":"Point"}
+  "bbox": [
+    -82.331122,
+    34.901773,
+    -82.331122,
+    34.901773
+],
+  "geometry": {"coordinates":[-82.33112199999999,34.901773],"type":"Point"}
 }

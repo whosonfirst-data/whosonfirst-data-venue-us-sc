@@ -2,13 +2,14 @@
   "id": 370769213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.826752,32.847132,-79.826752,32.847132",
     "geom:latitude":32.847132,
     "geom:longitude":-79.826752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 Long Point Rd",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370769213,
-    "wof:lastmodified":1449030218,
+    "wof:lastmodified":1467082323,
     "wof:name":"Charles Pinckney National Site",
     "wof:parent_id":85840345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.826752,32.847132,-79.826752,32.847132],
+  "bbox": [
+    -79.826752,
+    32.847132,
+    -79.826752,
+    32.847132
+],
   "geometry": {"coordinates":[-79.826752,32.847132],"type":"Point"}
 }

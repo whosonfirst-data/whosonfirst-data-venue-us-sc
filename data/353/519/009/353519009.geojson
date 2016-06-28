@@ -2,13 +2,14 @@
   "id": 353519009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.043401,33.795335,-79.043401,33.795335",
     "geom:latitude":33.795335,
     "geom:longitude":-79.043401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 Cox Ferry Cir",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353519009,
-    "wof:lastmodified":1449020625,
+    "wof:lastmodified":1467082258,
     "wof:name":"Waccamaw Hardware and Sptg Gds",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.043401,33.795335,-79.043401,33.795335],
+  "bbox": [
+    -79.043401,
+    33.795335,
+    -79.043401,
+    33.795335
+],
   "geometry": {"coordinates":[-79.043401,33.795335],"type":"Point"}
 }

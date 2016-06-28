@@ -2,13 +2,14 @@
   "id": 186299263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.867067,33.706467,-78.867067,33.706467",
     "geom:latitude":33.706467,
     "geom:longitude":-78.867067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 N Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186299263,
-    "wof:lastmodified":1449051077,
+    "wof:lastmodified":1467082394,
     "wof:name":"Shamrock's Sports Bar & Grill",
     "wof:parent_id":85816109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.867067,33.706467,-78.867067,33.706467],
-  "geometry": {"coordinates":[-78.867067,33.706467],"type":"Point"}
+  "bbox": [
+    -78.867067,
+    33.706467,
+    -78.867067,
+    33.706467
+],
+  "geometry": {"coordinates":[-78.86706700000001,33.706467],"type":"Point"}
 }

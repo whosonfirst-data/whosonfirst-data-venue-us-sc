@@ -2,13 +2,14 @@
   "id": 186042945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.862637,33.503323,-80.862637,33.503323",
     "geom:latitude":33.503323,
     "geom:longitude":-80.862637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1996 Carolina Ave",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186042945,
-    "wof:lastmodified":1449052359,
+    "wof:lastmodified":1467082407,
     "wof:name":"Stewart Cash Advance",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-80.862637,33.503323,-80.862637,33.503323],
-  "geometry": {"coordinates":[-80.862637,33.503323],"type":"Point"}
+  "bbox": [
+    -80.862637,
+    33.503323,
+    -80.862637,
+    33.503323
+],
+  "geometry": {"coordinates":[-80.86263700000001,33.503323],"type":"Point"}
 }

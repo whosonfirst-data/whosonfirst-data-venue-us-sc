@@ -2,13 +2,14 @@
   "id": 353945759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.001718,34.922872,-82.001718,34.922872",
     "geom:latitude":34.922872,
     "geom:longitude":-82.001718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Oak Grove Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353945759,
-    "wof:lastmodified":1449018477,
+    "wof:lastmodified":1467082214,
     "wof:name":"West View Elementary School",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.001718,34.922872,-82.001718,34.922872],
+  "bbox": [
+    -82.001718,
+    34.922872,
+    -82.001718,
+    34.922872
+],
   "geometry": {"coordinates":[-82.001718,34.922872],"type":"Point"}
 }

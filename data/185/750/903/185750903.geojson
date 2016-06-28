@@ -2,13 +2,14 @@
   "id": 185750903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.421085,33.823718,-79.421085,33.823718",
     "geom:latitude":33.823718,
     "geom:longitude":-79.421085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"762 Possom Fork Rd",
     "sg:city":"Johnsonville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185750903,
-    "wof:lastmodified":1449007588,
+    "wof:lastmodified":1467082197,
     "wof:name":"Norris T Powell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-79.421085,33.823718,-79.421085,33.823718],
-  "geometry": {"coordinates":[-79.421085,33.823718],"type":"Point"}
+  "bbox": [
+    -79.421085,
+    33.823718,
+    -79.421085,
+    33.823718
+],
+  "geometry": {"coordinates":[-79.42108500000001,33.823718],"type":"Point"}
 }

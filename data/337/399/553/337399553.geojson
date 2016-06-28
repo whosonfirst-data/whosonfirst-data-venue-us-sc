@@ -2,13 +2,14 @@
   "id": 337399553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.396946,34.843948,-82.396946,34.843948",
     "geom:latitude":34.843948,
     "geom:longitude":-82.396946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E Camperdown Way",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":337399553,
-    "wof:lastmodified":1449027064,
+    "wof:lastmodified":1467082270,
     "wof:name":"Greenville County School Dist",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.396946,34.843948,-82.396946,34.843948],
+  "bbox": [
+    -82.396946,
+    34.843948,
+    -82.396946,
+    34.843948
+],
   "geometry": {"coordinates":[-82.396946,34.843948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370380545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.764089,32.86512,-80.764089,32.86512",
     "geom:latitude":32.86512,
     "geom:longitude":-80.764089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Winding Creek Rd",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370380545,
-    "wof:lastmodified":1449030660,
+    "wof:lastmodified":1467082333,
     "wof:name":"Bryan's Welding & Machine Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-80.764089,32.86512,-80.764089,32.86512],
+  "bbox": [
+    -80.764089,
+    32.86512,
+    -80.764089,
+    32.86512
+],
   "geometry": {"coordinates":[-80.764089,32.86512],"type":"Point"}
 }

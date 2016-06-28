@@ -2,13 +2,14 @@
   "id": 337406415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.406692,33.911999,-80.406692,33.911999",
     "geom:latitude":33.911999,
     "geom:longitude":-80.406692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Creekfield Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337406415,
-    "wof:lastmodified":1449027383,
+    "wof:lastmodified":1467082282,
     "wof:name":"Sumter Material Handling",
     "wof:parent_id":85817433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "handling"
     ]
 },
-  "bbox": [-80.406692,33.911999,-80.406692,33.911999],
-  "geometry": {"coordinates":[-80.406692,33.911999],"type":"Point"}
+  "bbox": [
+    -80.406692,
+    33.911999,
+    -80.406692,
+    33.911999
+],
+  "geometry": {"coordinates":[-80.40669200000001,33.911999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185813587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.498737,33.785878,-81.498737,33.785878",
     "geom:latitude":33.785878,
     "geom:longitude":-81.498737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"728 Holder Rd",
     "sg:city":"Batesburg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185813587,
-    "wof:lastmodified":1449007021,
+    "wof:lastmodified":1467082188,
     "wof:name":"Padgett Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chicken"
     ]
 },
-  "bbox": [-81.498737,33.785878,-81.498737,33.785878],
-  "geometry": {"coordinates":[-81.498737,33.785878],"type":"Point"}
+  "bbox": [
+    -81.498737,
+    33.785878,
+    -81.498737,
+    33.785878
+],
+  "geometry": {"coordinates":[-81.49873700000001,33.785878],"type":"Point"}
 }

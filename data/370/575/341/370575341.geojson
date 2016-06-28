@@ -2,13 +2,14 @@
   "id": 370575341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.883696,33.692901,-78.883696,33.692901",
     "geom:latitude":33.692901,
     "geom:longitude":-78.883696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 8th Ave N",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370575341,
-    "wof:lastmodified":1449030088,
+    "wof:lastmodified":1467082320,
     "wof:name":"Myrtle Beach Grand Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.883696,33.692901,-78.883696,33.692901],
+  "bbox": [
+    -78.883696,
+    33.692901,
+    -78.883696,
+    33.692901
+],
   "geometry": {"coordinates":[-78.883696,33.692901],"type":"Point"}
 }

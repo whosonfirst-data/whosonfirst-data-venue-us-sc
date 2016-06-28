@@ -2,13 +2,14 @@
   "id": 354064159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.54825,33.883346,-79.54825,33.883346",
     "geom:latitude":33.883346,
     "geom:longitude":-79.54825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3749 Half Moon Rd",
     "sg:city":"Pamplico",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354064159,
-    "wof:lastmodified":1449066520,
+    "wof:lastmodified":1467082428,
     "wof:name":"Stone's Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "metal"
     ]
 },
-  "bbox": [-79.54825,33.883346,-79.54825,33.883346],
+  "bbox": [
+    -79.54825,
+    33.883346,
+    -79.54825,
+    33.883346
+],
   "geometry": {"coordinates":[-79.54825,33.883346],"type":"Point"}
 }

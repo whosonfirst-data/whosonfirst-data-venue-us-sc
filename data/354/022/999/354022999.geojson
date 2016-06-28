@@ -2,13 +2,14 @@
   "id": 354022999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.944126,32.790456,-79.944126,32.790456",
     "geom:latitude":32.790456,
     "geom:longitude":-79.944126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Cannon St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354022999,
-    "wof:lastmodified":1449066482,
+    "wof:lastmodified":1467082427,
     "wof:name":"Five Loaves Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.944126,32.790456,-79.944126,32.790456],
+  "bbox": [
+    -79.944126,
+    32.790456,
+    -79.944126,
+    32.790456
+],
   "geometry": {"coordinates":[-79.944126,32.790456],"type":"Point"}
 }

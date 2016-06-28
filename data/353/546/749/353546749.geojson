@@ -2,13 +2,14 @@
   "id": 353546749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.460779,34.941106,-81.460779,34.941106",
     "geom:latitude":34.941106,
     "geom:longitude":-81.460779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Scenic View Rd",
     "sg:city":"Hickory Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353546749,
-    "wof:lastmodified":1449018252,
+    "wof:lastmodified":1467082210,
     "wof:name":"Chester Livestock Exchange",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-81.460779,34.941106,-81.460779,34.941106],
+  "bbox": [
+    -81.460779,
+    34.941106,
+    -81.460779,
+    34.941106
+],
   "geometry": {"coordinates":[-81.460779,34.941106],"type":"Point"}
 }

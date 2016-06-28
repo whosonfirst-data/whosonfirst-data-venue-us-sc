@@ -2,13 +2,14 @@
   "id": 354221219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.65233,34.505686,-82.65233,34.505686",
     "geom:latitude":34.505686,
     "geom:longitude":-82.65233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 W Federal St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354221219,
-    "wof:lastmodified":1449066666,
+    "wof:lastmodified":1467082431,
     "wof:name":"USA Floor Covering",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-82.65233,34.505686,-82.65233,34.505686],
-  "geometry": {"coordinates":[-82.65233,34.505686],"type":"Point"}
+  "bbox": [
+    -82.65233,
+    34.505686,
+    -82.65233,
+    34.505686
+],
+  "geometry": {"coordinates":[-82.65233000000001,34.505686],"type":"Point"}
 }

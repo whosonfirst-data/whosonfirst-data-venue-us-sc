@@ -2,13 +2,14 @@
   "id": 354120625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.010037,34.498812,-82.010037,34.498812",
     "geom:latitude":34.498812,
     "geom:longitude":-82.010037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 E Main St",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354120625,
-    "wof:lastmodified":1449067419,
+    "wof:lastmodified":1467082448,
     "wof:name":"CSX Roadmaster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.010037,34.498812,-82.010037,34.498812],
+  "bbox": [
+    -82.010037,
+    34.498812,
+    -82.010037,
+    34.498812
+],
   "geometry": {"coordinates":[-82.010037,34.498812],"type":"Point"}
 }

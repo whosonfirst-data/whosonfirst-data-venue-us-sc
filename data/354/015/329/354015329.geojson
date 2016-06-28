@@ -2,13 +2,14 @@
   "id": 354015329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.245591,34.789255,-82.245591,34.789255",
     "geom:latitude":34.789255,
     "geom:longitude":-82.245591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Gleneagles Ct",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354015329,
-    "wof:lastmodified":1449066315,
+    "wof:lastmodified":1467082423,
     "wof:name":"Heat Treat Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "heat"
     ]
 },
-  "bbox": [-82.245591,34.789255,-82.245591,34.789255],
+  "bbox": [
+    -82.245591,
+    34.789255,
+    -82.245591,
+    34.789255
+],
   "geometry": {"coordinates":[-82.245591,34.789255],"type":"Point"}
 }

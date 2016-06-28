@@ -2,13 +2,14 @@
   "id": 353744143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.057603,34.353767,-82.057603,34.353767",
     "geom:latitude":34.353767,
     "geom:longitude":-82.057603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Blakely Rd",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353744143,
-    "wof:lastmodified":1449019178,
+    "wof:lastmodified":1467082228,
     "wof:name":"Waterloo Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.057603,34.353767,-82.057603,34.353767],
+  "bbox": [
+    -82.057603,
+    34.353767,
+    -82.057603,
+    34.353767
+],
   "geometry": {"coordinates":[-82.057603,34.353767],"type":"Point"}
 }

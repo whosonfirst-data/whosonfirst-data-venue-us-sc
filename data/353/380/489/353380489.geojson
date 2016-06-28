@@ -2,13 +2,14 @@
   "id": 353380489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.08209,33.966487,-81.08209,33.966487",
     "geom:latitude":33.966487,
     "geom:longitude":-81.08209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1741 Airport Blvd",
     "sg:city":"Cayce",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353380489,
-    "wof:lastmodified":1449019441,
+    "wof:lastmodified":1467082234,
     "wof:name":"Columbia Wilbert Vault Co",
     "wof:parent_id":85808009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "casket"
     ]
 },
-  "bbox": [-81.08209,33.966487,-81.08209,33.966487],
-  "geometry": {"coordinates":[-81.08209,33.966487],"type":"Point"}
+  "bbox": [
+    -81.08209,
+    33.966487,
+    -81.08209,
+    33.966487
+],
+  "geometry": {"coordinates":[-81.08208999999999,33.966487],"type":"Point"}
 }

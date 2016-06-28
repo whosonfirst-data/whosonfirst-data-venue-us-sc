@@ -2,13 +2,14 @@
   "id": 370203301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.855901,33.73813,-81.855901,33.73813",
     "geom:latitude":33.73813,
     "geom:longitude":-81.855901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Oscar Dr",
     "sg:city":"Trenton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370203301,
-    "wof:lastmodified":1449030599,
+    "wof:lastmodified":1467082331,
     "wof:name":"Crossroads Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.855901,33.73813,-81.855901,33.73813],
+  "bbox": [
+    -81.855901,
+    33.73813,
+    -81.855901,
+    33.73813
+],
   "geometry": {"coordinates":[-81.855901,33.73813],"type":"Point"}
 }

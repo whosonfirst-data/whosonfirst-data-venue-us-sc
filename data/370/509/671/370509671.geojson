@@ -2,13 +2,14 @@
   "id": 370509671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.508352,34.529258,-82.508352,34.529258",
     "geom:latitude":34.529258,
     "geom:longitude":-82.508352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 Breazeale St",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370509671,
-    "wof:lastmodified":1449029206,
+    "wof:lastmodified":1467082301,
     "wof:name":"Foster's Welding Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-82.508352,34.529258,-82.508352,34.529258],
+  "bbox": [
+    -82.508352,
+    34.529258,
+    -82.508352,
+    34.529258
+],
   "geometry": {"coordinates":[-82.508352,34.529258],"type":"Point"}
 }

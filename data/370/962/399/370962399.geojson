@@ -2,13 +2,14 @@
   "id": 370962399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.004747,34.227869,-81.004747,34.227869",
     "geom:latitude":34.227869,
     "geom:longitude":-81.004747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Syrup Mill Rd",
     "sg:city":"Blythewood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370962399,
-    "wof:lastmodified":1449031065,
+    "wof:lastmodified":1467082342,
     "wof:name":"One Wood Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-81.004747,34.227869,-81.004747,34.227869],
-  "geometry": {"coordinates":[-81.004747,34.227869],"type":"Point"}
+  "bbox": [
+    -81.004747,
+    34.227869,
+    -81.004747,
+    34.227869
+],
+  "geometry": {"coordinates":[-81.00474699999999,34.227869],"type":"Point"}
 }

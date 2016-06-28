@@ -2,13 +2,14 @@
   "id": 370424065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.120633,34.053769,-81.120633,34.053769",
     "geom:latitude":34.053769,
     "geom:longitude":-81.120633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Beatty Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370424065,
-    "wof:lastmodified":1449032258,
+    "wof:lastmodified":1467082369,
     "wof:name":"DJS Critter Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.120633,34.053769,-81.120633,34.053769],
+  "bbox": [
+    -81.120633,
+    34.053769,
+    -81.120633,
+    34.053769
+],
   "geometry": {"coordinates":[-81.120633,34.053769],"type":"Point"}
 }

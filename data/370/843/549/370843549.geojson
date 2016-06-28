@@ -2,13 +2,14 @@
   "id": 370843549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.057762,32.869388,-80.057762,32.869388",
     "geom:latitude":32.869388,
     "geom:longitude":-80.057762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4353 Cheviot Dr",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370843549,
-    "wof:lastmodified":1449029383,
+    "wof:lastmodified":1467082304,
     "wof:name":"Pete & Annette Limousine Svc",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-80.057762,32.869388,-80.057762,32.869388],
+  "bbox": [
+    -80.057762,
+    32.869388,
+    -80.057762,
+    32.869388
+],
   "geometry": {"coordinates":[-80.057762,32.869388],"type":"Point"}
 }

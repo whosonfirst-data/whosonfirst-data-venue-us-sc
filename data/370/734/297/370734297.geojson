@@ -2,13 +2,14 @@
   "id": 370734297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.987545,32.762483,-79.987545,32.762483",
     "geom:latitude":32.762483,
     "geom:longitude":-79.987545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1982 Maybank Hwy",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370734297,
-    "wof:lastmodified":1449032045,
+    "wof:lastmodified":1467082364,
     "wof:name":"Sloane Realty",
     "wof:parent_id":85810731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-79.987545,32.762483,-79.987545,32.762483],
+  "bbox": [
+    -79.987545,
+    32.762483,
+    -79.987545,
+    32.762483
+],
   "geometry": {"coordinates":[-79.987545,32.762483],"type":"Point"}
 }

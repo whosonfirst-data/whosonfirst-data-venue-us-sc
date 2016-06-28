@@ -2,13 +2,14 @@
   "id": 370614605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.84902,33.509234,-80.84902,33.509234",
     "geom:latitude":33.509234,
     "geom:longitude":-80.84902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2215 Magnolia St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370614605,
-    "wof:lastmodified":1449032575,
+    "wof:lastmodified":1467082376,
     "wof:name":"B and S Automobiles",
     "wof:parent_id":85843475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.84902,33.509234,-80.84902,33.509234],
+  "bbox": [
+    -80.84902,
+    33.509234,
+    -80.84902,
+    33.509234
+],
   "geometry": {"coordinates":[-80.84902,33.509234],"type":"Point"}
 }

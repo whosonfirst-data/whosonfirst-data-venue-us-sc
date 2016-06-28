@@ -2,13 +2,14 @@
   "id": 353630621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.207231,35.060989,-81.207231,35.060989",
     "geom:latitude":35.060989,
     "geom:longitude":-81.207231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2570 S Jim McCarter Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353630621,
-    "wof:lastmodified":1449019166,
+    "wof:lastmodified":1467082228,
     "wof:name":"M C Robinson Grading",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.207231,35.060989,-81.207231,35.060989],
-  "geometry": {"coordinates":[-81.207231,35.060989],"type":"Point"}
+  "bbox": [
+    -81.207231,
+    35.060989,
+    -81.207231,
+    35.060989
+],
+  "geometry": {"coordinates":[-81.20723099999999,35.060989],"type":"Point"}
 }

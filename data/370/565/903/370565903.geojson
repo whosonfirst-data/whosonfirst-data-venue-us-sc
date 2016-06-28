@@ -2,13 +2,14 @@
   "id": 370565903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.741973,32.24833,-80.741973,32.24833",
     "geom:latitude":32.24833,
     "geom:longitude":-80.741973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Old Fort Dr",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370565903,
-    "wof:lastmodified":1449032176,
+    "wof:lastmodified":1467082367,
     "wof:name":"The Mark Group-Atlanta Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beverage"
     ]
 },
-  "bbox": [-80.741973,32.24833,-80.741973,32.24833],
+  "bbox": [
+    -80.741973,
+    32.24833,
+    -80.741973,
+    32.24833
+],
   "geometry": {"coordinates":[-80.741973,32.24833],"type":"Point"}
 }

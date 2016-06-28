@@ -2,13 +2,14 @@
   "id": 353480953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.57326,34.251144,-81.57326,34.251144",
     "geom:latitude":34.251144,
     "geom:longitude":-81.57326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14352 C R Koon Hwy",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353480953,
-    "wof:lastmodified":1449019082,
+    "wof:lastmodified":1467082226,
     "wof:name":"Newberry Home Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.57326,34.251144,-81.57326,34.251144],
+  "bbox": [
+    -81.57326,
+    34.251144,
+    -81.57326,
+    34.251144
+],
   "geometry": {"coordinates":[-81.57326,34.251144],"type":"Point"}
 }

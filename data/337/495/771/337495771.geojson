@@ -2,13 +2,14 @@
   "id": 337495771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.015757,33.998386,-81.015757,33.998386",
     "geom:latitude":33.998386,
     "geom:longitude":-81.015757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 Harden St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337495771,
-    "wof:lastmodified":1449027299,
+    "wof:lastmodified":1467082279,
     "wof:name":"Devine Kitchens & Baths",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-81.015757,33.998386,-81.015757,33.998386],
-  "geometry": {"coordinates":[-81.015757,33.998386],"type":"Point"}
+  "bbox": [
+    -81.015757,
+    33.998386,
+    -81.015757,
+    33.998386
+],
+  "geometry": {"coordinates":[-81.01575699999999,33.998386],"type":"Point"}
 }

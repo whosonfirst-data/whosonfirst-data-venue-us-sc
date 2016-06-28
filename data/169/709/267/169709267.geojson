@@ -2,13 +2,14 @@
   "id": 169709267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.720559,33.53931,-81.720559,33.53931",
     "geom:latitude":33.53931,
     "geom:longitude":-81.720559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Gin St",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":169709267,
-    "wof:lastmodified":1449033350,
+    "wof:lastmodified":1467082379,
     "wof:name":"Happy At Home Pet Sitting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.720559,33.53931,-81.720559,33.53931],
-  "geometry": {"coordinates":[-81.720559,33.53931],"type":"Point"}
+  "bbox": [
+    -81.720559,
+    33.53931,
+    -81.720559,
+    33.53931
+],
+  "geometry": {"coordinates":[-81.72055899999999,33.53931],"type":"Point"}
 }

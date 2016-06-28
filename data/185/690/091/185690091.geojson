@@ -2,13 +2,14 @@
   "id": 185690091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.011988,32.797658,-80.011988,32.797658",
     "geom:latitude":32.797658,
     "geom:longitude":-80.011988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Palmetto Park Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185690091,
-    "wof:lastmodified":1449007476,
+    "wof:lastmodified":1467082195,
     "wof:name":"Westover Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.011988,32.797658,-80.011988,32.797658],
+  "bbox": [
+    -80.011988,
+    32.797658,
+    -80.011988,
+    32.797658
+],
   "geometry": {"coordinates":[-80.011988,32.797658],"type":"Point"}
 }

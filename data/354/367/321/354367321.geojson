@@ -2,13 +2,14 @@
   "id": 354367321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.233382,33.289059,-81.233382,33.289059",
     "geom:latitude":33.289059,
     "geom:longitude":-81.233382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8448 State Hwy 70",
     "sg:city":"Blackville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354367321,
-    "wof:lastmodified":1449066952,
+    "wof:lastmodified":1467082438,
     "wof:name":"B J's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.233382,33.289059,-81.233382,33.289059],
-  "geometry": {"coordinates":[-81.233382,33.289059],"type":"Point"}
+  "bbox": [
+    -81.233382,
+    33.289059,
+    -81.233382,
+    33.289059
+],
+  "geometry": {"coordinates":[-81.23338200000001,33.289059],"type":"Point"}
 }

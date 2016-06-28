@@ -2,13 +2,14 @@
   "id": 354200207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.896152,35.019853,-81.896152,35.019853",
     "geom:latitude":35.019853,
     "geom:longitude":-81.896152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Sha Ln",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354200207,
-    "wof:lastmodified":1449066602,
+    "wof:lastmodified":1467082430,
     "wof:name":"Piedmont Convenience Inc",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.896152,35.019853,-81.896152,35.019853],
+  "bbox": [
+    -81.896152,
+    35.019853,
+    -81.896152,
+    35.019853
+],
   "geometry": {"coordinates":[-81.896152,35.019853],"type":"Point"}
 }

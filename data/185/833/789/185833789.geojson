@@ -2,13 +2,14 @@
   "id": 185833789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.965608,34.912428,-81.965608,34.912428",
     "geom:latitude":34.912428,
     "geom:longitude":-81.965608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Dudley Rd",
     "sg:city":"Roebuck",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185833789,
-    "wof:lastmodified":1449006805,
+    "wof:lastmodified":1467082185,
     "wof:name":"Particle Beam Tech",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-81.965608,34.912428,-81.965608,34.912428],
+  "bbox": [
+    -81.965608,
+    34.912428,
+    -81.965608,
+    34.912428
+],
   "geometry": {"coordinates":[-81.965608,34.912428],"type":"Point"}
 }

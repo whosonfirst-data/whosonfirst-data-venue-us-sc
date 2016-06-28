@@ -2,13 +2,14 @@
   "id": 186049541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.81607,34.172981,-79.81607,34.172981",
     "geom:latitude":34.172981,
     "geom:longitude":-79.81607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 S Santiago Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186049541,
-    "wof:lastmodified":1449051705,
+    "wof:lastmodified":1467082400,
     "wof:name":"Cox Real Estate Co",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.81607,34.172981,-79.81607,34.172981],
+  "bbox": [
+    -79.81607,
+    34.172981,
+    -79.81607,
+    34.172981
+],
   "geometry": {"coordinates":[-79.81607,34.172981],"type":"Point"}
 }

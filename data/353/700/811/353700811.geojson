@@ -2,13 +2,14 @@
   "id": 353700811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.015625,34.92256,-81.015625,34.92256",
     "geom:latitude":34.92256,
     "geom:longitude":-81.015625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"668 E White St",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353700811,
-    "wof:lastmodified":1449020584,
+    "wof:lastmodified":1467082257,
     "wof:name":"Orr's Used Furniture & Appls",
     "wof:parent_id":85833915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-81.015625,34.92256,-81.015625,34.92256],
+  "bbox": [
+    -81.015625,
+    34.92256,
+    -81.015625,
+    34.92256
+],
   "geometry": {"coordinates":[-81.015625,34.92256],"type":"Point"}
 }

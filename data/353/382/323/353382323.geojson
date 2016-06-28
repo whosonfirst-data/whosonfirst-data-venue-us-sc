@@ -2,13 +2,14 @@
   "id": 353382323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.144478,34.197367,-82.144478,34.197367",
     "geom:latitude":34.197367,
     "geom:longitude":-82.144478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N Ames St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353382323,
-    "wof:lastmodified":1449018943,
+    "wof:lastmodified":1467082224,
     "wof:name":"Excelsior Beauty Parlor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.144478,34.197367,-82.144478,34.197367],
-  "geometry": {"coordinates":[-82.144478,34.197367],"type":"Point"}
+  "bbox": [
+    -82.144478,
+    34.197367,
+    -82.144478,
+    34.197367
+],
+  "geometry": {"coordinates":[-82.14447800000001,34.197367],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370166705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.316484,34.852292,-82.316484,34.852292",
     "geom:latitude":34.852292,
     "geom:longitude":-82.316484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Windstone Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370166705,
-    "wof:lastmodified":1449030961,
+    "wof:lastmodified":1467082340,
     "wof:name":"Scheiner & Co Interiors",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-82.316484,34.852292,-82.316484,34.852292],
+  "bbox": [
+    -82.316484,
+    34.852292,
+    -82.316484,
+    34.852292
+],
   "geometry": {"coordinates":[-82.316484,34.852292],"type":"Point"}
 }

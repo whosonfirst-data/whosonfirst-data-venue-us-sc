@@ -2,13 +2,14 @@
   "id": 186024085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.95964,35.043178,-80.95964,35.043178",
     "geom:latitude":35.043178,
     "geom:longitude":-80.95964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2467 Coltharp Rd",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186024085,
-    "wof:lastmodified":1449051668,
+    "wof:lastmodified":1467082399,
     "wof:name":"AME Inc",
     "wof:parent_id":85839383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.95964,35.043178,-80.95964,35.043178],
-  "geometry": {"coordinates":[-80.95964,35.043178],"type":"Point"}
+  "bbox": [
+    -80.95964,
+    35.043178,
+    -80.95964,
+    35.043178
+],
+  "geometry": {"coordinates":[-80.95963999999999,35.043178],"type":"Point"}
 }

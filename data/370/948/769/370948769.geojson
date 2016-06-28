@@ -2,13 +2,14 @@
   "id": 370948769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.241448,34.694166,-82.241448,34.694166",
     "geom:latitude":34.694166,
     "geom:longitude":-82.241448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Southchase Blvd",
     "sg:city":"Fountain Inn",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":370948769,
-    "wof:lastmodified":1449031780,
+    "wof:lastmodified":1467082358,
     "wof:name":"Stueken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stamping"
     ]
 },
-  "bbox": [-82.241448,34.694166,-82.241448,34.694166],
-  "geometry": {"coordinates":[-82.241448,34.694166],"type":"Point"}
+  "bbox": [
+    -82.241448,
+    34.694166,
+    -82.241448,
+    34.694166
+],
+  "geometry": {"coordinates":[-82.24144800000001,34.694166],"type":"Point"}
 }

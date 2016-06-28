@@ -2,13 +2,14 @@
   "id": 370805897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.078473,32.285083,-81.078473,32.285083",
     "geom:latitude":32.285083,
     "geom:longitude":-81.078473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Main St",
     "sg:city":"Hardeeville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370805897,
-    "wof:lastmodified":1449030229,
+    "wof:lastmodified":1467082323,
     "wof:name":"Hargray",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-81.078473,32.285083,-81.078473,32.285083],
+  "bbox": [
+    -81.078473,
+    32.285083,
+    -81.078473,
+    32.285083
+],
   "geometry": {"coordinates":[-81.078473,32.285083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186108927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.035008,32.856406,-80.035008,32.856406",
     "geom:latitude":32.856406,
     "geom:longitude":-80.035008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5095 Dorchester Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186108927,
-    "wof:lastmodified":1449050310,
+    "wof:lastmodified":1467082389,
     "wof:name":"Cannon's Auto Electric",
     "wof:parent_id":85805727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.035008,32.856406,-80.035008,32.856406],
+  "bbox": [
+    -80.035008,
+    32.856406,
+    -80.035008,
+    32.856406
+],
   "geometry": {"coordinates":[-80.035008,32.856406],"type":"Point"}
 }

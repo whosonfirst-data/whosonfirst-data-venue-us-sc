@@ -2,13 +2,14 @@
   "id": 370303841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.058762,33.666041,-79.058762,33.666041",
     "geom:latitude":33.666041,
     "geom:longitude":-79.058762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6924 Bay Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370303841,
-    "wof:lastmodified":1449029096,
+    "wof:lastmodified":1467082298,
     "wof:name":"DEP & W Inc",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-79.058762,33.666041,-79.058762,33.666041],
+  "bbox": [
+    -79.058762,
+    33.666041,
+    -79.058762,
+    33.666041
+],
   "geometry": {"coordinates":[-79.058762,33.666041],"type":"Point"}
 }

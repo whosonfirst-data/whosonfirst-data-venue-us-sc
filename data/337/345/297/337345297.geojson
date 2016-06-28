@@ -2,13 +2,14 @@
   "id": 337345297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.193886,34.17394,-82.193886,34.17394",
     "geom:latitude":34.17394,
     "geom:longitude":-82.193886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Tranquil Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337345297,
-    "wof:lastmodified":1449027671,
+    "wof:lastmodified":1467082292,
     "wof:name":"C M Greenes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.193886,34.17394,-82.193886,34.17394],
-  "geometry": {"coordinates":[-82.193886,34.17394],"type":"Point"}
+  "bbox": [
+    -82.193886,
+    34.17394,
+    -82.193886,
+    34.17394
+],
+  "geometry": {"coordinates":[-82.19388600000001,34.17394],"type":"Point"}
 }

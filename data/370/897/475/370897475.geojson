@@ -2,13 +2,14 @@
   "id": 370897475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.77903,34.184928,-80.77903,34.184928",
     "geom:latitude":34.184928,
     "geom:longitude":-80.77903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1554 Chestnut Rd",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370897475,
-    "wof:lastmodified":1449031918,
+    "wof:lastmodified":1467082361,
     "wof:name":"Kelly's Sam Automotive",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.77903,34.184928,-80.77903,34.184928],
-  "geometry": {"coordinates":[-80.77903,34.184928],"type":"Point"}
+  "bbox": [
+    -80.77903,
+    34.184928,
+    -80.77903,
+    34.184928
+],
+  "geometry": {"coordinates":[-80.77903000000001,34.184928],"type":"Point"}
 }

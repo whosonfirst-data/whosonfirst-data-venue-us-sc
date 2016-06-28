@@ -2,13 +2,14 @@
   "id": 354155261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.012049,32.786517,-80.012049,32.786517",
     "geom:latitude":32.786517,
     "geom:longitude":-80.012049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1621 Savannah Hwy",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354155261,
-    "wof:lastmodified":1449067341,
+    "wof:lastmodified":1467082447,
     "wof:name":"Harold Arnold's Sentry Buick",
     "wof:parent_id":85846627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.012049,32.786517,-80.012049,32.786517],
+  "bbox": [
+    -80.012049,
+    32.786517,
+    -80.012049,
+    32.786517
+],
   "geometry": {"coordinates":[-80.012049,32.786517],"type":"Point"}
 }

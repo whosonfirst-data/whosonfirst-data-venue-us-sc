@@ -2,13 +2,14 @@
   "id": 353579883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.751435,32.175264,-80.751435,32.175264",
     "geom:latitude":32.175264,
     "geom:longitude":-80.751435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 McKays Point Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353579883,
-    "wof:lastmodified":1449019073,
+    "wof:lastmodified":1467082226,
     "wof:name":"Carol's Kitchen",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-80.751435,32.175264,-80.751435,32.175264],
+  "bbox": [
+    -80.751435,
+    32.175264,
+    -80.751435,
+    32.175264
+],
   "geometry": {"coordinates":[-80.751435,32.175264],"type":"Point"}
 }

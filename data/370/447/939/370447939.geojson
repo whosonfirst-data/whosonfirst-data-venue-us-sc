@@ -2,13 +2,14 @@
   "id": 370447939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.748098,32.215732,-80.748098,32.215732",
     "geom:latitude":32.215732,
     "geom:longitude":-80.748098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 William Hilton Pkwy",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370447939,
-    "wof:lastmodified":1449031470,
+    "wof:lastmodified":1467082351,
     "wof:name":"Hilton Head Childhood Ctr",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-80.748098,32.215732,-80.748098,32.215732],
+  "bbox": [
+    -80.748098,
+    32.215732,
+    -80.748098,
+    32.215732
+],
   "geometry": {"coordinates":[-80.748098,32.215732],"type":"Point"}
 }

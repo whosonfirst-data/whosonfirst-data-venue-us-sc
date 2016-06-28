@@ -2,13 +2,14 @@
   "id": 353534179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.835816,33.742825,-78.835816,33.742825",
     "geom:latitude":33.742825,
     "geom:longitude":-78.835816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Duncan Ave",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353534179,
-    "wof:lastmodified":1449018924,
+    "wof:lastmodified":1467082223,
     "wof:name":"Air Cond-Electric & Refrig Svc",
     "wof:parent_id":85825231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pump"
     ]
 },
-  "bbox": [-78.835816,33.742825,-78.835816,33.742825],
-  "geometry": {"coordinates":[-78.835816,33.742825],"type":"Point"}
+  "bbox": [
+    -78.835816,
+    33.742825,
+    -78.835816,
+    33.742825
+],
+  "geometry": {"coordinates":[-78.83581599999999,33.742825],"type":"Point"}
 }

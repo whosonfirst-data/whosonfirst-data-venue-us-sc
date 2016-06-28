@@ -2,13 +2,14 @@
   "id": 370480337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.741452,33.846397,-78.741452,33.846397",
     "geom:latitude":33.846397,
     "geom:longitude":-78.741452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2798 Water Tower Rd",
     "sg:city":"Longs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370480337,
-    "wof:lastmodified":1449030198,
+    "wof:lastmodified":1467082323,
     "wof:name":"Applied Electronics",
     "wof:parent_id":85852275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.741452,33.846397,-78.741452,33.846397],
+  "bbox": [
+    -78.741452,
+    33.846397,
+    -78.741452,
+    33.846397
+],
   "geometry": {"coordinates":[-78.741452,33.846397],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186201103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.225984,33.941556,-81.225984,33.941556",
     "geom:latitude":33.941556,
     "geom:longitude":-81.225984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Community Dr",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186201103,
-    "wof:lastmodified":1449052657,
+    "wof:lastmodified":1467082409,
     "wof:name":"Westfield Gardens Apartments",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.225984,33.941556,-81.225984,33.941556],
+  "bbox": [
+    -81.225984,
+    33.941556,
+    -81.225984,
+    33.941556
+],
   "geometry": {"coordinates":[-81.225984,33.941556],"type":"Point"}
 }

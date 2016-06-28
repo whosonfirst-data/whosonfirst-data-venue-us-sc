@@ -2,13 +2,14 @@
   "id": 370237803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.039013,34.041032,-81.039013,34.041032",
     "geom:latitude":34.041032,
     "geom:longitude":-81.039013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4110 N Main St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370237803,
-    "wof:lastmodified":1449029151,
+    "wof:lastmodified":1467082300,
     "wof:name":"Base Optical Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "optician"
     ]
 },
-  "bbox": [-81.039013,34.041032,-81.039013,34.041032],
+  "bbox": [
+    -81.039013,
+    34.041032,
+    -81.039013,
+    34.041032
+],
   "geometry": {"coordinates":[-81.039013,34.041032],"type":"Point"}
 }

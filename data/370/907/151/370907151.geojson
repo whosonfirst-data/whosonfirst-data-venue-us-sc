@@ -2,13 +2,14 @@
   "id": 370907151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.600968,34.309507,-81.600968,34.309507",
     "geom:latitude":34.309507,
     "geom:longitude":-81.600968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Odell Rd",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370907151,
-    "wof:lastmodified":1449032209,
+    "wof:lastmodified":1467082367,
     "wof:name":"Sanders Machine & Welding Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.600968,34.309507,-81.600968,34.309507],
-  "geometry": {"coordinates":[-81.600968,34.309507],"type":"Point"}
+  "bbox": [
+    -81.600968,
+    34.309507,
+    -81.600968,
+    34.309507
+],
+  "geometry": {"coordinates":[-81.60096799999999,34.309507],"type":"Point"}
 }

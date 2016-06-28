@@ -2,13 +2,14 @@
   "id": 370738119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.254486,34.134656,-81.254486,34.134656",
     "geom:latitude":34.134656,
     "geom:longitude":-81.254486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1779 Dutch Fork Rd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370738119,
-    "wof:lastmodified":1449031572,
+    "wof:lastmodified":1467082353,
     "wof:name":"Dutch Fork Animal Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.254486,34.134656,-81.254486,34.134656],
+  "bbox": [
+    -81.254486,
+    34.134656,
+    -81.254486,
+    34.134656
+],
   "geometry": {"coordinates":[-81.254486,34.134656],"type":"Point"}
 }

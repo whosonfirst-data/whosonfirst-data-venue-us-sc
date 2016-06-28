@@ -2,13 +2,14 @@
   "id": 186214997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.863001,33.508703,-80.863001,33.508703",
     "geom:latitude":33.508703,
     "geom:longitude":-80.863001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1184 Orangeburg Mall Cir",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186214997,
-    "wof:lastmodified":1449052952,
+    "wof:lastmodified":1467082412,
     "wof:name":"South Carolina Nephrology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.863001,33.508703,-80.863001,33.508703],
+  "bbox": [
+    -80.863001,
+    33.508703,
+    -80.863001,
+    33.508703
+],
   "geometry": {"coordinates":[-80.863001,33.508703],"type":"Point"}
 }

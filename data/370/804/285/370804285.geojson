@@ -2,13 +2,14 @@
   "id": 370804285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.973717,33.626722,-78.973717,33.626722",
     "geom:latitude":33.626722,
     "geom:longitude":-78.973717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 Deer Creek Rd",
     "sg:city":"Surfside Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370804285,
-    "wof:lastmodified":1449031436,
+    "wof:lastmodified":1467082350,
     "wof:name":"Deercreek Administration",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-78.973717,33.626722,-78.973717,33.626722],
-  "geometry": {"coordinates":[-78.973717,33.626722],"type":"Point"}
+  "bbox": [
+    -78.973717,
+    33.626722,
+    -78.973717,
+    33.626722
+],
+  "geometry": {"coordinates":[-78.97371699999999,33.626722],"type":"Point"}
 }

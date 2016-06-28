@@ -2,13 +2,14 @@
   "id": 185841767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.397018,34.190498,-79.397018,34.190498",
     "geom:latitude":34.190498,
     "geom:longitude":-79.397018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 Lombardy St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185841767,
-    "wof:lastmodified":1449006953,
+    "wof:lastmodified":1467082187,
     "wof:name":"Baxley Built",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.397018,34.190498,-79.397018,34.190498],
+  "bbox": [
+    -79.397018,
+    34.190498,
+    -79.397018,
+    34.190498
+],
   "geometry": {"coordinates":[-79.397018,34.190498],"type":"Point"}
 }

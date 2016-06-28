@@ -2,13 +2,14 @@
   "id": 353855589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.541601,33.897328,-81.541601,33.897328",
     "geom:latitude":33.897328,
     "geom:longitude":-81.541601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Willis St",
     "sg:city":"Batesburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353855589,
-    "wof:lastmodified":1449020124,
+    "wof:lastmodified":1467082248,
     "wof:name":"Creek View Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.541601,33.897328,-81.541601,33.897328],
+  "bbox": [
+    -81.541601,
+    33.897328,
+    -81.541601,
+    33.897328
+],
   "geometry": {"coordinates":[-81.541601,33.897328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186052507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.007303,32.820528,-80.007303,32.820528",
     "geom:latitude":32.820528,
     "geom:longitude":-80.007303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1822 Wilshire Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186052507,
-    "wof:lastmodified":1449051584,
+    "wof:lastmodified":1467082399,
     "wof:name":"Fat Cat Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-80.007303,32.820528,-80.007303,32.820528],
-  "geometry": {"coordinates":[-80.007303,32.820528],"type":"Point"}
+  "bbox": [
+    -80.007303,
+    32.820528,
+    -80.007303,
+    32.820528
+],
+  "geometry": {"coordinates":[-80.00730299999999,32.820528],"type":"Point"}
 }

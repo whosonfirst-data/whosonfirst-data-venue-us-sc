@@ -2,13 +2,14 @@
   "id": 353504805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.006794,34.509109,-82.006794,34.509109",
     "geom:latitude":34.509109,
     "geom:longitude":-82.006794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"659 N Harper St",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353504805,
-    "wof:lastmodified":1449018691,
+    "wof:lastmodified":1467082218,
     "wof:name":"Davis Business Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.006794,34.509109,-82.006794,34.509109],
+  "bbox": [
+    -82.006794,
+    34.509109,
+    -82.006794,
+    34.509109
+],
   "geometry": {"coordinates":[-82.006794,34.509109],"type":"Point"}
 }

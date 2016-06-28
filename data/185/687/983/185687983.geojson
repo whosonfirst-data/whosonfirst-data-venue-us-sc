@@ -2,13 +2,14 @@
   "id": 185687983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.314937,34.776402,-82.314937,34.776402",
     "geom:latitude":34.776402,
     "geom:longitude":-82.314937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 W Butler Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185687983,
-    "wof:lastmodified":1449007057,
+    "wof:lastmodified":1467082189,
     "wof:name":"North Hills Medical Ctr",
     "wof:parent_id":85806237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.314937,34.776402,-82.314937,34.776402],
+  "bbox": [
+    -82.314937,
+    34.776402,
+    -82.314937,
+    34.776402
+],
   "geometry": {"coordinates":[-82.314937,34.776402],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370365331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.93449,33.716814,-78.93449,33.716814",
     "geom:latitude":33.716814,
     "geom:longitude":-78.93449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 George Bishop Pkwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370365331,
-    "wof:lastmodified":1449029629,
+    "wof:lastmodified":1467082310,
     "wof:name":"Waterway Maintenance Inc",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.93449,33.716814,-78.93449,33.716814],
+  "bbox": [
+    -78.93449,
+    33.716814,
+    -78.93449,
+    33.716814
+],
   "geometry": {"coordinates":[-78.93449,33.716814],"type":"Point"}
 }

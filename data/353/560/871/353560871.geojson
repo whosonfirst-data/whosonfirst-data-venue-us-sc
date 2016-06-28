@@ -2,13 +2,14 @@
   "id": 353560871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.729418,32.250486,-80.729418,32.250486",
     "geom:latitude":32.250486,
     "geom:longitude":-80.729418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Seabrook Dr",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353560871,
-    "wof:lastmodified":1449020209,
+    "wof:lastmodified":1467082250,
     "wof:name":"Spring Lake Racquet Club",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "court"
     ]
 },
-  "bbox": [-80.729418,32.250486,-80.729418,32.250486],
+  "bbox": [
+    -80.729418,
+    32.250486,
+    -80.729418,
+    32.250486
+],
   "geometry": {"coordinates":[-80.729418,32.250486],"type":"Point"}
 }

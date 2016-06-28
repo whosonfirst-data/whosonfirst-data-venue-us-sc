@@ -2,13 +2,14 @@
   "id": 186299581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.809778,32.77746,-79.809778,32.77746",
     "geom:latitude":32.77746,
     "geom:longitude":-79.809778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Palm Blvd",
     "sg:city":"Isle Of Palms",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186299581,
-    "wof:lastmodified":1449051077,
+    "wof:lastmodified":1467082394,
     "wof:name":"Laureate Capital LLC",
     "wof:parent_id":85819989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "closed"
     ]
 },
-  "bbox": [-79.809778,32.77746,-79.809778,32.77746],
-  "geometry": {"coordinates":[-79.809778,32.77746],"type":"Point"}
+  "bbox": [
+    -79.809778,
+    32.77746,
+    -79.809778,
+    32.77746
+],
+  "geometry": {"coordinates":[-79.80977799999999,32.77746],"type":"Point"}
 }

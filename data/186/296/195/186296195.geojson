@@ -2,13 +2,14 @@
   "id": 186296195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.023692,34.028238,-81.023692,34.028238",
     "geom:latitude":34.028238,
     "geom:longitude":-81.023692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3033 Howell Ct",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186296195,
-    "wof:lastmodified":1449052513,
+    "wof:lastmodified":1467082408,
     "wof:name":"Mallard Apartments",
     "wof:parent_id":85805491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.023692,34.028238,-81.023692,34.028238],
+  "bbox": [
+    -81.023692,
+    34.028238,
+    -81.023692,
+    34.028238
+],
   "geometry": {"coordinates":[-81.023692,34.028238],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185901043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.387559,34.851518,-82.387559,34.851518",
     "geom:latitude":34.851518,
     "geom:longitude":-82.387559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Whitsett St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185901043,
-    "wof:lastmodified":1449007279,
+    "wof:lastmodified":1467082193,
     "wof:name":"J Terry Laws",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.387559,34.851518,-82.387559,34.851518],
+  "bbox": [
+    -82.387559,
+    34.851518,
+    -82.387559,
+    34.851518
+],
   "geometry": {"coordinates":[-82.387559,34.851518],"type":"Point"}
 }

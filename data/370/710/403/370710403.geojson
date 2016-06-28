@@ -2,13 +2,14 @@
   "id": 370710403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.713938,32.172468,-80.713938,32.172468",
     "geom:latitude":32.172468,
     "geom:longitude":-80.713938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Mooring Buoy",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370710403,
-    "wof:lastmodified":1449029291,
+    "wof:lastmodified":1467082303,
     "wof:name":"Numismatic Consultants",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.713938,32.172468,-80.713938,32.172468],
+  "bbox": [
+    -80.713938,
+    32.172468,
+    -80.713938,
+    32.172468
+],
   "geometry": {"coordinates":[-80.713938,32.172468],"type":"Point"}
 }

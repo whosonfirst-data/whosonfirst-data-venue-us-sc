@@ -2,13 +2,14 @@
   "id": 370505753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.991699,33.496228,-80.991699,33.496228",
     "geom:latitude":33.496228,
     "geom:longitude":-80.991699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Beason Rd",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370505753,
-    "wof:lastmodified":1449031906,
+    "wof:lastmodified":1467082361,
     "wof:name":"Ironick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.991699,33.496228,-80.991699,33.496228],
+  "bbox": [
+    -80.991699,
+    33.496228,
+    -80.991699,
+    33.496228
+],
   "geometry": {"coordinates":[-80.991699,33.496228],"type":"Point"}
 }

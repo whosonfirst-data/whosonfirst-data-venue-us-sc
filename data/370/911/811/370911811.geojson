@@ -2,13 +2,14 @@
   "id": 370911811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.996574,33.808005,-78.996574,33.808005",
     "geom:latitude":33.808005,
     "geom:longitude":-78.996574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 Old Magnolia Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370911811,
-    "wof:lastmodified":1449031913,
+    "wof:lastmodified":1467082361,
     "wof:name":"Conway Plantation",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-78.996574,33.808005,-78.996574,33.808005],
+  "bbox": [
+    -78.996574,
+    33.808005,
+    -78.996574,
+    33.808005
+],
   "geometry": {"coordinates":[-78.996574,33.808005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353839353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.381669,33.950977,-80.381669,33.950977",
     "geom:latitude":33.950977,
     "geom:longitude":-80.381669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W Wesmark Blvd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353839353,
-    "wof:lastmodified":1449019812,
+    "wof:lastmodified":1467082241,
     "wof:name":"Wallpaper Gallery",
     "wof:parent_id":85816835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wallpaper"
     ]
 },
-  "bbox": [-80.381669,33.950977,-80.381669,33.950977],
+  "bbox": [
+    -80.381669,
+    33.950977,
+    -80.381669,
+    33.950977
+],
   "geometry": {"coordinates":[-80.381669,33.950977],"type":"Point"}
 }

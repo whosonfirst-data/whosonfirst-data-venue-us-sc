@@ -2,13 +2,14 @@
   "id": 370677601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.623122,33.897726,-79.623122,33.897726",
     "geom:latitude":33.897726,
     "geom:longitude":-79.623122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1996 US Hwy 378",
     "sg:city":"Pamplico",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370677601,
-    "wof:lastmodified":1449030305,
+    "wof:lastmodified":1467082325,
     "wof:name":"Stone Chapel Pentecostal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.623122,33.897726,-79.623122,33.897726],
+  "bbox": [
+    -79.623122,
+    33.897726,
+    -79.623122,
+    33.897726
+],
   "geometry": {"coordinates":[-79.623122,33.897726],"type":"Point"}
 }

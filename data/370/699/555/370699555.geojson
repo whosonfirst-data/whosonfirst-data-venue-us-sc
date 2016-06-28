@@ -2,13 +2,14 @@
   "id": 370699555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.626855,34.530149,-80.626855,34.530149",
     "geom:latitude":34.530149,
     "geom:longitude":-80.626855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1389 Kershaw Country Club Rd",
     "sg:city":"Kershaw",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370699555,
-    "wof:lastmodified":1449029562,
+    "wof:lastmodified":1467082308,
     "wof:name":"Scott Croxton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-80.626855,34.530149,-80.626855,34.530149],
-  "geometry": {"coordinates":[-80.626855,34.530149],"type":"Point"}
+  "bbox": [
+    -80.626855,
+    34.530149,
+    -80.626855,
+    34.530149
+],
+  "geometry": {"coordinates":[-80.62685500000001,34.530149],"type":"Point"}
 }

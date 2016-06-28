@@ -2,13 +2,14 @@
   "id": 370568671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.926998,33.659039,-78.926998,33.659039",
     "geom:latitude":33.659039,
     "geom:longitude":-78.926998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3205 US Hwy 17 Bus",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370568671,
-    "wof:lastmodified":1449028987,
+    "wof:lastmodified":1467082296,
     "wof:name":"Coastal Electronic",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "electronic"
     ]
 },
-  "bbox": [-78.926998,33.659039,-78.926998,33.659039],
+  "bbox": [
+    -78.926998,
+    33.659039,
+    -78.926998,
+    33.659039
+],
   "geometry": {"coordinates":[-78.926998,33.659039],"type":"Point"}
 }

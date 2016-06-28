@@ -2,13 +2,14 @@
   "id": 169735413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.003594,32.792728,-80.003594,32.792728",
     "geom:latitude":32.792728,
     "geom:longitude":-80.003594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"822 Wantoot Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169735413,
-    "wof:lastmodified":1449035889,
+    "wof:lastmodified":1467082387,
     "wof:name":"Edwards & Massey Brickwork",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.003594,32.792728,-80.003594,32.792728],
-  "geometry": {"coordinates":[-80.003594,32.792728],"type":"Point"}
+  "bbox": [
+    -80.003594,
+    32.792728,
+    -80.003594,
+    32.792728
+],
+  "geometry": {"coordinates":[-80.00359400000001,32.792728],"type":"Point"}
 }

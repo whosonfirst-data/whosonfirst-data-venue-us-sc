@@ -2,13 +2,14 @@
   "id": 370562295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.618322,34.705746,-81.618322,34.705746",
     "geom:latitude":34.705746,
     "geom:longitude":-81.618322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 S Pinckney St",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370562295,
-    "wof:lastmodified":1449030872,
+    "wof:lastmodified":1467082337,
     "wof:name":"Tabernacle Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.618322,34.705746,-81.618322,34.705746],
-  "geometry": {"coordinates":[-81.618322,34.705746],"type":"Point"}
+  "bbox": [
+    -81.618322,
+    34.705746,
+    -81.618322,
+    34.705746
+],
+  "geometry": {"coordinates":[-81.61832200000001,34.705746],"type":"Point"}
 }

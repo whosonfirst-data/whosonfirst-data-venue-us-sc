@@ -2,13 +2,14 @@
   "id": 185981663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.025779,34.111561,-81.025779,34.111561",
     "geom:latitude":34.111561,
     "geom:longitude":-81.025779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7629 Fairfield Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185981663,
-    "wof:lastmodified":1449008244,
+    "wof:lastmodified":1467082208,
     "wof:name":"Oak Hills Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [-81.025779,34.111561,-81.025779,34.111561],
+  "bbox": [
+    -81.025779,
+    34.111561,
+    -81.025779,
+    34.111561
+],
   "geometry": {"coordinates":[-81.025779,34.111561],"type":"Point"}
 }

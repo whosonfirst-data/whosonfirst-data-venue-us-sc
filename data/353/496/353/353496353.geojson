@@ -2,13 +2,14 @@
   "id": 353496353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.996173,34.948033,-81.996173,34.948033",
     "geom:latitude":34.948033,
     "geom:longitude":-81.996173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 W Blackstock Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353496353,
-    "wof:lastmodified":1449020433,
+    "wof:lastmodified":1467082254,
     "wof:name":"Vanguard Foursquare Church",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.996173,34.948033,-81.996173,34.948033],
+  "bbox": [
+    -81.996173,
+    34.948033,
+    -81.996173,
+    34.948033
+],
   "geometry": {"coordinates":[-81.996173,34.948033],"type":"Point"}
 }

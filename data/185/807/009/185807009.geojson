@@ -2,13 +2,14 @@
   "id": 185807009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.93528,33.718172,-78.93528,33.718172",
     "geom:latitude":33.718172,
     "geom:longitude":-78.93528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3856 Wesley St",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185807009,
-    "wof:lastmodified":1449007019,
+    "wof:lastmodified":1467082188,
     "wof:name":"Lansing Corporation Ted",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "exterior"
     ]
 },
-  "bbox": [-78.93528,33.718172,-78.93528,33.718172],
-  "geometry": {"coordinates":[-78.93528,33.718172],"type":"Point"}
+  "bbox": [
+    -78.93528,
+    33.718172,
+    -78.93528,
+    33.718172
+],
+  "geometry": {"coordinates":[-78.93528000000001,33.718172],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370771777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.966398,34.028211,-80.966398,34.028211",
     "geom:latitude":34.028211,
     "geom:longitude":-80.966398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Trenholm Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370771777,
-    "wof:lastmodified":1449030909,
+    "wof:lastmodified":1467082338,
     "wof:name":"CJP Realestate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.966398,34.028211,-80.966398,34.028211],
+  "bbox": [
+    -80.966398,
+    34.028211,
+    -80.966398,
+    34.028211
+],
   "geometry": {"coordinates":[-80.966398,34.028211],"type":"Point"}
 }

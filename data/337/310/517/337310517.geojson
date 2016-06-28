@@ -2,13 +2,14 @@
   "id": 337310517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.991675,32.887464,-79.991675,32.887464",
     "geom:latitude":32.887464,
     "geom:longitude":-79.991675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1413 Merrimac St",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337310517,
-    "wof:lastmodified":1449027453,
+    "wof:lastmodified":1467082284,
     "wof:name":"Mc Carley's Home Improvements",
     "wof:parent_id":85830427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-79.991675,32.887464,-79.991675,32.887464],
+  "bbox": [
+    -79.991675,
+    32.887464,
+    -79.991675,
+    32.887464
+],
   "geometry": {"coordinates":[-79.991675,32.887464],"type":"Point"}
 }

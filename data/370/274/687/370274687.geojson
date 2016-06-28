@@ -2,13 +2,14 @@
   "id": 370274687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.637981,35.042398,-81.637981,35.042398",
     "geom:latitude":35.042398,
     "geom:longitude":-81.637981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Union Hwy",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370274687,
-    "wof:lastmodified":1449029502,
+    "wof:lastmodified":1467082307,
     "wof:name":"Paris Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.637981,35.042398,-81.637981,35.042398],
+  "bbox": [
+    -81.637981,
+    35.042398,
+    -81.637981,
+    35.042398
+],
   "geometry": {"coordinates":[-81.637981,35.042398],"type":"Point"}
 }

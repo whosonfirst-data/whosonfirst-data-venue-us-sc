@@ -2,13 +2,14 @@
   "id": 185710243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.863404,34.723376,-82.863404,34.723376",
     "geom:latitude":34.723376,
     "geom:longitude":-82.863404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 Berkshire Dr",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185710243,
-    "wof:lastmodified":1449006694,
+    "wof:lastmodified":1467082183,
     "wof:name":"Molin Development Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-82.863404,34.723376,-82.863404,34.723376],
+  "bbox": [
+    -82.863404,
+    34.723376,
+    -82.863404,
+    34.723376
+],
   "geometry": {"coordinates":[-82.863404,34.723376],"type":"Point"}
 }

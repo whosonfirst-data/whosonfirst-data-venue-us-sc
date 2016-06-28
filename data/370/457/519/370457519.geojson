@@ -2,13 +2,14 @@
   "id": 370457519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.132207,33.896771,-81.132207,33.896771",
     "geom:latitude":33.896771,
     "geom:longitude":-81.132207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"927 Church St",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370457519,
-    "wof:lastmodified":1449031352,
+    "wof:lastmodified":1467082348,
     "wof:name":"Whetsell Tool & Die Co Inc",
     "wof:parent_id":85847855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "die"
     ]
 },
-  "bbox": [-81.132207,33.896771,-81.132207,33.896771],
-  "geometry": {"coordinates":[-81.132207,33.896771],"type":"Point"}
+  "bbox": [
+    -81.132207,
+    33.896771,
+    -81.132207,
+    33.896771
+],
+  "geometry": {"coordinates":[-81.13220699999999,33.896771],"type":"Point"}
 }

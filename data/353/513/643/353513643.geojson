@@ -2,13 +2,14 @@
   "id": 353513643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.989526,33.969667,-80.989526,33.969667",
     "geom:latitude":33.969667,
     "geom:longitude":-80.989526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 Ilex St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353513643,
-    "wof:lastmodified":1449019934,
+    "wof:lastmodified":1467082244,
     "wof:name":"C&T Contracting",
     "wof:parent_id":85846089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.989526,33.969667,-80.989526,33.969667],
+  "bbox": [
+    -80.989526,
+    33.969667,
+    -80.989526,
+    33.969667
+],
   "geometry": {"coordinates":[-80.989526,33.969667],"type":"Point"}
 }

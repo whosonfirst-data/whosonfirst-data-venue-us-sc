@@ -2,13 +2,14 @@
   "id": 185691101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.993697,34.016669,-80.993697,34.016669",
     "geom:latitude":34.016669,
     "geom:longitude":-80.993697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1576 Sunnyside Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185691101,
-    "wof:lastmodified":1449006738,
+    "wof:lastmodified":1467082184,
     "wof:name":"Fine & Fancy Interiors",
     "wof:parent_id":85819781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-80.993697,34.016669,-80.993697,34.016669],
+  "bbox": [
+    -80.993697,
+    34.016669,
+    -80.993697,
+    34.016669
+],
   "geometry": {"coordinates":[-80.993697,34.016669],"type":"Point"}
 }

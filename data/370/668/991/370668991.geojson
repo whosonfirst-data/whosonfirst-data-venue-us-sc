@@ -2,13 +2,14 @@
   "id": 370668991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.373108,34.821157,-82.373108,34.821157",
     "geom:latitude":34.821157,
     "geom:longitude":-82.373108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1376 Cleveland St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370668991,
-    "wof:lastmodified":1449031443,
+    "wof:lastmodified":1467082350,
     "wof:name":"Donald L Herndon DDS",
     "wof:parent_id":85809831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.373108,34.821157,-82.373108,34.821157],
+  "bbox": [
+    -82.373108,
+    34.821157,
+    -82.373108,
+    34.821157
+],
   "geometry": {"coordinates":[-82.373108,34.821157],"type":"Point"}
 }

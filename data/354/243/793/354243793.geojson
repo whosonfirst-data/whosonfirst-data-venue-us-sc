@@ -2,13 +2,14 @@
   "id": 354243793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.980089,32.880131,-79.980089,32.880131",
     "geom:latitude":32.880131,
     "geom:longitude":-79.980089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4710 Spruill Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354243793,
-    "wof:lastmodified":1449066470,
+    "wof:lastmodified":1467082427,
     "wof:name":"T & T Tool & Die Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "shop"
     ]
 },
-  "bbox": [-79.980089,32.880131,-79.980089,32.880131],
-  "geometry": {"coordinates":[-79.980089,32.880131],"type":"Point"}
+  "bbox": [
+    -79.980089,
+    32.880131,
+    -79.980089,
+    32.880131
+],
+  "geometry": {"coordinates":[-79.98008900000001,32.880131],"type":"Point"}
 }

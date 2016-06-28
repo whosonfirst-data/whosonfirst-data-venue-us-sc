@@ -2,13 +2,14 @@
   "id": 185808413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.131678,33.435429,-79.131678,33.435429",
     "geom:latitude":33.435429,
     "geom:longitude":-79.131678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Alston Rd",
     "sg:city":"Pawleys Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185808413,
-    "wof:lastmodified":1449006650,
+    "wof:lastmodified":1467082183,
     "wof:name":"Ruby's Beauty Shop",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.131678,33.435429,-79.131678,33.435429],
-  "geometry": {"coordinates":[-79.131678,33.435429],"type":"Point"}
+  "bbox": [
+    -79.131678,
+    33.435429,
+    -79.131678,
+    33.435429
+],
+  "geometry": {"coordinates":[-79.13167799999999,33.435429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185842833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.226329,33.913078,-81.226329,33.913078",
     "geom:latitude":33.913078,
     "geom:longitude":-81.226329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1856 S Lake Dr",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185842833,
-    "wof:lastmodified":1449006723,
+    "wof:lastmodified":1467082184,
     "wof:name":"Mark Rouse Insurance",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.226329,33.913078,-81.226329,33.913078],
-  "geometry": {"coordinates":[-81.226329,33.913078],"type":"Point"}
+  "bbox": [
+    -81.226329,
+    33.913078,
+    -81.226329,
+    33.913078
+],
+  "geometry": {"coordinates":[-81.22632900000001,33.913078],"type":"Point"}
 }

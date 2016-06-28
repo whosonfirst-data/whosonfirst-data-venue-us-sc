@@ -2,13 +2,14 @@
   "id": 353781041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.218857,33.640753,-81.218857,33.640753",
     "geom:latitude":33.640753,
     "geom:longitude":-81.218857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1061 Hollow Creek Rd",
     "sg:city":"Salley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353781041,
-    "wof:lastmodified":1449018730,
+    "wof:lastmodified":1467082219,
     "wof:name":"Hollow Creek Farm LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.218857,33.640753,-81.218857,33.640753],
+  "bbox": [
+    -81.218857,
+    33.640753,
+    -81.218857,
+    33.640753
+],
   "geometry": {"coordinates":[-81.218857,33.640753],"type":"Point"}
 }

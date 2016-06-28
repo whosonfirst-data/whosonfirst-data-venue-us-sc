@@ -2,13 +2,14 @@
   "id": 370790819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.832155,33.664698,-79.832155,33.664698",
     "geom:latitude":33.664698,
     "geom:longitude":-79.832155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N Jackson St",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370790819,
-    "wof:lastmodified":1449031693,
+    "wof:lastmodified":1467082356,
     "wof:name":"Burgess Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.832155,33.664698,-79.832155,33.664698],
+  "bbox": [
+    -79.832155,
+    33.664698,
+    -79.832155,
+    33.664698
+],
   "geometry": {"coordinates":[-79.832155,33.664698],"type":"Point"}
 }

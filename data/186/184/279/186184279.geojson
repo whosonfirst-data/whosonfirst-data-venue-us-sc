@@ -2,13 +2,14 @@
   "id": 186184279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.173504,33.972641,-81.173504,33.972641",
     "geom:latitude":33.972641,
     "geom:longitude":-81.173504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Two Notch Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186184279,
-    "wof:lastmodified":1449050867,
+    "wof:lastmodified":1467082392,
     "wof:name":"Netstar LLC",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.173504,33.972641,-81.173504,33.972641],
-  "geometry": {"coordinates":[-81.173504,33.972641],"type":"Point"}
+  "bbox": [
+    -81.173504,
+    33.972641,
+    -81.173504,
+    33.972641
+],
+  "geometry": {"coordinates":[-81.17350399999999,33.972641],"type":"Point"}
 }

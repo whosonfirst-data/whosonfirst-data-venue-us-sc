@@ -2,13 +2,14 @@
   "id": 354004945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.969996,34.057355,-80.969996,34.057355",
     "geom:latitude":34.057355,
     "geom:longitude":-80.969996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 Notch Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354004945,
-    "wof:lastmodified":1449066532,
+    "wof:lastmodified":1467082428,
     "wof:name":"Mc Daniels' Audi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.969996,34.057355,-80.969996,34.057355],
-  "geometry": {"coordinates":[-80.969996,34.057355],"type":"Point"}
+  "bbox": [
+    -80.969996,
+    34.057355,
+    -80.969996,
+    34.057355
+],
+  "geometry": {"coordinates":[-80.96999599999999,34.057355],"type":"Point"}
 }

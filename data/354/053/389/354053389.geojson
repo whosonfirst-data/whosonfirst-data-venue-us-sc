@@ -2,13 +2,14 @@
   "id": 354053389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.392036,33.311056,-80.392036,33.311056",
     "geom:latitude":33.311056,
     "geom:longitude":-80.392036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Big Oaks Dr",
     "sg:city":"Holly Hill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354053389,
-    "wof:lastmodified":1449066252,
+    "wof:lastmodified":1467082422,
     "wof:name":"Holly Hill Collection Site",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "collection"
     ]
 },
-  "bbox": [-80.392036,33.311056,-80.392036,33.311056],
+  "bbox": [
+    -80.392036,
+    33.311056,
+    -80.392036,
+    33.311056
+],
   "geometry": {"coordinates":[-80.392036,33.311056],"type":"Point"}
 }

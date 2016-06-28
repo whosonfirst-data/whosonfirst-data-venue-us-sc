@@ -2,13 +2,14 @@
   "id": 354138865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.264219,34.948268,-82.264219,34.948268",
     "geom:latitude":34.948268,
     "geom:longitude":-82.264219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 Locust Hill Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354138865,
-    "wof:lastmodified":1449066396,
+    "wof:lastmodified":1467082425,
     "wof:name":"Water Works Upstate Irrigation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.264219,34.948268,-82.264219,34.948268],
+  "bbox": [
+    -82.264219,
+    34.948268,
+    -82.264219,
+    34.948268
+],
   "geometry": {"coordinates":[-82.264219,34.948268],"type":"Point"}
 }

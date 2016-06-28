@@ -2,13 +2,14 @@
   "id": 186235577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.960601,33.727356,-78.960601,33.727356",
     "geom:latitude":33.727356,
     "geom:longitude":-78.960601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4212 Shipyard Walk Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186235577,
-    "wof:lastmodified":1449050879,
+    "wof:lastmodified":1467082393,
     "wof:name":"Hammock Realty LLC",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.960601,33.727356,-78.960601,33.727356],
+  "bbox": [
+    -78.960601,
+    33.727356,
+    -78.960601,
+    33.727356
+],
   "geometry": {"coordinates":[-78.960601,33.727356],"type":"Point"}
 }

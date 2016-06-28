@@ -2,13 +2,14 @@
   "id": 353579329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.022083,32.806289,-80.022083,32.806289",
     "geom:latitude":32.806289,
     "geom:longitude":-80.022083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Ashley River Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353579329,
-    "wof:lastmodified":1449019072,
+    "wof:lastmodified":1467082226,
     "wof:name":"Nester Group Properties",
     "wof:parent_id":85839787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.022083,32.806289,-80.022083,32.806289],
-  "geometry": {"coordinates":[-80.022083,32.806289],"type":"Point"}
+  "bbox": [
+    -80.022083,
+    32.806289,
+    -80.022083,
+    32.806289
+],
+  "geometry": {"coordinates":[-80.02208299999999,32.806289],"type":"Point"}
 }

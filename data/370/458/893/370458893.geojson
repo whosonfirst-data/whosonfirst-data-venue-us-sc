@@ -2,13 +2,14 @@
   "id": 370458893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.964542,34.653078,-81.964542,34.653078",
     "geom:latitude":34.653078,
     "geom:longitude":-81.964542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15879 US Hwy 221",
     "sg:city":"Enoree",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370458893,
-    "wof:lastmodified":1449031499,
+    "wof:lastmodified":1467082352,
     "wof:name":"Poole's Tree Expert Svc",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-81.964542,34.653078,-81.964542,34.653078],
-  "geometry": {"coordinates":[-81.964542,34.653078],"type":"Point"}
+  "bbox": [
+    -81.964542,
+    34.653078,
+    -81.964542,
+    34.653078
+],
+  "geometry": {"coordinates":[-81.96454199999999,34.653078],"type":"Point"}
 }

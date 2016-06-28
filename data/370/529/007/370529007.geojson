@@ -2,13 +2,14 @@
   "id": 370529007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.101288,34.73599,-80.101288,34.73599",
     "geom:latitude":34.73599,
     "geom:longitude":-80.101288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 Holly St",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370529007,
-    "wof:lastmodified":1449030573,
+    "wof:lastmodified":1467082331,
     "wof:name":"Holly Hill Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.101288,34.73599,-80.101288,34.73599],
+  "bbox": [
+    -80.101288,
+    34.73599,
+    -80.101288,
+    34.73599
+],
   "geometry": {"coordinates":[-80.101288,34.73599],"type":"Point"}
 }

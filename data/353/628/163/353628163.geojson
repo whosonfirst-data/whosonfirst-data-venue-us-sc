@@ -2,13 +2,14 @@
   "id": 353628163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.926502,34.70516,-82.926502,34.70516",
     "geom:latitude":34.70516,
     "geom:longitude":-82.926502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Keowee Trl",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353628163,
-    "wof:lastmodified":1449020342,
+    "wof:lastmodified":1467082252,
     "wof:name":"Keowee Sailing Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-82.926502,34.70516,-82.926502,34.70516],
+  "bbox": [
+    -82.926502,
+    34.70516,
+    -82.926502,
+    34.70516
+],
   "geometry": {"coordinates":[-82.926502,34.70516],"type":"Point"}
 }

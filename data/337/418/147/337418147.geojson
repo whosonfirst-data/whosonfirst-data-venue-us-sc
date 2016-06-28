@@ -2,13 +2,14 @@
   "id": 337418147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.938105,34.055239,-78.938105,34.055239",
     "geom:latitude":34.055239,
     "geom:longitude":-78.938105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2940 Live Oak Rd",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337418147,
-    "wof:lastmodified":1449027577,
+    "wof:lastmodified":1467082289,
     "wof:name":"Linda Shannon Upholstery",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-78.938105,34.055239,-78.938105,34.055239],
-  "geometry": {"coordinates":[-78.938105,34.055239],"type":"Point"}
+  "bbox": [
+    -78.938105,
+    34.055239,
+    -78.938105,
+    34.055239
+],
+  "geometry": {"coordinates":[-78.93810499999999,34.055239],"type":"Point"}
 }

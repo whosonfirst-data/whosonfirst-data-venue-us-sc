@@ -2,13 +2,14 @@
   "id": 185879775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.998521,34.947825,-80.998521,34.947825",
     "geom:latitude":34.947825,
     "geom:longitude":-80.998521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 N Anderson Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185879775,
-    "wof:lastmodified":1449006613,
+    "wof:lastmodified":1467082182,
     "wof:name":"Fisher Auto Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.998521,34.947825,-80.998521,34.947825],
+  "bbox": [
+    -80.998521,
+    34.947825,
+    -80.998521,
+    34.947825
+],
   "geometry": {"coordinates":[-80.998521,34.947825],"type":"Point"}
 }

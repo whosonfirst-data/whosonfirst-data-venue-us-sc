@@ -2,13 +2,14 @@
   "id": 353967191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.937285,34.947776,-81.937285,34.947776",
     "geom:latitude":34.947776,
     "geom:longitude":-81.937285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Saint John St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353967191,
-    "wof:lastmodified":1449020613,
+    "wof:lastmodified":1467082258,
     "wof:name":"Wakefield Buick Pontiac GMC",
     "wof:parent_id":85854631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.937285,34.947776,-81.937285,34.947776],
+  "bbox": [
+    -81.937285,
+    34.947776,
+    -81.937285,
+    34.947776
+],
   "geometry": {"coordinates":[-81.937285,34.947776],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370650805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.01056,34.026446,-81.01056,34.026446",
     "geom:latitude":34.026446,
     "geom:longitude":-81.01056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2414 Notch Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370650805,
-    "wof:lastmodified":1449031151,
+    "wof:lastmodified":1467082344,
     "wof:name":"A 1 Appl Self Svc & Repair",
     "wof:parent_id":85827291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-81.01056,34.026446,-81.01056,34.026446],
+  "bbox": [
+    -81.01056,
+    34.026446,
+    -81.01056,
+    34.026446
+],
   "geometry": {"coordinates":[-81.01056,34.026446],"type":"Point"}
 }

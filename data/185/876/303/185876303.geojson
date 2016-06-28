@@ -2,13 +2,14 @@
   "id": 185876303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.483008,34.616896,-82.483008,34.616896",
     "geom:latitude":34.616896,
     "geom:longitude":-82.483008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 W Main St",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185876303,
-    "wof:lastmodified":1449006939,
+    "wof:lastmodified":1467082187,
     "wof:name":"Bagwell Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.483008,34.616896,-82.483008,34.616896],
+  "bbox": [
+    -82.483008,
+    34.616896,
+    -82.483008,
+    34.616896
+],
   "geometry": {"coordinates":[-82.483008,34.616896],"type":"Point"}
 }

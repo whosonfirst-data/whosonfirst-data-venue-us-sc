@@ -2,13 +2,14 @@
   "id": 353603855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.85393,35.014565,-80.85393,35.014565",
     "geom:latitude":35.014565,
     "geom:longitude":-80.85393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3560 Sandra Ln",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353603855,
-    "wof:lastmodified":1449020426,
+    "wof:lastmodified":1467082254,
     "wof:name":"Carbucks Of Carolina Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-80.85393,35.014565,-80.85393,35.014565],
-  "geometry": {"coordinates":[-80.85393,35.014565],"type":"Point"}
+  "bbox": [
+    -80.85393,
+    35.014565,
+    -80.85393,
+    35.014565
+],
+  "geometry": {"coordinates":[-80.85393000000001,35.014565],"type":"Point"}
 }

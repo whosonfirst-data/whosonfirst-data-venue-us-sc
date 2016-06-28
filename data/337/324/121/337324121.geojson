@@ -2,13 +2,14 @@
   "id": 337324121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.822638,33.7411,-78.822638,33.7411",
     "geom:latitude":33.7411,
     "geom:longitude":-78.822638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 70th Ave N",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337324121,
-    "wof:lastmodified":1449027424,
+    "wof:lastmodified":1467082283,
     "wof:name":"Gregory Company Inc",
     "wof:parent_id":85809243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "prepaid"
     ]
 },
-  "bbox": [-78.822638,33.7411,-78.822638,33.7411],
+  "bbox": [
+    -78.822638,
+    33.7411,
+    -78.822638,
+    33.7411
+],
   "geometry": {"coordinates":[-78.822638,33.7411],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353653247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.895302,34.934394,-81.895302,34.934394",
     "geom:latitude":34.934394,
     "geom:longitude":-81.895302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2099 S Pine St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353653247,
-    "wof:lastmodified":1449018444,
+    "wof:lastmodified":1467082214,
     "wof:name":"Thomas & Garren Chiro Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.895302,34.934394,-81.895302,34.934394],
+  "bbox": [
+    -81.895302,
+    34.934394,
+    -81.895302,
+    34.934394
+],
   "geometry": {"coordinates":[-81.895302,34.934394],"type":"Point"}
 }

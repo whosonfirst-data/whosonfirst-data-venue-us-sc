@@ -2,13 +2,14 @@
   "id": 186096453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.23006,34.935734,-82.23006,34.935734",
     "geom:latitude":34.935734,
     "geom:longitude":-82.23006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 S Main St",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186096453,
-    "wof:lastmodified":1449051257,
+    "wof:lastmodified":1467082396,
     "wof:name":"Mt Airy Glass Co",
     "wof:parent_id":85853715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leaded"
     ]
 },
-  "bbox": [-82.23006,34.935734,-82.23006,34.935734],
-  "geometry": {"coordinates":[-82.23006,34.935734],"type":"Point"}
+  "bbox": [
+    -82.23006,
+    34.935734,
+    -82.23006,
+    34.935734
+],
+  "geometry": {"coordinates":[-82.23005999999999,34.935734],"type":"Point"}
 }

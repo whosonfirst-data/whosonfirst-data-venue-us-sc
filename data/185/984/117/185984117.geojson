@@ -2,13 +2,14 @@
   "id": 185984117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.091188,35.049531,-82.091188,35.049531",
     "geom:latitude":35.049531,
     "geom:longitude":-82.091188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 N Main St",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185984117,
-    "wof:lastmodified":1449007515,
+    "wof:lastmodified":1467082196,
     "wof:name":"Carolina Vision Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.091188,35.049531,-82.091188,35.049531],
+  "bbox": [
+    -82.091188,
+    35.049531,
+    -82.091188,
+    35.049531
+],
   "geometry": {"coordinates":[-82.091188,35.049531],"type":"Point"}
 }

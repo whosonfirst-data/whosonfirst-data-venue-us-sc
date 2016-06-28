@@ -2,13 +2,14 @@
   "id": 370272499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.685112,32.401311,-80.685112,32.401311",
     "geom:latitude":32.401311,
     "geom:longitude":-80.685112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1285 Ribaut Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370272499,
-    "wof:lastmodified":1449032229,
+    "wof:lastmodified":1467082368,
     "wof:name":"Beaufort Petals & Pots Florist",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.685112,32.401311,-80.685112,32.401311],
+  "bbox": [
+    -80.685112,
+    32.401311,
+    -80.685112,
+    32.401311
+],
   "geometry": {"coordinates":[-80.685112,32.401311],"type":"Point"}
 }

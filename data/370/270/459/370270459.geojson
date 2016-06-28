@@ -2,13 +2,14 @@
   "id": 370270459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.078707,34.012645,-81.078707,34.012645",
     "geom:latitude":34.012645,
     "geom:longitude":-81.078707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Candi Ln",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370270459,
-    "wof:lastmodified":1449029691,
+    "wof:lastmodified":1467082311,
     "wof:name":"Bob Capes Realtors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.078707,34.012645,-81.078707,34.012645],
-  "geometry": {"coordinates":[-81.078707,34.012645],"type":"Point"}
+  "bbox": [
+    -81.078707,
+    34.012645,
+    -81.078707,
+    34.012645
+],
+  "geometry": {"coordinates":[-81.07870699999999,34.012645],"type":"Point"}
 }

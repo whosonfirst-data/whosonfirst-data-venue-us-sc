@@ -2,13 +2,14 @@
   "id": 370278543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.11298,33.461971,-79.11298,33.461971",
     "geom:latitude":33.461971,
     "geom:longitude":-79.11298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"257 Baskerville Dr",
     "sg:city":"Pawleys Island",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370278543,
-    "wof:lastmodified":1449030938,
+    "wof:lastmodified":1467082339,
     "wof:name":"St Elizabeth Place",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-79.11298,33.461971,-79.11298,33.461971],
-  "geometry": {"coordinates":[-79.11298,33.461971],"type":"Point"}
+  "bbox": [
+    -79.11298,
+    33.461971,
+    -79.11298,
+    33.461971
+],
+  "geometry": {"coordinates":[-79.11297999999999,33.461971],"type":"Point"}
 }

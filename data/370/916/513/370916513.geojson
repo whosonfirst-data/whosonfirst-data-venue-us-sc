@@ -2,13 +2,14 @@
   "id": 370916513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.24641,34.219619,-80.24641,34.219619",
     "geom:latitude":34.219619,
     "geom:longitude":-80.24641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 N Main St",
     "sg:city":"Bishopville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370916513,
-    "wof:lastmodified":1449030923,
+    "wof:lastmodified":1467082339,
     "wof:name":"Lee County Observer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-80.24641,34.219619,-80.24641,34.219619],
+  "bbox": [
+    -80.24641,
+    34.219619,
+    -80.24641,
+    34.219619
+],
   "geometry": {"coordinates":[-80.24641,34.219619],"type":"Point"}
 }

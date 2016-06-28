@@ -2,13 +2,14 @@
   "id": 354345013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.400201,34.18201,-79.400201,34.18201",
     "geom:latitude":34.18201,
     "geom:longitude":-79.400201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 N Main St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354345013,
-    "wof:lastmodified":1449067536,
+    "wof:lastmodified":1467082451,
     "wof:name":"Marion Antique Mall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.400201,34.18201,-79.400201,34.18201],
+  "bbox": [
+    -79.400201,
+    34.18201,
+    -79.400201,
+    34.18201
+],
   "geometry": {"coordinates":[-79.400201,34.18201],"type":"Point"}
 }

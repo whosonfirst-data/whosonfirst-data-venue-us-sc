@@ -2,13 +2,14 @@
   "id": 169818611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.309823,34.778656,-82.309823,34.778656",
     "geom:latitude":34.778656,
     "geom:longitude":-82.309823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 E Butler Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169818611,
-    "wof:lastmodified":1449034286,
+    "wof:lastmodified":1467082383,
     "wof:name":"Red's Barber Shop",
     "wof:parent_id":85806237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.309823,34.778656,-82.309823,34.778656],
-  "geometry": {"coordinates":[-82.309823,34.778656],"type":"Point"}
+  "bbox": [
+    -82.309823,
+    34.778656,
+    -82.309823,
+    34.778656
+],
+  "geometry": {"coordinates":[-82.30982299999999,34.778656],"type":"Point"}
 }

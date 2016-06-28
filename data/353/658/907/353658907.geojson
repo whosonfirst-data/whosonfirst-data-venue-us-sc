@@ -2,13 +2,14 @@
   "id": 353658907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.622136,34.818405,-82.622136,34.818405",
     "geom:latitude":34.818405,
     "geom:longitude":-82.622136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Liberty Dr",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353658907,
-    "wof:lastmodified":1449018198,
+    "wof:lastmodified":1467082208,
     "wof:name":"Southern Graphics",
     "wof:parent_id":85832619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-82.622136,34.818405,-82.622136,34.818405],
+  "bbox": [
+    -82.622136,
+    34.818405,
+    -82.622136,
+    34.818405
+],
   "geometry": {"coordinates":[-82.622136,34.818405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370633391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.016759,34.061117,-81.016759,34.061117",
     "geom:latitude":34.061117,
     "geom:longitude":-81.016759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 Prescott Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370633391,
-    "wof:lastmodified":1449032438,
+    "wof:lastmodified":1467082373,
     "wof:name":"Middleton's Painting & Special",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-81.016759,34.061117,-81.016759,34.061117],
-  "geometry": {"coordinates":[-81.016759,34.061117],"type":"Point"}
+  "bbox": [
+    -81.016759,
+    34.061117,
+    -81.016759,
+    34.061117
+],
+  "geometry": {"coordinates":[-81.01675899999999,34.061117],"type":"Point"}
 }

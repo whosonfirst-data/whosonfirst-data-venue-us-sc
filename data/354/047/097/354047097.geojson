@@ -2,13 +2,14 @@
   "id": 354047097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.15295,34.125252,-81.15295,34.125252",
     "geom:latitude":34.125252,
     "geom:longitude":-81.15295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1757 Lost Creek Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354047097,
-    "wof:lastmodified":1449067064,
+    "wof:lastmodified":1467082440,
     "wof:name":"Mitten Construction LLC",
     "wof:parent_id":85831475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-81.15295,34.125252,-81.15295,34.125252],
+  "bbox": [
+    -81.15295,
+    34.125252,
+    -81.15295,
+    34.125252
+],
   "geometry": {"coordinates":[-81.15295,34.125252],"type":"Point"}
 }

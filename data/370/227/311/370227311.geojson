@@ -2,13 +2,14 @@
   "id": 370227311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.999715,32.96792,-79.999715,32.96792",
     "geom:latitude":32.96792,
     "geom:longitude":-79.999715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1661 Red Bank Rd",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370227311,
-    "wof:lastmodified":1449029838,
+    "wof:lastmodified":1467082315,
     "wof:name":"City Colleges Of Chicago",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "school"
     ]
 },
-  "bbox": [-79.999715,32.96792,-79.999715,32.96792],
-  "geometry": {"coordinates":[-79.999715,32.96792],"type":"Point"}
+  "bbox": [
+    -79.999715,
+    32.96792,
+    -79.999715,
+    32.96792
+],
+  "geometry": {"coordinates":[-79.99971499999999,32.96792],"type":"Point"}
 }

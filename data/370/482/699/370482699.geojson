@@ -2,13 +2,14 @@
   "id": 370482699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.475838,34.51129,-80.475838,34.51129",
     "geom:latitude":34.51129,
     "geom:longitude":-80.475838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4363 Mount Pisgah Rd",
     "sg:city":"Kershaw",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370482699,
-    "wof:lastmodified":1449030291,
+    "wof:lastmodified":1467082325,
     "wof:name":"Brown Price Poultry Farm",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "egg"
     ]
 },
-  "bbox": [-80.475838,34.51129,-80.475838,34.51129],
+  "bbox": [
+    -80.475838,
+    34.51129,
+    -80.475838,
+    34.51129
+],
   "geometry": {"coordinates":[-80.475838,34.51129],"type":"Point"}
 }

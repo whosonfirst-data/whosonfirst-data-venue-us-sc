@@ -2,13 +2,14 @@
   "id": 353932493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.810914,34.690087,-80.810914,34.690087",
     "geom:latitude":34.690087,
     "geom:longitude":-80.810914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1298 Grace Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353932493,
-    "wof:lastmodified":1449019208,
+    "wof:lastmodified":1467082229,
     "wof:name":"Thompson's Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.810914,34.690087,-80.810914,34.690087],
+  "bbox": [
+    -80.810914,
+    34.690087,
+    -80.810914,
+    34.690087
+],
   "geometry": {"coordinates":[-80.810914,34.690087],"type":"Point"}
 }

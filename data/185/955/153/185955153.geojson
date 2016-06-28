@@ -2,13 +2,14 @@
   "id": 185955153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.134939,34.213904,-82.134939,34.213904",
     "geom:latitude":34.213904,
     "geom:longitude":-82.134939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1631 US Hwy 221",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185955153,
-    "wof:lastmodified":1449007706,
+    "wof:lastmodified":1467082199,
     "wof:name":"Vernon's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.134939,34.213904,-82.134939,34.213904],
+  "bbox": [
+    -82.134939,
+    34.213904,
+    -82.134939,
+    34.213904
+],
   "geometry": {"coordinates":[-82.134939,34.213904],"type":"Point"}
 }

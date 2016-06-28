@@ -2,13 +2,14 @@
   "id": 337492103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.925886,34.947527,-81.925886,34.947527",
     "geom:latitude":34.947527,
     "geom:longitude":-81.925886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 E Henry St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337492103,
-    "wof:lastmodified":1449026934,
+    "wof:lastmodified":1467082265,
     "wof:name":"Carolina Travel",
     "wof:parent_id":85824173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-81.925886,34.947527,-81.925886,34.947527],
-  "geometry": {"coordinates":[-81.925886,34.947527],"type":"Point"}
+  "bbox": [
+    -81.925886,
+    34.947527,
+    -81.925886,
+    34.947527
+],
+  "geometry": {"coordinates":[-81.92588600000001,34.947527],"type":"Point"}
 }

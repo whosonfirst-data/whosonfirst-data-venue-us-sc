@@ -2,13 +2,14 @@
   "id": 353440063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.0958,33.933127,-81.0958,33.933127",
     "geom:latitude":33.933127,
     "geom:longitude":-81.0958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 McQueen St",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353440063,
-    "wof:lastmodified":1449019151,
+    "wof:lastmodified":1467082228,
     "wof:name":"Standard Corp",
     "wof:parent_id":85847855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-81.0958,33.933127,-81.0958,33.933127],
+  "bbox": [
+    -81.0958,
+    33.933127,
+    -81.0958,
+    33.933127
+],
   "geometry": {"coordinates":[-81.0958,33.933127],"type":"Point"}
 }

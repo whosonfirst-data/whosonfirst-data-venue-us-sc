@@ -2,13 +2,14 @@
   "id": 185906825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.130262,32.918809,-80.130262,32.918809",
     "geom:latitude":32.918809,
     "geom:longitude":-80.130262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5549 Gallatin Ln",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185906825,
-    "wof:lastmodified":1449007217,
+    "wof:lastmodified":1467082191,
     "wof:name":"Chinese Express",
     "wof:parent_id":85852525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.130262,32.918809,-80.130262,32.918809],
+  "bbox": [
+    -80.130262,
+    32.918809,
+    -80.130262,
+    32.918809
+],
   "geometry": {"coordinates":[-80.130262,32.918809],"type":"Point"}
 }

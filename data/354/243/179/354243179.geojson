@@ -2,13 +2,14 @@
   "id": 354243179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.560849,33.451977,-79.560849,33.451977",
     "geom:latitude":33.451977,
     "geom:longitude":-79.560849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 N Morgan Ave",
     "sg:city":"Andrews",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354243179,
-    "wof:lastmodified":1449066473,
+    "wof:lastmodified":1467082427,
     "wof:name":"Exchange Bank",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.560849,33.451977,-79.560849,33.451977],
+  "bbox": [
+    -79.560849,
+    33.451977,
+    -79.560849,
+    33.451977
+],
   "geometry": {"coordinates":[-79.560849,33.451977],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353644459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.061601,35.004646,-81.061601,35.004646",
     "geom:latitude":35.004646,
     "geom:longitude":-81.061601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4615 Channing Park Way",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353644459,
-    "wof:lastmodified":1449019714,
+    "wof:lastmodified":1467082239,
     "wof:name":"Wicker Builders",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.061601,35.004646,-81.061601,35.004646],
+  "bbox": [
+    -81.061601,
+    35.004646,
+    -81.061601,
+    35.004646
+],
   "geometry": {"coordinates":[-81.061601,35.004646],"type":"Point"}
 }

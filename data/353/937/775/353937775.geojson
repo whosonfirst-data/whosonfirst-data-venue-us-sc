@@ -2,13 +2,14 @@
   "id": 353937775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.000959,32.900988,-80.000959,32.900988",
     "geom:latitude":32.900988,
     "geom:longitude":-80.000959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1488 Remount Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353937775,
-    "wof:lastmodified":1449018736,
+    "wof:lastmodified":1467082219,
     "wof:name":"Heritage Construction Company",
     "wof:parent_id":85830427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-80.000959,32.900988,-80.000959,32.900988],
-  "geometry": {"coordinates":[-80.000959,32.900988],"type":"Point"}
+  "bbox": [
+    -80.000959,
+    32.900988,
+    -80.000959,
+    32.900988
+],
+  "geometry": {"coordinates":[-80.00095899999999,32.900988],"type":"Point"}
 }

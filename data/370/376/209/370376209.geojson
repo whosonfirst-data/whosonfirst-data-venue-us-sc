@@ -2,13 +2,14 @@
   "id": 370376209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.832602,33.738336,-78.832602,33.738336",
     "geom:latitude":33.738336,
     "geom:longitude":-78.832602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 63rd Ave N",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370376209,
-    "wof:lastmodified":1449030259,
+    "wof:lastmodified":1467082324,
     "wof:name":"A&A Taxi Inc",
     "wof:parent_id":85825231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-78.832602,33.738336,-78.832602,33.738336],
-  "geometry": {"coordinates":[-78.832602,33.738336],"type":"Point"}
+  "bbox": [
+    -78.832602,
+    33.738336,
+    -78.832602,
+    33.738336
+],
+  "geometry": {"coordinates":[-78.83260199999999,33.738336],"type":"Point"}
 }

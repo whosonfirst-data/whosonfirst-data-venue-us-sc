@@ -2,13 +2,14 @@
   "id": 186186919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.838997,32.341969,-80.838997,32.341969",
     "geom:latitude":32.341969,
     "geom:longitude":-80.838997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Mobley Oaks Ln",
     "sg:city":"Okatie",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186186919,
-    "wof:lastmodified":1449052421,
+    "wof:lastmodified":1467082407,
     "wof:name":"Spring Island Co",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.838997,32.341969,-80.838997,32.341969],
-  "geometry": {"coordinates":[-80.838997,32.341969],"type":"Point"}
+  "bbox": [
+    -80.838997,
+    32.341969,
+    -80.838997,
+    32.341969
+],
+  "geometry": {"coordinates":[-80.83899700000001,32.341969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370344457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.426115,34.871316,-82.426115,34.871316",
     "geom:latitude":34.871316,
     "geom:longitude":-82.426115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Colonial Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370344457,
-    "wof:lastmodified":1449029249,
+    "wof:lastmodified":1467082302,
     "wof:name":"Howard Pirkle Painting",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-82.426115,34.871316,-82.426115,34.871316],
+  "bbox": [
+    -82.426115,
+    34.871316,
+    -82.426115,
+    34.871316
+],
   "geometry": {"coordinates":[-82.426115,34.871316],"type":"Point"}
 }

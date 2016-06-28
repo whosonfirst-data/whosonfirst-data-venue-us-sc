@@ -2,13 +2,14 @@
   "id": 185934455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.399961,34.848768,-82.399961,34.848768",
     "geom:latitude":34.848768,
     "geom:longitude":-82.399961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 S Main St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185934455,
-    "wof:lastmodified":1449006662,
+    "wof:lastmodified":1467082183,
     "wof:name":"W R Martin Co",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.399961,34.848768,-82.399961,34.848768],
+  "bbox": [
+    -82.399961,
+    34.848768,
+    -82.399961,
+    34.848768
+],
   "geometry": {"coordinates":[-82.399961,34.848768],"type":"Point"}
 }

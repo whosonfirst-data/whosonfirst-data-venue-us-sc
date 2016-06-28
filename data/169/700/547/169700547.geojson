@@ -2,13 +2,14 @@
   "id": 169700547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.046598,33.899204,-79.046598,33.899204",
     "geom:latitude":33.899204,
     "geom:longitude":-79.046598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2404 Wise Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169700547,
-    "wof:lastmodified":1449035668,
+    "wof:lastmodified":1467082387,
     "wof:name":"Horry County Drug & Alcohol",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "drug"
     ]
 },
-  "bbox": [-79.046598,33.899204,-79.046598,33.899204],
+  "bbox": [
+    -79.046598,
+    33.899204,
+    -79.046598,
+    33.899204
+],
   "geometry": {"coordinates":[-79.046598,33.899204],"type":"Point"}
 }

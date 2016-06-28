@@ -2,13 +2,14 @@
   "id": 370845751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.803626,32.229402,-80.803626,32.229402",
     "geom:latitude":32.229402,
     "geom:longitude":-80.803626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Big Oak St",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370845751,
-    "wof:lastmodified":1449029636,
+    "wof:lastmodified":1467082310,
     "wof:name":"Pollitzer Clubhouse",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transport"
     ]
 },
-  "bbox": [-80.803626,32.229402,-80.803626,32.229402],
-  "geometry": {"coordinates":[-80.803626,32.229402],"type":"Point"}
+  "bbox": [
+    -80.803626,
+    32.229402,
+    -80.803626,
+    32.229402
+],
+  "geometry": {"coordinates":[-80.80362599999999,32.229402],"type":"Point"}
 }

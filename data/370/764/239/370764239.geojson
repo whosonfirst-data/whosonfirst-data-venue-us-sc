@@ -2,13 +2,14 @@
   "id": 370764239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.043483,34.010425,-81.043483,34.010425",
     "geom:latitude":34.010425,
     "geom:longitude":-81.043483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 Calhoun St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370764239,
-    "wof:lastmodified":1449032309,
+    "wof:lastmodified":1467082370,
     "wof:name":"Southeast Manufacturing Tech",
     "wof:parent_id":85817947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-81.043483,34.010425,-81.043483,34.010425],
-  "geometry": {"coordinates":[-81.043483,34.010425],"type":"Point"}
+  "bbox": [
+    -81.043483,
+    34.010425,
+    -81.043483,
+    34.010425
+],
+  "geometry": {"coordinates":[-81.04348299999999,34.010425],"type":"Point"}
 }

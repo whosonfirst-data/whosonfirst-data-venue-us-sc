@@ -2,13 +2,14 @@
   "id": 185953237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.888618,33.714747,-78.888618,33.714747",
     "geom:latitude":33.714747,
     "geom:longitude":-78.888618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1561 21st Ave N",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185953237,
-    "wof:lastmodified":1449007696,
+    "wof:lastmodified":1467082199,
     "wof:name":"LA Quinta Inn",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.888618,33.714747,-78.888618,33.714747],
-  "geometry": {"coordinates":[-78.888618,33.714747],"type":"Point"}
+  "bbox": [
+    -78.888618,
+    33.714747,
+    -78.888618,
+    33.714747
+],
+  "geometry": {"coordinates":[-78.88861799999999,33.714747],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370166889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.947876,33.969936,-80.947876,33.969936",
     "geom:latitude":33.969936,
     "geom:longitude":-80.947876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7355 Garners Ferry Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370166889,
-    "wof:lastmodified":1449030956,
+    "wof:lastmodified":1467082339,
     "wof:name":"Lucky Bingo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "game"
     ]
 },
-  "bbox": [-80.947876,33.969936,-80.947876,33.969936],
-  "geometry": {"coordinates":[-80.947876,33.969936],"type":"Point"}
+  "bbox": [
+    -80.947876,
+    33.969936,
+    -80.947876,
+    33.969936
+],
+  "geometry": {"coordinates":[-80.94787599999999,33.969936],"type":"Point"}
 }

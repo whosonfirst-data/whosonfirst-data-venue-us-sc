@@ -2,13 +2,14 @@
   "id": 353502007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.977116,32.846303,-79.977116,32.846303",
     "geom:latitude":32.846303,
     "geom:longitude":-79.977116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3180 Azalea Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353502007,
-    "wof:lastmodified":1449019434,
+    "wof:lastmodified":1467082234,
     "wof:name":"Mary Ford Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.977116,32.846303,-79.977116,32.846303],
+  "bbox": [
+    -79.977116,
+    32.846303,
+    -79.977116,
+    32.846303
+],
   "geometry": {"coordinates":[-79.977116,32.846303],"type":"Point"}
 }

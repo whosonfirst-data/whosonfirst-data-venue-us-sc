@@ -2,13 +2,14 @@
   "id": 169776455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.610138,34.303363,-81.610138,34.303363",
     "geom:latitude":34.303363,
     "geom:longitude":-81.610138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1612 Whitener Rd",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169776455,
-    "wof:lastmodified":1449033406,
+    "wof:lastmodified":1467082380,
     "wof:name":"W A Cromer & Son Logging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "logging"
     ]
 },
-  "bbox": [-81.610138,34.303363,-81.610138,34.303363],
-  "geometry": {"coordinates":[-81.610138,34.303363],"type":"Point"}
+  "bbox": [
+    -81.610138,
+    34.303363,
+    -81.610138,
+    34.303363
+],
+  "geometry": {"coordinates":[-81.61013800000001,34.303363],"type":"Point"}
 }

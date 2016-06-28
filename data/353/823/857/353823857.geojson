@@ -2,13 +2,14 @@
   "id": 353823857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.881806,34.140846,-80.881806,34.140846",
     "geom:latitude":34.140846,
     "geom:longitude":-80.881806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Summit Pkwy",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353823857,
-    "wof:lastmodified":1449020760,
+    "wof:lastmodified":1467082261,
     "wof:name":"Ann Long",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.881806,34.140846,-80.881806,34.140846],
+  "bbox": [
+    -80.881806,
+    34.140846,
+    -80.881806,
+    34.140846
+],
   "geometry": {"coordinates":[-80.881806,34.140846],"type":"Point"}
 }

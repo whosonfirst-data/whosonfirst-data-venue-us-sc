@@ -2,13 +2,14 @@
   "id": 337449097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.929227,32.776638,-79.929227,32.776638",
     "geom:latitude":32.776638,
     "geom:longitude":-79.929227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Broad St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337449097,
-    "wof:lastmodified":1449027672,
+    "wof:lastmodified":1467082293,
     "wof:name":"Martin Gallery",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-79.929227,32.776638,-79.929227,32.776638],
+  "bbox": [
+    -79.929227,
+    32.776638,
+    -79.929227,
+    32.776638
+],
   "geometry": {"coordinates":[-79.929227,32.776638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370496269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.49803,33.953234,-80.49803,33.953234",
     "geom:latitude":33.953234,
     "geom:longitude":-80.49803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 Peach Orchard Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370496269,
-    "wof:lastmodified":1449031956,
+    "wof:lastmodified":1467082362,
     "wof:name":"Kenneth Hamilton",
     "wof:parent_id":85848059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.49803,33.953234,-80.49803,33.953234],
+  "bbox": [
+    -80.49803,
+    33.953234,
+    -80.49803,
+    33.953234
+],
   "geometry": {"coordinates":[-80.49803,33.953234],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186096209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.387539,33.942027,-80.387539,33.942027",
     "geom:latitude":33.942027,
     "geom:longitude":-80.387539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"844 Bay Blossom Ave",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186096209,
-    "wof:lastmodified":1449051256,
+    "wof:lastmodified":1467082396,
     "wof:name":"Stan's Towing Svc",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.387539,33.942027,-80.387539,33.942027],
+  "bbox": [
+    -80.387539,
+    33.942027,
+    -80.387539,
+    33.942027
+],
   "geometry": {"coordinates":[-80.387539,33.942027],"type":"Point"}
 }

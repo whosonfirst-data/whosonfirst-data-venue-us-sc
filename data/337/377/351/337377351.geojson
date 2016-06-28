@@ -2,13 +2,14 @@
   "id": 337377351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.387154,33.93564,-80.387154,33.93564",
     "geom:latitude":33.93564,
     "geom:longitude":-80.387154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Fair Ct",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337377351,
-    "wof:lastmodified":1449027235,
+    "wof:lastmodified":1467082276,
     "wof:name":"Misty Ridge Apartments",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.387154,33.93564,-80.387154,33.93564],
+  "bbox": [
+    -80.387154,
+    33.93564,
+    -80.387154,
+    33.93564
+],
   "geometry": {"coordinates":[-80.387154,33.93564],"type":"Point"}
 }

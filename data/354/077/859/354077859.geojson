@@ -2,13 +2,14 @@
   "id": 354077859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.129804,33.039371,-80.129804,33.039371",
     "geom:latitude":33.039371,
     "geom:longitude":-80.129804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Chestnut Ct",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354077859,
-    "wof:lastmodified":1449066201,
+    "wof:lastmodified":1467082420,
     "wof:name":"Country Store and Antiques",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gift"
     ]
 },
-  "bbox": [-80.129804,33.039371,-80.129804,33.039371],
-  "geometry": {"coordinates":[-80.129804,33.039371],"type":"Point"}
+  "bbox": [
+    -80.129804,
+    33.039371,
+    -80.129804,
+    33.039371
+],
+  "geometry": {"coordinates":[-80.12980399999999,33.039371],"type":"Point"}
 }

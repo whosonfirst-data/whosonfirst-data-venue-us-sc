@@ -2,13 +2,14 @@
   "id": 354103823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.003924,32.798199,-80.003924,32.798199",
     "geom:latitude":32.798199,
     "geom:longitude":-80.003924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1427 Ashley River Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354103823,
-    "wof:lastmodified":1449067016,
+    "wof:lastmodified":1467082439,
     "wof:name":"AAA Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.003924,32.798199,-80.003924,32.798199],
+  "bbox": [
+    -80.003924,
+    32.798199,
+    -80.003924,
+    32.798199
+],
   "geometry": {"coordinates":[-80.003924,32.798199],"type":"Point"}
 }

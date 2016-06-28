@@ -2,13 +2,14 @@
   "id": 370243397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.924905,35.007483,-80.924905,35.007483",
     "geom:latitude":35.007483,
     "geom:longitude":-80.924905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"971 Tom Hall St",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370243397,
-    "wof:lastmodified":1449030193,
+    "wof:lastmodified":1467082323,
     "wof:name":"Boys & Girls Clubs Of York",
     "wof:parent_id":85827769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-80.924905,35.007483,-80.924905,35.007483],
+  "bbox": [
+    -80.924905,
+    35.007483,
+    -80.924905,
+    35.007483
+],
   "geometry": {"coordinates":[-80.924905,35.007483],"type":"Point"}
 }

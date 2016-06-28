@@ -2,13 +2,14 @@
   "id": 186182351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.399945,33.954232,-80.399945,33.954232",
     "geom:latitude":33.954232,
     "geom:longitude":-80.399945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Lin-Do Ct",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186182351,
-    "wof:lastmodified":1449052071,
+    "wof:lastmodified":1467082404,
     "wof:name":"Morningside Of Sumter",
     "wof:parent_id":85814545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "residential"
     ]
 },
-  "bbox": [-80.399945,33.954232,-80.399945,33.954232],
+  "bbox": [
+    -80.399945,
+    33.954232,
+    -80.399945,
+    33.954232
+],
   "geometry": {"coordinates":[-80.399945,33.954232],"type":"Point"}
 }

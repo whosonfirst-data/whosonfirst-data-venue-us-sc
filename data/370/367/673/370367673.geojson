@@ -2,13 +2,14 @@
   "id": 370367673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.046956,35.000928,-82.046956,35.000928",
     "geom:latitude":35.000928,
     "geom:longitude":-82.046956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"755 John Dodd Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370367673,
-    "wof:lastmodified":1449031074,
+    "wof:lastmodified":1467082342,
     "wof:name":"Guardian Tree",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.046956,35.000928,-82.046956,35.000928],
-  "geometry": {"coordinates":[-82.046956,35.000928],"type":"Point"}
+  "bbox": [
+    -82.046956,
+    35.000928,
+    -82.046956,
+    35.000928
+],
+  "geometry": {"coordinates":[-82.04695599999999,35.000928],"type":"Point"}
 }

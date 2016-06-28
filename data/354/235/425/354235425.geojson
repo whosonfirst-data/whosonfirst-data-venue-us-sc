@@ -2,13 +2,14 @@
   "id": 354235425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.65515,35.077901,-81.65515,35.077901",
     "geom:latitude":35.077901,
     "geom:longitude":-81.65515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 W Smith St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354235425,
-    "wof:lastmodified":1449066230,
+    "wof:lastmodified":1467082421,
     "wof:name":"Cooper Cabinet & Fixtures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.65515,35.077901,-81.65515,35.077901],
-  "geometry": {"coordinates":[-81.65515,35.077901],"type":"Point"}
+  "bbox": [
+    -81.65515,
+    35.077901,
+    -81.65515,
+    35.077901
+],
+  "geometry": {"coordinates":[-81.65515000000001,35.077901],"type":"Point"}
 }

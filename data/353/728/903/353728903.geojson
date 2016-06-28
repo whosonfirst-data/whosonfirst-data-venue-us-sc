@@ -2,13 +2,14 @@
   "id": 353728903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.950305,32.796752,-79.950305,32.796752",
     "geom:latitude":32.796752,
     "geom:longitude":-79.950305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"569 Rutledge Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353728903,
-    "wof:lastmodified":1449018845,
+    "wof:lastmodified":1467082222,
     "wof:name":"Nehemiah Lodge",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-79.950305,32.796752,-79.950305,32.796752],
+  "bbox": [
+    -79.950305,
+    32.796752,
+    -79.950305,
+    32.796752
+],
   "geometry": {"coordinates":[-79.950305,32.796752],"type":"Point"}
 }

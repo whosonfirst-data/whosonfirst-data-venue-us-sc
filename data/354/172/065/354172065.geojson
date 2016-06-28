@@ -2,13 +2,14 @@
   "id": 354172065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.993366,34.992117,-81.993366,34.992117",
     "geom:latitude":34.992117,
     "geom:longitude":-81.993366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8047 Asheville Hwy",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354172065,
-    "wof:lastmodified":1449066606,
+    "wof:lastmodified":1467082430,
     "wof:name":"JP Liquor Store",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-81.993366,34.992117,-81.993366,34.992117],
-  "geometry": {"coordinates":[-81.993366,34.992117],"type":"Point"}
+  "bbox": [
+    -81.993366,
+    34.992117,
+    -81.993366,
+    34.992117
+],
+  "geometry": {"coordinates":[-81.99336599999999,34.992117],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370593821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.184125,33.047449,-80.184125,33.047449",
     "geom:latitude":33.047449,
     "geom:longitude":-80.184125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 N Maple St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370593821,
-    "wof:lastmodified":1449031322,
+    "wof:lastmodified":1467082348,
     "wof:name":"Dorchester Mining Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coal"
     ]
 },
-  "bbox": [-80.184125,33.047449,-80.184125,33.047449],
-  "geometry": {"coordinates":[-80.184125,33.047449],"type":"Point"}
+  "bbox": [
+    -80.184125,
+    33.047449,
+    -80.184125,
+    33.047449
+],
+  "geometry": {"coordinates":[-80.18412499999999,33.047449],"type":"Point"}
 }

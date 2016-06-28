@@ -2,13 +2,14 @@
   "id": 370218871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.720094,33.513083,-81.720094,33.513083",
     "geom:latitude":33.513083,
     "geom:longitude":-81.720094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 Dougherty Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370218871,
-    "wof:lastmodified":1449031218,
+    "wof:lastmodified":1467082345,
     "wof:name":"Twin Dragons",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "instruction"
     ]
 },
-  "bbox": [-81.720094,33.513083,-81.720094,33.513083],
+  "bbox": [
+    -81.720094,
+    33.513083,
+    -81.720094,
+    33.513083
+],
   "geometry": {"coordinates":[-81.720094,33.513083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370434517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.968282,32.865381,-79.968282,32.865381",
     "geom:latitude":32.865381,
     "geom:longitude":-79.968282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 Truxtun Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370434517,
-    "wof:lastmodified":1449029828,
+    "wof:lastmodified":1467082314,
     "wof:name":"North Sails South Carolina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.968282,32.865381,-79.968282,32.865381],
+  "bbox": [
+    -79.968282,
+    32.865381,
+    -79.968282,
+    32.865381
+],
   "geometry": {"coordinates":[-79.968282,32.865381],"type":"Point"}
 }

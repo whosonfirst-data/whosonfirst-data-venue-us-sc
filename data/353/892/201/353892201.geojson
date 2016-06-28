@@ -2,13 +2,14 @@
   "id": 353892201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.22719,33.168245,-81.22719,33.168245",
     "geom:latitude":33.168245,
     "geom:longitude":-81.22719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3204 Mulberry Rd",
     "sg:city":"Olar",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353892201,
-    "wof:lastmodified":1449018631,
+    "wof:lastmodified":1467082217,
     "wof:name":"Jays Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.22719,33.168245,-81.22719,33.168245],
-  "geometry": {"coordinates":[-81.22719,33.168245],"type":"Point"}
+  "bbox": [
+    -81.22719,
+    33.168245,
+    -81.22719,
+    33.168245
+],
+  "geometry": {"coordinates":[-81.22718999999999,33.168245],"type":"Point"}
 }

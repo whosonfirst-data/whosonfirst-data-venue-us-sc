@@ -2,13 +2,14 @@
   "id": 370328045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.074822,33.993786,-81.074822,33.993786",
     "geom:latitude":33.993786,
     "geom:longitude":-81.074822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 N 12th St",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370328045,
-    "wof:lastmodified":1449031071,
+    "wof:lastmodified":1467082342,
     "wof:name":"Bosket Auto Svc",
     "wof:parent_id":85840603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.074822,33.993786,-81.074822,33.993786],
+  "bbox": [
+    -81.074822,
+    33.993786,
+    -81.074822,
+    33.993786
+],
   "geometry": {"coordinates":[-81.074822,33.993786],"type":"Point"}
 }

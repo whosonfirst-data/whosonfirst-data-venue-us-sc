@@ -2,13 +2,14 @@
   "id": 370561529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.233494,34.793702,-82.233494,34.793702",
     "geom:latitude":34.793702,
     "geom:longitude":-82.233494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 River Walk Dr",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370561529,
-    "wof:lastmodified":1449031491,
+    "wof:lastmodified":1467082351,
     "wof:name":"RGM Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.233494,34.793702,-82.233494,34.793702],
-  "geometry": {"coordinates":[-82.233494,34.793702],"type":"Point"}
+  "bbox": [
+    -82.233494,
+    34.793702,
+    -82.233494,
+    34.793702
+],
+  "geometry": {"coordinates":[-82.23349399999999,34.793702],"type":"Point"}
 }

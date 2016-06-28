@@ -2,13 +2,14 @@
   "id": 354392753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.858866,32.347827,-80.858866,32.347827",
     "geom:latitude":32.347827,
     "geom:longitude":-80.858866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Chechessee Bluff Cir",
     "sg:city":"Okatie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354392753,
-    "wof:lastmodified":1449067296,
+    "wof:lastmodified":1467082446,
     "wof:name":"Brian's Appliance Svc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-80.858866,32.347827,-80.858866,32.347827],
-  "geometry": {"coordinates":[-80.858866,32.347827],"type":"Point"}
+  "bbox": [
+    -80.858866,
+    32.347827,
+    -80.858866,
+    32.347827
+],
+  "geometry": {"coordinates":[-80.85886600000001,32.347827],"type":"Point"}
 }

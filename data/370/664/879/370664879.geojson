@@ -2,13 +2,14 @@
   "id": 370664879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.444499,34.834426,-82.444499,34.834426",
     "geom:latitude":34.834426,
     "geom:longitude":-82.444499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Harris Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370664879,
-    "wof:lastmodified":1449030333,
+    "wof:lastmodified":1467082326,
     "wof:name":"Whitworth's Garage",
     "wof:parent_id":85838763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.444499,34.834426,-82.444499,34.834426],
-  "geometry": {"coordinates":[-82.444499,34.834426],"type":"Point"}
+  "bbox": [
+    -82.444499,
+    34.834426,
+    -82.444499,
+    34.834426
+],
+  "geometry": {"coordinates":[-82.44449899999999,34.834426],"type":"Point"}
 }

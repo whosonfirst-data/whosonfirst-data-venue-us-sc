@@ -2,13 +2,14 @@
   "id": 354296083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.864825,32.77695,-79.864825,32.77695",
     "geom:latitude":32.77695,
     "geom:longitude":-79.864825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"957 Pitt St",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354296083,
-    "wof:lastmodified":1449067325,
+    "wof:lastmodified":1467082446,
     "wof:name":"EAGC",
     "wof:parent_id":85835425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.864825,32.77695,-79.864825,32.77695],
+  "bbox": [
+    -79.864825,
+    32.77695,
+    -79.864825,
+    32.77695
+],
   "geometry": {"coordinates":[-79.864825,32.77695],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185719663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.016206,33.99846,-81.016206,33.99846",
     "geom:latitude":33.99846,
     "geom:longitude":-81.016206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"733 Santee Ave",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185719663,
-    "wof:lastmodified":1449006811,
+    "wof:lastmodified":1467082185,
     "wof:name":"Pub On Santee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.016206,33.99846,-81.016206,33.99846],
+  "bbox": [
+    -81.016206,
+    33.99846,
+    -81.016206,
+    33.99846
+],
   "geometry": {"coordinates":[-81.016206,33.99846],"type":"Point"}
 }

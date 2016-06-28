@@ -2,13 +2,14 @@
   "id": 169717539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.613379,34.915186,-81.613379,34.915186",
     "geom:latitude":34.915186,
     "geom:longitude":-81.613379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"369 Gowdeysville Rd",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169717539,
-    "wof:lastmodified":1449032775,
+    "wof:lastmodified":1467082376,
     "wof:name":"Jack McAbee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-81.613379,34.915186,-81.613379,34.915186],
-  "geometry": {"coordinates":[-81.613379,34.915186],"type":"Point"}
+  "bbox": [
+    -81.613379,
+    34.915186,
+    -81.613379,
+    34.915186
+],
+  "geometry": {"coordinates":[-81.61337899999999,34.915186],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353600619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.192619,34.696754,-82.192619,34.696754",
     "geom:latitude":34.696754,
     "geom:longitude":-82.192619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Duckett St",
     "sg:city":"Fountain Inn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353600619,
-    "wof:lastmodified":1449018493,
+    "wof:lastmodified":1467082215,
     "wof:name":"GAR Property Manager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-82.192619,34.696754,-82.192619,34.696754],
-  "geometry": {"coordinates":[-82.192619,34.696754],"type":"Point"}
+  "bbox": [
+    -82.192619,
+    34.696754,
+    -82.192619,
+    34.696754
+],
+  "geometry": {"coordinates":[-82.19261899999999,34.696754],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370785147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.86589,33.489246,-80.86589,33.489246",
     "geom:latitude":33.489246,
     "geom:longitude":-80.86589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1156 Broughton St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370785147,
-    "wof:lastmodified":1449031893,
+    "wof:lastmodified":1467082360,
     "wof:name":"Bill Wise Printers Inc",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-80.86589,33.489246,-80.86589,33.489246],
-  "geometry": {"coordinates":[-80.86589,33.489246],"type":"Point"}
+  "bbox": [
+    -80.86589,
+    33.489246,
+    -80.86589,
+    33.489246
+],
+  "geometry": {"coordinates":[-80.86588999999999,33.489246],"type":"Point"}
 }

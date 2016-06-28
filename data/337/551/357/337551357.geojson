@@ -2,13 +2,14 @@
   "id": 337551357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.903362,33.707971,-78.903362,33.707971",
     "geom:latitude":33.707971,
     "geom:longitude":-78.903362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 Enterprise Ave",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337551357,
-    "wof:lastmodified":1449027085,
+    "wof:lastmodified":1467082270,
     "wof:name":"Myrtle Beach Plastics",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plastic"
     ]
 },
-  "bbox": [-78.903362,33.707971,-78.903362,33.707971],
+  "bbox": [
+    -78.903362,
+    33.707971,
+    -78.903362,
+    33.707971
+],
   "geometry": {"coordinates":[-78.903362,33.707971],"type":"Point"}
 }

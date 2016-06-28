@@ -2,13 +2,14 @@
   "id": 353725033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.571062,34.258795,-81.571062,34.258795",
     "geom:latitude":34.258795,
     "geom:longitude":-81.571062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Lynn Ln",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353725033,
-    "wof:lastmodified":1449018878,
+    "wof:lastmodified":1467082222,
     "wof:name":"Regional Family Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.571062,34.258795,-81.571062,34.258795],
+  "bbox": [
+    -81.571062,
+    34.258795,
+    -81.571062,
+    34.258795
+],
   "geometry": {"coordinates":[-81.571062,34.258795],"type":"Point"}
 }

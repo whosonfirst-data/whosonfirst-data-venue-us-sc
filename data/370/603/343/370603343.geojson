@@ -2,13 +2,14 @@
   "id": 370603343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.071436,33.984733,-81.071436,33.984733",
     "geom:latitude":33.984733,
     "geom:longitude":-81.071436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 12th St",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370603343,
-    "wof:lastmodified":1449031944,
+    "wof:lastmodified":1467082362,
     "wof:name":"Capital Cloggers",
     "wof:parent_id":85897259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "company"
     ]
 },
-  "bbox": [-81.071436,33.984733,-81.071436,33.984733],
-  "geometry": {"coordinates":[-81.071436,33.984733],"type":"Point"}
+  "bbox": [
+    -81.071436,
+    33.984733,
+    -81.071436,
+    33.984733
+],
+  "geometry": {"coordinates":[-81.07143600000001,33.984733],"type":"Point"}
 }

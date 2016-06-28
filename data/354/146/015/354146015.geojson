@@ -2,13 +2,14 @@
   "id": 354146015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.529106,34.207895,-81.529106,34.207895",
     "geom:latitude":34.207895,
     "geom:longitude":-81.529106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Pine St",
     "sg:city":"Prosperity",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354146015,
-    "wof:lastmodified":1449066628,
+    "wof:lastmodified":1467082430,
     "wof:name":"Boyd Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.529106,34.207895,-81.529106,34.207895],
+  "bbox": [
+    -81.529106,
+    34.207895,
+    -81.529106,
+    34.207895
+],
   "geometry": {"coordinates":[-81.529106,34.207895],"type":"Point"}
 }

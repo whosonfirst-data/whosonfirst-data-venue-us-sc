@@ -2,13 +2,14 @@
   "id": 370174627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.755299,32.48354,-80.755299,32.48354",
     "geom:latitude":32.48354,
     "geom:longitude":-80.755299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Washington Family Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370174627,
-    "wof:lastmodified":1449029559,
+    "wof:lastmodified":1467082308,
     "wof:name":"Washington Electric Contr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.755299,32.48354,-80.755299,32.48354],
-  "geometry": {"coordinates":[-80.755299,32.48354],"type":"Point"}
+  "bbox": [
+    -80.755299,
+    32.48354,
+    -80.755299,
+    32.48354
+],
+  "geometry": {"coordinates":[-80.75529899999999,32.48354],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370619113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.955727,32.687728,-79.955727,32.687728",
     "geom:latitude":32.687728,
     "geom:longitude":-79.955727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1586 Terns Nest Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370619113,
-    "wof:lastmodified":1449029703,
+    "wof:lastmodified":1467082311,
     "wof:name":"Service First Heating & A",
     "wof:parent_id":85847603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.955727,32.687728,-79.955727,32.687728],
+  "bbox": [
+    -79.955727,
+    32.687728,
+    -79.955727,
+    32.687728
+],
   "geometry": {"coordinates":[-79.955727,32.687728],"type":"Point"}
 }

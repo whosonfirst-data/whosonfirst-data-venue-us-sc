@@ -2,13 +2,14 @@
   "id": 186307429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.187851,34.03966,-81.187851,34.03966",
     "geom:latitude":34.03966,
     "geom:longitude":-81.187851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Merry Willow Ct",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186307429,
-    "wof:lastmodified":1449051087,
+    "wof:lastmodified":1467082394,
     "wof:name":"Bryan Richard Welding",
     "wof:parent_id":85897271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-81.187851,34.03966,-81.187851,34.03966],
-  "geometry": {"coordinates":[-81.187851,34.03966],"type":"Point"}
+  "bbox": [
+    -81.187851,
+    34.03966,
+    -81.187851,
+    34.03966
+],
+  "geometry": {"coordinates":[-81.18785099999999,34.03966],"type":"Point"}
 }

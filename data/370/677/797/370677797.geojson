@@ -2,13 +2,14 @@
   "id": 370677797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.031083,32.98262,-80.031083,32.98262",
     "geom:latitude":32.98262,
     "geom:longitude":-80.031083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Red Bank Rd",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370677797,
-    "wof:lastmodified":1449030309,
+    "wof:lastmodified":1467082325,
     "wof:name":"Montana's",
     "wof:parent_id":85852091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.031083,32.98262,-80.031083,32.98262],
+  "bbox": [
+    -80.031083,
+    32.98262,
+    -80.031083,
+    32.98262
+],
   "geometry": {"coordinates":[-80.031083,32.98262],"type":"Point"}
 }

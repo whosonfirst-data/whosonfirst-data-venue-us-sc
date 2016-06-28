@@ -2,13 +2,14 @@
   "id": 370203257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.37655,33.942501,-80.37655,33.942501",
     "geom:latitude":33.942501,
     "geom:longitude":-80.37655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"934 N Guignard Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370203257,
-    "wof:lastmodified":1449030599,
+    "wof:lastmodified":1467082332,
     "wof:name":"Bell Law Firm",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.37655,33.942501,-80.37655,33.942501],
-  "geometry": {"coordinates":[-80.37655,33.942501],"type":"Point"}
+  "bbox": [
+    -80.37655,
+    33.942501,
+    -80.37655,
+    33.942501
+],
+  "geometry": {"coordinates":[-80.37654999999999,33.942501],"type":"Point"}
 }

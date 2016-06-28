@@ -2,13 +2,14 @@
   "id": 353601309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.694052,34.560785,-82.694052,34.560785",
     "geom:latitude":34.560785,
     "geom:longitude":-82.694052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4132 Clemson Blvd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353601309,
-    "wof:lastmodified":1449019399,
+    "wof:lastmodified":1467082233,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.694052,34.560785,-82.694052,34.560785],
+  "bbox": [
+    -82.694052,
+    34.560785,
+    -82.694052,
+    34.560785
+],
   "geometry": {"coordinates":[-82.694052,34.560785],"type":"Point"}
 }

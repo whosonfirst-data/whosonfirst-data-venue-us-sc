@@ -2,13 +2,14 @@
   "id": 169756631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.774982,32.449652,-80.774982,32.449652",
     "geom:latitude":32.449652,
     "geom:longitude":-80.774982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Pine Grove Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169756631,
-    "wof:lastmodified":1449034661,
+    "wof:lastmodified":1467082384,
     "wof:name":"Margaret's Hair Affair",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.774982,32.449652,-80.774982,32.449652],
-  "geometry": {"coordinates":[-80.774982,32.449652],"type":"Point"}
+  "bbox": [
+    -80.774982,
+    32.449652,
+    -80.774982,
+    32.449652
+],
+  "geometry": {"coordinates":[-80.77498199999999,32.449652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370435333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.929971,33.527522,-81.929971,33.527522",
     "geom:latitude":33.527522,
     "geom:longitude":-81.929971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Edisto Dr",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370435333,
-    "wof:lastmodified":1449032167,
+    "wof:lastmodified":1467082366,
     "wof:name":"Pats Antiques & Collectibles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.929971,33.527522,-81.929971,33.527522],
-  "geometry": {"coordinates":[-81.929971,33.527522],"type":"Point"}
+  "bbox": [
+    -81.929971,
+    33.527522,
+    -81.929971,
+    33.527522
+],
+  "geometry": {"coordinates":[-81.92997099999999,33.527522],"type":"Point"}
 }

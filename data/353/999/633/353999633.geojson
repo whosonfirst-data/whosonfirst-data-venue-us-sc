@@ -2,13 +2,14 @@
   "id": 353999633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.972178,34.882243,-82.972178,34.882243",
     "geom:latitude":34.882243,
     "geom:longitude":-82.972178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"398 E Main St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353999633,
-    "wof:lastmodified":1449020492,
+    "wof:lastmodified":1467082255,
     "wof:name":"Salem Thrift",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-82.972178,34.882243,-82.972178,34.882243],
+  "bbox": [
+    -82.972178,
+    34.882243,
+    -82.972178,
+    34.882243
+],
   "geometry": {"coordinates":[-82.972178,34.882243],"type":"Point"}
 }

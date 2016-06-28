@@ -2,13 +2,14 @@
   "id": 370223471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.298779,34.935696,-82.298779,34.935696",
     "geom:latitude":34.935696,
     "geom:longitude":-82.298779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 Rockcrest Dr",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370223471,
-    "wof:lastmodified":1449029317,
+    "wof:lastmodified":1467082303,
     "wof:name":"Boehme Painting Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-82.298779,34.935696,-82.298779,34.935696],
+  "bbox": [
+    -82.298779,
+    34.935696,
+    -82.298779,
+    34.935696
+],
   "geometry": {"coordinates":[-82.298779,34.935696],"type":"Point"}
 }

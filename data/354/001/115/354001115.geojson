@@ -2,13 +2,14 @@
   "id": 354001115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.876311,35.010482,-81.876311,35.010482",
     "geom:latitude":35.010482,
     "geom:longitude":-81.876311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Brooks Blvd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354001115,
-    "wof:lastmodified":1449066310,
+    "wof:lastmodified":1467082423,
     "wof:name":"Lubrizol Foam Control Additive",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.876311,35.010482,-81.876311,35.010482],
+  "bbox": [
+    -81.876311,
+    35.010482,
+    -81.876311,
+    35.010482
+],
   "geometry": {"coordinates":[-81.876311,35.010482],"type":"Point"}
 }

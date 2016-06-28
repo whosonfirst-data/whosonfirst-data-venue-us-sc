@@ -2,13 +2,14 @@
   "id": 370180329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.673369,33.820851,-78.673369,33.820851",
     "geom:latitude":33.820851,
     "geom:longitude":-78.673369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Main St",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370180329,
-    "wof:lastmodified":1449029202,
+    "wof:lastmodified":1467082301,
     "wof:name":"Hope Taylor & Co",
     "wof:parent_id":85826955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-78.673369,33.820851,-78.673369,33.820851],
-  "geometry": {"coordinates":[-78.673369,33.820851],"type":"Point"}
+  "bbox": [
+    -78.673369,
+    33.820851,
+    -78.673369,
+    33.820851
+],
+  "geometry": {"coordinates":[-78.67336899999999,33.820851],"type":"Point"}
 }

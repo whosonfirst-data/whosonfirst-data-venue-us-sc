@@ -2,13 +2,14 @@
   "id": 354280789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.704191,32.220004,-80.704191,32.220004",
     "geom:latitude":32.220004,
     "geom:longitude":-80.704191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Mathews Dr",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354280789,
-    "wof:lastmodified":1449066758,
+    "wof:lastmodified":1467082433,
     "wof:name":"Island Glass & Building Prods",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "plate"
     ]
 },
-  "bbox": [-80.704191,32.220004,-80.704191,32.220004],
-  "geometry": {"coordinates":[-80.704191,32.220004],"type":"Point"}
+  "bbox": [
+    -80.704191,
+    32.220004,
+    -80.704191,
+    32.220004
+],
+  "geometry": {"coordinates":[-80.70419099999999,32.220004],"type":"Point"}
 }

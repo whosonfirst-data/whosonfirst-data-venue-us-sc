@@ -2,13 +2,14 @@
   "id": 185687857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.068902,32.924979,-80.068902,32.924979",
     "geom:latitude":32.924979,
     "geom:longitude":-80.068902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7389 Industry Dr",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185687857,
-    "wof:lastmodified":1449007058,
+    "wof:lastmodified":1467082189,
     "wof:name":"Charleston Winnelson Co",
     "wof:parent_id":85803745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.068902,32.924979,-80.068902,32.924979],
-  "geometry": {"coordinates":[-80.068902,32.924979],"type":"Point"}
+  "bbox": [
+    -80.068902,
+    32.924979,
+    -80.068902,
+    32.924979
+],
+  "geometry": {"coordinates":[-80.06890199999999,32.924979],"type":"Point"}
 }

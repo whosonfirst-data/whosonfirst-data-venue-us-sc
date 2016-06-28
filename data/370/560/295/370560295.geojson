@@ -2,13 +2,14 @@
   "id": 370560295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.981917,34.916713,-81.981917,34.916713",
     "geom:latitude":34.916713,
     "geom:longitude":-81.981917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Briarcreek Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370560295,
-    "wof:lastmodified":1449031679,
+    "wof:lastmodified":1467082356,
     "wof:name":"Game Day Magnets",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-81.981917,34.916713,-81.981917,34.916713],
+  "bbox": [
+    -81.981917,
+    34.916713,
+    -81.981917,
+    34.916713
+],
   "geometry": {"coordinates":[-81.981917,34.916713],"type":"Point"}
 }

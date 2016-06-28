@@ -2,13 +2,14 @@
   "id": 337344379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.586999,34.890694,-82.586999,34.890694",
     "geom:latitude":34.890694,
     "geom:longitude":-82.586999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 Jameson Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337344379,
-    "wof:lastmodified":1449026982,
+    "wof:lastmodified":1467082266,
     "wof:name":"Truss Systems of SC Inc",
     "wof:parent_id":85832619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "structural"
     ]
 },
-  "bbox": [-82.586999,34.890694,-82.586999,34.890694],
-  "geometry": {"coordinates":[-82.586999,34.890694],"type":"Point"}
+  "bbox": [
+    -82.586999,
+    34.890694,
+    -82.586999,
+    34.890694
+],
+  "geometry": {"coordinates":[-82.58699900000001,34.890694],"type":"Point"}
 }

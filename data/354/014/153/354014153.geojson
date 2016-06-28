@@ -2,13 +2,14 @@
   "id": 354014153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.577665,34.25228,-80.577665,34.25228",
     "geom:latitude":34.25228,
     "geom:longitude":-80.577665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 Jefferson Davis Hwy",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354014153,
-    "wof:lastmodified":1449066755,
+    "wof:lastmodified":1467082433,
     "wof:name":"Tax Office",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-80.577665,34.25228,-80.577665,34.25228],
+  "bbox": [
+    -80.577665,
+    34.25228,
+    -80.577665,
+    34.25228
+],
   "geometry": {"coordinates":[-80.577665,34.25228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185705169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.358711,33.240572,-81.358711,33.240572",
     "geom:latitude":33.240572,
     "geom:longitude":-81.358711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Ingle St",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185705169,
-    "wof:lastmodified":1449008218,
+    "wof:lastmodified":1467082207,
     "wof:name":"Walker's Automotive Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.358711,33.240572,-81.358711,33.240572],
+  "bbox": [
+    -81.358711,
+    33.240572,
+    -81.358711,
+    33.240572
+],
   "geometry": {"coordinates":[-81.358711,33.240572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337475957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.988444,33.842264,-78.988444,33.842264",
     "geom:latitude":33.842264,
     "geom:longitude":-78.988444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2104 Lee's Landing Cir",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337475957,
-    "wof:lastmodified":1449027275,
+    "wof:lastmodified":1467082278,
     "wof:name":"Clarks Custom Construction",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-78.988444,33.842264,-78.988444,33.842264],
+  "bbox": [
+    -78.988444,
+    33.842264,
+    -78.988444,
+    33.842264
+],
   "geometry": {"coordinates":[-78.988444,33.842264],"type":"Point"}
 }

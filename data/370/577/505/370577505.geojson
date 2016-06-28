@@ -2,13 +2,14 @@
   "id": 370577505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.195313,34.309006,-82.195313,34.309006",
     "geom:latitude":34.309006,
     "geom:longitude":-82.195313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 Miller Rd",
     "sg:city":"Hodges",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370577505,
-    "wof:lastmodified":1449032586,
+    "wof:lastmodified":1467082376,
     "wof:name":"Unique Gifts & Things",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.195313,34.309006,-82.195313,34.309006],
+  "bbox": [
+    -82.195313,
+    34.309006,
+    -82.195313,
+    34.309006
+],
   "geometry": {"coordinates":[-82.195313,34.309006],"type":"Point"}
 }

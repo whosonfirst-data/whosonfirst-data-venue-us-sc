@@ -2,13 +2,14 @@
   "id": 169733237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.400944,34.879181,-82.400944,34.879181",
     "geom:latitude":34.879181,
     "geom:longitude":-82.400944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Loop St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169733237,
-    "wof:lastmodified":1449033147,
+    "wof:lastmodified":1467082378,
     "wof:name":"Builders First Source",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truss"
     ]
 },
-  "bbox": [-82.400944,34.879181,-82.400944,34.879181],
+  "bbox": [
+    -82.400944,
+    34.879181,
+    -82.400944,
+    34.879181
+],
   "geometry": {"coordinates":[-82.400944,34.879181],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169753497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.845611,34.69261,-82.845611,34.69261",
     "geom:latitude":34.69261,
     "geom:longitude":-82.845611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 Tiger Blvd",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169753497,
-    "wof:lastmodified":1449033072,
+    "wof:lastmodified":1467082378,
     "wof:name":"Local Cash Advance",
     "wof:parent_id":85808845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-82.845611,34.69261,-82.845611,34.69261],
-  "geometry": {"coordinates":[-82.845611,34.69261],"type":"Point"}
+  "bbox": [
+    -82.845611,
+    34.69261,
+    -82.845611,
+    34.69261
+],
+  "geometry": {"coordinates":[-82.84561100000001,34.69261],"type":"Point"}
 }

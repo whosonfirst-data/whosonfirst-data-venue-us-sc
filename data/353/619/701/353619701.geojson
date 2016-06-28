@@ -2,13 +2,14 @@
   "id": 353619701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.017281,34.48685,-82.017281,34.48685",
     "geom:latitude":34.48685,
     "geom:longitude":-82.017281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Greenwood Rd",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353619701,
-    "wof:lastmodified":1449018701,
+    "wof:lastmodified":1467082219,
     "wof:name":"Harvest Market LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-82.017281,34.48685,-82.017281,34.48685],
+  "bbox": [
+    -82.017281,
+    34.48685,
+    -82.017281,
+    34.48685
+],
   "geometry": {"coordinates":[-82.017281,34.48685],"type":"Point"}
 }

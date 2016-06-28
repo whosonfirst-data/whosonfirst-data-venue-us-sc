@@ -2,13 +2,14 @@
   "id": 354326605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.873368,34.123883,-80.873368,34.123883",
     "geom:latitude":34.123883,
     "geom:longitude":-80.873368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10282 Two Notch Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354326605,
-    "wof:lastmodified":1449066650,
+    "wof:lastmodified":1467082431,
     "wof:name":"Our Backyard",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "playground"
     ]
 },
-  "bbox": [-80.873368,34.123883,-80.873368,34.123883],
+  "bbox": [
+    -80.873368,
+    34.123883,
+    -80.873368,
+    34.123883
+],
   "geometry": {"coordinates":[-80.873368,34.123883],"type":"Point"}
 }

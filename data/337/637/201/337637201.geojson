@@ -2,13 +2,14 @@
   "id": 337637201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.653517,34.510899,-82.653517,34.510899",
     "geom:latitude":34.510899,
     "geom:longitude":-82.653517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 N Murray Ave",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337637201,
-    "wof:lastmodified":1449026932,
+    "wof:lastmodified":1467082265,
     "wof:name":"Westar Truck Tire & Alignment",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-82.653517,34.510899,-82.653517,34.510899],
-  "geometry": {"coordinates":[-82.653517,34.510899],"type":"Point"}
+  "bbox": [
+    -82.653517,
+    34.510899,
+    -82.653517,
+    34.510899
+],
+  "geometry": {"coordinates":[-82.65351699999999,34.510899],"type":"Point"}
 }

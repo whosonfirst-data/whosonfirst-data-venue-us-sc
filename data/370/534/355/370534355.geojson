@@ -2,13 +2,14 @@
   "id": 370534355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.396874,33.867624,-80.396874,33.867624",
     "geom:latitude":33.867624,
     "geom:longitude":-80.396874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1714 Hialeah Pkwy",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370534355,
-    "wof:lastmodified":1449029977,
+    "wof:lastmodified":1467082318,
     "wof:name":"TRM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.396874,33.867624,-80.396874,33.867624],
+  "bbox": [
+    -80.396874,
+    33.867624,
+    -80.396874,
+    33.867624
+],
   "geometry": {"coordinates":[-80.396874,33.867624],"type":"Point"}
 }

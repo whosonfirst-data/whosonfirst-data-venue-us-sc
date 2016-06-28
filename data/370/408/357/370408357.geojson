@@ -2,13 +2,14 @@
   "id": 370408357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.217284,34.944899,-82.217284,34.944899",
     "geom:latitude":34.944899,
     "geom:longitude":-82.217284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Arlington Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370408357,
-    "wof:lastmodified":1449029509,
+    "wof:lastmodified":1467082307,
     "wof:name":"M & M Automotive Of Greer Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.217284,34.944899,-82.217284,34.944899],
-  "geometry": {"coordinates":[-82.217284,34.944899],"type":"Point"}
+  "bbox": [
+    -82.217284,
+    34.944899,
+    -82.217284,
+    34.944899
+],
+  "geometry": {"coordinates":[-82.21728400000001,34.944899],"type":"Point"}
 }

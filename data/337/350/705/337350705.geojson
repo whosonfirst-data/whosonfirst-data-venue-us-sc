@@ -2,13 +2,14 @@
   "id": 337350705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.214484,34.70756,-81.214484,34.70756",
     "geom:latitude":34.70756,
     "geom:longitude":-81.214484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Wylie St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337350705,
-    "wof:lastmodified":1449027369,
+    "wof:lastmodified":1467082281,
     "wof:name":"Health DEPT-Wic",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "health"
     ]
 },
-  "bbox": [-81.214484,34.70756,-81.214484,34.70756],
+  "bbox": [
+    -81.214484,
+    34.70756,
+    -81.214484,
+    34.70756
+],
   "geometry": {"coordinates":[-81.214484,34.70756],"type":"Point"}
 }

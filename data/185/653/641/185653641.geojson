@@ -2,13 +2,14 @@
   "id": 185653641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.090362,33.860449,-79.090362,33.860449",
     "geom:latitude":33.860449,
     "geom:longitude":-79.090362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2709 Church St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185653641,
-    "wof:lastmodified":1449006722,
+    "wof:lastmodified":1467082184,
     "wof:name":"Kyoto Fantasy Express",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.090362,33.860449,-79.090362,33.860449],
+  "bbox": [
+    -79.090362,
+    33.860449,
+    -79.090362,
+    33.860449
+],
   "geometry": {"coordinates":[-79.090362,33.860449],"type":"Point"}
 }

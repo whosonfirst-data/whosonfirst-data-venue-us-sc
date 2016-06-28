@@ -2,13 +2,14 @@
   "id": 370406287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.948176,32.808745,-79.948176,32.808745",
     "geom:latitude":32.808745,
     "geom:longitude":-79.948176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Williman St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370406287,
-    "wof:lastmodified":1449030889,
+    "wof:lastmodified":1467082338,
     "wof:name":"Larisey Electric",
     "wof:parent_id":85836137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.948176,32.808745,-79.948176,32.808745],
+  "bbox": [
+    -79.948176,
+    32.808745,
+    -79.948176,
+    32.808745
+],
   "geometry": {"coordinates":[-79.948176,32.808745],"type":"Point"}
 }

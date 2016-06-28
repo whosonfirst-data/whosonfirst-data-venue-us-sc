@@ -2,13 +2,14 @@
   "id": 370343731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.953859,34.105221,-80.953859,34.105221",
     "geom:latitude":34.105221,
     "geom:longitude":-80.953859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8810 Farrow Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370343731,
-    "wof:lastmodified":1449031495,
+    "wof:lastmodified":1467082351,
     "wof:name":"Image Makers Salon",
     "wof:parent_id":85850805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.953859,34.105221,-80.953859,34.105221],
-  "geometry": {"coordinates":[-80.953859,34.105221],"type":"Point"}
+  "bbox": [
+    -80.953859,
+    34.105221,
+    -80.953859,
+    34.105221
+],
+  "geometry": {"coordinates":[-80.95385899999999,34.105221],"type":"Point"}
 }

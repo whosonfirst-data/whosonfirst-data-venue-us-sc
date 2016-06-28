@@ -2,13 +2,14 @@
   "id": 337596731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.255568,34.737398,-82.255568,34.737398",
     "geom:latitude":34.737398,
     "geom:longitude":-82.255568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W Curtis St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337596731,
-    "wof:lastmodified":1449027369,
+    "wof:lastmodified":1467082281,
     "wof:name":"Properties Unlimited",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.255568,34.737398,-82.255568,34.737398],
+  "bbox": [
+    -82.255568,
+    34.737398,
+    -82.255568,
+    34.737398
+],
   "geometry": {"coordinates":[-82.255568,34.737398],"type":"Point"}
 }

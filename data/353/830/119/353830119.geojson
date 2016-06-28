@@ -2,13 +2,14 @@
   "id": 353830119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.240533,34.719496,-81.240533,34.719496",
     "geom:latitude":34.719496,
     "geom:longitude":-81.240533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"773 Pine Ridge Rd",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353830119,
-    "wof:lastmodified":1449018808,
+    "wof:lastmodified":1467082221,
     "wof:name":"Wilks' Alignment & Tire",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alignment"
     ]
 },
-  "bbox": [-81.240533,34.719496,-81.240533,34.719496],
+  "bbox": [
+    -81.240533,
+    34.719496,
+    -81.240533,
+    34.719496
+],
   "geometry": {"coordinates":[-81.240533,34.719496],"type":"Point"}
 }

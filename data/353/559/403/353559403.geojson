@@ -2,13 +2,14 @@
   "id": 353559403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.487766,34.673595,-82.487766,34.673595",
     "geom:latitude":34.673595,
     "geom:longitude":-82.487766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Seiglar Rd",
     "sg:city":"Pelzer",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353559403,
-    "wof:lastmodified":1449020271,
+    "wof:lastmodified":1467082251,
     "wof:name":"Danny Oliver",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.487766,34.673595,-82.487766,34.673595],
-  "geometry": {"coordinates":[-82.487766,34.673595],"type":"Point"}
+  "bbox": [
+    -82.487766,
+    34.673595,
+    -82.487766,
+    34.673595
+],
+  "geometry": {"coordinates":[-82.48776599999999,34.673595],"type":"Point"}
 }

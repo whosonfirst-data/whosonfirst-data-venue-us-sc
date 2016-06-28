@@ -2,13 +2,14 @@
   "id": 353988483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.476512,34.784232,-82.476512,34.784232",
     "geom:latitude":34.784232,
     "geom:longitude":-82.476512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3411 Earle E Morris Jr Hwy",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353988483,
-    "wof:lastmodified":1449019140,
+    "wof:lastmodified":1467082228,
     "wof:name":"Bradford & Assoc",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.476512,34.784232,-82.476512,34.784232],
+  "bbox": [
+    -82.476512,
+    34.784232,
+    -82.476512,
+    34.784232
+],
   "geometry": {"coordinates":[-82.476512,34.784232],"type":"Point"}
 }

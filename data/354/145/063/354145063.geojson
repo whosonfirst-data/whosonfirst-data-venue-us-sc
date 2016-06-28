@@ -2,13 +2,14 @@
   "id": 354145063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.411724,34.847437,-82.411724,34.847437",
     "geom:latitude":34.847437,
     "geom:longitude":-82.411724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 N Markley St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354145063,
-    "wof:lastmodified":1449066420,
+    "wof:lastmodified":1467082426,
     "wof:name":"Broad Street Billiards",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "billiard"
     ]
 },
-  "bbox": [-82.411724,34.847437,-82.411724,34.847437],
-  "geometry": {"coordinates":[-82.411724,34.847437],"type":"Point"}
+  "bbox": [
+    -82.411724,
+    34.847437,
+    -82.411724,
+    34.847437
+],
+  "geometry": {"coordinates":[-82.41172400000001,34.847437],"type":"Point"}
 }

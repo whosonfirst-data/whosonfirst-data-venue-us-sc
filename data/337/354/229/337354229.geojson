@@ -2,13 +2,14 @@
   "id": 337354229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.02863,35.030378,-81.02863,35.030378",
     "geom:latitude":35.030378,
     "geom:longitude":-81.02863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4169 Greenview Ct",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337354229,
-    "wof:lastmodified":1449027652,
+    "wof:lastmodified":1467082292,
     "wof:name":"W L Gore & Associates Inc",
     "wof:parent_id":85810107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-81.02863,35.030378,-81.02863,35.030378],
-  "geometry": {"coordinates":[-81.02863,35.030378],"type":"Point"}
+  "bbox": [
+    -81.02863,
+    35.030378,
+    -81.02863,
+    35.030378
+],
+  "geometry": {"coordinates":[-81.02863000000001,35.030378],"type":"Point"}
 }

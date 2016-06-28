@@ -2,13 +2,14 @@
   "id": 370352489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.86181,33.505736,-80.86181,33.505736",
     "geom:latitude":33.505736,
     "geom:longitude":-80.86181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Dantzler St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370352489,
-    "wof:lastmodified":1449031167,
+    "wof:lastmodified":1467082344,
     "wof:name":"Completions",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.86181,33.505736,-80.86181,33.505736],
-  "geometry": {"coordinates":[-80.86181,33.505736],"type":"Point"}
+  "bbox": [
+    -80.86181,
+    33.505736,
+    -80.86181,
+    33.505736
+],
+  "geometry": {"coordinates":[-80.86181000000001,33.505736],"type":"Point"}
 }

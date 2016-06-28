@@ -2,13 +2,14 @@
   "id": 354384231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.252704,34.204325,-79.252704,34.204325",
     "geom:latitude":34.204325,
     "geom:longitude":-79.252704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 E Laurel St",
     "sg:city":"Mullins",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354384231,
-    "wof:lastmodified":1449066156,
+    "wof:lastmodified":1467082420,
     "wof:name":"Balloons Boutique Etc",
     "wof:parent_id":85837853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-79.252704,34.204325,-79.252704,34.204325],
-  "geometry": {"coordinates":[-79.252704,34.204325],"type":"Point"}
+  "bbox": [
+    -79.252704,
+    34.204325,
+    -79.252704,
+    34.204325
+],
+  "geometry": {"coordinates":[-79.25270399999999,34.204325],"type":"Point"}
 }

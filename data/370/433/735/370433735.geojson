@@ -2,13 +2,14 @@
   "id": 370433735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.14913,34.888609,-81.14913,34.888609",
     "geom:latitude":34.888609,
     "geom:longitude":-81.14913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4183 Mockingbird Ln",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370433735,
-    "wof:lastmodified":1449029481,
+    "wof:lastmodified":1467082307,
     "wof:name":"Rogers Grading Inc",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.14913,34.888609,-81.14913,34.888609],
+  "bbox": [
+    -81.14913,
+    34.888609,
+    -81.14913,
+    34.888609
+],
   "geometry": {"coordinates":[-81.14913,34.888609],"type":"Point"}
 }

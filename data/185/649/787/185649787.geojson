@@ -2,13 +2,14 @@
   "id": 185649787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.942495,33.229326,-79.942495,33.229326",
     "geom:latitude":33.229326,
     "geom:longitude":-79.942495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1526 Old Cherry Hill Rd",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185649787,
-    "wof:lastmodified":1449007684,
+    "wof:lastmodified":1467082199,
     "wof:name":"G-1 Mechanical",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "relay"
     ]
 },
-  "bbox": [-79.942495,33.229326,-79.942495,33.229326],
-  "geometry": {"coordinates":[-79.942495,33.229326],"type":"Point"}
+  "bbox": [
+    -79.942495,
+    33.229326,
+    -79.942495,
+    33.229326
+],
+  "geometry": {"coordinates":[-79.94249499999999,33.229326],"type":"Point"}
 }

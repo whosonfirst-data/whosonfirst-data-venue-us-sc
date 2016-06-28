@@ -2,13 +2,14 @@
   "id": 186210637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.320951,34.76162,-82.320951,34.76162",
     "geom:latitude":34.76162,
     "geom:longitude":-82.320951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Bel Arbor Ln",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186210637,
-    "wof:lastmodified":1449051300,
+    "wof:lastmodified":1467082396,
     "wof:name":"Centex",
     "wof:parent_id":85806237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.320951,34.76162,-82.320951,34.76162],
-  "geometry": {"coordinates":[-82.320951,34.76162],"type":"Point"}
+  "bbox": [
+    -82.320951,
+    34.76162,
+    -82.320951,
+    34.76162
+],
+  "geometry": {"coordinates":[-82.32095099999999,34.76162],"type":"Point"}
 }

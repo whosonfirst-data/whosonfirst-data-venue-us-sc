@@ -2,13 +2,14 @@
   "id": 370905073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.040515,34.043093,-81.040515,34.043093",
     "geom:latitude":34.043093,
     "geom:longitude":-81.040515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 Wildwood Ave",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370905073,
-    "wof:lastmodified":1449030406,
+    "wof:lastmodified":1467082327,
     "wof:name":"Lutheran Church-The Ascension",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.040515,34.043093,-81.040515,34.043093],
+  "bbox": [
+    -81.040515,
+    34.043093,
+    -81.040515,
+    34.043093
+],
   "geometry": {"coordinates":[-81.040515,34.043093],"type":"Point"}
 }

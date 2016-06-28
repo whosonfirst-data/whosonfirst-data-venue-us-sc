@@ -2,13 +2,14 @@
   "id": 370812741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.640766,35.084449,-81.640766,35.084449",
     "geom:latitude":35.084449,
     "geom:longitude":-81.640766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 N Granard St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370812741,
-    "wof:lastmodified":1449029156,
+    "wof:lastmodified":1467082300,
     "wof:name":"First Piedmont Federal Savings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.640766,35.084449,-81.640766,35.084449],
+  "bbox": [
+    -81.640766,
+    35.084449,
+    -81.640766,
+    35.084449
+],
   "geometry": {"coordinates":[-81.640766,35.084449],"type":"Point"}
 }

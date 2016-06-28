@@ -2,13 +2,14 @@
   "id": 370273217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.64512,34.784231,-81.64512,34.784231",
     "geom:latitude":34.784231,
     "geom:longitude":-81.64512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Sonoco Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":370273217,
-    "wof:lastmodified":1449030839,
+    "wof:lastmodified":1467082337,
     "wof:name":"Sonoco-Crellin Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.64512,34.784231,-81.64512,34.784231],
-  "geometry": {"coordinates":[-81.64512,34.784231],"type":"Point"}
+  "bbox": [
+    -81.64512,
+    34.784231,
+    -81.64512,
+    34.784231
+],
+  "geometry": {"coordinates":[-81.64512000000001,34.784231],"type":"Point"}
 }

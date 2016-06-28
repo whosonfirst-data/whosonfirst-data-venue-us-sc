@@ -2,13 +2,14 @@
   "id": 186304667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.933867,32.789581,-79.933867,32.789581",
     "geom:latitude":32.789581,
     "geom:longitude":-79.933867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Elizabeth St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186304667,
-    "wof:lastmodified":1449052346,
+    "wof:lastmodified":1467082406,
     "wof:name":"Flower Cottage Inc",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.933867,32.789581,-79.933867,32.789581],
-  "geometry": {"coordinates":[-79.933867,32.789581],"type":"Point"}
+  "bbox": [
+    -79.933867,
+    32.789581,
+    -79.933867,
+    32.789581
+],
+  "geometry": {"coordinates":[-79.93386700000001,32.789581],"type":"Point"}
 }

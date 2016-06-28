@@ -2,13 +2,14 @@
   "id": 370351837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.422452,33.413415,-81.422452,33.413415",
     "geom:latitude":33.413415,
     "geom:longitude":-81.422452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 Hudgins Rd",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370351837,
-    "wof:lastmodified":1449031959,
+    "wof:lastmodified":1467082362,
     "wof:name":"Low Country Foundation Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.422452,33.413415,-81.422452,33.413415],
-  "geometry": {"coordinates":[-81.422452,33.413415],"type":"Point"}
+  "bbox": [
+    -81.422452,
+    33.413415,
+    -81.422452,
+    33.413415
+],
+  "geometry": {"coordinates":[-81.42245200000001,33.413415],"type":"Point"}
 }

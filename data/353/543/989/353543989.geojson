@@ -2,13 +2,14 @@
   "id": 353543989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.942799,32.781553,-79.942799,32.781553",
     "geom:latitude":32.781553,
     "geom:longitude":-79.942799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Rutledge Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353543989,
-    "wof:lastmodified":1449018753,
+    "wof:lastmodified":1467082220,
     "wof:name":"Personal Tax Inc",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-79.942799,32.781553,-79.942799,32.781553],
-  "geometry": {"coordinates":[-79.942799,32.781553],"type":"Point"}
+  "bbox": [
+    -79.942799,
+    32.781553,
+    -79.942799,
+    32.781553
+],
+  "geometry": {"coordinates":[-79.94279899999999,32.781553],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370496659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.403988,34.845539,-82.403988,34.845539",
     "geom:latitude":34.845539,
     "geom:longitude":-82.403988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Rhett St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370496659,
-    "wof:lastmodified":1449031952,
+    "wof:lastmodified":1467082362,
     "wof:name":"INDUSTRIAL Controls Inc",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "control"
     ]
 },
-  "bbox": [-82.403988,34.845539,-82.403988,34.845539],
+  "bbox": [
+    -82.403988,
+    34.845539,
+    -82.403988,
+    34.845539
+],
   "geometry": {"coordinates":[-82.403988,34.845539],"type":"Point"}
 }

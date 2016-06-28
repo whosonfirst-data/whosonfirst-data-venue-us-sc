@@ -2,13 +2,14 @@
   "id": 186123309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.67381,34.646982,-82.67381,34.646982",
     "geom:latitude":34.646982,
     "geom:longitude":-82.67381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5406 Porter Rd",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186123309,
-    "wof:lastmodified":1449051180,
+    "wof:lastmodified":1467082395,
     "wof:name":"Porter Corporation",
     "wof:parent_id":85854499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.67381,34.646982,-82.67381,34.646982],
+  "bbox": [
+    -82.67381,
+    34.646982,
+    -82.67381,
+    34.646982
+],
   "geometry": {"coordinates":[-82.67381,34.646982],"type":"Point"}
 }

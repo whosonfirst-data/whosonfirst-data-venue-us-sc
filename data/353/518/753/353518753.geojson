@@ -2,13 +2,14 @@
   "id": 353518753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.651716,34.842285,-82.651716,34.842285",
     "geom:latitude":34.842285,
     "geom:longitude":-82.651716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 McGaha Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353518753,
-    "wof:lastmodified":1449019694,
+    "wof:lastmodified":1467082239,
     "wof:name":"Watson Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-82.651716,34.842285,-82.651716,34.842285],
-  "geometry": {"coordinates":[-82.651716,34.842285],"type":"Point"}
+  "bbox": [
+    -82.651716,
+    34.842285,
+    -82.651716,
+    34.842285
+],
+  "geometry": {"coordinates":[-82.65171599999999,34.842285],"type":"Point"}
 }

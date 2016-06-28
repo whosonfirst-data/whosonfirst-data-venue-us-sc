@@ -2,13 +2,14 @@
   "id": 370941173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.998743,32.854935,-79.998743,32.854935",
     "geom:latitude":32.854935,
     "geom:longitude":-79.998743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4006 Niagara St",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370941173,
-    "wof:lastmodified":1449031099,
+    "wof:lastmodified":1467082342,
     "wof:name":"Wright's Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.998743,32.854935,-79.998743,32.854935],
+  "bbox": [
+    -79.998743,
+    32.854935,
+    -79.998743,
+    32.854935
+],
   "geometry": {"coordinates":[-79.998743,32.854935],"type":"Point"}
 }

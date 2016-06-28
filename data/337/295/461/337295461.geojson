@@ -2,13 +2,14 @@
   "id": 337295461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.114163,32.99866,-80.114163,32.99866",
     "geom:latitude":32.99866,
     "geom:longitude":-80.114163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9853 Hwy 78 E",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337295461,
-    "wof:lastmodified":1449027257,
+    "wof:lastmodified":1467082277,
     "wof:name":"Van Waters & Rogers",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.114163,32.99866,-80.114163,32.99866],
+  "bbox": [
+    -80.114163,
+    32.99866,
+    -80.114163,
+    32.99866
+],
   "geometry": {"coordinates":[-80.114163,32.99866],"type":"Point"}
 }

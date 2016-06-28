@@ -2,13 +2,14 @@
   "id": 354057511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.626939,34.826764,-82.626939,34.826764",
     "geom:latitude":34.826764,
     "geom:longitude":-82.626939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Boxwood Ln",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354057511,
-    "wof:lastmodified":1449066764,
+    "wof:lastmodified":1467082433,
     "wof:name":"Peter Glaser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "devices"
     ]
 },
-  "bbox": [-82.626939,34.826764,-82.626939,34.826764],
-  "geometry": {"coordinates":[-82.626939,34.826764],"type":"Point"}
+  "bbox": [
+    -82.626939,
+    34.826764,
+    -82.626939,
+    34.826764
+],
+  "geometry": {"coordinates":[-82.62693899999999,34.826764],"type":"Point"}
 }

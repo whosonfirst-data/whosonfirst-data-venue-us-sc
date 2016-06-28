@@ -2,13 +2,14 @@
   "id": 370872353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.330789,34.868438,-82.330789,34.868438",
     "geom:latitude":34.868438,
     "geom:longitude":-82.330789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Spring Forest Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370872353,
-    "wof:lastmodified":1449029387,
+    "wof:lastmodified":1467082305,
     "wof:name":"Temple Of Israel",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "synagogue"
     ]
 },
-  "bbox": [-82.330789,34.868438,-82.330789,34.868438],
+  "bbox": [
+    -82.330789,
+    34.868438,
+    -82.330789,
+    34.868438
+],
   "geometry": {"coordinates":[-82.330789,34.868438],"type":"Point"}
 }

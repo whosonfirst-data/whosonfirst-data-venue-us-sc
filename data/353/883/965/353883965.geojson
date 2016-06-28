@@ -2,13 +2,14 @@
   "id": 353883965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.756218,34.227353,-79.756218,34.227353",
     "geom:latitude":34.227353,
     "geom:longitude":-79.756218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1812 N Irby St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353883965,
-    "wof:lastmodified":1449020217,
+    "wof:lastmodified":1467082250,
     "wof:name":"South Carolina Elc & Gas Co",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-79.756218,34.227353,-79.756218,34.227353],
+  "bbox": [
+    -79.756218,
+    34.227353,
+    -79.756218,
+    34.227353
+],
   "geometry": {"coordinates":[-79.756218,34.227353],"type":"Point"}
 }

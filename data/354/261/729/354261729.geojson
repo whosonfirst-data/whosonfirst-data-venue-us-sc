@@ -2,13 +2,14 @@
   "id": 354261729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.879908,35.140335,-81.879908,35.140335",
     "geom:latitude":35.140335,
     "geom:longitude":-81.879908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Pruitt Dr",
     "sg:city":"Wellford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354261729,
-    "wof:lastmodified":1449065959,
+    "wof:lastmodified":1467082415,
     "wof:name":"American Remodeling",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-81.879908,35.140335,-81.879908,35.140335],
+  "bbox": [
+    -81.879908,
+    35.140335,
+    -81.879908,
+    35.140335
+],
   "geometry": {"coordinates":[-81.879908,35.140335],"type":"Point"}
 }

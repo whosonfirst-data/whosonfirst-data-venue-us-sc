@@ -2,13 +2,14 @@
   "id": 354213803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.088471,33.969816,-81.088471,33.969816",
     "geom:latitude":33.969816,
     "geom:longitude":-81.088471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2127 Kirkland St",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354213803,
-    "wof:lastmodified":1449065950,
+    "wof:lastmodified":1467082415,
     "wof:name":"Westside Mobile Home Park",
     "wof:parent_id":85808009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-81.088471,33.969816,-81.088471,33.969816],
+  "bbox": [
+    -81.088471,
+    33.969816,
+    -81.088471,
+    33.969816
+],
   "geometry": {"coordinates":[-81.088471,33.969816],"type":"Point"}
 }

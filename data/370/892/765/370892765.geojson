@@ -2,13 +2,14 @@
   "id": 370892765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.071435,33.818867,-81.071435,33.818867",
     "geom:latitude":33.818867,
     "geom:longitude":-81.071435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Irvin Jumper St",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370892765,
-    "wof:lastmodified":1449029585,
+    "wof:lastmodified":1467082309,
     "wof:name":"Hendrix Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.071435,33.818867,-81.071435,33.818867],
-  "geometry": {"coordinates":[-81.071435,33.818867],"type":"Point"}
+  "bbox": [
+    -81.071435,
+    33.818867,
+    -81.071435,
+    33.818867
+],
+  "geometry": {"coordinates":[-81.07143499999999,33.818867],"type":"Point"}
 }

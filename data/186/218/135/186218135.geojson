@@ -2,13 +2,14 @@
   "id": 186218135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.858485,34.283649,-79.858485,34.283649",
     "geom:latitude":34.283649,
     "geom:longitude":-79.858485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Express Ln",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186218135,
-    "wof:lastmodified":1449052072,
+    "wof:lastmodified":1467082404,
     "wof:name":"Radio Shack",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-79.858485,34.283649,-79.858485,34.283649],
+  "bbox": [
+    -79.858485,
+    34.283649,
+    -79.858485,
+    34.283649
+],
   "geometry": {"coordinates":[-79.858485,34.283649],"type":"Point"}
 }

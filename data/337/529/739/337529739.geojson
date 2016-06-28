@@ -2,13 +2,14 @@
   "id": 337529739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.448976,33.74844,-79.448976,33.74844",
     "geom:latitude":33.74844,
     "geom:longitude":-79.448976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 College St",
     "sg:city":"Hemingway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337529739,
-    "wof:lastmodified":1449027297,
+    "wof:lastmodified":1467082279,
     "wof:name":"Peoples Grain Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grain"
     ]
 },
-  "bbox": [-79.448976,33.74844,-79.448976,33.74844],
+  "bbox": [
+    -79.448976,
+    33.74844,
+    -79.448976,
+    33.74844
+],
   "geometry": {"coordinates":[-79.448976,33.74844],"type":"Point"}
 }

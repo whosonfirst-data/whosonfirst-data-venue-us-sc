@@ -2,13 +2,14 @@
   "id": 185911867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.991567,32.828359,-79.991567,32.828359",
     "geom:latitude":32.828359,
     "geom:longitude":-79.991567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 River Reach Way",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185911867,
-    "wof:lastmodified":1449007969,
+    "wof:lastmodified":1467082203,
     "wof:name":"Synergy Search",
     "wof:parent_id":85840691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.991567,32.828359,-79.991567,32.828359],
+  "bbox": [
+    -79.991567,
+    32.828359,
+    -79.991567,
+    32.828359
+],
   "geometry": {"coordinates":[-79.991567,32.828359],"type":"Point"}
 }

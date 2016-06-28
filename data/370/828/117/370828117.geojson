@@ -2,13 +2,14 @@
   "id": 370828117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.046122,32.820864,-80.046122,32.820864",
     "geom:latitude":32.820864,
     "geom:longitude":-80.046122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1966 Treebark Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370828117,
-    "wof:lastmodified":1449030799,
+    "wof:lastmodified":1467082336,
     "wof:name":"Craig & Co",
     "wof:parent_id":85809785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.046122,32.820864,-80.046122,32.820864],
+  "bbox": [
+    -80.046122,
+    32.820864,
+    -80.046122,
+    32.820864
+],
   "geometry": {"coordinates":[-80.046122,32.820864],"type":"Point"}
 }

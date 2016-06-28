@@ -2,13 +2,14 @@
   "id": 354349145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.474288,34.783088,-82.474288,34.783088",
     "geom:latitude":34.783088,
     "geom:longitude":-82.474288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3017 Earle E Morris Jr Hwy",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354349145,
-    "wof:lastmodified":1449066560,
+    "wof:lastmodified":1467082429,
     "wof:name":"American Liba Inc",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "representative"
     ]
 },
-  "bbox": [-82.474288,34.783088,-82.474288,34.783088],
+  "bbox": [
+    -82.474288,
+    34.783088,
+    -82.474288,
+    34.783088
+],
   "geometry": {"coordinates":[-82.474288,34.783088],"type":"Point"}
 }

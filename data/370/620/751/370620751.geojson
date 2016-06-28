@@ -2,13 +2,14 @@
   "id": 370620751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.709665,32.247811,-80.709665,32.247811",
     "geom:latitude":32.247811,
     "geom:longitude":-80.709665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Stonegate Dr",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370620751,
-    "wof:lastmodified":1449032182,
+    "wof:lastmodified":1467082367,
     "wof:name":"Richard Carpentry & Custom Int",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-80.709665,32.247811,-80.709665,32.247811],
+  "bbox": [
+    -80.709665,
+    32.247811,
+    -80.709665,
+    32.247811
+],
   "geometry": {"coordinates":[-80.709665,32.247811],"type":"Point"}
 }

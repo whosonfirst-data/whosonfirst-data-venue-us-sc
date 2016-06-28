@@ -2,13 +2,14 @@
   "id": 169844305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.951027,34.052889,-80.951027,34.052889",
     "geom:latitude":34.052889,
     "geom:longitude":-80.951027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6820 Wedgefield Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169844305,
-    "wof:lastmodified":1449034078,
+    "wof:lastmodified":1467082382,
     "wof:name":"Forest Lake Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-80.951027,34.052889,-80.951027,34.052889],
+  "bbox": [
+    -80.951027,
+    34.052889,
+    -80.951027,
+    34.052889
+],
   "geometry": {"coordinates":[-80.951027,34.052889],"type":"Point"}
 }

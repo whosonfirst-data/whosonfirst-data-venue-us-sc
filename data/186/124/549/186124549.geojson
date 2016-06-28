@@ -2,13 +2,14 @@
   "id": 186124549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.932923,34.966748,-81.932923,34.966748",
     "geom:latitude":34.966748,
     "geom:longitude":-81.932923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"991 N Pine St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186124549,
-    "wof:lastmodified":1449052822,
+    "wof:lastmodified":1467082411,
     "wof:name":"Croner Marker",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-81.932923,34.966748,-81.932923,34.966748],
+  "bbox": [
+    -81.932923,
+    34.966748,
+    -81.932923,
+    34.966748
+],
   "geometry": {"coordinates":[-81.932923,34.966748],"type":"Point"}
 }

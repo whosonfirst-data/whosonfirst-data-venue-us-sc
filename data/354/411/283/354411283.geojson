@@ -2,13 +2,14 @@
   "id": 354411283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.715281,33.922877,-80.715281,33.922877",
     "geom:latitude":33.922877,
     "geom:longitude":-80.715281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Southwind Rd",
     "sg:city":"Eastover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354411283,
-    "wof:lastmodified":1449066025,
+    "wof:lastmodified":1467082416,
     "wof:name":"Pete Bostic Towing Svc",
     "wof:parent_id":85830159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.715281,33.922877,-80.715281,33.922877],
+  "bbox": [
+    -80.715281,
+    33.922877,
+    -80.715281,
+    33.922877
+],
   "geometry": {"coordinates":[-80.715281,33.922877],"type":"Point"}
 }

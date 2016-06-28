@@ -2,13 +2,14 @@
   "id": 353655115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.136198,34.718335,-83.136198,34.718335",
     "geom:latitude":34.718335,
     "geom:longitude":-83.136198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Ramsey Creek Rd",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353655115,
-    "wof:lastmodified":1449019724,
+    "wof:lastmodified":1467082240,
     "wof:name":"M & M Tooling Inc",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-83.136198,34.718335,-83.136198,34.718335],
-  "geometry": {"coordinates":[-83.136198,34.718335],"type":"Point"}
+  "bbox": [
+    -83.136198,
+    34.718335,
+    -83.136198,
+    34.718335
+],
+  "geometry": {"coordinates":[-83.13619799999999,34.718335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185723447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.2566,32.684098,-80.2566,32.684098",
     "geom:latitude":32.684098,
     "geom:longitude":-80.2566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4135 Cobbler Dr",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185723447,
-    "wof:lastmodified":1449007552,
+    "wof:lastmodified":1467082197,
     "wof:name":"J P Anderson Well & Pump Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drilling"
     ]
 },
-  "bbox": [-80.2566,32.684098,-80.2566,32.684098],
-  "geometry": {"coordinates":[-80.2566,32.684098],"type":"Point"}
+  "bbox": [
+    -80.2566,
+    32.684098,
+    -80.2566,
+    32.684098
+],
+  "geometry": {"coordinates":[-80.25660000000001,32.684098],"type":"Point"}
 }

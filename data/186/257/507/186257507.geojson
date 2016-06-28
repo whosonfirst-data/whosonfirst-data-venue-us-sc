@@ -2,13 +2,14 @@
   "id": 186257507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.796458,33.697705,-79.796458,33.697705",
     "geom:latitude":33.697705,
     "geom:longitude":-79.796458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"864 Kindale Park Rd",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186257507,
-    "wof:lastmodified":1449051166,
+    "wof:lastmodified":1467082395,
     "wof:name":"Edward Pendergrass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.796458,33.697705,-79.796458,33.697705],
+  "bbox": [
+    -79.796458,
+    33.697705,
+    -79.796458,
+    33.697705
+],
   "geometry": {"coordinates":[-79.796458,33.697705],"type":"Point"}
 }

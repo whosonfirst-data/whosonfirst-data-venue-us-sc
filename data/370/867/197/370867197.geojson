@@ -2,13 +2,14 @@
   "id": 370867197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.018476,34.962164,-82.018476,34.962164",
     "geom:latitude":34.962164,
     "geom:longitude":-82.018476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4240 N Blackstock Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370867197,
-    "wof:lastmodified":1449030553,
+    "wof:lastmodified":1467082331,
     "wof:name":"Bullington Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.018476,34.962164,-82.018476,34.962164],
-  "geometry": {"coordinates":[-82.018476,34.962164],"type":"Point"}
+  "bbox": [
+    -82.018476,
+    34.962164,
+    -82.018476,
+    34.962164
+],
+  "geometry": {"coordinates":[-82.01847600000001,34.962164],"type":"Point"}
 }

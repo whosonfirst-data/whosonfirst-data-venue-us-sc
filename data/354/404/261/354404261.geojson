@@ -2,13 +2,14 @@
   "id": 354404261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.011379,34.834046,-81.011379,34.834046",
     "geom:latitude":34.834046,
     "geom:longitude":-81.011379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2578 Tuckaway Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354404261,
-    "wof:lastmodified":1449067104,
+    "wof:lastmodified":1467082441,
     "wof:name":"Pinetuck Golf Club Inc",
     "wof:parent_id":85851537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "golf"
     ]
 },
-  "bbox": [-81.011379,34.834046,-81.011379,34.834046],
-  "geometry": {"coordinates":[-81.011379,34.834046],"type":"Point"}
+  "bbox": [
+    -81.011379,
+    34.834046,
+    -81.011379,
+    34.834046
+],
+  "geometry": {"coordinates":[-81.01137900000001,34.834046],"type":"Point"}
 }

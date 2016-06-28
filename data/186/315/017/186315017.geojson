@@ -2,13 +2,14 @@
   "id": 186315017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.27572,34.820472,-82.27572,34.820472",
     "geom:latitude":34.820472,
     "geom:longitude":-82.27572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Rocky Creek Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186315017,
-    "wof:lastmodified":1449052899,
+    "wof:lastmodified":1467082412,
     "wof:name":"Chandler Plumbing",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.27572,34.820472,-82.27572,34.820472],
-  "geometry": {"coordinates":[-82.27572,34.820472],"type":"Point"}
+  "bbox": [
+    -82.27572,
+    34.820472,
+    -82.27572,
+    34.820472
+],
+  "geometry": {"coordinates":[-82.27572000000001,34.820472],"type":"Point"}
 }

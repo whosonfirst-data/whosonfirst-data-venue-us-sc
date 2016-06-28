@@ -2,13 +2,14 @@
   "id": 370607903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.578397,33.192054,-80.578397,33.192054",
     "geom:latitude":33.192054,
     "geom:longitude":-80.578397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Behling Ct",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370607903,
-    "wof:lastmodified":1449029540,
+    "wof:lastmodified":1467082308,
     "wof:name":"St George Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.578397,33.192054,-80.578397,33.192054],
+  "bbox": [
+    -80.578397,
+    33.192054,
+    -80.578397,
+    33.192054
+],
   "geometry": {"coordinates":[-80.578397,33.192054],"type":"Point"}
 }

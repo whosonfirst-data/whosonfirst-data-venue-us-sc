@@ -2,13 +2,14 @@
   "id": 353703903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.014757,34.499844,-82.014757,34.499844",
     "geom:latitude":34.499844,
     "geom:longitude":-82.014757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E Laurens St",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353703903,
-    "wof:lastmodified":1449019036,
+    "wof:lastmodified":1467082225,
     "wof:name":"Stitches Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.014757,34.499844,-82.014757,34.499844],
+  "bbox": [
+    -82.014757,
+    34.499844,
+    -82.014757,
+    34.499844
+],
   "geometry": {"coordinates":[-82.014757,34.499844],"type":"Point"}
 }

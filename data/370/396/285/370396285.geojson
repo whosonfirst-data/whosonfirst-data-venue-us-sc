@@ -2,13 +2,14 @@
   "id": 370396285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.938566,32.789041,-79.938566,32.789041",
     "geom:latitude":32.789041,
     "geom:longitude":-79.938566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"469 King St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370396285,
-    "wof:lastmodified":1449031291,
+    "wof:lastmodified":1467082347,
     "wof:name":"Lulan",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-79.938566,32.789041,-79.938566,32.789041],
-  "geometry": {"coordinates":[-79.938566,32.789041],"type":"Point"}
+  "bbox": [
+    -79.938566,
+    32.789041,
+    -79.938566,
+    32.789041
+],
+  "geometry": {"coordinates":[-79.93856599999999,32.789041],"type":"Point"}
 }

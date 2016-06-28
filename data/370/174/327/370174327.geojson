@@ -2,13 +2,14 @@
   "id": 370174327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.82518,33.682353,-79.82518,33.682353",
     "geom:latitude":33.682353,
     "geom:longitude":-79.82518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 N Longstreet St",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370174327,
-    "wof:lastmodified":1449029556,
+    "wof:lastmodified":1467082308,
     "wof:name":"Ward's Locksmith & Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-79.82518,33.682353,-79.82518,33.682353],
+  "bbox": [
+    -79.82518,
+    33.682353,
+    -79.82518,
+    33.682353
+],
   "geometry": {"coordinates":[-79.82518,33.682353],"type":"Point"}
 }

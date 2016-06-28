@@ -2,13 +2,14 @@
   "id": 185980159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.88151,34.473469,-81.88151,34.473469",
     "geom:latitude":34.473469,
     "geom:longitude":-81.88151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 W Main St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185980159,
-    "wof:lastmodified":1449006711,
+    "wof:lastmodified":1467082184,
     "wof:name":"Wilson's Curb Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-81.88151,34.473469,-81.88151,34.473469],
-  "geometry": {"coordinates":[-81.88151,34.473469],"type":"Point"}
+  "bbox": [
+    -81.88151,
+    34.473469,
+    -81.88151,
+    34.473469
+],
+  "geometry": {"coordinates":[-81.88151000000001,34.473469],"type":"Point"}
 }

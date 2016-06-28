@@ -2,13 +2,14 @@
   "id": 354293839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.879592,33.692026,-78.879592,33.692026",
     "geom:latitude":33.692026,
     "geom:longitude":-78.879592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 9th Ave N",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354293839,
-    "wof:lastmodified":1449066263,
+    "wof:lastmodified":1467082422,
     "wof:name":"Ocean Front Grill",
     "wof:parent_id":85816109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.879592,33.692026,-78.879592,33.692026],
+  "bbox": [
+    -78.879592,
+    33.692026,
+    -78.879592,
+    33.692026
+],
   "geometry": {"coordinates":[-78.879592,33.692026],"type":"Point"}
 }

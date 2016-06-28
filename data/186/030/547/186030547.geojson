@@ -2,13 +2,14 @@
   "id": 186030547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.676359,34.603771,-79.676359,34.603771",
     "geom:latitude":34.603771,
     "geom:longitude":-79.676359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Throop St",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186030547,
-    "wof:lastmodified":1449051367,
+    "wof:lastmodified":1467082397,
     "wof:name":"Edward's Refrigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.676359,34.603771,-79.676359,34.603771],
-  "geometry": {"coordinates":[-79.676359,34.603771],"type":"Point"}
+  "bbox": [
+    -79.676359,
+    34.603771,
+    -79.676359,
+    34.603771
+],
+  "geometry": {"coordinates":[-79.67635900000001,34.603771],"type":"Point"}
 }

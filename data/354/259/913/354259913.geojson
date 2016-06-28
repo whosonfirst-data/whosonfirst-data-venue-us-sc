@@ -2,13 +2,14 @@
   "id": 354259913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.287048,33.406827,-79.287048,33.406827",
     "geom:latitude":33.406827,
     "geom:longitude":-79.287048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"266 Lakewood Ave",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354259913,
-    "wof:lastmodified":1449066320,
+    "wof:lastmodified":1467082423,
     "wof:name":"Lakewood Baptist Chr Parsonage",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.287048,33.406827,-79.287048,33.406827],
+  "bbox": [
+    -79.287048,
+    33.406827,
+    -79.287048,
+    33.406827
+],
   "geometry": {"coordinates":[-79.287048,33.406827],"type":"Point"}
 }

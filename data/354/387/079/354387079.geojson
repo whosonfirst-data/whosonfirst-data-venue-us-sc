@@ -2,13 +2,14 @@
   "id": 354387079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.677412,33.829193,-78.677412,33.829193",
     "geom:latitude":33.829193,
     "geom:longitude":-78.677412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 2nd Ave N",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354387079,
-    "wof:lastmodified":1449067436,
+    "wof:lastmodified":1467082449,
     "wof:name":"Ink Spot",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-78.677412,33.829193,-78.677412,33.829193],
+  "bbox": [
+    -78.677412,
+    33.829193,
+    -78.677412,
+    33.829193
+],
   "geometry": {"coordinates":[-78.677412,33.829193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185790059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.890325,32.801033,-79.890325,32.801033",
     "geom:latitude":32.801033,
     "geom:longitude":-79.890325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"973 Houston Northcutt Blvd",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185790059,
-    "wof:lastmodified":1449007857,
+    "wof:lastmodified":1467082201,
     "wof:name":"Back Bay Village LLC",
     "wof:parent_id":85852031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.890325,32.801033,-79.890325,32.801033],
+  "bbox": [
+    -79.890325,
+    32.801033,
+    -79.890325,
+    32.801033
+],
   "geometry": {"coordinates":[-79.890325,32.801033],"type":"Point"}
 }

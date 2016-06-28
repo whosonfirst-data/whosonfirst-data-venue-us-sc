@@ -2,13 +2,14 @@
   "id": 186055061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.856141,35.145845,-81.856141,35.145845",
     "geom:latitude":35.145845,
     "geom:longitude":-81.856141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S Lee St",
     "sg:city":"Chesnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186055061,
-    "wof:lastmodified":1449051000,
+    "wof:lastmodified":1467082394,
     "wof:name":"Charles Lea Ctr",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-81.856141,35.145845,-81.856141,35.145845],
-  "geometry": {"coordinates":[-81.856141,35.145845],"type":"Point"}
+  "bbox": [
+    -81.856141,
+    35.145845,
+    -81.856141,
+    35.145845
+],
+  "geometry": {"coordinates":[-81.85614099999999,35.145845],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185621557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.540591,34.629774,-80.540591,34.629774",
     "geom:latitude":34.629774,
     "geom:longitude":-80.540591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7189 Flat Creek Rd",
     "sg:city":"Kershaw",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185621557,
-    "wof:lastmodified":1449008034,
+    "wof:lastmodified":1467082204,
     "wof:name":"Gordon Kennington",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "egg"
     ]
 },
-  "bbox": [-80.540591,34.629774,-80.540591,34.629774],
-  "geometry": {"coordinates":[-80.540591,34.629774],"type":"Point"}
+  "bbox": [
+    -80.540591,
+    34.629774,
+    -80.540591,
+    34.629774
+],
+  "geometry": {"coordinates":[-80.54059100000001,34.629774],"type":"Point"}
 }

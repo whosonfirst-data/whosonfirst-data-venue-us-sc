@@ -2,13 +2,14 @@
   "id": 370346503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.178913,34.087669,-81.178913,34.087669",
     "geom:latitude":34.087669,
     "geom:longitude":-81.178913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 Lake Murray Blvd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370346503,
-    "wof:lastmodified":1449029049,
+    "wof:lastmodified":1467082297,
     "wof:name":"Frank's Car Wash",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-81.178913,34.087669,-81.178913,34.087669],
-  "geometry": {"coordinates":[-81.178913,34.087669],"type":"Point"}
+  "bbox": [
+    -81.178913,
+    34.087669,
+    -81.178913,
+    34.087669
+],
+  "geometry": {"coordinates":[-81.17891299999999,34.087669],"type":"Point"}
 }

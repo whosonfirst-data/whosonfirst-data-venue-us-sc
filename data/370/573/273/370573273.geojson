@@ -2,13 +2,14 @@
   "id": 370573273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.924449,33.401205,-79.924449,33.401205",
     "geom:latitude":33.401205,
     "geom:longitude":-79.924449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3856 Byrnes Dr",
     "sg:city":"St Stephen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370573273,
-    "wof:lastmodified":1449031594,
+    "wof:lastmodified":1467082354,
     "wof:name":"L L & B & B Sporting Goods",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.924449,33.401205,-79.924449,33.401205],
+  "bbox": [
+    -79.924449,
+    33.401205,
+    -79.924449,
+    33.401205
+],
   "geometry": {"coordinates":[-79.924449,33.401205],"type":"Point"}
 }

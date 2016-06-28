@@ -2,13 +2,14 @@
   "id": 353502861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.238244,34.73674,-82.238244,34.73674",
     "geom:latitude":34.73674,
     "geom:longitude":-82.238244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Westminister St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353502861,
-    "wof:lastmodified":1449019432,
+    "wof:lastmodified":1467082234,
     "wof:name":"CF Industries Inc",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.238244,34.73674,-82.238244,34.73674],
-  "geometry": {"coordinates":[-82.238244,34.73674],"type":"Point"}
+  "bbox": [
+    -82.238244,
+    34.73674,
+    -82.238244,
+    34.73674
+],
+  "geometry": {"coordinates":[-82.23824399999999,34.73674],"type":"Point"}
 }

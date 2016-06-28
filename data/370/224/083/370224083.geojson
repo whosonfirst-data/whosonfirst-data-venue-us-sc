@@ -2,13 +2,14 @@
   "id": 370224083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.213475,34.985486,-81.213475,34.985486",
     "geom:latitude":34.985486,
     "geom:longitude":-81.213475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"826 E Liberty St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370224083,
-    "wof:lastmodified":1449031568,
+    "wof:lastmodified":1467082353,
     "wof:name":"Family Medicine Assoc",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.213475,34.985486,-81.213475,34.985486],
+  "bbox": [
+    -81.213475,
+    34.985486,
+    -81.213475,
+    34.985486
+],
   "geometry": {"coordinates":[-81.213475,34.985486],"type":"Point"}
 }

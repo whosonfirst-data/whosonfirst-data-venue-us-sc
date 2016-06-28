@@ -2,13 +2,14 @@
   "id": 353812215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.381371,34.176365,-82.381371,34.176365",
     "geom:latitude":34.176365,
     "geom:longitude":-82.381371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Trinity St",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353812215,
-    "wof:lastmodified":1449018318,
+    "wof:lastmodified":1467082211,
     "wof:name":"Village Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.381371,34.176365,-82.381371,34.176365],
+  "bbox": [
+    -82.381371,
+    34.176365,
+    -82.381371,
+    34.176365
+],
   "geometry": {"coordinates":[-82.381371,34.176365],"type":"Point"}
 }

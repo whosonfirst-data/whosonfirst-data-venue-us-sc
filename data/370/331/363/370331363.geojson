@@ -2,13 +2,14 @@
   "id": 370331363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.989991,34.313835,-81.989991,34.313835",
     "geom:latitude":34.313835,
     "geom:longitude":-81.989991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 N Main St",
     "sg:city":"Cross Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370331363,
-    "wof:lastmodified":1449031145,
+    "wof:lastmodified":1467082343,
     "wof:name":"Keith's Produce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-81.989991,34.313835,-81.989991,34.313835],
+  "bbox": [
+    -81.989991,
+    34.313835,
+    -81.989991,
+    34.313835
+],
   "geometry": {"coordinates":[-81.989991,34.313835],"type":"Point"}
 }

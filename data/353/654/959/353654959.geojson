@@ -2,13 +2,14 @@
   "id": 353654959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.903325,33.821867,-78.903325,33.821867",
     "geom:latitude":33.821867,
     "geom:longitude":-78.903325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3765 State Hwy 90 W",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353654959,
-    "wof:lastmodified":1449019123,
+    "wof:lastmodified":1467082227,
     "wof:name":"True Vine Missionary Baptist",
     "wof:parent_id":85806541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.903325,33.821867,-78.903325,33.821867],
+  "bbox": [
+    -78.903325,
+    33.821867,
+    -78.903325,
+    33.821867
+],
   "geometry": {"coordinates":[-78.903325,33.821867],"type":"Point"}
 }

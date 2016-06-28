@@ -2,13 +2,14 @@
   "id": 169824579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.909057,34.14543,-79.909057,34.14543",
     "geom:latitude":34.14543,
     "geom:longitude":-79.909057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"836 E Smith St",
     "sg:city":"Timmonsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169824579,
-    "wof:lastmodified":1449033866,
+    "wof:lastmodified":1467082381,
     "wof:name":"Florence Motor Speedway",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.909057,34.14543,-79.909057,34.14543],
+  "bbox": [
+    -79.909057,
+    34.14543,
+    -79.909057,
+    34.14543
+],
   "geometry": {"coordinates":[-79.909057,34.14543],"type":"Point"}
 }

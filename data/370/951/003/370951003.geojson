@@ -2,13 +2,14 @@
   "id": 370951003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.241752,34.732299,-82.241752,34.732299",
     "geom:latitude":34.732299,
     "geom:longitude":-82.241752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Poinsettia Dr",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370951003,
-    "wof:lastmodified":1449029222,
+    "wof:lastmodified":1467082301,
     "wof:name":"Hearts & Flowers Interiors",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-82.241752,34.732299,-82.241752,34.732299],
-  "geometry": {"coordinates":[-82.241752,34.732299],"type":"Point"}
+  "bbox": [
+    -82.241752,
+    34.732299,
+    -82.241752,
+    34.732299
+],
+  "geometry": {"coordinates":[-82.24175200000001,34.732299],"type":"Point"}
 }

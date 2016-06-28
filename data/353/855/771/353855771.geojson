@@ -2,13 +2,14 @@
   "id": 353855771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.02545,33.717959,-79.02545,33.717959",
     "geom:latitude":33.717959,
     "geom:longitude":-79.02545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4250 Roscoe Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353855771,
-    "wof:lastmodified":1449020125,
+    "wof:lastmodified":1467082248,
     "wof:name":"S K Embroidery",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.02545,33.717959,-79.02545,33.717959],
-  "geometry": {"coordinates":[-79.02545,33.717959],"type":"Point"}
+  "bbox": [
+    -79.02545,
+    33.717959,
+    -79.02545,
+    33.717959
+],
+  "geometry": {"coordinates":[-79.02545000000001,33.717959],"type":"Point"}
 }

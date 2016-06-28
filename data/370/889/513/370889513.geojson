@@ -2,13 +2,14 @@
   "id": 370889513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.621099,32.479162,-80.621099,32.479162",
     "geom:latitude":32.479162,
     "geom:longitude":-80.621099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Christine Dr",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370889513,
-    "wof:lastmodified":1449029008,
+    "wof:lastmodified":1467082296,
     "wof:name":"Paradise Image",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engraver"
     ]
 },
-  "bbox": [-80.621099,32.479162,-80.621099,32.479162],
+  "bbox": [
+    -80.621099,
+    32.479162,
+    -80.621099,
+    32.479162
+],
   "geometry": {"coordinates":[-80.621099,32.479162],"type":"Point"}
 }

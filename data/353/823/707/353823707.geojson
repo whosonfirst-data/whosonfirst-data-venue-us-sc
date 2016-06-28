@@ -2,13 +2,14 @@
   "id": 353823707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.658081,34.530195,-82.658081,34.530195",
     "geom:latitude":34.530195,
     "geom:longitude":-82.658081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Lane Ave",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353823707,
-    "wof:lastmodified":1449020761,
+    "wof:lastmodified":1467082261,
     "wof:name":"Ej West Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.658081,34.530195,-82.658081,34.530195],
+  "bbox": [
+    -82.658081,
+    34.530195,
+    -82.658081,
+    34.530195
+],
   "geometry": {"coordinates":[-82.658081,34.530195],"type":"Point"}
 }

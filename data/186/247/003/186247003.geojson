@@ -2,13 +2,14 @@
   "id": 186247003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.774955,34.124619,-79.774955,34.124619",
     "geom:latitude":34.124619,
     "geom:longitude":-79.774955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 E Chapel View Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186247003,
-    "wof:lastmodified":1449051944,
+    "wof:lastmodified":1467082402,
     "wof:name":"Gaymon's Motors",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "painting"
     ]
 },
-  "bbox": [-79.774955,34.124619,-79.774955,34.124619],
-  "geometry": {"coordinates":[-79.774955,34.124619],"type":"Point"}
+  "bbox": [
+    -79.774955,
+    34.124619,
+    -79.774955,
+    34.124619
+],
+  "geometry": {"coordinates":[-79.77495500000001,34.124619],"type":"Point"}
 }

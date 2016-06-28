@@ -2,13 +2,14 @@
   "id": 370315829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.284671,33.367221,-79.284671,33.367221",
     "geom:latitude":33.367221,
     "geom:longitude":-79.284671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Front St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370315829,
-    "wof:lastmodified":1449032292,
+    "wof:lastmodified":1467082369,
     "wof:name":"Cold Rock Ice Cream Shop",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cream"
     ]
 },
-  "bbox": [-79.284671,33.367221,-79.284671,33.367221],
+  "bbox": [
+    -79.284671,
+    33.367221,
+    -79.284671,
+    33.367221
+],
   "geometry": {"coordinates":[-79.284671,33.367221],"type":"Point"}
 }

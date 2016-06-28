@@ -2,13 +2,14 @@
   "id": 370760131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.317338,34.912454,-82.317338,34.912454",
     "geom:latitude":34.912454,
     "geom:longitude":-82.317338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Landmark Dr",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370760131,
-    "wof:lastmodified":1449032344,
+    "wof:lastmodified":1467082371,
     "wof:name":"A & H Lawn Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-82.317338,34.912454,-82.317338,34.912454],
-  "geometry": {"coordinates":[-82.317338,34.912454],"type":"Point"}
+  "bbox": [
+    -82.317338,
+    34.912454,
+    -82.317338,
+    34.912454
+],
+  "geometry": {"coordinates":[-82.31733800000001,34.912454],"type":"Point"}
 }

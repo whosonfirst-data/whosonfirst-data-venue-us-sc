@@ -2,13 +2,14 @@
   "id": 370903261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.86567,33.518144,-80.86567,33.518144",
     "geom:latitude":33.518144,
     "geom:longitude":-80.86567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 Columbia Rd NE",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370903261,
-    "wof:lastmodified":1449029280,
+    "wof:lastmodified":1467082302,
     "wof:name":"Pantry 586 The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.86567,33.518144,-80.86567,33.518144],
-  "geometry": {"coordinates":[-80.86567,33.518144],"type":"Point"}
+  "bbox": [
+    -80.86567,
+    33.518144,
+    -80.86567,
+    33.518144
+],
+  "geometry": {"coordinates":[-80.86566999999999,33.518144],"type":"Point"}
 }

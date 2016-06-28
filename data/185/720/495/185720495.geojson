@@ -2,13 +2,14 @@
   "id": 185720495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.670601,33.657978,-81.670601,33.657978",
     "geom:latitude":33.657978,
     "geom:longitude":-81.670601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1252 Old Kimbill Trl",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185720495,
-    "wof:lastmodified":1449006995,
+    "wof:lastmodified":1467082188,
     "wof:name":"Aiken Iron Works LLC",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "structural"
     ]
 },
-  "bbox": [-81.670601,33.657978,-81.670601,33.657978],
+  "bbox": [
+    -81.670601,
+    33.657978,
+    -81.670601,
+    33.657978
+],
   "geometry": {"coordinates":[-81.670601,33.657978],"type":"Point"}
 }

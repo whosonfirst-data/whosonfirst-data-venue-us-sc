@@ -2,13 +2,14 @@
   "id": 353510411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.341304,33.924315,-80.341304,33.924315",
     "geom:latitude":33.924315,
     "geom:longitude":-80.341304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 N Main St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":353510411,
-    "wof:lastmodified":1449019815,
+    "wof:lastmodified":1467082241,
     "wof:name":"Suburban Propane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "gas"
     ]
 },
-  "bbox": [-80.341304,33.924315,-80.341304,33.924315],
-  "geometry": {"coordinates":[-80.341304,33.924315],"type":"Point"}
+  "bbox": [
+    -80.341304,
+    33.924315,
+    -80.341304,
+    33.924315
+],
+  "geometry": {"coordinates":[-80.34130399999999,33.924315],"type":"Point"}
 }

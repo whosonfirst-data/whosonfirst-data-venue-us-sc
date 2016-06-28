@@ -2,13 +2,14 @@
   "id": 353870879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.043454,32.913764,-80.043454,32.913764",
     "geom:latitude":32.913764,
     "geom:longitude":-80.043454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6691 Jet Park Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353870879,
-    "wof:lastmodified":1449018928,
+    "wof:lastmodified":1467082223,
     "wof:name":"Fain Septic Tank & Sewer Svc",
     "wof:parent_id":85825199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-80.043454,32.913764,-80.043454,32.913764],
+  "bbox": [
+    -80.043454,
+    32.913764,
+    -80.043454,
+    32.913764
+],
   "geometry": {"coordinates":[-80.043454,32.913764],"type":"Point"}
 }

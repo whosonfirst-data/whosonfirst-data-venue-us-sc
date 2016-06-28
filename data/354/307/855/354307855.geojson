@@ -2,13 +2,14 @@
   "id": 354307855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.730097,32.421917,-80.730097,32.421917",
     "geom:latitude":32.421917,
     "geom:longitude":-80.730097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Parris Island Gateway",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354307855,
-    "wof:lastmodified":1449066356,
+    "wof:lastmodified":1467082424,
     "wof:name":"Denunzio MS Lcdr",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.730097,32.421917,-80.730097,32.421917],
+  "bbox": [
+    -80.730097,
+    32.421917,
+    -80.730097,
+    32.421917
+],
   "geometry": {"coordinates":[-80.730097,32.421917],"type":"Point"}
 }

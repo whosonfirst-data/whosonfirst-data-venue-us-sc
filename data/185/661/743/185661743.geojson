@@ -2,13 +2,14 @@
   "id": 185661743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.096602,34.961269,-81.096602,34.961269",
     "geom:latitude":34.961269,
     "geom:longitude":-81.096602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"848 Belaire Dr",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185661743,
-    "wof:lastmodified":1449008050,
+    "wof:lastmodified":1467082205,
     "wof:name":"Carolina Gutter Siding",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.096602,34.961269,-81.096602,34.961269],
+  "bbox": [
+    -81.096602,
+    34.961269,
+    -81.096602,
+    34.961269
+],
   "geometry": {"coordinates":[-81.096602,34.961269],"type":"Point"}
 }

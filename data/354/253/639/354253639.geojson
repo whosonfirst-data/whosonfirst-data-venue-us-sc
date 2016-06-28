@@ -2,13 +2,14 @@
   "id": 354253639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.393492,34.177924,-79.393492,34.177924",
     "geom:latitude":34.177924,
     "geom:longitude":-79.393492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 E Godbold St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354253639,
-    "wof:lastmodified":1449067457,
+    "wof:lastmodified":1467082449,
     "wof:name":"Sugar Bear's Day Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.393492,34.177924,-79.393492,34.177924],
-  "geometry": {"coordinates":[-79.393492,34.177924],"type":"Point"}
+  "bbox": [
+    -79.393492,
+    34.177924,
+    -79.393492,
+    34.177924
+],
+  "geometry": {"coordinates":[-79.39349199999999,34.177924],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370962385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.6494,34.500229,-82.6494,34.500229",
     "geom:latitude":34.500229,
     "geom:longitude":-82.6494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 S Main St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370962385,
-    "wof:lastmodified":1449031065,
+    "wof:lastmodified":1467082342,
     "wof:name":"Floyd Clinkscales Gulf",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-82.6494,34.500229,-82.6494,34.500229],
+  "bbox": [
+    -82.6494,
+    34.500229,
+    -82.6494,
+    34.500229
+],
   "geometry": {"coordinates":[-82.6494,34.500229],"type":"Point"}
 }

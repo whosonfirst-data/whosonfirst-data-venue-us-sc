@@ -2,13 +2,14 @@
   "id": 186189589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.121699,33.021945,-80.121699,33.021945",
     "geom:latitude":33.021945,
     "geom:longitude":-80.121699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"769 Royle Rd",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186189589,
-    "wof:lastmodified":1449052248,
+    "wof:lastmodified":1467082405,
     "wof:name":"Jackson Tax Svc",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-80.121699,33.021945,-80.121699,33.021945],
-  "geometry": {"coordinates":[-80.121699,33.021945],"type":"Point"}
+  "bbox": [
+    -80.121699,
+    33.021945,
+    -80.121699,
+    33.021945
+],
+  "geometry": {"coordinates":[-80.12169900000001,33.021945],"type":"Point"}
 }

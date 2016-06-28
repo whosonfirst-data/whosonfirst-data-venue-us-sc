@@ -2,13 +2,14 @@
   "id": 370149439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.623073,34.73465,-82.623073,34.73465",
     "geom:latitude":34.73465,
     "geom:longitude":-82.623073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Hamlin Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370149439,
-    "wof:lastmodified":1449029073,
+    "wof:lastmodified":1467082298,
     "wof:name":"Mc Collum Auto Recycling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-82.623073,34.73465,-82.623073,34.73465],
-  "geometry": {"coordinates":[-82.623073,34.73465],"type":"Point"}
+  "bbox": [
+    -82.623073,
+    34.73465,
+    -82.623073,
+    34.73465
+],
+  "geometry": {"coordinates":[-82.62307300000001,34.73465],"type":"Point"}
 }

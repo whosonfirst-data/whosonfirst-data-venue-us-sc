@@ -2,13 +2,14 @@
   "id": 370367431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.399172,34.844683,-82.399172,34.844683",
     "geom:latitude":34.844683,
     "geom:longitude":-82.399172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E Camperdown Way",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370367431,
-    "wof:lastmodified":1449031071,
+    "wof:lastmodified":1467082342,
     "wof:name":"Beckwith Financial Advisors",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-82.399172,34.844683,-82.399172,34.844683],
-  "geometry": {"coordinates":[-82.399172,34.844683],"type":"Point"}
+  "bbox": [
+    -82.399172,
+    34.844683,
+    -82.399172,
+    34.844683
+],
+  "geometry": {"coordinates":[-82.39917199999999,34.844683],"type":"Point"}
 }

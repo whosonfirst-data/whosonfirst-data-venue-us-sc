@@ -2,13 +2,14 @@
   "id": 353762611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.762433,33.858868,-79.762433,33.858868",
     "geom:latitude":33.858868,
     "geom:longitude":-79.762433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"579 S Ron McNair Blvd",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353762611,
-    "wof:lastmodified":1449020052,
+    "wof:lastmodified":1467082246,
     "wof:name":"L & M Self Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-79.762433,33.858868,-79.762433,33.858868],
+  "bbox": [
+    -79.762433,
+    33.858868,
+    -79.762433,
+    33.858868
+],
   "geometry": {"coordinates":[-79.762433,33.858868],"type":"Point"}
 }

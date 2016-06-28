@@ -2,13 +2,14 @@
   "id": 354380703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.769611,34.653631,-82.769611,34.653631",
     "geom:latitude":34.653631,
     "geom:longitude":-82.769611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 E Queen St",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354380703,
-    "wof:lastmodified":1449066707,
+    "wof:lastmodified":1467082432,
     "wof:name":"YMCA Of Anderson",
     "wof:parent_id":85854499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.769611,34.653631,-82.769611,34.653631],
+  "bbox": [
+    -82.769611,
+    34.653631,
+    -82.769611,
+    34.653631
+],
   "geometry": {"coordinates":[-82.769611,34.653631],"type":"Point"}
 }

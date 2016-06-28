@@ -2,13 +2,14 @@
   "id": 185789415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.353386,33.861163,-80.353386,33.861163",
     "geom:latitude":33.861163,
     "geom:longitude":-80.353386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Old Manning Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185789415,
-    "wof:lastmodified":1449007344,
+    "wof:lastmodified":1467082193,
     "wof:name":"Bochette Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.353386,33.861163,-80.353386,33.861163],
+  "bbox": [
+    -80.353386,
+    33.861163,
+    -80.353386,
+    33.861163
+],
   "geometry": {"coordinates":[-80.353386,33.861163],"type":"Point"}
 }

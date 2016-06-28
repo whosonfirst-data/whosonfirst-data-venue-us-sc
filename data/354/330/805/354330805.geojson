@@ -2,13 +2,14 @@
   "id": 354330805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.683635,33.833119,-78.683635,33.833119",
     "geom:latitude":33.833119,
     "geom:longitude":-78.683635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1033 1st Ave S",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354330805,
-    "wof:lastmodified":1449066778,
+    "wof:lastmodified":1467082434,
     "wof:name":"Elliott's Automotive Svc Inc",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-78.683635,33.833119,-78.683635,33.833119],
+  "bbox": [
+    -78.683635,
+    33.833119,
+    -78.683635,
+    33.833119
+],
   "geometry": {"coordinates":[-78.683635,33.833119],"type":"Point"}
 }

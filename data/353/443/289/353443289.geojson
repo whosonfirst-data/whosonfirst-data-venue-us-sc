@@ -2,13 +2,14 @@
   "id": 353443289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.910183,33.706257,-78.910183,33.706257",
     "geom:latitude":33.706257,
     "geom:longitude":-78.910183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1788 US Hwy 501",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353443289,
-    "wof:lastmodified":1449020353,
+    "wof:lastmodified":1467082252,
     "wof:name":"Comdoc Business Systems",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "copying"
     ]
 },
-  "bbox": [-78.910183,33.706257,-78.910183,33.706257],
+  "bbox": [
+    -78.910183,
+    33.706257,
+    -78.910183,
+    33.706257
+],
   "geometry": {"coordinates":[-78.910183,33.706257],"type":"Point"}
 }

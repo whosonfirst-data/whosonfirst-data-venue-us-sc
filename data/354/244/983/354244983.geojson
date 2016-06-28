@@ -2,13 +2,14 @@
   "id": 354244983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.242281,34.94244,-82.242281,34.94244",
     "geom:latitude":34.94244,
     "geom:longitude":-82.242281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 W Poinsett St",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354244983,
-    "wof:lastmodified":1449066592,
+    "wof:lastmodified":1467082430,
     "wof:name":"Secure Financial Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "financial"
     ]
 },
-  "bbox": [-82.242281,34.94244,-82.242281,34.94244],
-  "geometry": {"coordinates":[-82.242281,34.94244],"type":"Point"}
+  "bbox": [
+    -82.242281,
+    34.94244,
+    -82.242281,
+    34.94244
+],
+  "geometry": {"coordinates":[-82.24228100000001,34.94244],"type":"Point"}
 }

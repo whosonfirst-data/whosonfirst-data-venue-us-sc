@@ -2,13 +2,14 @@
   "id": 169824071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.082544,35.110655,-82.082544,35.110655",
     "geom:latitude":35.110655,
     "geom:longitude":-82.082544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"248 Blackwell Rd",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169824071,
-    "wof:lastmodified":1449033866,
+    "wof:lastmodified":1467082381,
     "wof:name":"Security Advisory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.082544,35.110655,-82.082544,35.110655],
+  "bbox": [
+    -82.082544,
+    35.110655,
+    -82.082544,
+    35.110655
+],
   "geometry": {"coordinates":[-82.082544,35.110655],"type":"Point"}
 }

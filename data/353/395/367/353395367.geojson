@@ -2,13 +2,14 @@
   "id": 353395367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.14373,33.775052,-79.14373,33.775052",
     "geom:latitude":33.775052,
     "geom:longitude":-79.14373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5511 Daffodil Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353395367,
-    "wof:lastmodified":1449020443,
+    "wof:lastmodified":1467082254,
     "wof:name":"Ckr Construction Inc",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.14373,33.775052,-79.14373,33.775052],
-  "geometry": {"coordinates":[-79.14373,33.775052],"type":"Point"}
+  "bbox": [
+    -79.14373,
+    33.775052,
+    -79.14373,
+    33.775052
+],
+  "geometry": {"coordinates":[-79.14373000000001,33.775052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370703849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.010568,33.173198,-80.010568,33.173198",
     "geom:latitude":33.173198,
     "geom:longitude":-80.010568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1377 Old Hwy 52",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370703849,
-    "wof:lastmodified":1449030126,
+    "wof:lastmodified":1467082321,
     "wof:name":"Palmetto Forest Products Inc",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.010568,33.173198,-80.010568,33.173198],
-  "geometry": {"coordinates":[-80.010568,33.173198],"type":"Point"}
+  "bbox": [
+    -80.010568,
+    33.173198,
+    -80.010568,
+    33.173198
+],
+  "geometry": {"coordinates":[-80.01056800000001,33.173198],"type":"Point"}
 }

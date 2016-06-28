@@ -2,13 +2,14 @@
   "id": 370882237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.982486,33.201476,-79.982486,33.201476",
     "geom:latitude":33.201476,
     "geom:longitude":-79.982486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Riverwood Dr",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370882237,
-    "wof:lastmodified":1449029694,
+    "wof:lastmodified":1467082311,
     "wof:name":"South Carolina Public Svc Auth",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-79.982486,33.201476,-79.982486,33.201476],
-  "geometry": {"coordinates":[-79.982486,33.201476],"type":"Point"}
+  "bbox": [
+    -79.982486,
+    33.201476,
+    -79.982486,
+    33.201476
+],
+  "geometry": {"coordinates":[-79.98248599999999,33.201476],"type":"Point"}
 }

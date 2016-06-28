@@ -2,13 +2,14 @@
   "id": 353964919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.91585,34.401771,-79.91585,34.401771",
     "geom:latitude":34.401771,
     "geom:longitude":-79.91585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3466 Clover St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353964919,
-    "wof:lastmodified":1449020180,
+    "wof:lastmodified":1467082249,
     "wof:name":"Tony C Hill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.91585,34.401771,-79.91585,34.401771],
-  "geometry": {"coordinates":[-79.91585,34.401771],"type":"Point"}
+  "bbox": [
+    -79.91585,
+    34.401771,
+    -79.91585,
+    34.401771
+],
+  "geometry": {"coordinates":[-79.91585000000001,34.401771],"type":"Point"}
 }

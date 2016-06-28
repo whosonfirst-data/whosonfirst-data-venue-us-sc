@@ -2,13 +2,14 @@
   "id": 370891447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.862593,32.234243,-80.862593,32.234243",
     "geom:latitude":32.234243,
     "geom:longitude":-80.862593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Calhoun St",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370891447,
-    "wof:lastmodified":1449031122,
+    "wof:lastmodified":1467082343,
     "wof:name":"Coastal Chic",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "retail"
     ]
 },
-  "bbox": [-80.862593,32.234243,-80.862593,32.234243],
+  "bbox": [
+    -80.862593,
+    32.234243,
+    -80.862593,
+    32.234243
+],
   "geometry": {"coordinates":[-80.862593,32.234243],"type":"Point"}
 }

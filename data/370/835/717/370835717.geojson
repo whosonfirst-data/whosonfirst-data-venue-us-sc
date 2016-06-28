@@ -2,13 +2,14 @@
   "id": 370835717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.242568,33.960136,-81.242568,33.960136",
     "geom:latitude":33.960136,
     "geom:longitude":-81.242568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"293 Zenker Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370835717,
-    "wof:lastmodified":1449029576,
+    "wof:lastmodified":1467082309,
     "wof:name":"Charles Gantt Trucking",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-81.242568,33.960136,-81.242568,33.960136],
-  "geometry": {"coordinates":[-81.242568,33.960136],"type":"Point"}
+  "bbox": [
+    -81.242568,
+    33.960136,
+    -81.242568,
+    33.960136
+],
+  "geometry": {"coordinates":[-81.24256800000001,33.960136],"type":"Point"}
 }

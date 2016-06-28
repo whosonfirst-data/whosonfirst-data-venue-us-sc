@@ -2,13 +2,14 @@
   "id": 353802153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.668224,33.822005,-78.668224,33.822005",
     "geom:latitude":33.822005,
     "geom:longitude":-78.668224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 4th Ave N",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353802153,
-    "wof:lastmodified":1449020351,
+    "wof:lastmodified":1467082252,
     "wof:name":"Hughes Motel & Apartments",
     "wof:parent_id":85826955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.668224,33.822005,-78.668224,33.822005],
+  "bbox": [
+    -78.668224,
+    33.822005,
+    -78.668224,
+    33.822005
+],
   "geometry": {"coordinates":[-78.668224,33.822005],"type":"Point"}
 }

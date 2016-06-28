@@ -2,13 +2,14 @@
   "id": 353704979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.775727,33.771235,-78.775727,33.771235",
     "geom:latitude":33.771235,
     "geom:longitude":-78.775727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Kingston Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353704979,
-    "wof:lastmodified":1449018928,
+    "wof:lastmodified":1467082223,
     "wof:name":"Anton Poster",
     "wof:parent_id":85815435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.775727,33.771235,-78.775727,33.771235],
+  "bbox": [
+    -78.775727,
+    33.771235,
+    -78.775727,
+    33.771235
+],
   "geometry": {"coordinates":[-78.775727,33.771235],"type":"Point"}
 }

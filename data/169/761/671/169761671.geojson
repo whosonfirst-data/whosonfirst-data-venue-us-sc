@@ -2,13 +2,14 @@
   "id": 169761671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.07828,33.009183,-80.07828,33.009183",
     "geom:latitude":33.009183,
     "geom:longitude":-80.07828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Eston Dr",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169761671,
-    "wof:lastmodified":1449035175,
+    "wof:lastmodified":1467082385,
     "wof:name":"Industrial Control",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.07828,33.009183,-80.07828,33.009183],
-  "geometry": {"coordinates":[-80.07828,33.009183],"type":"Point"}
+  "bbox": [
+    -80.07828,
+    33.009183,
+    -80.07828,
+    33.009183
+],
+  "geometry": {"coordinates":[-80.07828000000001,33.009183],"type":"Point"}
 }

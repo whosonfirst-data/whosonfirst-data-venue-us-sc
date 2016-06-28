@@ -2,13 +2,14 @@
   "id": 186191525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.871873,35.11903,-81.871873,35.11903",
     "geom:latitude":35.11903,
     "geom:longitude":-81.871873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Revels Rd",
     "sg:city":"Chesnee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186191525,
-    "wof:lastmodified":1449051986,
+    "wof:lastmodified":1467082403,
     "wof:name":"Darby Electrical",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.871873,35.11903,-81.871873,35.11903],
-  "geometry": {"coordinates":[-81.871873,35.11903],"type":"Point"}
+  "bbox": [
+    -81.871873,
+    35.11903,
+    -81.871873,
+    35.11903
+],
+  "geometry": {"coordinates":[-81.87187299999999,35.11903],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354141185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.925708,34.961193,-81.925708,34.961193",
     "geom:latitude":34.961193,
     "geom:longitude":-81.925708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"691 N Pine St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354141185,
-    "wof:lastmodified":1449066515,
+    "wof:lastmodified":1467082428,
     "wof:name":"Fast Phil's",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.925708,34.961193,-81.925708,34.961193],
+  "bbox": [
+    -81.925708,
+    34.961193,
+    -81.925708,
+    34.961193
+],
   "geometry": {"coordinates":[-81.925708,34.961193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353531831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.10938,32.809983,-80.10938,32.809983",
     "geom:latitude":32.809983,
     "geom:longitude":-80.10938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1344 Bees Ferry Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353531831,
-    "wof:lastmodified":1449018854,
+    "wof:lastmodified":1467082222,
     "wof:name":"Charleston County Landfill",
     "wof:parent_id":85820043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.10938,32.809983,-80.10938,32.809983],
+  "bbox": [
+    -80.10938,
+    32.809983,
+    -80.10938,
+    32.809983
+],
   "geometry": {"coordinates":[-80.10938,32.809983],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186004475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.223036,33.961479,-81.223036,33.961479",
     "geom:latitude":33.961479,
     "geom:longitude":-81.223036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Burton Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186004475,
-    "wof:lastmodified":1449051364,
+    "wof:lastmodified":1467082397,
     "wof:name":"Momentum Logistics",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-81.223036,33.961479,-81.223036,33.961479],
-  "geometry": {"coordinates":[-81.223036,33.961479],"type":"Point"}
+  "bbox": [
+    -81.223036,
+    33.961479,
+    -81.223036,
+    33.961479
+],
+  "geometry": {"coordinates":[-81.22303599999999,33.961479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370821279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.73829,33.91552,-79.73829,33.91552",
     "geom:latitude":33.91552,
     "geom:longitude":-79.73829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 Boyd St",
     "sg:city":"Scranton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370821279,
-    "wof:lastmodified":1449030910,
+    "wof:lastmodified":1467082338,
     "wof:name":"Grancare Lake City/Scranton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-79.73829,33.91552,-79.73829,33.91552],
-  "geometry": {"coordinates":[-79.73829,33.91552],"type":"Point"}
+  "bbox": [
+    -79.73829,
+    33.91552,
+    -79.73829,
+    33.91552
+],
+  "geometry": {"coordinates":[-79.73829000000001,33.91552],"type":"Point"}
 }

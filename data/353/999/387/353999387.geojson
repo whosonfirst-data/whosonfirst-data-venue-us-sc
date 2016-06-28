@@ -2,13 +2,14 @@
   "id": 353999387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.563547,34.815185,-82.563547,34.815185",
     "geom:latitude":34.815185,
     "geom:longitude":-82.563547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Trent Ct",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353999387,
-    "wof:lastmodified":1449020492,
+    "wof:lastmodified":1467082255,
     "wof:name":"Stork Company",
     "wof:parent_id":85819785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-82.563547,34.815185,-82.563547,34.815185],
+  "bbox": [
+    -82.563547,
+    34.815185,
+    -82.563547,
+    34.815185
+],
   "geometry": {"coordinates":[-82.563547,34.815185],"type":"Point"}
 }

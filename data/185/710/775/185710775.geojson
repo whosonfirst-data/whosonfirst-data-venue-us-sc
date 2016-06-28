@@ -2,13 +2,14 @@
   "id": 185710775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.243383,35.150708,-81.243383,35.150708",
     "geom:latitude":35.150708,
     "geom:longitude":-81.243383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"994 Rhyne Rd",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185710775,
-    "wof:lastmodified":1449006697,
+    "wof:lastmodified":1467082183,
     "wof:name":"Tomco Tooling & Plastics Inc",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.243383,35.150708,-81.243383,35.150708],
-  "geometry": {"coordinates":[-81.243383,35.150708],"type":"Point"}
+  "bbox": [
+    -81.243383,
+    35.150708,
+    -81.243383,
+    35.150708
+],
+  "geometry": {"coordinates":[-81.24338299999999,35.150708],"type":"Point"}
 }

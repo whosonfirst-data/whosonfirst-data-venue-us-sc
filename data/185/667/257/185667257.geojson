@@ -2,13 +2,14 @@
   "id": 185667257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.888656,34.055953,-78.888656,34.055953",
     "geom:latitude":34.055953,
     "geom:longitude":-78.888656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3959 Broad St",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185667257,
-    "wof:lastmodified":1449007649,
+    "wof:lastmodified":1467082198,
     "wof:name":"Caines Cleaners",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-78.888656,34.055953,-78.888656,34.055953],
+  "bbox": [
+    -78.888656,
+    34.055953,
+    -78.888656,
+    34.055953
+],
   "geometry": {"coordinates":[-78.888656,34.055953],"type":"Point"}
 }

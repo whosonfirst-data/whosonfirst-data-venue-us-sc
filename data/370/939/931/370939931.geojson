@@ -2,13 +2,14 @@
   "id": 370939931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.895905,34.931178,-81.895905,34.931178",
     "geom:latitude":34.931178,
     "geom:longitude":-81.895905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 Union St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370939931,
-    "wof:lastmodified":1449030098,
+    "wof:lastmodified":1467082321,
     "wof:name":"Carolina Cash Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.895905,34.931178,-81.895905,34.931178],
+  "bbox": [
+    -81.895905,
+    34.931178,
+    -81.895905,
+    34.931178
+],
   "geometry": {"coordinates":[-81.895905,34.931178],"type":"Point"}
 }

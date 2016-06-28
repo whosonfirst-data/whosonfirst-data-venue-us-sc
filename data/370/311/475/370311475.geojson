@@ -2,13 +2,14 @@
   "id": 370311475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.692181,33.551733,-81.692181,33.551733",
     "geom:latitude":33.551733,
     "geom:longitude":-81.692181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1850 Richland Ave E",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370311475,
-    "wof:lastmodified":1449029884,
+    "wof:lastmodified":1467082316,
     "wof:name":"Hubbell Power Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "electric"
     ]
 },
-  "bbox": [-81.692181,33.551733,-81.692181,33.551733],
-  "geometry": {"coordinates":[-81.692181,33.551733],"type":"Point"}
+  "bbox": [
+    -81.692181,
+    33.551733,
+    -81.692181,
+    33.551733
+],
+  "geometry": {"coordinates":[-81.69218100000001,33.551733],"type":"Point"}
 }

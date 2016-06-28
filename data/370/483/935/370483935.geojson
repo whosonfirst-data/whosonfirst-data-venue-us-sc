@@ -2,13 +2,14 @@
   "id": 370483935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.248534,34.287634,-82.248534,34.287634",
     "geom:latitude":34.287634,
     "geom:longitude":-82.248534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4528 Main St",
     "sg:city":"Hodges",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370483935,
-    "wof:lastmodified":1449031760,
+    "wof:lastmodified":1467082358,
     "wof:name":"Godfrey's Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-82.248534,34.287634,-82.248534,34.287634],
-  "geometry": {"coordinates":[-82.248534,34.287634],"type":"Point"}
+  "bbox": [
+    -82.248534,
+    34.287634,
+    -82.248534,
+    34.287634
+],
+  "geometry": {"coordinates":[-82.24853400000001,34.287634],"type":"Point"}
 }

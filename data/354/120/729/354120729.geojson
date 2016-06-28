@@ -2,13 +2,14 @@
   "id": 354120729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.031412,33.625319,-79.031412,33.625319",
     "geom:latitude":33.625319,
     "geom:longitude":-79.031412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3619 Brampton Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354120729,
-    "wof:lastmodified":1449067417,
+    "wof:lastmodified":1467082448,
     "wof:name":"Home Team Construction Inc",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.031412,33.625319,-79.031412,33.625319],
+  "bbox": [
+    -79.031412,
+    33.625319,
+    -79.031412,
+    33.625319
+],
   "geometry": {"coordinates":[-79.031412,33.625319],"type":"Point"}
 }

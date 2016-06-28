@@ -2,13 +2,14 @@
   "id": 185673325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.184487,34.088201,-81.184487,34.088201",
     "geom:latitude":34.088201,
     "geom:longitude":-81.184487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7530 Woodrow St",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185673325,
-    "wof:lastmodified":1449007239,
+    "wof:lastmodified":1467082192,
     "wof:name":"Southern Connection Cloggers",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "company"
     ]
 },
-  "bbox": [-81.184487,34.088201,-81.184487,34.088201],
+  "bbox": [
+    -81.184487,
+    34.088201,
+    -81.184487,
+    34.088201
+],
   "geometry": {"coordinates":[-81.184487,34.088201],"type":"Point"}
 }

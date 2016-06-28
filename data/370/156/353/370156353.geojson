@@ -2,13 +2,14 @@
   "id": 370156353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.538848,34.663354,-79.538848,34.663354",
     "geom:latitude":34.663354,
     "geom:longitude":-79.538848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 McCormick Ave",
     "sg:city":"Mc Coll",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370156353,
-    "wof:lastmodified":1449029759,
+    "wof:lastmodified":1467082313,
     "wof:name":"Goins Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-79.538848,34.663354,-79.538848,34.663354],
+  "bbox": [
+    -79.538848,
+    34.663354,
+    -79.538848,
+    34.663354
+],
   "geometry": {"coordinates":[-79.538848,34.663354],"type":"Point"}
 }

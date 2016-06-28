@@ -2,13 +2,14 @@
   "id": 353900323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.761563,34.677869,-80.761563,34.677869",
     "geom:latitude":34.677869,
     "geom:longitude":-80.761563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2128 Old Oakland Cir",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353900323,
-    "wof:lastmodified":1449019347,
+    "wof:lastmodified":1467082232,
     "wof:name":"Auto Shop 2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.761563,34.677869,-80.761563,34.677869],
+  "bbox": [
+    -80.761563,
+    34.677869,
+    -80.761563,
+    34.677869
+],
   "geometry": {"coordinates":[-80.761563,34.677869],"type":"Point"}
 }

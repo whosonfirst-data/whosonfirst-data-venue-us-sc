@@ -2,13 +2,14 @@
   "id": 353696147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.261075,34.747555,-82.261075,34.747555",
     "geom:latitude":34.747555,
     "geom:longitude":-82.261075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 NE Main St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":353696147,
-    "wof:lastmodified":1449018456,
+    "wof:lastmodified":1467082214,
     "wof:name":"Saunders Office Supply Inc",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-82.261075,34.747555,-82.261075,34.747555],
-  "geometry": {"coordinates":[-82.261075,34.747555],"type":"Point"}
+  "bbox": [
+    -82.261075,
+    34.747555,
+    -82.261075,
+    34.747555
+],
+  "geometry": {"coordinates":[-82.26107500000001,34.747555],"type":"Point"}
 }

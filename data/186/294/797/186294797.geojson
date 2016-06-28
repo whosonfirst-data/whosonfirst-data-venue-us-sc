@@ -2,13 +2,14 @@
   "id": 186294797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.209118,33.981822,-79.209118,33.981822",
     "geom:latitude":33.981822,
     "geom:longitude":-79.209118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Jordanville Rd",
     "sg:city":"Aynor",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186294797,
-    "wof:lastmodified":1449052270,
+    "wof:lastmodified":1467082406,
     "wof:name":"Aynor Elementary School",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.209118,33.981822,-79.209118,33.981822],
+  "bbox": [
+    -79.209118,
+    33.981822,
+    -79.209118,
+    33.981822
+],
   "geometry": {"coordinates":[-79.209118,33.981822],"type":"Point"}
 }

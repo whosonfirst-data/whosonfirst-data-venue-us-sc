@@ -2,13 +2,14 @@
   "id": 354411507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.807854,32.77788,-79.807854,32.77788",
     "geom:latitude":32.77788,
     "geom:longitude":-79.807854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Carolina Blvd",
     "sg:city":"Isle Of Palms",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354411507,
-    "wof:lastmodified":1449066026,
+    "wof:lastmodified":1467082416,
     "wof:name":"Van Cott Custom Homes Inc",
     "wof:parent_id":85819989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "demolition"
     ]
 },
-  "bbox": [-79.807854,32.77788,-79.807854,32.77788],
-  "geometry": {"coordinates":[-79.807854,32.77788],"type":"Point"}
+  "bbox": [
+    -79.807854,
+    32.77788,
+    -79.807854,
+    32.77788
+],
+  "geometry": {"coordinates":[-79.80785400000001,32.77788],"type":"Point"}
 }

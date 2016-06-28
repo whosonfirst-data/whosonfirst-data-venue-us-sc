@@ -2,13 +2,14 @@
   "id": 185762099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.884248,32.100392,-80.884248,32.100392",
     "geom:latitude":32.100392,
     "geom:longitude":-80.884248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Martinangele Rd",
     "sg:city":"Daufuskie Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185762099,
-    "wof:lastmodified":1449007740,
+    "wof:lastmodified":1467082200,
     "wof:name":"Daufuskie Woodworks",
     "wof:parent_id":85847515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-80.884248,32.100392,-80.884248,32.100392],
+  "bbox": [
+    -80.884248,
+    32.100392,
+    -80.884248,
+    32.100392
+],
   "geometry": {"coordinates":[-80.884248,32.100392],"type":"Point"}
 }

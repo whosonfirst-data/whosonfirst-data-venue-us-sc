@@ -2,13 +2,14 @@
   "id": 185716237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.90054,34.677544,-79.90054,34.677544",
     "geom:latitude":34.677544,
     "geom:longitude":-79.90054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Meadow Ln",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185716237,
-    "wof:lastmodified":1449006834,
+    "wof:lastmodified":1467082186,
     "wof:name":"Waccamaw Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-79.90054,34.677544,-79.90054,34.677544],
-  "geometry": {"coordinates":[-79.90054,34.677544],"type":"Point"}
+  "bbox": [
+    -79.90054,
+    34.677544,
+    -79.90054,
+    34.677544
+],
+  "geometry": {"coordinates":[-79.90054000000001,34.677544],"type":"Point"}
 }

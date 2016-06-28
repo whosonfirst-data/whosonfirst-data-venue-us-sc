@@ -2,13 +2,14 @@
   "id": 353650461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.001709,34.932022,-82.001709,34.932022",
     "geom:latitude":34.932022,
     "geom:longitude":-82.001709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Blackstock Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353650461,
-    "wof:lastmodified":1449019835,
+    "wof:lastmodified":1467082242,
     "wof:name":"World Marketing Alliance",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.001709,34.932022,-82.001709,34.932022],
-  "geometry": {"coordinates":[-82.001709,34.932022],"type":"Point"}
+  "bbox": [
+    -82.001709,
+    34.932022,
+    -82.001709,
+    34.932022
+],
+  "geometry": {"coordinates":[-82.00170900000001,34.932022],"type":"Point"}
 }

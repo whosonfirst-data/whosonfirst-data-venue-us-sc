@@ -2,13 +2,14 @@
   "id": 370730651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.398586,34.40197,-82.398586,34.40197",
     "geom:latitude":34.40197,
     "geom:longitude":-82.398586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Tornado Rd",
     "sg:city":"Honea Path",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370730651,
-    "wof:lastmodified":1449031922,
+    "wof:lastmodified":1467082361,
     "wof:name":"Chupp Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.398586,34.40197,-82.398586,34.40197],
-  "geometry": {"coordinates":[-82.398586,34.40197],"type":"Point"}
+  "bbox": [
+    -82.398586,
+    34.40197,
+    -82.398586,
+    34.40197
+],
+  "geometry": {"coordinates":[-82.39858599999999,34.40197],"type":"Point"}
 }

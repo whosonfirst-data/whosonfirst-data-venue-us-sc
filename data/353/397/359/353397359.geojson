@@ -2,13 +2,14 @@
   "id": 353397359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.954238,33.978899,-80.954238,33.978899",
     "geom:latitude":33.978899,
     "geom:longitude":-80.954238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6720 Pennington Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353397359,
-    "wof:lastmodified":1449019279,
+    "wof:lastmodified":1467082231,
     "wof:name":"M L Gaines Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sewer"
     ]
 },
-  "bbox": [-80.954238,33.978899,-80.954238,33.978899],
+  "bbox": [
+    -80.954238,
+    33.978899,
+    -80.954238,
+    33.978899
+],
   "geometry": {"coordinates":[-80.954238,33.978899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370437637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.906457,34.185056,-80.906457,34.185056",
     "geom:latitude":34.185056,
     "geom:longitude":-80.906457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Adams Pond Rd",
     "sg:city":"Blythewood",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370437637,
-    "wof:lastmodified":1449031537,
+    "wof:lastmodified":1467082352,
     "wof:name":"Mikes Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.906457,34.185056,-80.906457,34.185056],
+  "bbox": [
+    -80.906457,
+    34.185056,
+    -80.906457,
+    34.185056
+],
   "geometry": {"coordinates":[-80.906457,34.185056],"type":"Point"}
 }

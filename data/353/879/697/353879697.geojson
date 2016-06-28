@@ -2,13 +2,14 @@
   "id": 353879697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.769371,34.716795,-80.769371,34.716795",
     "geom:latitude":34.716795,
     "geom:longitude":-80.769371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Williams St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353879697,
-    "wof:lastmodified":1449018291,
+    "wof:lastmodified":1467082210,
     "wof:name":"Roddey's Grand Strand Driving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "driving"
     ]
 },
-  "bbox": [-80.769371,34.716795,-80.769371,34.716795],
-  "geometry": {"coordinates":[-80.769371,34.716795],"type":"Point"}
+  "bbox": [
+    -80.769371,
+    34.716795,
+    -80.769371,
+    34.716795
+],
+  "geometry": {"coordinates":[-80.76937100000001,34.716795],"type":"Point"}
 }

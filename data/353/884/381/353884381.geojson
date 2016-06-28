@@ -2,13 +2,14 @@
   "id": 353884381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.660668,35.087675,-81.660668,35.087675",
     "geom:latitude":35.087675,
     "geom:longitude":-81.660668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 W Floyd Baker Blvd",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353884381,
-    "wof:lastmodified":1449020337,
+    "wof:lastmodified":1467082252,
     "wof:name":"Brown Home Furnishings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.660668,35.087675,-81.660668,35.087675],
+  "bbox": [
+    -81.660668,
+    35.087675,
+    -81.660668,
+    35.087675
+],
   "geometry": {"coordinates":[-81.660668,35.087675],"type":"Point"}
 }

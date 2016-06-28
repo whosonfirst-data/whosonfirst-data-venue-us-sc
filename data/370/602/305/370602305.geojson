@@ -2,13 +2,14 @@
   "id": 370602305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.769448,34.15776,-79.769448,34.15776",
     "geom:latitude":34.15776,
     "geom:longitude":-79.769448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Toledo Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370602305,
-    "wof:lastmodified":1449030681,
+    "wof:lastmodified":1467082333,
     "wof:name":"Charcrost Electronics LTD",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.769448,34.15776,-79.769448,34.15776],
+  "bbox": [
+    -79.769448,
+    34.15776,
+    -79.769448,
+    34.15776
+],
   "geometry": {"coordinates":[-79.769448,34.15776],"type":"Point"}
 }

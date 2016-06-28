@@ -2,13 +2,14 @@
   "id": 337628473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.676039,32.928189,-80.676039,32.928189",
     "geom:latitude":32.928189,
     "geom:longitude":-80.676039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Dahlia St",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337628473,
-    "wof:lastmodified":1449027589,
+    "wof:lastmodified":1467082289,
     "wof:name":"Just Stumps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-80.676039,32.928189,-80.676039,32.928189],
+  "bbox": [
+    -80.676039,
+    32.928189,
+    -80.676039,
+    32.928189
+],
   "geometry": {"coordinates":[-80.676039,32.928189],"type":"Point"}
 }

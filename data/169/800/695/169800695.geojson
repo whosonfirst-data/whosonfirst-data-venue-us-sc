@@ -2,13 +2,14 @@
   "id": 169800695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.011533,34.037494,-81.011533,34.037494",
     "geom:latitude":34.037494,
     "geom:longitude":-81.011533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2929 Truman St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169800695,
-    "wof:lastmodified":1449032938,
+    "wof:lastmodified":1467082377,
     "wof:name":"Nix Used Cars",
     "wof:parent_id":85827291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.011533,34.037494,-81.011533,34.037494],
+  "bbox": [
+    -81.011533,
+    34.037494,
+    -81.011533,
+    34.037494
+],
   "geometry": {"coordinates":[-81.011533,34.037494],"type":"Point"}
 }

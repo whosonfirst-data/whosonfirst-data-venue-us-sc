@@ -2,13 +2,14 @@
   "id": 353951445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.568679,33.184237,-80.568679,33.184237",
     "geom:latitude":33.184237,
     "geom:longitude":-80.568679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5450 Memorial Blvd",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":353951445,
-    "wof:lastmodified":1449018350,
+    "wof:lastmodified":1467082212,
     "wof:name":"Kizer Building Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-80.568679,33.184237,-80.568679,33.184237],
+  "bbox": [
+    -80.568679,
+    33.184237,
+    -80.568679,
+    33.184237
+],
   "geometry": {"coordinates":[-80.568679,33.184237],"type":"Point"}
 }

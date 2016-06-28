@@ -2,13 +2,14 @@
   "id": 353599107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.12724,32.596003,-80.12724,32.596003",
     "geom:latitude":32.596003,
     "geom:longitude":-80.12724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Beachwalker Dr",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353599107,
-    "wof:lastmodified":1449019441,
+    "wof:lastmodified":1467082234,
     "wof:name":"Kiawah Island Town Hall",
     "wof:parent_id":85809109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-80.12724,32.596003,-80.12724,32.596003],
+  "bbox": [
+    -80.12724,
+    32.596003,
+    -80.12724,
+    32.596003
+],
   "geometry": {"coordinates":[-80.12724,32.596003],"type":"Point"}
 }

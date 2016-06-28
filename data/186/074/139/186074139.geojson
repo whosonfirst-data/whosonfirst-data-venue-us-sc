@@ -2,13 +2,14 @@
   "id": 186074139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930794,32.73739,-79.930794,32.73739",
     "geom:latitude":32.73739,
     "geom:longitude":-79.930794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"982 Mooring Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186074139,
-    "wof:lastmodified":1449051825,
+    "wof:lastmodified":1467082401,
     "wof:name":"Mad Men LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.930794,32.73739,-79.930794,32.73739],
-  "geometry": {"coordinates":[-79.930794,32.73739],"type":"Point"}
+  "bbox": [
+    -79.930794,
+    32.73739,
+    -79.930794,
+    32.73739
+],
+  "geometry": {"coordinates":[-79.93079400000001,32.73739],"type":"Point"}
 }

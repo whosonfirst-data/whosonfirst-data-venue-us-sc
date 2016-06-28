@@ -2,13 +2,14 @@
   "id": 370606099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.184541,33.952062,-81.184541,33.952062",
     "geom:latitude":33.952062,
     "geom:longitude":-81.184541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Piper Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370606099,
-    "wof:lastmodified":1449029613,
+    "wof:lastmodified":1467082310,
     "wof:name":"Jenie's Cleaning Svc",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.184541,33.952062,-81.184541,33.952062],
+  "bbox": [
+    -81.184541,
+    33.952062,
+    -81.184541,
+    33.952062
+],
   "geometry": {"coordinates":[-81.184541,33.952062],"type":"Point"}
 }

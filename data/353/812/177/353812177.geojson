@@ -2,13 +2,14 @@
   "id": 353812177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.389461,33.956925,-80.389461,33.956925",
     "geom:latitude":33.956925,
     "geom:longitude":-80.389461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1293 Broad St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353812177,
-    "wof:lastmodified":1449018323,
+    "wof:lastmodified":1467082211,
     "wof:name":"Wells Automotive & Repair",
     "wof:parent_id":85814545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.389461,33.956925,-80.389461,33.956925],
+  "bbox": [
+    -80.389461,
+    33.956925,
+    -80.389461,
+    33.956925
+],
   "geometry": {"coordinates":[-80.389461,33.956925],"type":"Point"}
 }

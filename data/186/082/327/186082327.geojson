@@ -2,13 +2,14 @@
   "id": 186082327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.243457,34.909164,-82.243457,34.909164",
     "geom:latitude":34.909164,
     "geom:longitude":-82.243457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Dillard Dr",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186082327,
-    "wof:lastmodified":1449050333,
+    "wof:lastmodified":1467082389,
     "wof:name":"Peden's Accounting Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-82.243457,34.909164,-82.243457,34.909164],
-  "geometry": {"coordinates":[-82.243457,34.909164],"type":"Point"}
+  "bbox": [
+    -82.243457,
+    34.909164,
+    -82.243457,
+    34.909164
+],
+  "geometry": {"coordinates":[-82.24345700000001,34.909164],"type":"Point"}
 }

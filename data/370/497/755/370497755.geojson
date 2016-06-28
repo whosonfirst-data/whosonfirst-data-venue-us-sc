@@ -2,13 +2,14 @@
   "id": 370497755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.947302,34.925273,-81.947302,34.925273",
     "geom:latitude":34.925273,
     "geom:longitude":-81.947302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 New York Ave",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370497755,
-    "wof:lastmodified":1449032416,
+    "wof:lastmodified":1467082372,
     "wof:name":"St James Baptist Church",
     "wof:parent_id":85828171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.947302,34.925273,-81.947302,34.925273],
-  "geometry": {"coordinates":[-81.947302,34.925273],"type":"Point"}
+  "bbox": [
+    -81.947302,
+    34.925273,
+    -81.947302,
+    34.925273
+],
+  "geometry": {"coordinates":[-81.94730199999999,34.925273],"type":"Point"}
 }

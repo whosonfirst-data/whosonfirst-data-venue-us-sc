@@ -2,13 +2,14 @@
   "id": 185955409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.513311,33.878353,-81.513311,33.878353",
     "geom:latitude":33.878353,
     "geom:longitude":-81.513311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 S Lee St",
     "sg:city":"Batesburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185955409,
-    "wof:lastmodified":1449007707,
+    "wof:lastmodified":1467082199,
     "wof:name":"Sassy Scissors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.513311,33.878353,-81.513311,33.878353],
+  "bbox": [
+    -81.513311,
+    33.878353,
+    -81.513311,
+    33.878353
+],
   "geometry": {"coordinates":[-81.513311,33.878353],"type":"Point"}
 }

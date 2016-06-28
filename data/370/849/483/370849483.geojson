@@ -2,13 +2,14 @@
   "id": 370849483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.987255,33.204517,-79.987255,33.204517",
     "geom:latitude":33.204517,
     "geom:longitude":-79.987255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"439 N Hwy 52",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370849483,
-    "wof:lastmodified":1449029721,
+    "wof:lastmodified":1467082312,
     "wof:name":"A & M Brown's Bbq",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.987255,33.204517,-79.987255,33.204517],
+  "bbox": [
+    -79.987255,
+    33.204517,
+    -79.987255,
+    33.204517
+],
   "geometry": {"coordinates":[-79.987255,33.204517],"type":"Point"}
 }

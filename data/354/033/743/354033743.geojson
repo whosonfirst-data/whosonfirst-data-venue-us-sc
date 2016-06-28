@@ -2,13 +2,14 @@
   "id": 354033743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.064389,34.06098,-81.064389,34.06098",
     "geom:latitude":34.06098,
     "geom:longitude":-81.064389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Apache Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354033743,
-    "wof:lastmodified":1449066284,
+    "wof:lastmodified":1467082422,
     "wof:name":"Great Exterior",
     "wof:parent_id":85804585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "exterior"
     ]
 },
-  "bbox": [-81.064389,34.06098,-81.064389,34.06098],
-  "geometry": {"coordinates":[-81.064389,34.06098],"type":"Point"}
+  "bbox": [
+    -81.064389,
+    34.06098,
+    -81.064389,
+    34.06098
+],
+  "geometry": {"coordinates":[-81.06438900000001,34.06098],"type":"Point"}
 }

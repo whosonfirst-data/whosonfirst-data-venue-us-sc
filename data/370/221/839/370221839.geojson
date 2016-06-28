@@ -2,13 +2,14 @@
   "id": 370221839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.732007,33.515029,-81.732007,33.515029",
     "geom:latitude":33.515029,
     "geom:longitude":-81.732007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Silver Bluff Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370221839,
-    "wof:lastmodified":1449030581,
+    "wof:lastmodified":1467082331,
     "wof:name":"Sally Beauty Supply 1203",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "beauty"
     ]
 },
-  "bbox": [-81.732007,33.515029,-81.732007,33.515029],
+  "bbox": [
+    -81.732007,
+    33.515029,
+    -81.732007,
+    33.515029
+],
   "geometry": {"coordinates":[-81.732007,33.515029],"type":"Point"}
 }

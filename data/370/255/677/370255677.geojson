@@ -2,13 +2,14 @@
   "id": 370255677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.041231,33.989601,-81.041231,33.989601",
     "geom:latitude":33.989601,
     "geom:longitude":-81.041231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Huger St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370255677,
-    "wof:lastmodified":1449030635,
+    "wof:lastmodified":1467082332,
     "wof:name":"SMI Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandblasting"
     ]
 },
-  "bbox": [-81.041231,33.989601,-81.041231,33.989601],
+  "bbox": [
+    -81.041231,
+    33.989601,
+    -81.041231,
+    33.989601
+],
   "geometry": {"coordinates":[-81.041231,33.989601],"type":"Point"}
 }

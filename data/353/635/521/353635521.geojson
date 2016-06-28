@@ -2,13 +2,14 @@
   "id": 353635521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.949997,34.687241,-82.949997,34.687241",
     "geom:latitude":34.687241,
     "geom:longitude":-82.949997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 N Walnut St",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353635521,
-    "wof:lastmodified":1449019364,
+    "wof:lastmodified":1467082232,
     "wof:name":"Hare & Martin",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.949997,34.687241,-82.949997,34.687241],
+  "bbox": [
+    -82.949997,
+    34.687241,
+    -82.949997,
+    34.687241
+],
   "geometry": {"coordinates":[-82.949997,34.687241],"type":"Point"}
 }

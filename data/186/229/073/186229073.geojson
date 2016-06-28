@@ -2,13 +2,14 @@
   "id": 186229073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.868956,32.804194,-79.868956,32.804194",
     "geom:latitude":32.804194,
     "geom:longitude":-79.868956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 Pine Hollow Rd",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186229073,
-    "wof:lastmodified":1449052470,
+    "wof:lastmodified":1467082407,
     "wof:name":"Double o Plantation",
     "wof:parent_id":85848217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manager"
     ]
 },
-  "bbox": [-79.868956,32.804194,-79.868956,32.804194],
+  "bbox": [
+    -79.868956,
+    32.804194,
+    -79.868956,
+    32.804194
+],
   "geometry": {"coordinates":[-79.868956,32.804194],"type":"Point"}
 }

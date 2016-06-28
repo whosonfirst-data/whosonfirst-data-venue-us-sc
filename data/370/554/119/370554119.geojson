@@ -2,13 +2,14 @@
   "id": 370554119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.945976,34.686767,-82.945976,34.686767",
     "geom:latitude":34.686767,
     "geom:longitude":-82.945976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Jordan St",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370554119,
-    "wof:lastmodified":1449029792,
+    "wof:lastmodified":1467082313,
     "wof:name":"Our Daily Bread",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.945976,34.686767,-82.945976,34.686767],
+  "bbox": [
+    -82.945976,
+    34.686767,
+    -82.945976,
+    34.686767
+],
   "geometry": {"coordinates":[-82.945976,34.686767],"type":"Point"}
 }

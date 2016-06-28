@@ -2,13 +2,14 @@
   "id": 337473947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.775636,34.193216,-79.775636,34.193216",
     "geom:latitude":34.193216,
     "geom:longitude":-79.775636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 W Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":337473947,
-    "wof:lastmodified":1449027093,
+    "wof:lastmodified":1467082271,
     "wof:name":"Montessori School Of Florence",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.775636,34.193216,-79.775636,34.193216],
-  "geometry": {"coordinates":[-79.775636,34.193216],"type":"Point"}
+  "bbox": [
+    -79.775636,
+    34.193216,
+    -79.775636,
+    34.193216
+],
+  "geometry": {"coordinates":[-79.77563600000001,34.193216],"type":"Point"}
 }

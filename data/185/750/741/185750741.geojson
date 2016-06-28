@@ -2,13 +2,14 @@
   "id": 185750741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.403692,33.326944,-80.403692,33.326944",
     "geom:latitude":33.326944,
     "geom:longitude":-80.403692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1331 Unity Rd",
     "sg:city":"Holly Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185750741,
-    "wof:lastmodified":1449007590,
+    "wof:lastmodified":1467082197,
     "wof:name":"Comfort Zone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainer"
     ]
 },
-  "bbox": [-80.403692,33.326944,-80.403692,33.326944],
-  "geometry": {"coordinates":[-80.403692,33.326944],"type":"Point"}
+  "bbox": [
+    -80.403692,
+    33.326944,
+    -80.403692,
+    33.326944
+],
+  "geometry": {"coordinates":[-80.40369200000001,33.326944],"type":"Point"}
 }

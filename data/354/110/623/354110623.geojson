@@ -2,13 +2,14 @@
   "id": 354110623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.732942,34.848461,-81.732942,34.848461",
     "geom:latitude":34.848461,
     "geom:longitude":-81.732942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Farrow Rd",
     "sg:city":"Jonesville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354110623,
-    "wof:lastmodified":1449066475,
+    "wof:lastmodified":1467082427,
     "wof:name":"Incare Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "first"
     ]
 },
-  "bbox": [-81.732942,34.848461,-81.732942,34.848461],
-  "geometry": {"coordinates":[-81.732942,34.848461],"type":"Point"}
+  "bbox": [
+    -81.732942,
+    34.848461,
+    -81.732942,
+    34.848461
+],
+  "geometry": {"coordinates":[-81.73294199999999,34.848461],"type":"Point"}
 }

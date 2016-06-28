@@ -2,13 +2,14 @@
   "id": 370610143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.994167,34.979359,-81.994167,34.979359",
     "geom:latitude":34.979359,
     "geom:longitude":-81.994167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1290 New Cut Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370610143,
-    "wof:lastmodified":1449032412,
+    "wof:lastmodified":1467082372,
     "wof:name":"Spartanburg Steel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.994167,34.979359,-81.994167,34.979359],
+  "bbox": [
+    -81.994167,
+    34.979359,
+    -81.994167,
+    34.979359
+],
   "geometry": {"coordinates":[-81.994167,34.979359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337302383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.935985,33.668456,-78.935985,33.668456",
     "geom:latitude":33.668456,
     "geom:longitude":-78.935985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Shine Ave",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337302383,
-    "wof:lastmodified":1449027215,
+    "wof:lastmodified":1467082276,
     "wof:name":"Coastal Construction Ind Supl",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.935985,33.668456,-78.935985,33.668456],
+  "bbox": [
+    -78.935985,
+    33.668456,
+    -78.935985,
+    33.668456
+],
   "geometry": {"coordinates":[-78.935985,33.668456],"type":"Point"}
 }

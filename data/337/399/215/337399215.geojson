@@ -2,13 +2,14 @@
   "id": 337399215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.949877,32.219967,-80.949877,32.219967",
     "geom:latitude":32.219967,
     "geom:longitude":-80.949877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"188 Palmetto Bluff Rd",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337399215,
-    "wof:lastmodified":1449027070,
+    "wof:lastmodified":1467082270,
     "wof:name":"Wits End Farm",
     "wof:parent_id":85847515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-80.949877,32.219967,-80.949877,32.219967],
+  "bbox": [
+    -80.949877,
+    32.219967,
+    -80.949877,
+    32.219967
+],
   "geometry": {"coordinates":[-80.949877,32.219967],"type":"Point"}
 }

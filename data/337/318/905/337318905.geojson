@@ -2,13 +2,14 @@
   "id": 337318905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.049564,33.020742,-80.049564,33.020742",
     "geom:latitude":33.020742,
     "geom:longitude":-80.049564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Berkshire Ct",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337318905,
-    "wof:lastmodified":1449027100,
+    "wof:lastmodified":1467082271,
     "wof:name":"Butler Fire Alarm Enterprises",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alarm"
     ]
 },
-  "bbox": [-80.049564,33.020742,-80.049564,33.020742],
+  "bbox": [
+    -80.049564,
+    33.020742,
+    -80.049564,
+    33.020742
+],
   "geometry": {"coordinates":[-80.049564,33.020742],"type":"Point"}
 }

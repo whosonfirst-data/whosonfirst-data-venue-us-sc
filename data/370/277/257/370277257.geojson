@@ -2,13 +2,14 @@
   "id": 370277257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.675475,34.234583,-80.675475,34.234583",
     "geom:latitude":34.234583,
     "geom:longitude":-80.675475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Boulware Rd",
     "sg:city":"Lugoff",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370277257,
-    "wof:lastmodified":1449029470,
+    "wof:lastmodified":1467082306,
     "wof:name":"Young Forest Products Inc",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "timber"
     ]
 },
-  "bbox": [-80.675475,34.234583,-80.675475,34.234583],
-  "geometry": {"coordinates":[-80.675475,34.234583],"type":"Point"}
+  "bbox": [
+    -80.675475,
+    34.234583,
+    -80.675475,
+    34.234583
+],
+  "geometry": {"coordinates":[-80.67547500000001,34.234583],"type":"Point"}
 }

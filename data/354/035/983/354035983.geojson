@@ -2,13 +2,14 @@
   "id": 354035983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.372592,33.943695,-80.372592,33.943695",
     "geom:latitude":33.943695,
     "geom:longitude":-80.372592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 Bultman Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354035983,
-    "wof:lastmodified":1449067316,
+    "wof:lastmodified":1467082446,
     "wof:name":"Ideal Pawn Shop",
     "wof:parent_id":85806607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-80.372592,33.943695,-80.372592,33.943695],
+  "bbox": [
+    -80.372592,
+    33.943695,
+    -80.372592,
+    33.943695
+],
   "geometry": {"coordinates":[-80.372592,33.943695],"type":"Point"}
 }

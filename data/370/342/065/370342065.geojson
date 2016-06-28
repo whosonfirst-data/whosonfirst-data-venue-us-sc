@@ -2,13 +2,14 @@
   "id": 370342065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.982253,32.481261,-80.982253,32.481261",
     "geom:latitude":32.481261,
     "geom:longitude":-80.982253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 W Main St",
     "sg:city":"Ridgeland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370342065,
-    "wof:lastmodified":1449032225,
+    "wof:lastmodified":1467082368,
     "wof:name":"Quality Cleaners & Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.982253,32.481261,-80.982253,32.481261],
+  "bbox": [
+    -80.982253,
+    32.481261,
+    -80.982253,
+    32.481261
+],
   "geometry": {"coordinates":[-80.982253,32.481261],"type":"Point"}
 }

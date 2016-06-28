@@ -2,13 +2,14 @@
   "id": 370925349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.252688,34.197849,-79.252688,34.197849",
     "geom:latitude":34.197849,
     "geom:longitude":-79.252688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 S Main St",
     "sg:city":"Mullins",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370925349,
-    "wof:lastmodified":1449029088,
+    "wof:lastmodified":1467082298,
     "wof:name":"Howard B Smith Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.252688,34.197849,-79.252688,34.197849],
-  "geometry": {"coordinates":[-79.252688,34.197849],"type":"Point"}
+  "bbox": [
+    -79.252688,
+    34.197849,
+    -79.252688,
+    34.197849
+],
+  "geometry": {"coordinates":[-79.25268800000001,34.197849],"type":"Point"}
 }

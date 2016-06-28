@@ -2,13 +2,14 @@
   "id": 353373077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.544198,34.751742,-82.544198,34.751742",
     "geom:latitude":34.751742,
     "geom:longitude":-82.544198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Country Lakes Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353373077,
-    "wof:lastmodified":1449019588,
+    "wof:lastmodified":1467082237,
     "wof:name":"LOreal USA Inc",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "fragrance"
     ]
 },
-  "bbox": [-82.544198,34.751742,-82.544198,34.751742],
-  "geometry": {"coordinates":[-82.544198,34.751742],"type":"Point"}
+  "bbox": [
+    -82.544198,
+    34.751742,
+    -82.544198,
+    34.751742
+],
+  "geometry": {"coordinates":[-82.54419799999999,34.751742],"type":"Point"}
 }

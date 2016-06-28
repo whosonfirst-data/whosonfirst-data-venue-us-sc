@@ -2,13 +2,14 @@
   "id": 169721983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.624811,34.715221,-81.624811,34.715221",
     "geom:latitude":34.715221,
     "geom:longitude":-81.624811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 W Main St",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169721983,
-    "wof:lastmodified":1449035962,
+    "wof:lastmodified":1467082388,
     "wof:name":"Chic Styles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.624811,34.715221,-81.624811,34.715221],
-  "geometry": {"coordinates":[-81.624811,34.715221],"type":"Point"}
+  "bbox": [
+    -81.624811,
+    34.715221,
+    -81.624811,
+    34.715221
+],
+  "geometry": {"coordinates":[-81.62481099999999,34.715221],"type":"Point"}
 }

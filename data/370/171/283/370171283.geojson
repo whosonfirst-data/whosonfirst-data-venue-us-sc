@@ -2,13 +2,14 @@
   "id": 370171283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.860333,35.147259,-81.860333,35.147259",
     "geom:latitude":35.147259,
     "geom:longitude":-81.860333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 E Chester St",
     "sg:city":"Chesnee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370171283,
-    "wof:lastmodified":1449032482,
+    "wof:lastmodified":1467082374,
     "wof:name":"Affordable Tax Svc",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-81.860333,35.147259,-81.860333,35.147259],
+  "bbox": [
+    -81.860333,
+    35.147259,
+    -81.860333,
+    35.147259
+],
   "geometry": {"coordinates":[-81.860333,35.147259],"type":"Point"}
 }

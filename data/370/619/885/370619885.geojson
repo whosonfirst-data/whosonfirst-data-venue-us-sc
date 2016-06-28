@@ -2,13 +2,14 @@
   "id": 370619885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.080589,34.043172,-81.080589,34.043172",
     "geom:latitude":34.043172,
     "geom:longitude":-81.080589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Grays Inn Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370619885,
-    "wof:lastmodified":1449029700,
+    "wof:lastmodified":1467082311,
     "wof:name":"Carnaby Square Condominiums",
     "wof:parent_id":85845041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-81.080589,34.043172,-81.080589,34.043172],
+  "bbox": [
+    -81.080589,
+    34.043172,
+    -81.080589,
+    34.043172
+],
   "geometry": {"coordinates":[-81.080589,34.043172],"type":"Point"}
 }

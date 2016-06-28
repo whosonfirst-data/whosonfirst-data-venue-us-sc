@@ -2,13 +2,14 @@
   "id": 337284069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.946679,32.806293,-79.946679,32.806293",
     "geom:latitude":32.806293,
     "geom:longitude":-79.946679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Conroy St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337284069,
-    "wof:lastmodified":1449027456,
+    "wof:lastmodified":1467082284,
     "wof:name":"Marlin Painting",
     "wof:parent_id":85836137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.946679,32.806293,-79.946679,32.806293],
+  "bbox": [
+    -79.946679,
+    32.806293,
+    -79.946679,
+    32.806293
+],
   "geometry": {"coordinates":[-79.946679,32.806293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370766949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.079692,34.746582,-83.079692,34.746582",
     "geom:latitude":34.746582,
     "geom:longitude":-83.079692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Flat Rock Rd",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370766949,
-    "wof:lastmodified":1449029022,
+    "wof:lastmodified":1467082297,
     "wof:name":"New Hope Farm",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rabbit"
     ]
 },
-  "bbox": [-83.079692,34.746582,-83.079692,34.746582],
-  "geometry": {"coordinates":[-83.079692,34.746582],"type":"Point"}
+  "bbox": [
+    -83.079692,
+    34.746582,
+    -83.079692,
+    34.746582
+],
+  "geometry": {"coordinates":[-83.07969199999999,34.746582],"type":"Point"}
 }

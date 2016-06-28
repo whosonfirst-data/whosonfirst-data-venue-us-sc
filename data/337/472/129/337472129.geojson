@@ -2,13 +2,14 @@
   "id": 337472129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.970829,33.982319,-80.970829,33.982319",
     "geom:latitude":33.982319,
     "geom:longitude":-80.970829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 High Hampton Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":337472129,
-    "wof:lastmodified":1449027004,
+    "wof:lastmodified":1467082267,
     "wof:name":"Del Priore Construction Inc",
     "wof:parent_id":85897265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.970829,33.982319,-80.970829,33.982319],
-  "geometry": {"coordinates":[-80.970829,33.982319],"type":"Point"}
+  "bbox": [
+    -80.970829,
+    33.982319,
+    -80.970829,
+    33.982319
+],
+  "geometry": {"coordinates":[-80.97082899999999,33.982319],"type":"Point"}
 }

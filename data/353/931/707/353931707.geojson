@@ -2,13 +2,14 @@
   "id": 353931707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.375539,33.952574,-80.375539,33.952574",
     "geom:latitude":33.952574,
     "geom:longitude":-80.375539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Wesmark Blvd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353931707,
-    "wof:lastmodified":1449020577,
+    "wof:lastmodified":1467082257,
     "wof:name":"M Faulstich Billing Office",
     "wof:parent_id":85816835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-80.375539,33.952574,-80.375539,33.952574],
+  "bbox": [
+    -80.375539,
+    33.952574,
+    -80.375539,
+    33.952574
+],
   "geometry": {"coordinates":[-80.375539,33.952574],"type":"Point"}
 }

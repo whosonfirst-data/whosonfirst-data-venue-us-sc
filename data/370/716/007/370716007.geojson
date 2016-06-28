@@ -2,13 +2,14 @@
   "id": 370716007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.088313,33.007933,-80.088313,33.007933",
     "geom:latitude":33.007933,
     "geom:longitude":-80.088313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"549 College Park Rd",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370716007,
-    "wof:lastmodified":1449029573,
+    "wof:lastmodified":1467082309,
     "wof:name":"Special Pets Hair & Care",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-80.088313,33.007933,-80.088313,33.007933],
+  "bbox": [
+    -80.088313,
+    33.007933,
+    -80.088313,
+    33.007933
+],
   "geometry": {"coordinates":[-80.088313,33.007933],"type":"Point"}
 }

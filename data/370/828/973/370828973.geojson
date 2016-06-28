@@ -2,13 +2,14 @@
   "id": 370828973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.915532,32.902165,-79.915532,32.902165",
     "geom:latitude":32.902165,
     "geom:longitude":-79.915532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2294 Clements Ferry Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370828973,
-    "wof:lastmodified":1449030799,
+    "wof:lastmodified":1467082336,
     "wof:name":"96 Wave FM",
     "wof:parent_id":85814443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-79.915532,32.902165,-79.915532,32.902165],
+  "bbox": [
+    -79.915532,
+    32.902165,
+    -79.915532,
+    32.902165
+],
   "geometry": {"coordinates":[-79.915532,32.902165],"type":"Point"}
 }

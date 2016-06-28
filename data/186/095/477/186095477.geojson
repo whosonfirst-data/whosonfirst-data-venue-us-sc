@@ -2,13 +2,14 @@
   "id": 186095477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.090527,34.339262,-82.090527,34.339262",
     "geom:latitude":34.339262,
     "geom:longitude":-82.090527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"936 Virginia Cir",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186095477,
-    "wof:lastmodified":1449051730,
+    "wof:lastmodified":1467082400,
     "wof:name":"W O Graham Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "parts"
     ]
 },
-  "bbox": [-82.090527,34.339262,-82.090527,34.339262],
-  "geometry": {"coordinates":[-82.090527,34.339262],"type":"Point"}
+  "bbox": [
+    -82.090527,
+    34.339262,
+    -82.090527,
+    34.339262
+],
+  "geometry": {"coordinates":[-82.09052699999999,34.339262],"type":"Point"}
 }

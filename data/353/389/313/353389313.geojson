@@ -2,13 +2,14 @@
   "id": 353389313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.023102,33.648967,-79.023102,33.648967",
     "geom:latitude":33.648967,
     "geom:longitude":-79.023102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8100 State Hwy 707",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353389313,
-    "wof:lastmodified":1449020305,
+    "wof:lastmodified":1467082251,
     "wof:name":"Nautec",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electronic"
     ]
 },
-  "bbox": [-79.023102,33.648967,-79.023102,33.648967],
-  "geometry": {"coordinates":[-79.023102,33.648967],"type":"Point"}
+  "bbox": [
+    -79.023102,
+    33.648967,
+    -79.023102,
+    33.648967
+],
+  "geometry": {"coordinates":[-79.02310199999999,33.648967],"type":"Point"}
 }

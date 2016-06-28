@@ -2,13 +2,14 @@
   "id": 353915583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.411029,34.866564,-82.411029,34.866564",
     "geom:latitude":34.866564,
     "geom:longitude":-82.411029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1533 Buncombe St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353915583,
-    "wof:lastmodified":1449020754,
+    "wof:lastmodified":1467082261,
     "wof:name":"Greenville Storage Assoc",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-82.411029,34.866564,-82.411029,34.866564],
+  "bbox": [
+    -82.411029,
+    34.866564,
+    -82.411029,
+    34.866564
+],
   "geometry": {"coordinates":[-82.411029,34.866564],"type":"Point"}
 }

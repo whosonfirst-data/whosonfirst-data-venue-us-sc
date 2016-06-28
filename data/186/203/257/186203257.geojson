@@ -2,13 +2,14 @@
   "id": 186203257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.482954,34.60637,-82.482954,34.60637",
     "geom:latitude":34.60637,
     "geom:longitude":-82.482954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 S Academy St Exd",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186203257,
-    "wof:lastmodified":1449051566,
+    "wof:lastmodified":1467082399,
     "wof:name":"Sonco Amusement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "devices"
     ]
 },
-  "bbox": [-82.482954,34.60637,-82.482954,34.60637],
-  "geometry": {"coordinates":[-82.482954,34.60637],"type":"Point"}
+  "bbox": [
+    -82.482954,
+    34.60637,
+    -82.482954,
+    34.60637
+],
+  "geometry": {"coordinates":[-82.48295400000001,34.60637],"type":"Point"}
 }

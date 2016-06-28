@@ -2,13 +2,14 @@
   "id": 370328857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.211079,34.715098,-82.211079,34.715098",
     "geom:latitude":34.715098,
     "geom:longitude":-82.211079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Fountain Inn Dr",
     "sg:city":"Fountain Inn",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370328857,
-    "wof:lastmodified":1449031070,
+    "wof:lastmodified":1467082342,
     "wof:name":"Lee Jasmin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.211079,34.715098,-82.211079,34.715098],
+  "bbox": [
+    -82.211079,
+    34.715098,
+    -82.211079,
+    34.715098
+],
   "geometry": {"coordinates":[-82.211079,34.715098],"type":"Point"}
 }

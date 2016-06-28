@@ -2,13 +2,14 @@
   "id": 185625683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.953092,33.822138,-78.953092,33.822138",
     "geom:latitude":33.822138,
     "geom:longitude":-78.953092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2393 State Hwy 90 W",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185625683,
-    "wof:lastmodified":1449008239,
+    "wof:lastmodified":1467082208,
     "wof:name":"Depressed & Manic Depressed",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-78.953092,33.822138,-78.953092,33.822138],
+  "bbox": [
+    -78.953092,
+    33.822138,
+    -78.953092,
+    33.822138
+],
   "geometry": {"coordinates":[-78.953092,33.822138],"type":"Point"}
 }

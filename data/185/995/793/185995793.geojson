@@ -2,13 +2,14 @@
   "id": 185995793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.990438,34.119462,-80.990438,34.119462",
     "geom:latitude":34.119462,
     "geom:longitude":-80.990438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Fairlawn Ct",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":185995793,
-    "wof:lastmodified":1449008045,
+    "wof:lastmodified":1467082204,
     "wof:name":"T & S Consulting",
     "wof:parent_id":85850805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-80.990438,34.119462,-80.990438,34.119462],
+  "bbox": [
+    -80.990438,
+    34.119462,
+    -80.990438,
+    34.119462
+],
   "geometry": {"coordinates":[-80.990438,34.119462],"type":"Point"}
 }

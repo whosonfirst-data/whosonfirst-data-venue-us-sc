@@ -2,13 +2,14 @@
   "id": 370397191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.989354,32.879701,-79.989354,32.879701",
     "geom:latitude":32.879701,
     "geom:longitude":-79.989354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4755 Churchill Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370397191,
-    "wof:lastmodified":1449030436,
+    "wof:lastmodified":1467082328,
     "wof:name":"Mc Millan Floor Sanding",
     "wof:parent_id":85830427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-79.989354,32.879701,-79.989354,32.879701],
-  "geometry": {"coordinates":[-79.989354,32.879701],"type":"Point"}
+  "bbox": [
+    -79.989354,
+    32.879701,
+    -79.989354,
+    32.879701
+],
+  "geometry": {"coordinates":[-79.98935400000001,32.879701],"type":"Point"}
 }

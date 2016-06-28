@@ -2,13 +2,14 @@
   "id": 353870133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.860464,33.486521,-80.860464,33.486521",
     "geom:latitude":33.486521,
     "geom:longitude":-80.860464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1136 Glover St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353870133,
-    "wof:lastmodified":1449018932,
+    "wof:lastmodified":1467082223,
     "wof:name":"Orkin Pest Control",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.860464,33.486521,-80.860464,33.486521],
-  "geometry": {"coordinates":[-80.860464,33.486521],"type":"Point"}
+  "bbox": [
+    -80.860464,
+    33.486521,
+    -80.860464,
+    33.486521
+],
+  "geometry": {"coordinates":[-80.86046399999999,33.486521],"type":"Point"}
 }

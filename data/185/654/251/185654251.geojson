@@ -2,13 +2,14 @@
   "id": 185654251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.024043,34.004153,-81.024043,34.004153",
     "geom:latitude":34.004153,
     "geom:longitude":-81.024043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 Gervais St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185654251,
-    "wof:lastmodified":1449007139,
+    "wof:lastmodified":1467082190,
     "wof:name":"B B & T Insurance Svc",
     "wof:parent_id":85876831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.024043,34.004153,-81.024043,34.004153],
-  "geometry": {"coordinates":[-81.024043,34.004153],"type":"Point"}
+  "bbox": [
+    -81.024043,
+    34.004153,
+    -81.024043,
+    34.004153
+],
+  "geometry": {"coordinates":[-81.02404300000001,34.004153],"type":"Point"}
 }

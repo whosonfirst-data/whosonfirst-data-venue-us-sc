@@ -2,13 +2,14 @@
   "id": 370330489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.431081,34.845672,-82.431081,34.845672",
     "geom:latitude":34.845672,
     "geom:longitude":-82.431081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Calder St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370330489,
-    "wof:lastmodified":1449030765,
+    "wof:lastmodified":1467082335,
     "wof:name":"Brandon Baptist Church",
     "wof:parent_id":85838763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.431081,34.845672,-82.431081,34.845672],
-  "geometry": {"coordinates":[-82.431081,34.845672],"type":"Point"}
+  "bbox": [
+    -82.431081,
+    34.845672,
+    -82.431081,
+    34.845672
+],
+  "geometry": {"coordinates":[-82.43108100000001,34.845672],"type":"Point"}
 }

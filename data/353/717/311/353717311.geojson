@@ -2,13 +2,14 @@
   "id": 353717311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.226174,35.110744,-81.226174,35.110744",
     "geom:latitude":35.110744,
     "geom:longitude":-81.226174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Bethel St",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353717311,
-    "wof:lastmodified":1449018310,
+    "wof:lastmodified":1467082211,
     "wof:name":"Clover Chamber Of Commerce",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-81.226174,35.110744,-81.226174,35.110744],
+  "bbox": [
+    -81.226174,
+    35.110744,
+    -81.226174,
+    35.110744
+],
   "geometry": {"coordinates":[-81.226174,35.110744],"type":"Point"}
 }

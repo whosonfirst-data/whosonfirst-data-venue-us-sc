@@ -2,13 +2,14 @@
   "id": 353564401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.785373,34.664342,-82.785373,34.664342",
     "geom:latitude":34.664342,
     "geom:longitude":-82.785373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Woodland Cir",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353564401,
-    "wof:lastmodified":1449020645,
+    "wof:lastmodified":1467082259,
     "wof:name":"Impact Graphics Inc",
     "wof:parent_id":85854499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-82.785373,34.664342,-82.785373,34.664342],
-  "geometry": {"coordinates":[-82.785373,34.664342],"type":"Point"}
+  "bbox": [
+    -82.785373,
+    34.664342,
+    -82.785373,
+    34.664342
+],
+  "geometry": {"coordinates":[-82.78537300000001,34.664342],"type":"Point"}
 }

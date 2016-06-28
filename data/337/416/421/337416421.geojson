@@ -2,13 +2,14 @@
   "id": 337416421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.770621,34.201086,-79.770621,34.201086",
     "geom:latitude":34.201086,
     "geom:longitude":-79.770621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"360 N Coit St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337416421,
-    "wof:lastmodified":1449027308,
+    "wof:lastmodified":1467082279,
     "wof:name":"GE",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-79.770621,34.201086,-79.770621,34.201086],
-  "geometry": {"coordinates":[-79.770621,34.201086],"type":"Point"}
+  "bbox": [
+    -79.770621,
+    34.201086,
+    -79.770621,
+    34.201086
+],
+  "geometry": {"coordinates":[-79.77062100000001,34.201086],"type":"Point"}
 }

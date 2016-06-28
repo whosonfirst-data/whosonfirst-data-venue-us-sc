@@ -2,13 +2,14 @@
   "id": 185987843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.694049,34.218884,-80.694049,34.218884",
     "geom:latitude":34.218884,
     "geom:longitude":-80.694049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1123 US Hwy 1",
     "sg:city":"Lugoff",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185987843,
-    "wof:lastmodified":1449007504,
+    "wof:lastmodified":1467082196,
     "wof:name":"Aim Carpets",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "rug"
     ]
 },
-  "bbox": [-80.694049,34.218884,-80.694049,34.218884],
-  "geometry": {"coordinates":[-80.694049,34.218884],"type":"Point"}
+  "bbox": [
+    -80.694049,
+    34.218884,
+    -80.694049,
+    34.218884
+],
+  "geometry": {"coordinates":[-80.69404900000001,34.218884],"type":"Point"}
 }

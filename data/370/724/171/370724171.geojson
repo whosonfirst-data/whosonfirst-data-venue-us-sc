@@ -2,13 +2,14 @@
   "id": 370724171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.65672,33.881035,-78.65672,33.881035",
     "geom:latitude":33.881035,
     "geom:longitude":-78.65672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 Golf Ave",
     "sg:city":"Little River",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370724171,
-    "wof:lastmodified":1449032397,
+    "wof:lastmodified":1467082372,
     "wof:name":"Master Connection",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-78.65672,33.881035,-78.65672,33.881035],
-  "geometry": {"coordinates":[-78.65672,33.881035],"type":"Point"}
+  "bbox": [
+    -78.65672,
+    33.881035,
+    -78.65672,
+    33.881035
+],
+  "geometry": {"coordinates":[-78.65672000000001,33.881035],"type":"Point"}
 }

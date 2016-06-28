@@ -2,13 +2,14 @@
   "id": 354226011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.177861,32.822226,-80.177861,32.822226",
     "geom:latitude":32.822226,
     "geom:longitude":-80.177861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7050 Moberry Rd",
     "sg:city":"Ravenel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354226011,
-    "wof:lastmodified":1449067195,
+    "wof:lastmodified":1467082443,
     "wof:name":"W Frazier Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grading"
     ]
 },
-  "bbox": [-80.177861,32.822226,-80.177861,32.822226],
-  "geometry": {"coordinates":[-80.177861,32.822226],"type":"Point"}
+  "bbox": [
+    -80.177861,
+    32.822226,
+    -80.177861,
+    32.822226
+],
+  "geometry": {"coordinates":[-80.17786099999999,32.822226],"type":"Point"}
 }

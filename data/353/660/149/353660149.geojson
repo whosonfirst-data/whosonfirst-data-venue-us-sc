@@ -2,13 +2,14 @@
   "id": 353660149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.409487,34.187751,-82.409487,34.187751",
     "geom:latitude":34.187751,
     "geom:longitude":-82.409487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"263 State Hwy 71",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353660149,
-    "wof:lastmodified":1449020538,
+    "wof:lastmodified":1467082256,
     "wof:name":"Lanford Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drilling"
     ]
 },
-  "bbox": [-82.409487,34.187751,-82.409487,34.187751],
+  "bbox": [
+    -82.409487,
+    34.187751,
+    -82.409487,
+    34.187751
+],
   "geometry": {"coordinates":[-82.409487,34.187751],"type":"Point"}
 }

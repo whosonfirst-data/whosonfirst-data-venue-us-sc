@@ -2,13 +2,14 @@
   "id": 185828467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.263326,34.858689,-82.263326,34.858689",
     "geom:latitude":34.858689,
     "geom:longitude":-82.263326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Interstate Ct",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185828467,
-    "wof:lastmodified":1449007451,
+    "wof:lastmodified":1467082195,
     "wof:name":"W H N S Channel 21",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.263326,34.858689,-82.263326,34.858689],
-  "geometry": {"coordinates":[-82.263326,34.858689],"type":"Point"}
+  "bbox": [
+    -82.263326,
+    34.858689,
+    -82.263326,
+    34.858689
+],
+  "geometry": {"coordinates":[-82.26332600000001,34.858689],"type":"Point"}
 }

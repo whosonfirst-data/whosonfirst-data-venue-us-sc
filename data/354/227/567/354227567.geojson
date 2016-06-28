@@ -2,13 +2,14 @@
   "id": 354227567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.067583,33.960229,-81.067583,33.960229",
     "geom:latitude":33.960229,
     "geom:longitude":-81.067583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2336 Laurie St",
     "sg:city":"Cayce",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354227567,
-    "wof:lastmodified":1449066289,
+    "wof:lastmodified":1467082422,
     "wof:name":"Jeffcoat Construction",
     "wof:parent_id":85808009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.067583,33.960229,-81.067583,33.960229],
+  "bbox": [
+    -81.067583,
+    33.960229,
+    -81.067583,
+    33.960229
+],
   "geometry": {"coordinates":[-81.067583,33.960229],"type":"Point"}
 }

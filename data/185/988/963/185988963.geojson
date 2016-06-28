@@ -2,13 +2,14 @@
   "id": 185988963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.135653,33.895896,-79.135653,33.895896",
     "geom:latitude":33.895896,
     "geom:longitude":-79.135653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"259 Landmark Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185988963,
-    "wof:lastmodified":1449007143,
+    "wof:lastmodified":1467082190,
     "wof:name":"Nichols Co Of SC",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.135653,33.895896,-79.135653,33.895896],
+  "bbox": [
+    -79.135653,
+    33.895896,
+    -79.135653,
+    33.895896
+],
   "geometry": {"coordinates":[-79.135653,33.895896],"type":"Point"}
 }

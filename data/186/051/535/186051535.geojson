@@ -2,13 +2,14 @@
   "id": 186051535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.156146,33.820102,-81.156146,33.820102",
     "geom:latitude":33.820102,
     "geom:longitude":-81.156146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Harmony View Ct",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186051535,
-    "wof:lastmodified":1449052021,
+    "wof:lastmodified":1467082403,
     "wof:name":"Action Auction & Estate Svc",
     "wof:parent_id":85847855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-81.156146,33.820102,-81.156146,33.820102],
-  "geometry": {"coordinates":[-81.156146,33.820102],"type":"Point"}
+  "bbox": [
+    -81.156146,
+    33.820102,
+    -81.156146,
+    33.820102
+],
+  "geometry": {"coordinates":[-81.15614600000001,33.820102],"type":"Point"}
 }

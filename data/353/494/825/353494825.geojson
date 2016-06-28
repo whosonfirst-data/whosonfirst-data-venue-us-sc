@@ -2,13 +2,14 @@
   "id": 353494825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.244875,34.704709,-82.244875,34.704709",
     "geom:latitude":34.704709,
     "geom:longitude":-82.244875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Harrison Bridge Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353494825,
-    "wof:lastmodified":1449020524,
+    "wof:lastmodified":1467082256,
     "wof:name":"Tylan Creek Family Dentistry",
     "wof:parent_id":85842975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.244875,34.704709,-82.244875,34.704709],
-  "geometry": {"coordinates":[-82.244875,34.704709],"type":"Point"}
+  "bbox": [
+    -82.244875,
+    34.704709,
+    -82.244875,
+    34.704709
+],
+  "geometry": {"coordinates":[-82.24487499999999,34.704709],"type":"Point"}
 }

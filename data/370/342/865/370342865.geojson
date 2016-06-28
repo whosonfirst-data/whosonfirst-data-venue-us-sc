@@ -2,13 +2,14 @@
   "id": 370342865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.047367,34.874842,-82.047367,34.874842",
     "geom:latitude":34.874842,
     "geom:longitude":-82.047367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"578 State Hwy 417",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370342865,
-    "wof:lastmodified":1449032224,
+    "wof:lastmodified":1467082368,
     "wof:name":"AC Landscaping/Maint",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.047367,34.874842,-82.047367,34.874842],
-  "geometry": {"coordinates":[-82.047367,34.874842],"type":"Point"}
+  "bbox": [
+    -82.047367,
+    34.874842,
+    -82.047367,
+    34.874842
+],
+  "geometry": {"coordinates":[-82.04736699999999,34.874842],"type":"Point"}
 }

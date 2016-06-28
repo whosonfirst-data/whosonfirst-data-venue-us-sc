@@ -2,13 +2,14 @@
   "id": 370376655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.086407,33.019525,-80.086407,33.019525",
     "geom:latitude":33.019525,
     "geom:longitude":-80.086407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Corporate Pkwy",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370376655,
-    "wof:lastmodified":1449030257,
+    "wof:lastmodified":1467082324,
     "wof:name":"Best Life Medical & Mobility",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.086407,33.019525,-80.086407,33.019525],
-  "geometry": {"coordinates":[-80.086407,33.019525],"type":"Point"}
+  "bbox": [
+    -80.086407,
+    33.019525,
+    -80.086407,
+    33.019525
+],
+  "geometry": {"coordinates":[-80.08640699999999,33.019525],"type":"Point"}
 }

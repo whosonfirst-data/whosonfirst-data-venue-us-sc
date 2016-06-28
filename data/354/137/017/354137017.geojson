@@ -2,13 +2,14 @@
   "id": 354137017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.877359,32.789709,-79.877359,32.789709",
     "geom:latitude":32.789709,
     "geom:longitude":-79.877359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Hibben St",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":354137017,
-    "wof:lastmodified":1449067429,
+    "wof:lastmodified":1467082449,
     "wof:name":"DVD Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-79.877359,32.789709,-79.877359,32.789709],
+  "bbox": [
+    -79.877359,
+    32.789709,
+    -79.877359,
+    32.789709
+],
   "geometry": {"coordinates":[-79.877359,32.789709],"type":"Point"}
 }

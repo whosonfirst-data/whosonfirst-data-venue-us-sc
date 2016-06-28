@@ -2,13 +2,14 @@
   "id": 370606603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.981785,34.16237,-79.981785,34.16237",
     "geom:latitude":34.16237,
     "geom:longitude":-79.981785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Weaver St",
     "sg:city":"Timmonsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370606603,
-    "wof:lastmodified":1449029614,
+    "wof:lastmodified":1467082310,
     "wof:name":"Randle Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "leveling"
     ]
 },
-  "bbox": [-79.981785,34.16237,-79.981785,34.16237],
+  "bbox": [
+    -79.981785,
+    34.16237,
+    -79.981785,
+    34.16237
+],
   "geometry": {"coordinates":[-79.981785,34.16237],"type":"Point"}
 }

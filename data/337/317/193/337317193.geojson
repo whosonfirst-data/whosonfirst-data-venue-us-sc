@@ -2,13 +2,14 @@
   "id": 337317193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.861293,33.493765,-80.861293,33.493765",
     "geom:latitude":33.493765,
     "geom:longitude":-80.861293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Summers Ave",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337317193,
-    "wof:lastmodified":1449027312,
+    "wof:lastmodified":1467082279,
     "wof:name":"Southern Glass & Plastics",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-80.861293,33.493765,-80.861293,33.493765],
+  "bbox": [
+    -80.861293,
+    33.493765,
+    -80.861293,
+    33.493765
+],
   "geometry": {"coordinates":[-80.861293,33.493765],"type":"Point"}
 }

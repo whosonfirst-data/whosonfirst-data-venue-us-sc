@@ -2,13 +2,14 @@
   "id": 370761387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.008113,33.970974,-81.008113,33.970974",
     "geom:latitude":33.970974,
     "geom:longitude":-81.008113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Northway Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370761387,
-    "wof:lastmodified":1449031678,
+    "wof:lastmodified":1467082356,
     "wof:name":"Amj Medical Corp",
     "wof:parent_id":85846089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-81.008113,33.970974,-81.008113,33.970974],
-  "geometry": {"coordinates":[-81.008113,33.970974],"type":"Point"}
+  "bbox": [
+    -81.008113,
+    33.970974,
+    -81.008113,
+    33.970974
+],
+  "geometry": {"coordinates":[-81.00811299999999,33.970974],"type":"Point"}
 }

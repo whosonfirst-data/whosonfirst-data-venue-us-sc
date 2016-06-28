@@ -2,13 +2,14 @@
   "id": 370615695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.232442,35.153289,-81.232442,35.153289",
     "geom:latitude":35.153289,
     "geom:longitude":-81.232442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1032 Galway Ln",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370615695,
-    "wof:lastmodified":1449030166,
+    "wof:lastmodified":1467082322,
     "wof:name":"Brother Ned's Happy Poodle Knl",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kennel"
     ]
 },
-  "bbox": [-81.232442,35.153289,-81.232442,35.153289],
-  "geometry": {"coordinates":[-81.232442,35.153289],"type":"Point"}
+  "bbox": [
+    -81.232442,
+    35.153289,
+    -81.232442,
+    35.153289
+],
+  "geometry": {"coordinates":[-81.23244200000001,35.153289],"type":"Point"}
 }

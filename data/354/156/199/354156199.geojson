@@ -2,13 +2,14 @@
   "id": 354156199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.991124,33.618565,-78.991124,33.618565",
     "geom:latitude":33.618565,
     "geom:longitude":-78.991124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Glenns Bay Rd",
     "sg:city":"Surfside Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354156199,
-    "wof:lastmodified":1449066266,
+    "wof:lastmodified":1467082422,
     "wof:name":"W Herbert Hucks CPA",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-78.991124,33.618565,-78.991124,33.618565],
+  "bbox": [
+    -78.991124,
+    33.618565,
+    -78.991124,
+    33.618565
+],
   "geometry": {"coordinates":[-78.991124,33.618565],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353629025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.038815,32.993455,-80.038815,32.993455",
     "geom:latitude":32.993455,
     "geom:longitude":-80.038815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Goose Creek Blvd S",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353629025,
-    "wof:lastmodified":1449020223,
+    "wof:lastmodified":1467082250,
     "wof:name":"Kartech Brake & Lube",
     "wof:parent_id":85822291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.038815,32.993455,-80.038815,32.993455],
+  "bbox": [
+    -80.038815,
+    32.993455,
+    -80.038815,
+    32.993455
+],
   "geometry": {"coordinates":[-80.038815,32.993455],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370279219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.757955,34.34686,-79.757955,34.34686",
     "geom:latitude":34.34686,
     "geom:longitude":-79.757955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 N Charleston Rd",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370279219,
-    "wof:lastmodified":1449030654,
+    "wof:lastmodified":1467082333,
     "wof:name":"Skeet's Barbecue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.757955,34.34686,-79.757955,34.34686],
+  "bbox": [
+    -79.757955,
+    34.34686,
+    -79.757955,
+    34.34686
+],
   "geometry": {"coordinates":[-79.757955,34.34686],"type":"Point"}
 }

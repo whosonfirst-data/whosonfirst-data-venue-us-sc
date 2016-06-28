@@ -2,13 +2,14 @@
   "id": 353600341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.987814,35.058243,-80.987814,35.058243",
     "geom:latitude":35.058243,
     "geom:longitude":-80.987814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Smokey Quartz Ln",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353600341,
-    "wof:lastmodified":1449018496,
+    "wof:lastmodified":1467082215,
     "wof:name":"D R Horton Inc",
     "wof:parent_id":85839383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-80.987814,35.058243,-80.987814,35.058243],
+  "bbox": [
+    -80.987814,
+    35.058243,
+    -80.987814,
+    35.058243
+],
   "geometry": {"coordinates":[-80.987814,35.058243],"type":"Point"}
 }

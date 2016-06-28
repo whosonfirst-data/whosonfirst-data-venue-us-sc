@@ -2,13 +2,14 @@
   "id": 169793281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.147165,34.090109,-81.147165,34.090109",
     "geom:latitude":34.090109,
     "geom:longitude":-81.147165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Foxglove Cir",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169793281,
-    "wof:lastmodified":1449034506,
+    "wof:lastmodified":1467082383,
     "wof:name":"Sapphire Bay Mortgage",
     "wof:parent_id":85868499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-81.147165,34.090109,-81.147165,34.090109],
+  "bbox": [
+    -81.147165,
+    34.090109,
+    -81.147165,
+    34.090109
+],
   "geometry": {"coordinates":[-81.147165,34.090109],"type":"Point"}
 }

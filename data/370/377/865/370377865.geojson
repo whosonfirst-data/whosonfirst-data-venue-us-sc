@@ -2,13 +2,14 @@
   "id": 370377865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.900065,33.674669,-78.900065,33.674669",
     "geom:latitude":33.674669,
     "geom:longitude":-78.900065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 S Ocean Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370377865,
-    "wof:lastmodified":1449030357,
+    "wof:lastmodified":1467082326,
     "wof:name":"Atlantic Paradise Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.900065,33.674669,-78.900065,33.674669],
+  "bbox": [
+    -78.900065,
+    33.674669,
+    -78.900065,
+    33.674669
+],
   "geometry": {"coordinates":[-78.900065,33.674669],"type":"Point"}
 }

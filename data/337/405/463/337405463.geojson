@@ -2,13 +2,14 @@
   "id": 337405463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.891535,35.116164,-81.891535,35.116164",
     "geom:latitude":35.116164,
     "geom:longitude":-81.891535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5148 Henderson Hill Rd",
     "sg:city":"Chesnee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337405463,
-    "wof:lastmodified":1449027669,
+    "wof:lastmodified":1467082292,
     "wof:name":"Deming Electric",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.891535,35.116164,-81.891535,35.116164],
+  "bbox": [
+    -81.891535,
+    35.116164,
+    -81.891535,
+    35.116164
+],
   "geometry": {"coordinates":[-81.891535,35.116164],"type":"Point"}
 }

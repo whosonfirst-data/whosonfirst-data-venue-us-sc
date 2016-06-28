@@ -2,13 +2,14 @@
   "id": 370963185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.883913,33.687868,-78.883913,33.687868",
     "geom:latitude":33.687868,
     "geom:longitude":-78.883913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 N Ocean Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370963185,
-    "wof:lastmodified":1449029410,
+    "wof:lastmodified":1467082305,
     "wof:name":"Ashley's Pizza & Pub",
     "wof:parent_id":85859339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-78.883913,33.687868,-78.883913,33.687868],
-  "geometry": {"coordinates":[-78.883913,33.687868],"type":"Point"}
+  "bbox": [
+    -78.883913,
+    33.687868,
+    -78.883913,
+    33.687868
+],
+  "geometry": {"coordinates":[-78.88391300000001,33.687868],"type":"Point"}
 }

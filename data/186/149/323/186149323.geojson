@@ -2,13 +2,14 @@
   "id": 186149323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.710402,32.202796,-80.710402,32.202796",
     "geom:latitude":32.202796,
     "geom:longitude":-80.710402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Marshland Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186149323,
-    "wof:lastmodified":1449050260,
+    "wof:lastmodified":1467082389,
     "wof:name":"Yola Nolan",
     "wof:parent_id":85819729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychotherapist"
     ]
 },
-  "bbox": [-80.710402,32.202796,-80.710402,32.202796],
+  "bbox": [
+    -80.710402,
+    32.202796,
+    -80.710402,
+    32.202796
+],
   "geometry": {"coordinates":[-80.710402,32.202796],"type":"Point"}
 }

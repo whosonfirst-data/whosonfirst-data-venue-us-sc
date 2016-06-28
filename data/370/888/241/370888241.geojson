@@ -2,13 +2,14 @@
   "id": 370888241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.155068,32.6056,-80.155068,32.6056",
     "geom:latitude":32.6056,
     "geom:longitude":-80.155068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1895 Andell Bluff Blvd",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370888241,
-    "wof:lastmodified":1449031198,
+    "wof:lastmodified":1467082345,
     "wof:name":"Sanco Services Inc",
     "wof:parent_id":85809109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "investment"
     ]
 },
-  "bbox": [-80.155068,32.6056,-80.155068,32.6056],
+  "bbox": [
+    -80.155068,
+    32.6056,
+    -80.155068,
+    32.6056
+],
   "geometry": {"coordinates":[-80.155068,32.6056],"type":"Point"}
 }

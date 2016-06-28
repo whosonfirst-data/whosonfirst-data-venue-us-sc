@@ -2,13 +2,14 @@
   "id": 354416213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.170162,34.998141,-81.170162,34.998141",
     "geom:latitude":34.998141,
     "geom:longitude":-81.170162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2506 State Hwy 161 S",
     "sg:city":"York",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354416213,
-    "wof:lastmodified":1449066677,
+    "wof:lastmodified":1467082431,
     "wof:name":"Brown's Heating & Plumbing Co",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.170162,34.998141,-81.170162,34.998141],
+  "bbox": [
+    -81.170162,
+    34.998141,
+    -81.170162,
+    34.998141
+],
   "geometry": {"coordinates":[-81.170162,34.998141],"type":"Point"}
 }

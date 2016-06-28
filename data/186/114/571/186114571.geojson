@@ -2,13 +2,14 @@
   "id": 186114571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.685662,33.421592,-81.685662,33.421592",
     "geom:latitude":33.421592,
     "geom:longitude":-81.685662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Main St N",
     "sg:city":"New Ellenton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186114571,
-    "wof:lastmodified":1449051495,
+    "wof:lastmodified":1467082398,
     "wof:name":"Patterson Signs & Art",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.685662,33.421592,-81.685662,33.421592],
-  "geometry": {"coordinates":[-81.685662,33.421592],"type":"Point"}
+  "bbox": [
+    -81.685662,
+    33.421592,
+    -81.685662,
+    33.421592
+],
+  "geometry": {"coordinates":[-81.68566199999999,33.421592],"type":"Point"}
 }

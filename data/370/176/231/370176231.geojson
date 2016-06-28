@@ -2,13 +2,14 @@
   "id": 370176231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.983742,33.614505,-78.983742,33.614505",
     "geom:latitude":33.614505,
     "geom:longitude":-78.983742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Glenns Bay Rd",
     "sg:city":"Surfside Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370176231,
-    "wof:lastmodified":1449031283,
+    "wof:lastmodified":1467082347,
     "wof:name":"Beach Medicine",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.983742,33.614505,-78.983742,33.614505],
-  "geometry": {"coordinates":[-78.983742,33.614505],"type":"Point"}
+  "bbox": [
+    -78.983742,
+    33.614505,
+    -78.983742,
+    33.614505
+],
+  "geometry": {"coordinates":[-78.98374200000001,33.614505],"type":"Point"}
 }

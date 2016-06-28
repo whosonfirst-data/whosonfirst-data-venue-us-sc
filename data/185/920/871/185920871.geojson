@@ -2,13 +2,14 @@
   "id": 185920871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.15103,34.168405,-82.15103,34.168405",
     "geom:latitude":34.168405,
     "geom:longitude":-82.15103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Edgefield St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185920871,
-    "wof:lastmodified":1449007866,
+    "wof:lastmodified":1467082202,
     "wof:name":"Greenwood Mills Medical Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.15103,34.168405,-82.15103,34.168405],
-  "geometry": {"coordinates":[-82.15103,34.168405],"type":"Point"}
+  "bbox": [
+    -82.15103,
+    34.168405,
+    -82.15103,
+    34.168405
+],
+  "geometry": {"coordinates":[-82.15103000000001,34.168405],"type":"Point"}
 }

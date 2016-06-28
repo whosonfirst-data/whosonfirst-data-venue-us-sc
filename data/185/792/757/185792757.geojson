@@ -2,13 +2,14 @@
   "id": 185792757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.76424,33.8473,-79.76424,33.8473",
     "geom:latitude":33.8473,
     "geom:longitude":-79.76424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 W Cole Rd",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185792757,
-    "wof:lastmodified":1449006961,
+    "wof:lastmodified":1467082188,
     "wof:name":"Lake City Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.76424,33.8473,-79.76424,33.8473],
+  "bbox": [
+    -79.76424,
+    33.8473,
+    -79.76424,
+    33.8473
+],
   "geometry": {"coordinates":[-79.76424,33.8473],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370530371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.032282,34.010761,-81.032282,34.010761",
     "geom:latitude":34.010761,
     "geom:longitude":-81.032282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Laurel St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370530371,
-    "wof:lastmodified":1449030880,
+    "wof:lastmodified":1467082338,
     "wof:name":"South Carolina Assn-Crmnl Dfns",
     "wof:parent_id":85805491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.032282,34.010761,-81.032282,34.010761],
+  "bbox": [
+    -81.032282,
+    34.010761,
+    -81.032282,
+    34.010761
+],
   "geometry": {"coordinates":[-81.032282,34.010761],"type":"Point"}
 }

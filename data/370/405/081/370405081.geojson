@@ -2,13 +2,14 @@
   "id": 370405081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.742977,33.520407,-81.742977,33.520407",
     "geom:latitude":33.520407,
     "geom:longitude":-81.742977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Spyglass Dr",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370405081,
-    "wof:lastmodified":1449032197,
+    "wof:lastmodified":1467082367,
     "wof:name":"Collins Professional Svc",
     "wof:parent_id":85812071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-81.742977,33.520407,-81.742977,33.520407],
+  "bbox": [
+    -81.742977,
+    33.520407,
+    -81.742977,
+    33.520407
+],
   "geometry": {"coordinates":[-81.742977,33.520407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185942625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.020676,33.972508,-81.020676,33.972508",
     "geom:latitude":33.972508,
     "geom:longitude":-81.020676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Bluff Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185942625,
-    "wof:lastmodified":1449007357,
+    "wof:lastmodified":1467082194,
     "wof:name":"Super-Sod Columbia",
     "wof:parent_id":85846089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sodding"
     ]
 },
-  "bbox": [-81.020676,33.972508,-81.020676,33.972508],
-  "geometry": {"coordinates":[-81.020676,33.972508],"type":"Point"}
+  "bbox": [
+    -81.020676,
+    33.972508,
+    -81.020676,
+    33.972508
+],
+  "geometry": {"coordinates":[-81.02067599999999,33.972508],"type":"Point"}
 }

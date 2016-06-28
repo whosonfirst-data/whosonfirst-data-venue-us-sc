@@ -2,13 +2,14 @@
   "id": 353781587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.691035,32.425969,-80.691035,32.425969",
     "geom:latitude":32.425969,
     "geom:longitude":-80.691035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2413 Hermitage Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":353781587,
-    "wof:lastmodified":1449018729,
+    "wof:lastmodified":1467082219,
     "wof:name":"Chambers Appraisal Svc",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-80.691035,32.425969,-80.691035,32.425969],
+  "bbox": [
+    -80.691035,
+    32.425969,
+    -80.691035,
+    32.425969
+],
   "geometry": {"coordinates":[-80.691035,32.425969],"type":"Point"}
 }

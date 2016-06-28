@@ -2,13 +2,14 @@
   "id": 353943285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.825666,33.664983,-79.825666,33.664983",
     "geom:latitude":33.664983,
     "geom:longitude":-79.825666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 E Main St",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353943285,
-    "wof:lastmodified":1449018938,
+    "wof:lastmodified":1467082223,
     "wof:name":"Cottingham Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "animal"
     ]
 },
-  "bbox": [-79.825666,33.664983,-79.825666,33.664983],
+  "bbox": [
+    -79.825666,
+    33.664983,
+    -79.825666,
+    33.664983
+],
   "geometry": {"coordinates":[-79.825666,33.664983],"type":"Point"}
 }

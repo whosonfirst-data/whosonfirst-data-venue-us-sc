@@ -2,13 +2,14 @@
   "id": 186119791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.301538,34.78086,-82.301538,34.78086",
     "geom:latitude":34.78086,
     "geom:longitude":-82.301538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Butler Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186119791,
-    "wof:lastmodified":1449052279,
+    "wof:lastmodified":1467082406,
     "wof:name":"Mauldin United Methodist Chr",
     "wof:parent_id":85851381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.301538,34.78086,-82.301538,34.78086],
-  "geometry": {"coordinates":[-82.301538,34.78086],"type":"Point"}
+  "bbox": [
+    -82.301538,
+    34.78086,
+    -82.301538,
+    34.78086
+],
+  "geometry": {"coordinates":[-82.30153799999999,34.78086],"type":"Point"}
 }

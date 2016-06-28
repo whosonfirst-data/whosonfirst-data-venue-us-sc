@@ -2,13 +2,14 @@
   "id": 354123553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.663327,34.532988,-82.663327,34.532988",
     "geom:latitude":34.532988,
     "geom:longitude":-82.663327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Concord Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354123553,
-    "wof:lastmodified":1449066412,
+    "wof:lastmodified":1467082425,
     "wof:name":"Palmetto Mortgage Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-82.663327,34.532988,-82.663327,34.532988],
+  "bbox": [
+    -82.663327,
+    34.532988,
+    -82.663327,
+    34.532988
+],
   "geometry": {"coordinates":[-82.663327,34.532988],"type":"Point"}
 }

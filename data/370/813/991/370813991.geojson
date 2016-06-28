@@ -2,13 +2,14 @@
   "id": 370813991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.15461,33.960991,-81.15461,33.960991",
     "geom:latitude":33.960991,
     "geom:longitude":-81.15461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 Micala Rd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370813991,
-    "wof:lastmodified":1449029969,
+    "wof:lastmodified":1467082318,
     "wof:name":"Boland Cabinet Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.15461,33.960991,-81.15461,33.960991],
-  "geometry": {"coordinates":[-81.15461,33.960991],"type":"Point"}
+  "bbox": [
+    -81.15461,
+    33.960991,
+    -81.15461,
+    33.960991
+],
+  "geometry": {"coordinates":[-81.15461000000001,33.960991],"type":"Point"}
 }

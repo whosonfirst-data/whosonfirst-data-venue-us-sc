@@ -2,13 +2,14 @@
   "id": 370643135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.597648,34.090224,-82.597648,34.090224",
     "geom:latitude":34.090224,
     "geom:longitude":-82.597648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 S Calhoun St",
     "sg:city":"Calhoun Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370643135,
-    "wof:lastmodified":1449032018,
+    "wof:lastmodified":1467082363,
     "wof:name":"Lilly May's Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.597648,34.090224,-82.597648,34.090224],
-  "geometry": {"coordinates":[-82.597648,34.090224],"type":"Point"}
+  "bbox": [
+    -82.597648,
+    34.090224,
+    -82.597648,
+    34.090224
+],
+  "geometry": {"coordinates":[-82.59764800000001,34.090224],"type":"Point"}
 }

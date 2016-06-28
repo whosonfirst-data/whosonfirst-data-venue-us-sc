@@ -2,13 +2,14 @@
   "id": 353511795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.652543,34.515193,-82.652543,34.515193",
     "geom:latitude":34.515193,
     "geom:longitude":-82.652543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E Peachtree St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353511795,
-    "wof:lastmodified":1449019436,
+    "wof:lastmodified":1467082234,
     "wof:name":"Table Rock Spring Water Co",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-82.652543,34.515193,-82.652543,34.515193],
-  "geometry": {"coordinates":[-82.652543,34.515193],"type":"Point"}
+  "bbox": [
+    -82.652543,
+    34.515193,
+    -82.652543,
+    34.515193
+],
+  "geometry": {"coordinates":[-82.65254299999999,34.515193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370204243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.956503,35.127545,-81.956503,35.127545",
     "geom:latitude":35.127545,
     "geom:longitude":-81.956503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3206 Fairfield Rd",
     "sg:city":"Chesnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370204243,
-    "wof:lastmodified":1449032579,
+    "wof:lastmodified":1467082376,
     "wof:name":"Cash Builders",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.956503,35.127545,-81.956503,35.127545],
+  "bbox": [
+    -81.956503,
+    35.127545,
+    -81.956503,
+    35.127545
+],
   "geometry": {"coordinates":[-81.956503,35.127545],"type":"Point"}
 }

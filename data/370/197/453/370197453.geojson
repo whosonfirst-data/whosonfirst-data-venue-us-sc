@@ -2,13 +2,14 @@
   "id": 370197453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.483288,34.786902,-82.483288,34.786902",
     "geom:latitude":34.786902,
     "geom:longitude":-82.483288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10858 Anderson Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370197453,
-    "wof:lastmodified":1449032049,
+    "wof:lastmodified":1467082364,
     "wof:name":"Animal Supply House",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-82.483288,34.786902,-82.483288,34.786902],
+  "bbox": [
+    -82.483288,
+    34.786902,
+    -82.483288,
+    34.786902
+],
   "geometry": {"coordinates":[-82.483288,34.786902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353731895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.913249,34.95616,-81.913249,34.95616",
     "geom:latitude":34.95616,
     "geom:longitude":-81.913249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 E Main St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353731895,
-    "wof:lastmodified":1449020514,
+    "wof:lastmodified":1467082256,
     "wof:name":"Edgar M Poole Jr OD",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.913249,34.95616,-81.913249,34.95616],
-  "geometry": {"coordinates":[-81.913249,34.95616],"type":"Point"}
+  "bbox": [
+    -81.913249,
+    34.95616,
+    -81.913249,
+    34.95616
+],
+  "geometry": {"coordinates":[-81.91324899999999,34.95616],"type":"Point"}
 }

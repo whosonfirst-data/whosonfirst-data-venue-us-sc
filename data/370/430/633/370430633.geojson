@@ -2,13 +2,14 @@
   "id": 370430633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.946689,32.789061,-79.946689,32.789061",
     "geom:latitude":32.789061,
     "geom:longitude":-79.946689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Rutledge Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370430633,
-    "wof:lastmodified":1449031233,
+    "wof:lastmodified":1467082345,
     "wof:name":"A Bert Pruitt Jr MD",
     "wof:parent_id":85835201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.946689,32.789061,-79.946689,32.789061],
-  "geometry": {"coordinates":[-79.946689,32.789061],"type":"Point"}
+  "bbox": [
+    -79.946689,
+    32.789061,
+    -79.946689,
+    32.789061
+],
+  "geometry": {"coordinates":[-79.94668900000001,32.789061],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353827513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.286695,34.894738,-82.286695,34.894738",
     "geom:latitude":34.894738,
     "geom:longitude":-82.286695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Chesterton Ct",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353827513,
-    "wof:lastmodified":1449019169,
+    "wof:lastmodified":1467082228,
     "wof:name":"Adheco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.286695,34.894738,-82.286695,34.894738],
-  "geometry": {"coordinates":[-82.286695,34.894738],"type":"Point"}
+  "bbox": [
+    -82.286695,
+    34.894738,
+    -82.286695,
+    34.894738
+],
+  "geometry": {"coordinates":[-82.28669499999999,34.894738],"type":"Point"}
 }

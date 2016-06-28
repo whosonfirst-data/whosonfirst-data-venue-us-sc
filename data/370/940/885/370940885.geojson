@@ -2,13 +2,14 @@
   "id": 370940885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.911502,33.913445,-78.911502,33.913445",
     "geom:latitude":33.913445,
     "geom:longitude":-78.911502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"535 Hwy 66",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370940885,
-    "wof:lastmodified":1449029922,
+    "wof:lastmodified":1467082316,
     "wof:name":"Marc Plumbing",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.911502,33.913445,-78.911502,33.913445],
+  "bbox": [
+    -78.911502,
+    33.913445,
+    -78.911502,
+    33.913445
+],
   "geometry": {"coordinates":[-78.911502,33.913445],"type":"Point"}
 }

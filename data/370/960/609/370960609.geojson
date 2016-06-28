@@ -2,13 +2,14 @@
   "id": 370960609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.49198,34.51995,-82.49198,34.51995",
     "geom:latitude":34.51995,
     "geom:longitude":-82.49198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 S Main St",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370960609,
-    "wof:lastmodified":1449031523,
+    "wof:lastmodified":1467082352,
     "wof:name":"Main Attraction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.49198,34.51995,-82.49198,34.51995],
+  "bbox": [
+    -82.49198,
+    34.51995,
+    -82.49198,
+    34.51995
+],
   "geometry": {"coordinates":[-82.49198,34.51995],"type":"Point"}
 }

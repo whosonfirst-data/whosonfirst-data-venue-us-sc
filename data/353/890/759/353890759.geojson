@@ -2,13 +2,14 @@
   "id": 353890759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.989186,33.20296,-79.989186,33.20296",
     "geom:latitude":33.20296,
     "geom:longitude":-79.989186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 N Live Oak Dr",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353890759,
-    "wof:lastmodified":1449018831,
+    "wof:lastmodified":1467082221,
     "wof:name":"Pipkin's Used Cars",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.989186,33.20296,-79.989186,33.20296],
+  "bbox": [
+    -79.989186,
+    33.20296,
+    -79.989186,
+    33.20296
+],
   "geometry": {"coordinates":[-79.989186,33.20296],"type":"Point"}
 }

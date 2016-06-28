@@ -2,13 +2,14 @@
   "id": 353690681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.2749,34.780421,-82.2749,34.780421",
     "geom:latitude":34.780421,
     "geom:longitude":-82.2749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 Bethel Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353690681,
-    "wof:lastmodified":1449019605,
+    "wof:lastmodified":1467082237,
     "wof:name":"Omega Communications",
     "wof:parent_id":85834923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-82.2749,34.780421,-82.2749,34.780421],
+  "bbox": [
+    -82.2749,
+    34.780421,
+    -82.2749,
+    34.780421
+],
   "geometry": {"coordinates":[-82.2749,34.780421],"type":"Point"}
 }

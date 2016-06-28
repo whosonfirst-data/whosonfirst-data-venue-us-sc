@@ -2,13 +2,14 @@
   "id": 353667275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.258659,34.870204,-82.258659,34.870204",
     "geom:latitude":34.870204,
     "geom:longitude":-82.258659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Latour Way",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353667275,
-    "wof:lastmodified":1449019911,
+    "wof:lastmodified":1467082243,
     "wof:name":"Alek Vare",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.258659,34.870204,-82.258659,34.870204],
-  "geometry": {"coordinates":[-82.258659,34.870204],"type":"Point"}
+  "bbox": [
+    -82.258659,
+    34.870204,
+    -82.258659,
+    34.870204
+],
+  "geometry": {"coordinates":[-82.25865899999999,34.870204],"type":"Point"}
 }

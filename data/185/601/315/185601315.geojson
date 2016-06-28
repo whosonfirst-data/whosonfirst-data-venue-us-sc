@@ -2,13 +2,14 @@
   "id": 185601315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.956313,33.509093,-81.956313,33.509093",
     "geom:latitude":33.509093,
     "geom:longitude":-81.956313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Aiken Ave",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185601315,
-    "wof:lastmodified":1449007335,
+    "wof:lastmodified":1467082193,
     "wof:name":"Old Storm Branch Baptist Ch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.956313,33.509093,-81.956313,33.509093],
-  "geometry": {"coordinates":[-81.956313,33.509093],"type":"Point"}
+  "bbox": [
+    -81.956313,
+    33.509093,
+    -81.956313,
+    33.509093
+],
+  "geometry": {"coordinates":[-81.95631299999999,33.509093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185782495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.507018,35.123984,-81.507018,35.123984",
     "geom:latitude":35.123984,
     "geom:longitude":-81.507018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Wilbur St",
     "sg:city":"Blacksburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185782495,
-    "wof:lastmodified":1449006586,
+    "wof:lastmodified":1467082182,
     "wof:name":"Weavetec Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cotton"
     ]
 },
-  "bbox": [-81.507018,35.123984,-81.507018,35.123984],
+  "bbox": [
+    -81.507018,
+    35.123984,
+    -81.507018,
+    35.123984
+],
   "geometry": {"coordinates":[-81.507018,35.123984],"type":"Point"}
 }

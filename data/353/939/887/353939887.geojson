@@ -2,13 +2,14 @@
   "id": 353939887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.811049,34.676592,-82.811049,34.676592",
     "geom:latitude":34.676592,
     "geom:longitude":-82.811049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Cedar Ln",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353939887,
-    "wof:lastmodified":1449019023,
+    "wof:lastmodified":1467082225,
     "wof:name":"AHO Homes",
     "wof:parent_id":85833389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-82.811049,34.676592,-82.811049,34.676592],
+  "bbox": [
+    -82.811049,
+    34.676592,
+    -82.811049,
+    34.676592
+],
   "geometry": {"coordinates":[-82.811049,34.676592],"type":"Point"}
 }

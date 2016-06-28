@@ -2,13 +2,14 @@
   "id": 370962699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.914512,33.635498,-79.914512,33.635498",
     "geom:latitude":33.635498,
     "geom:longitude":-79.914512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4496 S Williamsburg County Hwy",
     "sg:city":"Salters",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370962699,
-    "wof:lastmodified":1449031065,
+    "wof:lastmodified":1467082342,
     "wof:name":"B & S Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.914512,33.635498,-79.914512,33.635498],
+  "bbox": [
+    -79.914512,
+    33.635498,
+    -79.914512,
+    33.635498
+],
   "geometry": {"coordinates":[-79.914512,33.635498],"type":"Point"}
 }

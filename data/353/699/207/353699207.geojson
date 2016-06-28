@@ -2,13 +2,14 @@
   "id": 353699207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.540022,33.57237,-81.540022,33.57237",
     "geom:latitude":33.57237,
     "geom:longitude":-81.540022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4251 Wagener Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353699207,
-    "wof:lastmodified":1449018602,
+    "wof:lastmodified":1467082217,
     "wof:name":"Capstone Racing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "training"
     ]
 },
-  "bbox": [-81.540022,33.57237,-81.540022,33.57237],
-  "geometry": {"coordinates":[-81.540022,33.57237],"type":"Point"}
+  "bbox": [
+    -81.540022,
+    33.57237,
+    -81.540022,
+    33.57237
+],
+  "geometry": {"coordinates":[-81.54002199999999,33.57237],"type":"Point"}
 }

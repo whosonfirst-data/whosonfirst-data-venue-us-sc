@@ -2,13 +2,14 @@
   "id": 370592295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.472567,33.345622,-79.472567,33.345622",
     "geom:latitude":33.345622,
     "geom:longitude":-79.472567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Harold Dr",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370592295,
-    "wof:lastmodified":1449031013,
+    "wof:lastmodified":1467082341,
     "wof:name":"Myers Masonry",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.472567,33.345622,-79.472567,33.345622],
+  "bbox": [
+    -79.472567,
+    33.345622,
+    -79.472567,
+    33.345622
+],
   "geometry": {"coordinates":[-79.472567,33.345622],"type":"Point"}
 }

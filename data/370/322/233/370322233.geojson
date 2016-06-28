@@ -2,13 +2,14 @@
   "id": 370322233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.262834,34.84408,-82.262834,34.84408",
     "geom:latitude":34.84408,
     "geom:longitude":-82.262834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Hoke Smith Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370322233,
-    "wof:lastmodified":1449029033,
+    "wof:lastmodified":1467082297,
     "wof:name":"Evergreen Place",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "citizen"
     ]
 },
-  "bbox": [-82.262834,34.84408,-82.262834,34.84408],
+  "bbox": [
+    -82.262834,
+    34.84408,
+    -82.262834,
+    34.84408
+],
   "geometry": {"coordinates":[-82.262834,34.84408],"type":"Point"}
 }

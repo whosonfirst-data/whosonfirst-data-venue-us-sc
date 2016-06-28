@@ -2,13 +2,14 @@
   "id": 353671915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.71828,32.243998,-80.71828,32.243998",
     "geom:latitude":32.243998,
     "geom:longitude":-80.71828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Centella Ct",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353671915,
-    "wof:lastmodified":1449018842,
+    "wof:lastmodified":1467082221,
     "wof:name":"Hilton Head Deli Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.71828,32.243998,-80.71828,32.243998],
-  "geometry": {"coordinates":[-80.71828,32.243998],"type":"Point"}
+  "bbox": [
+    -80.71828,
+    32.243998,
+    -80.71828,
+    32.243998
+],
+  "geometry": {"coordinates":[-80.71827999999999,32.243998],"type":"Point"}
 }

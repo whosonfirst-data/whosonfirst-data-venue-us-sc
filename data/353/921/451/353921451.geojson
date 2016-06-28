@@ -2,13 +2,14 @@
   "id": 353921451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.854925,34.979762,-81.854925,34.979762",
     "geom:latitude":34.979762,
     "geom:longitude":-81.854925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"641 Spencer Cir",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353921451,
-    "wof:lastmodified":1449019886,
+    "wof:lastmodified":1467082243,
     "wof:name":"Spartanburg Regional Hospital",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.854925,34.979762,-81.854925,34.979762],
-  "geometry": {"coordinates":[-81.854925,34.979762],"type":"Point"}
+  "bbox": [
+    -81.854925,
+    34.979762,
+    -81.854925,
+    34.979762
+],
+  "geometry": {"coordinates":[-81.85492499999999,34.979762],"type":"Point"}
 }

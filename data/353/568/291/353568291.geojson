@@ -2,13 +2,14 @@
   "id": 353568291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.258003,34.705865,-82.258003,34.705865",
     "geom:latitude":34.705865,
     "geom:longitude":-82.258003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"654 Fairview Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353568291,
-    "wof:lastmodified":1449018194,
+    "wof:lastmodified":1467082208,
     "wof:name":"Oxford Cleaners & Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-82.258003,34.705865,-82.258003,34.705865],
+  "bbox": [
+    -82.258003,
+    34.705865,
+    -82.258003,
+    34.705865
+],
   "geometry": {"coordinates":[-82.258003,34.705865],"type":"Point"}
 }

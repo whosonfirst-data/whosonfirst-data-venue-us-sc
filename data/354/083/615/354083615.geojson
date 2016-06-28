@@ -2,13 +2,14 @@
   "id": 354083615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.81861,34.192221,-80.81861,34.192221",
     "geom:latitude":34.192221,
     "geom:longitude":-80.81861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2503 Ryan Ln",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354083615,
-    "wof:lastmodified":1449066727,
+    "wof:lastmodified":1467082433,
     "wof:name":"Cajun Construction",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.81861,34.192221,-80.81861,34.192221],
-  "geometry": {"coordinates":[-80.81861,34.192221],"type":"Point"}
+  "bbox": [
+    -80.81861,
+    34.192221,
+    -80.81861,
+    34.192221
+],
+  "geometry": {"coordinates":[-80.81861000000001,34.192221],"type":"Point"}
 }

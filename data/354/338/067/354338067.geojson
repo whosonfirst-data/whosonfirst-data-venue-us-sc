@@ -2,13 +2,14 @@
   "id": 354338067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.550633,34.895189,-81.550633,34.895189",
     "geom:latitude":34.895189,
     "geom:longitude":-81.550633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1870 Gowdeysville Rd",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354338067,
-    "wof:lastmodified":1449066502,
+    "wof:lastmodified":1467082427,
     "wof:name":"Fowler Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.550633,34.895189,-81.550633,34.895189],
+  "bbox": [
+    -81.550633,
+    34.895189,
+    -81.550633,
+    34.895189
+],
   "geometry": {"coordinates":[-81.550633,34.895189],"type":"Point"}
 }

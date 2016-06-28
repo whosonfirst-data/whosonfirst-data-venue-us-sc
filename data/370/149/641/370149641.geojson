@@ -2,13 +2,14 @@
   "id": 370149641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.163749,34.82533,-82.163749,34.82533",
     "geom:latitude":34.82533,
     "geom:longitude":-82.163749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Red Raven Dr",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370149641,
-    "wof:lastmodified":1449029073,
+    "wof:lastmodified":1467082298,
     "wof:name":"Hazardous Material Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-82.163749,34.82533,-82.163749,34.82533],
+  "bbox": [
+    -82.163749,
+    34.82533,
+    -82.163749,
+    34.82533
+],
   "geometry": {"coordinates":[-82.163749,34.82533],"type":"Point"}
 }

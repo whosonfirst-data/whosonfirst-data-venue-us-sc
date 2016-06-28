@@ -2,13 +2,14 @@
   "id": 353448327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.396818,34.773458,-80.396818,34.773458",
     "geom:latitude":34.773458,
     "geom:longitude":-80.396818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Oak St",
     "sg:city":"Pageland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353448327,
-    "wof:lastmodified":1449020663,
+    "wof:lastmodified":1467082259,
     "wof:name":"Oak Street Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.396818,34.773458,-80.396818,34.773458],
+  "bbox": [
+    -80.396818,
+    34.773458,
+    -80.396818,
+    34.773458
+],
   "geometry": {"coordinates":[-80.396818,34.773458],"type":"Point"}
 }

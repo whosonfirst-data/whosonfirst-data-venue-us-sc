@@ -2,13 +2,14 @@
   "id": 354276895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.954228,33.765501,-78.954228,33.765501",
     "geom:latitude":33.765501,
     "geom:longitude":-78.954228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Blackberry Ln",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354276895,
-    "wof:lastmodified":1449066008,
+    "wof:lastmodified":1467082416,
     "wof:name":"Crews N Auto",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.954228,33.765501,-78.954228,33.765501],
+  "bbox": [
+    -78.954228,
+    33.765501,
+    -78.954228,
+    33.765501
+],
   "geometry": {"coordinates":[-78.954228,33.765501],"type":"Point"}
 }

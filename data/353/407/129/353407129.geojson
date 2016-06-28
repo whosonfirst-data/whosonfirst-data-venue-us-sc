@@ -2,13 +2,14 @@
   "id": 353407129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.072418,34.994599,-81.072418,34.994599",
     "geom:latitude":34.994599,
     "geom:longitude":-81.072418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"772 W Oak Dr",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353407129,
-    "wof:lastmodified":1449019674,
+    "wof:lastmodified":1467082239,
     "wof:name":"My Shopping Quest",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-81.072418,34.994599,-81.072418,34.994599],
+  "bbox": [
+    -81.072418,
+    34.994599,
+    -81.072418,
+    34.994599
+],
   "geometry": {"coordinates":[-81.072418,34.994599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185885195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.95002,33.715471,-78.95002,33.715471",
     "geom:latitude":33.715471,
     "geom:longitude":-78.95002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 Burcale Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185885195,
-    "wof:lastmodified":1449007481,
+    "wof:lastmodified":1467082196,
     "wof:name":"Healthy Home",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-78.95002,33.715471,-78.95002,33.715471],
-  "geometry": {"coordinates":[-78.95002,33.715471],"type":"Point"}
+  "bbox": [
+    -78.95002,
+    33.715471,
+    -78.95002,
+    33.715471
+],
+  "geometry": {"coordinates":[-78.95001999999999,33.715471],"type":"Point"}
 }

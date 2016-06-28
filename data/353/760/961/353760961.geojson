@@ -2,13 +2,14 @@
   "id": 353760961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.187955,34.193603,-82.187955,34.193603",
     "geom:latitude":34.193603,
     "geom:longitude":-82.187955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 State Hwy 225",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353760961,
-    "wof:lastmodified":1449020689,
+    "wof:lastmodified":1467082259,
     "wof:name":"Moore's Check Collections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-82.187955,34.193603,-82.187955,34.193603],
+  "bbox": [
+    -82.187955,
+    34.193603,
+    -82.187955,
+    34.193603
+],
   "geometry": {"coordinates":[-82.187955,34.193603],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337343107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.401007,34.850749,-82.401007,34.850749",
     "geom:latitude":34.850749,
     "geom:longitude":-82.401007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 S Richardson St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337343107,
-    "wof:lastmodified":1449027522,
+    "wof:lastmodified":1467082287,
     "wof:name":"Ard Wood Holcombe & Slate Inc",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.401007,34.850749,-82.401007,34.850749],
-  "geometry": {"coordinates":[-82.401007,34.850749],"type":"Point"}
+  "bbox": [
+    -82.401007,
+    34.850749,
+    -82.401007,
+    34.850749
+],
+  "geometry": {"coordinates":[-82.40100700000001,34.850749],"type":"Point"}
 }

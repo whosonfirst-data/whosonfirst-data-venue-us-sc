@@ -2,13 +2,14 @@
   "id": 354352841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.011492,33.694053,-79.011492,33.694053",
     "geom:latitude":33.694053,
     "geom:longitude":-79.011492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7794 Hwy 544",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354352841,
-    "wof:lastmodified":1449066981,
+    "wof:lastmodified":1467082438,
     "wof:name":"Hudson 544 Auto Sales",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.011492,33.694053,-79.011492,33.694053],
+  "bbox": [
+    -79.011492,
+    33.694053,
+    -79.011492,
+    33.694053
+],
   "geometry": {"coordinates":[-79.011492,33.694053],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337408179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.950125,34.949883,-81.950125,34.949883",
     "geom:latitude":34.949883,
     "geom:longitude":-81.950125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Wofford St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337408179,
-    "wof:lastmodified":1449027035,
+    "wof:lastmodified":1467082269,
     "wof:name":"Joe Jenkins & Assoc Inc",
     "wof:parent_id":85826389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.950125,34.949883,-81.950125,34.949883],
+  "bbox": [
+    -81.950125,
+    34.949883,
+    -81.950125,
+    34.949883
+],
   "geometry": {"coordinates":[-81.950125,34.949883],"type":"Point"}
 }

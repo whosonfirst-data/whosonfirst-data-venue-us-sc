@@ -2,13 +2,14 @@
   "id": 370165483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.592065,34.481968,-82.592065,34.481968",
     "geom:latitude":34.481968,
     "geom:longitude":-82.592065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Crystal Ln",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370165483,
-    "wof:lastmodified":1449032478,
+    "wof:lastmodified":1467082374,
     "wof:name":"Cooley S Grading",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.592065,34.481968,-82.592065,34.481968],
-  "geometry": {"coordinates":[-82.592065,34.481968],"type":"Point"}
+  "bbox": [
+    -82.592065,
+    34.481968,
+    -82.592065,
+    34.481968
+],
+  "geometry": {"coordinates":[-82.59206500000001,34.481968],"type":"Point"}
 }

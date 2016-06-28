@@ -2,13 +2,14 @@
   "id": 185946283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.106434,34.217123,-82.106434,34.217123",
     "geom:latitude":34.217123,
     "geom:longitude":-82.106434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1126 Emerald Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185946283,
-    "wof:lastmodified":1449008027,
+    "wof:lastmodified":1467082204,
     "wof:name":"Mr Check Advance",
     "wof:parent_id":85843643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "check"
     ]
 },
-  "bbox": [-82.106434,34.217123,-82.106434,34.217123],
-  "geometry": {"coordinates":[-82.106434,34.217123],"type":"Point"}
+  "bbox": [
+    -82.106434,
+    34.217123,
+    -82.106434,
+    34.217123
+],
+  "geometry": {"coordinates":[-82.10643399999999,34.217123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353639181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.890222,32.802986,-79.890222,32.802986",
     "geom:latitude":32.802986,
     "geom:longitude":-79.890222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Houston Northcutt Blvd",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353639181,
-    "wof:lastmodified":1449020776,
+    "wof:lastmodified":1467082261,
     "wof:name":"On The Run",
     "wof:parent_id":85852031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.890222,32.802986,-79.890222,32.802986],
-  "geometry": {"coordinates":[-79.890222,32.802986],"type":"Point"}
+  "bbox": [
+    -79.890222,
+    32.802986,
+    -79.890222,
+    32.802986
+],
+  "geometry": {"coordinates":[-79.89022199999999,32.802986],"type":"Point"}
 }

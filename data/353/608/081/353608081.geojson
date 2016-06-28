@@ -2,13 +2,14 @@
   "id": 353608081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.051722,33.016052,-80.051722,33.016052",
     "geom:latitude":33.016052,
     "geom:longitude":-80.051722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Southwold Cir",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353608081,
-    "wof:lastmodified":1449019340,
+    "wof:lastmodified":1467082232,
     "wof:name":"B & K Mechanical",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.051722,33.016052,-80.051722,33.016052],
+  "bbox": [
+    -80.051722,
+    33.016052,
+    -80.051722,
+    33.016052
+],
   "geometry": {"coordinates":[-80.051722,33.016052],"type":"Point"}
 }

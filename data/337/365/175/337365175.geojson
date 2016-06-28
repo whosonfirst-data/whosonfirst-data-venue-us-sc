@@ -2,13 +2,14 @@
   "id": 337365175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.672953,32.431046,-80.672953,32.431046",
     "geom:latitude":32.431046,
     "geom:longitude":-80.672953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 Bay St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337365175,
-    "wof:lastmodified":1449027056,
+    "wof:lastmodified":1467082269,
     "wof:name":"Shipman Gallery",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.672953,32.431046,-80.672953,32.431046],
-  "geometry": {"coordinates":[-80.672953,32.431046],"type":"Point"}
+  "bbox": [
+    -80.672953,
+    32.431046,
+    -80.672953,
+    32.431046
+],
+  "geometry": {"coordinates":[-80.67295300000001,32.431046],"type":"Point"}
 }

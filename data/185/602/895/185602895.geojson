@@ -2,13 +2,14 @@
   "id": 185602895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.190592,34.72231,-81.190592,34.72231",
     "geom:latitude":34.72231,
     "geom:longitude":-81.190592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 McHord St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185602895,
-    "wof:lastmodified":1449007366,
+    "wof:lastmodified":1467082194,
     "wof:name":"Learning Tree",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.190592,34.72231,-81.190592,34.72231],
+  "bbox": [
+    -81.190592,
+    34.72231,
+    -81.190592,
+    34.72231
+],
   "geometry": {"coordinates":[-81.190592,34.72231],"type":"Point"}
 }

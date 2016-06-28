@@ -2,13 +2,14 @@
   "id": 337614623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.419064,34.039157,-81.419064,34.039157",
     "geom:latitude":34.039157,
     "geom:longitude":-81.419064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Heron Ln",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337614623,
-    "wof:lastmodified":1449027760,
+    "wof:lastmodified":1467082295,
     "wof:name":"National Association Of Self",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.419064,34.039157,-81.419064,34.039157],
-  "geometry": {"coordinates":[-81.419064,34.039157],"type":"Point"}
+  "bbox": [
+    -81.419064,
+    34.039157,
+    -81.419064,
+    34.039157
+],
+  "geometry": {"coordinates":[-81.41906400000001,34.039157],"type":"Point"}
 }

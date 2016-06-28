@@ -2,13 +2,14 @@
   "id": 186094043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.16054,34.191061,-82.16054,34.191061",
     "geom:latitude":34.191061,
     "geom:longitude":-82.16054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Main St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186094043,
-    "wof:lastmodified":1449052051,
+    "wof:lastmodified":1467082403,
     "wof:name":"Health Related Home Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-82.16054,34.191061,-82.16054,34.191061],
+  "bbox": [
+    -82.16054,
+    34.191061,
+    -82.16054,
+    34.191061
+],
   "geometry": {"coordinates":[-82.16054,34.191061],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337341363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.300075,34.782109,-82.300075,34.782109",
     "geom:latitude":34.782109,
     "geom:longitude":-82.300075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 E Butler Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337341363,
-    "wof:lastmodified":1449027711,
+    "wof:lastmodified":1467082294,
     "wof:name":"Gutter Magic USA",
     "wof:parent_id":85851381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gutter"
     ]
 },
-  "bbox": [-82.300075,34.782109,-82.300075,34.782109],
-  "geometry": {"coordinates":[-82.300075,34.782109],"type":"Point"}
+  "bbox": [
+    -82.300075,
+    34.782109,
+    -82.300075,
+    34.782109
+],
+  "geometry": {"coordinates":[-82.30007500000001,34.782109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370717771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.042853,32.958276,-80.042853,32.958276",
     "geom:latitude":32.958276,
     "geom:longitude":-80.042853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8510 Rivers Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370717771,
-    "wof:lastmodified":1449029153,
+    "wof:lastmodified":1467082300,
     "wof:name":"Clean Credit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "counseling"
     ]
 },
-  "bbox": [-80.042853,32.958276,-80.042853,32.958276],
-  "geometry": {"coordinates":[-80.042853,32.958276],"type":"Point"}
+  "bbox": [
+    -80.042853,
+    32.958276,
+    -80.042853,
+    32.958276
+],
+  "geometry": {"coordinates":[-80.04285299999999,32.958276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354051709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.943162,34.978705,-81.943162,34.978705",
     "geom:latitude":34.978705,
     "geom:longitude":-81.943162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1078 Boiling Springs Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354051709,
-    "wof:lastmodified":1449066997,
+    "wof:lastmodified":1467082439,
     "wof:name":"Metcalf Land Co Inc",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "land"
     ]
 },
-  "bbox": [-81.943162,34.978705,-81.943162,34.978705],
+  "bbox": [
+    -81.943162,
+    34.978705,
+    -81.943162,
+    34.978705
+],
   "geometry": {"coordinates":[-81.943162,34.978705],"type":"Point"}
 }

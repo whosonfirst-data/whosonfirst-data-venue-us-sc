@@ -2,13 +2,14 @@
   "id": 337621025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.756819,34.161614,-79.756819,34.161614",
     "geom:latitude":34.161614,
     "geom:longitude":-79.756819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Pamplico Hwy",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337621025,
-    "wof:lastmodified":1449027645,
+    "wof:lastmodified":1467082292,
     "wof:name":"Judah Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.756819,34.161614,-79.756819,34.161614],
-  "geometry": {"coordinates":[-79.756819,34.161614],"type":"Point"}
+  "bbox": [
+    -79.756819,
+    34.161614,
+    -79.756819,
+    34.161614
+],
+  "geometry": {"coordinates":[-79.75681899999999,34.161614],"type":"Point"}
 }

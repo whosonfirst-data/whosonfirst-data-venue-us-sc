@@ -2,13 +2,14 @@
   "id": 337284107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.109221,33.107756,-80.109221,33.107756",
     "geom:latitude":33.107756,
     "geom:longitude":-80.109221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Volunteer Ln",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337284107,
-    "wof:lastmodified":1449027454,
+    "wof:lastmodified":1467082284,
     "wof:name":"Henry's Garage & Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.109221,33.107756,-80.109221,33.107756],
-  "geometry": {"coordinates":[-80.109221,33.107756],"type":"Point"}
+  "bbox": [
+    -80.109221,
+    33.107756,
+    -80.109221,
+    33.107756
+],
+  "geometry": {"coordinates":[-80.10922100000001,33.107756],"type":"Point"}
 }

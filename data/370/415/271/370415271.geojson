@@ -2,13 +2,14 @@
   "id": 370415271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.966179,32.773009,-79.966179,32.773009",
     "geom:latitude":32.773009,
     "geom:longitude":-79.966179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Albemarle Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":370415271,
-    "wof:lastmodified":1449031533,
+    "wof:lastmodified":1467082352,
     "wof:name":"American Residential Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.966179,32.773009,-79.966179,32.773009],
+  "bbox": [
+    -79.966179,
+    32.773009,
+    -79.966179,
+    32.773009
+],
   "geometry": {"coordinates":[-79.966179,32.773009],"type":"Point"}
 }

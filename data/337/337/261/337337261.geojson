@@ -2,13 +2,14 @@
   "id": 337337261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.052489,35.001453,-82.052489,35.001453",
     "geom:latitude":35.001453,
     "geom:longitude":-82.052489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Chestnut Lake Dr",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337337261,
-    "wof:lastmodified":1449027330,
+    "wof:lastmodified":1467082280,
     "wof:name":"Prieto Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-82.052489,35.001453,-82.052489,35.001453],
-  "geometry": {"coordinates":[-82.052489,35.001453],"type":"Point"}
+  "bbox": [
+    -82.052489,
+    35.001453,
+    -82.052489,
+    35.001453
+],
+  "geometry": {"coordinates":[-82.05248899999999,35.001453],"type":"Point"}
 }

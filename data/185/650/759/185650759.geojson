@@ -2,13 +2,14 @@
   "id": 185650759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.158048,33.030404,-80.158048,33.030404",
     "geom:latitude":33.030404,
     "geom:longitude":-80.158048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Marymeade Dr",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185650759,
-    "wof:lastmodified":1449007597,
+    "wof:lastmodified":1467082197,
     "wof:name":"Relocation & Corp Housing Svc",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "relocation"
     ]
 },
-  "bbox": [-80.158048,33.030404,-80.158048,33.030404],
-  "geometry": {"coordinates":[-80.158048,33.030404],"type":"Point"}
+  "bbox": [
+    -80.158048,
+    33.030404,
+    -80.158048,
+    33.030404
+],
+  "geometry": {"coordinates":[-80.15804799999999,33.030404],"type":"Point"}
 }

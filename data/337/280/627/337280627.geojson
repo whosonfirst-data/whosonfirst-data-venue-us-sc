@@ -2,13 +2,14 @@
   "id": 337280627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.465856,34.7735,-82.465856,34.7735",
     "geom:latitude":34.7735,
     "geom:longitude":-82.465856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Hwy 183",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337280627,
-    "wof:lastmodified":1449027355,
+    "wof:lastmodified":1467082281,
     "wof:name":"Leopard's Towing Svc",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-82.465856,34.7735,-82.465856,34.7735],
+  "bbox": [
+    -82.465856,
+    34.7735,
+    -82.465856,
+    34.7735
+],
   "geometry": {"coordinates":[-82.465856,34.7735],"type":"Point"}
 }

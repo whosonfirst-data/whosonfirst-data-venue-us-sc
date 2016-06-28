@@ -2,13 +2,14 @@
   "id": 185856781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.005116,32.878886,-80.005116,32.878886",
     "geom:latitude":32.878886,
     "geom:longitude":-80.005116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4762 Rivers Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185856781,
-    "wof:lastmodified":1449007068,
+    "wof:lastmodified":1467082189,
     "wof:name":"Creative Catering-Charleston",
     "wof:parent_id":85819163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-80.005116,32.878886,-80.005116,32.878886],
+  "bbox": [
+    -80.005116,
+    32.878886,
+    -80.005116,
+    32.878886
+],
   "geometry": {"coordinates":[-80.005116,32.878886],"type":"Point"}
 }

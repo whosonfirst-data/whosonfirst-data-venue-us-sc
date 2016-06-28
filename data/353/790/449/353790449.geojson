@@ -2,13 +2,14 @@
   "id": 353790449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.845915,35.087561,-81.845915,35.087561",
     "geom:latitude":35.087561,
     "geom:longitude":-81.845915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Center St",
     "sg:city":"Sparta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353790449,
-    "wof:lastmodified":1449020227,
+    "wof:lastmodified":1467082250,
     "wof:name":"Door",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.845915,35.087561,-81.845915,35.087561],
-  "geometry": {"coordinates":[-81.845915,35.087561],"type":"Point"}
+  "bbox": [
+    -81.845915,
+    35.087561,
+    -81.845915,
+    35.087561
+],
+  "geometry": {"coordinates":[-81.84591500000001,35.087561],"type":"Point"}
 }

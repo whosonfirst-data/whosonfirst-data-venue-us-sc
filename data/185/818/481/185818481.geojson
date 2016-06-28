@@ -2,13 +2,14 @@
   "id": 185818481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.771112,34.206652,-79.771112,34.206652",
     "geom:latitude":34.206652,
     "geom:longitude":-79.771112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 N Coit St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185818481,
-    "wof:lastmodified":1449007411,
+    "wof:lastmodified":1467082194,
     "wof:name":"Palmetto Tire 3",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-79.771112,34.206652,-79.771112,34.206652],
+  "bbox": [
+    -79.771112,
+    34.206652,
+    -79.771112,
+    34.206652
+],
   "geometry": {"coordinates":[-79.771112,34.206652],"type":"Point"}
 }

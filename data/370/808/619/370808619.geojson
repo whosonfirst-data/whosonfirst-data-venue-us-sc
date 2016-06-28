@@ -2,13 +2,14 @@
   "id": 370808619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.132773,33.675346,-79.132773,33.675346",
     "geom:latitude":33.675346,
     "geom:longitude":-79.132773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8899 US Hwy 701 S",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370808619,
-    "wof:lastmodified":1449029233,
+    "wof:lastmodified":1467082301,
     "wof:name":"Beginners Paradise",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.132773,33.675346,-79.132773,33.675346],
+  "bbox": [
+    -79.132773,
+    33.675346,
+    -79.132773,
+    33.675346
+],
   "geometry": {"coordinates":[-79.132773,33.675346],"type":"Point"}
 }

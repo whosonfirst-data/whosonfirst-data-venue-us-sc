@@ -2,13 +2,14 @@
   "id": 370618105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.188693,33.001675,-80.188693,33.001675",
     "geom:latitude":33.001675,
     "geom:longitude":-80.188693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Pekoe Ct",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370618105,
-    "wof:lastmodified":1449031193,
+    "wof:lastmodified":1467082345,
     "wof:name":"Shrum Enterprises LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "pallet"
     ]
 },
-  "bbox": [-80.188693,33.001675,-80.188693,33.001675],
+  "bbox": [
+    -80.188693,
+    33.001675,
+    -80.188693,
+    33.001675
+],
   "geometry": {"coordinates":[-80.188693,33.001675],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354128779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.363525,33.236473,-81.363525,33.236473",
     "geom:latitude":33.236473,
     "geom:longitude":-81.363525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Jackson St",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354128779,
-    "wof:lastmodified":1449066572,
+    "wof:lastmodified":1467082429,
     "wof:name":"Tiger Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.363525,33.236473,-81.363525,33.236473],
+  "bbox": [
+    -81.363525,
+    33.236473,
+    -81.363525,
+    33.236473
+],
   "geometry": {"coordinates":[-81.363525,33.236473],"type":"Point"}
 }

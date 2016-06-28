@@ -2,13 +2,14 @@
   "id": 186307433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.946525,34.054072,-80.946525,34.054072",
     "geom:latitude":34.054072,
     "geom:longitude":-80.946525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 Brookfield Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186307433,
-    "wof:lastmodified":1449051082,
+    "wof:lastmodified":1467082394,
     "wof:name":"Carl I Mitchell Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.946525,34.054072,-80.946525,34.054072],
-  "geometry": {"coordinates":[-80.946525,34.054072],"type":"Point"}
+  "bbox": [
+    -80.946525,
+    34.054072,
+    -80.946525,
+    34.054072
+],
+  "geometry": {"coordinates":[-80.94652499999999,34.054072],"type":"Point"}
 }

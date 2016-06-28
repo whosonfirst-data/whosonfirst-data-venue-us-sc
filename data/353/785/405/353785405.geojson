@@ -2,13 +2,14 @@
   "id": 353785405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.025281,34.011413,-81.025281,34.011413",
     "geom:latitude":34.011413,
     "geom:longitude":-81.025281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Blanding St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353785405,
-    "wof:lastmodified":1449020390,
+    "wof:lastmodified":1467082253,
     "wof:name":"Main Event",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "night"
     ]
 },
-  "bbox": [-81.025281,34.011413,-81.025281,34.011413],
-  "geometry": {"coordinates":[-81.025281,34.011413],"type":"Point"}
+  "bbox": [
+    -81.025281,
+    34.011413,
+    -81.025281,
+    34.011413
+],
+  "geometry": {"coordinates":[-81.02528100000001,34.011413],"type":"Point"}
 }

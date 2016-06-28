@@ -2,13 +2,14 @@
   "id": 354238087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.912574,34.104949,-80.912574,34.104949",
     "geom:latitude":34.104949,
     "geom:longitude":-80.912574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Southlake Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354238087,
-    "wof:lastmodified":1449066553,
+    "wof:lastmodified":1467082429,
     "wof:name":"Calico Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-80.912574,34.104949,-80.912574,34.104949],
-  "geometry": {"coordinates":[-80.912574,34.104949],"type":"Point"}
+  "bbox": [
+    -80.912574,
+    34.104949,
+    -80.912574,
+    34.104949
+],
+  "geometry": {"coordinates":[-80.91257400000001,34.104949],"type":"Point"}
 }

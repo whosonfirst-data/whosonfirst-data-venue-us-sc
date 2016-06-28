@@ -2,13 +2,14 @@
   "id": 354133779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.941746,33.646734,-78.941746,33.646734",
     "geom:latitude":33.646734,
     "geom:longitude":-78.941746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4740 S Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354133779,
-    "wof:lastmodified":1449067351,
+    "wof:lastmodified":1467082447,
     "wof:name":"Birkenstock Comfortable Sole",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.941746,33.646734,-78.941746,33.646734],
-  "geometry": {"coordinates":[-78.941746,33.646734],"type":"Point"}
+  "bbox": [
+    -78.941746,
+    33.646734,
+    -78.941746,
+    33.646734
+],
+  "geometry": {"coordinates":[-78.94174599999999,33.646734],"type":"Point"}
 }

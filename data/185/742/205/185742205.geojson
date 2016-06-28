@@ -2,13 +2,14 @@
   "id": 185742205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.441851,34.679701,-82.441851,34.679701",
     "geom:latitude":34.679701,
     "geom:longitude":-82.441851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Rehoboth Cir",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185742205,
-    "wof:lastmodified":1449006708,
+    "wof:lastmodified":1467082184,
     "wof:name":"Allison Brothers",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-82.441851,34.679701,-82.441851,34.679701],
+  "bbox": [
+    -82.441851,
+    34.679701,
+    -82.441851,
+    34.679701
+],
   "geometry": {"coordinates":[-82.441851,34.679701],"type":"Point"}
 }

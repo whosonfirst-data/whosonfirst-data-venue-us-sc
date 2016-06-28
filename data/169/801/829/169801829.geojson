@@ -2,13 +2,14 @@
   "id": 169801829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.252773,34.205934,-79.252773,34.205934",
     "geom:latitude":34.205934,
     "geom:longitude":-79.252773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 NE Front St",
     "sg:city":"Mullins",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169801829,
-    "wof:lastmodified":1449035379,
+    "wof:lastmodified":1467082386,
     "wof:name":"Frederick's Photography",
     "wof:parent_id":85837853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-79.252773,34.205934,-79.252773,34.205934],
+  "bbox": [
+    -79.252773,
+    34.205934,
+    -79.252773,
+    34.205934
+],
   "geometry": {"coordinates":[-79.252773,34.205934],"type":"Point"}
 }

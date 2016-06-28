@@ -2,13 +2,14 @@
   "id": 354225333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.398921,34.847326,-82.398921,34.847326",
     "geom:latitude":34.847326,
     "geom:longitude":-82.398921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Falls St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354225333,
-    "wof:lastmodified":1449066440,
+    "wof:lastmodified":1467082426,
     "wof:name":"Warp 90",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.398921,34.847326,-82.398921,34.847326],
+  "bbox": [
+    -82.398921,
+    34.847326,
+    -82.398921,
+    34.847326
+],
   "geometry": {"coordinates":[-82.398921,34.847326],"type":"Point"}
 }

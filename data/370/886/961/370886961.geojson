@@ -2,13 +2,14 @@
   "id": 370886961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.227214,32.68999,-80.227214,32.68999",
     "geom:latitude":32.68999,
     "geom:longitude":-80.227214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4170 State Hwy 165",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370886961,
-    "wof:lastmodified":1449030942,
+    "wof:lastmodified":1467082339,
     "wof:name":"Stevens Towing Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-80.227214,32.68999,-80.227214,32.68999],
+  "bbox": [
+    -80.227214,
+    32.68999,
+    -80.227214,
+    32.68999
+],
   "geometry": {"coordinates":[-80.227214,32.68999],"type":"Point"}
 }

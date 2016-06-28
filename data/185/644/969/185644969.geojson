@@ -2,13 +2,14 @@
   "id": 185644969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.945109,32.801937,-79.945109,32.801937",
     "geom:latitude":32.801937,
     "geom:longitude":-79.945109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"287 Huger St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185644969,
-    "wof:lastmodified":1449007523,
+    "wof:lastmodified":1467082196,
     "wof:name":"Brooks Sign Ctr",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.945109,32.801937,-79.945109,32.801937],
+  "bbox": [
+    -79.945109,
+    32.801937,
+    -79.945109,
+    32.801937
+],
   "geometry": {"coordinates":[-79.945109,32.801937],"type":"Point"}
 }

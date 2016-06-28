@@ -2,13 +2,14 @@
   "id": 370925821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.431477,33.394821,-81.431477,33.394821",
     "geom:latitude":33.394821,
     "geom:longitude":-81.431477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Dunbarton Rd",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370925821,
-    "wof:lastmodified":1449029089,
+    "wof:lastmodified":1467082298,
     "wof:name":"Cottonwood Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.431477,33.394821,-81.431477,33.394821],
+  "bbox": [
+    -81.431477,
+    33.394821,
+    -81.431477,
+    33.394821
+],
   "geometry": {"coordinates":[-81.431477,33.394821],"type":"Point"}
 }

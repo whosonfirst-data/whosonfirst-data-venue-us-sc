@@ -2,13 +2,14 @@
   "id": 370257809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.814453,34.923531,-81.814453,34.923531",
     "geom:latitude":34.923531,
     "geom:longitude":-81.814453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Southgate Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370257809,
-    "wof:lastmodified":1449030104,
+    "wof:lastmodified":1467082321,
     "wof:name":"Service Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.814453,34.923531,-81.814453,34.923531],
+  "bbox": [
+    -81.814453,
+    34.923531,
+    -81.814453,
+    34.923531
+],
   "geometry": {"coordinates":[-81.814453,34.923531],"type":"Point"}
 }

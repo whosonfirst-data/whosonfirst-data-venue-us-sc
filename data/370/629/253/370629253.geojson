@@ -2,13 +2,14 @@
   "id": 370629253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.237413,33.982299,-81.237413,33.982299",
     "geom:latitude":33.982299,
     "geom:longitude":-81.237413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 N Church St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370629253,
-    "wof:lastmodified":1449031689,
+    "wof:lastmodified":1467082356,
     "wof:name":"Frameworld Enterprises",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "frame"
     ]
 },
-  "bbox": [-81.237413,33.982299,-81.237413,33.982299],
+  "bbox": [
+    -81.237413,
+    33.982299,
+    -81.237413,
+    33.982299
+],
   "geometry": {"coordinates":[-81.237413,33.982299],"type":"Point"}
 }

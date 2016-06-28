@@ -2,13 +2,14 @@
   "id": 353778689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.46706,33.736652,-79.46706,33.736652",
     "geom:latitude":33.736652,
     "geom:longitude":-79.46706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 Cow Head Rd",
     "sg:city":"Hemingway",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353778689,
-    "wof:lastmodified":1449018300,
+    "wof:lastmodified":1467082211,
     "wof:name":"Stars Tranport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.46706,33.736652,-79.46706,33.736652],
+  "bbox": [
+    -79.46706,
+    33.736652,
+    -79.46706,
+    33.736652
+],
   "geometry": {"coordinates":[-79.46706,33.736652],"type":"Point"}
 }

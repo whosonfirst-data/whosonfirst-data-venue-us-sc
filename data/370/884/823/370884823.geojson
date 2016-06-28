@@ -2,13 +2,14 @@
   "id": 370884823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.789524,34.167045,-79.789524,34.167045",
     "geom:latitude":34.167045,
     "geom:longitude":-79.789524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 2nd Loop Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370884823,
-    "wof:lastmodified":1449031827,
+    "wof:lastmodified":1467082359,
     "wof:name":"Equity One Inc",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "lending"
     ]
 },
-  "bbox": [-79.789524,34.167045,-79.789524,34.167045],
+  "bbox": [
+    -79.789524,
+    34.167045,
+    -79.789524,
+    34.167045
+],
   "geometry": {"coordinates":[-79.789524,34.167045],"type":"Point"}
 }

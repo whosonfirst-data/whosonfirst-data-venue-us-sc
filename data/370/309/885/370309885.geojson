@@ -2,13 +2,14 @@
   "id": 370309885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.090877,35.068434,-81.090877,35.068434",
     "geom:latitude":35.068434,
     "geom:longitude":-81.090877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5387 E Liberty Hill Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370309885,
-    "wof:lastmodified":1449029850,
+    "wof:lastmodified":1467082315,
     "wof:name":"Liberty Hill Church",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.090877,35.068434,-81.090877,35.068434],
-  "geometry": {"coordinates":[-81.090877,35.068434],"type":"Point"}
+  "bbox": [
+    -81.090877,
+    35.068434,
+    -81.090877,
+    35.068434
+],
+  "geometry": {"coordinates":[-81.09087700000001,35.068434],"type":"Point"}
 }

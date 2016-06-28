@@ -2,13 +2,14 @@
   "id": 353607919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.240215,34.942525,-82.240215,34.942525",
     "geom:latitude":34.942525,
     "geom:longitude":-82.240215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 W Poinsett St",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":353607919,
-    "wof:lastmodified":1449018593,
+    "wof:lastmodified":1467082217,
     "wof:name":"Wholesale Tire Company",
     "wof:parent_id":85853715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-82.240215,34.942525,-82.240215,34.942525],
-  "geometry": {"coordinates":[-82.240215,34.942525],"type":"Point"}
+  "bbox": [
+    -82.240215,
+    34.942525,
+    -82.240215,
+    34.942525
+],
+  "geometry": {"coordinates":[-82.24021500000001,34.942525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370949191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.084655,32.815447,-80.084655,32.815447",
     "geom:latitude":32.815447,
     "geom:longitude":-80.084655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3166 Sanders Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370949191,
-    "wof:lastmodified":1449031186,
+    "wof:lastmodified":1467082344,
     "wof:name":"H & J Construction Inc",
     "wof:parent_id":85820043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dwelling"
     ]
 },
-  "bbox": [-80.084655,32.815447,-80.084655,32.815447],
+  "bbox": [
+    -80.084655,
+    32.815447,
+    -80.084655,
+    32.815447
+],
   "geometry": {"coordinates":[-80.084655,32.815447],"type":"Point"}
 }

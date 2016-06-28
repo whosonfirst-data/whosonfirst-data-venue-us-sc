@@ -2,13 +2,14 @@
   "id": 186076515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.715772,33.903994,-79.715772,33.903994",
     "geom:latitude":33.903994,
     "geom:longitude":-79.715772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"728 E Myrtle Beach Hwy",
     "sg:city":"Scranton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186076515,
-    "wof:lastmodified":1449052427,
+    "wof:lastmodified":1467082407,
     "wof:name":"Community Grocery & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-79.715772,33.903994,-79.715772,33.903994],
+  "bbox": [
+    -79.715772,
+    33.903994,
+    -79.715772,
+    33.903994
+],
   "geometry": {"coordinates":[-79.715772,33.903994],"type":"Point"}
 }

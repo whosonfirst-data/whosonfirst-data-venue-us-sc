@@ -2,13 +2,14 @@
   "id": 354299807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.939895,32.791133,-79.939895,32.791133",
     "geom:latitude":32.791133,
     "geom:longitude":-79.939895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 King St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354299807,
-    "wof:lastmodified":1449066345,
+    "wof:lastmodified":1467082424,
     "wof:name":"A & E Digital Printing & Copy",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "copying"
     ]
 },
-  "bbox": [-79.939895,32.791133,-79.939895,32.791133],
-  "geometry": {"coordinates":[-79.939895,32.791133],"type":"Point"}
+  "bbox": [
+    -79.939895,
+    32.791133,
+    -79.939895,
+    32.791133
+],
+  "geometry": {"coordinates":[-79.93989500000001,32.791133],"type":"Point"}
 }

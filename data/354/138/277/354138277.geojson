@@ -2,13 +2,14 @@
   "id": 354138277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.000132,33.591897,-79.000132,33.591897",
     "geom:latitude":33.591897,
     "geom:longitude":-79.000132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"543 Rainbow Dr",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354138277,
-    "wof:lastmodified":1449066391,
+    "wof:lastmodified":1467082425,
     "wof:name":"Winco Drywall",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.000132,33.591897,-79.000132,33.591897],
-  "geometry": {"coordinates":[-79.000132,33.591897],"type":"Point"}
+  "bbox": [
+    -79.000132,
+    33.591897,
+    -79.000132,
+    33.591897
+],
+  "geometry": {"coordinates":[-79.00013199999999,33.591897],"type":"Point"}
 }

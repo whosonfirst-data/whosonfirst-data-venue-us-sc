@@ -2,13 +2,14 @@
   "id": 370929329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.176221,35.178003,-82.176221,35.178003",
     "geom:latitude":35.178003,
     "geom:longitude":-82.176221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 E Rutherford St",
     "sg:city":"Landrum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370929329,
-    "wof:lastmodified":1449030381,
+    "wof:lastmodified":1467082327,
     "wof:name":"Blue Moon Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.176221,35.178003,-82.176221,35.178003],
+  "bbox": [
+    -82.176221,
+    35.178003,
+    -82.176221,
+    35.178003
+],
   "geometry": {"coordinates":[-82.176221,35.178003],"type":"Point"}
 }

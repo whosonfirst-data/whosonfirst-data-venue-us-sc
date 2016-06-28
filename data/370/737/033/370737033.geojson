@@ -2,13 +2,14 @@
   "id": 370737033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.238406,34.951647,-82.238406,34.951647",
     "geom:latitude":34.951647,
     "geom:longitude":-82.238406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Chandler Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370737033,
-    "wof:lastmodified":1449029854,
+    "wof:lastmodified":1467082315,
     "wof:name":"Regency At Chandler Park",
     "wof:parent_id":85853715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.238406,34.951647,-82.238406,34.951647],
+  "bbox": [
+    -82.238406,
+    34.951647,
+    -82.238406,
+    34.951647
+],
   "geometry": {"coordinates":[-82.238406,34.951647],"type":"Point"}
 }

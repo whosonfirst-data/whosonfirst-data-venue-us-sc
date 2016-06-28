@@ -2,13 +2,14 @@
   "id": 370293153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.979538,33.531267,-81.979538,33.531267",
     "geom:latitude":33.531267,
     "geom:longitude":-81.979538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 Riley Ct",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370293153,
-    "wof:lastmodified":1449029757,
+    "wof:lastmodified":1467082313,
     "wof:name":"George A Nelson Pe Cnsltng Eng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-81.979538,33.531267,-81.979538,33.531267],
-  "geometry": {"coordinates":[-81.979538,33.531267],"type":"Point"}
+  "bbox": [
+    -81.979538,
+    33.531267,
+    -81.979538,
+    33.531267
+],
+  "geometry": {"coordinates":[-81.97953800000001,33.531267],"type":"Point"}
 }

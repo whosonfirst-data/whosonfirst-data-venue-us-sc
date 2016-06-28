@@ -2,13 +2,14 @@
   "id": 354311401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.048995,35.016838,-81.048995,35.016838",
     "geom:latitude":35.016838,
     "geom:longitude":-81.048995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1451 Lands End Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354311401,
-    "wof:lastmodified":1449066329,
+    "wof:lastmodified":1467082423,
     "wof:name":"Water Edge Club House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-81.048995,35.016838,-81.048995,35.016838],
-  "geometry": {"coordinates":[-81.048995,35.016838],"type":"Point"}
+  "bbox": [
+    -81.048995,
+    35.016838,
+    -81.048995,
+    35.016838
+],
+  "geometry": {"coordinates":[-81.04899500000001,35.016838],"type":"Point"}
 }

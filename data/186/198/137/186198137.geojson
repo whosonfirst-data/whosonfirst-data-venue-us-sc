@@ -2,13 +2,14 @@
   "id": 186198137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.93593,32.785384,-79.93593,32.785384",
     "geom:latitude":32.785384,
     "geom:longitude":-79.93593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 King St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186198137,
-    "wof:lastmodified":1449051363,
+    "wof:lastmodified":1467082397,
     "wof:name":"Sentel Wireless",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-79.93593,32.785384,-79.93593,32.785384],
+  "bbox": [
+    -79.93593,
+    32.785384,
+    -79.93593,
+    32.785384
+],
   "geometry": {"coordinates":[-79.93593,32.785384],"type":"Point"}
 }

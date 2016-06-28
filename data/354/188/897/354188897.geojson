@@ -2,13 +2,14 @@
   "id": 354188897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.070631,32.919559,-80.070631,32.919559",
     "geom:latitude":32.919559,
     "geom:longitude":-80.070631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3350 Hill Park Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354188897,
-    "wof:lastmodified":1449066774,
+    "wof:lastmodified":1467082434,
     "wof:name":"Central Industries Of Sc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "petroleum"
     ]
 },
-  "bbox": [-80.070631,32.919559,-80.070631,32.919559],
-  "geometry": {"coordinates":[-80.070631,32.919559],"type":"Point"}
+  "bbox": [
+    -80.070631,
+    32.919559,
+    -80.070631,
+    32.919559
+],
+  "geometry": {"coordinates":[-80.07063100000001,32.919559],"type":"Point"}
 }

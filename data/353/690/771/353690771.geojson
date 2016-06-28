@@ -2,13 +2,14 @@
   "id": 353690771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.857301,35.070893,-81.857301,35.070893",
     "geom:latitude":35.070893,
     "geom:longitude":-81.857301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"829 Mayo Rd",
     "sg:city":"Cowpens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353690771,
-    "wof:lastmodified":1449019605,
+    "wof:lastmodified":1467082237,
     "wof:name":"Osborne Kart Shop",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cart"
     ]
 },
-  "bbox": [-81.857301,35.070893,-81.857301,35.070893],
-  "geometry": {"coordinates":[-81.857301,35.070893],"type":"Point"}
+  "bbox": [
+    -81.857301,
+    35.070893,
+    -81.857301,
+    35.070893
+],
+  "geometry": {"coordinates":[-81.85730100000001,35.070893],"type":"Point"}
 }

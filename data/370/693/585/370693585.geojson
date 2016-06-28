@@ -2,13 +2,14 @@
   "id": 370693585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.009358,32.900092,-80.009358,32.900092",
     "geom:latitude":32.900092,
     "geom:longitude":-80.009358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1861 Remount Rd",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370693585,
-    "wof:lastmodified":1449029276,
+    "wof:lastmodified":1467082302,
     "wof:name":"Weddings N Proms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bridal"
     ]
 },
-  "bbox": [-80.009358,32.900092,-80.009358,32.900092],
-  "geometry": {"coordinates":[-80.009358,32.900092],"type":"Point"}
+  "bbox": [
+    -80.009358,
+    32.900092,
+    -80.009358,
+    32.900092
+],
+  "geometry": {"coordinates":[-80.00935800000001,32.900092],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370628097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.864095,34.319434,-79.864095,34.319434",
     "geom:latitude":34.319434,
     "geom:longitude":-79.864095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 Popular St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370628097,
-    "wof:lastmodified":1449031830,
+    "wof:lastmodified":1467082359,
     "wof:name":"Adrians Trucking Co",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.864095,34.319434,-79.864095,34.319434],
-  "geometry": {"coordinates":[-79.864095,34.319434],"type":"Point"}
+  "bbox": [
+    -79.864095,
+    34.319434,
+    -79.864095,
+    34.319434
+],
+  "geometry": {"coordinates":[-79.86409500000001,34.319434],"type":"Point"}
 }

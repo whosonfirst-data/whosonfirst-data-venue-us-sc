@@ -2,13 +2,14 @@
   "id": 337284395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.928919,34.183272,-79.928919,34.183272",
     "geom:latitude":34.183272,
     "geom:longitude":-79.928919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1844 Hollybush Rd",
     "sg:city":"Timmonsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337284395,
-    "wof:lastmodified":1449027460,
+    "wof:lastmodified":1467082284,
     "wof:name":"Gee & Gee Upholstery",
     "wof:parent_id":85807743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-79.928919,34.183272,-79.928919,34.183272],
-  "geometry": {"coordinates":[-79.928919,34.183272],"type":"Point"}
+  "bbox": [
+    -79.928919,
+    34.183272,
+    -79.928919,
+    34.183272
+],
+  "geometry": {"coordinates":[-79.92891899999999,34.183272],"type":"Point"}
 }

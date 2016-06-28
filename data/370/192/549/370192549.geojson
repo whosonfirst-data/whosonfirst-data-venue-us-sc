@@ -2,13 +2,14 @@
   "id": 370192549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.049594,34.870226,-82.049594,34.870226",
     "geom:latitude":34.870226,
     "geom:longitude":-82.049594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"681 State Hwy 417",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370192549,
-    "wof:lastmodified":1449031485,
+    "wof:lastmodified":1467082351,
     "wof:name":"Lawn Knowers",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-82.049594,34.870226,-82.049594,34.870226],
+  "bbox": [
+    -82.049594,
+    34.870226,
+    -82.049594,
+    34.870226
+],
   "geometry": {"coordinates":[-82.049594,34.870226],"type":"Point"}
 }

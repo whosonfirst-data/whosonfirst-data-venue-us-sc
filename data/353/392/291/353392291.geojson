@@ -2,13 +2,14 @@
   "id": 353392291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.909486,34.465129,-81.909486,34.465129",
     "geom:latitude":34.465129,
     "geom:longitude":-81.909486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Clinton Manor Dr",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353392291,
-    "wof:lastmodified":1449020312,
+    "wof:lastmodified":1467082252,
     "wof:name":"Clinton Manor Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.909486,34.465129,-81.909486,34.465129],
+  "bbox": [
+    -81.909486,
+    34.465129,
+    -81.909486,
+    34.465129
+],
   "geometry": {"coordinates":[-81.909486,34.465129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354414513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.665365,34.533937,-82.665365,34.533937",
     "geom:latitude":34.533937,
     "geom:longitude":-82.665365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 N Main St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354414513,
-    "wof:lastmodified":1449066716,
+    "wof:lastmodified":1467082432,
     "wof:name":"Autocom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.665365,34.533937,-82.665365,34.533937],
-  "geometry": {"coordinates":[-82.665365,34.533937],"type":"Point"}
+  "bbox": [
+    -82.665365,
+    34.533937,
+    -82.665365,
+    34.533937
+],
+  "geometry": {"coordinates":[-82.66536499999999,34.533937],"type":"Point"}
 }

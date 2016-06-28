@@ -2,13 +2,14 @@
   "id": 353584873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.769535,34.659841,-81.769535,34.659841",
     "geom:latitude":34.659841,
     "geom:longitude":-81.769535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Terrapin Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353584873,
-    "wof:lastmodified":1449018528,
+    "wof:lastmodified":1467082215,
     "wof:name":"Mt Calvery Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.769535,34.659841,-81.769535,34.659841],
+  "bbox": [
+    -81.769535,
+    34.659841,
+    -81.769535,
+    34.659841
+],
   "geometry": {"coordinates":[-81.769535,34.659841],"type":"Point"}
 }

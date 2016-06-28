@@ -2,13 +2,14 @@
   "id": 370274293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.875048,32.293968,-80.875048,32.293968",
     "geom:latitude":32.293968,
     "geom:longitude":-80.875048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Plantation House Dr",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370274293,
-    "wof:lastmodified":1449029502,
+    "wof:lastmodified":1467082307,
     "wof:name":"Helen Ashby",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.875048,32.293968,-80.875048,32.293968],
-  "geometry": {"coordinates":[-80.875048,32.293968],"type":"Point"}
+  "bbox": [
+    -80.875048,
+    32.293968,
+    -80.875048,
+    32.293968
+],
+  "geometry": {"coordinates":[-80.87504800000001,32.293968],"type":"Point"}
 }

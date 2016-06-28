@@ -2,13 +2,14 @@
   "id": 370352999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.946464,34.697096,-82.946464,34.697096",
     "geom:latitude":34.697096,
     "geom:longitude":-82.946464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Nimmons Cir",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370352999,
-    "wof:lastmodified":1449031168,
+    "wof:lastmodified":1467082344,
     "wof:name":"English Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "residential"
     ]
 },
-  "bbox": [-82.946464,34.697096,-82.946464,34.697096],
-  "geometry": {"coordinates":[-82.946464,34.697096],"type":"Point"}
+  "bbox": [
+    -82.946464,
+    34.697096,
+    -82.946464,
+    34.697096
+],
+  "geometry": {"coordinates":[-82.94646400000001,34.697096],"type":"Point"}
 }

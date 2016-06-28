@@ -2,13 +2,14 @@
   "id": 186129723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.062599,32.878497,-80.062599,32.878497",
     "geom:latitude":32.878497,
     "geom:longitude":-80.062599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6579 Dorchester Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186129723,
-    "wof:lastmodified":1449052491,
+    "wof:lastmodified":1467082408,
     "wof:name":"South Carolina Federal CU",
     "wof:parent_id":85829629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.062599,32.878497,-80.062599,32.878497],
-  "geometry": {"coordinates":[-80.062599,32.878497],"type":"Point"}
+  "bbox": [
+    -80.062599,
+    32.878497,
+    -80.062599,
+    32.878497
+],
+  "geometry": {"coordinates":[-80.06259900000001,32.878497],"type":"Point"}
 }

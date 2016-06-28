@@ -2,13 +2,14 @@
   "id": 370644133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.814084,34.173843,-79.814084,34.173843",
     "geom:latitude":34.173843,
     "geom:longitude":-79.814084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 S Cashua Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370644133,
-    "wof:lastmodified":1449031010,
+    "wof:lastmodified":1467082340,
     "wof:name":"Mullins Tool Rental",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-79.814084,34.173843,-79.814084,34.173843],
-  "geometry": {"coordinates":[-79.814084,34.173843],"type":"Point"}
+  "bbox": [
+    -79.814084,
+    34.173843,
+    -79.814084,
+    34.173843
+],
+  "geometry": {"coordinates":[-79.81408399999999,34.173843],"type":"Point"}
 }

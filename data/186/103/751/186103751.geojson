@@ -2,13 +2,14 @@
   "id": 186103751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.22463,34.94164,-82.22463,34.94164",
     "geom:latitude":34.94164,
     "geom:longitude":-82.22463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 N Main St",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186103751,
-    "wof:lastmodified":1449052041,
+    "wof:lastmodified":1467082403,
     "wof:name":"James Agency Inc",
     "wof:parent_id":85853715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.22463,34.94164,-82.22463,34.94164],
+  "bbox": [
+    -82.22463,
+    34.94164,
+    -82.22463,
+    34.94164
+],
   "geometry": {"coordinates":[-82.22463,34.94164],"type":"Point"}
 }

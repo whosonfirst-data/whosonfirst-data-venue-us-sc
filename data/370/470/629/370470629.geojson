@@ -2,13 +2,14 @@
   "id": 370470629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.355804,33.900163,-80.355804,33.900163",
     "geom:latitude":33.900163,
     "geom:longitude":-80.355804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"368 Neeley St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370470629,
-    "wof:lastmodified":1449029913,
+    "wof:lastmodified":1467082316,
     "wof:name":"Catalyst Restorations & Rnvtns",
     "wof:parent_id":85850119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.355804,33.900163,-80.355804,33.900163],
-  "geometry": {"coordinates":[-80.355804,33.900163],"type":"Point"}
+  "bbox": [
+    -80.355804,
+    33.900163,
+    -80.355804,
+    33.900163
+],
+  "geometry": {"coordinates":[-80.35580400000001,33.900163],"type":"Point"}
 }

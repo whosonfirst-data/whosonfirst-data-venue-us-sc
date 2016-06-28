@@ -2,13 +2,14 @@
   "id": 370234931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.729637,32.178826,-80.729637,32.178826",
     "geom:latitude":32.178826,
     "geom:longitude":-80.729637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Shelter Cove Ln",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370234931,
-    "wof:lastmodified":1449032284,
+    "wof:lastmodified":1467082369,
     "wof:name":"Bolton Smith Harbour Art Glry",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.729637,32.178826,-80.729637,32.178826],
+  "bbox": [
+    -80.729637,
+    32.178826,
+    -80.729637,
+    32.178826
+],
   "geometry": {"coordinates":[-80.729637,32.178826],"type":"Point"}
 }

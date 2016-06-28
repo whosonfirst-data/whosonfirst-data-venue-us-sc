@@ -2,13 +2,14 @@
   "id": 370252435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.929201,32.780776,-79.929201,32.780776",
     "geom:latitude":32.780776,
     "geom:longitude":-79.929201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 S Market St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370252435,
-    "wof:lastmodified":1449029540,
+    "wof:lastmodified":1467082308,
     "wof:name":"Charleston Luggage & Leather",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.929201,32.780776,-79.929201,32.780776],
-  "geometry": {"coordinates":[-79.929201,32.780776],"type":"Point"}
+  "bbox": [
+    -79.929201,
+    32.780776,
+    -79.929201,
+    32.780776
+],
+  "geometry": {"coordinates":[-79.92920100000001,32.780776],"type":"Point"}
 }

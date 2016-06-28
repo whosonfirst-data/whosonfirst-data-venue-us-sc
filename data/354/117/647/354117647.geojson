@@ -2,13 +2,14 @@
   "id": 354117647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.75658,34.545265,-82.75658,34.545265",
     "geom:latitude":34.545265,
     "geom:longitude":-82.75658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 Old Pearman Dairy Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354117647,
-    "wof:lastmodified":1449067133,
+    "wof:lastmodified":1467082442,
     "wof:name":"Rpg Trucking",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.75658,34.545265,-82.75658,34.545265],
+  "bbox": [
+    -82.75658,
+    34.545265,
+    -82.75658,
+    34.545265
+],
   "geometry": {"coordinates":[-82.75658,34.545265],"type":"Point"}
 }

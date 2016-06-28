@@ -2,13 +2,14 @@
   "id": 185941833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.379894,33.951045,-80.379894,33.951045",
     "geom:latitude":33.951045,
     "geom:longitude":-80.379894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 W Wesmark Blvd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185941833,
-    "wof:lastmodified":1449007567,
+    "wof:lastmodified":1467082197,
     "wof:name":"Tuomey Cardiac Rehabilitation",
     "wof:parent_id":85816835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-80.379894,33.951045,-80.379894,33.951045],
-  "geometry": {"coordinates":[-80.379894,33.951045],"type":"Point"}
+  "bbox": [
+    -80.379894,
+    33.951045,
+    -80.379894,
+    33.951045
+],
+  "geometry": {"coordinates":[-80.37989399999999,33.951045],"type":"Point"}
 }

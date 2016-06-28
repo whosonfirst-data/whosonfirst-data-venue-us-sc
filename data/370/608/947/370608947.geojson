@@ -2,13 +2,14 @@
   "id": 370608947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.837648,33.671978,-79.837648,33.671978",
     "geom:latitude":33.671978,
     "geom:longitude":-79.837648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 W Academy St",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370608947,
-    "wof:lastmodified":1449030534,
+    "wof:lastmodified":1467082330,
     "wof:name":"Carl's Classic Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-79.837648,33.671978,-79.837648,33.671978],
+  "bbox": [
+    -79.837648,
+    33.671978,
+    -79.837648,
+    33.671978
+],
   "geometry": {"coordinates":[-79.837648,33.671978],"type":"Point"}
 }

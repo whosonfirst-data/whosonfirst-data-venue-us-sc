@@ -2,13 +2,14 @@
   "id": 354203953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.063597,34.766266,-83.063597,34.766266",
     "geom:latitude":34.766266,
     "geom:longitude":-83.063597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 E North Broad St",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354203953,
-    "wof:lastmodified":1449066668,
+    "wof:lastmodified":1467082431,
     "wof:name":"Walhalla City Fire Dept",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-83.063597,34.766266,-83.063597,34.766266],
+  "bbox": [
+    -83.063597,
+    34.766266,
+    -83.063597,
+    34.766266
+],
   "geometry": {"coordinates":[-83.063597,34.766266],"type":"Point"}
 }

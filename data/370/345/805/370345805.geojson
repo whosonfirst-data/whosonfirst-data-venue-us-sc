@@ -2,13 +2,14 @@
   "id": 370345805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.082587,33.564191,-79.082587,33.564191",
     "geom:latitude":33.564191,
     "geom:longitude":-79.082587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3866 Cow House Ct",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370345805,
-    "wof:lastmodified":1449032203,
+    "wof:lastmodified":1467082367,
     "wof:name":"Carolina Aqua Clear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "swimming"
     ]
 },
-  "bbox": [-79.082587,33.564191,-79.082587,33.564191],
+  "bbox": [
+    -79.082587,
+    33.564191,
+    -79.082587,
+    33.564191
+],
   "geometry": {"coordinates":[-79.082587,33.564191],"type":"Point"}
 }

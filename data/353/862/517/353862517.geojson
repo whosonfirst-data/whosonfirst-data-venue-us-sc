@@ -2,13 +2,14 @@
   "id": 353862517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.93362,32.726083,-79.93362,32.726083",
     "geom:latitude":32.726083,
     "geom:longitude":-79.93362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 Wayfarer Ln",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353862517,
-    "wof:lastmodified":1449020879,
+    "wof:lastmodified":1467082263,
     "wof:name":"Kava Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-79.93362,32.726083,-79.93362,32.726083],
+  "bbox": [
+    -79.93362,
+    32.726083,
+    -79.93362,
+    32.726083
+],
   "geometry": {"coordinates":[-79.93362,32.726083],"type":"Point"}
 }

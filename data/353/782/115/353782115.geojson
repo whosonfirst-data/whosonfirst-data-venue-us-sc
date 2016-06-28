@@ -2,13 +2,14 @@
   "id": 353782115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.976405,34.693292,-82.976405,34.693292",
     "geom:latitude":34.693292,
     "geom:longitude":-82.976405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 US Hwy 123",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353782115,
-    "wof:lastmodified":1449018240,
+    "wof:lastmodified":1467082209,
     "wof:name":"Eleanor's Flowers & Balloons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.976405,34.693292,-82.976405,34.693292],
+  "bbox": [
+    -82.976405,
+    34.693292,
+    -82.976405,
+    34.693292
+],
   "geometry": {"coordinates":[-82.976405,34.693292],"type":"Point"}
 }

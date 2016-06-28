@@ -2,13 +2,14 @@
   "id": 337305345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.08005,34.025293,-81.08005,34.025293",
     "geom:latitude":34.025293,
     "geom:longitude":-81.08005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Broad River Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337305345,
-    "wof:lastmodified":1449027051,
+    "wof:lastmodified":1467082269,
     "wof:name":"Austin's Laserwash 4000",
     "wof:parent_id":85845041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-81.08005,34.025293,-81.08005,34.025293],
+  "bbox": [
+    -81.08005,
+    34.025293,
+    -81.08005,
+    34.025293
+],
   "geometry": {"coordinates":[-81.08005,34.025293],"type":"Point"}
 }

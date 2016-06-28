@@ -2,13 +2,14 @@
   "id": 370440739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.727772,34.499923,-82.727772,34.499923",
     "geom:latitude":34.499923,
     "geom:longitude":-82.727772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 Old Portman Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370440739,
-    "wof:lastmodified":1449030285,
+    "wof:lastmodified":1467082325,
     "wof:name":"Sexton's Automotive",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.727772,34.499923,-82.727772,34.499923],
+  "bbox": [
+    -82.727772,
+    34.499923,
+    -82.727772,
+    34.499923
+],
   "geometry": {"coordinates":[-82.727772,34.499923],"type":"Point"}
 }

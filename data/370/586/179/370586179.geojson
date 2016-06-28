@@ -2,13 +2,14 @@
   "id": 370586179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.015575,33.997927,-81.015575,33.997927",
     "geom:latitude":33.997927,
     "geom:longitude":-81.015575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 Harden St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370586179,
-    "wof:lastmodified":1449032087,
+    "wof:lastmodified":1467082365,
     "wof:name":"S C Wireless Inc",
     "wof:parent_id":85847987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-81.015575,33.997927,-81.015575,33.997927],
+  "bbox": [
+    -81.015575,
+    33.997927,
+    -81.015575,
+    33.997927
+],
   "geometry": {"coordinates":[-81.015575,33.997927],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354128781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.15449,34.17419,-82.15449,34.17419",
     "geom:latitude":34.17419,
     "geom:longitude":-82.15449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 Edgefield St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354128781,
-    "wof:lastmodified":1449066572,
+    "wof:lastmodified":1467082429,
     "wof:name":"Mattie's Cakes From Scratch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-82.15449,34.17419,-82.15449,34.17419],
+  "bbox": [
+    -82.15449,
+    34.17419,
+    -82.15449,
+    34.17419
+],
   "geometry": {"coordinates":[-82.15449,34.17419],"type":"Point"}
 }

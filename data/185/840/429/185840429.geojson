@@ -2,13 +2,14 @@
   "id": 185840429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.61947,34.698949,-81.61947,34.698949",
     "geom:latitude":34.698949,
     "geom:longitude":-81.61947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 S Duncan Byp",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185840429,
-    "wof:lastmodified":1449007873,
+    "wof:lastmodified":1467082202,
     "wof:name":"Old American Lumber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.61947,34.698949,-81.61947,34.698949],
-  "geometry": {"coordinates":[-81.61947,34.698949],"type":"Point"}
+  "bbox": [
+    -81.61947,
+    34.698949,
+    -81.61947,
+    34.698949
+],
+  "geometry": {"coordinates":[-81.61947000000001,34.698949],"type":"Point"}
 }

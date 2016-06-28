@@ -2,13 +2,14 @@
   "id": 354043551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.409303,34.879085,-82.409303,34.879085",
     "geom:latitude":34.879085,
     "geom:longitude":-82.409303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Pickett St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354043551,
-    "wof:lastmodified":1449067229,
+    "wof:lastmodified":1467082444,
     "wof:name":"Total Fire Protection Inc",
     "wof:parent_id":85825355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-82.409303,34.879085,-82.409303,34.879085],
-  "geometry": {"coordinates":[-82.409303,34.879085],"type":"Point"}
+  "bbox": [
+    -82.409303,
+    34.879085,
+    -82.409303,
+    34.879085
+],
+  "geometry": {"coordinates":[-82.40930299999999,34.879085],"type":"Point"}
 }

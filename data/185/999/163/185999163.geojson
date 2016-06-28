@@ -2,13 +2,14 @@
   "id": 185999163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.283873,33.349787,-79.283873,33.349787",
     "geom:latitude":33.349787,
     "geom:longitude":-79.283873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Martin St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":185999163,
-    "wof:lastmodified":1449008024,
+    "wof:lastmodified":1467082204,
     "wof:name":"Place By The Bay Apartments",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-79.283873,33.349787,-79.283873,33.349787],
+  "bbox": [
+    -79.283873,
+    33.349787,
+    -79.283873,
+    33.349787
+],
   "geometry": {"coordinates":[-79.283873,33.349787],"type":"Point"}
 }

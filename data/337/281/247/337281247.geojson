@@ -2,13 +2,14 @@
   "id": 337281247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.886839,33.684716,-78.886839,33.684716",
     "geom:latitude":33.684716,
     "geom:longitude":-78.886839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Ocean Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337281247,
-    "wof:lastmodified":1449027614,
+    "wof:lastmodified":1467082290,
     "wof:name":"Ashworth GS Resorts",
     "wof:parent_id":85859339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-78.886839,33.684716,-78.886839,33.684716],
-  "geometry": {"coordinates":[-78.886839,33.684716],"type":"Point"}
+  "bbox": [
+    -78.886839,
+    33.684716,
+    -78.886839,
+    33.684716
+],
+  "geometry": {"coordinates":[-78.88683899999999,33.684716],"type":"Point"}
 }

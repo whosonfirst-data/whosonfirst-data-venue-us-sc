@@ -2,13 +2,14 @@
   "id": 353734653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.000788,33.445038,-81.000788,33.445038",
     "geom:latitude":33.445038,
     "geom:longitude":-81.000788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"357 Sabb Rd",
     "sg:city":"Cope",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353734653,
-    "wof:lastmodified":1449020486,
+    "wof:lastmodified":1467082255,
     "wof:name":"Silver Selections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.000788,33.445038,-81.000788,33.445038],
+  "bbox": [
+    -81.000788,
+    33.445038,
+    -81.000788,
+    33.445038
+],
   "geometry": {"coordinates":[-81.000788,33.445038],"type":"Point"}
 }

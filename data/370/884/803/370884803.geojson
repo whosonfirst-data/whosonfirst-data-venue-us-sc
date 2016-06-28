@@ -2,13 +2,14 @@
   "id": 370884803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.03814,33.553568,-79.03814,33.553568",
     "geom:latitude":33.553568,
     "geom:longitude":-79.03814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"375 Grant Cir",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370884803,
-    "wof:lastmodified":1449031829,
+    "wof:lastmodified":1467082359,
     "wof:name":"Golf Club Rentals Of Amer",
     "wof:parent_id":85813133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rental"
     ]
 },
-  "bbox": [-79.03814,33.553568,-79.03814,33.553568],
+  "bbox": [
+    -79.03814,
+    33.553568,
+    -79.03814,
+    33.553568
+],
   "geometry": {"coordinates":[-79.03814,33.553568],"type":"Point"}
 }

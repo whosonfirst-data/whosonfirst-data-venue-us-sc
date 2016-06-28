@@ -2,13 +2,14 @@
   "id": 370275353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.728049,34.267817,-79.728049,34.267817",
     "geom:latitude":34.267817,
     "geom:longitude":-79.728049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 E Blanchard Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370275353,
-    "wof:lastmodified":1449030185,
+    "wof:lastmodified":1467082322,
     "wof:name":"A & R Transport Corp",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.728049,34.267817,-79.728049,34.267817],
+  "bbox": [
+    -79.728049,
+    34.267817,
+    -79.728049,
+    34.267817
+],
   "geometry": {"coordinates":[-79.728049,34.267817],"type":"Point"}
 }

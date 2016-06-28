@@ -2,13 +2,14 @@
   "id": 186049205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.966475,35.022264,-80.966475,35.022264",
     "geom:latitude":35.022264,
     "geom:longitude":-80.966475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Kingsley Park Dr",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":186049205,
-    "wof:lastmodified":1449051708,
+    "wof:lastmodified":1467082400,
     "wof:name":"Weyerhaeuser Company",
     "wof:parent_id":85839383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "research"
     ]
 },
-  "bbox": [-80.966475,35.022264,-80.966475,35.022264],
+  "bbox": [
+    -80.966475,
+    35.022264,
+    -80.966475,
+    35.022264
+],
   "geometry": {"coordinates":[-80.966475,35.022264],"type":"Point"}
 }

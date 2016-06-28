@@ -2,13 +2,14 @@
   "id": 337281889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.350473,33.241144,-81.350473,33.241144",
     "geom:latitude":33.241144,
     "geom:longitude":-81.350473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Peachtree Garden Rd",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337281889,
-    "wof:lastmodified":1449027612,
+    "wof:lastmodified":1467082290,
     "wof:name":"Collins Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.350473,33.241144,-81.350473,33.241144],
-  "geometry": {"coordinates":[-81.350473,33.241144],"type":"Point"}
+  "bbox": [
+    -81.350473,
+    33.241144,
+    -81.350473,
+    33.241144
+],
+  "geometry": {"coordinates":[-81.35047299999999,33.241144],"type":"Point"}
 }

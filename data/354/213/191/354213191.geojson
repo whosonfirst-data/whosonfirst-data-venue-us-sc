@@ -2,13 +2,14 @@
   "id": 354213191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.801119,33.832006,-81.801119,33.832006",
     "geom:latitude":33.832006,
     "geom:longitude":-81.801119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Calhoun St",
     "sg:city":"Johnston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354213191,
-    "wof:lastmodified":1449065947,
+    "wof:lastmodified":1467082415,
     "wof:name":"Wright Impressions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-81.801119,33.832006,-81.801119,33.832006],
+  "bbox": [
+    -81.801119,
+    33.832006,
+    -81.801119,
+    33.832006
+],
   "geometry": {"coordinates":[-81.801119,33.832006],"type":"Point"}
 }

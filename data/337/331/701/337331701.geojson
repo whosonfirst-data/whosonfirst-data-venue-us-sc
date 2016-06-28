@@ -2,13 +2,14 @@
   "id": 337331701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.342859,34.263345,-82.342859,34.263345",
     "geom:latitude":34.263345,
     "geom:longitude":-82.342859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Cockfield Rd",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337331701,
-    "wof:lastmodified":1449027443,
+    "wof:lastmodified":1467082284,
     "wof:name":"Tiller Backhoe & Dozer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.342859,34.263345,-82.342859,34.263345],
+  "bbox": [
+    -82.342859,
+    34.263345,
+    -82.342859,
+    34.263345
+],
   "geometry": {"coordinates":[-82.342859,34.263345],"type":"Point"}
 }

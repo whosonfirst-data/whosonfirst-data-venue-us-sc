@@ -2,13 +2,14 @@
   "id": 185887441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.014236,32.800064,-80.014236,32.800064",
     "geom:latitude":32.800064,
     "geom:longitude":-80.014236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 Ashley River Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185887441,
-    "wof:lastmodified":1449007899,
+    "wof:lastmodified":1467082202,
     "wof:name":"Robert A Johnson Appraisal Svc",
     "wof:parent_id":85839787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-80.014236,32.800064,-80.014236,32.800064],
+  "bbox": [
+    -80.014236,
+    32.800064,
+    -80.014236,
+    32.800064
+],
   "geometry": {"coordinates":[-80.014236,32.800064],"type":"Point"}
 }

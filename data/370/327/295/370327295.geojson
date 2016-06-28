@@ -2,13 +2,14 @@
   "id": 370327295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.848829,34.511845,-82.848829,34.511845",
     "geom:latitude":34.511845,
     "geom:longitude":-82.848829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Smith Chapel Rd",
     "sg:city":"Townville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370327295,
-    "wof:lastmodified":1449029342,
+    "wof:lastmodified":1467082304,
     "wof:name":"Magnolia Room Wedding Chapel",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chapel"
     ]
 },
-  "bbox": [-82.848829,34.511845,-82.848829,34.511845],
-  "geometry": {"coordinates":[-82.848829,34.511845],"type":"Point"}
+  "bbox": [
+    -82.848829,
+    34.511845,
+    -82.848829,
+    34.511845
+],
+  "geometry": {"coordinates":[-82.84882899999999,34.511845],"type":"Point"}
 }

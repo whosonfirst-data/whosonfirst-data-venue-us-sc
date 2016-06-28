@@ -2,13 +2,14 @@
   "id": 353552439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.716085,32.829616,-80.716085,32.829616",
     "geom:latitude":32.829616,
     "geom:longitude":-80.716085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"649 Katie Bridge Rd",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353552439,
-    "wof:lastmodified":1449019312,
+    "wof:lastmodified":1467082231,
     "wof:name":"Timothy Schmitt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.716085,32.829616,-80.716085,32.829616],
-  "geometry": {"coordinates":[-80.716085,32.829616],"type":"Point"}
+  "bbox": [
+    -80.716085,
+    32.829616,
+    -80.716085,
+    32.829616
+],
+  "geometry": {"coordinates":[-80.71608500000001,32.829616],"type":"Point"}
 }

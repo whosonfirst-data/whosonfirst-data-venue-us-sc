@@ -2,13 +2,14 @@
   "id": 353882263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.354293,33.919871,-80.354293,33.919871",
     "geom:latitude":33.919871,
     "geom:longitude":-80.354293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 S Purdy St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353882263,
-    "wof:lastmodified":1449018698,
+    "wof:lastmodified":1467082219,
     "wof:name":"James Funeral Home",
     "wof:parent_id":85850119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-80.354293,33.919871,-80.354293,33.919871],
+  "bbox": [
+    -80.354293,
+    33.919871,
+    -80.354293,
+    33.919871
+],
   "geometry": {"coordinates":[-80.354293,33.919871],"type":"Point"}
 }

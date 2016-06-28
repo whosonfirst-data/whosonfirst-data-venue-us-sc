@@ -2,13 +2,14 @@
   "id": 353623701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.410485,34.855806,-82.410485,34.855806",
     "geom:latitude":34.855806,
     "geom:longitude":-82.410485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"849 W Washington St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353623701,
-    "wof:lastmodified":1449020038,
+    "wof:lastmodified":1467082246,
     "wof:name":"Greggs Music School",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "music"
     ]
 },
-  "bbox": [-82.410485,34.855806,-82.410485,34.855806],
-  "geometry": {"coordinates":[-82.410485,34.855806],"type":"Point"}
+  "bbox": [
+    -82.410485,
+    34.855806,
+    -82.410485,
+    34.855806
+],
+  "geometry": {"coordinates":[-82.41048499999999,34.855806],"type":"Point"}
 }

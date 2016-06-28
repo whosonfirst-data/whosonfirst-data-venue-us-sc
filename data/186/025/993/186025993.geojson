@@ -2,13 +2,14 @@
   "id": 186025993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.893036,33.998081,-78.893036,33.998081",
     "geom:latitude":33.998081,
     "geom:longitude":-78.893036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2226 Heritage Rd",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186025993,
-    "wof:lastmodified":1449052566,
+    "wof:lastmodified":1467082409,
     "wof:name":"Ed's Garage",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-78.893036,33.998081,-78.893036,33.998081],
+  "bbox": [
+    -78.893036,
+    33.998081,
+    -78.893036,
+    33.998081
+],
   "geometry": {"coordinates":[-78.893036,33.998081],"type":"Point"}
 }

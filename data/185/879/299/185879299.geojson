@@ -2,13 +2,14 @@
   "id": 185879299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.370719,34.444388,-79.370719,34.444388",
     "geom:latitude":34.444388,
     "geom:longitude":-79.370719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1045 Bass Lake Pl",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185879299,
-    "wof:lastmodified":1449006611,
+    "wof:lastmodified":1467082182,
     "wof:name":"Cottingham Trailer Svc",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-79.370719,34.444388,-79.370719,34.444388],
-  "geometry": {"coordinates":[-79.370719,34.444388],"type":"Point"}
+  "bbox": [
+    -79.370719,
+    34.444388,
+    -79.370719,
+    34.444388
+],
+  "geometry": {"coordinates":[-79.37071899999999,34.444388],"type":"Point"}
 }

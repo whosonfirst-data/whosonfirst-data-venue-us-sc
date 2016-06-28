@@ -2,13 +2,14 @@
   "id": 337546015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.677692,34.196668,-79.677692,34.196668",
     "geom:latitude":34.196668,
     "geom:longitude":-79.677692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3931 E Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337546015,
-    "wof:lastmodified":1449026930,
+    "wof:lastmodified":1467082265,
     "wof:name":"Express 2000",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.677692,34.196668,-79.677692,34.196668],
-  "geometry": {"coordinates":[-79.677692,34.196668],"type":"Point"}
+  "bbox": [
+    -79.677692,
+    34.196668,
+    -79.677692,
+    34.196668
+],
+  "geometry": {"coordinates":[-79.67769199999999,34.196668],"type":"Point"}
 }

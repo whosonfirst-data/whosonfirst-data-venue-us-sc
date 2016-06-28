@@ -2,13 +2,14 @@
   "id": 370782847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.350428,34.903315,-82.350428,34.903315",
     "geom:latitude":34.903315,
     "geom:longitude":-82.350428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1923 Sevier St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370782847,
-    "wof:lastmodified":1449029051,
+    "wof:lastmodified":1467082297,
     "wof:name":"Classy Kids Child Development",
     "wof:parent_id":85857455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.350428,34.903315,-82.350428,34.903315],
-  "geometry": {"coordinates":[-82.350428,34.903315],"type":"Point"}
+  "bbox": [
+    -82.350428,
+    34.903315,
+    -82.350428,
+    34.903315
+],
+  "geometry": {"coordinates":[-82.35042799999999,34.903315],"type":"Point"}
 }

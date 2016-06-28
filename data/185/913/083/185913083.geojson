@@ -2,13 +2,14 @@
   "id": 185913083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.96971,35.07007,-80.96971,35.07007",
     "geom:latitude":35.07007,
     "geom:longitude":-80.96971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9026 Possum Hollow Rd",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185913083,
-    "wof:lastmodified":1449007234,
+    "wof:lastmodified":1467082192,
     "wof:name":"Ray's Cleaning Svc",
     "wof:parent_id":85843859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clean"
     ]
 },
-  "bbox": [-80.96971,35.07007,-80.96971,35.07007],
-  "geometry": {"coordinates":[-80.96971,35.07007],"type":"Point"}
+  "bbox": [
+    -80.96971,
+    35.07007,
+    -80.96971,
+    35.07007
+],
+  "geometry": {"coordinates":[-80.96971000000001,35.07007],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370150523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.978005,33.998462,-80.978005,33.998462",
     "geom:latitude":33.998462,
     "geom:longitude":-80.978005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Beltline Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370150523,
-    "wof:lastmodified":1449029112,
+    "wof:lastmodified":1467082299,
     "wof:name":"Mazyck & Co",
     "wof:parent_id":85876829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-80.978005,33.998462,-80.978005,33.998462],
+  "bbox": [
+    -80.978005,
+    33.998462,
+    -80.978005,
+    33.998462
+],
   "geometry": {"coordinates":[-80.978005,33.998462],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354366211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.663649,33.834882,-78.663649,33.834882",
     "geom:latitude":33.834882,
     "geom:longitude":-78.663649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Colony Dr",
     "sg:city":"Longs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354366211,
-    "wof:lastmodified":1449067202,
+    "wof:lastmodified":1467082443,
     "wof:name":"Sun Colony Resort",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.663649,33.834882,-78.663649,33.834882],
-  "geometry": {"coordinates":[-78.663649,33.834882],"type":"Point"}
+  "bbox": [
+    -78.663649,
+    33.834882,
+    -78.663649,
+    33.834882
+],
+  "geometry": {"coordinates":[-78.66364900000001,33.834882],"type":"Point"}
 }

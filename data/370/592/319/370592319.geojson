@@ -2,13 +2,14 @@
   "id": 370592319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.769048,32.167127,-80.769048,32.167127",
     "geom:latitude":32.167127,
     "geom:longitude":-80.769048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Palmetto Business Park Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370592319,
-    "wof:lastmodified":1449031013,
+    "wof:lastmodified":1467082341,
     "wof:name":"Lee & Parker",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.769048,32.167127,-80.769048,32.167127],
+  "bbox": [
+    -80.769048,
+    32.167127,
+    -80.769048,
+    32.167127
+],
   "geometry": {"coordinates":[-80.769048,32.167127],"type":"Point"}
 }

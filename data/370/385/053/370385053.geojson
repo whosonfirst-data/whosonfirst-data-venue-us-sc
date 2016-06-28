@@ -2,13 +2,14 @@
   "id": 370385053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.108258,32.866198,-81.108258,32.866198",
     "geom:latitude":32.866198,
     "geom:longitude":-81.108258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Elm St E",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370385053,
-    "wof:lastmodified":1449031088,
+    "wof:lastmodified":1467082342,
     "wof:name":"Western Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-81.108258,32.866198,-81.108258,32.866198],
-  "geometry": {"coordinates":[-81.108258,32.866198],"type":"Point"}
+  "bbox": [
+    -81.108258,
+    32.866198,
+    -81.108258,
+    32.866198
+],
+  "geometry": {"coordinates":[-81.10825800000001,32.866198],"type":"Point"}
 }

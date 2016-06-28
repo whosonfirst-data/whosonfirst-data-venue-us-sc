@@ -2,13 +2,14 @@
   "id": 185874571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.512116,34.832451,-82.512116,34.832451",
     "geom:latitude":34.832451,
     "geom:longitude":-82.512116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Lamar Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185874571,
-    "wof:lastmodified":1449008109,
+    "wof:lastmodified":1467082205,
     "wof:name":"Baldwin Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.512116,34.832451,-82.512116,34.832451],
-  "geometry": {"coordinates":[-82.512116,34.832451],"type":"Point"}
+  "bbox": [
+    -82.512116,
+    34.832451,
+    -82.512116,
+    34.832451
+],
+  "geometry": {"coordinates":[-82.51211600000001,34.832451],"type":"Point"}
 }

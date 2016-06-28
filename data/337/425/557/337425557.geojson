@@ -2,13 +2,14 @@
   "id": 337425557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.432078,35.065113,-82.432078,35.065113",
     "geom:latitude":35.065113,
     "geom:longitude":-82.432078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2540 US Hwy 25",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337425557,
-    "wof:lastmodified":1449027225,
+    "wof:lastmodified":1467082276,
     "wof:name":"Harold Owens Logging",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-82.432078,35.065113,-82.432078,35.065113],
+  "bbox": [
+    -82.432078,
+    35.065113,
+    -82.432078,
+    35.065113
+],
   "geometry": {"coordinates":[-82.432078,35.065113],"type":"Point"}
 }

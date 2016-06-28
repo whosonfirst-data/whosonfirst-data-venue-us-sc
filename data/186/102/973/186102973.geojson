@@ -2,13 +2,14 @@
   "id": 186102973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.363104,33.250405,-81.363104,33.250405",
     "geom:latitude":33.250405,
     "geom:longitude":-81.363104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"476 Reynolds Rd",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186102973,
-    "wof:lastmodified":1449052826,
+    "wof:lastmodified":1467082411,
     "wof:name":"Anthony's Restaurant & Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.363104,33.250405,-81.363104,33.250405],
-  "geometry": {"coordinates":[-81.363104,33.250405],"type":"Point"}
+  "bbox": [
+    -81.363104,
+    33.250405,
+    -81.363104,
+    33.250405
+],
+  "geometry": {"coordinates":[-81.36310400000001,33.250405],"type":"Point"}
 }

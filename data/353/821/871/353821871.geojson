@@ -2,13 +2,14 @@
   "id": 353821871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.285384,33.379074,-79.285384,33.379074",
     "geom:latitude":33.379074,
     "geom:longitude":-79.285384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 Saville St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353821871,
-    "wof:lastmodified":1449019648,
+    "wof:lastmodified":1467082238,
     "wof:name":"Professional Video Productions",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-79.285384,33.379074,-79.285384,33.379074],
-  "geometry": {"coordinates":[-79.285384,33.379074],"type":"Point"}
+  "bbox": [
+    -79.285384,
+    33.379074,
+    -79.285384,
+    33.379074
+],
+  "geometry": {"coordinates":[-79.28538399999999,33.379074],"type":"Point"}
 }

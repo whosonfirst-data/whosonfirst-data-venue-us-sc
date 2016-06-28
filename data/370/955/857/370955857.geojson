@@ -2,13 +2,14 @@
   "id": 370955857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.736362,33.862207,-79.736362,33.862207",
     "geom:latitude":33.862207,
     "geom:longitude":-79.736362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"955 E Main St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370955857,
-    "wof:lastmodified":1449031431,
+    "wof:lastmodified":1467082350,
     "wof:name":"Coleman Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sleeping"
     ]
 },
-  "bbox": [-79.736362,33.862207,-79.736362,33.862207],
+  "bbox": [
+    -79.736362,
+    33.862207,
+    -79.736362,
+    33.862207
+],
   "geometry": {"coordinates":[-79.736362,33.862207],"type":"Point"}
 }

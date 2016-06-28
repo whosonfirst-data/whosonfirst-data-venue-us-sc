@@ -2,13 +2,14 @@
   "id": 370507715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.892105,33.49685,-81.892105,33.49685",
     "geom:latitude":33.49685,
     "geom:longitude":-81.892105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 Augusta Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370507715,
-    "wof:lastmodified":1449030822,
+    "wof:lastmodified":1467082336,
     "wof:name":"Friendly Mini Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.892105,33.49685,-81.892105,33.49685],
+  "bbox": [
+    -81.892105,
+    33.49685,
+    -81.892105,
+    33.49685
+],
   "geometry": {"coordinates":[-81.892105,33.49685],"type":"Point"}
 }

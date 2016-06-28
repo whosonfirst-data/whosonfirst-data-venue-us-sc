@@ -2,13 +2,14 @@
   "id": 370726113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.96204,34.975556,-81.96204,34.975556",
     "geom:latitude":34.975556,
     "geom:longitude":-81.96204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 el Paso St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370726113,
-    "wof:lastmodified":1449031398,
+    "wof:lastmodified":1467082349,
     "wof:name":"Coleman Pro Bail Bonding Co",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-81.96204,34.975556,-81.96204,34.975556],
+  "bbox": [
+    -81.96204,
+    34.975556,
+    -81.96204,
+    34.975556
+],
   "geometry": {"coordinates":[-81.96204,34.975556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370284861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.900382,33.201109,-79.900382,33.201109",
     "geom:latitude":33.201109,
     "geom:longitude":-79.900382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Deer Dog Ln",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370284861,
-    "wof:lastmodified":1449031193,
+    "wof:lastmodified":1467082345,
     "wof:name":"Kennys Siding Service",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.900382,33.201109,-79.900382,33.201109],
-  "geometry": {"coordinates":[-79.900382,33.201109],"type":"Point"}
+  "bbox": [
+    -79.900382,
+    33.201109,
+    -79.900382,
+    33.201109
+],
+  "geometry": {"coordinates":[-79.90038199999999,33.201109],"type":"Point"}
 }

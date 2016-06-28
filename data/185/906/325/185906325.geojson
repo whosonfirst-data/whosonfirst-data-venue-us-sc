@@ -2,13 +2,14 @@
   "id": 185906325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.115904,32.857128,-81.115904,32.857128",
     "geom:latitude":32.857128,
     "geom:longitude":-81.115904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Ginn Altman Ave",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185906325,
-    "wof:lastmodified":1449007218,
+    "wof:lastmodified":1467082192,
     "wof:name":"Hampton County Airport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "program"
     ]
 },
-  "bbox": [-81.115904,32.857128,-81.115904,32.857128],
+  "bbox": [
+    -81.115904,
+    32.857128,
+    -81.115904,
+    32.857128
+],
   "geometry": {"coordinates":[-81.115904,32.857128],"type":"Point"}
 }

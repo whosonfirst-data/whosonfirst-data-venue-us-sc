@@ -2,13 +2,14 @@
   "id": 185949955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.008237,33.6261,-79.008237,33.6261",
     "geom:latitude":33.6261,
     "geom:longitude":-79.008237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3198 Red Bird Ln",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185949955,
-    "wof:lastmodified":1449007604,
+    "wof:lastmodified":1467082198,
     "wof:name":"Norris E Short Jr",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"
     ]
 },
-  "bbox": [-79.008237,33.6261,-79.008237,33.6261],
-  "geometry": {"coordinates":[-79.008237,33.6261],"type":"Point"}
+  "bbox": [
+    -79.008237,
+    33.6261,
+    -79.008237,
+    33.6261
+],
+  "geometry": {"coordinates":[-79.00823699999999,33.6261],"type":"Point"}
 }

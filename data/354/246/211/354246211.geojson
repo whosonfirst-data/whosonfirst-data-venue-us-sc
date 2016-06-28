@@ -2,13 +2,14 @@
   "id": 354246211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.016999,34.001488,-81.016999,34.001488",
     "geom:latitude":34.001488,
     "geom:longitude":-81.016999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Harden St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354246211,
-    "wof:lastmodified":1449066048,
+    "wof:lastmodified":1467082417,
     "wof:name":"Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.016999,34.001488,-81.016999,34.001488],
+  "bbox": [
+    -81.016999,
+    34.001488,
+    -81.016999,
+    34.001488
+],
   "geometry": {"coordinates":[-81.016999,34.001488],"type":"Point"}
 }

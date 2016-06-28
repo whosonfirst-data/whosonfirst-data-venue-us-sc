@@ -2,13 +2,14 @@
   "id": 370711495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.960137,34.020596,-80.960137,34.020596",
     "geom:latitude":34.020596,
     "geom:longitude":-80.960137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5143 Forest Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370711495,
-    "wof:lastmodified":1449031853,
+    "wof:lastmodified":1467082360,
     "wof:name":"Buster's Bistro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.960137,34.020596,-80.960137,34.020596],
+  "bbox": [
+    -80.960137,
+    34.020596,
+    -80.960137,
+    34.020596
+],
   "geometry": {"coordinates":[-80.960137,34.020596],"type":"Point"}
 }

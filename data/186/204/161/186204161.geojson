@@ -2,13 +2,14 @@
   "id": 186204161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.829106,33.67907,-79.829106,33.67907",
     "geom:latitude":33.67907,
     "geom:longitude":-79.829106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 N Longstreet St",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186204161,
-    "wof:lastmodified":1449053100,
+    "wof:lastmodified":1467082413,
     "wof:name":"Autozone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-79.829106,33.67907,-79.829106,33.67907],
+  "bbox": [
+    -79.829106,
+    33.67907,
+    -79.829106,
+    33.67907
+],
   "geometry": {"coordinates":[-79.829106,33.67907],"type":"Point"}
 }

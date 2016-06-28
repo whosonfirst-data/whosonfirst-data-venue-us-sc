@@ -2,13 +2,14 @@
   "id": 370652741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.951352,32.815668,-79.951352,32.815668",
     "geom:latitude":32.815668,
     "geom:longitude":-79.951352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1427 King St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370652741,
-    "wof:lastmodified":1449031254,
+    "wof:lastmodified":1467082346,
     "wof:name":"Dialysis Clinic Inc",
     "wof:parent_id":85836137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-79.951352,32.815668,-79.951352,32.815668],
+  "bbox": [
+    -79.951352,
+    32.815668,
+    -79.951352,
+    32.815668
+],
   "geometry": {"coordinates":[-79.951352,32.815668],"type":"Point"}
 }

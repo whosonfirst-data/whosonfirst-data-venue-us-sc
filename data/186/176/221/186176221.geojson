@@ -2,13 +2,14 @@
   "id": 186176221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.928129,32.783415,-79.928129,32.783415",
     "geom:latitude":32.783415,
     "geom:longitude":-79.928129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"276 E Bay St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186176221,
-    "wof:lastmodified":1449052124,
+    "wof:lastmodified":1467082404,
     "wof:name":"Carolina First Bank",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.928129,32.783415,-79.928129,32.783415],
+  "bbox": [
+    -79.928129,
+    32.783415,
+    -79.928129,
+    32.783415
+],
   "geometry": {"coordinates":[-79.928129,32.783415],"type":"Point"}
 }

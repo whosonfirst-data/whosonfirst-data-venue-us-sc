@@ -2,13 +2,14 @@
   "id": 353836187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.783906,34.689299,-80.783906,34.689299",
     "geom:latitude":34.689299,
     "geom:longitude":-80.783906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1749 Airport Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353836187,
-    "wof:lastmodified":1449019925,
+    "wof:lastmodified":1467082244,
     "wof:name":"Dollar General",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.783906,34.689299,-80.783906,34.689299],
+  "bbox": [
+    -80.783906,
+    34.689299,
+    -80.783906,
+    34.689299
+],
   "geometry": {"coordinates":[-80.783906,34.689299],"type":"Point"}
 }

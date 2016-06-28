@@ -2,13 +2,14 @@
   "id": 337403969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.99448,33.799967,-78.99448,33.799967",
     "geom:latitude":33.799967,
     "geom:longitude":-78.99448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"759 Century Cir",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":337403969,
-    "wof:lastmodified":1449027631,
+    "wof:lastmodified":1467082291,
     "wof:name":"Partner Economics Dev Corp",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.99448,33.799967,-78.99448,33.799967],
+  "bbox": [
+    -78.99448,
+    33.799967,
+    -78.99448,
+    33.799967
+],
   "geometry": {"coordinates":[-78.99448,33.799967],"type":"Point"}
 }

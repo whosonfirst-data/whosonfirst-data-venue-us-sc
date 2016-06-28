@@ -2,13 +2,14 @@
   "id": 353552793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.96353,34.036703,-80.96353,34.036703",
     "geom:latitude":34.036703,
     "geom:longitude":-80.96353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Springwood Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353552793,
-    "wof:lastmodified":1449019313,
+    "wof:lastmodified":1467082231,
     "wof:name":"Rayl Construction L L C",
     "wof:parent_id":85838125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.96353,34.036703,-80.96353,34.036703],
-  "geometry": {"coordinates":[-80.96353,34.036703],"type":"Point"}
+  "bbox": [
+    -80.96353,
+    34.036703,
+    -80.96353,
+    34.036703
+],
+  "geometry": {"coordinates":[-80.96353000000001,34.036703],"type":"Point"}
 }

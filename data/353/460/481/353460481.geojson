@@ -2,13 +2,14 @@
   "id": 353460481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.376119,34.172658,-82.376119,34.172658",
     "geom:latitude":34.172658,
     "geom:longitude":-82.376119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Greenwood St",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353460481,
-    "wof:lastmodified":1449020652,
+    "wof:lastmodified":1467082259,
     "wof:name":"Palmetto Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.376119,34.172658,-82.376119,34.172658],
+  "bbox": [
+    -82.376119,
+    34.172658,
+    -82.376119,
+    34.172658
+],
   "geometry": {"coordinates":[-82.376119,34.172658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370541719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.73882,32.169055,-80.73882,32.169055",
     "geom:latitude":32.169055,
     "geom:longitude":-80.73882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 William Hilton Pkwy",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370541719,
-    "wof:lastmodified":1449029461,
+    "wof:lastmodified":1467082306,
     "wof:name":"Ocean Motion",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-80.73882,32.169055,-80.73882,32.169055],
+  "bbox": [
+    -80.73882,
+    32.169055,
+    -80.73882,
+    32.169055
+],
   "geometry": {"coordinates":[-80.73882,32.169055],"type":"Point"}
 }

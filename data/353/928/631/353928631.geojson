@@ -2,13 +2,14 @@
   "id": 353928631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.573661,34.128635,-80.573661,34.128635",
     "geom:latitude":34.128635,
     "geom:longitude":-80.573661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Boykin Mill Rd",
     "sg:city":"Rembert",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353928631,
-    "wof:lastmodified":1449020449,
+    "wof:lastmodified":1467082255,
     "wof:name":"Broom Place",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broom"
     ]
 },
-  "bbox": [-80.573661,34.128635,-80.573661,34.128635],
+  "bbox": [
+    -80.573661,
+    34.128635,
+    -80.573661,
+    34.128635
+],
   "geometry": {"coordinates":[-80.573661,34.128635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186108529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.691085,33.595571,-81.691085,33.595571",
     "geom:latitude":33.595571,
     "geom:longitude":-81.691085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1594 Columbia Hwy N",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186108529,
-    "wof:lastmodified":1449050308,
+    "wof:lastmodified":1467082389,
     "wof:name":"Truck Service",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-81.691085,33.595571,-81.691085,33.595571],
+  "bbox": [
+    -81.691085,
+    33.595571,
+    -81.691085,
+    33.595571
+],
   "geometry": {"coordinates":[-81.691085,33.595571],"type":"Point"}
 }

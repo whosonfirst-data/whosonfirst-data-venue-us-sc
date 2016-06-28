@@ -2,13 +2,14 @@
   "id": 370215111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.679357,34.347461,-80.679357,34.347461",
     "geom:latitude":34.347461,
     "geom:longitude":-80.679357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1142 Gaines Church Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370215111,
-    "wof:lastmodified":1449031887,
+    "wof:lastmodified":1467082360,
     "wof:name":"Bobby's Heating & Cooling",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.679357,34.347461,-80.679357,34.347461],
+  "bbox": [
+    -80.679357,
+    34.347461,
+    -80.679357,
+    34.347461
+],
   "geometry": {"coordinates":[-80.679357,34.347461],"type":"Point"}
 }

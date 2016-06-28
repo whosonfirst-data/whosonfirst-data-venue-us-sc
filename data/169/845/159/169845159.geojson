@@ -2,13 +2,14 @@
   "id": 169845159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.972989,34.923769,-81.972989,34.923769",
     "geom:latitude":34.923769,
     "geom:longitude":-81.972989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Reidville Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169845159,
-    "wof:lastmodified":1449033231,
+    "wof:lastmodified":1467082379,
     "wof:name":"Sir Tom's Tobacco Emporium",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.972989,34.923769,-81.972989,34.923769],
+  "bbox": [
+    -81.972989,
+    34.923769,
+    -81.972989,
+    34.923769
+],
   "geometry": {"coordinates":[-81.972989,34.923769],"type":"Point"}
 }

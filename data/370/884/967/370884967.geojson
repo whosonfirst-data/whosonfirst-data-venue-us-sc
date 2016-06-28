@@ -2,13 +2,14 @@
   "id": 370884967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.917589,34.949478,-81.917589,34.949478",
     "geom:latitude":34.949478,
     "geom:longitude":-81.917589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"453 E Henry St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370884967,
-    "wof:lastmodified":1449031828,
+    "wof:lastmodified":1467082359,
     "wof:name":"Central Carolina Bank",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.917589,34.949478,-81.917589,34.949478],
-  "geometry": {"coordinates":[-81.917589,34.949478],"type":"Point"}
+  "bbox": [
+    -81.917589,
+    34.949478,
+    -81.917589,
+    34.949478
+],
+  "geometry": {"coordinates":[-81.91758900000001,34.949478],"type":"Point"}
 }

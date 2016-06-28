@@ -2,13 +2,14 @@
   "id": 354146261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.070701,34.749271,-83.070701,34.749271",
     "geom:latitude":34.749271,
     "geom:longitude":-83.070701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2220 Westminster Hwy",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354146261,
-    "wof:lastmodified":1449066625,
+    "wof:lastmodified":1467082430,
     "wof:name":"Doves Nest",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.070701,34.749271,-83.070701,34.749271],
+  "bbox": [
+    -83.070701,
+    34.749271,
+    -83.070701,
+    34.749271
+],
   "geometry": {"coordinates":[-83.070701,34.749271],"type":"Point"}
 }

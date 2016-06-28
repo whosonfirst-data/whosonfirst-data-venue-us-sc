@@ -2,13 +2,14 @@
   "id": 185892717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.835204,32.891331,-79.835204,32.891331",
     "geom:latitude":32.891331,
     "geom:longitude":-79.835204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1952 Shields Ln",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185892717,
-    "wof:lastmodified":1449006842,
+    "wof:lastmodified":1467082186,
     "wof:name":"Resco Tower",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.835204,32.891331,-79.835204,32.891331],
+  "bbox": [
+    -79.835204,
+    32.891331,
+    -79.835204,
+    32.891331
+],
   "geometry": {"coordinates":[-79.835204,32.891331],"type":"Point"}
 }

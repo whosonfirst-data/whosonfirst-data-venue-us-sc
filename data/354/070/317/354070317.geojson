@@ -2,13 +2,14 @@
   "id": 354070317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.066484,33.01659,-80.066484,33.01659",
     "geom:latitude":33.01659,
     "geom:longitude":-80.066484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Centennial Blvd",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354070317,
-    "wof:lastmodified":1449066740,
+    "wof:lastmodified":1467082433,
     "wof:name":"Pinewood House",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "residential"
     ]
 },
-  "bbox": [-80.066484,33.01659,-80.066484,33.01659],
+  "bbox": [
+    -80.066484,
+    33.01659,
+    -80.066484,
+    33.01659
+],
   "geometry": {"coordinates":[-80.066484,33.01659],"type":"Point"}
 }

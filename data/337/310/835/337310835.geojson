@@ -2,13 +2,14 @@
   "id": 337310835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.01259,32.868595,-80.01259,32.868595",
     "geom:latitude":32.868595,
     "geom:longitude":-80.01259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2941 W Montague Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337310835,
-    "wof:lastmodified":1449027451,
+    "wof:lastmodified":1467082284,
     "wof:name":"Bojangles' Famous Chicken",
     "wof:parent_id":85807225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.01259,32.868595,-80.01259,32.868595],
+  "bbox": [
+    -80.01259,
+    32.868595,
+    -80.01259,
+    32.868595
+],
   "geometry": {"coordinates":[-80.01259,32.868595],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337355243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.189005,34.105033,-81.189005,34.105033",
     "geom:latitude":34.105033,
     "geom:longitude":-81.189005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Charing Cross Rd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337355243,
-    "wof:lastmodified":1449027167,
+    "wof:lastmodified":1467082274,
     "wof:name":"Babcock Center Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "group"
     ]
 },
-  "bbox": [-81.189005,34.105033,-81.189005,34.105033],
-  "geometry": {"coordinates":[-81.189005,34.105033],"type":"Point"}
+  "bbox": [
+    -81.189005,
+    34.105033,
+    -81.189005,
+    34.105033
+],
+  "geometry": {"coordinates":[-81.18900499999999,34.105033],"type":"Point"}
 }

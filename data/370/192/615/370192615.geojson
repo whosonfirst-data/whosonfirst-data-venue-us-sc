@@ -2,13 +2,14 @@
   "id": 370192615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.40093,34.837307,-82.40093,34.837307",
     "geom:latitude":34.837307,
     "geom:longitude":-82.40093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"969 S Church St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370192615,
-    "wof:lastmodified":1449031486,
+    "wof:lastmodified":1467082351,
     "wof:name":"Corner Mart",
     "wof:parent_id":85802935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.40093,34.837307,-82.40093,34.837307],
+  "bbox": [
+    -82.40093,
+    34.837307,
+    -82.40093,
+    34.837307
+],
   "geometry": {"coordinates":[-82.40093,34.837307],"type":"Point"}
 }

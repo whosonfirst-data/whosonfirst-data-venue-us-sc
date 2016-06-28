@@ -2,13 +2,14 @@
   "id": 370841479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.728401,34.803148,-82.728401,34.803148",
     "geom:latitude":34.803148,
     "geom:longitude":-82.728401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Stewart Gin Rd",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370841479,
-    "wof:lastmodified":1449029805,
+    "wof:lastmodified":1467082314,
     "wof:name":"Cwy Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.728401,34.803148,-82.728401,34.803148],
-  "geometry": {"coordinates":[-82.728401,34.803148],"type":"Point"}
+  "bbox": [
+    -82.728401,
+    34.803148,
+    -82.728401,
+    34.803148
+],
+  "geometry": {"coordinates":[-82.72840100000001,34.803148],"type":"Point"}
 }

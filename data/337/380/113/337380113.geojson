@@ -2,13 +2,14 @@
   "id": 337380113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.857073,32.791494,-79.857073,32.791494",
     "geom:latitude":32.791494,
     "geom:longitude":-79.857073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Heather Dr",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337380113,
-    "wof:lastmodified":1449027322,
+    "wof:lastmodified":1467082280,
     "wof:name":"Crosstown Ministries & Svc Inc",
     "wof:parent_id":85823907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.857073,32.791494,-79.857073,32.791494],
+  "bbox": [
+    -79.857073,
+    32.791494,
+    -79.857073,
+    32.791494
+],
   "geometry": {"coordinates":[-79.857073,32.791494],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185881211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.853792,34.091595,-80.853792,34.091595",
     "geom:latitude":34.091595,
     "geom:longitude":-80.853792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Chalice Ln",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185881211,
-    "wof:lastmodified":1449007544,
+    "wof:lastmodified":1467082197,
     "wof:name":"Sparkleberry Hill Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.853792,34.091595,-80.853792,34.091595],
+  "bbox": [
+    -80.853792,
+    34.091595,
+    -80.853792,
+    34.091595
+],
   "geometry": {"coordinates":[-80.853792,34.091595],"type":"Point"}
 }

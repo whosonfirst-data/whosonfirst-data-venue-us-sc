@@ -2,13 +2,14 @@
   "id": 186168179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.949378,32.732331,-79.949378,32.732331",
     "geom:latitude":32.732331,
     "geom:longitude":-79.949378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1228 Cornwallis Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186168179,
-    "wof:lastmodified":1449051775,
+    "wof:lastmodified":1467082401,
     "wof:name":"Diversified Woods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "carpenter"
     ]
 },
-  "bbox": [-79.949378,32.732331,-79.949378,32.732331],
+  "bbox": [
+    -79.949378,
+    32.732331,
+    -79.949378,
+    32.732331
+],
   "geometry": {"coordinates":[-79.949378,32.732331],"type":"Point"}
 }

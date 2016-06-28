@@ -2,13 +2,14 @@
   "id": 186138749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.786742,34.196219,-79.786742,34.196219",
     "geom:latitude":34.196219,
     "geom:longitude":-79.786742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 W Evans St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186138749,
-    "wof:lastmodified":1449051147,
+    "wof:lastmodified":1467082395,
     "wof:name":"Check Casher Of Florence",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-79.786742,34.196219,-79.786742,34.196219],
+  "bbox": [
+    -79.786742,
+    34.196219,
+    -79.786742,
+    34.196219
+],
   "geometry": {"coordinates":[-79.786742,34.196219],"type":"Point"}
 }

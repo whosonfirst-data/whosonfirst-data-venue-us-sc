@@ -2,13 +2,14 @@
   "id": 354001961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.566642,34.269491,-80.566642,34.269491",
     "geom:latitude":34.269491,
     "geom:longitude":-80.566642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2003 Jefferson Davis Hwy",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354001961,
-    "wof:lastmodified":1449066314,
+    "wof:lastmodified":1467082423,
     "wof:name":"B J's Country Karaoke",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "karaoke"
     ]
 },
-  "bbox": [-80.566642,34.269491,-80.566642,34.269491],
+  "bbox": [
+    -80.566642,
+    34.269491,
+    -80.566642,
+    34.269491
+],
   "geometry": {"coordinates":[-80.566642,34.269491],"type":"Point"}
 }

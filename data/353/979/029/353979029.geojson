@@ -2,13 +2,14 @@
   "id": 353979029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.825204,34.174955,-79.825204,34.174955",
     "geom:latitude":34.174955,
     "geom:longitude":-79.825204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2711 W Swinney Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353979029,
-    "wof:lastmodified":1449020048,
+    "wof:lastmodified":1467082246,
     "wof:name":"Mustard Seed",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "seed"
     ]
 },
-  "bbox": [-79.825204,34.174955,-79.825204,34.174955],
+  "bbox": [
+    -79.825204,
+    34.174955,
+    -79.825204,
+    34.174955
+],
   "geometry": {"coordinates":[-79.825204,34.174955],"type":"Point"}
 }

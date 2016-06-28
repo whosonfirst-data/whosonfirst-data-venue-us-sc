@@ -2,13 +2,14 @@
   "id": 370627139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.026885,34.959025,-82.026885,34.959025",
     "geom:latitude":34.959025,
     "geom:longitude":-82.026885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Walden Cir",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370627139,
-    "wof:lastmodified":1449032550,
+    "wof:lastmodified":1467082375,
     "wof:name":"Community Training Hm II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "training"
     ]
 },
-  "bbox": [-82.026885,34.959025,-82.026885,34.959025],
-  "geometry": {"coordinates":[-82.026885,34.959025],"type":"Point"}
+  "bbox": [
+    -82.026885,
+    34.959025,
+    -82.026885,
+    34.959025
+],
+  "geometry": {"coordinates":[-82.02688499999999,34.959025],"type":"Point"}
 }

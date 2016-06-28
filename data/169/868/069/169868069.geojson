@@ -2,13 +2,14 @@
   "id": 169868069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.651918,34.328742,-80.651918,34.328742",
     "geom:latitude":34.328742,
     "geom:longitude":-80.651918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 Pine Oak Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169868069,
-    "wof:lastmodified":1449032841,
+    "wof:lastmodified":1467082377,
     "wof:name":"Wateree Construction & Imprv",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.651918,34.328742,-80.651918,34.328742],
-  "geometry": {"coordinates":[-80.651918,34.328742],"type":"Point"}
+  "bbox": [
+    -80.651918,
+    34.328742,
+    -80.651918,
+    34.328742
+],
+  "geometry": {"coordinates":[-80.65191799999999,34.328742],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354275243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.870216,35.150484,-81.870216,35.150484",
     "geom:latitude":35.150484,
     "geom:longitude":-81.870216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Fairfield St",
     "sg:city":"Chesnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354275243,
-    "wof:lastmodified":1449066456,
+    "wof:lastmodified":1467082426,
     "wof:name":"Friends & Christ United Meth",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.870216,35.150484,-81.870216,35.150484],
+  "bbox": [
+    -81.870216,
+    35.150484,
+    -81.870216,
+    35.150484
+],
   "geometry": {"coordinates":[-81.870216,35.150484],"type":"Point"}
 }

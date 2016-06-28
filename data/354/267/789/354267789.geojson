@@ -2,13 +2,14 @@
   "id": 354267789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.985057,32.789518,-79.985057,32.789518",
     "geom:latitude":32.789518,
     "geom:longitude":-79.985057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"768 Saint Andrews Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354267789,
-    "wof:lastmodified":1449067514,
+    "wof:lastmodified":1467082451,
     "wof:name":"Save The Light Inc",
     "wof:parent_id":85803739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.985057,32.789518,-79.985057,32.789518],
+  "bbox": [
+    -79.985057,
+    32.789518,
+    -79.985057,
+    32.789518
+],
   "geometry": {"coordinates":[-79.985057,32.789518],"type":"Point"}
 }

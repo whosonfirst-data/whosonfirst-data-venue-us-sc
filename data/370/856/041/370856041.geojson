@@ -2,13 +2,14 @@
   "id": 370856041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.954308,33.652927,-78.954308,33.652927",
     "geom:latitude":33.652927,
     "geom:longitude":-78.954308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 Cirus Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370856041,
-    "wof:lastmodified":1449030069,
+    "wof:lastmodified":1467082320,
     "wof:name":"Bairefoot's Magic",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magician"
     ]
 },
-  "bbox": [-78.954308,33.652927,-78.954308,33.652927],
+  "bbox": [
+    -78.954308,
+    33.652927,
+    -78.954308,
+    33.652927
+],
   "geometry": {"coordinates":[-78.954308,33.652927],"type":"Point"}
 }

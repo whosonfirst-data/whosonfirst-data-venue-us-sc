@@ -2,13 +2,14 @@
   "id": 354086877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.983178,35.095087,-81.983178,35.095087",
     "geom:latitude":35.095087,
     "geom:longitude":-81.983178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"177 Bent Tree Dr",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354086877,
-    "wof:lastmodified":1449067116,
+    "wof:lastmodified":1467082441,
     "wof:name":"Danny Hamricks Painting",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.983178,35.095087,-81.983178,35.095087],
+  "bbox": [
+    -81.983178,
+    35.095087,
+    -81.983178,
+    35.095087
+],
   "geometry": {"coordinates":[-81.983178,35.095087],"type":"Point"}
 }

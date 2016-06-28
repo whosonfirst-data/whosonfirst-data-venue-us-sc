@@ -2,13 +2,14 @@
   "id": 353585055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.418687,34.164441,-82.418687,34.164441",
     "geom:latitude":34.164441,
     "geom:longitude":-82.418687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Old Calhoun Falls Rd",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353585055,
-    "wof:lastmodified":1449019942,
+    "wof:lastmodified":1467082244,
     "wof:name":"Plexco/Shipping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-82.418687,34.164441,-82.418687,34.164441],
-  "geometry": {"coordinates":[-82.418687,34.164441],"type":"Point"}
+  "bbox": [
+    -82.418687,
+    34.164441,
+    -82.418687,
+    34.164441
+],
+  "geometry": {"coordinates":[-82.41868700000001,34.164441],"type":"Point"}
 }

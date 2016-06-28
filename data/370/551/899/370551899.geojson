@@ -2,13 +2,14 @@
   "id": 370551899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.840542,34.69174,-82.840542,34.69174",
     "geom:latitude":34.69174,
     "geom:longitude":-82.840542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Tiger Blvd",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370551899,
-    "wof:lastmodified":1449029777,
+    "wof:lastmodified":1467082313,
     "wof:name":"Air Force Recruting",
     "wof:parent_id":85808845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-82.840542,34.69174,-82.840542,34.69174],
+  "bbox": [
+    -82.840542,
+    34.69174,
+    -82.840542,
+    34.69174
+],
   "geometry": {"coordinates":[-82.840542,34.69174],"type":"Point"}
 }

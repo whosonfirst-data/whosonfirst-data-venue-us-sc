@@ -2,13 +2,14 @@
   "id": 337399259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.809604,34.177507,-79.809604,34.177507",
     "geom:latitude":34.177507,
     "geom:longitude":-79.809604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 S Cashua Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337399259,
-    "wof:lastmodified":1449027066,
+    "wof:lastmodified":1467082270,
     "wof:name":"Solar Event Group",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "solar"
     ]
 },
-  "bbox": [-79.809604,34.177507,-79.809604,34.177507],
-  "geometry": {"coordinates":[-79.809604,34.177507],"type":"Point"}
+  "bbox": [
+    -79.809604,
+    34.177507,
+    -79.809604,
+    34.177507
+],
+  "geometry": {"coordinates":[-79.80960399999999,34.177507],"type":"Point"}
 }

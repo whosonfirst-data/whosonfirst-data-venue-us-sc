@@ -2,13 +2,14 @@
   "id": 186080707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.898903,34.964157,-81.898903,34.964157",
     "geom:latitude":34.964157,
     "geom:longitude":-81.898903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1534 E Main St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186080707,
-    "wof:lastmodified":1449052965,
+    "wof:lastmodified":1467082412,
     "wof:name":"Tread Quarters Discount Tire",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-81.898903,34.964157,-81.898903,34.964157],
+  "bbox": [
+    -81.898903,
+    34.964157,
+    -81.898903,
+    34.964157
+],
   "geometry": {"coordinates":[-81.898903,34.964157],"type":"Point"}
 }

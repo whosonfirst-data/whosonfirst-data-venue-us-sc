@@ -2,13 +2,14 @@
   "id": 354159059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.989551,34.045193,-80.989551,34.045193",
     "geom:latitude":34.045193,
     "geom:longitude":-80.989551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5120 Notch Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354159059,
-    "wof:lastmodified":1449066142,
+    "wof:lastmodified":1467082419,
     "wof:name":"Tbs Communications",
     "wof:parent_id":85820469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-80.989551,34.045193,-80.989551,34.045193],
-  "geometry": {"coordinates":[-80.989551,34.045193],"type":"Point"}
+  "bbox": [
+    -80.989551,
+    34.045193,
+    -80.989551,
+    34.045193
+],
+  "geometry": {"coordinates":[-80.98955100000001,34.045193],"type":"Point"}
 }

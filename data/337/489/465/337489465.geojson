@@ -2,13 +2,14 @@
   "id": 337489465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.022479,34.00481,-81.022479,34.00481",
     "geom:latitude":34.00481,
     "geom:longitude":-81.022479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 Gervais St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337489465,
-    "wof:lastmodified":1449027388,
+    "wof:lastmodified":1467082282,
     "wof:name":"Capital City Collections",
     "wof:parent_id":85854837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-81.022479,34.00481,-81.022479,34.00481],
+  "bbox": [
+    -81.022479,
+    34.00481,
+    -81.022479,
+    34.00481
+],
   "geometry": {"coordinates":[-81.022479,34.00481],"type":"Point"}
 }

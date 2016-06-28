@@ -2,13 +2,14 @@
   "id": 370412205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.673361,32.486143,-80.673361,32.486143",
     "geom:latitude":32.486143,
     "geom:longitude":-80.673361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Brickyard Point Rd N",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370412205,
-    "wof:lastmodified":1449029783,
+    "wof:lastmodified":1467082313,
     "wof:name":"AAA Cooling & Heating",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.673361,32.486143,-80.673361,32.486143],
+  "bbox": [
+    -80.673361,
+    32.486143,
+    -80.673361,
+    32.486143
+],
   "geometry": {"coordinates":[-80.673361,32.486143],"type":"Point"}
 }

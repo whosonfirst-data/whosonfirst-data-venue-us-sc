@@ -2,13 +2,14 @@
   "id": 353477227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.943898,33.965991,-80.943898,33.965991",
     "geom:latitude":33.965991,
     "geom:longitude":-80.943898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7406 Garners Ferry Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353477227,
-    "wof:lastmodified":1449018683,
+    "wof:lastmodified":1467082218,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.943898,33.965991,-80.943898,33.965991],
+  "bbox": [
+    -80.943898,
+    33.965991,
+    -80.943898,
+    33.965991
+],
   "geometry": {"coordinates":[-80.943898,33.965991],"type":"Point"}
 }

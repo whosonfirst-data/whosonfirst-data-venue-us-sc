@@ -2,13 +2,14 @@
   "id": 370923707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.413906,34.84259,-82.413906,34.84259",
     "geom:latitude":34.84259,
     "geom:longitude":-82.413906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"598 Pendleton St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370923707,
-    "wof:lastmodified":1449032357,
+    "wof:lastmodified":1467082371,
     "wof:name":"Pete's Original Restaurant",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.413906,34.84259,-82.413906,34.84259],
+  "bbox": [
+    -82.413906,
+    34.84259,
+    -82.413906,
+    34.84259
+],
   "geometry": {"coordinates":[-82.413906,34.84259],"type":"Point"}
 }

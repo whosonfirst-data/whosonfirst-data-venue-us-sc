@@ -2,13 +2,14 @@
   "id": 370271973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.164583,34.001421,-81.164583,34.001421",
     "geom:latitude":34.001421,
     "geom:longitude":-81.164583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"789 Oak Dr",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370271973,
-    "wof:lastmodified":1449030856,
+    "wof:lastmodified":1467082337,
     "wof:name":"Southern Signatures LLC",
     "wof:parent_id":85864289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.164583,34.001421,-81.164583,34.001421],
-  "geometry": {"coordinates":[-81.164583,34.001421],"type":"Point"}
+  "bbox": [
+    -81.164583,
+    34.001421,
+    -81.164583,
+    34.001421
+],
+  "geometry": {"coordinates":[-81.16458299999999,34.001421],"type":"Point"}
 }

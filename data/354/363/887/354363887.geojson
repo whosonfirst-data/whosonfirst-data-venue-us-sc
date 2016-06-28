@@ -2,13 +2,14 @@
   "id": 354363887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.413539,33.989814,-80.413539,33.989814",
     "geom:latitude":33.989814,
     "geom:longitude":-80.413539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2710 Thomas Sumter Hwy",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354363887,
-    "wof:lastmodified":1449067466,
+    "wof:lastmodified":1467082449,
     "wof:name":"Kinsey Kustoms",
     "wof:parent_id":85814545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "motor"
     ]
 },
-  "bbox": [-80.413539,33.989814,-80.413539,33.989814],
+  "bbox": [
+    -80.413539,
+    33.989814,
+    -80.413539,
+    33.989814
+],
   "geometry": {"coordinates":[-80.413539,33.989814],"type":"Point"}
 }

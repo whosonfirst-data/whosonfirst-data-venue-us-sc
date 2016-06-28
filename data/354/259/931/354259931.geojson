@@ -2,13 +2,14 @@
   "id": 354259931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.647782,35.074742,-81.647782,35.074742",
     "geom:latitude":35.074742,
     "geom:longitude":-81.647782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N Limestone St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354259931,
-    "wof:lastmodified":1449066322,
+    "wof:lastmodified":1467082423,
     "wof:name":"B B & B Of Gaffany",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.647782,35.074742,-81.647782,35.074742],
-  "geometry": {"coordinates":[-81.647782,35.074742],"type":"Point"}
+  "bbox": [
+    -81.647782,
+    35.074742,
+    -81.647782,
+    35.074742
+],
+  "geometry": {"coordinates":[-81.64778200000001,35.074742],"type":"Point"}
 }

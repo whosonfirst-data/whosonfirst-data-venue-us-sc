@@ -2,13 +2,14 @@
   "id": 186005883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.740024,32.198237,-80.740024,32.198237",
     "geom:latitude":32.198237,
     "geom:longitude":-80.740024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Shaftsbury Ln",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186005883,
-    "wof:lastmodified":1449052812,
+    "wof:lastmodified":1467082411,
     "wof:name":"Unishippers Association",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-80.740024,32.198237,-80.740024,32.198237],
-  "geometry": {"coordinates":[-80.740024,32.198237],"type":"Point"}
+  "bbox": [
+    -80.740024,
+    32.198237,
+    -80.740024,
+    32.198237
+],
+  "geometry": {"coordinates":[-80.74002400000001,32.198237],"type":"Point"}
 }

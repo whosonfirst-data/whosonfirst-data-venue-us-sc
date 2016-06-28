@@ -2,13 +2,14 @@
   "id": 353758627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.474171,33.33945,-79.474171,33.33945",
     "geom:latitude":33.33945,
     "geom:longitude":-79.474171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1715 Powell Rd",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353758627,
-    "wof:lastmodified":1449019035,
+    "wof:lastmodified":1467082225,
     "wof:name":"Bryant Electrical Svc",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.474171,33.33945,-79.474171,33.33945],
+  "bbox": [
+    -79.474171,
+    33.33945,
+    -79.474171,
+    33.33945
+],
   "geometry": {"coordinates":[-79.474171,33.33945],"type":"Point"}
 }

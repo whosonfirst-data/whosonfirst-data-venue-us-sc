@@ -2,13 +2,14 @@
   "id": 337290013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.30675,34.786511,-82.30675,34.786511",
     "geom:latitude":34.786511,
     "geom:longitude":-82.30675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Miller Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337290013,
-    "wof:lastmodified":1449027289,
+    "wof:lastmodified":1467082278,
     "wof:name":"Professional Coffee Svc Inc",
     "wof:parent_id":85851381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.30675,34.786511,-82.30675,34.786511],
-  "geometry": {"coordinates":[-82.30675,34.786511],"type":"Point"}
+  "bbox": [
+    -82.30675,
+    34.786511,
+    -82.30675,
+    34.786511
+],
+  "geometry": {"coordinates":[-82.30674999999999,34.786511],"type":"Point"}
 }

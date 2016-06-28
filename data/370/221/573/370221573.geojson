@@ -2,13 +2,14 @@
   "id": 370221573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.343762,33.917327,-80.343762,33.917327",
     "geom:latitude":33.917327,
     "geom:longitude":-80.343762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 W Bartlette St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370221573,
-    "wof:lastmodified":1449030581,
+    "wof:lastmodified":1467082331,
     "wof:name":"Homes Plus Realty",
     "wof:parent_id":85850119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manager"
     ]
 },
-  "bbox": [-80.343762,33.917327,-80.343762,33.917327],
+  "bbox": [
+    -80.343762,
+    33.917327,
+    -80.343762,
+    33.917327
+],
   "geometry": {"coordinates":[-80.343762,33.917327],"type":"Point"}
 }

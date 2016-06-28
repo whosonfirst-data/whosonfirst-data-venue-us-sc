@@ -2,13 +2,14 @@
   "id": 370840863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.812596,34.589003,-82.812596,34.589003",
     "geom:latitude":34.589003,
     "geom:longitude":-82.812596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Clemson Research Blvd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370840863,
-    "wof:lastmodified":1449031721,
+    "wof:lastmodified":1467082357,
     "wof:name":"Tile Council Of America Inc",
     "wof:parent_id":85858639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trade"
     ]
 },
-  "bbox": [-82.812596,34.589003,-82.812596,34.589003],
+  "bbox": [
+    -82.812596,
+    34.589003,
+    -82.812596,
+    34.589003
+],
   "geometry": {"coordinates":[-82.812596,34.589003],"type":"Point"}
 }

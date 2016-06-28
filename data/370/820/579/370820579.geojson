@@ -2,13 +2,14 @@
   "id": 370820579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.085308,34.363196,-81.085308,34.363196",
     "geom:latitude":34.363196,
     "geom:longitude":-81.085308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 US Hwy 321 Bus",
     "sg:city":"Winnsboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370820579,
-    "wof:lastmodified":1449030829,
+    "wof:lastmodified":1467082336,
     "wof:name":"Friedmans Jewelers 5573",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.085308,34.363196,-81.085308,34.363196],
+  "bbox": [
+    -81.085308,
+    34.363196,
+    -81.085308,
+    34.363196
+],
   "geometry": {"coordinates":[-81.085308,34.363196],"type":"Point"}
 }

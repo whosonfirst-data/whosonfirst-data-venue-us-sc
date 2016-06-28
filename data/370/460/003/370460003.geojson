@@ -2,13 +2,14 @@
   "id": 370460003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.735393,32.384912,-80.735393,32.384912",
     "geom:latitude":32.384912,
     "geom:longitude":-80.735393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6005 Dowlingwood Dr",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370460003,
-    "wof:lastmodified":1449032281,
+    "wof:lastmodified":1467082369,
     "wof:name":"Mock Construction Co Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.735393,32.384912,-80.735393,32.384912],
+  "bbox": [
+    -80.735393,
+    32.384912,
+    -80.735393,
+    32.384912
+],
   "geometry": {"coordinates":[-80.735393,32.384912],"type":"Point"}
 }

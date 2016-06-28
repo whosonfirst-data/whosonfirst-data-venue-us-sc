@@ -2,13 +2,14 @@
   "id": 354254731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.93535,34.967843,-81.93535,34.967843",
     "geom:latitude":34.967843,
     "geom:longitude":-81.93535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 E Wood St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354254731,
-    "wof:lastmodified":1449067143,
+    "wof:lastmodified":1467082442,
     "wof:name":"Foothills Cardiothoracic",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.93535,34.967843,-81.93535,34.967843],
+  "bbox": [
+    -81.93535,
+    34.967843,
+    -81.93535,
+    34.967843
+],
   "geometry": {"coordinates":[-81.93535,34.967843],"type":"Point"}
 }

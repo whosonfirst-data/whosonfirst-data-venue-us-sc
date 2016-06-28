@@ -2,13 +2,14 @@
   "id": 185656657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.661105,35.082827,-81.661105,35.082827",
     "geom:latitude":35.082827,
     "geom:longitude":-81.661105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Stacy Dr",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185656657,
-    "wof:lastmodified":1449007644,
+    "wof:lastmodified":1467082198,
     "wof:name":"Traffic JAMZ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "radio"
     ]
 },
-  "bbox": [-81.661105,35.082827,-81.661105,35.082827],
-  "geometry": {"coordinates":[-81.661105,35.082827],"type":"Point"}
+  "bbox": [
+    -81.661105,
+    35.082827,
+    -81.661105,
+    35.082827
+],
+  "geometry": {"coordinates":[-81.66110500000001,35.082827],"type":"Point"}
 }

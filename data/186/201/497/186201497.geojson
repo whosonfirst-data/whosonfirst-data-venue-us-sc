@@ -2,13 +2,14 @@
   "id": 186201497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.751313,32.883623,-79.751313,32.883623",
     "geom:latitude":32.883623,
     "geom:longitude":-79.751313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3815 US Hwy 17 N",
     "sg:city":"Awendaw",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186201497,
-    "wof:lastmodified":1449052661,
+    "wof:lastmodified":1467082409,
     "wof:name":"A and T Construction Company",
     "wof:parent_id":85842745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.751313,32.883623,-79.751313,32.883623],
+  "bbox": [
+    -79.751313,
+    32.883623,
+    -79.751313,
+    32.883623
+],
   "geometry": {"coordinates":[-79.751313,32.883623],"type":"Point"}
 }

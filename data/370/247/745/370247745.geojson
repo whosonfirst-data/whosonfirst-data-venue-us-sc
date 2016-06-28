@@ -2,13 +2,14 @@
   "id": 370247745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.127623,34.20584,-82.127623,34.20584",
     "geom:latitude":34.20584,
     "geom:longitude":-82.127623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 N Emerald Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370247745,
-    "wof:lastmodified":1449031060,
+    "wof:lastmodified":1467082342,
     "wof:name":"Mann's Welding & Fabricating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "shop"
     ]
 },
-  "bbox": [-82.127623,34.20584,-82.127623,34.20584],
+  "bbox": [
+    -82.127623,
+    34.20584,
+    -82.127623,
+    34.20584
+],
   "geometry": {"coordinates":[-82.127623,34.20584],"type":"Point"}
 }

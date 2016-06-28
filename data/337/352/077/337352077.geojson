@@ -2,13 +2,14 @@
   "id": 337352077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.200865,34.691388,-82.200865,34.691388",
     "geom:latitude":34.691388,
     "geom:longitude":-82.200865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Jones St",
     "sg:city":"Fountain Inn",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337352077,
-    "wof:lastmodified":1449027446,
+    "wof:lastmodified":1467082284,
     "wof:name":"City-Fountain Inn Mntnc Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.200865,34.691388,-82.200865,34.691388],
-  "geometry": {"coordinates":[-82.200865,34.691388],"type":"Point"}
+  "bbox": [
+    -82.200865,
+    34.691388,
+    -82.200865,
+    34.691388
+],
+  "geometry": {"coordinates":[-82.20086499999999,34.691388],"type":"Point"}
 }

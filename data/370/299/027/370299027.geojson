@@ -2,13 +2,14 @@
   "id": 370299027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.350332,34.910719,-82.350332,34.910719",
     "geom:latitude":34.910719,
     "geom:longitude":-82.350332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Titleist Ct",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370299027,
-    "wof:lastmodified":1449029954,
+    "wof:lastmodified":1467082317,
     "wof:name":"Aqua Sta-Clean Pool Svc Co",
     "wof:parent_id":85857455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-82.350332,34.910719,-82.350332,34.910719],
-  "geometry": {"coordinates":[-82.350332,34.910719],"type":"Point"}
+  "bbox": [
+    -82.350332,
+    34.910719,
+    -82.350332,
+    34.910719
+],
+  "geometry": {"coordinates":[-82.35033199999999,34.910719],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354200243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.90587,34.908724,-80.90587,34.908724",
     "geom:latitude":34.908724,
     "geom:longitude":-80.90587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1640 Old Friendship Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354200243,
-    "wof:lastmodified":1449066598,
+    "wof:lastmodified":1467082430,
     "wof:name":"Outdoor Service Specialist",
     "wof:parent_id":85810107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-80.90587,34.908724,-80.90587,34.908724],
-  "geometry": {"coordinates":[-80.90587,34.908724],"type":"Point"}
+  "bbox": [
+    -80.90587,
+    34.908724,
+    -80.90587,
+    34.908724
+],
+  "geometry": {"coordinates":[-80.90586999999999,34.908724],"type":"Point"}
 }

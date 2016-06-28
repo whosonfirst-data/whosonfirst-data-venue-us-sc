@@ -2,13 +2,14 @@
   "id": 353933185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.189913,34.094013,-81.189913,34.094013",
     "geom:latitude":34.094013,
     "geom:longitude":-81.189913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Friarsgate Blvd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353933185,
-    "wof:lastmodified":1449018779,
+    "wof:lastmodified":1467082220,
     "wof:name":"Data Plus Secretarial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typing"
     ]
 },
-  "bbox": [-81.189913,34.094013,-81.189913,34.094013],
+  "bbox": [
+    -81.189913,
+    34.094013,
+    -81.189913,
+    34.094013
+],
   "geometry": {"coordinates":[-81.189913,34.094013],"type":"Point"}
 }

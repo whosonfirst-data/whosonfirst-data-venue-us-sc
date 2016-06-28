@@ -2,13 +2,14 @@
   "id": 354294161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.997744,33.192216,-79.997744,33.192216",
     "geom:latitude":33.192216,
     "geom:longitude":-79.997744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"528 E Main St",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354294161,
-    "wof:lastmodified":1449067172,
+    "wof:lastmodified":1467082443,
     "wof:name":"Dempsey Auto Sales LLC",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-79.997744,33.192216,-79.997744,33.192216],
+  "bbox": [
+    -79.997744,
+    33.192216,
+    -79.997744,
+    33.192216
+],
   "geometry": {"coordinates":[-79.997744,33.192216],"type":"Point"}
 }

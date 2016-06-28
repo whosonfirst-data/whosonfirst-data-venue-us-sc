@@ -2,13 +2,14 @@
   "id": 354312519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.018396,33.970817,-81.018396,33.970817",
     "geom:latitude":33.970817,
     "geom:longitude":-81.018396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1219 Bluff Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354312519,
-    "wof:lastmodified":1449066785,
+    "wof:lastmodified":1467082434,
     "wof:name":"Carolina's Rigging",
     "wof:parent_id":85846089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sling"
     ]
 },
-  "bbox": [-81.018396,33.970817,-81.018396,33.970817],
+  "bbox": [
+    -81.018396,
+    33.970817,
+    -81.018396,
+    33.970817
+],
   "geometry": {"coordinates":[-81.018396,33.970817],"type":"Point"}
 }

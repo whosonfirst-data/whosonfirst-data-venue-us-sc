@@ -2,13 +2,14 @@
   "id": 370746987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.924592,34.140871,-80.924592,34.140871",
     "geom:latitude":34.140871,
     "geom:longitude":-80.924592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Winslow Way",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370746987,
-    "wof:lastmodified":1449029039,
+    "wof:lastmodified":1467082297,
     "wof:name":"T S Inc",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scientist"
     ]
 },
-  "bbox": [-80.924592,34.140871,-80.924592,34.140871],
+  "bbox": [
+    -80.924592,
+    34.140871,
+    -80.924592,
+    34.140871
+],
   "geometry": {"coordinates":[-80.924592,34.140871],"type":"Point"}
 }

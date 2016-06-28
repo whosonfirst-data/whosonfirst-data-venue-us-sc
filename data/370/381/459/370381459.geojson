@@ -2,13 +2,14 @@
   "id": 370381459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.945574,34.685754,-82.945574,34.685754",
     "geom:latitude":34.685754,
     "geom:longitude":-82.945574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 E Main St",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370381459,
-    "wof:lastmodified":1449029364,
+    "wof:lastmodified":1467082304,
     "wof:name":"Oconee Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-82.945574,34.685754,-82.945574,34.685754],
-  "geometry": {"coordinates":[-82.945574,34.685754],"type":"Point"}
+  "bbox": [
+    -82.945574,
+    34.685754,
+    -82.945574,
+    34.685754
+],
+  "geometry": {"coordinates":[-82.94557399999999,34.685754],"type":"Point"}
 }

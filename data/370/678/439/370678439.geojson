@@ -2,13 +2,14 @@
   "id": 370678439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.991746,33.689385,-81.991746,33.689385",
     "geom:latitude":33.689385,
     "geom:longitude":-81.991746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 Lanham Rd",
     "sg:city":"Edgefield",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370678439,
-    "wof:lastmodified":1449030724,
+    "wof:lastmodified":1467082334,
     "wof:name":"Allen Simmons Agency LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.991746,33.689385,-81.991746,33.689385],
-  "geometry": {"coordinates":[-81.991746,33.689385],"type":"Point"}
+  "bbox": [
+    -81.991746,
+    33.689385,
+    -81.991746,
+    33.689385
+],
+  "geometry": {"coordinates":[-81.99174600000001,33.689385],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353661713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.589458,33.79191,-81.589458,33.79191",
     "geom:latitude":33.79191,
     "geom:longitude":-81.589458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Mount Pleasant Rd",
     "sg:city":"Monetta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353661713,
-    "wof:lastmodified":1449020534,
+    "wof:lastmodified":1467082256,
     "wof:name":"Dixie Pipe Line",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.589458,33.79191,-81.589458,33.79191],
-  "geometry": {"coordinates":[-81.589458,33.79191],"type":"Point"}
+  "bbox": [
+    -81.589458,
+    33.79191,
+    -81.589458,
+    33.79191
+],
+  "geometry": {"coordinates":[-81.58945799999999,33.79191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370749625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.945647,35.005609,-80.945647,35.005609",
     "geom:latitude":35.005609,
     "geom:longitude":-80.945647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Spratt St",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370749625,
-    "wof:lastmodified":1449030077,
+    "wof:lastmodified":1467082320,
     "wof:name":"Mc Dade & Burns",
     "wof:parent_id":85827769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-80.945647,35.005609,-80.945647,35.005609],
-  "geometry": {"coordinates":[-80.945647,35.005609],"type":"Point"}
+  "bbox": [
+    -80.945647,
+    35.005609,
+    -80.945647,
+    35.005609
+],
+  "geometry": {"coordinates":[-80.94564699999999,35.005609],"type":"Point"}
 }

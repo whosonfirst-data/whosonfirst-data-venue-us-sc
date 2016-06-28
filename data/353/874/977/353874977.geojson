@@ -2,13 +2,14 @@
   "id": 353874977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.05077,34.763109,-83.05077,34.763109",
     "geom:latitude":34.763109,
     "geom:longitude":-83.05077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 W Main St",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353874977,
-    "wof:lastmodified":1449020634,
+    "wof:lastmodified":1467082258,
     "wof:name":"Caberdancer Graphic Design Inc",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "screen"
     ]
 },
-  "bbox": [-83.05077,34.763109,-83.05077,34.763109],
+  "bbox": [
+    -83.05077,
+    34.763109,
+    -83.05077,
+    34.763109
+],
   "geometry": {"coordinates":[-83.05077,34.763109],"type":"Point"}
 }

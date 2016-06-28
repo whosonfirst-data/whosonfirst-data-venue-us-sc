@@ -2,13 +2,14 @@
   "id": 186321409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.92835,32.77987,-79.92835,32.77987",
     "geom:latitude":32.77987,
     "geom:longitude":-79.92835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 State St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186321409,
-    "wof:lastmodified":1449050328,
+    "wof:lastmodified":1467082389,
     "wof:name":"IJS II",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.92835,32.77987,-79.92835,32.77987],
-  "geometry": {"coordinates":[-79.92835,32.77987],"type":"Point"}
+  "bbox": [
+    -79.92835,
+    32.77987,
+    -79.92835,
+    32.77987
+],
+  "geometry": {"coordinates":[-79.92834999999999,32.77987],"type":"Point"}
 }

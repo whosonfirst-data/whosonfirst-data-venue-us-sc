@@ -2,13 +2,14 @@
   "id": 353982053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.934693,32.779806,-79.934693,32.779806",
     "geom:latitude":32.779806,
     "geom:longitude":-79.934693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Fulton St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353982053,
-    "wof:lastmodified":1449018678,
+    "wof:lastmodified":1467082218,
     "wof:name":"Balzac Brothers & Co",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "coffee"
     ]
 },
-  "bbox": [-79.934693,32.779806,-79.934693,32.779806],
+  "bbox": [
+    -79.934693,
+    32.779806,
+    -79.934693,
+    32.779806
+],
   "geometry": {"coordinates":[-79.934693,32.779806],"type":"Point"}
 }

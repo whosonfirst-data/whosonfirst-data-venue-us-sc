@@ -2,13 +2,14 @@
   "id": 337283849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.06341,33.966246,-81.06341,33.966246",
     "geom:latitude":33.966246,
     "geom:longitude":-81.06341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2245 Julius Felder St",
     "sg:city":"Cayce",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337283849,
-    "wof:lastmodified":1449027181,
+    "wof:lastmodified":1467082274,
     "wof:name":"Cayce Police Dept",
     "wof:parent_id":85897259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.06341,33.966246,-81.06341,33.966246],
+  "bbox": [
+    -81.06341,
+    33.966246,
+    -81.06341,
+    33.966246
+],
   "geometry": {"coordinates":[-81.06341,33.966246],"type":"Point"}
 }

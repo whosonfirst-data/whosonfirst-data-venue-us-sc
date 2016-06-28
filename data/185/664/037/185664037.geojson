@@ -2,13 +2,14 @@
   "id": 185664037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.340916,33.90835,-80.340916,33.90835",
     "geom:latitude":33.90835,
     "geom:longitude":-80.340916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"361 Manning Ave",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":185664037,
-    "wof:lastmodified":1449007199,
+    "wof:lastmodified":1467082191,
     "wof:name":"Superior Printing Co",
     "wof:parent_id":85850119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "re"
     ]
 },
-  "bbox": [-80.340916,33.90835,-80.340916,33.90835],
-  "geometry": {"coordinates":[-80.340916,33.90835],"type":"Point"}
+  "bbox": [
+    -80.340916,
+    33.90835,
+    -80.340916,
+    33.90835
+],
+  "geometry": {"coordinates":[-80.34091600000001,33.90835],"type":"Point"}
 }

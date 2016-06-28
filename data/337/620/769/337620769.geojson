@@ -2,13 +2,14 @@
   "id": 337620769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.673853,32.895941,-80.673853,32.895941",
     "geom:latitude":32.895941,
     "geom:longitude":-80.673853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"840 S Jefferies Blvd",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337620769,
-    "wof:lastmodified":1449027663,
+    "wof:lastmodified":1467082292,
     "wof:name":"Walterboro Feed & Gdn Pet Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-80.673853,32.895941,-80.673853,32.895941],
-  "geometry": {"coordinates":[-80.673853,32.895941],"type":"Point"}
+  "bbox": [
+    -80.673853,
+    32.895941,
+    -80.673853,
+    32.895941
+],
+  "geometry": {"coordinates":[-80.67385299999999,32.895941],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186059009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.087214,34.382398,-81.087214,34.382398",
     "geom:latitude":34.382398,
     "geom:longitude":-81.087214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 US Hwy 321 Bus",
     "sg:city":"Winnsboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186059009,
-    "wof:lastmodified":1449051120,
+    "wof:lastmodified":1467082395,
     "wof:name":"A Brighter Smile Of Winsboro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.087214,34.382398,-81.087214,34.382398],
+  "bbox": [
+    -81.087214,
+    34.382398,
+    -81.087214,
+    34.382398
+],
   "geometry": {"coordinates":[-81.087214,34.382398],"type":"Point"}
 }

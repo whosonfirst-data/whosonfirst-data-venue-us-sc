@@ -2,13 +2,14 @@
   "id": 337314869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.705684,32.224622,-80.705684,32.224622",
     "geom:latitude":32.224622,
     "geom:longitude":-80.705684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Beach City Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337314869,
-    "wof:lastmodified":1449027718,
+    "wof:lastmodified":1467082294,
     "wof:name":"Shaheen Rug",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-80.705684,32.224622,-80.705684,32.224622],
-  "geometry": {"coordinates":[-80.705684,32.224622],"type":"Point"}
+  "bbox": [
+    -80.705684,
+    32.224622,
+    -80.705684,
+    32.224622
+],
+  "geometry": {"coordinates":[-80.70568400000001,32.224622],"type":"Point"}
 }

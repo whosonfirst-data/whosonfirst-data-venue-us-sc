@@ -2,13 +2,14 @@
   "id": 370302505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.393344,34.849005,-82.393344,34.849005",
     "geom:latitude":34.849005,
     "geom:longitude":-82.393344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 E Washington St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370302505,
-    "wof:lastmodified":1449030241,
+    "wof:lastmodified":1467082324,
     "wof:name":"Gynecologic Oncology Research",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.393344,34.849005,-82.393344,34.849005],
+  "bbox": [
+    -82.393344,
+    34.849005,
+    -82.393344,
+    34.849005
+],
   "geometry": {"coordinates":[-82.393344,34.849005],"type":"Point"}
 }

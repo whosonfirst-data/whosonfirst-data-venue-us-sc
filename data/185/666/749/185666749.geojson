@@ -2,13 +2,14 @@
   "id": 185666749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.996452,34.983117,-80.996452,34.983117",
     "geom:latitude":34.983117,
     "geom:longitude":-80.996452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1466 Fieldcrest Cir",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":185666749,
-    "wof:lastmodified":1449007188,
+    "wof:lastmodified":1467082191,
     "wof:name":"Lavender Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.996452,34.983117,-80.996452,34.983117],
-  "geometry": {"coordinates":[-80.996452,34.983117],"type":"Point"}
+  "bbox": [
+    -80.996452,
+    34.983117,
+    -80.996452,
+    34.983117
+],
+  "geometry": {"coordinates":[-80.99645200000001,34.983117],"type":"Point"}
 }

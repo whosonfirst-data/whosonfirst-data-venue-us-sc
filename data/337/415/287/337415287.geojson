@@ -2,13 +2,14 @@
   "id": 337415287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.722325,33.803116,-78.722325,33.803116",
     "geom:latitude":33.803116,
     "geom:longitude":-78.722325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 Poinsett St",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337415287,
-    "wof:lastmodified":1449027534,
+    "wof:lastmodified":1467082287,
     "wof:name":"Pyramid Engineering Inc",
     "wof:parent_id":85852275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-78.722325,33.803116,-78.722325,33.803116],
+  "bbox": [
+    -78.722325,
+    33.803116,
+    -78.722325,
+    33.803116
+],
   "geometry": {"coordinates":[-78.722325,33.803116],"type":"Point"}
 }

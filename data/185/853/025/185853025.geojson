@@ -2,13 +2,14 @@
   "id": 185853025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.401301,34.181872,-79.401301,34.181872",
     "geom:latitude":34.181872,
     "geom:longitude":-79.401301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Tom Gasque Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185853025,
-    "wof:lastmodified":1449007263,
+    "wof:lastmodified":1467082192,
     "wof:name":"Craig Martin CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-79.401301,34.181872,-79.401301,34.181872],
+  "bbox": [
+    -79.401301,
+    34.181872,
+    -79.401301,
+    34.181872
+],
   "geometry": {"coordinates":[-79.401301,34.181872],"type":"Point"}
 }

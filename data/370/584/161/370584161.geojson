@@ -2,13 +2,14 @@
   "id": 370584161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.732651,34.397395,-80.732651,34.397395",
     "geom:latitude":34.397395,
     "geom:longitude":-80.732651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3045 John G Richards Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370584161,
-    "wof:lastmodified":1449029460,
+    "wof:lastmodified":1467082306,
     "wof:name":"Mt Moriah Missionary Baptist",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.732651,34.397395,-80.732651,34.397395],
+  "bbox": [
+    -80.732651,
+    34.397395,
+    -80.732651,
+    34.397395
+],
   "geometry": {"coordinates":[-80.732651,34.397395],"type":"Point"}
 }

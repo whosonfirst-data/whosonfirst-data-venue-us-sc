@@ -2,13 +2,14 @@
   "id": 354097227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.687219,32.412048,-80.687219,32.412048",
     "geom:latitude":32.412048,
     "geom:longitude":-80.687219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1055 Ribaut Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354097227,
-    "wof:lastmodified":1449066580,
+    "wof:lastmodified":1467082429,
     "wof:name":"Cardiothoracic Surgery",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.687219,32.412048,-80.687219,32.412048],
+  "bbox": [
+    -80.687219,
+    32.412048,
+    -80.687219,
+    32.412048
+],
   "geometry": {"coordinates":[-80.687219,32.412048],"type":"Point"}
 }

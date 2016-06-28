@@ -2,13 +2,14 @@
   "id": 354209383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.517241,34.508638,-82.517241,34.508638",
     "geom:latitude":34.508638,
     "geom:longitude":-82.517241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Anderson St",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354209383,
-    "wof:lastmodified":1449067490,
+    "wof:lastmodified":1467082450,
     "wof:name":"Hair Impressions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.517241,34.508638,-82.517241,34.508638],
+  "bbox": [
+    -82.517241,
+    34.508638,
+    -82.517241,
+    34.508638
+],
   "geometry": {"coordinates":[-82.517241,34.508638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370691747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.974272,34.888751,-82.974272,34.888751",
     "geom:latitude":34.888751,
     "geom:longitude":-82.974272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 E Main St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370691747,
-    "wof:lastmodified":1449029366,
+    "wof:lastmodified":1467082304,
     "wof:name":"Kelleys Quick Stop",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-82.974272,34.888751,-82.974272,34.888751],
+  "bbox": [
+    -82.974272,
+    34.888751,
+    -82.974272,
+    34.888751
+],
   "geometry": {"coordinates":[-82.974272,34.888751],"type":"Point"}
 }

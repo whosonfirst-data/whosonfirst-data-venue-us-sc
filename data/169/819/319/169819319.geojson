@@ -2,13 +2,14 @@
   "id": 169819319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.254314,34.205006,-79.254314,34.205006",
     "geom:latitude":34.205006,
     "geom:longitude":-79.254314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 S Main St",
     "sg:city":"Mullins",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169819319,
-    "wof:lastmodified":1449033479,
+    "wof:lastmodified":1467082380,
     "wof:name":"T M Anderson Co",
     "wof:parent_id":85837853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-79.254314,34.205006,-79.254314,34.205006],
-  "geometry": {"coordinates":[-79.254314,34.205006],"type":"Point"}
+  "bbox": [
+    -79.254314,
+    34.205006,
+    -79.254314,
+    34.205006
+],
+  "geometry": {"coordinates":[-79.25431399999999,34.205006],"type":"Point"}
 }

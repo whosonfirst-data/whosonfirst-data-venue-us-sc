@@ -2,13 +2,14 @@
   "id": 370937685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.008793,32.811524,-80.008793,32.811524",
     "geom:latitude":32.811524,
     "geom:longitude":-80.008793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1544 Orange Grove Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370937685,
-    "wof:lastmodified":1449029731,
+    "wof:lastmodified":1467082312,
     "wof:name":"Donnie's Roofing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.008793,32.811524,-80.008793,32.811524],
+  "bbox": [
+    -80.008793,
+    32.811524,
+    -80.008793,
+    32.811524
+],
   "geometry": {"coordinates":[-80.008793,32.811524],"type":"Point"}
 }

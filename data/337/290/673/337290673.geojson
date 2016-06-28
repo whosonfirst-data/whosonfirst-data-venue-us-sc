@@ -2,13 +2,14 @@
   "id": 337290673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.191516,34.850041,-82.191516,34.850041",
     "geom:latitude":34.850041,
     "geom:longitude":-82.191516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1498 Brockman McClimon Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337290673,
-    "wof:lastmodified":1449027287,
+    "wof:lastmodified":1467082278,
     "wof:name":"Youngblood Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.191516,34.850041,-82.191516,34.850041],
-  "geometry": {"coordinates":[-82.191516,34.850041],"type":"Point"}
+  "bbox": [
+    -82.191516,
+    34.850041,
+    -82.191516,
+    34.850041
+],
+  "geometry": {"coordinates":[-82.19151599999999,34.850041],"type":"Point"}
 }

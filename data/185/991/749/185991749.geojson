@@ -2,13 +2,14 @@
   "id": 185991749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.110493,33.834023,-79.110493,33.834023",
     "geom:latitude":33.834023,
     "geom:longitude":-79.110493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1676 Dirty Branch Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185991749,
-    "wof:lastmodified":1449007108,
+    "wof:lastmodified":1467082190,
     "wof:name":"J & D Bonding Co",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-79.110493,33.834023,-79.110493,33.834023],
-  "geometry": {"coordinates":[-79.110493,33.834023],"type":"Point"}
+  "bbox": [
+    -79.110493,
+    33.834023,
+    -79.110493,
+    33.834023
+],
+  "geometry": {"coordinates":[-79.11049300000001,33.834023],"type":"Point"}
 }

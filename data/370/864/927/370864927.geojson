@@ -2,13 +2,14 @@
   "id": 370864927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.001932,34.922154,-82.001932,34.922154",
     "geom:latitude":34.922154,
     "geom:longitude":-82.001932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Oak Grove Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370864927,
-    "wof:lastmodified":1449032519,
+    "wof:lastmodified":1467082375,
     "wof:name":"West 2nd Salon & Day Spa",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.001932,34.922154,-82.001932,34.922154],
+  "bbox": [
+    -82.001932,
+    34.922154,
+    -82.001932,
+    34.922154
+],
   "geometry": {"coordinates":[-82.001932,34.922154],"type":"Point"}
 }

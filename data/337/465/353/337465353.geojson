@@ -2,13 +2,14 @@
   "id": 337465353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.797193,32.863087,-79.797193,32.863087",
     "geom:latitude":32.863087,
     "geom:longitude":-79.797193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1177 Gregory Ferry Rd",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":337465353,
-    "wof:lastmodified":1449027500,
+    "wof:lastmodified":1467082286,
     "wof:name":"Lighthouse Church Worship Ctr",
     "wof:parent_id":85842745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.797193,32.863087,-79.797193,32.863087],
-  "geometry": {"coordinates":[-79.797193,32.863087],"type":"Point"}
+  "bbox": [
+    -79.797193,
+    32.863087,
+    -79.797193,
+    32.863087
+],
+  "geometry": {"coordinates":[-79.79719299999999,32.863087],"type":"Point"}
 }

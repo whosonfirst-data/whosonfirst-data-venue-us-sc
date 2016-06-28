@@ -2,13 +2,14 @@
   "id": 337580639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.391556,34.415566,-79.391556,34.415566",
     "geom:latitude":34.415566,
     "geom:longitude":-79.391556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S Longstreet Rd",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337580639,
-    "wof:lastmodified":1449027503,
+    "wof:lastmodified":1467082286,
     "wof:name":"Maplewood Apartments",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-79.391556,34.415566,-79.391556,34.415566],
-  "geometry": {"coordinates":[-79.391556,34.415566],"type":"Point"}
+  "bbox": [
+    -79.391556,
+    34.415566,
+    -79.391556,
+    34.415566
+],
+  "geometry": {"coordinates":[-79.39155599999999,34.415566],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370754985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.881735,32.281708,-80.881735,32.281708",
     "geom:latitude":32.281708,
     "geom:longitude":-80.881735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Wood Eden Ln",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370754985,
-    "wof:lastmodified":1449031290,
+    "wof:lastmodified":1467082347,
     "wof:name":"Wayne's Moving & Storage Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.881735,32.281708,-80.881735,32.281708],
-  "geometry": {"coordinates":[-80.881735,32.281708],"type":"Point"}
+  "bbox": [
+    -80.881735,
+    32.281708,
+    -80.881735,
+    32.281708
+],
+  "geometry": {"coordinates":[-80.88173500000001,32.281708],"type":"Point"}
 }

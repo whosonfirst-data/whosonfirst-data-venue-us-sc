@@ -2,13 +2,14 @@
   "id": 185930355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.991061,33.58535,-78.991061,33.58535",
     "geom:latitude":33.58535,
     "geom:longitude":-78.991061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 N Waccamaw Dr",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185930355,
-    "wof:lastmodified":1449007115,
+    "wof:lastmodified":1467082190,
     "wof:name":"Garden City Inn",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.991061,33.58535,-78.991061,33.58535],
+  "bbox": [
+    -78.991061,
+    33.58535,
+    -78.991061,
+    33.58535
+],
   "geometry": {"coordinates":[-78.991061,33.58535],"type":"Point"}
 }

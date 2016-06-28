@@ -2,13 +2,14 @@
   "id": 337342011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.21911,33.998094,-81.21911,33.998094",
     "geom:latitude":33.998094,
     "geom:longitude":-81.21911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5495 Sunset Blvd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337342011,
-    "wof:lastmodified":1449027678,
+    "wof:lastmodified":1467082293,
     "wof:name":"World Vision Satellite",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carrier"
     ]
 },
-  "bbox": [-81.21911,33.998094,-81.21911,33.998094],
+  "bbox": [
+    -81.21911,
+    33.998094,
+    -81.21911,
+    33.998094
+],
   "geometry": {"coordinates":[-81.21911,33.998094],"type":"Point"}
 }

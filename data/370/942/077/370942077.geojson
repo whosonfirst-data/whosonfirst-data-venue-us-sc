@@ -2,13 +2,14 @@
   "id": 370942077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.190716,34.70276,-81.190716,34.70276",
     "geom:latitude":34.70276,
     "geom:longitude":-81.190716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1780 J A Cochran Byp",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370942077,
-    "wof:lastmodified":1449030638,
+    "wof:lastmodified":1467082332,
     "wof:name":"Barnyard Utility Buildings",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.190716,34.70276,-81.190716,34.70276],
-  "geometry": {"coordinates":[-81.190716,34.70276],"type":"Point"}
+  "bbox": [
+    -81.190716,
+    34.70276,
+    -81.190716,
+    34.70276
+],
+  "geometry": {"coordinates":[-81.19071599999999,34.70276],"type":"Point"}
 }

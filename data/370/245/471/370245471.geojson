@@ -2,13 +2,14 @@
   "id": 370245471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.087001,34.381653,-81.087001,34.381653",
     "geom:latitude":34.381653,
     "geom:longitude":-81.087001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 N Congress St",
     "sg:city":"Winnsboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370245471,
-    "wof:lastmodified":1449032357,
+    "wof:lastmodified":1467082371,
     "wof:name":"Regional Finance Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-81.087001,34.381653,-81.087001,34.381653],
+  "bbox": [
+    -81.087001,
+    34.381653,
+    -81.087001,
+    34.381653
+],
   "geometry": {"coordinates":[-81.087001,34.381653],"type":"Point"}
 }

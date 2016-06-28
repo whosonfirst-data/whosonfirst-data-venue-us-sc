@@ -2,13 +2,14 @@
   "id": 337289133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.129735,33.597243,-82.129735,33.597243",
     "geom:latitude":33.597243,
     "geom:longitude":-82.129735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Furey Dr",
     "sg:city":"Clarks Hill",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337289133,
-    "wof:lastmodified":1449027605,
+    "wof:lastmodified":1467082290,
     "wof:name":"Augusta Plant Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.129735,33.597243,-82.129735,33.597243],
+  "bbox": [
+    -82.129735,
+    33.597243,
+    -82.129735,
+    33.597243
+],
   "geometry": {"coordinates":[-82.129735,33.597243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353600743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.054802,35.097792,-81.054802,35.097792",
     "geom:latitude":35.097792,
     "geom:longitude":-81.054802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Sunrise Point Ln",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353600743,
-    "wof:lastmodified":1449018496,
+    "wof:lastmodified":1467082215,
     "wof:name":"Eastern Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.054802,35.097792,-81.054802,35.097792],
+  "bbox": [
+    -81.054802,
+    35.097792,
+    -81.054802,
+    35.097792
+],
   "geometry": {"coordinates":[-81.054802,35.097792],"type":"Point"}
 }

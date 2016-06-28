@@ -2,13 +2,14 @@
   "id": 370257659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.955455,33.704508,-78.955455,33.704508",
     "geom:latitude":33.704508,
     "geom:longitude":-78.955455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 Ambling Way Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370257659,
-    "wof:lastmodified":1449030103,
+    "wof:lastmodified":1467082321,
     "wof:name":"M C Sound Consultants",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-78.955455,33.704508,-78.955455,33.704508],
+  "bbox": [
+    -78.955455,
+    33.704508,
+    -78.955455,
+    33.704508
+],
   "geometry": {"coordinates":[-78.955455,33.704508],"type":"Point"}
 }

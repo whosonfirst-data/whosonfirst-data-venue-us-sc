@@ -2,13 +2,14 @@
   "id": 337602689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.68081,34.901897,-82.68081,34.901897",
     "geom:latitude":34.901897,
     "geom:longitude":-82.68081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"442 Boggs Rd",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":337602689,
-    "wof:lastmodified":1449027337,
+    "wof:lastmodified":1467082280,
     "wof:name":"Crenshaw Asphalt Paving Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mineral"
     ]
 },
-  "bbox": [-82.68081,34.901897,-82.68081,34.901897],
-  "geometry": {"coordinates":[-82.68081,34.901897],"type":"Point"}
+  "bbox": [
+    -82.68081,
+    34.901897,
+    -82.68081,
+    34.901897
+],
+  "geometry": {"coordinates":[-82.68080999999999,34.901897],"type":"Point"}
 }

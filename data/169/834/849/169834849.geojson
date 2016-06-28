@@ -2,13 +2,14 @@
   "id": 169834849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.384476,33.282263,-81.384476,33.282263",
     "geom:latitude":33.282263,
     "geom:longitude":-81.384476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 State Hwy 37",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169834849,
-    "wof:lastmodified":1449032972,
+    "wof:lastmodified":1467082377,
     "wof:name":"Steve's Imports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.384476,33.282263,-81.384476,33.282263],
-  "geometry": {"coordinates":[-81.384476,33.282263],"type":"Point"}
+  "bbox": [
+    -81.384476,
+    33.282263,
+    -81.384476,
+    33.282263
+],
+  "geometry": {"coordinates":[-81.38447600000001,33.282263],"type":"Point"}
 }

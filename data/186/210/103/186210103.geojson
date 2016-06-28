@@ -2,13 +2,14 @@
   "id": 186210103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.681943,34.510614,-82.681943,34.510614",
     "geom:latitude":34.510614,
     "geom:longitude":-82.681943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Ryder Ln",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186210103,
-    "wof:lastmodified":1449051302,
+    "wof:lastmodified":1467082396,
     "wof:name":"Epting Dist Columbia Andrsn",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.681943,34.510614,-82.681943,34.510614],
+  "bbox": [
+    -82.681943,
+    34.510614,
+    -82.681943,
+    34.510614
+],
   "geometry": {"coordinates":[-82.681943,34.510614],"type":"Point"}
 }

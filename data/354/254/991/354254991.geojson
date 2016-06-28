@@ -2,13 +2,14 @@
   "id": 354254991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.680893,34.836023,-81.680893,34.836023",
     "geom:latitude":34.836023,
     "geom:longitude":-81.680893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Main St",
     "sg:city":"Jonesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354254991,
-    "wof:lastmodified":1449067142,
+    "wof:lastmodified":1467082442,
     "wof:name":"People's Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-81.680893,34.836023,-81.680893,34.836023],
+  "bbox": [
+    -81.680893,
+    34.836023,
+    -81.680893,
+    34.836023
+],
   "geometry": {"coordinates":[-81.680893,34.836023],"type":"Point"}
 }

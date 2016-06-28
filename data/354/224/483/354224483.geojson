@@ -2,13 +2,14 @@
   "id": 354224483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.961812,32.288033,-80.961812,32.288033",
     "geom:latitude":32.288033,
     "geom:longitude":-80.961812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Benjamin Seabrook Ct",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354224483,
-    "wof:lastmodified":1449067207,
+    "wof:lastmodified":1467082444,
     "wof:name":"Michael K Ray Associates Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.961812,32.288033,-80.961812,32.288033],
-  "geometry": {"coordinates":[-80.961812,32.288033],"type":"Point"}
+  "bbox": [
+    -80.961812,
+    32.288033,
+    -80.961812,
+    32.288033
+],
+  "geometry": {"coordinates":[-80.96181199999999,32.288033],"type":"Point"}
 }

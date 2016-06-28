@@ -2,13 +2,14 @@
   "id": 370400411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.330229,33.260814,-81.330229,33.260814",
     "geom:latitude":33.260814,
     "geom:longitude":-81.330229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Ashby Pines Rd",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370400411,
-    "wof:lastmodified":1449029415,
+    "wof:lastmodified":1467082305,
     "wof:name":"Signs & Wonders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.330229,33.260814,-81.330229,33.260814],
+  "bbox": [
+    -81.330229,
+    33.260814,
+    -81.330229,
+    33.260814
+],
   "geometry": {"coordinates":[-81.330229,33.260814],"type":"Point"}
 }

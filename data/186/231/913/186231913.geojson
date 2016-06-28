@@ -2,13 +2,14 @@
   "id": 186231913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.423695,34.845427,-82.423695,34.845427",
     "geom:latitude":34.845427,
     "geom:longitude":-82.423695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 Pendleton St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186231913,
-    "wof:lastmodified":1449051738,
+    "wof:lastmodified":1467082400,
     "wof:name":"Spinx 112",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "station"
     ]
 },
-  "bbox": [-82.423695,34.845427,-82.423695,34.845427],
+  "bbox": [
+    -82.423695,
+    34.845427,
+    -82.423695,
+    34.845427
+],
   "geometry": {"coordinates":[-82.423695,34.845427],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353794641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.440599,33.893909,-80.440599,33.893909",
     "geom:latitude":33.893909,
     "geom:longitude":-80.440599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 Ravenwood Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353794641,
-    "wof:lastmodified":1449019491,
+    "wof:lastmodified":1467082235,
     "wof:name":"Ravens Nest",
     "wof:parent_id":85817433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-80.440599,33.893909,-80.440599,33.893909],
-  "geometry": {"coordinates":[-80.440599,33.893909],"type":"Point"}
+  "bbox": [
+    -80.440599,
+    33.893909,
+    -80.440599,
+    33.893909
+],
+  "geometry": {"coordinates":[-80.44059900000001,33.893909],"type":"Point"}
 }

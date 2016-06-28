@@ -2,13 +2,14 @@
   "id": 370815175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.798043,34.169587,-79.798043,34.169587",
     "geom:latitude":34.169587,
     "geom:longitude":-79.798043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 2nd Loop Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370815175,
-    "wof:lastmodified":1449030733,
+    "wof:lastmodified":1467082334,
     "wof:name":"Sell It Now LLC",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-79.798043,34.169587,-79.798043,34.169587],
-  "geometry": {"coordinates":[-79.798043,34.169587],"type":"Point"}
+  "bbox": [
+    -79.798043,
+    34.169587,
+    -79.798043,
+    34.169587
+],
+  "geometry": {"coordinates":[-79.79804300000001,34.169587],"type":"Point"}
 }

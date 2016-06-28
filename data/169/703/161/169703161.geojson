@@ -2,13 +2,14 @@
   "id": 169703161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.22823,34.767299,-81.22823,34.767299",
     "geom:latitude":34.767299,
     "geom:longitude":-81.22823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1886 Hardin Strait Rd",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169703161,
-    "wof:lastmodified":1449033688,
+    "wof:lastmodified":1467082381,
     "wof:name":"Upper State Trophies",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engraver"
     ]
 },
-  "bbox": [-81.22823,34.767299,-81.22823,34.767299],
+  "bbox": [
+    -81.22823,
+    34.767299,
+    -81.22823,
+    34.767299
+],
   "geometry": {"coordinates":[-81.22823,34.767299],"type":"Point"}
 }

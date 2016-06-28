@@ -2,13 +2,14 @@
   "id": 353599345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.854083,33.529092,-80.854083,33.529092",
     "geom:latitude":33.529092,
     "geom:longitude":-80.854083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Essex Dr NE",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353599345,
-    "wof:lastmodified":1449019443,
+    "wof:lastmodified":1467082234,
     "wof:name":"Mike's Electronic Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.854083,33.529092,-80.854083,33.529092],
+  "bbox": [
+    -80.854083,
+    33.529092,
+    -80.854083,
+    33.529092
+],
   "geometry": {"coordinates":[-80.854083,33.529092],"type":"Point"}
 }

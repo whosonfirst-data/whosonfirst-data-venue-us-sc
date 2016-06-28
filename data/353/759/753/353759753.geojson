@@ -2,13 +2,14 @@
   "id": 353759753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.991746,35.058206,-80.991746,35.058206",
     "geom:latitude":35.058206,
     "geom:longitude":-80.991746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9315 Palmetto Pl",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353759753,
-    "wof:lastmodified":1449020835,
+    "wof:lastmodified":1467082263,
     "wof:name":"Palmetto Place Apts",
     "wof:parent_id":85839383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.991746,35.058206,-80.991746,35.058206],
-  "geometry": {"coordinates":[-80.991746,35.058206],"type":"Point"}
+  "bbox": [
+    -80.991746,
+    35.058206,
+    -80.991746,
+    35.058206
+],
+  "geometry": {"coordinates":[-80.99174600000001,35.058206],"type":"Point"}
 }

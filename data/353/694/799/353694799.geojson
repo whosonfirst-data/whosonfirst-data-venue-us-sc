@@ -2,13 +2,14 @@
   "id": 353694799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.780444,32.456252,-80.780444,32.456252",
     "geom:latitude":32.456252,
     "geom:longitude":-80.780444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Laurel Bay Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353694799,
-    "wof:lastmodified":1449018990,
+    "wof:lastmodified":1467082224,
     "wof:name":"Atlantic Group Enterprises Inc",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-80.780444,32.456252,-80.780444,32.456252],
+  "bbox": [
+    -80.780444,
+    32.456252,
+    -80.780444,
+    32.456252
+],
   "geometry": {"coordinates":[-80.780444,32.456252],"type":"Point"}
 }

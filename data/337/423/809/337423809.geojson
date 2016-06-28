@@ -2,13 +2,14 @@
   "id": 337423809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.023168,34.17528,-82.023168,34.17528",
     "geom:latitude":34.17528,
     "geom:longitude":-82.023168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Ninety Six Hwy",
     "sg:city":"Ninety Six",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":337423809,
-    "wof:lastmodified":1449027062,
+    "wof:lastmodified":1467082270,
     "wof:name":"Grand Harbor Realty",
     "wof:parent_id":85811917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.023168,34.17528,-82.023168,34.17528],
+  "bbox": [
+    -82.023168,
+    34.17528,
+    -82.023168,
+    34.17528
+],
   "geometry": {"coordinates":[-82.023168,34.17528],"type":"Point"}
 }

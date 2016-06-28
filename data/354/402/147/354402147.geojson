@@ -2,13 +2,14 @@
   "id": 354402147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.10443,34.953703,-82.10443,34.953703",
     "geom:latitude":34.953703,
     "geom:longitude":-82.10443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 N Craft St",
     "sg:city":"Wellford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354402147,
-    "wof:lastmodified":1449066455,
+    "wof:lastmodified":1467082426,
     "wof:name":"Wellford Rescue 21",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-82.10443,34.953703,-82.10443,34.953703],
-  "geometry": {"coordinates":[-82.10443,34.953703],"type":"Point"}
+  "bbox": [
+    -82.10443,
+    34.953703,
+    -82.10443,
+    34.953703
+],
+  "geometry": {"coordinates":[-82.10442999999999,34.953703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370647535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.982203,35.046183,-81.982203,35.046183",
     "geom:latitude":35.046183,
     "geom:longitude":-81.982203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3390 Boiling Springs Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":370647535,
-    "wof:lastmodified":1449030694,
+    "wof:lastmodified":1467082334,
     "wof:name":"Personal Security Supply Inc",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-81.982203,35.046183,-81.982203,35.046183],
+  "bbox": [
+    -81.982203,
+    35.046183,
+    -81.982203,
+    35.046183
+],
   "geometry": {"coordinates":[-81.982203,35.046183],"type":"Point"}
 }

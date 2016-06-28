@@ -2,13 +2,14 @@
   "id": 354286507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.045595,34.023495,-81.045595,34.023495",
     "geom:latitude":34.023495,
     "geom:longitude":-81.045595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 Earlewood Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354286507,
-    "wof:lastmodified":1449066358,
+    "wof:lastmodified":1467082424,
     "wof:name":"Balloon Elegance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "balloon"
     ]
 },
-  "bbox": [-81.045595,34.023495,-81.045595,34.023495],
-  "geometry": {"coordinates":[-81.045595,34.023495],"type":"Point"}
+  "bbox": [
+    -81.045595,
+    34.023495,
+    -81.045595,
+    34.023495
+],
+  "geometry": {"coordinates":[-81.04559500000001,34.023495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370558541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.978575,32.853899,-79.978575,32.853899",
     "geom:latitude":32.853899,
     "geom:longitude":-79.978575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 Captain Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370558541,
-    "wof:lastmodified":1449030027,
+    "wof:lastmodified":1467082319,
     "wof:name":"Painter Ent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.978575,32.853899,-79.978575,32.853899],
-  "geometry": {"coordinates":[-79.978575,32.853899],"type":"Point"}
+  "bbox": [
+    -79.978575,
+    32.853899,
+    -79.978575,
+    32.853899
+],
+  "geometry": {"coordinates":[-79.97857500000001,32.853899],"type":"Point"}
 }

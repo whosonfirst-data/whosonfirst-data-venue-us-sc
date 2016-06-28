@@ -2,13 +2,14 @@
   "id": 353771011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.022958,32.801128,-80.022958,32.801128",
     "geom:latitude":32.801128,
     "geom:longitude":-80.022958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1854 Wallace School Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353771011,
-    "wof:lastmodified":1449019646,
+    "wof:lastmodified":1467082238,
     "wof:name":"Martin Electrical Contractors",
     "wof:parent_id":85839787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.022958,32.801128,-80.022958,32.801128],
+  "bbox": [
+    -80.022958,
+    32.801128,
+    -80.022958,
+    32.801128
+],
   "geometry": {"coordinates":[-80.022958,32.801128],"type":"Point"}
 }

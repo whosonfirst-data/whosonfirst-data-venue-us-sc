@@ -2,13 +2,14 @@
   "id": 353536095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.563556,33.998474,-79.563556,33.998474",
     "geom:latitude":33.998474,
     "geom:longitude":-79.563556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 E Main St",
     "sg:city":"Pamplico",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353536095,
-    "wof:lastmodified":1449019794,
+    "wof:lastmodified":1467082241,
     "wof:name":"Moses Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-79.563556,33.998474,-79.563556,33.998474],
-  "geometry": {"coordinates":[-79.563556,33.998474],"type":"Point"}
+  "bbox": [
+    -79.563556,
+    33.998474,
+    -79.563556,
+    33.998474
+],
+  "geometry": {"coordinates":[-79.56355600000001,33.998474],"type":"Point"}
 }

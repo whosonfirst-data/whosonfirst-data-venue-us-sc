@@ -2,13 +2,14 @@
   "id": 185947583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.714359,33.514076,-81.714359,33.514076",
     "geom:latitude":33.514076,
     "geom:longitude":-81.714359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2087 Whiskey Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":185947583,
-    "wof:lastmodified":1449007757,
+    "wof:lastmodified":1467082200,
     "wof:name":"Aiken Spa & Patio Inc",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "patio"
     ]
 },
-  "bbox": [-81.714359,33.514076,-81.714359,33.514076],
+  "bbox": [
+    -81.714359,
+    33.514076,
+    -81.714359,
+    33.514076
+],
   "geometry": {"coordinates":[-81.714359,33.514076],"type":"Point"}
 }

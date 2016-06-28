@@ -2,13 +2,14 @@
   "id": 370867785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.304186,33.338962,-79.304186,33.338962",
     "geom:latitude":33.338962,
     "geom:longitude":-79.304186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4003 S Fraser St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370867785,
-    "wof:lastmodified":1449030552,
+    "wof:lastmodified":1467082331,
     "wof:name":"Barnes & Noble College Bksllrs",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-79.304186,33.338962,-79.304186,33.338962],
+  "bbox": [
+    -79.304186,
+    33.338962,
+    -79.304186,
+    33.338962
+],
   "geometry": {"coordinates":[-79.304186,33.338962],"type":"Point"}
 }

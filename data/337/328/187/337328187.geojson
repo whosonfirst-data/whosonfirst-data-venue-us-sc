@@ -2,13 +2,14 @@
   "id": 337328187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.747723,32.14397,-80.747723,32.14397",
     "geom:latitude":32.14397,
     "geom:longitude":-80.747723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Curlew Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337328187,
-    "wof:lastmodified":1449027426,
+    "wof:lastmodified":1467082283,
     "wof:name":"Gilman Floorcovering",
     "wof:parent_id":85819787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.747723,32.14397,-80.747723,32.14397],
-  "geometry": {"coordinates":[-80.747723,32.14397],"type":"Point"}
+  "bbox": [
+    -80.747723,
+    32.14397,
+    -80.747723,
+    32.14397
+],
+  "geometry": {"coordinates":[-80.74772299999999,32.14397],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353800115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.233314,34.937619,-82.233314,34.937619",
     "geom:latitude":34.937619,
     "geom:longitude":-82.233314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Duke St",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353800115,
-    "wof:lastmodified":1449018460,
+    "wof:lastmodified":1467082214,
     "wof:name":"Calvary Christian School",
     "wof:parent_id":85853715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.233314,34.937619,-82.233314,34.937619],
-  "geometry": {"coordinates":[-82.233314,34.937619],"type":"Point"}
+  "bbox": [
+    -82.233314,
+    34.937619,
+    -82.233314,
+    34.937619
+],
+  "geometry": {"coordinates":[-82.23331399999999,34.937619],"type":"Point"}
 }

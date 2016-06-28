@@ -2,13 +2,14 @@
   "id": 169859163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.342106,34.833304,-82.342106,34.833304",
     "geom:latitude":34.833304,
     "geom:longitude":-82.342106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Woodruff Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169859163,
-    "wof:lastmodified":1449035046,
+    "wof:lastmodified":1467082385,
     "wof:name":"Specialty Detail Svc",
     "wof:parent_id":85829925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-82.342106,34.833304,-82.342106,34.833304],
+  "bbox": [
+    -82.342106,
+    34.833304,
+    -82.342106,
+    34.833304
+],
   "geometry": {"coordinates":[-82.342106,34.833304],"type":"Point"}
 }

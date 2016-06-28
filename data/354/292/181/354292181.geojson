@@ -2,13 +2,14 @@
   "id": 354292181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.711487,32.213098,-80.711487,32.213098",
     "geom:latitude":32.213098,
     "geom:longitude":-80.711487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Southwood Park Dr",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354292181,
-    "wof:lastmodified":1449066069,
+    "wof:lastmodified":1467082418,
     "wof:name":"Hilton Head Gardens",
     "wof:parent_id":85819729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.711487,32.213098,-80.711487,32.213098],
-  "geometry": {"coordinates":[-80.711487,32.213098],"type":"Point"}
+  "bbox": [
+    -80.711487,
+    32.213098,
+    -80.711487,
+    32.213098
+],
+  "geometry": {"coordinates":[-80.71148700000001,32.213098],"type":"Point"}
 }

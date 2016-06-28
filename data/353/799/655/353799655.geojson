@@ -2,13 +2,14 @@
   "id": 353799655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.660693,33.857383,-78.660693,33.857383",
     "geom:latitude":33.857383,
     "geom:longitude":-78.660693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3750 Sea Mountain Hwy",
     "sg:city":"Little River",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353799655,
-    "wof:lastmodified":1449020804,
+    "wof:lastmodified":1467082262,
     "wof:name":"North Myrtle Beach Adult Ed",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-78.660693,33.857383,-78.660693,33.857383],
-  "geometry": {"coordinates":[-78.660693,33.857383],"type":"Point"}
+  "bbox": [
+    -78.660693,
+    33.857383,
+    -78.660693,
+    33.857383
+],
+  "geometry": {"coordinates":[-78.66069299999999,33.857383],"type":"Point"}
 }

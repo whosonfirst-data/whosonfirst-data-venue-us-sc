@@ -2,13 +2,14 @@
   "id": 370433843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.76957,34.186582,-79.76957,34.186582",
     "geom:latitude":34.186582,
     "geom:longitude":-79.76957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"660 S Coit St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370433843,
-    "wof:lastmodified":1449029477,
+    "wof:lastmodified":1467082307,
     "wof:name":"Brantley M Adams PHD",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-79.76957,34.186582,-79.76957,34.186582],
+  "bbox": [
+    -79.76957,
+    34.186582,
+    -79.76957,
+    34.186582
+],
   "geometry": {"coordinates":[-79.76957,34.186582],"type":"Point"}
 }

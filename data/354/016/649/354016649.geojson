@@ -2,13 +2,14 @@
   "id": 354016649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.370391,34.424683,-79.370391,34.424683",
     "geom:latitude":34.424683,
     "geom:longitude":-79.370391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Martin Luther King Jr Blvd",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354016649,
-    "wof:lastmodified":1449066234,
+    "wof:lastmodified":1467082421,
     "wof:name":"Lane's Seafood",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-79.370391,34.424683,-79.370391,34.424683],
+  "bbox": [
+    -79.370391,
+    34.424683,
+    -79.370391,
+    34.424683
+],
   "geometry": {"coordinates":[-79.370391,34.424683],"type":"Point"}
 }

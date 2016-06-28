@@ -2,13 +2,14 @@
   "id": 337280001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.017961,32.963795,-80.017961,32.963795",
     "geom:latitude":32.963795,
     "geom:longitude":-80.017961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 Cimmaron Ln",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337280001,
-    "wof:lastmodified":1449027351,
+    "wof:lastmodified":1467082280,
     "wof:name":"Lous Bar & Grill",
     "wof:parent_id":85823911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-80.017961,32.963795,-80.017961,32.963795],
+  "bbox": [
+    -80.017961,
+    32.963795,
+    -80.017961,
+    32.963795
+],
   "geometry": {"coordinates":[-80.017961,32.963795],"type":"Point"}
 }

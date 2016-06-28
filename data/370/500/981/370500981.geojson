@@ -2,13 +2,14 @@
   "id": 370500981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.284326,33.262109,-81.284326,33.262109",
     "geom:latitude":33.262109,
     "geom:longitude":-81.284326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"870 Reedy Branch Rd",
     "sg:city":"Barnwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370500981,
-    "wof:lastmodified":1449029945,
+    "wof:lastmodified":1467082317,
     "wof:name":"Barnwell County Solid Waste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "program"
     ]
 },
-  "bbox": [-81.284326,33.262109,-81.284326,33.262109],
-  "geometry": {"coordinates":[-81.284326,33.262109],"type":"Point"}
+  "bbox": [
+    -81.284326,
+    33.262109,
+    -81.284326,
+    33.262109
+],
+  "geometry": {"coordinates":[-81.28432599999999,33.262109],"type":"Point"}
 }

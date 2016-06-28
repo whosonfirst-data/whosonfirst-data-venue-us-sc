@@ -2,13 +2,14 @@
   "id": 354225849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.032508,33.563034,-79.032508,33.563034",
     "geom:latitude":33.563034,
     "geom:longitude":-79.032508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"569 Wilcox Ave",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354225849,
-    "wof:lastmodified":1449066437,
+    "wof:lastmodified":1467082426,
     "wof:name":"Creekside Critters",
     "wof:parent_id":85813133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.032508,33.563034,-79.032508,33.563034],
-  "geometry": {"coordinates":[-79.032508,33.563034],"type":"Point"}
+  "bbox": [
+    -79.032508,
+    33.563034,
+    -79.032508,
+    33.563034
+],
+  "geometry": {"coordinates":[-79.03250800000001,33.563034],"type":"Point"}
 }

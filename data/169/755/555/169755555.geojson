@@ -2,13 +2,14 @@
   "id": 169755555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.111008,32.920603,-80.111008,32.920603",
     "geom:latitude":32.920603,
     "geom:longitude":-80.111008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5098 Coosaw Creek Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169755555,
-    "wof:lastmodified":1449033615,
+    "wof:lastmodified":1467082380,
     "wof:name":"We Care Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "grounds"
     ]
 },
-  "bbox": [-80.111008,32.920603,-80.111008,32.920603],
+  "bbox": [
+    -80.111008,
+    32.920603,
+    -80.111008,
+    32.920603
+],
   "geometry": {"coordinates":[-80.111008,32.920603],"type":"Point"}
 }

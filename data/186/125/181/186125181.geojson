@@ -2,13 +2,14 @@
   "id": 186125181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.235634,34.712386,-82.235634,34.712386",
     "geom:latitude":34.712386,
     "geom:longitude":-82.235634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"840 SE Main St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186125181,
-    "wof:lastmodified":1449052944,
+    "wof:lastmodified":1467082412,
     "wof:name":"B B A Nonwoven Simpsonville",
     "wof:parent_id":85842975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.235634,34.712386,-82.235634,34.712386],
+  "bbox": [
+    -82.235634,
+    34.712386,
+    -82.235634,
+    34.712386
+],
   "geometry": {"coordinates":[-82.235634,34.712386],"type":"Point"}
 }

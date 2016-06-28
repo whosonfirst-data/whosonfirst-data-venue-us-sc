@@ -2,13 +2,14 @@
   "id": 337518775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.547988,34.191915,-82.547988,34.191915",
     "geom:latitude":34.191915,
     "geom:longitude":-82.547988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1083 Monterey Rd",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337518775,
-    "wof:lastmodified":1449027413,
+    "wof:lastmodified":1467082283,
     "wof:name":"Hudson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.547988,34.191915,-82.547988,34.191915],
+  "bbox": [
+    -82.547988,
+    34.191915,
+    -82.547988,
+    34.191915
+],
   "geometry": {"coordinates":[-82.547988,34.191915],"type":"Point"}
 }

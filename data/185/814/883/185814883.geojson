@@ -2,13 +2,14 @@
   "id": 185814883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.462187,34.860266,-82.462187,34.860266",
     "geom:latitude":34.860266,
     "geom:longitude":-82.462187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4609 White Horse Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185814883,
-    "wof:lastmodified":1449006913,
+    "wof:lastmodified":1467082187,
     "wof:name":"Snips Salon",
     "wof:parent_id":85838763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.462187,34.860266,-82.462187,34.860266],
+  "bbox": [
+    -82.462187,
+    34.860266,
+    -82.462187,
+    34.860266
+],
   "geometry": {"coordinates":[-82.462187,34.860266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337416967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.769334,34.717745,-80.769334,34.717745",
     "geom:latitude":34.717745,
     "geom:longitude":-80.769334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 S Main St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337416967,
-    "wof:lastmodified":1449027310,
+    "wof:lastmodified":1467082279,
     "wof:name":"Tico Credit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institution"
     ]
 },
-  "bbox": [-80.769334,34.717745,-80.769334,34.717745],
+  "bbox": [
+    -80.769334,
+    34.717745,
+    -80.769334,
+    34.717745
+],
   "geometry": {"coordinates":[-80.769334,34.717745],"type":"Point"}
 }

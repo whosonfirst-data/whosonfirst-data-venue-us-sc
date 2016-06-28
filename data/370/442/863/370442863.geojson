@@ -2,13 +2,14 @@
   "id": 370442863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.306552,32.496485,-80.306552,32.496485",
     "geom:latitude":32.496485,
     "geom:longitude":-80.306552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"436 State Hwy 174",
     "sg:city":"Edisto Island",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370442863,
-    "wof:lastmodified":1449030578,
+    "wof:lastmodified":1467082331,
     "wof:name":"Savage Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.306552,32.496485,-80.306552,32.496485],
+  "bbox": [
+    -80.306552,
+    32.496485,
+    -80.306552,
+    32.496485
+],
   "geometry": {"coordinates":[-80.306552,32.496485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353602725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.865466,34.301486,-79.865466,34.301486",
     "geom:latitude":34.301486,
     "geom:longitude":-79.865466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 E Broad St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353602725,
-    "wof:lastmodified":1449019453,
+    "wof:lastmodified":1467082234,
     "wof:name":"Darlington Feed & Seed",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.865466,34.301486,-79.865466,34.301486],
+  "bbox": [
+    -79.865466,
+    34.301486,
+    -79.865466,
+    34.301486
+],
   "geometry": {"coordinates":[-79.865466,34.301486],"type":"Point"}
 }

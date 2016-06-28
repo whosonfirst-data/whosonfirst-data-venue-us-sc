@@ -2,13 +2,14 @@
   "id": 169750853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.805183,33.862799,-78.805183,33.862799",
     "geom:latitude":33.862799,
     "geom:longitude":-78.805183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1859 Hickory Ln",
     "sg:city":"Longs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169750853,
-    "wof:lastmodified":1449034676,
+    "wof:lastmodified":1467082384,
     "wof:name":"Seneca Builders Inc",
     "wof:parent_id":85815435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.805183,33.862799,-78.805183,33.862799],
+  "bbox": [
+    -78.805183,
+    33.862799,
+    -78.805183,
+    33.862799
+],
   "geometry": {"coordinates":[-78.805183,33.862799],"type":"Point"}
 }

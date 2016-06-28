@@ -2,13 +2,14 @@
   "id": 370433353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.254264,34.728823,-82.254264,34.728823",
     "geom:latitude":34.728823,
     "geom:longitude":-82.254264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 SE Main St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370433353,
-    "wof:lastmodified":1449029477,
+    "wof:lastmodified":1467082307,
     "wof:name":"St Francis Family Care Ctr",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.254264,34.728823,-82.254264,34.728823],
-  "geometry": {"coordinates":[-82.254264,34.728823],"type":"Point"}
+  "bbox": [
+    -82.254264,
+    34.728823,
+    -82.254264,
+    34.728823
+],
+  "geometry": {"coordinates":[-82.25426400000001,34.728823],"type":"Point"}
 }

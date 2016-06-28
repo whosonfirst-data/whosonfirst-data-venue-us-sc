@@ -2,13 +2,14 @@
   "id": 353975511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.034486,33.999151,-81.034486,33.999151",
     "geom:latitude":33.999151,
     "geom:longitude":-81.034486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Assembly St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353975511,
-    "wof:lastmodified":1449020456,
+    "wof:lastmodified":1467082255,
     "wof:name":"S C Wildlife/Magazine",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-81.034486,33.999151,-81.034486,33.999151],
+  "bbox": [
+    -81.034486,
+    33.999151,
+    -81.034486,
+    33.999151
+],
   "geometry": {"coordinates":[-81.034486,33.999151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186216985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.26829,34.734267,-82.26829,34.734267",
     "geom:latitude":34.734267,
     "geom:longitude":-82.26829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 N Industrial Dr",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186216985,
-    "wof:lastmodified":1449052719,
+    "wof:lastmodified":1467082410,
     "wof:name":"Rhino Equipment",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rent"
     ]
 },
-  "bbox": [-82.26829,34.734267,-82.26829,34.734267],
-  "geometry": {"coordinates":[-82.26829,34.734267],"type":"Point"}
+  "bbox": [
+    -82.26829,
+    34.734267,
+    -82.26829,
+    34.734267
+],
+  "geometry": {"coordinates":[-82.26828999999999,34.734267],"type":"Point"}
 }

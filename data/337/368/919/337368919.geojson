@@ -2,13 +2,14 @@
   "id": 337368919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.396954,34.842227,-82.396954,34.842227",
     "geom:latitude":34.842227,
     "geom:longitude":-82.396954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Cleveland St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337368919,
-    "wof:lastmodified":1449027108,
+    "wof:lastmodified":1467082271,
     "wof:name":"Reynolds Investment Management",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-82.396954,34.842227,-82.396954,34.842227],
-  "geometry": {"coordinates":[-82.396954,34.842227],"type":"Point"}
+  "bbox": [
+    -82.396954,
+    34.842227,
+    -82.396954,
+    34.842227
+],
+  "geometry": {"coordinates":[-82.39695399999999,34.842227],"type":"Point"}
 }

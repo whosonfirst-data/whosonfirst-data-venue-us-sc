@@ -2,13 +2,14 @@
   "id": 370789651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.886214,33.694656,-78.886214,33.694656",
     "geom:latitude":33.694656,
     "geom:longitude":-78.886214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 8th Ave N",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370789651,
-    "wof:lastmodified":1449030621,
+    "wof:lastmodified":1467082332,
     "wof:name":"Gallery On 8th",
     "wof:parent_id":85816109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.886214,33.694656,-78.886214,33.694656],
+  "bbox": [
+    -78.886214,
+    33.694656,
+    -78.886214,
+    33.694656
+],
   "geometry": {"coordinates":[-78.886214,33.694656],"type":"Point"}
 }

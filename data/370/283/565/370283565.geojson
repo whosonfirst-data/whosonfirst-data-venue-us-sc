@@ -2,13 +2,14 @@
   "id": 370283565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.961008,33.630561,-78.961008,33.630561",
     "geom:latitude":33.630561,
     "geom:longitude":-78.961008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5897 S Kings Hwy",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370283565,
-    "wof:lastmodified":1449030109,
+    "wof:lastmodified":1467082321,
     "wof:name":"Huskins & Huskins",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.961008,33.630561,-78.961008,33.630561],
-  "geometry": {"coordinates":[-78.961008,33.630561],"type":"Point"}
+  "bbox": [
+    -78.961008,
+    33.630561,
+    -78.961008,
+    33.630561
+],
+  "geometry": {"coordinates":[-78.96100800000001,33.630561],"type":"Point"}
 }

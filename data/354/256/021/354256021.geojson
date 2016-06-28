@@ -2,13 +2,14 @@
   "id": 354256021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.345452,33.990003,-80.345452,33.990003",
     "geom:latitude":33.990003,
     "geom:longitude":-80.345452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 Queen Chapel Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354256021,
-    "wof:lastmodified":1449067239,
+    "wof:lastmodified":1467082444,
     "wof:name":"Quinn Chapel AME Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.345452,33.990003,-80.345452,33.990003],
-  "geometry": {"coordinates":[-80.345452,33.990003],"type":"Point"}
+  "bbox": [
+    -80.345452,
+    33.990003,
+    -80.345452,
+    33.990003
+],
+  "geometry": {"coordinates":[-80.34545199999999,33.990003],"type":"Point"}
 }

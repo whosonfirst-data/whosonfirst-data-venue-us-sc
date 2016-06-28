@@ -2,13 +2,14 @@
   "id": 370826295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.012886,34.504927,-82.012886,34.504927",
     "geom:latitude":34.504927,
     "geom:longitude":-82.012886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Hillcrest Dr",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370826295,
-    "wof:lastmodified":1449031551,
+    "wof:lastmodified":1467082353,
     "wof:name":"Senor Garcia Mexican Resta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.012886,34.504927,-82.012886,34.504927],
-  "geometry": {"coordinates":[-82.012886,34.504927],"type":"Point"}
+  "bbox": [
+    -82.012886,
+    34.504927,
+    -82.012886,
+    34.504927
+],
+  "geometry": {"coordinates":[-82.01288599999999,34.504927],"type":"Point"}
 }

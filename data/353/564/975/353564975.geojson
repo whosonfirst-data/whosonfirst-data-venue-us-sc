@@ -2,13 +2,14 @@
   "id": 353564975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.007241,35.053951,-81.007241,35.053951",
     "geom:latitude":35.053951,
     "geom:longitude":-81.007241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2092 Gold Hill Rd",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353564975,
-    "wof:lastmodified":1449020646,
+    "wof:lastmodified":1467082259,
     "wof:name":"Mackey-Mc Pherson Inc",
     "wof:parent_id":85843859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-81.007241,35.053951,-81.007241,35.053951],
-  "geometry": {"coordinates":[-81.007241,35.053951],"type":"Point"}
+  "bbox": [
+    -81.007241,
+    35.053951,
+    -81.007241,
+    35.053951
+],
+  "geometry": {"coordinates":[-81.00724099999999,35.053951],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370342097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.923968,34.148092,-80.923968,34.148092",
     "geom:latitude":34.148092,
     "geom:longitude":-80.923968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 Winslow Way",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370342097,
-    "wof:lastmodified":1449032224,
+    "wof:lastmodified":1467082368,
     "wof:name":"Natural Choice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.923968,34.148092,-80.923968,34.148092],
+  "bbox": [
+    -80.923968,
+    34.148092,
+    -80.923968,
+    34.148092
+],
   "geometry": {"coordinates":[-80.923968,34.148092],"type":"Point"}
 }

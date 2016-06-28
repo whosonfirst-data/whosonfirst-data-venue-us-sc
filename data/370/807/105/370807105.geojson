@@ -2,13 +2,14 @@
   "id": 370807105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.705468,34.890318,-82.705468,34.890318",
     "geom:latitude":34.890318,
     "geom:longitude":-82.705468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 E Jones Ave",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370807105,
-    "wof:lastmodified":1449029963,
+    "wof:lastmodified":1467082317,
     "wof:name":"Pickens City Sanitation Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-82.705468,34.890318,-82.705468,34.890318],
+  "bbox": [
+    -82.705468,
+    34.890318,
+    -82.705468,
+    34.890318
+],
   "geometry": {"coordinates":[-82.705468,34.890318],"type":"Point"}
 }

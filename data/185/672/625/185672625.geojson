@@ -2,13 +2,14 @@
   "id": 185672625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.032562,34.289799,-82.032562,34.289799",
     "geom:latitude":34.289799,
     "geom:longitude":-82.032562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16493 State Hwy 72",
     "sg:city":"Cross Hill",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185672625,
-    "wof:lastmodified":1449006708,
+    "wof:lastmodified":1467082184,
     "wof:name":"Dill's Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-82.032562,34.289799,-82.032562,34.289799],
+  "bbox": [
+    -82.032562,
+    34.289799,
+    -82.032562,
+    34.289799
+],
   "geometry": {"coordinates":[-82.032562,34.289799],"type":"Point"}
 }

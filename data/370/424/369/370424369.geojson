@@ -2,13 +2,14 @@
   "id": 370424369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.928912,35.085279,-81.928912,35.085279",
     "geom:latitude":35.085279,
     "geom:longitude":-81.928912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5555 Parris Bridge Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370424369,
-    "wof:lastmodified":1449032258,
+    "wof:lastmodified":1467082369,
     "wof:name":"Mountain View Baptist Church",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.928912,35.085279,-81.928912,35.085279],
+  "bbox": [
+    -81.928912,
+    35.085279,
+    -81.928912,
+    35.085279
+],
   "geometry": {"coordinates":[-81.928912,35.085279],"type":"Point"}
 }

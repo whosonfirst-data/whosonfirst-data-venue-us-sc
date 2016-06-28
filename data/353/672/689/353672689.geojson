@@ -2,13 +2,14 @@
   "id": 353672689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.904992,33.702845,-78.904992,33.702845",
     "geom:latitude":33.702845,
     "geom:longitude":-78.904992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 US Hwy 501",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353672689,
-    "wof:lastmodified":1449018423,
+    "wof:lastmodified":1467082213,
     "wof:name":"Chicora Irrigation/Landscape",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-78.904992,33.702845,-78.904992,33.702845],
-  "geometry": {"coordinates":[-78.904992,33.702845],"type":"Point"}
+  "bbox": [
+    -78.904992,
+    33.702845,
+    -78.904992,
+    33.702845
+],
+  "geometry": {"coordinates":[-78.90499199999999,33.702845],"type":"Point"}
 }

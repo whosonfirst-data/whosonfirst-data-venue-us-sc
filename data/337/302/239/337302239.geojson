@@ -2,13 +2,14 @@
   "id": 337302239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.889089,35.026918,-81.889089,35.026918",
     "geom:latitude":35.026918,
     "geom:longitude":-81.889089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Mount Pleasant Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337302239,
-    "wof:lastmodified":1449027213,
+    "wof:lastmodified":1467082275,
     "wof:name":"Southeastern Core Supply",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.889089,35.026918,-81.889089,35.026918],
+  "bbox": [
+    -81.889089,
+    35.026918,
+    -81.889089,
+    35.026918
+],
   "geometry": {"coordinates":[-81.889089,35.026918],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337570573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.901015,35.00089,-80.901015,35.00089",
     "geom:latitude":35.00089,
     "geom:longitude":-80.901015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1938 Candlewick Dr",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337570573,
-    "wof:lastmodified":1449027431,
+    "wof:lastmodified":1467082283,
     "wof:name":"Lending Tree",
     "wof:parent_id":85827769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-80.901015,35.00089,-80.901015,35.00089],
+  "bbox": [
+    -80.901015,
+    35.00089,
+    -80.901015,
+    35.00089
+],
   "geometry": {"coordinates":[-80.901015,35.00089],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169859757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.22026,33.959181,-81.22026,33.959181",
     "geom:latitude":33.959181,
     "geom:longitude":-81.22026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1145 Two Notch Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169859757,
-    "wof:lastmodified":1449035043,
+    "wof:lastmodified":1467082385,
     "wof:name":"Old Two Notch Rd Seafood Mkt",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-81.22026,33.959181,-81.22026,33.959181],
+  "bbox": [
+    -81.22026,
+    33.959181,
+    -81.22026,
+    33.959181
+],
   "geometry": {"coordinates":[-81.22026,33.959181],"type":"Point"}
 }

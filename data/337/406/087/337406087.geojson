@@ -2,13 +2,14 @@
   "id": 337406087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.992363,34.942465,-81.992363,34.942465",
     "geom:latitude":34.942465,
     "geom:longitude":-81.992363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 W Blackstock Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337406087,
-    "wof:lastmodified":1449027382,
+    "wof:lastmodified":1467082282,
     "wof:name":"Wes Bolick Bedrooms Inc",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bed"
     ]
 },
-  "bbox": [-81.992363,34.942465,-81.992363,34.942465],
+  "bbox": [
+    -81.992363,
+    34.942465,
+    -81.992363,
+    34.942465
+],
   "geometry": {"coordinates":[-81.992363,34.942465],"type":"Point"}
 }

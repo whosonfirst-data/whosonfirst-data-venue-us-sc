@@ -2,13 +2,14 @@
   "id": 353790931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.354233,34.884596,-82.354233,34.884596",
     "geom:latitude":34.884596,
     "geom:longitude":-82.354233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Rushmore Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353790931,
-    "wof:lastmodified":1449020227,
+    "wof:lastmodified":1467082250,
     "wof:name":"Mimi's Treasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.354233,34.884596,-82.354233,34.884596],
-  "geometry": {"coordinates":[-82.354233,34.884596],"type":"Point"}
+  "bbox": [
+    -82.354233,
+    34.884596,
+    -82.354233,
+    34.884596
+],
+  "geometry": {"coordinates":[-82.35423299999999,34.884596],"type":"Point"}
 }

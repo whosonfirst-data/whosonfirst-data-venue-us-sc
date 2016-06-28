@@ -2,13 +2,14 @@
   "id": 370588231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.106383,34.900461,-82.106383,34.900461",
     "geom:latitude":34.900461,
     "geom:longitude":-82.106383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"285 Parkway E",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370588231,
-    "wof:lastmodified":1449031814,
+    "wof:lastmodified":1467082359,
     "wof:name":"Sally Foster Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-82.106383,34.900461,-82.106383,34.900461],
-  "geometry": {"coordinates":[-82.106383,34.900461],"type":"Point"}
+  "bbox": [
+    -82.106383,
+    34.900461,
+    -82.106383,
+    34.900461
+],
+  "geometry": {"coordinates":[-82.10638299999999,34.900461],"type":"Point"}
 }

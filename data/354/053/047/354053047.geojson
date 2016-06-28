@@ -2,13 +2,14 @@
   "id": 354053047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.001945,34.922071,-82.001945,34.922071",
     "geom:latitude":34.922071,
     "geom:longitude":-82.001945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"446 Oak Grove Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354053047,
-    "wof:lastmodified":1449066252,
+    "wof:lastmodified":1467082422,
     "wof:name":"W A Mc Daniel & Co",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.001945,34.922071,-82.001945,34.922071],
-  "geometry": {"coordinates":[-82.001945,34.922071],"type":"Point"}
+  "bbox": [
+    -82.001945,
+    34.922071,
+    -82.001945,
+    34.922071
+],
+  "geometry": {"coordinates":[-82.00194500000001,34.922071],"type":"Point"}
 }

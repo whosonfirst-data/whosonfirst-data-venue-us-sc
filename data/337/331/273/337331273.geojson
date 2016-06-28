@@ -2,13 +2,14 @@
   "id": 337331273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.185305,33.875943,-80.185305,33.875943",
     "geom:latitude":33.875943,
     "geom:longitude":-80.185305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4995 E Brewington Rd",
     "sg:city":"Gable",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337331273,
-    "wof:lastmodified":1449027439,
+    "wof:lastmodified":1467082284,
     "wof:name":"Peebles Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.185305,33.875943,-80.185305,33.875943],
+  "bbox": [
+    -80.185305,
+    33.875943,
+    -80.185305,
+    33.875943
+],
   "geometry": {"coordinates":[-80.185305,33.875943],"type":"Point"}
 }

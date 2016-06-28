@@ -2,13 +2,14 @@
   "id": 185916619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.068491,33.951665,-81.068491,33.951665",
     "geom:latitude":33.951665,
     "geom:longitude":-81.068491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Hickory Ln",
     "sg:city":"Cayce",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185916619,
-    "wof:lastmodified":1449007490,
+    "wof:lastmodified":1467082196,
     "wof:name":"Phillip's Grading & Paving Co",
     "wof:parent_id":85817325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.068491,33.951665,-81.068491,33.951665],
-  "geometry": {"coordinates":[-81.068491,33.951665],"type":"Point"}
+  "bbox": [
+    -81.068491,
+    33.951665,
+    -81.068491,
+    33.951665
+],
+  "geometry": {"coordinates":[-81.06849099999999,33.951665],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354391441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.066073,35.079001,-81.066073,35.079001",
     "geom:latitude":35.079001,
     "geom:longitude":-81.066073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5221 Green Cove Rd",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354391441,
-    "wof:lastmodified":1449067054,
+    "wof:lastmodified":1467082440,
     "wof:name":"Hilton Head Island Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.066073,35.079001,-81.066073,35.079001],
+  "bbox": [
+    -81.066073,
+    35.079001,
+    -81.066073,
+    35.079001
+],
   "geometry": {"coordinates":[-81.066073,35.079001],"type":"Point"}
 }

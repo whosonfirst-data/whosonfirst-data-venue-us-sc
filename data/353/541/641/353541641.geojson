@@ -2,13 +2,14 @@
   "id": 353541641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.948711,32.710354,-79.948711,32.710354",
     "geom:latitude":32.710354,
     "geom:longitude":-79.948711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Oak Turn Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353541641,
-    "wof:lastmodified":1449018536,
+    "wof:lastmodified":1467082215,
     "wof:name":"Gemplus",
     "wof:parent_id":85847603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-79.948711,32.710354,-79.948711,32.710354],
+  "bbox": [
+    -79.948711,
+    32.710354,
+    -79.948711,
+    32.710354
+],
   "geometry": {"coordinates":[-79.948711,32.710354],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354250547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.714352,32.171929,-80.714352,32.171929",
     "geom:latitude":32.171929,
     "geom:longitude":-80.714352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Brigantine",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354250547,
-    "wof:lastmodified":1449066921,
+    "wof:lastmodified":1467082437,
     "wof:name":"Leggett & Platt Inc",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bedding"
     ]
 },
-  "bbox": [-80.714352,32.171929,-80.714352,32.171929],
-  "geometry": {"coordinates":[-80.714352,32.171929],"type":"Point"}
+  "bbox": [
+    -80.714352,
+    32.171929,
+    -80.714352,
+    32.171929
+],
+  "geometry": {"coordinates":[-80.71435200000001,32.171929],"type":"Point"}
 }

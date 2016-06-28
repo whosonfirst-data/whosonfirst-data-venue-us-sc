@@ -2,13 +2,14 @@
   "id": 353565079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.171809,34.199785,-82.171809,34.199785",
     "geom:latitude":34.199785,
     "geom:longitude":-82.171809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Montague Ave",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353565079,
-    "wof:lastmodified":1449020581,
+    "wof:lastmodified":1467082257,
     "wof:name":"Bikes & Boards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parts"
     ]
 },
-  "bbox": [-82.171809,34.199785,-82.171809,34.199785],
+  "bbox": [
+    -82.171809,
+    34.199785,
+    -82.171809,
+    34.199785
+],
   "geometry": {"coordinates":[-82.171809,34.199785],"type":"Point"}
 }

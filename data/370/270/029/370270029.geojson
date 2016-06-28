@@ -2,13 +2,14 @@
   "id": 370270029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.291498,33.918363,-81.291498,33.918363",
     "geom:latitude":33.918363,
     "geom:longitude":-81.291498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Longs Pond Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370270029,
-    "wof:lastmodified":1449029692,
+    "wof:lastmodified":1467082311,
     "wof:name":"Carolina Quality Restaura",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.291498,33.918363,-81.291498,33.918363],
+  "bbox": [
+    -81.291498,
+    33.918363,
+    -81.291498,
+    33.918363
+],
   "geometry": {"coordinates":[-81.291498,33.918363],"type":"Point"}
 }

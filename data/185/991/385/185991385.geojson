@@ -2,13 +2,14 @@
   "id": 185991385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.064946,32.82091,-80.064946,32.82091",
     "geom:latitude":32.82091,
     "geom:longitude":-80.064946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3531 Mary Ader Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185991385,
-    "wof:lastmodified":1449007108,
+    "wof:lastmodified":1467082190,
     "wof:name":"Charlestown Internal Medicine",
     "wof:parent_id":85820043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.064946,32.82091,-80.064946,32.82091],
-  "geometry": {"coordinates":[-80.064946,32.82091],"type":"Point"}
+  "bbox": [
+    -80.064946,
+    32.82091,
+    -80.064946,
+    32.82091
+],
+  "geometry": {"coordinates":[-80.06494600000001,32.82091],"type":"Point"}
 }

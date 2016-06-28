@@ -2,13 +2,14 @@
   "id": 370601375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.023458,34.148455,-79.023458,34.148455",
     "geom:latitude":34.148455,
     "geom:longitude":-79.023458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5582 State Hwy 9 W",
     "sg:city":"Green Sea",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370601375,
-    "wof:lastmodified":1449030610,
+    "wof:lastmodified":1467082332,
     "wof:name":"Marlowe's Grocery & Supplies",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-79.023458,34.148455,-79.023458,34.148455],
-  "geometry": {"coordinates":[-79.023458,34.148455],"type":"Point"}
+  "bbox": [
+    -79.023458,
+    34.148455,
+    -79.023458,
+    34.148455
+],
+  "geometry": {"coordinates":[-79.02345800000001,34.148455],"type":"Point"}
 }

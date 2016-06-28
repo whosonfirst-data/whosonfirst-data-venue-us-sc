@@ -2,13 +2,14 @@
   "id": 185742815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.066682,34.764646,-83.066682,34.764646",
     "geom:latitude":34.764646,
     "geom:longitude":-83.066682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Browns Square Dr",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185742815,
-    "wof:lastmodified":1449006709,
+    "wof:lastmodified":1467082184,
     "wof:name":"Walhalla Rescue Squad",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-83.066682,34.764646,-83.066682,34.764646],
+  "bbox": [
+    -83.066682,
+    34.764646,
+    -83.066682,
+    34.764646
+],
   "geometry": {"coordinates":[-83.066682,34.764646],"type":"Point"}
 }

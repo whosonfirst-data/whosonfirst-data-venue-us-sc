@@ -2,13 +2,14 @@
   "id": 353614907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.798589,35.019181,-81.798589,35.019181",
     "geom:latitude":35.019181,
     "geom:longitude":-81.798589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Rutledge St",
     "sg:city":"Cowpens",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353614907,
-    "wof:lastmodified":1449020889,
+    "wof:lastmodified":1467082264,
     "wof:name":"Drain Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.798589,35.019181,-81.798589,35.019181],
-  "geometry": {"coordinates":[-81.798589,35.019181],"type":"Point"}
+  "bbox": [
+    -81.798589,
+    35.019181,
+    -81.798589,
+    35.019181
+],
+  "geometry": {"coordinates":[-81.79858900000001,35.019181],"type":"Point"}
 }

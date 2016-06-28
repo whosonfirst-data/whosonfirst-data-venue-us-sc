@@ -2,13 +2,14 @@
   "id": 370478955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.424726,35.127532,-81.424726,35.127532",
     "geom:latitude":35.127532,
     "geom:longitude":-81.424726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 McSwain Rd",
     "sg:city":"Blacksburg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370478955,
-    "wof:lastmodified":1449029180,
+    "wof:lastmodified":1467082300,
     "wof:name":"Evans Forest Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forester"
     ]
 },
-  "bbox": [-81.424726,35.127532,-81.424726,35.127532],
-  "geometry": {"coordinates":[-81.424726,35.127532],"type":"Point"}
+  "bbox": [
+    -81.424726,
+    35.127532,
+    -81.424726,
+    35.127532
+],
+  "geometry": {"coordinates":[-81.42472600000001,35.127532],"type":"Point"}
 }

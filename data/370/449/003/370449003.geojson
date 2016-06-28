@@ -2,13 +2,14 @@
   "id": 370449003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.941269,32.775556,-79.941269,32.775556",
     "geom:latitude":32.775556,
     "geom:longitude":-79.941269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Broad St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370449003,
-    "wof:lastmodified":1449032220,
+    "wof:lastmodified":1467082368,
     "wof:name":"William Olasov Co LLC",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-79.941269,32.775556,-79.941269,32.775556],
-  "geometry": {"coordinates":[-79.941269,32.775556],"type":"Point"}
+  "bbox": [
+    -79.941269,
+    32.775556,
+    -79.941269,
+    32.775556
+],
+  "geometry": {"coordinates":[-79.94126900000001,32.775556],"type":"Point"}
 }

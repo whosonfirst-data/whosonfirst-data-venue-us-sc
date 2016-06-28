@@ -2,13 +2,14 @@
   "id": 169857209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.586576,33.774239,-81.586576,33.774239",
     "geom:latitude":33.774239,
     "geom:longitude":-81.586576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Sawyer Rd",
     "sg:city":"Monetta",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169857209,
-    "wof:lastmodified":1449034827,
+    "wof:lastmodified":1467082384,
     "wof:name":"Commercial Cooling",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.586576,33.774239,-81.586576,33.774239],
-  "geometry": {"coordinates":[-81.586576,33.774239],"type":"Point"}
+  "bbox": [
+    -81.586576,
+    33.774239,
+    -81.586576,
+    33.774239
+],
+  "geometry": {"coordinates":[-81.58657599999999,33.774239],"type":"Point"}
 }

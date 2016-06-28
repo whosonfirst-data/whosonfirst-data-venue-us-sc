@@ -2,13 +2,14 @@
   "id": 370560481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.970446,32.867767,-79.970446,32.867767",
     "geom:latitude":32.867767,
     "geom:longitude":-79.970446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1899 N Hobson Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370560481,
-    "wof:lastmodified":1449031681,
+    "wof:lastmodified":1467082356,
     "wof:name":"S C Resarch Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.970446,32.867767,-79.970446,32.867767],
+  "bbox": [
+    -79.970446,
+    32.867767,
+    -79.970446,
+    32.867767
+],
   "geometry": {"coordinates":[-79.970446,32.867767],"type":"Point"}
 }

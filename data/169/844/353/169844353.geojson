@@ -2,13 +2,14 @@
   "id": 169844353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.040647,33.988245,-81.040647,33.988245",
     "geom:latitude":33.988245,
     "geom:longitude":-81.040647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Huger St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169844353,
-    "wof:lastmodified":1449034077,
+    "wof:lastmodified":1467082382,
     "wof:name":"S L Munson & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "abrasive"
     ]
 },
-  "bbox": [-81.040647,33.988245,-81.040647,33.988245],
-  "geometry": {"coordinates":[-81.040647,33.988245],"type":"Point"}
+  "bbox": [
+    -81.040647,
+    33.988245,
+    -81.040647,
+    33.988245
+],
+  "geometry": {"coordinates":[-81.04064700000001,33.988245],"type":"Point"}
 }

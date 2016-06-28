@@ -2,13 +2,14 @@
   "id": 337323551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.943348,34.129701,-79.943348,34.129701",
     "geom:latitude":34.129701,
     "geom:longitude":-79.943348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"433 W Smith St",
     "sg:city":"Timmonsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337323551,
-    "wof:lastmodified":1449027013,
+    "wof:lastmodified":1467082268,
     "wof:name":"Farmers Bazaar & Flea Market",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "market"
     ]
 },
-  "bbox": [-79.943348,34.129701,-79.943348,34.129701],
+  "bbox": [
+    -79.943348,
+    34.129701,
+    -79.943348,
+    34.129701
+],
   "geometry": {"coordinates":[-79.943348,34.129701],"type":"Point"}
 }

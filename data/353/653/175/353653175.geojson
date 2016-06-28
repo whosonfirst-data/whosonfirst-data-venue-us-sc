@@ -2,13 +2,14 @@
   "id": 353653175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.266551,34.939195,-82.266551,34.939195",
     "geom:latitude":34.939195,
     "geom:longitude":-82.266551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 W Wade Hampton Blvd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353653175,
-    "wof:lastmodified":1449018443,
+    "wof:lastmodified":1467082214,
     "wof:name":"Holiday Inn Express Greer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.266551,34.939195,-82.266551,34.939195],
-  "geometry": {"coordinates":[-82.266551,34.939195],"type":"Point"}
+  "bbox": [
+    -82.266551,
+    34.939195,
+    -82.266551,
+    34.939195
+],
+  "geometry": {"coordinates":[-82.26655100000001,34.939195],"type":"Point"}
 }

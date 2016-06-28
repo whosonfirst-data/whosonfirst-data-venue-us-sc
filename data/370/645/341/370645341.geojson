@@ -2,13 +2,14 @@
   "id": 370645341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.761461,34.675278,-80.761461,34.675278",
     "geom:latitude":34.675278,
     "geom:longitude":-80.761461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1477 Lynwood Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370645341,
-    "wof:lastmodified":1449029430,
+    "wof:lastmodified":1467082305,
     "wof:name":"Strictly Business Barber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.761461,34.675278,-80.761461,34.675278],
+  "bbox": [
+    -80.761461,
+    34.675278,
+    -80.761461,
+    34.675278
+],
   "geometry": {"coordinates":[-80.761461,34.675278],"type":"Point"}
 }

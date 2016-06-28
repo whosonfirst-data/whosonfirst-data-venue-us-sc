@@ -2,13 +2,14 @@
   "id": 186309961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.051315,34.880017,-81.051315,34.880017",
     "geom:latitude":34.880017,
     "geom:longitude":-81.051315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2553 Saluda Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186309961,
-    "wof:lastmodified":1449050993,
+    "wof:lastmodified":1467082393,
     "wof:name":"Restoration Thrift Shop",
     "wof:parent_id":85851537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "thrift"
     ]
 },
-  "bbox": [-81.051315,34.880017,-81.051315,34.880017],
+  "bbox": [
+    -81.051315,
+    34.880017,
+    -81.051315,
+    34.880017
+],
   "geometry": {"coordinates":[-81.051315,34.880017],"type":"Point"}
 }

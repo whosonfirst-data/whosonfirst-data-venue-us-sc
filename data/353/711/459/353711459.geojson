@@ -2,13 +2,14 @@
   "id": 353711459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.040681,35.11535,-82.040681,35.11535",
     "geom:latitude":35.11535,
     "geom:longitude":-82.040681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8790 State Hwy 9",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353711459,
-    "wof:lastmodified":1449020355,
+    "wof:lastmodified":1467082252,
     "wof:name":"Advanced Satellite & Sound",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "system"
     ]
 },
-  "bbox": [-82.040681,35.11535,-82.040681,35.11535],
-  "geometry": {"coordinates":[-82.040681,35.11535],"type":"Point"}
+  "bbox": [
+    -82.040681,
+    35.11535,
+    -82.040681,
+    35.11535
+],
+  "geometry": {"coordinates":[-82.04068100000001,35.11535],"type":"Point"}
 }

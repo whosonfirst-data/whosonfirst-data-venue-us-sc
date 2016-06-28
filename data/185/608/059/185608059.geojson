@@ -2,13 +2,14 @@
   "id": 185608059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.070507,32.976278,-80.070507,32.976278",
     "geom:latitude":32.976278,
     "geom:longitude":-80.070507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9298 Medical Plaza Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185608059,
-    "wof:lastmodified":1449007295,
+    "wof:lastmodified":1467082193,
     "wof:name":"University Family Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.070507,32.976278,-80.070507,32.976278],
-  "geometry": {"coordinates":[-80.070507,32.976278],"type":"Point"}
+  "bbox": [
+    -80.070507,
+    32.976278,
+    -80.070507,
+    32.976278
+],
+  "geometry": {"coordinates":[-80.07050700000001,32.976278],"type":"Point"}
 }

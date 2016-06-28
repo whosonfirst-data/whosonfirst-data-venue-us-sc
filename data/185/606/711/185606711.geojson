@@ -2,13 +2,14 @@
   "id": 185606711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.704315,33.39537,-81.704315,33.39537",
     "geom:latitude":33.39537,
     "geom:longitude":-81.704315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2278 Williston Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185606711,
-    "wof:lastmodified":1449006863,
+    "wof:lastmodified":1467082186,
     "wof:name":"Painter & Allied Trade",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.704315,33.39537,-81.704315,33.39537],
-  "geometry": {"coordinates":[-81.704315,33.39537],"type":"Point"}
+  "bbox": [
+    -81.704315,
+    33.39537,
+    -81.704315,
+    33.39537
+],
+  "geometry": {"coordinates":[-81.70431499999999,33.39537],"type":"Point"}
 }

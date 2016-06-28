@@ -2,13 +2,14 @@
   "id": 370234631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.406149,34.842199,-82.406149,34.842199",
     "geom:latitude":34.842199,
     "geom:longitude":-82.406149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Augusta St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370234631,
-    "wof:lastmodified":1449032281,
+    "wof:lastmodified":1467082369,
     "wof:name":"Grafx Inc",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "graphics"
     ]
 },
-  "bbox": [-82.406149,34.842199,-82.406149,34.842199],
+  "bbox": [
+    -82.406149,
+    34.842199,
+    -82.406149,
+    34.842199
+],
   "geometry": {"coordinates":[-82.406149,34.842199],"type":"Point"}
 }

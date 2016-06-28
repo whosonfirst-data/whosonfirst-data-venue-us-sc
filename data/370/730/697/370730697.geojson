@@ -2,13 +2,14 @@
   "id": 370730697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.169116,33.018582,-80.169116,33.018582",
     "geom:latitude":33.018582,
     "geom:longitude":-80.169116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Hemphill Ct",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370730697,
-    "wof:lastmodified":1449031923,
+    "wof:lastmodified":1467082361,
     "wof:name":"CCS",
     "wof:parent_id":85833421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-80.169116,33.018582,-80.169116,33.018582],
+  "bbox": [
+    -80.169116,
+    33.018582,
+    -80.169116,
+    33.018582
+],
   "geometry": {"coordinates":[-80.169116,33.018582],"type":"Point"}
 }

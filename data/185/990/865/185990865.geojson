@@ -2,13 +2,14 @@
   "id": 185990865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.032426,33.562339,-79.032426,33.562339",
     "geom:latitude":33.562339,
     "geom:longitude":-79.032426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"571 Baker Ave",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185990865,
-    "wof:lastmodified":1449007671,
+    "wof:lastmodified":1467082199,
     "wof:name":"Marshalls Painting",
     "wof:parent_id":85813133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.032426,33.562339,-79.032426,33.562339],
+  "bbox": [
+    -79.032426,
+    33.562339,
+    -79.032426,
+    33.562339
+],
   "geometry": {"coordinates":[-79.032426,33.562339],"type":"Point"}
 }

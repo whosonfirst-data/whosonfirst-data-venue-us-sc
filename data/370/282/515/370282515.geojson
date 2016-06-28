@@ -2,13 +2,14 @@
   "id": 370282515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.248541,34.869923,-82.248541,34.869923",
     "geom:latitude":34.869923,
     "geom:longitude":-82.248541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1074 S Batesville Rd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370282515,
-    "wof:lastmodified":1449031202,
+    "wof:lastmodified":1467082345,
     "wof:name":"Custom Images Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-82.248541,34.869923,-82.248541,34.869923],
+  "bbox": [
+    -82.248541,
+    34.869923,
+    -82.248541,
+    34.869923
+],
   "geometry": {"coordinates":[-82.248541,34.869923],"type":"Point"}
 }

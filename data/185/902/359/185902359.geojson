@@ -2,13 +2,14 @@
   "id": 185902359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.536453,33.911873,-81.536453,33.911873",
     "geom:latitude":33.911873,
     "geom:longitude":-81.536453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 W Church St",
     "sg:city":"Batesburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185902359,
-    "wof:lastmodified":1449007789,
+    "wof:lastmodified":1467082200,
     "wof:name":"Shun Lee Chinese Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.536453,33.911873,-81.536453,33.911873],
-  "geometry": {"coordinates":[-81.536453,33.911873],"type":"Point"}
+  "bbox": [
+    -81.536453,
+    33.911873,
+    -81.536453,
+    33.911873
+],
+  "geometry": {"coordinates":[-81.53645299999999,33.911873],"type":"Point"}
 }

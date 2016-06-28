@@ -2,13 +2,14 @@
   "id": 370795461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.035438,32.99001,-80.035438,32.99001",
     "geom:latitude":32.99001,
     "geom:longitude":-80.035438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Red Bank Rd",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370795461,
-    "wof:lastmodified":1449031077,
+    "wof:lastmodified":1467082342,
     "wof:name":"Pet Rest Cemetery & Cremation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crematory"
     ]
 },
-  "bbox": [-80.035438,32.99001,-80.035438,32.99001],
+  "bbox": [
+    -80.035438,
+    32.99001,
+    -80.035438,
+    32.99001
+],
   "geometry": {"coordinates":[-80.035438,32.99001],"type":"Point"}
 }

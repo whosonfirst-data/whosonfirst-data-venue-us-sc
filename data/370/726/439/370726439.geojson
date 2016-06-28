@@ -2,13 +2,14 @@
   "id": 370726439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.006247,34.985632,-82.006247,34.985632",
     "geom:latitude":34.985632,
     "geom:longitude":-82.006247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1714 New Cut Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370726439,
-    "wof:lastmodified":1449031396,
+    "wof:lastmodified":1467082349,
     "wof:name":"Mason Distributing Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-82.006247,34.985632,-82.006247,34.985632],
+  "bbox": [
+    -82.006247,
+    34.985632,
+    -82.006247,
+    34.985632
+],
   "geometry": {"coordinates":[-82.006247,34.985632],"type":"Point"}
 }

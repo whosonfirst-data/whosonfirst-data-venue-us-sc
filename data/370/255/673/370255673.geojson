@@ -2,13 +2,14 @@
   "id": 370255673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.672804,32.43596,-80.672804,32.43596",
     "geom:latitude":32.43596,
     "geom:longitude":-80.672804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 Charles St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370255673,
-    "wof:lastmodified":1449030637,
+    "wof:lastmodified":1467082332,
     "wof:name":"Turbeville Insurance Agency",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.672804,32.43596,-80.672804,32.43596],
+  "bbox": [
+    -80.672804,
+    32.43596,
+    -80.672804,
+    32.43596
+],
   "geometry": {"coordinates":[-80.672804,32.43596],"type":"Point"}
 }

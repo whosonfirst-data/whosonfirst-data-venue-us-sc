@@ -2,13 +2,14 @@
   "id": 370834787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.892096,34.95572,-81.892096,34.95572",
     "geom:latitude":34.95572,
     "geom:longitude":-81.892096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Overland Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370834787,
-    "wof:lastmodified":1449029403,
+    "wof:lastmodified":1467082305,
     "wof:name":"Palmetto Shutter & Blind Co",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "blind"
     ]
 },
-  "bbox": [-81.892096,34.95572,-81.892096,34.95572],
+  "bbox": [
+    -81.892096,
+    34.95572,
+    -81.892096,
+    34.95572
+],
   "geometry": {"coordinates":[-81.892096,34.95572],"type":"Point"}
 }

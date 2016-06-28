@@ -2,13 +2,14 @@
   "id": 337484275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.144621,34.988251,-81.144621,34.988251",
     "geom:latitude":34.988251,
     "geom:longitude":-81.144621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"263 Tirzah Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337484275,
-    "wof:lastmodified":1449027691,
+    "wof:lastmodified":1467082293,
     "wof:name":"Cabaniss Automotive",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.144621,34.988251,-81.144621,34.988251],
+  "bbox": [
+    -81.144621,
+    34.988251,
+    -81.144621,
+    34.988251
+],
   "geometry": {"coordinates":[-81.144621,34.988251],"type":"Point"}
 }

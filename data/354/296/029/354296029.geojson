@@ -2,13 +2,14 @@
   "id": 354296029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.053508,34.734455,-83.053508,34.734455",
     "geom:latitude":34.734455,
     "geom:longitude":-83.053508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 State Hwy 11 Scn",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354296029,
-    "wof:lastmodified":1449067325,
+    "wof:lastmodified":1467082446,
     "wof:name":"Nason Co",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "instr"
     ]
 },
-  "bbox": [-83.053508,34.734455,-83.053508,34.734455],
-  "geometry": {"coordinates":[-83.053508,34.734455],"type":"Point"}
+  "bbox": [
+    -83.053508,
+    34.734455,
+    -83.053508,
+    34.734455
+],
+  "geometry": {"coordinates":[-83.05350799999999,34.734455],"type":"Point"}
 }

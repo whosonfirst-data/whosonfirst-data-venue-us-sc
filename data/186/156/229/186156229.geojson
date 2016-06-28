@@ -2,13 +2,14 @@
   "id": 186156229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.78015,34.196555,-79.78015,34.196555",
     "geom:latitude":34.196555,
     "geom:longitude":-79.78015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 W Evans St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186156229,
-    "wof:lastmodified":1449050941,
+    "wof:lastmodified":1467082393,
     "wof:name":"McCoy Drywall & Plastering",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.78015,34.196555,-79.78015,34.196555],
-  "geometry": {"coordinates":[-79.78015,34.196555],"type":"Point"}
+  "bbox": [
+    -79.78015,
+    34.196555,
+    -79.78015,
+    34.196555
+],
+  "geometry": {"coordinates":[-79.78015000000001,34.196555],"type":"Point"}
 }

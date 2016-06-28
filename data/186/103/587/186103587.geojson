@@ -2,13 +2,14 @@
   "id": 186103587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.266679,34.206652,-79.266679,34.206652",
     "geom:latitude":34.206652,
     "geom:longitude":-79.266679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Oneal St",
     "sg:city":"Mullins",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186103587,
-    "wof:lastmodified":1449052042,
+    "wof:lastmodified":1467082403,
     "wof:name":"Palmetto School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.266679,34.206652,-79.266679,34.206652],
+  "bbox": [
+    -79.266679,
+    34.206652,
+    -79.266679,
+    34.206652
+],
   "geometry": {"coordinates":[-79.266679,34.206652],"type":"Point"}
 }

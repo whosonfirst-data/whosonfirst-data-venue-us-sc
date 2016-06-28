@@ -2,13 +2,14 @@
   "id": 370852179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.076747,34.983653,-81.076747,34.983653",
     "geom:latitude":34.983653,
     "geom:longitude":-81.076747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Grayson Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370852179,
-    "wof:lastmodified":1449031897,
+    "wof:lastmodified":1467082361,
     "wof:name":"Eagle Lighting",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lighting"
     ]
 },
-  "bbox": [-81.076747,34.983653,-81.076747,34.983653],
+  "bbox": [
+    -81.076747,
+    34.983653,
+    -81.076747,
+    34.983653
+],
   "geometry": {"coordinates":[-81.076747,34.983653],"type":"Point"}
 }

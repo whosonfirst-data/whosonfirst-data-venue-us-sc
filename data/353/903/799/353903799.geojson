@@ -2,13 +2,14 @@
   "id": 353903799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.715966,33.568188,-81.715966,33.568188",
     "geom:latitude":33.568188,
     "geom:longitude":-81.715966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 Chesterfield St N",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353903799,
-    "wof:lastmodified":1449018407,
+    "wof:lastmodified":1467082213,
     "wof:name":"S C Net",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.715966,33.568188,-81.715966,33.568188],
-  "geometry": {"coordinates":[-81.715966,33.568188],"type":"Point"}
+  "bbox": [
+    -81.715966,
+    33.568188,
+    -81.715966,
+    33.568188
+],
+  "geometry": {"coordinates":[-81.71596599999999,33.568188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354372621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.090984,33.843243,-79.090984,33.843243",
     "geom:latitude":33.843243,
     "geom:longitude":-79.090984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 US Hwy 378",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354372621,
-    "wof:lastmodified":1449066970,
+    "wof:lastmodified":1467082438,
     "wof:name":"Palmetto Funeral Home",
     "wof:parent_id":85808343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-79.090984,33.843243,-79.090984,33.843243],
-  "geometry": {"coordinates":[-79.090984,33.843243],"type":"Point"}
+  "bbox": [
+    -79.090984,
+    33.843243,
+    -79.090984,
+    33.843243
+],
+  "geometry": {"coordinates":[-79.09098400000001,33.843243],"type":"Point"}
 }

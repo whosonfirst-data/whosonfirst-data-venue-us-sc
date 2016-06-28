@@ -2,13 +2,14 @@
   "id": 353579587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.024284,34.055561,-81.024284,34.055561",
     "geom:latitude":34.055561,
     "geom:longitude":-81.024284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 Rosedale Arch",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353579587,
-    "wof:lastmodified":1449019073,
+    "wof:lastmodified":1467082226,
     "wof:name":"S&R Specialty Gifts",
     "wof:parent_id":85817185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.024284,34.055561,-81.024284,34.055561],
-  "geometry": {"coordinates":[-81.024284,34.055561],"type":"Point"}
+  "bbox": [
+    -81.024284,
+    34.055561,
+    -81.024284,
+    34.055561
+],
+  "geometry": {"coordinates":[-81.02428399999999,34.055561],"type":"Point"}
 }

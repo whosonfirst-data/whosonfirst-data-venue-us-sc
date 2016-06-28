@@ -2,13 +2,14 @@
   "id": 370685471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.343636,34.167757,-81.343636,34.167757",
     "geom:latitude":34.167757,
     "geom:longitude":-81.343636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Columbia Ave",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370685471,
-    "wof:lastmodified":1449032384,
+    "wof:lastmodified":1467082372,
     "wof:name":"Cafe Roca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.343636,34.167757,-81.343636,34.167757],
+  "bbox": [
+    -81.343636,
+    34.167757,
+    -81.343636,
+    34.167757
+],
   "geometry": {"coordinates":[-81.343636,34.167757],"type":"Point"}
 }

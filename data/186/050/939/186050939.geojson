@@ -2,13 +2,14 @@
   "id": 186050939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.415833,34.271961,-81.415833,34.271961",
     "geom:latitude":34.271961,
     "geom:longitude":-81.415833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Butterfly Ln",
     "sg:city":"Pomaria",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186050939,
-    "wof:lastmodified":1449051856,
+    "wof:lastmodified":1467082402,
     "wof:name":"Curb Appeal Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.415833,34.271961,-81.415833,34.271961],
-  "geometry": {"coordinates":[-81.415833,34.271961],"type":"Point"}
+  "bbox": [
+    -81.415833,
+    34.271961,
+    -81.415833,
+    34.271961
+],
+  "geometry": {"coordinates":[-81.41583300000001,34.271961],"type":"Point"}
 }

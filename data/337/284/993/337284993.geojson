@@ -2,13 +2,14 @@
   "id": 337284993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.751572,33.873154,-79.751572,33.873154",
     "geom:latitude":33.873154,
     "geom:longitude":-79.751572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 N Church St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337284993,
-    "wof:lastmodified":1449027457,
+    "wof:lastmodified":1467082284,
     "wof:name":"Lower Florence County Survey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-79.751572,33.873154,-79.751572,33.873154],
+  "bbox": [
+    -79.751572,
+    33.873154,
+    -79.751572,
+    33.873154
+],
   "geometry": {"coordinates":[-79.751572,33.873154],"type":"Point"}
 }

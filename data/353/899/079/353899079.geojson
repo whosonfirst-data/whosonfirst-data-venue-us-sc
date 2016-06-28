@@ -2,13 +2,14 @@
   "id": 353899079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.3618,34.479987,-79.3618,34.479987",
     "geom:latitude":34.479987,
     "geom:longitude":-79.3618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"841 Oakland Rd",
     "sg:city":"Hamer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353899079,
-    "wof:lastmodified":1449020657,
+    "wof:lastmodified":1467082259,
     "wof:name":"Roger's Convenience Store",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.3618,34.479987,-79.3618,34.479987],
+  "bbox": [
+    -79.3618,
+    34.479987,
+    -79.3618,
+    34.479987
+],
   "geometry": {"coordinates":[-79.3618,34.479987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354059907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.006947,32.870763,-80.006947,32.870763",
     "geom:latitude":32.870763,
     "geom:longitude":-80.006947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Goer Dr",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354059907,
-    "wof:lastmodified":1449066373,
+    "wof:lastmodified":1467082424,
     "wof:name":"US Labor Dept Wage & Hour Div",
     "wof:parent_id":85819163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-80.006947,32.870763,-80.006947,32.870763],
+  "bbox": [
+    -80.006947,
+    32.870763,
+    -80.006947,
+    32.870763
+],
   "geometry": {"coordinates":[-80.006947,32.870763],"type":"Point"}
 }

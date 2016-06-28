@@ -2,13 +2,14 @@
   "id": 186273809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.085591,33.488581,-79.085591,33.488581",
     "geom:latitude":33.488581,
     "geom:longitude":-79.085591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Lakeshore Dr",
     "sg:city":"Pawleys Island",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186273809,
-    "wof:lastmodified":1449051761,
+    "wof:lastmodified":1467082401,
     "wof:name":"Lawn Doctor",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.085591,33.488581,-79.085591,33.488581],
-  "geometry": {"coordinates":[-79.085591,33.488581],"type":"Point"}
+  "bbox": [
+    -79.085591,
+    33.488581,
+    -79.085591,
+    33.488581
+],
+  "geometry": {"coordinates":[-79.08559099999999,33.488581],"type":"Point"}
 }

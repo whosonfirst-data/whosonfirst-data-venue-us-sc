@@ -2,13 +2,14 @@
   "id": 353957451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.698954,33.852239,-78.698954,33.852239",
     "geom:latitude":33.852239,
     "geom:longitude":-78.698954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11053 State Hwy 90 W",
     "sg:city":"Little River",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353957451,
-    "wof:lastmodified":1449020437,
+    "wof:lastmodified":1467082254,
     "wof:name":"Jay's Air Fasteners",
     "wof:parent_id":85819961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fastener"
     ]
 },
-  "bbox": [-78.698954,33.852239,-78.698954,33.852239],
+  "bbox": [
+    -78.698954,
+    33.852239,
+    -78.698954,
+    33.852239
+],
   "geometry": {"coordinates":[-78.698954,33.852239],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185683511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.861412,34.498419,-82.861412,34.498419",
     "geom:latitude":34.498419,
     "geom:longitude":-82.861412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Chenault Rd",
     "sg:city":"Townville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185683511,
-    "wof:lastmodified":1449007192,
+    "wof:lastmodified":1467082191,
     "wof:name":"Instacom Inc",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.861412,34.498419,-82.861412,34.498419],
+  "bbox": [
+    -82.861412,
+    34.498419,
+    -82.861412,
+    34.498419
+],
   "geometry": {"coordinates":[-82.861412,34.498419],"type":"Point"}
 }

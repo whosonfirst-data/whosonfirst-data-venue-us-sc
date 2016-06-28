@@ -2,13 +2,14 @@
   "id": 337361943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.014543,34.507596,-82.014543,34.507596",
     "geom:latitude":34.507596,
     "geom:longitude":-82.014543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Bolt Dr",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337361943,
-    "wof:lastmodified":1449027542,
+    "wof:lastmodified":1467082288,
     "wof:name":"Henry Laurens Motor Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.014543,34.507596,-82.014543,34.507596],
+  "bbox": [
+    -82.014543,
+    34.507596,
+    -82.014543,
+    34.507596
+],
   "geometry": {"coordinates":[-82.014543,34.507596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370730031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.811263,34.414803,-81.811263,34.414803",
     "geom:latitude":34.414803,
     "geom:longitude":-81.811263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Whitmire Hwy",
     "sg:city":"Joanna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370730031,
-    "wof:lastmodified":1449031921,
+    "wof:lastmodified":1467082361,
     "wof:name":"Breakthrough Tabernacle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.811263,34.414803,-81.811263,34.414803],
+  "bbox": [
+    -81.811263,
+    34.414803,
+    -81.811263,
+    34.414803
+],
   "geometry": {"coordinates":[-81.811263,34.414803],"type":"Point"}
 }

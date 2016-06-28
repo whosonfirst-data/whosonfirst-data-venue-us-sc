@@ -2,13 +2,14 @@
   "id": 353728727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.981906,32.787401,-79.981906,32.787401",
     "geom:latitude":32.787401,
     "geom:longitude":-79.981906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Saint Andrews Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353728727,
-    "wof:lastmodified":1449018845,
+    "wof:lastmodified":1467082222,
     "wof:name":"Mc Clain Group LLC",
     "wof:parent_id":85803739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-79.981906,32.787401,-79.981906,32.787401],
+  "bbox": [
+    -79.981906,
+    32.787401,
+    -79.981906,
+    32.787401
+],
   "geometry": {"coordinates":[-79.981906,32.787401],"type":"Point"}
 }

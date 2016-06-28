@@ -2,13 +2,14 @@
   "id": 370349143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.298181,34.937667,-82.298181,34.937667",
     "geom:latitude":34.937667,
     "geom:longitude":-82.298181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Saint Mark Rd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370349143,
-    "wof:lastmodified":1449030367,
+    "wof:lastmodified":1467082327,
     "wof:name":"Lunch Box",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.298181,34.937667,-82.298181,34.937667],
+  "bbox": [
+    -82.298181,
+    34.937667,
+    -82.298181,
+    34.937667
+],
   "geometry": {"coordinates":[-82.298181,34.937667],"type":"Point"}
 }

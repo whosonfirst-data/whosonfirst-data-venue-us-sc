@@ -2,13 +2,14 @@
   "id": 354389561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.760692,33.509401,-81.760692,33.509401",
     "geom:latitude":33.509401,
     "geom:longitude":-81.760692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Huntcliff Trce",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354389561,
-    "wof:lastmodified":1449067281,
+    "wof:lastmodified":1467082445,
     "wof:name":"Aiken Siding Co",
     "wof:parent_id":85812071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-81.760692,33.509401,-81.760692,33.509401],
-  "geometry": {"coordinates":[-81.760692,33.509401],"type":"Point"}
+  "bbox": [
+    -81.760692,
+    33.509401,
+    -81.760692,
+    33.509401
+],
+  "geometry": {"coordinates":[-81.76069200000001,33.509401],"type":"Point"}
 }

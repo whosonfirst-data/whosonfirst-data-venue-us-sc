@@ -2,13 +2,14 @@
   "id": 337399581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.746828,34.539782,-82.746828,34.539782",
     "geom:latitude":34.539782,
     "geom:longitude":-82.746828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 White City Park Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":337399581,
-    "wof:lastmodified":1449027066,
+    "wof:lastmodified":1467082270,
     "wof:name":"William A McClain",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-82.746828,34.539782,-82.746828,34.539782],
-  "geometry": {"coordinates":[-82.746828,34.539782],"type":"Point"}
+  "bbox": [
+    -82.746828,
+    34.539782,
+    -82.746828,
+    34.539782
+],
+  "geometry": {"coordinates":[-82.74682799999999,34.539782],"type":"Point"}
 }

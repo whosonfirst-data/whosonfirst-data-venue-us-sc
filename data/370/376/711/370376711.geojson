@@ -2,13 +2,14 @@
   "id": 370376711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.958397,34.693778,-82.958397,34.693778",
     "geom:latitude":34.693778,
     "geom:longitude":-82.958397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 N Pine St",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370376711,
-    "wof:lastmodified":1449030258,
+    "wof:lastmodified":1467082324,
     "wof:name":"A Natural Day Spa",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [-82.958397,34.693778,-82.958397,34.693778],
-  "geometry": {"coordinates":[-82.958397,34.693778],"type":"Point"}
+  "bbox": [
+    -82.958397,
+    34.693778,
+    -82.958397,
+    34.693778
+],
+  "geometry": {"coordinates":[-82.95839700000001,34.693778],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370282831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.95333,34.685049,-82.95333,34.685049",
     "geom:latitude":34.685049,
     "geom:longitude":-82.95333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Ram Cat Aly",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370282831,
-    "wof:lastmodified":1449031203,
+    "wof:lastmodified":1467082345,
     "wof:name":"Patina On The Alley",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-82.95333,34.685049,-82.95333,34.685049],
-  "geometry": {"coordinates":[-82.95333,34.685049],"type":"Point"}
+  "bbox": [
+    -82.95333,
+    34.685049,
+    -82.95333,
+    34.685049
+],
+  "geometry": {"coordinates":[-82.95332999999999,34.685049],"type":"Point"}
 }

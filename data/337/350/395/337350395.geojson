@@ -2,13 +2,14 @@
   "id": 337350395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.035061,34.907165,-81.035061,34.907165",
     "geom:latitude":34.907165,
     "geom:longitude":-81.035061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"539 Lige St",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337350395,
-    "wof:lastmodified":1449027367,
+    "wof:lastmodified":1467082281,
     "wof:name":"St Matthew AME Zion Chr",
     "wof:parent_id":85851537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.035061,34.907165,-81.035061,34.907165],
+  "bbox": [
+    -81.035061,
+    34.907165,
+    -81.035061,
+    34.907165
+],
   "geometry": {"coordinates":[-81.035061,34.907165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370155295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.977165,32.479419,-80.977165,32.479419",
     "geom:latitude":32.479419,
     "geom:longitude":-80.977165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 E Main St",
     "sg:city":"Ridgeland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370155295,
-    "wof:lastmodified":1449031880,
+    "wof:lastmodified":1467082360,
     "wof:name":"Dollar General",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.977165,32.479419,-80.977165,32.479419],
+  "bbox": [
+    -80.977165,
+    32.479419,
+    -80.977165,
+    32.479419
+],
   "geometry": {"coordinates":[-80.977165,32.479419],"type":"Point"}
 }

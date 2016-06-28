@@ -2,13 +2,14 @@
   "id": 186200687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.080043,33.012614,-80.080043,33.012614",
     "geom:latitude":33.012614,
     "geom:longitude":-80.080043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Hamlet Cir",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186200687,
-    "wof:lastmodified":1449051441,
+    "wof:lastmodified":1467082398,
     "wof:name":"Perez Software Svc Inc",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-80.080043,33.012614,-80.080043,33.012614],
+  "bbox": [
+    -80.080043,
+    33.012614,
+    -80.080043,
+    33.012614
+],
   "geometry": {"coordinates":[-80.080043,33.012614],"type":"Point"}
 }

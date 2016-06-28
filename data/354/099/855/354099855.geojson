@@ -2,13 +2,14 @@
   "id": 354099855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.929057,34.086634,-80.929057,34.086634",
     "geom:latitude":34.086634,
     "geom:longitude":-80.929057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9537 S Chelsea Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354099855,
-    "wof:lastmodified":1449067084,
+    "wof:lastmodified":1467082441,
     "wof:name":"Residential Property Inv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-80.929057,34.086634,-80.929057,34.086634],
+  "bbox": [
+    -80.929057,
+    34.086634,
+    -80.929057,
+    34.086634
+],
   "geometry": {"coordinates":[-80.929057,34.086634],"type":"Point"}
 }

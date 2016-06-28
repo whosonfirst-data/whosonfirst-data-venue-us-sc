@@ -2,13 +2,14 @@
   "id": 186007287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.537655,34.894187,-81.537655,34.894187",
     "geom:latitude":34.894187,
     "geom:longitude":-81.537655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Skull Shoals Rd",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186007287,
-    "wof:lastmodified":1449052548,
+    "wof:lastmodified":1467082408,
     "wof:name":"Circle F Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.537655,34.894187,-81.537655,34.894187],
+  "bbox": [
+    -81.537655,
+    34.894187,
+    -81.537655,
+    34.894187
+],
   "geometry": {"coordinates":[-81.537655,34.894187],"type":"Point"}
 }

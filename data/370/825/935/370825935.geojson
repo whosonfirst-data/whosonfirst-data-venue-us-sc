@@ -2,13 +2,14 @@
   "id": 370825935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.667568,32.476084,-80.667568,32.476084",
     "geom:latitude":32.476084,
     "geom:longitude":-80.667568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Gavis Ln",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370825935,
-    "wof:lastmodified":1449029201,
+    "wof:lastmodified":1467082301,
     "wof:name":"Pushe",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "solar"
     ]
 },
-  "bbox": [-80.667568,32.476084,-80.667568,32.476084],
+  "bbox": [
+    -80.667568,
+    32.476084,
+    -80.667568,
+    32.476084
+],
   "geometry": {"coordinates":[-80.667568,32.476084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353969929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.035935,32.782881,-80.035935,32.782881",
     "geom:latitude":32.782881,
     "geom:longitude":-80.035935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Baycreek Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353969929,
-    "wof:lastmodified":1449018866,
+    "wof:lastmodified":1467082222,
     "wof:name":"Miracle Hardwood Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "floor"
     ]
 },
-  "bbox": [-80.035935,32.782881,-80.035935,32.782881],
-  "geometry": {"coordinates":[-80.035935,32.782881],"type":"Point"}
+  "bbox": [
+    -80.035935,
+    32.782881,
+    -80.035935,
+    32.782881
+],
+  "geometry": {"coordinates":[-80.03593499999999,32.782881],"type":"Point"}
 }

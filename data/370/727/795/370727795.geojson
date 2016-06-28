@@ -2,13 +2,14 @@
   "id": 370727795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.780218,33.66608,-80.780218,33.66608",
     "geom:latitude":33.66608,
     "geom:longitude":-80.780218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Bridge St",
     "sg:city":"St Matthews",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370727795,
-    "wof:lastmodified":1449029600,
+    "wof:lastmodified":1467082309,
     "wof:name":"City Dry Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.780218,33.66608,-80.780218,33.66608],
+  "bbox": [
+    -80.780218,
+    33.66608,
+    -80.780218,
+    33.66608
+],
   "geometry": {"coordinates":[-80.780218,33.66608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169741333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.724381,33.559379,-81.724381,33.559379",
     "geom:latitude":33.559379,
     "geom:longitude":-81.724381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Park Ave SW",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169741333,
-    "wof:lastmodified":1449032865,
+    "wof:lastmodified":1467082377,
     "wof:name":"Market Place Antique Mall",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.724381,33.559379,-81.724381,33.559379],
-  "geometry": {"coordinates":[-81.724381,33.559379],"type":"Point"}
+  "bbox": [
+    -81.724381,
+    33.559379,
+    -81.724381,
+    33.559379
+],
+  "geometry": {"coordinates":[-81.72438099999999,33.559379],"type":"Point"}
 }

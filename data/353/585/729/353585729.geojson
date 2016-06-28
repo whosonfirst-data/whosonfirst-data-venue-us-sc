@@ -2,13 +2,14 @@
   "id": 353585729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.688401,34.567166,-82.688401,34.567166",
     "geom:latitude":34.567166,
     "geom:longitude":-82.688401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Giles St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353585729,
-    "wof:lastmodified":1449019944,
+    "wof:lastmodified":1467082244,
     "wof:name":"Dre Inc",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-82.688401,34.567166,-82.688401,34.567166],
+  "bbox": [
+    -82.688401,
+    34.567166,
+    -82.688401,
+    34.567166
+],
   "geometry": {"coordinates":[-82.688401,34.567166],"type":"Point"}
 }

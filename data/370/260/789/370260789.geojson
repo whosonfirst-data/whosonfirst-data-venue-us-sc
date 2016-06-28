@@ -2,13 +2,14 @@
   "id": 370260789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.162482,34.190286,-82.162482,34.190286",
     "geom:latitude":34.190286,
     "geom:longitude":-82.162482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Monument St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370260789,
-    "wof:lastmodified":1449029653,
+    "wof:lastmodified":1467082310,
     "wof:name":"Curtis G Clark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.162482,34.190286,-82.162482,34.190286],
+  "bbox": [
+    -82.162482,
+    34.190286,
+    -82.162482,
+    34.190286
+],
   "geometry": {"coordinates":[-82.162482,34.190286],"type":"Point"}
 }

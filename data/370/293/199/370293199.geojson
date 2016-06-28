@@ -2,13 +2,14 @@
   "id": 370293199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.801209,34.198757,-79.801209,34.198757",
     "geom:latitude":34.198757,
     "geom:longitude":-79.801209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 N Cashua Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370293199,
-    "wof:lastmodified":1449029757,
+    "wof:lastmodified":1467082313,
     "wof:name":"House Of Ribs",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.801209,34.198757,-79.801209,34.198757],
+  "bbox": [
+    -79.801209,
+    34.198757,
+    -79.801209,
+    34.198757
+],
   "geometry": {"coordinates":[-79.801209,34.198757],"type":"Point"}
 }

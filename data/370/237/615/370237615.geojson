@@ -2,13 +2,14 @@
   "id": 370237615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.030477,32.779579,-80.030477,32.779579",
     "geom:latitude":32.779579,
     "geom:longitude":-80.030477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 River Breeze Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370237615,
-    "wof:lastmodified":1449029150,
+    "wof:lastmodified":1467082300,
     "wof:name":"Pewter Castings LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.030477,32.779579,-80.030477,32.779579],
+  "bbox": [
+    -80.030477,
+    32.779579,
+    -80.030477,
+    32.779579
+],
   "geometry": {"coordinates":[-80.030477,32.779579],"type":"Point"}
 }

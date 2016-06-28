@@ -2,13 +2,14 @@
   "id": 370835215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.891584,34.135687,-80.891584,34.135687",
     "geom:latitude":34.135687,
     "geom:longitude":-80.891584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 Cold Branch Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370835215,
-    "wof:lastmodified":1449029578,
+    "wof:lastmodified":1467082309,
     "wof:name":"Arctic Air",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.891584,34.135687,-80.891584,34.135687],
-  "geometry": {"coordinates":[-80.891584,34.135687],"type":"Point"}
+  "bbox": [
+    -80.891584,
+    34.135687,
+    -80.891584,
+    34.135687
+],
+  "geometry": {"coordinates":[-80.89158399999999,34.135687],"type":"Point"}
 }

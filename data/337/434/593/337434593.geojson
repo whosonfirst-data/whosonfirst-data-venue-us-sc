@@ -2,13 +2,14 @@
   "id": 337434593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.817748,33.478008,-80.817748,33.478008",
     "geom:latitude":33.478008,
     "geom:longitude":-80.817748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1374 Five Chop Rd",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337434593,
-    "wof:lastmodified":1449027099,
+    "wof:lastmodified":1467082271,
     "wof:name":"Claystar Music",
     "wof:parent_id":85843475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.817748,33.478008,-80.817748,33.478008],
-  "geometry": {"coordinates":[-80.817748,33.478008],"type":"Point"}
+  "bbox": [
+    -80.817748,
+    33.478008,
+    -80.817748,
+    33.478008
+],
+  "geometry": {"coordinates":[-80.81774799999999,33.478008],"type":"Point"}
 }

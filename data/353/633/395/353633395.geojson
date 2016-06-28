@@ -2,13 +2,14 @@
   "id": 353633395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.014167,32.782905,-80.014167,32.782905",
     "geom:latitude":32.782905,
     "geom:longitude":-80.014167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Cross St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353633395,
-    "wof:lastmodified":1449020764,
+    "wof:lastmodified":1467082261,
     "wof:name":"In Dining Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.014167,32.782905,-80.014167,32.782905],
+  "bbox": [
+    -80.014167,
+    32.782905,
+    -80.014167,
+    32.782905
+],
   "geometry": {"coordinates":[-80.014167,32.782905],"type":"Point"}
 }

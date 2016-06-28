@@ -2,13 +2,14 @@
   "id": 169728421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.428762,34.868434,-82.428762,34.868434",
     "geom:latitude":34.868434,
     "geom:longitude":-82.428762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 McBeth St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169728421,
-    "wof:lastmodified":1449033460,
+    "wof:lastmodified":1467082380,
     "wof:name":"West Greenville Active Day Ctr",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "day"
     ]
 },
-  "bbox": [-82.428762,34.868434,-82.428762,34.868434],
-  "geometry": {"coordinates":[-82.428762,34.868434],"type":"Point"}
+  "bbox": [
+    -82.428762,
+    34.868434,
+    -82.428762,
+    34.868434
+],
+  "geometry": {"coordinates":[-82.42876200000001,34.868434],"type":"Point"}
 }

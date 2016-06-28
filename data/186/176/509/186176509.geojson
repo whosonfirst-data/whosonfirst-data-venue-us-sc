@@ -2,13 +2,14 @@
   "id": 186176509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.380873,34.830379,-82.380873,34.830379",
     "geom:latitude":34.830379,
     "geom:longitude":-82.380873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 Cleveland St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186176509,
-    "wof:lastmodified":1449052121,
+    "wof:lastmodified":1467082404,
     "wof:name":"Riverbend Security Officer",
     "wof:parent_id":85809831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bond"
     ]
 },
-  "bbox": [-82.380873,34.830379,-82.380873,34.830379],
-  "geometry": {"coordinates":[-82.380873,34.830379],"type":"Point"}
+  "bbox": [
+    -82.380873,
+    34.830379,
+    -82.380873,
+    34.830379
+],
+  "geometry": {"coordinates":[-82.38087299999999,34.830379],"type":"Point"}
 }

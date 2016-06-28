@@ -2,13 +2,14 @@
   "id": 337442213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.871948,34.303738,-79.871948,34.303738",
     "geom:latitude":34.303738,
     "geom:longitude":-79.871948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Orange St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337442213,
-    "wof:lastmodified":1449027297,
+    "wof:lastmodified":1467082279,
     "wof:name":"C B & T Financial Svc",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-79.871948,34.303738,-79.871948,34.303738],
+  "bbox": [
+    -79.871948,
+    34.303738,
+    -79.871948,
+    34.303738
+],
   "geometry": {"coordinates":[-79.871948,34.303738],"type":"Point"}
 }

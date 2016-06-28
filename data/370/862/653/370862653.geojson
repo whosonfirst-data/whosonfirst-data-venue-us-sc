@@ -2,13 +2,14 @@
   "id": 370862653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.531995,34.686915,-82.531995,34.686915",
     "geom:latitude":34.686915,
     "geom:longitude":-82.531995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 Durham Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370862653,
-    "wof:lastmodified":1449032562,
+    "wof:lastmodified":1467082375,
     "wof:name":"Merrimacs Boarding & Obedience",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.531995,34.686915,-82.531995,34.686915],
-  "geometry": {"coordinates":[-82.531995,34.686915],"type":"Point"}
+  "bbox": [
+    -82.531995,
+    34.686915,
+    -82.531995,
+    34.686915
+],
+  "geometry": {"coordinates":[-82.53199499999999,34.686915],"type":"Point"}
 }

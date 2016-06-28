@@ -2,13 +2,14 @@
   "id": 370613591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.370201,35.088112,-82.370201,35.088112",
     "geom:latitude":35.088112,
     "geom:longitude":-82.370201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8503 N Tigerville Rd",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370613591,
-    "wof:lastmodified":1449030667,
+    "wof:lastmodified":1467082333,
     "wof:name":"BRC Co",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.370201,35.088112,-82.370201,35.088112],
-  "geometry": {"coordinates":[-82.370201,35.088112],"type":"Point"}
+  "bbox": [
+    -82.370201,
+    35.088112,
+    -82.370201,
+    35.088112
+],
+  "geometry": {"coordinates":[-82.37020099999999,35.088112],"type":"Point"}
 }

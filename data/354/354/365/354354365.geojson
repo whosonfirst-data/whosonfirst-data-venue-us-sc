@@ -2,13 +2,14 @@
   "id": 354354365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.384526,34.193563,-82.384526,34.193563",
     "geom:latitude":34.193563,
     "geom:longitude":-82.384526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 State Hwy 20",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354354365,
-    "wof:lastmodified":1449067481,
+    "wof:lastmodified":1467082450,
     "wof:name":"Hairstyles Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.384526,34.193563,-82.384526,34.193563],
-  "geometry": {"coordinates":[-82.384526,34.193563],"type":"Point"}
+  "bbox": [
+    -82.384526,
+    34.193563,
+    -82.384526,
+    34.193563
+],
+  "geometry": {"coordinates":[-82.38452599999999,34.193563],"type":"Point"}
 }

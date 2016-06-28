@@ -2,13 +2,14 @@
   "id": 186134831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.689509,32.233322,-80.689509,32.233322",
     "geom:latitude":32.233322,
     "geom:longitude":-80.689509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Wiley Ln",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186134831,
-    "wof:lastmodified":1449052885,
+    "wof:lastmodified":1467082412,
     "wof:name":"Ann Driessen Bail Bonding",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-80.689509,32.233322,-80.689509,32.233322],
+  "bbox": [
+    -80.689509,
+    32.233322,
+    -80.689509,
+    32.233322
+],
   "geometry": {"coordinates":[-80.689509,32.233322],"type":"Point"}
 }

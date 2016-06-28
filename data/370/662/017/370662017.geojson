@@ -2,13 +2,14 @@
   "id": 370662017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.830003,33.678091,-79.830003,33.678091",
     "geom:latitude":33.678091,
     "geom:longitude":-79.830003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1248 N Longstreet St",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370662017,
-    "wof:lastmodified":1449031368,
+    "wof:lastmodified":1467082349,
     "wof:name":"Family Alternative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "human"
     ]
 },
-  "bbox": [-79.830003,33.678091,-79.830003,33.678091],
+  "bbox": [
+    -79.830003,
+    33.678091,
+    -79.830003,
+    33.678091
+],
   "geometry": {"coordinates":[-79.830003,33.678091],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353502303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.031716,33.627985,-79.031716,33.627985",
     "geom:latitude":33.627985,
     "geom:longitude":-79.031716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4017 Edenborough Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353502303,
-    "wof:lastmodified":1449019429,
+    "wof:lastmodified":1467082234,
     "wof:name":"Gates HOA",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.031716,33.627985,-79.031716,33.627985],
+  "bbox": [
+    -79.031716,
+    33.627985,
+    -79.031716,
+    33.627985
+],
   "geometry": {"coordinates":[-79.031716,33.627985],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370827017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.06181,35.040675,-82.06181,35.040675",
     "geom:latitude":35.040675,
     "geom:longitude":-82.06181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Fishermans Cove",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370827017,
-    "wof:lastmodified":1449030304,
+    "wof:lastmodified":1467082325,
     "wof:name":"Fine Inspection Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-82.06181,35.040675,-82.06181,35.040675],
-  "geometry": {"coordinates":[-82.06181,35.040675],"type":"Point"}
+  "bbox": [
+    -82.06181,
+    35.040675,
+    -82.06181,
+    35.040675
+],
+  "geometry": {"coordinates":[-82.06180999999999,35.040675],"type":"Point"}
 }

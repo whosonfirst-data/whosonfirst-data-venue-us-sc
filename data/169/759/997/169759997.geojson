@@ -2,13 +2,14 @@
   "id": 169759997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.470583,34.367136,-80.470583,34.367136",
     "geom:latitude":34.367136,
     "geom:longitude":-80.470583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1449 Teal Rd",
     "sg:city":"Cassatt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169759997,
-    "wof:lastmodified":1449036020,
+    "wof:lastmodified":1467082388,
     "wof:name":"Superior Construction",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.470583,34.367136,-80.470583,34.367136],
+  "bbox": [
+    -80.470583,
+    34.367136,
+    -80.470583,
+    34.367136
+],
   "geometry": {"coordinates":[-80.470583,34.367136],"type":"Point"}
 }

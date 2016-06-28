@@ -2,13 +2,14 @@
   "id": 354353811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.963577,34.975637,-81.963577,34.975637",
     "geom:latitude":34.975637,
     "geom:longitude":-81.963577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Dexter Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354353811,
-    "wof:lastmodified":1449066388,
+    "wof:lastmodified":1467082425,
     "wof:name":"C W G Inc",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "grading"
     ]
 },
-  "bbox": [-81.963577,34.975637,-81.963577,34.975637],
+  "bbox": [
+    -81.963577,
+    34.975637,
+    -81.963577,
+    34.975637
+],
   "geometry": {"coordinates":[-81.963577,34.975637],"type":"Point"}
 }

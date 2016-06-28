@@ -2,13 +2,14 @@
   "id": 354065173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.346573,34.167556,-81.346573,34.167556",
     "geom:latitude":34.167556,
     "geom:longitude":-81.346573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Columbia Ave",
     "sg:city":"Chapin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354065173,
-    "wof:lastmodified":1449067659,
+    "wof:lastmodified":1467082454,
     "wof:name":"Palmetto Consulting Engnrng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-81.346573,34.167556,-81.346573,34.167556],
-  "geometry": {"coordinates":[-81.346573,34.167556],"type":"Point"}
+  "bbox": [
+    -81.346573,
+    34.167556,
+    -81.346573,
+    34.167556
+],
+  "geometry": {"coordinates":[-81.34657300000001,34.167556],"type":"Point"}
 }

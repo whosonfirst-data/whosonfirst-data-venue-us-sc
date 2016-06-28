@@ -2,13 +2,14 @@
   "id": 370516137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.647579,35.076035,-81.647579,35.076035",
     "geom:latitude":35.076035,
     "geom:longitude":-81.647579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 E Frederick St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370516137,
-    "wof:lastmodified":1449029739,
+    "wof:lastmodified":1467082312,
     "wof:name":"Lisa Originals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consignment"
     ]
 },
-  "bbox": [-81.647579,35.076035,-81.647579,35.076035],
-  "geometry": {"coordinates":[-81.647579,35.076035],"type":"Point"}
+  "bbox": [
+    -81.647579,
+    35.076035,
+    -81.647579,
+    35.076035
+],
+  "geometry": {"coordinates":[-81.64757899999999,35.076035],"type":"Point"}
 }

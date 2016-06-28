@@ -2,13 +2,14 @@
   "id": 186276631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.994334,32.908806,-79.994334,32.908806",
     "geom:latitude":32.908806,
     "geom:longitude":-79.994334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Malvern Ln",
     "sg:city":"Hanahan",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186276631,
-    "wof:lastmodified":1449050367,
+    "wof:lastmodified":1467082390,
     "wof:name":"Low Country Air Conditioning",
     "wof:parent_id":85814443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.994334,32.908806,-79.994334,32.908806],
-  "geometry": {"coordinates":[-79.994334,32.908806],"type":"Point"}
+  "bbox": [
+    -79.994334,
+    32.908806,
+    -79.994334,
+    32.908806
+],
+  "geometry": {"coordinates":[-79.99433399999999,32.908806],"type":"Point"}
 }

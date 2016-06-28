@@ -2,13 +2,14 @@
   "id": 370422619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.908645,34.977131,-80.908645,34.977131",
     "geom:latitude":34.977131,
     "geom:longitude":-80.908645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1762 Stegall Ln",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370422619,
-    "wof:lastmodified":1449029318,
+    "wof:lastmodified":1467082303,
     "wof:name":"Alan Wyland Painting",
     "wof:parent_id":85827769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-80.908645,34.977131,-80.908645,34.977131],
-  "geometry": {"coordinates":[-80.908645,34.977131],"type":"Point"}
+  "bbox": [
+    -80.908645,
+    34.977131,
+    -80.908645,
+    34.977131
+],
+  "geometry": {"coordinates":[-80.90864500000001,34.977131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185610305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.830732,34.246667,-79.830732,34.246667",
     "geom:latitude":34.246667,
     "geom:longitude":-79.830732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Timberlake Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185610305,
-    "wof:lastmodified":1449008166,
+    "wof:lastmodified":1467082206,
     "wof:name":"Mid Coastal Communications Inc",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.830732,34.246667,-79.830732,34.246667],
+  "bbox": [
+    -79.830732,
+    34.246667,
+    -79.830732,
+    34.246667
+],
   "geometry": {"coordinates":[-79.830732,34.246667],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370656989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.963029,34.916471,-81.963029,34.916471",
     "geom:latitude":34.916471,
     "geom:longitude":-81.963029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Venture Blvd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370656989,
-    "wof:lastmodified":1449031281,
+    "wof:lastmodified":1467082347,
     "wof:name":"Schmid Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-81.963029,34.916471,-81.963029,34.916471],
-  "geometry": {"coordinates":[-81.963029,34.916471],"type":"Point"}
+  "bbox": [
+    -81.963029,
+    34.916471,
+    -81.963029,
+    34.916471
+],
+  "geometry": {"coordinates":[-81.96302900000001,34.916471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370525809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.315695,34.031081,-80.315695,34.031081",
     "geom:latitude":34.031081,
     "geom:longitude":-80.315695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"753 Colony Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370525809,
-    "wof:lastmodified":1449031779,
+    "wof:lastmodified":1467082358,
     "wof:name":"Ardis Income Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "filing"
     ]
 },
-  "bbox": [-80.315695,34.031081,-80.315695,34.031081],
-  "geometry": {"coordinates":[-80.315695,34.031081],"type":"Point"}
+  "bbox": [
+    -80.315695,
+    34.031081,
+    -80.315695,
+    34.031081
+],
+  "geometry": {"coordinates":[-80.31569500000001,34.031081],"type":"Point"}
 }

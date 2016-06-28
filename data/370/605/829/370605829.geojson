@@ -2,13 +2,14 @@
   "id": 370605829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.156786,34.138269,-81.156786,34.138269",
     "geom:latitude":34.138269,
     "geom:longitude":-81.156786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Flint Hill Rd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370605829,
-    "wof:lastmodified":1449030743,
+    "wof:lastmodified":1467082335,
     "wof:name":"Baxter Landscaping",
     "wof:parent_id":85831475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-81.156786,34.138269,-81.156786,34.138269],
+  "bbox": [
+    -81.156786,
+    34.138269,
+    -81.156786,
+    34.138269
+],
   "geometry": {"coordinates":[-81.156786,34.138269],"type":"Point"}
 }

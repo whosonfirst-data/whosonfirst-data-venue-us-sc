@@ -2,13 +2,14 @@
   "id": 370840273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.460729,33.964011,-80.460729,33.964011",
     "geom:latitude":33.964011,
     "geom:longitude":-80.460729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4634 Broad St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370840273,
-    "wof:lastmodified":1449031722,
+    "wof:lastmodified":1467082357,
     "wof:name":"Twin Dragon Chinese Restaurant",
     "wof:parent_id":85848059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.460729,33.964011,-80.460729,33.964011],
+  "bbox": [
+    -80.460729,
+    33.964011,
+    -80.460729,
+    33.964011
+],
   "geometry": {"coordinates":[-80.460729,33.964011],"type":"Point"}
 }

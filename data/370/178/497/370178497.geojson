@@ -2,13 +2,14 @@
   "id": 370178497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.28702,33.369071,-79.28702,33.369071",
     "geom:latitude":33.369071,
     "geom:longitude":-79.28702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 Front St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370178497,
-    "wof:lastmodified":1449031522,
+    "wof:lastmodified":1467082352,
     "wof:name":"Eastcoast Mortgage",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-79.28702,33.369071,-79.28702,33.369071],
+  "bbox": [
+    -79.28702,
+    33.369071,
+    -79.28702,
+    33.369071
+],
   "geometry": {"coordinates":[-79.28702,33.369071],"type":"Point"}
 }

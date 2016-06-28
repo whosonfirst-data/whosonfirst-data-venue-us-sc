@@ -2,13 +2,14 @@
   "id": 354268555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.045783,33.217542,-80.045783,33.217542",
     "geom:latitude":33.217542,
     "geom:longitude":-80.045783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Brownspoint Ln",
     "sg:city":"Moncks Corner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354268555,
-    "wof:lastmodified":1449066920,
+    "wof:lastmodified":1467082437,
     "wof:name":"Ruth Ann's Spot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-80.045783,33.217542,-80.045783,33.217542],
+  "bbox": [
+    -80.045783,
+    33.217542,
+    -80.045783,
+    33.217542
+],
   "geometry": {"coordinates":[-80.045783,33.217542],"type":"Point"}
 }

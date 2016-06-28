@@ -2,13 +2,14 @@
   "id": 370929363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.058084,33.846499,-79.058084,33.846499",
     "geom:latitude":33.846499,
     "geom:longitude":-79.058084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 Pinewood Cir",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370929363,
-    "wof:lastmodified":1449030384,
+    "wof:lastmodified":1467082327,
     "wof:name":"Stalvey Holdings LLC",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-79.058084,33.846499,-79.058084,33.846499],
-  "geometry": {"coordinates":[-79.058084,33.846499],"type":"Point"}
+  "bbox": [
+    -79.058084,
+    33.846499,
+    -79.058084,
+    33.846499
+],
+  "geometry": {"coordinates":[-79.05808399999999,33.846499],"type":"Point"}
 }

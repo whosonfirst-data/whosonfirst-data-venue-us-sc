@@ -2,13 +2,14 @@
   "id": 354237799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.249395,34.771193,-82.249395,34.771193",
     "geom:latitude":34.771193,
     "geom:longitude":-82.249395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Harts Ln",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354237799,
-    "wof:lastmodified":1449065981,
+    "wof:lastmodified":1467082416,
     "wof:name":"A P Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-82.249395,34.771193,-82.249395,34.771193],
-  "geometry": {"coordinates":[-82.249395,34.771193],"type":"Point"}
+  "bbox": [
+    -82.249395,
+    34.771193,
+    -82.249395,
+    34.771193
+],
+  "geometry": {"coordinates":[-82.24939500000001,34.771193],"type":"Point"}
 }

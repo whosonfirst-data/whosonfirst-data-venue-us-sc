@@ -2,13 +2,14 @@
   "id": 353964019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.739201,33.56569,-81.739201,33.56569",
     "geom:latitude":33.56569,
     "geom:longitude":-81.739201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 Richland Ave W",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353964019,
-    "wof:lastmodified":1449020175,
+    "wof:lastmodified":1467082249,
     "wof:name":"Parts America 53421",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "ho"
     ]
 },
-  "bbox": [-81.739201,33.56569,-81.739201,33.56569],
-  "geometry": {"coordinates":[-81.739201,33.56569],"type":"Point"}
+  "bbox": [
+    -81.739201,
+    33.56569,
+    -81.739201,
+    33.56569
+],
+  "geometry": {"coordinates":[-81.73920099999999,33.56569],"type":"Point"}
 }

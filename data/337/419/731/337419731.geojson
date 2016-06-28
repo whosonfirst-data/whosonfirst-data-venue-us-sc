@@ -2,13 +2,14 @@
   "id": 337419731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.040557,35.112857,-82.040557,35.112857",
     "geom:latitude":35.112857,
     "geom:longitude":-82.040557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8580 State Hwy 9",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337419731,
-    "wof:lastmodified":1449027724,
+    "wof:lastmodified":1467082295,
     "wof:name":"Lake Bowen Fish Camp",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.040557,35.112857,-82.040557,35.112857],
-  "geometry": {"coordinates":[-82.040557,35.112857],"type":"Point"}
+  "bbox": [
+    -82.040557,
+    35.112857,
+    -82.040557,
+    35.112857
+],
+  "geometry": {"coordinates":[-82.04055700000001,35.112857],"type":"Point"}
 }

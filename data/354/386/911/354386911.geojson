@@ -2,13 +2,14 @@
   "id": 354386911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.949911,35.031044,-80.949911,35.031044",
     "geom:latitude":35.031044,
     "geom:longitude":-80.949911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1254 Hwy 21 Byp",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354386911,
-    "wof:lastmodified":1449066833,
+    "wof:lastmodified":1467082435,
     "wof:name":"Mike Howie Electrical",
     "wof:parent_id":85827769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.949911,35.031044,-80.949911,35.031044],
+  "bbox": [
+    -80.949911,
+    35.031044,
+    -80.949911,
+    35.031044
+],
   "geometry": {"coordinates":[-80.949911,35.031044],"type":"Point"}
 }

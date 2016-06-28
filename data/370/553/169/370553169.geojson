@@ -2,13 +2,14 @@
   "id": 370553169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.949538,34.954626,-81.949538,34.954626",
     "geom:latitude":34.954626,
     "geom:longitude":-81.949538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 N Center St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370553169,
-    "wof:lastmodified":1449029083,
+    "wof:lastmodified":1467082298,
     "wof:name":"Your Dollar Store With More",
     "wof:parent_id":85826389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.949538,34.954626,-81.949538,34.954626],
+  "bbox": [
+    -81.949538,
+    34.954626,
+    -81.949538,
+    34.954626
+],
   "geometry": {"coordinates":[-81.949538,34.954626],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370161039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.661938,34.534231,-82.661938,34.534231",
     "geom:latitude":34.534231,
     "geom:longitude":-82.661938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Concord Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370161039,
-    "wof:lastmodified":1449030424,
+    "wof:lastmodified":1467082328,
     "wof:name":"Butterbean's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.661938,34.534231,-82.661938,34.534231],
-  "geometry": {"coordinates":[-82.661938,34.534231],"type":"Point"}
+  "bbox": [
+    -82.661938,
+    34.534231,
+    -82.661938,
+    34.534231
+],
+  "geometry": {"coordinates":[-82.66193800000001,34.534231],"type":"Point"}
 }

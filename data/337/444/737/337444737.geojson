@@ -2,13 +2,14 @@
   "id": 337444737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.800511,33.831733,-81.800511,33.831733",
     "geom:latitude":33.831733,
     "geom:longitude":-81.800511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Calhoun St",
     "sg:city":"Johnston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337444737,
-    "wof:lastmodified":1449027634,
+    "wof:lastmodified":1467082291,
     "wof:name":"Johnston Town Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.800511,33.831733,-81.800511,33.831733],
+  "bbox": [
+    -81.800511,
+    33.831733,
+    -81.800511,
+    33.831733
+],
   "geometry": {"coordinates":[-81.800511,33.831733],"type":"Point"}
 }

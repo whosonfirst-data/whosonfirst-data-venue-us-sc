@@ -2,13 +2,14 @@
   "id": 370727285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.402576,34.840085,-82.402576,34.840085",
     "geom:latitude":34.840085,
     "geom:longitude":-82.402576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 University Ridge",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370727285,
-    "wof:lastmodified":1449029599,
+    "wof:lastmodified":1467082309,
     "wof:name":"Family Planning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-82.402576,34.840085,-82.402576,34.840085],
+  "bbox": [
+    -82.402576,
+    34.840085,
+    -82.402576,
+    34.840085
+],
   "geometry": {"coordinates":[-82.402576,34.840085],"type":"Point"}
 }

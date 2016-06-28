@@ -2,13 +2,14 @@
   "id": 186081953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.906711,34.953375,-81.906711,34.953375",
     "geom:latitude":34.953375,
     "geom:longitude":-81.906711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Otis Blvd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186081953,
-    "wof:lastmodified":1449051214,
+    "wof:lastmodified":1467082395,
     "wof:name":"Belvedere Assoc Ltd",
     "wof:parent_id":85812117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-81.906711,34.953375,-81.906711,34.953375],
+  "bbox": [
+    -81.906711,
+    34.953375,
+    -81.906711,
+    34.953375
+],
   "geometry": {"coordinates":[-81.906711,34.953375],"type":"Point"}
 }

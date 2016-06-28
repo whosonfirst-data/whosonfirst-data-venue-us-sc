@@ -2,13 +2,14 @@
   "id": 353604003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.258702,34.869814,-82.258702,34.869814",
     "geom:latitude":34.869814,
     "geom:longitude":-82.258702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1560 Thornblade Blvd",
     "sg:city":"Greer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353604003,
-    "wof:lastmodified":1449020508,
+    "wof:lastmodified":1467082256,
     "wof:name":"Oakleaf Villages At Thornblade",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-82.258702,34.869814,-82.258702,34.869814],
+  "bbox": [
+    -82.258702,
+    34.869814,
+    -82.258702,
+    34.869814
+],
   "geometry": {"coordinates":[-82.258702,34.869814],"type":"Point"}
 }

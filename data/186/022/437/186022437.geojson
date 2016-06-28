@@ -2,13 +2,14 @@
   "id": 186022437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.702641,32.206525,-80.702641,32.206525",
     "geom:latitude":32.206525,
     "geom:longitude":-80.702641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Island Dr",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186022437,
-    "wof:lastmodified":1449051283,
+    "wof:lastmodified":1467082396,
     "wof:name":"Fibergard Of Hilton Head",
     "wof:parent_id":85819729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-80.702641,32.206525,-80.702641,32.206525],
+  "bbox": [
+    -80.702641,
+    32.206525,
+    -80.702641,
+    32.206525
+],
   "geometry": {"coordinates":[-80.702641,32.206525],"type":"Point"}
 }

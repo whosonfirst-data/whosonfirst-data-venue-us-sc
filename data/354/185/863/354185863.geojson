@@ -2,13 +2,14 @@
   "id": 354185863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.551808,34.852316,-82.551808,34.852316",
     "geom:latitude":34.852316,
     "geom:longitude":-82.551808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Knoxtowne Rd",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354185863,
-    "wof:lastmodified":1449066217,
+    "wof:lastmodified":1467082421,
     "wof:name":"Mike Mote Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.551808,34.852316,-82.551808,34.852316],
-  "geometry": {"coordinates":[-82.551808,34.852316],"type":"Point"}
+  "bbox": [
+    -82.551808,
+    34.852316,
+    -82.551808,
+    34.852316
+],
+  "geometry": {"coordinates":[-82.55180799999999,34.852316],"type":"Point"}
 }

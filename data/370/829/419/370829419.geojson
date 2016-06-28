@@ -2,13 +2,14 @@
   "id": 370829419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.877365,34.333326,-79.877365,34.333326",
     "geom:latitude":34.333326,
     "geom:longitude":-79.877365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Mineral Springs Rd",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370829419,
-    "wof:lastmodified":1449032245,
+    "wof:lastmodified":1467082368,
     "wof:name":"APAC Inc",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "asphalt"
     ]
 },
-  "bbox": [-79.877365,34.333326,-79.877365,34.333326],
+  "bbox": [
+    -79.877365,
+    34.333326,
+    -79.877365,
+    34.333326
+],
   "geometry": {"coordinates":[-79.877365,34.333326],"type":"Point"}
 }

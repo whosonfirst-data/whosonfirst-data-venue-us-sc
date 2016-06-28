@@ -2,13 +2,14 @@
   "id": 370238815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.288543,33.373516,-79.288543,33.373516",
     "geom:latitude":33.373516,
     "geom:longitude":-79.288543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 Highmarket St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370238815,
-    "wof:lastmodified":1449030351,
+    "wof:lastmodified":1467082326,
     "wof:name":"Allstate",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.288543,33.373516,-79.288543,33.373516],
+  "bbox": [
+    -79.288543,
+    33.373516,
+    -79.288543,
+    33.373516
+],
   "geometry": {"coordinates":[-79.288543,33.373516],"type":"Point"}
 }

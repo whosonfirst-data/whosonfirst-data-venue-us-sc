@@ -2,13 +2,14 @@
   "id": 169704341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.992689,32.779828,-79.992689,32.779828",
     "geom:latitude":32.779828,
     "geom:longitude":-79.992689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Cavalier Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169704341,
-    "wof:lastmodified":1449033556,
+    "wof:lastmodified":1467082380,
     "wof:name":"Higher Standards Tile Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.992689,32.779828,-79.992689,32.779828],
+  "bbox": [
+    -79.992689,
+    32.779828,
+    -79.992689,
+    32.779828
+],
   "geometry": {"coordinates":[-79.992689,32.779828],"type":"Point"}
 }

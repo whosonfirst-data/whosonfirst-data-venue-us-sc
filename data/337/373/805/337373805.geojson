@@ -2,13 +2,14 @@
   "id": 337373805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.976616,33.603289,-78.976616,33.603289",
     "geom:latitude":33.603289,
     "geom:longitude":-78.976616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Lake Ct",
     "sg:city":"Lake View",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337373805,
-    "wof:lastmodified":1449027372,
+    "wof:lastmodified":1467082281,
     "wof:name":"Nancy's Beauty Salon",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.976616,33.603289,-78.976616,33.603289],
-  "geometry": {"coordinates":[-78.976616,33.603289],"type":"Point"}
+  "bbox": [
+    -78.976616,
+    33.603289,
+    -78.976616,
+    33.603289
+],
+  "geometry": {"coordinates":[-78.97661600000001,33.603289],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354014255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.426696,34.979178,-82.426696,34.979178",
     "geom:latitude":34.979178,
     "geom:longitude":-82.426696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Kirby Dr",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354014255,
-    "wof:lastmodified":1449066755,
+    "wof:lastmodified":1467082433,
     "wof:name":"Embroidery Specialties",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-82.426696,34.979178,-82.426696,34.979178],
-  "geometry": {"coordinates":[-82.426696,34.979178],"type":"Point"}
+  "bbox": [
+    -82.426696,
+    34.979178,
+    -82.426696,
+    34.979178
+],
+  "geometry": {"coordinates":[-82.42669600000001,34.979178],"type":"Point"}
 }

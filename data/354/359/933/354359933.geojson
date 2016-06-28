@@ -2,13 +2,14 @@
   "id": 354359933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.284833,34.932843,-82.284833,34.932843",
     "geom:latitude":34.932843,
     "geom:longitude":-82.284833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 Wade Hampton Blvd",
     "sg:city":"Taylors",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354359933,
-    "wof:lastmodified":1449065903,
+    "wof:lastmodified":1467082414,
     "wof:name":"Lighting Center Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fixture"
     ]
 },
-  "bbox": [-82.284833,34.932843,-82.284833,34.932843],
-  "geometry": {"coordinates":[-82.284833,34.932843],"type":"Point"}
+  "bbox": [
+    -82.284833,
+    34.932843,
+    -82.284833,
+    34.932843
+],
+  "geometry": {"coordinates":[-82.28483300000001,34.932843],"type":"Point"}
 }

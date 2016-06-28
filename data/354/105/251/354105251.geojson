@@ -2,13 +2,14 @@
   "id": 354105251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.249426,33.986536,-81.249426,33.986536",
     "geom:latitude":33.986536,
     "geom:longitude":-81.249426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"182 Ellis Ave",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354105251,
-    "wof:lastmodified":1449066565,
+    "wof:lastmodified":1467082429,
     "wof:name":"Chocolate Wonderland Inc",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "chocolate"
     ]
 },
-  "bbox": [-81.249426,33.986536,-81.249426,33.986536],
+  "bbox": [
+    -81.249426,
+    33.986536,
+    -81.249426,
+    33.986536
+],
   "geometry": {"coordinates":[-81.249426,33.986536],"type":"Point"}
 }

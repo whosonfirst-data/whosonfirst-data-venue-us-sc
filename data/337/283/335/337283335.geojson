@@ -2,13 +2,14 @@
   "id": 337283335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.808887,34.547669,-82.808887,34.547669",
     "geom:latitude":34.547669,
     "geom:longitude":-82.808887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Nunnally Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337283335,
-    "wof:lastmodified":1449027184,
+    "wof:lastmodified":1467082274,
     "wof:name":"T's Tailoring",
     "wof:parent_id":85858639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tailor"
     ]
 },
-  "bbox": [-82.808887,34.547669,-82.808887,34.547669],
+  "bbox": [
+    -82.808887,
+    34.547669,
+    -82.808887,
+    34.547669
+],
   "geometry": {"coordinates":[-82.808887,34.547669],"type":"Point"}
 }

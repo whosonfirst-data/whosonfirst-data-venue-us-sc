@@ -2,13 +2,14 @@
   "id": 370405789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.905535,33.700991,-78.905535,33.700991",
     "geom:latitude":33.700991,
     "geom:longitude":-78.905535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1665 Racepath St",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370405789,
-    "wof:lastmodified":1449032196,
+    "wof:lastmodified":1467082367,
     "wof:name":"Wagon Wheel Bar & Grill",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-78.905535,33.700991,-78.905535,33.700991],
+  "bbox": [
+    -78.905535,
+    33.700991,
+    -78.905535,
+    33.700991
+],
   "geometry": {"coordinates":[-78.905535,33.700991],"type":"Point"}
 }

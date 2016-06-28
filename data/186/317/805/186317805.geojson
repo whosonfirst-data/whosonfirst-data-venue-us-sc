@@ -2,13 +2,14 @@
   "id": 186317805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.968525,34.882309,-81.968525,34.882309",
     "geom:latitude":34.882309,
     "geom:longitude":-81.968525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1979 E Blackstock Rd",
     "sg:city":"Roebuck",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186317805,
-    "wof:lastmodified":1449051593,
+    "wof:lastmodified":1467082399,
     "wof:name":"Roebuck Baptist Church",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.968525,34.882309,-81.968525,34.882309],
+  "bbox": [
+    -81.968525,
+    34.882309,
+    -81.968525,
+    34.882309
+],
   "geometry": {"coordinates":[-81.968525,34.882309],"type":"Point"}
 }

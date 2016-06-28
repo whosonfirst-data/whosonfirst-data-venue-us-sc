@@ -2,13 +2,14 @@
   "id": 370794579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.899993,34.316579,-79.899993,34.316579",
     "geom:latitude":34.316579,
     "geom:longitude":-79.899993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 N Governor Williams Hwy",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370794579,
-    "wof:lastmodified":1449030716,
+    "wof:lastmodified":1467082334,
     "wof:name":"Southco Sweeping & Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "parking"
     ]
 },
-  "bbox": [-79.899993,34.316579,-79.899993,34.316579],
-  "geometry": {"coordinates":[-79.899993,34.316579],"type":"Point"}
+  "bbox": [
+    -79.899993,
+    34.316579,
+    -79.899993,
+    34.316579
+],
+  "geometry": {"coordinates":[-79.89999299999999,34.316579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370366685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.87949,32.790206,-79.87949,32.790206",
     "geom:latitude":32.790206,
     "geom:longitude":-79.87949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Church St",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370366685,
-    "wof:lastmodified":1449031567,
+    "wof:lastmodified":1467082353,
     "wof:name":"Cooper Law Firm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.87949,32.790206,-79.87949,32.790206],
+  "bbox": [
+    -79.87949,
+    32.790206,
+    -79.87949,
+    32.790206
+],
   "geometry": {"coordinates":[-79.87949,32.790206],"type":"Point"}
 }

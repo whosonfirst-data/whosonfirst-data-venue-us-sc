@@ -2,13 +2,14 @@
   "id": 185608177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.994479,34.94501,-81.994479,34.94501",
     "geom:latitude":34.94501,
     "geom:longitude":-81.994479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 W Blackstock Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185608177,
-    "wof:lastmodified":1449007298,
+    "wof:lastmodified":1467082193,
     "wof:name":"US Post Office",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.994479,34.94501,-81.994479,34.94501],
+  "bbox": [
+    -81.994479,
+    34.94501,
+    -81.994479,
+    34.94501
+],
   "geometry": {"coordinates":[-81.994479,34.94501],"type":"Point"}
 }

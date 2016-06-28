@@ -2,13 +2,14 @@
   "id": 370719955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.671651,32.434316,-80.671651,32.434316",
     "geom:latitude":32.434316,
     "geom:longitude":-80.671651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 King St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370719955,
-    "wof:lastmodified":1449029531,
+    "wof:lastmodified":1467082308,
     "wof:name":"Beaufort County Open Land Trst",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "org"
     ]
 },
-  "bbox": [-80.671651,32.434316,-80.671651,32.434316],
+  "bbox": [
+    -80.671651,
+    32.434316,
+    -80.671651,
+    32.434316
+],
   "geometry": {"coordinates":[-80.671651,32.434316],"type":"Point"}
 }

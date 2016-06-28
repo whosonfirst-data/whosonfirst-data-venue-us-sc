@@ -2,13 +2,14 @@
   "id": 370350949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.900995,34.690651,-79.900995,34.690651",
     "geom:latitude":34.690651,
     "geom:longitude":-79.900995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Robey St",
     "sg:city":"Cheraw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370350949,
-    "wof:lastmodified":1449030810,
+    "wof:lastmodified":1467082336,
     "wof:name":"Outreach Tabernacle Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.900995,34.690651,-79.900995,34.690651],
-  "geometry": {"coordinates":[-79.900995,34.690651],"type":"Point"}
+  "bbox": [
+    -79.900995,
+    34.690651,
+    -79.900995,
+    34.690651
+],
+  "geometry": {"coordinates":[-79.90099499999999,34.690651],"type":"Point"}
 }

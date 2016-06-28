@@ -2,13 +2,14 @@
   "id": 370828169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.798148,32.459669,-80.798148,32.459669",
     "geom:latitude":32.459669,
     "geom:longitude":-80.798148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Bobwhite Dr",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370828169,
-    "wof:lastmodified":1449030800,
+    "wof:lastmodified":1467082336,
     "wof:name":"Comcast Cable",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-80.798148,32.459669,-80.798148,32.459669],
+  "bbox": [
+    -80.798148,
+    32.459669,
+    -80.798148,
+    32.459669
+],
   "geometry": {"coordinates":[-80.798148,32.459669],"type":"Point"}
 }

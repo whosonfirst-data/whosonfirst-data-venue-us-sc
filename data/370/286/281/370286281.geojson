@@ -2,13 +2,14 @@
   "id": 370286281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.222333,35.109409,-81.222333,35.109409",
     "geom:latitude":35.109409,
     "geom:longitude":-81.222333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"292 Bethel St",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370286281,
-    "wof:lastmodified":1449029988,
+    "wof:lastmodified":1467082318,
     "wof:name":"Clover Chapel United Meth Chr",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.222333,35.109409,-81.222333,35.109409],
-  "geometry": {"coordinates":[-81.222333,35.109409],"type":"Point"}
+  "bbox": [
+    -81.222333,
+    35.109409,
+    -81.222333,
+    35.109409
+],
+  "geometry": {"coordinates":[-81.22233300000001,35.109409],"type":"Point"}
 }

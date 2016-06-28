@@ -2,13 +2,14 @@
   "id": 370321615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.004425,33.588647,-79.004425,33.588647",
     "geom:latitude":33.588647,
     "geom:longitude":-79.004425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"553 Cypress Ave",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370321615,
-    "wof:lastmodified":1449029145,
+    "wof:lastmodified":1467082299,
     "wof:name":"Eugene Mc Craw Locksmith",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-79.004425,33.588647,-79.004425,33.588647],
+  "bbox": [
+    -79.004425,
+    33.588647,
+    -79.004425,
+    33.588647
+],
   "geometry": {"coordinates":[-79.004425,33.588647],"type":"Point"}
 }

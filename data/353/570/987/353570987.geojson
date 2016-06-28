@@ -2,13 +2,14 @@
   "id": 353570987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.720067,34.850048,-82.720067,34.850048",
     "geom:latitude":34.850048,
     "geom:longitude":-82.720067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 Belle Shoals Rd",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353570987,
-    "wof:lastmodified":1449019782,
+    "wof:lastmodified":1467082241,
     "wof:name":"South Carolina Polled Herefrdu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-82.720067,34.850048,-82.720067,34.850048],
+  "bbox": [
+    -82.720067,
+    34.850048,
+    -82.720067,
+    34.850048
+],
   "geometry": {"coordinates":[-82.720067,34.850048],"type":"Point"}
 }

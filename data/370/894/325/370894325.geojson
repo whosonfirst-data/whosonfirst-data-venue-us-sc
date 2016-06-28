@@ -2,13 +2,14 @@
   "id": 370894325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.03485,34.515778,-82.03485,34.515778",
     "geom:latitude":34.515778,
     "geom:longitude":-82.03485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 Church St",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370894325,
-    "wof:lastmodified":1449030481,
+    "wof:lastmodified":1467082329,
     "wof:name":"Gilliland Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "fabric"
     ]
 },
-  "bbox": [-82.03485,34.515778,-82.03485,34.515778],
-  "geometry": {"coordinates":[-82.03485,34.515778],"type":"Point"}
+  "bbox": [
+    -82.03485,
+    34.515778,
+    -82.03485,
+    34.515778
+],
+  "geometry": {"coordinates":[-82.03485000000001,34.515778],"type":"Point"}
 }

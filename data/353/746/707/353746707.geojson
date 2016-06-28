@@ -2,13 +2,14 @@
   "id": 353746707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.47374,34.747893,-82.47374,34.747893",
     "geom:latitude":34.747893,
     "geom:longitude":-82.47374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Silver Ct",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353746707,
-    "wof:lastmodified":1449018236,
+    "wof:lastmodified":1467082209,
     "wof:name":"Elrods Trucking",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.47374,34.747893,-82.47374,34.747893],
-  "geometry": {"coordinates":[-82.47374,34.747893],"type":"Point"}
+  "bbox": [
+    -82.47374,
+    34.747893,
+    -82.47374,
+    34.747893
+],
+  "geometry": {"coordinates":[-82.47374000000001,34.747893],"type":"Point"}
 }

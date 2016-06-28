@@ -2,13 +2,14 @@
   "id": 186182429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.24713,33.882626,-81.24713,33.882626",
     "geom:latitude":33.882626,
     "geom:longitude":-81.24713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"357 McLee Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186182429,
-    "wof:lastmodified":1449052072,
+    "wof:lastmodified":1467082404,
     "wof:name":"United Cleaning Svc",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-81.24713,33.882626,-81.24713,33.882626],
+  "bbox": [
+    -81.24713,
+    33.882626,
+    -81.24713,
+    33.882626
+],
   "geometry": {"coordinates":[-81.24713,33.882626],"type":"Point"}
 }

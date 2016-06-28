@@ -2,13 +2,14 @@
   "id": 186045947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.312374,34.784416,-82.312374,34.784416",
     "geom:latitude":34.784416,
     "geom:longitude":-82.312374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 N Main St",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186045947,
-    "wof:lastmodified":1449052704,
+    "wof:lastmodified":1467082410,
     "wof:name":"Tienda Los Garcia II",
     "wof:parent_id":85828723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-82.312374,34.784416,-82.312374,34.784416],
-  "geometry": {"coordinates":[-82.312374,34.784416],"type":"Point"}
+  "bbox": [
+    -82.312374,
+    34.784416,
+    -82.312374,
+    34.784416
+],
+  "geometry": {"coordinates":[-82.31237400000001,34.784416],"type":"Point"}
 }

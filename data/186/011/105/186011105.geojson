@@ -2,13 +2,14 @@
   "id": 186011105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.344369,34.810494,-82.344369,34.810494",
     "geom:latitude":34.810494,
     "geom:longitude":-82.344369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Duvall Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186011105,
-    "wof:lastmodified":1449052520,
+    "wof:lastmodified":1467082408,
     "wof:name":"Valu-Lodge",
     "wof:parent_id":85827103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.344369,34.810494,-82.344369,34.810494],
+  "bbox": [
+    -82.344369,
+    34.810494,
+    -82.344369,
+    34.810494
+],
   "geometry": {"coordinates":[-82.344369,34.810494],"type":"Point"}
 }

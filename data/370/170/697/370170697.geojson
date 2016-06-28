@@ -2,13 +2,14 @@
   "id": 370170697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.056095,34.380623,-80.056095,34.380623",
     "geom:latitude":34.380623,
     "geom:longitude":-80.056095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 E Carolina Ave",
     "sg:city":"Hartsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370170697,
-    "wof:lastmodified":1449029406,
+    "wof:lastmodified":1467082305,
     "wof:name":"Glamour House",
     "wof:parent_id":85811765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.056095,34.380623,-80.056095,34.380623],
+  "bbox": [
+    -80.056095,
+    34.380623,
+    -80.056095,
+    34.380623
+],
   "geometry": {"coordinates":[-80.056095,34.380623],"type":"Point"}
 }

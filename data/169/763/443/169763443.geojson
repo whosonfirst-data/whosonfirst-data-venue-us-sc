@@ -2,13 +2,14 @@
   "id": 169763443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.270948,34.737189,-82.270948,34.737189",
     "geom:latitude":34.737189,
     "geom:longitude":-82.270948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3445 N Industrial Dr",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169763443,
-    "wof:lastmodified":1449035955,
+    "wof:lastmodified":1467082388,
     "wof:name":"Palmetto Inn",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.270948,34.737189,-82.270948,34.737189],
+  "bbox": [
+    -82.270948,
+    34.737189,
+    -82.270948,
+    34.737189
+],
   "geometry": {"coordinates":[-82.270948,34.737189],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169706533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.881791,33.691621,-78.881791,33.691621",
     "geom:latitude":33.691621,
     "geom:longitude":-78.881791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 York St",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169706533,
-    "wof:lastmodified":1449032910,
+    "wof:lastmodified":1467082377,
     "wof:name":"Beach Sands Inn",
     "wof:parent_id":85816109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.881791,33.691621,-78.881791,33.691621],
-  "geometry": {"coordinates":[-78.881791,33.691621],"type":"Point"}
+  "bbox": [
+    -78.881791,
+    33.691621,
+    -78.881791,
+    33.691621
+],
+  "geometry": {"coordinates":[-78.88179100000001,33.691621],"type":"Point"}
 }

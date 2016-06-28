@@ -2,13 +2,14 @@
   "id": 370678909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.408096,34.893352,-82.408096,34.893352",
     "geom:latitude":34.893352,
     "geom:longitude":-82.408096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1445 Poinsett Hwy",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370678909,
-    "wof:lastmodified":1449030726,
+    "wof:lastmodified":1467082334,
     "wof:name":"Pandora's Box",
     "wof:parent_id":85825355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cassette"
     ]
 },
-  "bbox": [-82.408096,34.893352,-82.408096,34.893352],
+  "bbox": [
+    -82.408096,
+    34.893352,
+    -82.408096,
+    34.893352
+],
   "geometry": {"coordinates":[-82.408096,34.893352],"type":"Point"}
 }

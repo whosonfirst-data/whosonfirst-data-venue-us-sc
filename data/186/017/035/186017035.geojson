@@ -2,13 +2,14 @@
   "id": 186017035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.939526,34.957191,-81.939526,34.957191",
     "geom:latitude":34.957191,
     "geom:longitude":-81.939526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Magnolia St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186017035,
-    "wof:lastmodified":1449051800,
+    "wof:lastmodified":1467082401,
     "wof:name":"Hanover Title",
     "wof:parent_id":85826389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-81.939526,34.957191,-81.939526,34.957191],
+  "bbox": [
+    -81.939526,
+    34.957191,
+    -81.939526,
+    34.957191
+],
   "geometry": {"coordinates":[-81.939526,34.957191],"type":"Point"}
 }

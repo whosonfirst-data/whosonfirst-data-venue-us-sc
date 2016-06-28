@@ -2,13 +2,14 @@
   "id": 186301585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.379416,34.866785,-82.379416,34.866785",
     "geom:latitude":34.866785,
     "geom:longitude":-82.379416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"531 Wade Hampton Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186301585,
-    "wof:lastmodified":1449051080,
+    "wof:lastmodified":1467082394,
     "wof:name":"Steel Wheels",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-82.379416,34.866785,-82.379416,34.866785],
-  "geometry": {"coordinates":[-82.379416,34.866785],"type":"Point"}
+  "bbox": [
+    -82.379416,
+    34.866785,
+    -82.379416,
+    34.866785
+],
+  "geometry": {"coordinates":[-82.37941600000001,34.866785],"type":"Point"}
 }

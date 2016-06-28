@@ -2,13 +2,14 @@
   "id": 186043315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.109259,34.916022,-81.109259,34.916022",
     "geom:latitude":34.916022,
     "geom:longitude":-81.109259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2149 McConnells Hwy",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186043315,
-    "wof:lastmodified":1449052352,
+    "wof:lastmodified":1467082407,
     "wof:name":"B M P",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "utility"
     ]
 },
-  "bbox": [-81.109259,34.916022,-81.109259,34.916022],
-  "geometry": {"coordinates":[-81.109259,34.916022],"type":"Point"}
+  "bbox": [
+    -81.109259,
+    34.916022,
+    -81.109259,
+    34.916022
+],
+  "geometry": {"coordinates":[-81.10925899999999,34.916022],"type":"Point"}
 }

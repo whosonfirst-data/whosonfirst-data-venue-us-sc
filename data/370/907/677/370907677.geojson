@@ -2,13 +2,14 @@
   "id": 370907677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.051653,34.46267,-82.051653,34.46267",
     "geom:latitude":34.46267,
     "geom:longitude":-82.051653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Bridgeway Dr",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370907677,
-    "wof:lastmodified":1449032210,
+    "wof:lastmodified":1467082367,
     "wof:name":"CHS-Bridgeway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "institution"
     ]
 },
-  "bbox": [-82.051653,34.46267,-82.051653,34.46267],
+  "bbox": [
+    -82.051653,
+    34.46267,
+    -82.051653,
+    34.46267
+],
   "geometry": {"coordinates":[-82.051653,34.46267],"type":"Point"}
 }

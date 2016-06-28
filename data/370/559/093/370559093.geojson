@@ -2,13 +2,14 @@
   "id": 370559093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.1613,32.9645,-80.1613,32.9645",
     "geom:latitude":32.9645,
     "geom:longitude":-80.1613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Morgan Pl",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370559093,
-    "wof:lastmodified":1449031741,
+    "wof:lastmodified":1467082357,
     "wof:name":"Dale F Finkbine DDS",
     "wof:parent_id":85852525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.1613,32.9645,-80.1613,32.9645],
+  "bbox": [
+    -80.1613,
+    32.9645,
+    -80.1613,
+    32.9645
+],
   "geometry": {"coordinates":[-80.1613,32.9645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370780187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.850516,33.720498,-78.850516,33.720498",
     "geom:latitude":33.720498,
     "geom:longitude":-78.850516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4685 US Hwy 17 Bus",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370780187,
-    "wof:lastmodified":1449031625,
+    "wof:lastmodified":1467082355,
     "wof:name":"Incare Home Health",
     "wof:parent_id":85839155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-78.850516,33.720498,-78.850516,33.720498],
+  "bbox": [
+    -78.850516,
+    33.720498,
+    -78.850516,
+    33.720498
+],
   "geometry": {"coordinates":[-78.850516,33.720498],"type":"Point"}
 }

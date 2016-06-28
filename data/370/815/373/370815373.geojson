@@ -2,13 +2,14 @@
   "id": 370815373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.743111,34.075162,-79.743111,34.075162",
     "geom:latitude":34.075162,
     "geom:longitude":-79.743111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 Harvey Rd",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370815373,
-    "wof:lastmodified":1449030732,
+    "wof:lastmodified":1467082334,
     "wof:name":"Ted Harvey",
     "wof:parent_id":85831325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tract"
     ]
 },
-  "bbox": [-79.743111,34.075162,-79.743111,34.075162],
+  "bbox": [
+    -79.743111,
+    34.075162,
+    -79.743111,
+    34.075162
+],
   "geometry": {"coordinates":[-79.743111,34.075162],"type":"Point"}
 }

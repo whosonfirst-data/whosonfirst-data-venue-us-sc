@@ -2,13 +2,14 @@
   "id": 337365051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.702584,32.209098,-80.702584,32.209098",
     "geom:latitude":32.209098,
     "geom:longitude":-80.702584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Mathews Dr",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337365051,
-    "wof:lastmodified":1449027056,
+    "wof:lastmodified":1467082269,
     "wof:name":"Paint & Paper Tiger",
     "wof:parent_id":85819729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-80.702584,32.209098,-80.702584,32.209098],
+  "bbox": [
+    -80.702584,
+    32.209098,
+    -80.702584,
+    32.209098
+],
   "geometry": {"coordinates":[-80.702584,32.209098],"type":"Point"}
 }

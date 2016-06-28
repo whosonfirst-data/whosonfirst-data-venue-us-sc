@@ -2,13 +2,14 @@
   "id": 353425803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.543052,33.057703,-79.543052,33.057703",
     "geom:latitude":33.057703,
     "geom:longitude":-79.543052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8832 N Hwy 17",
     "sg:city":"Mc Clellanville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353425803,
-    "wof:lastmodified":1449019151,
+    "wof:lastmodified":1467082228,
     "wof:name":"C & C Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "market"
     ]
 },
-  "bbox": [-79.543052,33.057703,-79.543052,33.057703],
+  "bbox": [
+    -79.543052,
+    33.057703,
+    -79.543052,
+    33.057703
+],
   "geometry": {"coordinates":[-79.543052,33.057703],"type":"Point"}
 }

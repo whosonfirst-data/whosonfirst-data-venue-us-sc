@@ -2,13 +2,14 @@
   "id": 370798473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.413499,34.980085,-82.413499,34.980085",
     "geom:latitude":34.980085,
     "geom:longitude":-82.413499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Tigerville Rd",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370798473,
-    "wof:lastmodified":1449029723,
+    "wof:lastmodified":1467082312,
     "wof:name":"Fagan's Garage",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.413499,34.980085,-82.413499,34.980085],
+  "bbox": [
+    -82.413499,
+    34.980085,
+    -82.413499,
+    34.980085
+],
   "geometry": {"coordinates":[-82.413499,34.980085],"type":"Point"}
 }

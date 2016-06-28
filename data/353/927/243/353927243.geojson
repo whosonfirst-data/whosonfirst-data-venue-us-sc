@@ -2,13 +2,14 @@
   "id": 353927243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.996563,32.850364,-79.996563,32.850364",
     "geom:latitude":32.850364,
     "geom:longitude":-79.996563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2630 Bonds Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353927243,
-    "wof:lastmodified":1449020535,
+    "wof:lastmodified":1467082256,
     "wof:name":"Allsouth Electrical Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.996563,32.850364,-79.996563,32.850364],
-  "geometry": {"coordinates":[-79.996563,32.850364],"type":"Point"}
+  "bbox": [
+    -79.996563,
+    32.850364,
+    -79.996563,
+    32.850364
+],
+  "geometry": {"coordinates":[-79.99656299999999,32.850364],"type":"Point"}
 }

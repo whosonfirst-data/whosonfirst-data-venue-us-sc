@@ -2,13 +2,14 @@
   "id": 337342139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.376943,34.178064,-82.376943,34.178064",
     "geom:latitude":34.178064,
     "geom:longitude":-82.376943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E Pickens St",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337342139,
-    "wof:lastmodified":1449027675,
+    "wof:lastmodified":1467082293,
     "wof:name":"Dust & Rust Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-82.376943,34.178064,-82.376943,34.178064],
+  "bbox": [
+    -82.376943,
+    34.178064,
+    -82.376943,
+    34.178064
+],
   "geometry": {"coordinates":[-82.376943,34.178064],"type":"Point"}
 }

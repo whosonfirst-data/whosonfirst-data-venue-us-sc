@@ -2,13 +2,14 @@
   "id": 370147403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.050399,32.845202,-80.050399,32.845202",
     "geom:latitude":32.845202,
     "geom:longitude":-80.050399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2347 Tall Sail Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370147403,
-    "wof:lastmodified":1449032112,
+    "wof:lastmodified":1467082365,
     "wof:name":"Franklin Properties",
     "wof:parent_id":85820043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.050399,32.845202,-80.050399,32.845202],
+  "bbox": [
+    -80.050399,
+    32.845202,
+    -80.050399,
+    32.845202
+],
   "geometry": {"coordinates":[-80.050399,32.845202],"type":"Point"}
 }

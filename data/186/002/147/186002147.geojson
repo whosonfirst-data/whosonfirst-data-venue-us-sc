@@ -2,13 +2,14 @@
   "id": 186002147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.860572,33.711767,-78.860572,33.711767",
     "geom:latitude":33.711767,
     "geom:longitude":-78.860572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 33rd Ave N",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186002147,
-    "wof:lastmodified":1449052525,
+    "wof:lastmodified":1467082408,
     "wof:name":"Thechaisson Group Inc",
     "wof:parent_id":85816109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-78.860572,33.711767,-78.860572,33.711767],
+  "bbox": [
+    -78.860572,
+    33.711767,
+    -78.860572,
+    33.711767
+],
   "geometry": {"coordinates":[-78.860572,33.711767],"type":"Point"}
 }

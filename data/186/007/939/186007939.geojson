@@ -2,13 +2,14 @@
   "id": 186007939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.216468,34.025797,-81.216468,34.025797",
     "geom:latitude":34.025797,
     "geom:longitude":-81.216468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Andrew Corley Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186007939,
-    "wof:lastmodified":1449052550,
+    "wof:lastmodified":1467082408,
     "wof:name":"Birds By Veta",
     "wof:parent_id":85897271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-81.216468,34.025797,-81.216468,34.025797],
-  "geometry": {"coordinates":[-81.216468,34.025797],"type":"Point"}
+  "bbox": [
+    -81.216468,
+    34.025797,
+    -81.216468,
+    34.025797
+],
+  "geometry": {"coordinates":[-81.21646800000001,34.025797],"type":"Point"}
 }

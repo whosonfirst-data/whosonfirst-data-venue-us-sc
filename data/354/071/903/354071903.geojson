@@ -2,13 +2,14 @@
   "id": 354071903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.231259,32.979303,-80.231259,32.979303",
     "geom:latitude":32.979303,
     "geom:longitude":-80.231259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Duck Cir",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354071903,
-    "wof:lastmodified":1449067030,
+    "wof:lastmodified":1467082439,
     "wof:name":"H Bean Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.231259,32.979303,-80.231259,32.979303],
-  "geometry": {"coordinates":[-80.231259,32.979303],"type":"Point"}
+  "bbox": [
+    -80.231259,
+    32.979303,
+    -80.231259,
+    32.979303
+],
+  "geometry": {"coordinates":[-80.23125899999999,32.979303],"type":"Point"}
 }

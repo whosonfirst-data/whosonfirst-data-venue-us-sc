@@ -2,13 +2,14 @@
   "id": 185830391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.372869,34.806873,-82.372869,34.806873",
     "geom:latitude":34.806873,
     "geom:longitude":-82.372869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1259 S Pleasantburg Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185830391,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1467082188,
     "wof:name":"Black & Decker",
     "wof:parent_id":85832615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-82.372869,34.806873,-82.372869,34.806873],
-  "geometry": {"coordinates":[-82.372869,34.806873],"type":"Point"}
+  "bbox": [
+    -82.372869,
+    34.806873,
+    -82.372869,
+    34.806873
+],
+  "geometry": {"coordinates":[-82.37286899999999,34.806873],"type":"Point"}
 }

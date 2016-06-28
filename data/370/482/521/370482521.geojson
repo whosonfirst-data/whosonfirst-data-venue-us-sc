@@ -2,13 +2,14 @@
   "id": 370482521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.771094,34.205166,-79.771094,34.205166",
     "geom:latitude":34.205166,
     "geom:longitude":-79.771094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 N Coit St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370482521,
-    "wof:lastmodified":1449030292,
+    "wof:lastmodified":1467082325,
     "wof:name":"Horne Lincoln Mercury",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "car"
     ]
 },
-  "bbox": [-79.771094,34.205166,-79.771094,34.205166],
-  "geometry": {"coordinates":[-79.771094,34.205166],"type":"Point"}
+  "bbox": [
+    -79.771094,
+    34.205166,
+    -79.771094,
+    34.205166
+],
+  "geometry": {"coordinates":[-79.77109400000001,34.205166],"type":"Point"}
 }

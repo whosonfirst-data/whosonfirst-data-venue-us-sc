@@ -2,13 +2,14 @@
   "id": 186069271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.046091,33.579114,-79.046091,33.579114",
     "geom:latitude":33.579114,
     "geom:longitude":-79.046091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9613 Sullivan Dr",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186069271,
-    "wof:lastmodified":1449052065,
+    "wof:lastmodified":1467082404,
     "wof:name":"Buckeye Construction",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.046091,33.579114,-79.046091,33.579114],
+  "bbox": [
+    -79.046091,
+    33.579114,
+    -79.046091,
+    33.579114
+],
   "geometry": {"coordinates":[-79.046091,33.579114],"type":"Point"}
 }

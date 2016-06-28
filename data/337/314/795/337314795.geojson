@@ -2,13 +2,14 @@
   "id": 337314795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.900512,34.983405,-81.900512,34.983405",
     "geom:latitude":34.983405,
     "geom:longitude":-81.900512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Dillon Cir",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337314795,
-    "wof:lastmodified":1449027715,
+    "wof:lastmodified":1467082294,
     "wof:name":"Spartanburg Eye Clinic",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.900512,34.983405,-81.900512,34.983405],
-  "geometry": {"coordinates":[-81.900512,34.983405],"type":"Point"}
+  "bbox": [
+    -81.900512,
+    34.983405,
+    -81.900512,
+    34.983405
+],
+  "geometry": {"coordinates":[-81.90051200000001,34.983405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370390105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.594225,34.093281,-82.594225,34.093281",
     "geom:latitude":34.093281,
     "geom:longitude":-82.594225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 N Cox Ave",
     "sg:city":"Calhoun Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370390105,
-    "wof:lastmodified":1449032509,
+    "wof:lastmodified":1467082374,
     "wof:name":"Angela's Bazaar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.594225,34.093281,-82.594225,34.093281],
-  "geometry": {"coordinates":[-82.594225,34.093281],"type":"Point"}
+  "bbox": [
+    -82.594225,
+    34.093281,
+    -82.594225,
+    34.093281
+],
+  "geometry": {"coordinates":[-82.59422499999999,34.093281],"type":"Point"}
 }

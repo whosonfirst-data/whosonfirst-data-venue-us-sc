@@ -2,13 +2,14 @@
   "id": 185755215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.971848,34.689436,-80.971848,34.689436",
     "geom:latitude":34.689436,
     "geom:longitude":-80.971848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4773 Richburg Rd",
     "sg:city":"Richburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185755215,
-    "wof:lastmodified":1449007067,
+    "wof:lastmodified":1467082189,
     "wof:name":"Henry G Jordan",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-80.971848,34.689436,-80.971848,34.689436],
-  "geometry": {"coordinates":[-80.971848,34.689436],"type":"Point"}
+  "bbox": [
+    -80.971848,
+    34.689436,
+    -80.971848,
+    34.689436
+],
+  "geometry": {"coordinates":[-80.97184799999999,34.689436],"type":"Point"}
 }

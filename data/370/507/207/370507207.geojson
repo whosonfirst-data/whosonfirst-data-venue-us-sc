@@ -2,13 +2,14 @@
   "id": 370507207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.015523,32.869409,-80.015523,32.869409",
     "geom:latitude":32.869409,
     "geom:longitude":-80.015523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5035 N Arco Ln",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370507207,
-    "wof:lastmodified":1449030821,
+    "wof:lastmodified":1467082336,
     "wof:name":"Suite One Extended Stay Hotel",
     "wof:parent_id":85805727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.015523,32.869409,-80.015523,32.869409],
+  "bbox": [
+    -80.015523,
+    32.869409,
+    -80.015523,
+    32.869409
+],
   "geometry": {"coordinates":[-80.015523,32.869409],"type":"Point"}
 }

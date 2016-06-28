@@ -2,13 +2,14 @@
   "id": 370844261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.985276,34.916015,-81.985276,34.916015",
     "geom:latitude":34.916015,
     "geom:longitude":-81.985276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"358 E Blackstock Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370844261,
-    "wof:lastmodified":1449030527,
+    "wof:lastmodified":1467082330,
     "wof:name":"Head Quarters",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.985276,34.916015,-81.985276,34.916015],
+  "bbox": [
+    -81.985276,
+    34.916015,
+    -81.985276,
+    34.916015
+],
   "geometry": {"coordinates":[-81.985276,34.916015],"type":"Point"}
 }

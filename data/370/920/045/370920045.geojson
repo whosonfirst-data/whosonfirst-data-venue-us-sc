@@ -2,13 +2,14 @@
   "id": 370920045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.835042,34.162982,-79.835042,34.162982",
     "geom:latitude":34.162982,
     "geom:longitude":-79.835042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1434 Golf Terrace Blvd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370920045,
-    "wof:lastmodified":1449031719,
+    "wof:lastmodified":1467082357,
     "wof:name":"Klb Timber Corp",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-79.835042,34.162982,-79.835042,34.162982],
+  "bbox": [
+    -79.835042,
+    34.162982,
+    -79.835042,
+    34.162982
+],
   "geometry": {"coordinates":[-79.835042,34.162982],"type":"Point"}
 }

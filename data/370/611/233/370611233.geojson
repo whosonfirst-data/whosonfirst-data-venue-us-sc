@@ -2,13 +2,14 @@
   "id": 370611233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.394218,34.771232,-80.394218,34.771232",
     "geom:latitude":34.771232,
     "geom:longitude":-80.394218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W McGregor St",
     "sg:city":"Pageland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370611233,
-    "wof:lastmodified":1449031768,
+    "wof:lastmodified":1467082358,
     "wof:name":"Allen Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.394218,34.771232,-80.394218,34.771232],
+  "bbox": [
+    -80.394218,
+    34.771232,
+    -80.394218,
+    34.771232
+],
   "geometry": {"coordinates":[-80.394218,34.771232],"type":"Point"}
 }

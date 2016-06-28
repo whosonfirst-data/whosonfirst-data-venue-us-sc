@@ -2,13 +2,14 @@
   "id": 353537699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.968489,34.964098,-81.968489,34.964098",
     "geom:latitude":34.964098,
     "geom:longitude":-81.968489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Sibley St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353537699,
-    "wof:lastmodified":1449018886,
+    "wof:lastmodified":1467082222,
     "wof:name":"Las Amigas",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.968489,34.964098,-81.968489,34.964098],
-  "geometry": {"coordinates":[-81.968489,34.964098],"type":"Point"}
+  "bbox": [
+    -81.968489,
+    34.964098,
+    -81.968489,
+    34.964098
+],
+  "geometry": {"coordinates":[-81.96848900000001,34.964098],"type":"Point"}
 }

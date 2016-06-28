@@ -2,13 +2,14 @@
   "id": 353590575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.288996,33.375553,-79.288996,33.375553",
     "geom:latitude":33.375553,
     "geom:longitude":-79.288996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 N Hazard St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353590575,
-    "wof:lastmodified":1449019789,
+    "wof:lastmodified":1467082241,
     "wof:name":"Scotchman Store",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.288996,33.375553,-79.288996,33.375553],
+  "bbox": [
+    -79.288996,
+    33.375553,
+    -79.288996,
+    33.375553
+],
   "geometry": {"coordinates":[-79.288996,33.375553],"type":"Point"}
 }

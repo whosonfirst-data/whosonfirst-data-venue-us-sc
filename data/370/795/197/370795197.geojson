@@ -2,13 +2,14 @@
   "id": 370795197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.984843,32.782651,-79.984843,32.782651",
     "geom:latitude":32.782651,
     "geom:longitude":-79.984843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Avondale Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370795197,
-    "wof:lastmodified":1449031079,
+    "wof:lastmodified":1467082342,
     "wof:name":"Warren Communications",
     "wof:parent_id":85803739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-79.984843,32.782651,-79.984843,32.782651],
+  "bbox": [
+    -79.984843,
+    32.782651,
+    -79.984843,
+    32.782651
+],
   "geometry": {"coordinates":[-79.984843,32.782651],"type":"Point"}
 }

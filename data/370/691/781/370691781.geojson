@@ -2,13 +2,14 @@
   "id": 370691781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.225964,34.935309,-81.225964,34.935309",
     "geom:latitude":34.935309,
     "geom:longitude":-81.225964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2629 Chester Hwy",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370691781,
-    "wof:lastmodified":1449029365,
+    "wof:lastmodified":1467082304,
     "wof:name":"Wrights Welding & Fabrication",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-81.225964,34.935309,-81.225964,34.935309],
+  "bbox": [
+    -81.225964,
+    34.935309,
+    -81.225964,
+    34.935309
+],
   "geometry": {"coordinates":[-81.225964,34.935309],"type":"Point"}
 }

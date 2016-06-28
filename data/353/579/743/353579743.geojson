@@ -2,13 +2,14 @@
   "id": 353579743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.068224,32.725795,-80.068224,32.725795",
     "geom:latitude":32.725795,
     "geom:longitude":-80.068224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1823 Paulette Dr",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353579743,
-    "wof:lastmodified":1449019073,
+    "wof:lastmodified":1467082226,
     "wof:name":"Alligator Bike",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.068224,32.725795,-80.068224,32.725795],
+  "bbox": [
+    -80.068224,
+    32.725795,
+    -80.068224,
+    32.725795
+],
   "geometry": {"coordinates":[-80.068224,32.725795],"type":"Point"}
 }

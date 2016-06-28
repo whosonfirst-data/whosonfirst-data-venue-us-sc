@@ -2,13 +2,14 @@
   "id": 370509497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.960665,32.840215,-79.960665,32.840215",
     "geom:latitude":32.840215,
     "geom:longitude":-79.960665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2490 Debonair St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370509497,
-    "wof:lastmodified":1449029210,
+    "wof:lastmodified":1467082301,
     "wof:name":"Besco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "shop"
     ]
 },
-  "bbox": [-79.960665,32.840215,-79.960665,32.840215],
-  "geometry": {"coordinates":[-79.960665,32.840215],"type":"Point"}
+  "bbox": [
+    -79.960665,
+    32.840215,
+    -79.960665,
+    32.840215
+],
+  "geometry": {"coordinates":[-79.96066500000001,32.840215],"type":"Point"}
 }

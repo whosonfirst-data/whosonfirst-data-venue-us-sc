@@ -2,13 +2,14 @@
   "id": 370337313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.854272,34.934619,-81.854272,34.934619",
     "geom:latitude":34.934619,
     "geom:longitude":-81.854272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Bagwell Farm Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370337313,
-    "wof:lastmodified":1449030677,
+    "wof:lastmodified":1467082333,
     "wof:name":"Hollycrest Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.854272,34.934619,-81.854272,34.934619],
-  "geometry": {"coordinates":[-81.854272,34.934619],"type":"Point"}
+  "bbox": [
+    -81.854272,
+    34.934619,
+    -81.854272,
+    34.934619
+],
+  "geometry": {"coordinates":[-81.85427199999999,34.934619],"type":"Point"}
 }

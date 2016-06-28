@@ -2,13 +2,14 @@
   "id": 370213489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.700735,32.393292,-80.700735,32.393292",
     "geom:latitude":32.393292,
     "geom:longitude":-80.700735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 Battery Creek Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370213489,
-    "wof:lastmodified":1449029105,
+    "wof:lastmodified":1467082299,
     "wof:name":"Battery Creek Tennis Courts",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "court"
     ]
 },
-  "bbox": [-80.700735,32.393292,-80.700735,32.393292],
-  "geometry": {"coordinates":[-80.700735,32.393292],"type":"Point"}
+  "bbox": [
+    -80.700735,
+    32.393292,
+    -80.700735,
+    32.393292
+],
+  "geometry": {"coordinates":[-80.70073499999999,32.393292],"type":"Point"}
 }

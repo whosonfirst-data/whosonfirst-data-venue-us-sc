@@ -2,13 +2,14 @@
   "id": 353981523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.026712,32.806509,-80.026712,32.806509",
     "geom:latitude":32.806509,
     "geom:longitude":-80.026712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1875 Savage Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353981523,
-    "wof:lastmodified":1449020849,
+    "wof:lastmodified":1467082263,
     "wof:name":"Charleston Dental Assoc",
     "wof:parent_id":85839787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.026712,32.806509,-80.026712,32.806509],
+  "bbox": [
+    -80.026712,
+    32.806509,
+    -80.026712,
+    32.806509
+],
   "geometry": {"coordinates":[-80.026712,32.806509],"type":"Point"}
 }

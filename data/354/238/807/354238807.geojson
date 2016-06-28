@@ -2,13 +2,14 @@
   "id": 354238807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.226353,33.972022,-81.226353,33.972022",
     "geom:latitude":33.972022,
     "geom:longitude":-81.226353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Swartz Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354238807,
-    "wof:lastmodified":1449066553,
+    "wof:lastmodified":1467082429,
     "wof:name":"Old Fashioned Wood Products Co",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "container"
     ]
 },
-  "bbox": [-81.226353,33.972022,-81.226353,33.972022],
+  "bbox": [
+    -81.226353,
+    33.972022,
+    -81.226353,
+    33.972022
+],
   "geometry": {"coordinates":[-81.226353,33.972022],"type":"Point"}
 }

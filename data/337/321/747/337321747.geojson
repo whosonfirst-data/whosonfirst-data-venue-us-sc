@@ -2,13 +2,14 @@
   "id": 337321747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.114387,33.838088,-81.114387,33.838088",
     "geom:latitude":33.838088,
     "geom:longitude":-81.114387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Bismarck Dr",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":337321747,
-    "wof:lastmodified":1449026951,
+    "wof:lastmodified":1467082265,
     "wof:name":"Bill Jack Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.114387,33.838088,-81.114387,33.838088],
-  "geometry": {"coordinates":[-81.114387,33.838088],"type":"Point"}
+  "bbox": [
+    -81.114387,
+    33.838088,
+    -81.114387,
+    33.838088
+],
+  "geometry": {"coordinates":[-81.11438699999999,33.838088],"type":"Point"}
 }

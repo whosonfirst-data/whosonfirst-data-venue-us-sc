@@ -2,13 +2,14 @@
   "id": 353505801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.007847,32.803886,-80.007847,32.803886",
     "geom:latitude":32.803886,
     "geom:longitude":-80.007847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1285 Ashley Hall Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353505801,
-    "wof:lastmodified":1449020404,
+    "wof:lastmodified":1467082253,
     "wof:name":"Pinecrest Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.007847,32.803886,-80.007847,32.803886],
+  "bbox": [
+    -80.007847,
+    32.803886,
+    -80.007847,
+    32.803886
+],
   "geometry": {"coordinates":[-80.007847,32.803886],"type":"Point"}
 }

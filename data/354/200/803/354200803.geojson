@@ -2,13 +2,14 @@
   "id": 354200803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.093542,34.941929,-82.093542,34.941929",
     "geom:latitude":34.941929,
     "geom:longitude":-82.093542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"275 Tucapau Rd",
     "sg:city":"Wellford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354200803,
-    "wof:lastmodified":1449066603,
+    "wof:lastmodified":1467082430,
     "wof:name":"Warptek LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "weaved"
     ]
 },
-  "bbox": [-82.093542,34.941929,-82.093542,34.941929],
+  "bbox": [
+    -82.093542,
+    34.941929,
+    -82.093542,
+    34.941929
+],
   "geometry": {"coordinates":[-82.093542,34.941929],"type":"Point"}
 }

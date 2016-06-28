@@ -2,13 +2,14 @@
   "id": 185620063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.095582,33.946814,-81.095582,33.946814",
     "geom:latitude":33.946814,
     "geom:longitude":-81.095582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2006 Parliament Dr",
     "sg:city":"Cayce",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185620063,
-    "wof:lastmodified":1449008079,
+    "wof:lastmodified":1467082205,
     "wof:name":"Steam Systems Of The Midlands",
     "wof:parent_id":85847855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-81.095582,33.946814,-81.095582,33.946814],
-  "geometry": {"coordinates":[-81.095582,33.946814],"type":"Point"}
+  "bbox": [
+    -81.095582,
+    33.946814,
+    -81.095582,
+    33.946814
+],
+  "geometry": {"coordinates":[-81.09558199999999,33.946814],"type":"Point"}
 }

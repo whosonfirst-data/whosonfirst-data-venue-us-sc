@@ -2,13 +2,14 @@
   "id": 353640901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.27558,33.36831,-79.27558,33.36831",
     "geom:latitude":33.36831,
     "geom:longitude":-79.27558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Church St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353640901,
-    "wof:lastmodified":1449019366,
+    "wof:lastmodified":1467082232,
     "wof:name":"David L Hood Law Office",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.27558,33.36831,-79.27558,33.36831],
-  "geometry": {"coordinates":[-79.27558,33.36831],"type":"Point"}
+  "bbox": [
+    -79.27558,
+    33.36831,
+    -79.27558,
+    33.36831
+],
+  "geometry": {"coordinates":[-79.27558000000001,33.36831],"type":"Point"}
 }

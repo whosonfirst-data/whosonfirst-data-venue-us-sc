@@ -2,13 +2,14 @@
   "id": 337356073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.245205,34.704851,-82.245205,34.704851",
     "geom:latitude":34.704851,
     "geom:longitude":-82.245205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Harrison Bridge Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337356073,
-    "wof:lastmodified":1449027599,
+    "wof:lastmodified":1467082290,
     "wof:name":"Greenville Heritage Federal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.245205,34.704851,-82.245205,34.704851],
+  "bbox": [
+    -82.245205,
+    34.704851,
+    -82.245205,
+    34.704851
+],
   "geometry": {"coordinates":[-82.245205,34.704851],"type":"Point"}
 }

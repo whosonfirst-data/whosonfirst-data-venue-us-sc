@@ -2,13 +2,14 @@
   "id": 354091639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.035314,34.005281,-81.035314,34.005281",
     "geom:latitude":34.005281,
     "geom:longitude":-81.035314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Main St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354091639,
-    "wof:lastmodified":1449066100,
+    "wof:lastmodified":1467082418,
     "wof:name":"John D Elliott Law Office",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.035314,34.005281,-81.035314,34.005281],
+  "bbox": [
+    -81.035314,
+    34.005281,
+    -81.035314,
+    34.005281
+],
   "geometry": {"coordinates":[-81.035314,34.005281],"type":"Point"}
 }

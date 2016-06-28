@@ -2,13 +2,14 @@
   "id": 337441111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.114944,32.876154,-81.114944,32.876154",
     "geom:latitude":32.876154,
     "geom:longitude":-81.114944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Hoover St N",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337441111,
-    "wof:lastmodified":1449027000,
+    "wof:lastmodified":1467082267,
     "wof:name":"Smith's Paint & Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-81.114944,32.876154,-81.114944,32.876154],
-  "geometry": {"coordinates":[-81.114944,32.876154],"type":"Point"}
+  "bbox": [
+    -81.114944,
+    32.876154,
+    -81.114944,
+    32.876154
+],
+  "geometry": {"coordinates":[-81.11494399999999,32.876154],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185862917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.649298,34.499646,-82.649298,34.499646",
     "geom:latitude":34.499646,
     "geom:longitude":-82.649298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 State Hwy 28 Bus",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185862917,
-    "wof:lastmodified":1449008266,
+    "wof:lastmodified":1467082208,
     "wof:name":"Happy Nails",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-82.649298,34.499646,-82.649298,34.499646],
+  "bbox": [
+    -82.649298,
+    34.499646,
+    -82.649298,
+    34.499646
+],
   "geometry": {"coordinates":[-82.649298,34.499646],"type":"Point"}
 }

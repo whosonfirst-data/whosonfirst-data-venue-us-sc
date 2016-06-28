@@ -2,13 +2,14 @@
   "id": 370276637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.251905,34.673735,-83.251905,34.673735",
     "geom:latitude":34.673735,
     "geom:longitude":-83.251905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Trout Farm Rd",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370276637,
-    "wof:lastmodified":1449029188,
+    "wof:lastmodified":1467082300,
     "wof:name":"Black Mountain Trout Farm",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fish"
     ]
 },
-  "bbox": [-83.251905,34.673735,-83.251905,34.673735],
-  "geometry": {"coordinates":[-83.251905,34.673735],"type":"Point"}
+  "bbox": [
+    -83.251905,
+    34.673735,
+    -83.251905,
+    34.673735
+],
+  "geometry": {"coordinates":[-83.25190499999999,34.673735],"type":"Point"}
 }

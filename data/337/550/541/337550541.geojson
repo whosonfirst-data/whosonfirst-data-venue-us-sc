@@ -2,13 +2,14 @@
   "id": 337550541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.187092,33.955784,-81.187092,33.955784",
     "geom:latitude":33.955784,
     "geom:longitude":-81.187092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3379 Emanuel Church Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337550541,
-    "wof:lastmodified":1449027384,
+    "wof:lastmodified":1467082282,
     "wof:name":"Pet-A-Coat Junction Boarding",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-81.187092,33.955784,-81.187092,33.955784],
-  "geometry": {"coordinates":[-81.187092,33.955784],"type":"Point"}
+  "bbox": [
+    -81.187092,
+    33.955784,
+    -81.187092,
+    33.955784
+],
+  "geometry": {"coordinates":[-81.18709200000001,33.955784],"type":"Point"}
 }

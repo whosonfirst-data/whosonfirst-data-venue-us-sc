@@ -2,13 +2,14 @@
   "id": 337411427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.5145,34.193407,-82.5145,34.193407",
     "geom:latitude":34.193407,
     "geom:longitude":-82.5145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1094 Gassoway Farm Rd",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337411427,
-    "wof:lastmodified":1449026977,
+    "wof:lastmodified":1467082266,
     "wof:name":"Department Of Public Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landfill"
     ]
 },
-  "bbox": [-82.5145,34.193407,-82.5145,34.193407],
+  "bbox": [
+    -82.5145,
+    34.193407,
+    -82.5145,
+    34.193407
+],
   "geometry": {"coordinates":[-82.5145,34.193407],"type":"Point"}
 }

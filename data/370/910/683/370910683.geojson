@@ -2,13 +2,14 @@
   "id": 370910683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.982889,33.987559,-80.982889,33.987559",
     "geom:latitude":33.987559,
     "geom:longitude":-80.982889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4108 Rosewood Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370910683,
-    "wof:lastmodified":1449030494,
+    "wof:lastmodified":1467082329,
     "wof:name":"Hemingway Law Firm Pa",
     "wof:parent_id":85876829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.982889,33.987559,-80.982889,33.987559],
+  "bbox": [
+    -80.982889,
+    33.987559,
+    -80.982889,
+    33.987559
+],
   "geometry": {"coordinates":[-80.982889,33.987559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370653603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.363401,33.297834,-80.363401,33.297834",
     "geom:latitude":33.297834,
     "geom:longitude":-80.363401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Shoptaw Rd",
     "sg:city":"Holly Hill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370653603,
-    "wof:lastmodified":1449029331,
+    "wof:lastmodified":1467082303,
     "wof:name":"Blazer Wilkinson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "broker"
     ]
 },
-  "bbox": [-80.363401,33.297834,-80.363401,33.297834],
+  "bbox": [
+    -80.363401,
+    33.297834,
+    -80.363401,
+    33.297834
+],
   "geometry": {"coordinates":[-80.363401,33.297834],"type":"Point"}
 }

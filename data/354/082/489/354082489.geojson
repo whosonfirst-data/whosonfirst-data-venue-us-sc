@@ -2,13 +2,14 @@
   "id": 354082489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.025582,34.492007,-83.025582,34.492007",
     "geom:latitude":34.492007,
     "geom:longitude":-83.025582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19005 State Hwy 11 Scn",
     "sg:city":"Fair Play",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354082489,
-    "wof:lastmodified":1449065984,
+    "wof:lastmodified":1467082416,
     "wof:name":"Dalco Homes",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-83.025582,34.492007,-83.025582,34.492007],
+  "bbox": [
+    -83.025582,
+    34.492007,
+    -83.025582,
+    34.492007
+],
   "geometry": {"coordinates":[-83.025582,34.492007],"type":"Point"}
 }

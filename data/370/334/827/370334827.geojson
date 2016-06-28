@@ -2,13 +2,14 @@
   "id": 370334827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.782979,32.152558,-80.782979,32.152558",
     "geom:latitude":32.152558,
     "geom:longitude":-80.782979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Pine Island Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370334827,
-    "wof:lastmodified":1449030094,
+    "wof:lastmodified":1467082320,
     "wof:name":"Pine Island Assoc",
     "wof:parent_id":85830025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.782979,32.152558,-80.782979,32.152558],
+  "bbox": [
+    -80.782979,
+    32.152558,
+    -80.782979,
+    32.152558
+],
   "geometry": {"coordinates":[-80.782979,32.152558],"type":"Point"}
 }

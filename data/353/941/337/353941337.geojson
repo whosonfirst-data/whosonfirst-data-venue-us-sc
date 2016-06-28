@@ -2,13 +2,14 @@
   "id": 353941337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.93687,33.672135,-78.93687,33.672135",
     "geom:latitude":33.672135,
     "geom:longitude":-78.93687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3392 Phillis Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353941337,
-    "wof:lastmodified":1449019799,
+    "wof:lastmodified":1467082241,
     "wof:name":"US Army Reserve",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-78.93687,33.672135,-78.93687,33.672135],
+  "bbox": [
+    -78.93687,
+    33.672135,
+    -78.93687,
+    33.672135
+],
   "geometry": {"coordinates":[-78.93687,33.672135],"type":"Point"}
 }

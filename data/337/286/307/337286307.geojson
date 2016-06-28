@@ -2,13 +2,14 @@
   "id": 337286307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.751118,32.873555,-79.751118,32.873555",
     "geom:latitude":32.873555,
     "geom:longitude":-79.751118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3642 Pandora Dr",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337286307,
-    "wof:lastmodified":1449027145,
+    "wof:lastmodified":1467082273,
     "wof:name":"Charter Boat Teaser",
     "wof:parent_id":85842745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-79.751118,32.873555,-79.751118,32.873555],
-  "geometry": {"coordinates":[-79.751118,32.873555],"type":"Point"}
+  "bbox": [
+    -79.751118,
+    32.873555,
+    -79.751118,
+    32.873555
+],
+  "geometry": {"coordinates":[-79.75111800000001,32.873555],"type":"Point"}
 }

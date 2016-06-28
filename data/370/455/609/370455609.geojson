@@ -2,13 +2,14 @@
   "id": 370455609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.007551,32.882937,-80.007551,32.882937",
     "geom:latitude":32.882937,
     "geom:longitude":-80.007551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4923 Rivers Ave",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370455609,
-    "wof:lastmodified":1449031926,
+    "wof:lastmodified":1467082361,
     "wof:name":"Crazy Dollar",
     "wof:parent_id":85819163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-80.007551,32.882937,-80.007551,32.882937],
-  "geometry": {"coordinates":[-80.007551,32.882937],"type":"Point"}
+  "bbox": [
+    -80.007551,
+    32.882937,
+    -80.007551,
+    32.882937
+],
+  "geometry": {"coordinates":[-80.00755100000001,32.882937],"type":"Point"}
 }

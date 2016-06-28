@@ -2,13 +2,14 @@
   "id": 370263315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.857923,34.938213,-81.857923,34.938213",
     "geom:latitude":34.938213,
     "geom:longitude":-81.857923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 Country Club Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370263315,
-    "wof:lastmodified":1449032375,
+    "wof:lastmodified":1467082371,
     "wof:name":"Park Place Assisted Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "residential"
     ]
 },
-  "bbox": [-81.857923,34.938213,-81.857923,34.938213],
+  "bbox": [
+    -81.857923,
+    34.938213,
+    -81.857923,
+    34.938213
+],
   "geometry": {"coordinates":[-81.857923,34.938213],"type":"Point"}
 }

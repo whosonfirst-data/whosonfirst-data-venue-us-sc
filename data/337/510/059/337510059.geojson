@@ -2,13 +2,14 @@
   "id": 337510059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.823595,32.825727,-79.823595,32.825727",
     "geom:latitude":32.825727,
     "geom:longitude":-79.823595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1257 Horseshoe Bend",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337510059,
-    "wof:lastmodified":1449027435,
+    "wof:lastmodified":1467082284,
     "wof:name":"Water Beast Holdings LLC",
     "wof:parent_id":85840345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-79.823595,32.825727,-79.823595,32.825727],
+  "bbox": [
+    -79.823595,
+    32.825727,
+    -79.823595,
+    32.825727
+],
   "geometry": {"coordinates":[-79.823595,32.825727],"type":"Point"}
 }

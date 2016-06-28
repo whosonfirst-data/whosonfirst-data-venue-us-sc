@@ -2,13 +2,14 @@
   "id": 186025331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.259296,32.732107,-80.259296,32.732107",
     "geom:latitude":32.732107,
     "geom:longitude":-80.259296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6488 State Hwy 162",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186025331,
-    "wof:lastmodified":1449052565,
+    "wof:lastmodified":1467082409,
     "wof:name":"St Paul Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-80.259296,32.732107,-80.259296,32.732107],
-  "geometry": {"coordinates":[-80.259296,32.732107],"type":"Point"}
+  "bbox": [
+    -80.259296,
+    32.732107,
+    -80.259296,
+    32.732107
+],
+  "geometry": {"coordinates":[-80.25929600000001,32.732107],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337322741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.092033,33.021768,-80.092033,33.021768",
     "geom:latitude":33.021768,
     "geom:longitude":-80.092033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Kentucky Dr",
     "sg:city":"Ladson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337322741,
-    "wof:lastmodified":1449026920,
+    "wof:lastmodified":1467082264,
     "wof:name":"Health Services Consulting",
     "wof:parent_id":85851233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-80.092033,33.021768,-80.092033,33.021768],
+  "bbox": [
+    -80.092033,
+    33.021768,
+    -80.092033,
+    33.021768
+],
   "geometry": {"coordinates":[-80.092033,33.021768],"type":"Point"}
 }

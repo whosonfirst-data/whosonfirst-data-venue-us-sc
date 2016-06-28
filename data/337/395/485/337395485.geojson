@@ -2,13 +2,14 @@
   "id": 337395485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.341488,33.921646,-80.341488,33.921646",
     "geom:latitude":33.921646,
     "geom:longitude":-80.341488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 N Main St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":337395485,
-    "wof:lastmodified":1449027627,
+    "wof:lastmodified":1467082291,
     "wof:name":"Standard Music Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.341488,33.921646,-80.341488,33.921646],
+  "bbox": [
+    -80.341488,
+    33.921646,
+    -80.341488,
+    33.921646
+],
   "geometry": {"coordinates":[-80.341488,33.921646],"type":"Point"}
 }

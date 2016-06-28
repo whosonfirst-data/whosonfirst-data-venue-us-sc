@@ -2,13 +2,14 @@
   "id": 353792333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.265909,34.753365,-82.265909,34.753365",
     "geom:latitude":34.753365,
     "geom:longitude":-82.265909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"895 NE Main St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":353792333,
-    "wof:lastmodified":1449018814,
+    "wof:lastmodified":1467082221,
     "wof:name":"Bargain Tires Plus Inc",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-82.265909,34.753365,-82.265909,34.753365],
-  "geometry": {"coordinates":[-82.265909,34.753365],"type":"Point"}
+  "bbox": [
+    -82.265909,
+    34.753365,
+    -82.265909,
+    34.753365
+],
+  "geometry": {"coordinates":[-82.26590899999999,34.753365],"type":"Point"}
 }

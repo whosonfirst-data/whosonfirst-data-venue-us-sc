@@ -2,13 +2,14 @@
   "id": 186033327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.693323,34.78781,-82.693323,34.78781",
     "geom:latitude":34.78781,
     "geom:longitude":-82.693323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 W Main St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186033327,
-    "wof:lastmodified":1449050954,
+    "wof:lastmodified":1467082393,
     "wof:name":"First Citizens Bank & Trust Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.693323,34.78781,-82.693323,34.78781],
-  "geometry": {"coordinates":[-82.693323,34.78781],"type":"Point"}
+  "bbox": [
+    -82.693323,
+    34.78781,
+    -82.693323,
+    34.78781
+],
+  "geometry": {"coordinates":[-82.69332300000001,34.78781],"type":"Point"}
 }

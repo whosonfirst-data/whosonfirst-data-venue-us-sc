@@ -2,13 +2,14 @@
   "id": 370335433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.190714,34.071516,-81.190714,34.071516",
     "geom:latitude":34.071516,
     "geom:longitude":-81.190714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Old Pond Ln",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370335433,
-    "wof:lastmodified":1449031307,
+    "wof:lastmodified":1467082347,
     "wof:name":"North Stone Apartments",
     "wof:parent_id":85897271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.190714,34.071516,-81.190714,34.071516],
+  "bbox": [
+    -81.190714,
+    34.071516,
+    -81.190714,
+    34.071516
+],
   "geometry": {"coordinates":[-81.190714,34.071516],"type":"Point"}
 }

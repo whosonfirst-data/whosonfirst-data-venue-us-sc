@@ -2,13 +2,14 @@
   "id": 169738273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.651953,35.071956,-81.651953,35.071956",
     "geom:latitude":35.071956,
     "geom:longitude":-81.651953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 S Granard St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169738273,
-    "wof:lastmodified":1449035096,
+    "wof:lastmodified":1467082385,
     "wof:name":"Wall Appraisal Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.651953,35.071956,-81.651953,35.071956],
-  "geometry": {"coordinates":[-81.651953,35.071956],"type":"Point"}
+  "bbox": [
+    -81.651953,
+    35.071956,
+    -81.651953,
+    35.071956
+],
+  "geometry": {"coordinates":[-81.65195300000001,35.071956],"type":"Point"}
 }

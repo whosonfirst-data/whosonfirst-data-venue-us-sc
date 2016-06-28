@@ -2,13 +2,14 @@
   "id": 354254723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.455712,34.723531,-82.455712,34.723531",
     "geom:latitude":34.723531,
     "geom:longitude":-82.455712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Golden Grove Cir",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354254723,
-    "wof:lastmodified":1449067144,
+    "wof:lastmodified":1467082442,
     "wof:name":"Fowlers Trucking Inc",
     "wof:parent_id":85810381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.455712,34.723531,-82.455712,34.723531],
-  "geometry": {"coordinates":[-82.455712,34.723531],"type":"Point"}
+  "bbox": [
+    -82.455712,
+    34.723531,
+    -82.455712,
+    34.723531
+],
+  "geometry": {"coordinates":[-82.45571200000001,34.723531],"type":"Point"}
 }

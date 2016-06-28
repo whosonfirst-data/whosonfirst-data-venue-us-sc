@@ -2,13 +2,14 @@
   "id": 185965049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.403648,34.84466,-82.403648,34.84466",
     "geom:latitude":34.84466,
     "geom:longitude":-82.403648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 S Main St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185965049,
-    "wof:lastmodified":1449007719,
+    "wof:lastmodified":1467082199,
     "wof:name":"Surratt's Inc",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "appliance"
     ]
 },
-  "bbox": [-82.403648,34.84466,-82.403648,34.84466],
+  "bbox": [
+    -82.403648,
+    34.84466,
+    -82.403648,
+    34.84466
+],
   "geometry": {"coordinates":[-82.403648,34.84466],"type":"Point"}
 }

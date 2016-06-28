@@ -2,13 +2,14 @@
   "id": 370600993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.741914,34.724946,-80.741914,34.724946",
     "geom:latitude":34.724946,
     "geom:longitude":-80.741914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 Pageland Hwy",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370600993,
-    "wof:lastmodified":1449029398,
+    "wof:lastmodified":1467082305,
     "wof:name":"Highway 9 Package Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.741914,34.724946,-80.741914,34.724946],
-  "geometry": {"coordinates":[-80.741914,34.724946],"type":"Point"}
+  "bbox": [
+    -80.741914,
+    34.724946,
+    -80.741914,
+    34.724946
+],
+  "geometry": {"coordinates":[-80.74191399999999,34.724946],"type":"Point"}
 }

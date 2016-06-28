@@ -2,13 +2,14 @@
   "id": 354000079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.384342,33.961681,-80.384342,33.961681",
     "geom:latitude":33.961681,
     "geom:longitude":-80.384342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2295 Harper St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354000079,
-    "wof:lastmodified":1449066204,
+    "wof:lastmodified":1467082421,
     "wof:name":"Sumter Baptist Temple",
     "wof:parent_id":85814545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.384342,33.961681,-80.384342,33.961681],
+  "bbox": [
+    -80.384342,
+    33.961681,
+    -80.384342,
+    33.961681
+],
   "geometry": {"coordinates":[-80.384342,33.961681],"type":"Point"}
 }

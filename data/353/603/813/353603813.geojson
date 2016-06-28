@@ -2,13 +2,14 @@
   "id": 353603813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.117354,34.005126,-81.117354,34.005126",
     "geom:latitude":34.005126,
     "geom:longitude":-81.117354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2728 Sunset Blvd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353603813,
-    "wof:lastmodified":1449020424,
+    "wof:lastmodified":1467082254,
     "wof:name":"Becky's Place",
     "wof:parent_id":85857097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-81.117354,34.005126,-81.117354,34.005126],
-  "geometry": {"coordinates":[-81.117354,34.005126],"type":"Point"}
+  "bbox": [
+    -81.117354,
+    34.005126,
+    -81.117354,
+    34.005126
+],
+  "geometry": {"coordinates":[-81.11735400000001,34.005126],"type":"Point"}
 }

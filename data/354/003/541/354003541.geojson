@@ -2,13 +2,14 @@
   "id": 354003541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.931562,34.973986,-81.931562,34.973986",
     "geom:latitude":34.973986,
     "geom:longitude":-81.931562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 Beaumont Ave",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354003541,
-    "wof:lastmodified":1449067537,
+    "wof:lastmodified":1467082451,
     "wof:name":"Secondary Solutions Inc",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-81.931562,34.973986,-81.931562,34.973986],
+  "bbox": [
+    -81.931562,
+    34.973986,
+    -81.931562,
+    34.973986
+],
   "geometry": {"coordinates":[-81.931562,34.973986],"type":"Point"}
 }

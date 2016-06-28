@@ -2,13 +2,14 @@
   "id": 354387253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.698009,32.219098,-80.698009,32.219098",
     "geom:latitude":32.219098,
     "geom:longitude":-80.698009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Dillon Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354387253,
-    "wof:lastmodified":1449067437,
+    "wof:lastmodified":1467082449,
     "wof:name":"Airport Fire Station",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "program"
     ]
 },
-  "bbox": [-80.698009,32.219098,-80.698009,32.219098],
+  "bbox": [
+    -80.698009,
+    32.219098,
+    -80.698009,
+    32.219098
+],
   "geometry": {"coordinates":[-80.698009,32.219098],"type":"Point"}
 }

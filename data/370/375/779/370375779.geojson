@@ -2,13 +2,14 @@
   "id": 370375779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.375133,34.167313,-79.375133,34.167313",
     "geom:latitude":34.167313,
     "geom:longitude":-79.375133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Park Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370375779,
-    "wof:lastmodified":1449029183,
+    "wof:lastmodified":1467082300,
     "wof:name":"Johnson Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-79.375133,34.167313,-79.375133,34.167313],
-  "geometry": {"coordinates":[-79.375133,34.167313],"type":"Point"}
+  "bbox": [
+    -79.375133,
+    34.167313,
+    -79.375133,
+    34.167313
+],
+  "geometry": {"coordinates":[-79.37513300000001,34.167313],"type":"Point"}
 }

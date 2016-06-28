@@ -2,13 +2,14 @@
   "id": 185602151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.732472,32.512548,-80.732472,32.512548",
     "geom:latitude":32.512548,
     "geom:longitude":-80.732472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 Colleton Dr",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185602151,
-    "wof:lastmodified":1449007367,
+    "wof:lastmodified":1467082194,
     "wof:name":"Andy's Septic Tank Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "septic"
     ]
 },
-  "bbox": [-80.732472,32.512548,-80.732472,32.512548],
+  "bbox": [
+    -80.732472,
+    32.512548,
+    -80.732472,
+    32.512548
+],
   "geometry": {"coordinates":[-80.732472,32.512548],"type":"Point"}
 }

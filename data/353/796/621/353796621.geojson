@@ -2,13 +2,14 @@
   "id": 353796621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.85513,34.952229,-81.85513,34.952229",
     "geom:latitude":34.952229,
     "geom:longitude":-81.85513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Fairlane Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353796621,
-    "wof:lastmodified":1449019468,
+    "wof:lastmodified":1467082234,
     "wof:name":"Spartan Transit Supply Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "transit"
     ]
 },
-  "bbox": [-81.85513,34.952229,-81.85513,34.952229],
+  "bbox": [
+    -81.85513,
+    34.952229,
+    -81.85513,
+    34.952229
+],
   "geometry": {"coordinates":[-81.85513,34.952229],"type":"Point"}
 }

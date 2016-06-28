@@ -2,13 +2,14 @@
   "id": 370945013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.965773,34.912468,-81.965773,34.912468",
     "geom:latitude":34.912468,
     "geom:longitude":-81.965773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Dudley Rd",
     "sg:city":"Roebuck",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370945013,
-    "wof:lastmodified":1449029375,
+    "wof:lastmodified":1467082304,
     "wof:name":"Piedmont Auto & Truck Svc",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.965773,34.912468,-81.965773,34.912468],
+  "bbox": [
+    -81.965773,
+    34.912468,
+    -81.965773,
+    34.912468
+],
   "geometry": {"coordinates":[-81.965773,34.912468],"type":"Point"}
 }

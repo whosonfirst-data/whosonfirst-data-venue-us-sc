@@ -2,13 +2,14 @@
   "id": 370653701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.915868,32.862422,-79.915868,32.862422",
     "geom:latitude":32.862422,
     "geom:longitude":-79.915868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Corn Planters St",
     "sg:city":"Daniel Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370653701,
-    "wof:lastmodified":1449029328,
+    "wof:lastmodified":1467082303,
     "wof:name":"Pretzel Twist",
     "wof:parent_id":85858239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pretzel"
     ]
 },
-  "bbox": [-79.915868,32.862422,-79.915868,32.862422],
+  "bbox": [
+    -79.915868,
+    32.862422,
+    -79.915868,
+    32.862422
+],
   "geometry": {"coordinates":[-79.915868,32.862422],"type":"Point"}
 }

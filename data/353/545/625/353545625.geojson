@@ -2,13 +2,14 @@
   "id": 353545625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.465899,34.773585,-82.465899,34.773585",
     "geom:latitude":34.773585,
     "geom:longitude":-82.465899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"360 Hwy 183",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353545625,
-    "wof:lastmodified":1449018877,
+    "wof:lastmodified":1467082222,
     "wof:name":"Pac Lease",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-82.465899,34.773585,-82.465899,34.773585],
-  "geometry": {"coordinates":[-82.465899,34.773585],"type":"Point"}
+  "bbox": [
+    -82.465899,
+    34.773585,
+    -82.465899,
+    34.773585
+],
+  "geometry": {"coordinates":[-82.46589899999999,34.773585],"type":"Point"}
 }

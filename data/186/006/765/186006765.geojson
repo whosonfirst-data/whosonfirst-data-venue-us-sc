@@ -2,13 +2,14 @@
   "id": 186006765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.963415,33.63102,-78.963415,33.63102",
     "geom:latitude":33.63102,
     "geom:longitude":-78.963415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1133 Dick Pond Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186006765,
-    "wof:lastmodified":1449052486,
+    "wof:lastmodified":1467082407,
     "wof:name":"Beauty Express",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.963415,33.63102,-78.963415,33.63102],
+  "bbox": [
+    -78.963415,
+    33.63102,
+    -78.963415,
+    33.63102
+],
   "geometry": {"coordinates":[-78.963415,33.63102],"type":"Point"}
 }

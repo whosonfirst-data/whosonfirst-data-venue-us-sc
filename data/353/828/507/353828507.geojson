@@ -2,13 +2,14 @@
   "id": 353828507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.24256,33.769217,-81.24256,33.769217",
     "geom:latitude":33.769217,
     "geom:longitude":-81.24256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Pine St",
     "sg:city":"Pelion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353828507,
-    "wof:lastmodified":1449019563,
+    "wof:lastmodified":1467082236,
     "wof:name":"Wayside Baptist Tabernacle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.24256,33.769217,-81.24256,33.769217],
+  "bbox": [
+    -81.24256,
+    33.769217,
+    -81.24256,
+    33.769217
+],
   "geometry": {"coordinates":[-81.24256,33.769217],"type":"Point"}
 }

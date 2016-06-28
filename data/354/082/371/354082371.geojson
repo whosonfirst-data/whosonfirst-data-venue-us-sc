@@ -2,13 +2,14 @@
   "id": 354082371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.740698,33.5066,-81.740698,33.5066",
     "geom:latitude":33.5066,
     "geom:longitude":-81.740698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"681 Silver Bluff Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354082371,
-    "wof:lastmodified":1449065986,
+    "wof:lastmodified":1467082416,
     "wof:name":"Key Construction Co",
     "wof:parent_id":85812071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.740698,33.5066,-81.740698,33.5066],
-  "geometry": {"coordinates":[-81.740698,33.5066],"type":"Point"}
+  "bbox": [
+    -81.740698,
+    33.5066,
+    -81.740698,
+    33.5066
+],
+  "geometry": {"coordinates":[-81.74069799999999,33.5066],"type":"Point"}
 }

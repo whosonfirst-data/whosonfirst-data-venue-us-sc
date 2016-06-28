@@ -2,13 +2,14 @@
   "id": 353926943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.892394,34.97994,-81.892394,34.97994",
     "geom:latitude":34.97994,
     "geom:longitude":-81.892394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 Skylyn Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353926943,
-    "wof:lastmodified":1449019140,
+    "wof:lastmodified":1467082228,
     "wof:name":"Virginia D Davis",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-81.892394,34.97994,-81.892394,34.97994],
+  "bbox": [
+    -81.892394,
+    34.97994,
+    -81.892394,
+    34.97994
+],
   "geometry": {"coordinates":[-81.892394,34.97994],"type":"Point"}
 }

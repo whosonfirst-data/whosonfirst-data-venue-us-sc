@@ -2,13 +2,14 @@
   "id": 353559323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.021712,33.995115,-81.021712,33.995115",
     "geom:latitude":33.995115,
     "geom:longitude":-81.021712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Park Cir",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353559323,
-    "wof:lastmodified":1449020263,
+    "wof:lastmodified":1467082251,
     "wof:name":"Whitney Asphalt Paving Co",
     "wof:parent_id":85897277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.021712,33.995115,-81.021712,33.995115],
-  "geometry": {"coordinates":[-81.021712,33.995115],"type":"Point"}
+  "bbox": [
+    -81.021712,
+    33.995115,
+    -81.021712,
+    33.995115
+],
+  "geometry": {"coordinates":[-81.02171199999999,33.995115],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353635319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.832978,34.692817,-82.832978,34.692817",
     "geom:latitude":34.692817,
     "geom:longitude":-82.832978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 College Ave",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353635319,
-    "wof:lastmodified":1449019358,
+    "wof:lastmodified":1467082232,
     "wof:name":"Camp Sertoma Of South Carolina",
     "wof:parent_id":85808845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-82.832978,34.692817,-82.832978,34.692817],
+  "bbox": [
+    -82.832978,
+    34.692817,
+    -82.832978,
+    34.692817
+],
   "geometry": {"coordinates":[-82.832978,34.692817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353401981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.677544,34.702531,-80.677544,34.702531",
     "geom:latitude":34.702531,
     "geom:longitude":-80.677544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2160 Flat Creek Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353401981,
-    "wof:lastmodified":1449020445,
+    "wof:lastmodified":1467082254,
     "wof:name":"Becks Mini Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.677544,34.702531,-80.677544,34.702531],
+  "bbox": [
+    -80.677544,
+    34.702531,
+    -80.677544,
+    34.702531
+],
   "geometry": {"coordinates":[-80.677544,34.702531],"type":"Point"}
 }

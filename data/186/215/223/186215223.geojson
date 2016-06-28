@@ -2,13 +2,14 @@
   "id": 186215223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.668792,33.489113,-81.668792,33.489113",
     "geom:latitude":33.489113,
     "geom:longitude":-81.668792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 Banks Mill Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186215223,
-    "wof:lastmodified":1449052539,
+    "wof:lastmodified":1467082408,
     "wof:name":"Cedar Creek Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.668792,33.489113,-81.668792,33.489113],
+  "bbox": [
+    -81.668792,
+    33.489113,
+    -81.668792,
+    33.489113
+],
   "geometry": {"coordinates":[-81.668792,33.489113],"type":"Point"}
 }

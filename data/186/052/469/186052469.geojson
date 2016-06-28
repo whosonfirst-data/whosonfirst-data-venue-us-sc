@@ -2,13 +2,14 @@
   "id": 186052469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.884666,34.054357,-78.884666,34.054357",
     "geom:latitude":34.054357,
     "geom:longitude":-78.884666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4647 Main St",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186052469,
-    "wof:lastmodified":1449051585,
+    "wof:lastmodified":1467082399,
     "wof:name":"Holt & Floyd",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-78.884666,34.054357,-78.884666,34.054357],
+  "bbox": [
+    -78.884666,
+    34.054357,
+    -78.884666,
+    34.054357
+],
   "geometry": {"coordinates":[-78.884666,34.054357],"type":"Point"}
 }

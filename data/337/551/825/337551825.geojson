@@ -2,13 +2,14 @@
   "id": 337551825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.043081,32.966784,-80.043081,32.966784",
     "geom:latitude":32.966784,
     "geom:longitude":-80.043081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8730 Northpark Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337551825,
-    "wof:lastmodified":1449027085,
+    "wof:lastmodified":1467082270,
     "wof:name":"Top Line Haircuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.043081,32.966784,-80.043081,32.966784],
+  "bbox": [
+    -80.043081,
+    32.966784,
+    -80.043081,
+    32.966784
+],
   "geometry": {"coordinates":[-80.043081,32.966784],"type":"Point"}
 }

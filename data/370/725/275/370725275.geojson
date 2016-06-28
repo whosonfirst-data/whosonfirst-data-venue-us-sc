@@ -2,13 +2,14 @@
   "id": 370725275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.851201,32.983359,-79.851201,32.983359",
     "geom:latitude":32.983359,
     "geom:longitude":-79.851201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1884 Cainhoy Rd",
     "sg:city":"Huger",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370725275,
-    "wof:lastmodified":1449029918,
+    "wof:lastmodified":1467082316,
     "wof:name":"Small Loading Limited Inc",
     "wof:parent_id":85814443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "handling"
     ]
 },
-  "bbox": [-79.851201,32.983359,-79.851201,32.983359],
+  "bbox": [
+    -79.851201,
+    32.983359,
+    -79.851201,
+    32.983359
+],
   "geometry": {"coordinates":[-79.851201,32.983359],"type":"Point"}
 }

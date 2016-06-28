@@ -2,13 +2,14 @@
   "id": 370170929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.305092,34.878555,-82.305092,34.878555",
     "geom:latitude":34.878555,
     "geom:longitude":-82.305092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Great Glen Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370170929,
-    "wof:lastmodified":1449029404,
+    "wof:lastmodified":1467082305,
     "wof:name":"Summit Ceiling Pro Inc",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-82.305092,34.878555,-82.305092,34.878555],
+  "bbox": [
+    -82.305092,
+    34.878555,
+    -82.305092,
+    34.878555
+],
   "geometry": {"coordinates":[-82.305092,34.878555],"type":"Point"}
 }

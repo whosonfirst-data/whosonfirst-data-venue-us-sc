@@ -2,13 +2,14 @@
   "id": 353842961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.167248,34.332314,-79.167248,34.332314",
     "geom:latitude":34.332314,
     "geom:longitude":-79.167248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 Scott St",
     "sg:city":"Lake View",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353842961,
-    "wof:lastmodified":1449018450,
+    "wof:lastmodified":1467082214,
     "wof:name":"Union AME Church",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.167248,34.332314,-79.167248,34.332314],
+  "bbox": [
+    -79.167248,
+    34.332314,
+    -79.167248,
+    34.332314
+],
   "geometry": {"coordinates":[-79.167248,34.332314],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169786833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.104257,33.472605,-79.104257,33.472605",
     "geom:latitude":33.472605,
     "geom:longitude":-79.104257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13253 Ocean Hwy",
     "sg:city":"Pawleys Island",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169786833,
-    "wof:lastmodified":1449033112,
+    "wof:lastmodified":1467082378,
     "wof:name":"Rape Crisis Ctr",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "intervention"
     ]
 },
-  "bbox": [-79.104257,33.472605,-79.104257,33.472605],
+  "bbox": [
+    -79.104257,
+    33.472605,
+    -79.104257,
+    33.472605
+],
   "geometry": {"coordinates":[-79.104257,33.472605],"type":"Point"}
 }

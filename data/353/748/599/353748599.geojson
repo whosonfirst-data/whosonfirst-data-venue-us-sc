@@ -2,13 +2,14 @@
   "id": 353748599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.86651,33.489827,-80.86651,33.489827",
     "geom:latitude":33.489827,
     "geom:longitude":-80.86651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1296 Broughton St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353748599,
-    "wof:lastmodified":1449020163,
+    "wof:lastmodified":1467082249,
     "wof:name":"Hair Rage",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.86651,33.489827,-80.86651,33.489827],
-  "geometry": {"coordinates":[-80.86651,33.489827],"type":"Point"}
+  "bbox": [
+    -80.86651,
+    33.489827,
+    -80.86651,
+    33.489827
+],
+  "geometry": {"coordinates":[-80.86651000000001,33.489827],"type":"Point"}
 }

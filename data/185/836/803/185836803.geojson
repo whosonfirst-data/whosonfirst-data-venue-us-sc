@@ -2,13 +2,14 @@
   "id": 185836803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.965281,32.714977,-79.965281,32.714977",
     "geom:latitude":32.714977,
     "geom:longitude":-79.965281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 Folly Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185836803,
-    "wof:lastmodified":1449007667,
+    "wof:lastmodified":1467082198,
     "wof:name":"Shurgard Storage Ctr",
     "wof:parent_id":85847603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fiber"
     ]
 },
-  "bbox": [-79.965281,32.714977,-79.965281,32.714977],
+  "bbox": [
+    -79.965281,
+    32.714977,
+    -79.965281,
+    32.714977
+],
   "geometry": {"coordinates":[-79.965281,32.714977],"type":"Point"}
 }

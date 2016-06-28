@@ -2,13 +2,14 @@
   "id": 370324147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.810251,33.646752,-79.810251,33.646752",
     "geom:latitude":33.646752,
     "geom:longitude":-79.810251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Segres Rd",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370324147,
-    "wof:lastmodified":1449031053,
+    "wof:lastmodified":1467082341,
     "wof:name":"Teeni Tots Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.810251,33.646752,-79.810251,33.646752],
-  "geometry": {"coordinates":[-79.810251,33.646752],"type":"Point"}
+  "bbox": [
+    -79.810251,
+    33.646752,
+    -79.810251,
+    33.646752
+],
+  "geometry": {"coordinates":[-79.81025099999999,33.646752],"type":"Point"}
 }

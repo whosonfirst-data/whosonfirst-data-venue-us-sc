@@ -2,13 +2,14 @@
   "id": 370845535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.969952,33.426463,-79.969952,33.426463",
     "geom:latitude":33.426463,
     "geom:longitude":-79.969952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Cottage Ln",
     "sg:city":"St Stephen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370845535,
-    "wof:lastmodified":1449029635,
+    "wof:lastmodified":1467082310,
     "wof:name":"Mary's Magic Door To Beauty",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.969952,33.426463,-79.969952,33.426463],
-  "geometry": {"coordinates":[-79.969952,33.426463],"type":"Point"}
+  "bbox": [
+    -79.969952,
+    33.426463,
+    -79.969952,
+    33.426463
+],
+  "geometry": {"coordinates":[-79.96995200000001,33.426463],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370296015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.379246,33.903245,-80.379246,33.903245",
     "geom:latitude":33.903245,
     "geom:longitude":-80.379246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"481 Pinewood Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370296015,
-    "wof:lastmodified":1449031842,
+    "wof:lastmodified":1467082359,
     "wof:name":"National Bank-South Carolina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.379246,33.903245,-80.379246,33.903245],
-  "geometry": {"coordinates":[-80.379246,33.903245],"type":"Point"}
+  "bbox": [
+    -80.379246,
+    33.903245,
+    -80.379246,
+    33.903245
+],
+  "geometry": {"coordinates":[-80.37924599999999,33.903245],"type":"Point"}
 }

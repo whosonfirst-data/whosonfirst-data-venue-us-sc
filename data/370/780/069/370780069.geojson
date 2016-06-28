@@ -2,13 +2,14 @@
   "id": 370780069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.732716,33.56498,-81.732716,33.56498",
     "geom:latitude":33.56498,
     "geom:longitude":-81.732716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 Richland Ave W",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370780069,
-    "wof:lastmodified":1449031629,
+    "wof:lastmodified":1467082355,
     "wof:name":"Tylers Tire & Auto Service",
     "wof:parent_id":85841907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-81.732716,33.56498,-81.732716,33.56498],
+  "bbox": [
+    -81.732716,
+    33.56498,
+    -81.732716,
+    33.56498
+],
   "geometry": {"coordinates":[-81.732716,33.56498],"type":"Point"}
 }

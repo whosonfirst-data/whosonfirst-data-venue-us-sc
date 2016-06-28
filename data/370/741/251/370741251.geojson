@@ -2,13 +2,14 @@
   "id": 370741251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.861173,34.288671,-79.861173,34.288671",
     "geom:latitude":34.288671,
     "geom:longitude":-79.861173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 S Main St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370741251,
-    "wof:lastmodified":1449029258,
+    "wof:lastmodified":1467082302,
     "wof:name":"Mc Queens Party Shop",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.861173,34.288671,-79.861173,34.288671],
-  "geometry": {"coordinates":[-79.861173,34.288671],"type":"Point"}
+  "bbox": [
+    -79.861173,
+    34.288671,
+    -79.861173,
+    34.288671
+],
+  "geometry": {"coordinates":[-79.86117299999999,34.288671],"type":"Point"}
 }

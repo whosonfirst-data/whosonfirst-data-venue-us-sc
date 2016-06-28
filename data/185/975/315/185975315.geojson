@@ -2,13 +2,14 @@
   "id": 185975315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.169954,34.232664,-82.169954,34.232664",
     "geom:latitude":34.232664,
     "geom:longitude":-82.169954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 E Northside Dr",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185975315,
-    "wof:lastmodified":1449007999,
+    "wof:lastmodified":1467082204,
     "wof:name":"Habitat For Humanity Greenwood",
     "wof:parent_id":85845351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-82.169954,34.232664,-82.169954,34.232664],
+  "bbox": [
+    -82.169954,
+    34.232664,
+    -82.169954,
+    34.232664
+],
   "geometry": {"coordinates":[-82.169954,34.232664],"type":"Point"}
 }

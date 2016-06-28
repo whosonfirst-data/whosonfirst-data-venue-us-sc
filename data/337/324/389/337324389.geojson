@@ -2,13 +2,14 @@
   "id": 337324389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.853496,33.510353,-80.853496,33.510353",
     "geom:latitude":33.510353,
     "geom:longitude":-80.853496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1460 Executive Ct",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337324389,
-    "wof:lastmodified":1449027423,
+    "wof:lastmodified":1467082283,
     "wof:name":"Stroman Appliance & TV Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-80.853496,33.510353,-80.853496,33.510353],
-  "geometry": {"coordinates":[-80.853496,33.510353],"type":"Point"}
+  "bbox": [
+    -80.853496,
+    33.510353,
+    -80.853496,
+    33.510353
+],
+  "geometry": {"coordinates":[-80.85349600000001,33.510353],"type":"Point"}
 }

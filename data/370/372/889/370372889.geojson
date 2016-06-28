@@ -2,13 +2,14 @@
   "id": 370372889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.796003,34.22216,-79.796003,34.22216",
     "geom:latitude":34.22216,
     "geom:longitude":-79.796003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1435 N Cashua Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370372889,
-    "wof:lastmodified":1449031137,
+    "wof:lastmodified":1467082343,
     "wof:name":"Simonds International",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "blade"
     ]
 },
-  "bbox": [-79.796003,34.22216,-79.796003,34.22216],
+  "bbox": [
+    -79.796003,
+    34.22216,
+    -79.796003,
+    34.22216
+],
   "geometry": {"coordinates":[-79.796003,34.22216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370706239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.804536,34.674137,-82.804536,34.674137",
     "geom:latitude":34.674137,
     "geom:longitude":-82.804536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Evans Pl",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370706239,
-    "wof:lastmodified":1449029324,
+    "wof:lastmodified":1467082303,
     "wof:name":"Bevis Clemson Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.804536,34.674137,-82.804536,34.674137],
+  "bbox": [
+    -82.804536,
+    34.674137,
+    -82.804536,
+    34.674137
+],
   "geometry": {"coordinates":[-82.804536,34.674137],"type":"Point"}
 }

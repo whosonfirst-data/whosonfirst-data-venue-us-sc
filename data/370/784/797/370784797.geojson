@@ -2,13 +2,14 @@
   "id": 370784797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.097676,33.737919,-81.097676,33.737919",
     "geom:latitude":33.737919,
     "geom:longitude":-81.097676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"197 N Lawrence Ave",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370784797,
-    "wof:lastmodified":1449031341,
+    "wof:lastmodified":1467082348,
     "wof:name":"Swansea Senior Citizen Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "citizen"
     ]
 },
-  "bbox": [-81.097676,33.737919,-81.097676,33.737919],
-  "geometry": {"coordinates":[-81.097676,33.737919],"type":"Point"}
+  "bbox": [
+    -81.097676,
+    33.737919,
+    -81.097676,
+    33.737919
+],
+  "geometry": {"coordinates":[-81.09767600000001,33.737919],"type":"Point"}
 }

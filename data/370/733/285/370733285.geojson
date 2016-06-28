@@ -2,13 +2,14 @@
   "id": 370733285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.174046,34.717598,-83.174046,34.717598",
     "geom:latitude":34.717598,
     "geom:longitude":-83.174046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"574 Cobb Bridge Rd",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370733285,
-    "wof:lastmodified":1449029562,
+    "wof:lastmodified":1467082308,
     "wof:name":"Crossroads 2 Baptist Church",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-83.174046,34.717598,-83.174046,34.717598],
+  "bbox": [
+    -83.174046,
+    34.717598,
+    -83.174046,
+    34.717598
+],
   "geometry": {"coordinates":[-83.174046,34.717598],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337314091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.804465,33.865281,-79.804465,33.865281",
     "geom:latitude":33.865281,
     "geom:longitude":-79.804465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 S Morris St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337314091,
-    "wof:lastmodified":1449027712,
+    "wof:lastmodified":1467082294,
     "wof:name":"Kountry KIDS Child Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.804465,33.865281,-79.804465,33.865281],
-  "geometry": {"coordinates":[-79.804465,33.865281],"type":"Point"}
+  "bbox": [
+    -79.804465,
+    33.865281,
+    -79.804465,
+    33.865281
+],
+  "geometry": {"coordinates":[-79.80446499999999,33.865281],"type":"Point"}
 }

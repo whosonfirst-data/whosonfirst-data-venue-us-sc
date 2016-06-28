@@ -2,13 +2,14 @@
   "id": 185705123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.767414,32.796935,-79.767414,32.796935",
     "geom:latitude":32.796935,
     "geom:longitude":-79.767414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Hartnett Blvd",
     "sg:city":"Isle Of Palms",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185705123,
-    "wof:lastmodified":1449008218,
+    "wof:lastmodified":1467082207,
     "wof:name":"Coastal Marketplacecom LLC",
     "wof:parent_id":85819989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-79.767414,32.796935,-79.767414,32.796935],
+  "bbox": [
+    -79.767414,
+    32.796935,
+    -79.767414,
+    32.796935
+],
   "geometry": {"coordinates":[-79.767414,32.796935],"type":"Point"}
 }

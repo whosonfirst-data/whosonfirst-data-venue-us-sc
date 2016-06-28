@@ -2,13 +2,14 @@
   "id": 370281163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.49771,33.952388,-80.49771,33.952388",
     "geom:latitude":33.952388,
     "geom:longitude":-80.49771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1266 State Hwy 441",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370281163,
-    "wof:lastmodified":1449031952,
+    "wof:lastmodified":1467082362,
     "wof:name":"Peach Orchard Veterinary Clnc",
     "wof:parent_id":85848059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-80.49771,33.952388,-80.49771,33.952388],
+  "bbox": [
+    -80.49771,
+    33.952388,
+    -80.49771,
+    33.952388
+],
   "geometry": {"coordinates":[-80.49771,33.952388],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354395805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.656713,34.522297,-82.656713,34.522297",
     "geom:latitude":34.522297,
     "geom:longitude":-82.656713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1903 N Main St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354395805,
-    "wof:lastmodified":1449067402,
+    "wof:lastmodified":1467082448,
     "wof:name":"Riggins Garment Care Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-82.656713,34.522297,-82.656713,34.522297],
+  "bbox": [
+    -82.656713,
+    34.522297,
+    -82.656713,
+    34.522297
+],
   "geometry": {"coordinates":[-82.656713,34.522297],"type":"Point"}
 }

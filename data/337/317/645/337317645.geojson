@@ -2,13 +2,14 @@
   "id": 337317645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.428651,34.819831,-82.428651,34.819831",
     "geom:latitude":34.819831,
     "geom:longitude":-82.428651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 S Washington Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337317645,
-    "wof:lastmodified":1449027310,
+    "wof:lastmodified":1467082279,
     "wof:name":"Frank Ulmer Builderway",
     "wof:parent_id":85810381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.428651,34.819831,-82.428651,34.819831],
+  "bbox": [
+    -82.428651,
+    34.819831,
+    -82.428651,
+    34.819831
+],
   "geometry": {"coordinates":[-82.428651,34.819831],"type":"Point"}
 }

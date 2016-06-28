@@ -2,13 +2,14 @@
   "id": 169772653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.568023,34.022025,-80.568023,34.022025",
     "geom:latitude":34.022025,
     "geom:longitude":-80.568023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3240 Horatio-Hagood Rd",
     "sg:city":"Horatio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169772653,
-    "wof:lastmodified":1449034150,
+    "wof:lastmodified":1467082382,
     "wof:name":"US Post Office",
     "wof:parent_id":85848059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.568023,34.022025,-80.568023,34.022025],
+  "bbox": [
+    -80.568023,
+    34.022025,
+    -80.568023,
+    34.022025
+],
   "geometry": {"coordinates":[-80.568023,34.022025],"type":"Point"}
 }

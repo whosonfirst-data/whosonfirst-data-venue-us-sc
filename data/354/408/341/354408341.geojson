@@ -2,13 +2,14 @@
   "id": 354408341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.601089,34.473429,-80.601089,34.473429",
     "geom:latitude":34.473429,
     "geom:longitude":-80.601089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3466 Kershaw Hwy",
     "sg:city":"Kershaw",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354408341,
-    "wof:lastmodified":1449066155,
+    "wof:lastmodified":1467082419,
     "wof:name":"Almond's Forest Products",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "timber"
     ]
 },
-  "bbox": [-80.601089,34.473429,-80.601089,34.473429],
+  "bbox": [
+    -80.601089,
+    34.473429,
+    -80.601089,
+    34.473429
+],
   "geometry": {"coordinates":[-80.601089,34.473429],"type":"Point"}
 }

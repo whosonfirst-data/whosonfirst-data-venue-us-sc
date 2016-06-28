@@ -2,13 +2,14 @@
   "id": 353881703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.424771,34.103498,-81.424771,34.103498",
     "geom:latitude":34.103498,
     "geom:longitude":-81.424771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Amicks Landing Rd",
     "sg:city":"Prosperity",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353881703,
-    "wof:lastmodified":1449019749,
+    "wof:lastmodified":1467082240,
     "wof:name":"Dreher Island Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-81.424771,34.103498,-81.424771,34.103498],
-  "geometry": {"coordinates":[-81.424771,34.103498],"type":"Point"}
+  "bbox": [
+    -81.424771,
+    34.103498,
+    -81.424771,
+    34.103498
+],
+  "geometry": {"coordinates":[-81.42477100000001,34.103498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354263933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.028256,34.831626,-83.028256,34.831626",
     "geom:latitude":34.831626,
     "geom:longitude":-83.028256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Bethel Church Rd",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354263933,
-    "wof:lastmodified":1449067628,
+    "wof:lastmodified":1467082453,
     "wof:name":"R&S Builders 29691",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-83.028256,34.831626,-83.028256,34.831626],
+  "bbox": [
+    -83.028256,
+    34.831626,
+    -83.028256,
+    34.831626
+],
   "geometry": {"coordinates":[-83.028256,34.831626],"type":"Point"}
 }

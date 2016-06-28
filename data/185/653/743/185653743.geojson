@@ -2,13 +2,14 @@
   "id": 185653743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.356269,34.405243,-79.356269,34.405243",
     "geom:latitude":34.405243,
     "geom:longitude":-79.356269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 New Jerusalem Dr",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185653743,
-    "wof:lastmodified":1449006723,
+    "wof:lastmodified":1467082184,
     "wof:name":"New Jerusalem United Church",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.356269,34.405243,-79.356269,34.405243],
+  "bbox": [
+    -79.356269,
+    34.405243,
+    -79.356269,
+    34.405243
+],
   "geometry": {"coordinates":[-79.356269,34.405243],"type":"Point"}
 }

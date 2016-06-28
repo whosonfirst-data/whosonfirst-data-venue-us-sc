@@ -2,13 +2,14 @@
   "id": 353815413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.927299,32.780916,-79.927299,32.780916",
     "geom:latitude":32.780916,
     "geom:longitude":-79.927299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 E Bay St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353815413,
-    "wof:lastmodified":1449019506,
+    "wof:lastmodified":1467082235,
     "wof:name":"Wellspring Fitness LLC",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "weight"
     ]
 },
-  "bbox": [-79.927299,32.780916,-79.927299,32.780916],
+  "bbox": [
+    -79.927299,
+    32.780916,
+    -79.927299,
+    32.780916
+],
   "geometry": {"coordinates":[-79.927299,32.780916],"type":"Point"}
 }

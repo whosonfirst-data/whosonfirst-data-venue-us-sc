@@ -2,13 +2,14 @@
   "id": 354381177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.402244,34.368797,-79.402244,34.368797",
     "geom:latitude":34.368797,
     "geom:longitude":-79.402244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2475 Hwy 301 S",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354381177,
-    "wof:lastmodified":1449066066,
+    "wof:lastmodified":1467082418,
     "wof:name":"W Dsc",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.402244,34.368797,-79.402244,34.368797],
+  "bbox": [
+    -79.402244,
+    34.368797,
+    -79.402244,
+    34.368797
+],
   "geometry": {"coordinates":[-79.402244,34.368797],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370436395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.980177,34.693188,-82.980177,34.693188",
     "geom:latitude":34.693188,
     "geom:longitude":-82.980177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1094 US Hwy 123",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370436395,
-    "wof:lastmodified":1449032152,
+    "wof:lastmodified":1467082366,
     "wof:name":"Palmetto Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.980177,34.693188,-82.980177,34.693188],
+  "bbox": [
+    -82.980177,
+    34.693188,
+    -82.980177,
+    34.693188
+],
   "geometry": {"coordinates":[-82.980177,34.693188],"type":"Point"}
 }

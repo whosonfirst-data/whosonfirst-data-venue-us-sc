@@ -2,13 +2,14 @@
   "id": 370864241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.667721,34.496851,-82.667721,34.496851",
     "geom:latitude":34.496851,
     "geom:longitude":-82.667721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 W Franklin St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370864241,
-    "wof:lastmodified":1449032519,
+    "wof:lastmodified":1467082375,
     "wof:name":"Three Sons Car Wash",
     "wof:parent_id":85868157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-82.667721,34.496851,-82.667721,34.496851],
+  "bbox": [
+    -82.667721,
+    34.496851,
+    -82.667721,
+    34.496851
+],
   "geometry": {"coordinates":[-82.667721,34.496851],"type":"Point"}
 }

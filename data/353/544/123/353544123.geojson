@@ -2,13 +2,14 @@
   "id": 353544123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.149811,34.095434,-81.149811,34.095434",
     "geom:latitude":34.095434,
     "geom:longitude":-81.149811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Clarion Rd",
     "sg:city":"Irmo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353544123,
-    "wof:lastmodified":1449020788,
+    "wof:lastmodified":1467082261,
     "wof:name":"Frank Patterson Construction",
     "wof:parent_id":85868499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.149811,34.095434,-81.149811,34.095434],
+  "bbox": [
+    -81.149811,
+    34.095434,
+    -81.149811,
+    34.095434
+],
   "geometry": {"coordinates":[-81.149811,34.095434],"type":"Point"}
 }

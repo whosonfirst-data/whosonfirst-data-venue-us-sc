@@ -2,13 +2,14 @@
   "id": 354414691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.552831,34.546007,-80.552831,34.546007",
     "geom:latitude":34.546007,
     "geom:longitude":-80.552831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6482 Woodhaven Rd",
     "sg:city":"Kershaw",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354414691,
-    "wof:lastmodified":1449066714,
+    "wof:lastmodified":1467082432,
     "wof:name":"Kershaw Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.552831,34.546007,-80.552831,34.546007],
+  "bbox": [
+    -80.552831,
+    34.546007,
+    -80.552831,
+    34.546007
+],
   "geometry": {"coordinates":[-80.552831,34.546007],"type":"Point"}
 }

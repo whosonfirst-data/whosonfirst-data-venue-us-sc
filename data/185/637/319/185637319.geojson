@@ -2,13 +2,14 @@
   "id": 185637319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.334949,34.211076,-79.334949,34.211076",
     "geom:latitude":34.211076,
     "geom:longitude":-79.334949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3912 Maidendown Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185637319,
-    "wof:lastmodified":1449006594,
+    "wof:lastmodified":1467082182,
     "wof:name":"Kountry Kubbard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.334949,34.211076,-79.334949,34.211076],
-  "geometry": {"coordinates":[-79.334949,34.211076],"type":"Point"}
+  "bbox": [
+    -79.334949,
+    34.211076,
+    -79.334949,
+    34.211076
+],
+  "geometry": {"coordinates":[-79.33494899999999,34.211076],"type":"Point"}
 }

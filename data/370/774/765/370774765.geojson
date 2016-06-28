@@ -2,13 +2,14 @@
   "id": 370774765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.708801,33.555315,-81.708801,33.555315",
     "geom:latitude":33.555315,
     "geom:longitude":-81.708801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Williamsburg St SE",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":370774765,
-    "wof:lastmodified":1449030400,
+    "wof:lastmodified":1467082327,
     "wof:name":"American Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "producer"
     ]
 },
-  "bbox": [-81.708801,33.555315,-81.708801,33.555315],
-  "geometry": {"coordinates":[-81.708801,33.555315],"type":"Point"}
+  "bbox": [
+    -81.708801,
+    33.555315,
+    -81.708801,
+    33.555315
+],
+  "geometry": {"coordinates":[-81.70880099999999,33.555315],"type":"Point"}
 }

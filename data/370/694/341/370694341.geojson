@@ -2,13 +2,14 @@
   "id": 370694341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.217627,34.799622,-82.217627,34.799622",
     "geom:latitude":34.799622,
     "geom:longitude":-82.217627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Grayhawk Way",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370694341,
-    "wof:lastmodified":1449030060,
+    "wof:lastmodified":1467082320,
     "wof:name":"HRB Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-82.217627,34.799622,-82.217627,34.799622],
-  "geometry": {"coordinates":[-82.217627,34.799622],"type":"Point"}
+  "bbox": [
+    -82.217627,
+    34.799622,
+    -82.217627,
+    34.799622
+],
+  "geometry": {"coordinates":[-82.21762699999999,34.799622],"type":"Point"}
 }

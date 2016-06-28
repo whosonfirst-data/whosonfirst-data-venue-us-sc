@@ -2,13 +2,14 @@
   "id": 370819531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.054948,33.5345,-79.054948,33.5345",
     "geom:latitude":33.5345,
     "geom:longitude":-79.054948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4891 US Hwy 17 Bus",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370819531,
-    "wof:lastmodified":1449029896,
+    "wof:lastmodified":1467082316,
     "wof:name":"Jimmagan's Inc",
     "wof:parent_id":85835395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.054948,33.5345,-79.054948,33.5345],
+  "bbox": [
+    -79.054948,
+    33.5345,
+    -79.054948,
+    33.5345
+],
   "geometry": {"coordinates":[-79.054948,33.5345],"type":"Point"}
 }

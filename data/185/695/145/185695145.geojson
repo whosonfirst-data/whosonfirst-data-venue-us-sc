@@ -2,13 +2,14 @@
   "id": 185695145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.133034,35.12447,-81.133034,35.12447",
     "geom:latitude":35.12447,
     "geom:longitude":-81.133034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6268 Ridge Rd",
     "sg:city":"Clover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185695145,
-    "wof:lastmodified":1449007213,
+    "wof:lastmodified":1467082191,
     "wof:name":"Mt Harmony United Methodist",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.133034,35.12447,-81.133034,35.12447],
-  "geometry": {"coordinates":[-81.133034,35.12447],"type":"Point"}
+  "bbox": [
+    -81.133034,
+    35.12447,
+    -81.133034,
+    35.12447
+],
+  "geometry": {"coordinates":[-81.13303399999999,35.12447],"type":"Point"}
 }

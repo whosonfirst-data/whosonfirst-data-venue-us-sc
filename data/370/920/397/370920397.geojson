@@ -2,13 +2,14 @@
   "id": 370920397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.834513,34.178121,-79.834513,34.178121",
     "geom:latitude":34.178121,
     "geom:longitude":-79.834513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2813 W Woodbine Ave",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370920397,
-    "wof:lastmodified":1449031716,
+    "wof:lastmodified":1467082357,
     "wof:name":"Brown's Piano Svc",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-79.834513,34.178121,-79.834513,34.178121],
+  "bbox": [
+    -79.834513,
+    34.178121,
+    -79.834513,
+    34.178121
+],
   "geometry": {"coordinates":[-79.834513,34.178121],"type":"Point"}
 }

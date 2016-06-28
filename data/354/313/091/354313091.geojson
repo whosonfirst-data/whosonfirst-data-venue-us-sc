@@ -2,13 +2,14 @@
   "id": 354313091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.25837,34.720198,-82.25837,34.720198",
     "geom:latitude":34.720198,
     "geom:longitude":-82.25837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3714 Grandview Dr",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354313091,
-    "wof:lastmodified":1449065991,
+    "wof:lastmodified":1467082416,
     "wof:name":"Columbia Mission SC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.25837,34.720198,-82.25837,34.720198],
+  "bbox": [
+    -82.25837,
+    34.720198,
+    -82.25837,
+    34.720198
+],
   "geometry": {"coordinates":[-82.25837,34.720198],"type":"Point"}
 }

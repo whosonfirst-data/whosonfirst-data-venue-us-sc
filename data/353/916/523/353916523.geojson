@@ -2,13 +2,14 @@
   "id": 353916523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.990569,34.936678,-81.990569,34.936678",
     "geom:latitude":34.936678,
     "geom:longitude":-81.990569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Blackstock Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353916523,
-    "wof:lastmodified":1449019661,
+    "wof:lastmodified":1467082238,
     "wof:name":"Factory Mattress",
     "wof:parent_id":85808971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-81.990569,34.936678,-81.990569,34.936678],
-  "geometry": {"coordinates":[-81.990569,34.936678],"type":"Point"}
+  "bbox": [
+    -81.990569,
+    34.936678,
+    -81.990569,
+    34.936678
+],
+  "geometry": {"coordinates":[-81.99056899999999,34.936678],"type":"Point"}
 }

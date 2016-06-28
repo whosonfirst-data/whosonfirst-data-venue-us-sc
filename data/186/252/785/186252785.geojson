@@ -2,13 +2,14 @@
   "id": 186252785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.951045,32.737255,-79.951045,32.737255",
     "geom:latitude":32.737255,
     "geom:longitude":-79.951045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"840 E Relyea Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186252785,
-    "wof:lastmodified":1449050659,
+    "wof:lastmodified":1467082391,
     "wof:name":"Lynns Crafters",
     "wof:parent_id":85851165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.951045,32.737255,-79.951045,32.737255],
-  "geometry": {"coordinates":[-79.951045,32.737255],"type":"Point"}
+  "bbox": [
+    -79.951045,
+    32.737255,
+    -79.951045,
+    32.737255
+],
+  "geometry": {"coordinates":[-79.95104499999999,32.737255],"type":"Point"}
 }

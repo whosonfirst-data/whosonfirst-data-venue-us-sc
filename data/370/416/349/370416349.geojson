@@ -2,13 +2,14 @@
   "id": 370416349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.956455,34.113341,-80.956455,34.113341",
     "geom:latitude":34.113341,
     "geom:longitude":-80.956455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Carrie Anderson Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370416349,
-    "wof:lastmodified":1449030619,
+    "wof:lastmodified":1467082332,
     "wof:name":"Townsmen Club",
     "wof:parent_id":85850805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-80.956455,34.113341,-80.956455,34.113341],
-  "geometry": {"coordinates":[-80.956455,34.113341],"type":"Point"}
+  "bbox": [
+    -80.956455,
+    34.113341,
+    -80.956455,
+    34.113341
+],
+  "geometry": {"coordinates":[-80.95645500000001,34.113341],"type":"Point"}
 }

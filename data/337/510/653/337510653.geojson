@@ -2,13 +2,14 @@
   "id": 337510653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.961783,34.906816,-81.961783,34.906816",
     "geom:latitude":34.906816,
     "geom:longitude":-81.961783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Peake Rd",
     "sg:city":"Roebuck",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":337510653,
-    "wof:lastmodified":1449027435,
+    "wof:lastmodified":1467082284,
     "wof:name":"Newman Fence Co Inc",
     "wof:parent_id":85828171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-81.961783,34.906816,-81.961783,34.906816],
+  "bbox": [
+    -81.961783,
+    34.906816,
+    -81.961783,
+    34.906816
+],
   "geometry": {"coordinates":[-81.961783,34.906816],"type":"Point"}
 }

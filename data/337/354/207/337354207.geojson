@@ -2,13 +2,14 @@
   "id": 337354207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.553637,34.790064,-82.553637,34.790064",
     "geom:latitude":34.790064,
     "geom:longitude":-82.553637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Meadow Woods Ct",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337354207,
-    "wof:lastmodified":1449027652,
+    "wof:lastmodified":1467082292,
     "wof:name":"Wicked Ink Creative Design",
     "wof:parent_id":85819785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-82.553637,34.790064,-82.553637,34.790064],
-  "geometry": {"coordinates":[-82.553637,34.790064],"type":"Point"}
+  "bbox": [
+    -82.553637,
+    34.790064,
+    -82.553637,
+    34.790064
+],
+  "geometry": {"coordinates":[-82.55363699999999,34.790064],"type":"Point"}
 }

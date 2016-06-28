@@ -2,13 +2,14 @@
   "id": 354387349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.923569,34.140618,-79.923569,34.140618",
     "geom:latitude":34.140618,
     "geom:longitude":-79.923569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"786 E Smith St",
     "sg:city":"Timmonsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354387349,
-    "wof:lastmodified":1449067435,
+    "wof:lastmodified":1467082449,
     "wof:name":"Weatherly Company",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.923569,34.140618,-79.923569,34.140618],
+  "bbox": [
+    -79.923569,
+    34.140618,
+    -79.923569,
+    34.140618
+],
   "geometry": {"coordinates":[-79.923569,34.140618],"type":"Point"}
 }

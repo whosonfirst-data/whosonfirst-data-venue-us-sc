@@ -2,13 +2,14 @@
   "id": 370272551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.694867,34.560849,-82.694867,34.560849",
     "geom:latitude":34.560849,
     "geom:longitude":-82.694867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4124 Clemson Blvd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370272551,
-    "wof:lastmodified":1449032228,
+    "wof:lastmodified":1467082368,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":85838347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.694867,34.560849,-82.694867,34.560849],
+  "bbox": [
+    -82.694867,
+    34.560849,
+    -82.694867,
+    34.560849
+],
   "geometry": {"coordinates":[-82.694867,34.560849],"type":"Point"}
 }

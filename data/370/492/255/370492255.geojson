@@ -2,13 +2,14 @@
   "id": 370492255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.879576,32.79793,-79.879576,32.79793",
     "geom:latitude":32.79793,
     "geom:longitude":-79.879576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1081 Cottingham Dr",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":370492255,
-    "wof:lastmodified":1449029064,
+    "wof:lastmodified":1467082298,
     "wof:name":"Aqua Turf Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.879576,32.79793,-79.879576,32.79793],
+  "bbox": [
+    -79.879576,
+    32.79793,
+    -79.879576,
+    32.79793
+],
   "geometry": {"coordinates":[-79.879576,32.79793],"type":"Point"}
 }

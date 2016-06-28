@@ -2,13 +2,14 @@
   "id": 354220895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.16389,34.339445,-79.16389,34.339445",
     "geom:latitude":34.339445,
     "geom:longitude":-79.16389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E 7th Ave",
     "sg:city":"Lake View",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354220895,
-    "wof:lastmodified":1449067615,
+    "wof:lastmodified":1467082453,
     "wof:name":"Lakeview Pentecostal Church",
     "wof:parent_id":85847727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.16389,34.339445,-79.16389,34.339445],
-  "geometry": {"coordinates":[-79.16389,34.339445],"type":"Point"}
+  "bbox": [
+    -79.16389,
+    34.339445,
+    -79.16389,
+    34.339445
+],
+  "geometry": {"coordinates":[-79.16388999999999,34.339445],"type":"Point"}
 }

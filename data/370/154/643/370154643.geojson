@@ -2,13 +2,14 @@
   "id": 370154643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.393996,34.448165,-82.393996,34.448165",
     "geom:latitude":34.448165,
     "geom:longitude":-82.393996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 N Main St",
     "sg:city":"Honea Path",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370154643,
-    "wof:lastmodified":1449032523,
+    "wof:lastmodified":1467082375,
     "wof:name":"Honea Path Animal Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-82.393996,34.448165,-82.393996,34.448165],
+  "bbox": [
+    -82.393996,
+    34.448165,
+    -82.393996,
+    34.448165
+],
   "geometry": {"coordinates":[-82.393996,34.448165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169812799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.804773,34.157328,-79.804773,34.157328",
     "geom:latitude":34.157328,
     "geom:longitude":-79.804773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 S Enchanted Ln",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169812799,
-    "wof:lastmodified":1449032780,
+    "wof:lastmodified":1467082377,
     "wof:name":"Shampoodle Inn",
     "wof:parent_id":85825487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.804773,34.157328,-79.804773,34.157328],
+  "bbox": [
+    -79.804773,
+    34.157328,
+    -79.804773,
+    34.157328
+],
   "geometry": {"coordinates":[-79.804773,34.157328],"type":"Point"}
 }

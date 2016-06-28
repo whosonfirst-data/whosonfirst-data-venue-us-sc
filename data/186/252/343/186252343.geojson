@@ -2,13 +2,14 @@
   "id": 186252343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.229721,34.749532,-82.229721,34.749532",
     "geom:latitude":34.749532,
     "geom:longitude":-82.229721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Ponderosa Dr",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186252343,
-    "wof:lastmodified":1449050662,
+    "wof:lastmodified":1467082391,
     "wof:name":"Polly Cooper",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-82.229721,34.749532,-82.229721,34.749532],
+  "bbox": [
+    -82.229721,
+    34.749532,
+    -82.229721,
+    34.749532
+],
   "geometry": {"coordinates":[-82.229721,34.749532],"type":"Point"}
 }

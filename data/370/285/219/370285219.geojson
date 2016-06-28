@@ -2,13 +2,14 @@
   "id": 370285219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.979922,33.991609,-80.979922,33.991609",
     "geom:latitude":33.991609,
     "geom:longitude":-80.979922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Beltline Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370285219,
-    "wof:lastmodified":1449029162,
+    "wof:lastmodified":1467082300,
     "wof:name":"Checks Plus",
     "wof:parent_id":85876829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-80.979922,33.991609,-80.979922,33.991609],
+  "bbox": [
+    -80.979922,
+    33.991609,
+    -80.979922,
+    33.991609
+],
   "geometry": {"coordinates":[-80.979922,33.991609],"type":"Point"}
 }

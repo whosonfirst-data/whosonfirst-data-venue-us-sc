@@ -2,13 +2,14 @@
   "id": 185765619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.328078,33.920826,-80.328078,33.920826",
     "geom:latitude":33.920826,
     "geom:longitude":-80.328078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"443 E Liberty St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":185765619,
-    "wof:lastmodified":1449007535,
+    "wof:lastmodified":1467082196,
     "wof:name":"Parnell Parnell & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-80.328078,33.920826,-80.328078,33.920826],
+  "bbox": [
+    -80.328078,
+    33.920826,
+    -80.328078,
+    33.920826
+],
   "geometry": {"coordinates":[-80.328078,33.920826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353582697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.830551,33.665025,-79.830551,33.665025",
     "geom:latitude":33.665025,
     "geom:longitude":-79.830551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N Academy St",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353582697,
-    "wof:lastmodified":1449019637,
+    "wof:lastmodified":1467082238,
     "wof:name":"Joe Ann Calvy LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.830551,33.665025,-79.830551,33.665025],
+  "bbox": [
+    -79.830551,
+    33.665025,
+    -79.830551,
+    33.665025
+],
   "geometry": {"coordinates":[-79.830551,33.665025],"type":"Point"}
 }

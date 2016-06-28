@@ -2,13 +2,14 @@
   "id": 185811765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.274042,34.755871,-82.274042,34.755871",
     "geom:latitude":34.755871,
     "geom:longitude":-82.274042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1031 Old Stage Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185811765,
-    "wof:lastmodified":1449007397,
+    "wof:lastmodified":1467082194,
     "wof:name":"Zupan & Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.274042,34.755871,-82.274042,34.755871],
-  "geometry": {"coordinates":[-82.274042,34.755871],"type":"Point"}
+  "bbox": [
+    -82.274042,
+    34.755871,
+    -82.274042,
+    34.755871
+],
+  "geometry": {"coordinates":[-82.27404199999999,34.755871],"type":"Point"}
 }

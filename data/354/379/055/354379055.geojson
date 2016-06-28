@@ -2,13 +2,14 @@
   "id": 354379055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.837778,34.691334,-82.837778,34.691334",
     "geom:latitude":34.691334,
     "geom:longitude":-82.837778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1060 Tiger Blvd",
     "sg:city":"Clemson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354379055,
-    "wof:lastmodified":1449066932,
+    "wof:lastmodified":1467082437,
     "wof:name":"Water Where Homemade Ice Cream",
     "wof:parent_id":85808845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cream"
     ]
 },
-  "bbox": [-82.837778,34.691334,-82.837778,34.691334],
+  "bbox": [
+    -82.837778,
+    34.691334,
+    -82.837778,
+    34.691334
+],
   "geometry": {"coordinates":[-82.837778,34.691334],"type":"Point"}
 }

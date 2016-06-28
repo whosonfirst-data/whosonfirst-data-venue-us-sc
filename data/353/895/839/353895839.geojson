@@ -2,13 +2,14 @@
   "id": 353895839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.309695,34.778591,-82.309695,34.778591",
     "geom:latitude":34.778591,
     "geom:longitude":-82.309695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 E Butler Rd",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353895839,
-    "wof:lastmodified":1449019332,
+    "wof:lastmodified":1467082232,
     "wof:name":"Digi-Place",
     "wof:parent_id":85851381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "finishing"
     ]
 },
-  "bbox": [-82.309695,34.778591,-82.309695,34.778591],
+  "bbox": [
+    -82.309695,
+    34.778591,
+    -82.309695,
+    34.778591
+],
   "geometry": {"coordinates":[-82.309695,34.778591],"type":"Point"}
 }

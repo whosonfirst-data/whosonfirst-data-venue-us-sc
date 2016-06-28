@@ -2,13 +2,14 @@
   "id": 185760551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.277363,34.743265,-82.277363,34.743265",
     "geom:latitude":34.743265,
     "geom:longitude":-82.277363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2806 Grandview Dr",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185760551,
-    "wof:lastmodified":1449008129,
+    "wof:lastmodified":1467082206,
     "wof:name":"Coronado Stone Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.277363,34.743265,-82.277363,34.743265],
-  "geometry": {"coordinates":[-82.277363,34.743265],"type":"Point"}
+  "bbox": [
+    -82.277363,
+    34.743265,
+    -82.277363,
+    34.743265
+],
+  "geometry": {"coordinates":[-82.27736299999999,34.743265],"type":"Point"}
 }

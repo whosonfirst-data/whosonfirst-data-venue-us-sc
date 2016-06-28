@@ -2,13 +2,14 @@
   "id": 186004697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.914614,33.691187,-78.914614,33.691187",
     "geom:latitude":33.691187,
     "geom:longitude":-78.914614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 Pinegrove Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186004697,
-    "wof:lastmodified":1449051365,
+    "wof:lastmodified":1467082397,
     "wof:name":"Rapid Alterations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-78.914614,33.691187,-78.914614,33.691187],
+  "bbox": [
+    -78.914614,
+    33.691187,
+    -78.914614,
+    33.691187
+],
   "geometry": {"coordinates":[-78.914614,33.691187],"type":"Point"}
 }

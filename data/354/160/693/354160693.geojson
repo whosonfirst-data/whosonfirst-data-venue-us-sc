@@ -2,13 +2,14 @@
   "id": 354160693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.766017,34.197781,-79.766017,34.197781",
     "geom:latitude":34.197781,
     "geom:longitude":-79.766017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 N Dargan St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354160693,
-    "wof:lastmodified":1449067376,
+    "wof:lastmodified":1467082447,
     "wof:name":"Lyerly's Market",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-79.766017,34.197781,-79.766017,34.197781],
-  "geometry": {"coordinates":[-79.766017,34.197781],"type":"Point"}
+  "bbox": [
+    -79.766017,
+    34.197781,
+    -79.766017,
+    34.197781
+],
+  "geometry": {"coordinates":[-79.76601700000001,34.197781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370484151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.998878,32.81363,-79.998878,32.81363",
     "geom:latitude":32.81363,
     "geom:longitude":-79.998878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Sam Rittenberg Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370484151,
-    "wof:lastmodified":1449032271,
+    "wof:lastmodified":1467082369,
     "wof:name":"Omni Health & Fitness",
     "wof:parent_id":85838205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trainer"
     ]
 },
-  "bbox": [-79.998878,32.81363,-79.998878,32.81363],
+  "bbox": [
+    -79.998878,
+    32.81363,
+    -79.998878,
+    32.81363
+],
   "geometry": {"coordinates":[-79.998878,32.81363],"type":"Point"}
 }

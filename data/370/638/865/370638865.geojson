@@ -2,13 +2,14 @@
   "id": 370638865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.899281,34.220364,-79.899281,34.220364",
     "geom:latitude":34.220364,
     "geom:longitude":-79.899281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2317 Timmonsville Hwy",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370638865,
-    "wof:lastmodified":1449029266,
+    "wof:lastmodified":1467082302,
     "wof:name":"D & G Farm Supply Inc",
     "wof:parent_id":85807743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-79.899281,34.220364,-79.899281,34.220364],
+  "bbox": [
+    -79.899281,
+    34.220364,
+    -79.899281,
+    34.220364
+],
   "geometry": {"coordinates":[-79.899281,34.220364],"type":"Point"}
 }

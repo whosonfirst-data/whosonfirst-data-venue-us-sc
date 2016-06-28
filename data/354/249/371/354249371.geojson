@@ -2,13 +2,14 @@
   "id": 354249371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.872977,33.522465,-80.872977,33.522465",
     "geom:latitude":33.522465,
     "geom:longitude":-80.872977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2355 Lakeside Dr",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354249371,
-    "wof:lastmodified":1449066035,
+    "wof:lastmodified":1467082417,
     "wof:name":"Wise Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drilling"
     ]
 },
-  "bbox": [-80.872977,33.522465,-80.872977,33.522465],
-  "geometry": {"coordinates":[-80.872977,33.522465],"type":"Point"}
+  "bbox": [
+    -80.872977,
+    33.522465,
+    -80.872977,
+    33.522465
+],
+  "geometry": {"coordinates":[-80.87297700000001,33.522465],"type":"Point"}
 }

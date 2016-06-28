@@ -2,13 +2,14 @@
   "id": 185966189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.799665,32.463,-80.799665,32.463",
     "geom:latitude":32.463,
     "geom:longitude":-80.799665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"361 Aspen St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185966189,
-    "wof:lastmodified":1449006604,
+    "wof:lastmodified":1467082182,
     "wof:name":"KB Financial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-80.799665,32.463,-80.799665,32.463],
+  "bbox": [
+    -80.799665,
+    32.463,
+    -80.799665,
+    32.463
+],
   "geometry": {"coordinates":[-80.799665,32.463],"type":"Point"}
 }

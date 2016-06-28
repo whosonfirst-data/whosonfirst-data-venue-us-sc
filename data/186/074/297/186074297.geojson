@@ -2,13 +2,14 @@
   "id": 186074297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.02086,34.019224,-81.02086,34.019224",
     "geom:latitude":34.019224,
     "geom:longitude":-81.02086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Oak St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186074297,
-    "wof:lastmodified":1449051828,
+    "wof:lastmodified":1467082401,
     "wof:name":"Drew Park & Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-81.02086,34.019224,-81.02086,34.019224],
+  "bbox": [
+    -81.02086,
+    34.019224,
+    -81.02086,
+    34.019224
+],
   "geometry": {"coordinates":[-81.02086,34.019224],"type":"Point"}
 }

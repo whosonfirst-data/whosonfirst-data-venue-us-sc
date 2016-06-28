@@ -2,13 +2,14 @@
   "id": 169707829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.878403,34.460505,-81.878403,34.460505",
     "geom:latitude":34.460505,
     "geom:longitude":-81.878403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 S Broad St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169707829,
-    "wof:lastmodified":1449035443,
+    "wof:lastmodified":1467082386,
     "wof:name":"Carolina First Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.878403,34.460505,-81.878403,34.460505],
-  "geometry": {"coordinates":[-81.878403,34.460505],"type":"Point"}
+  "bbox": [
+    -81.878403,
+    34.460505,
+    -81.878403,
+    34.460505
+],
+  "geometry": {"coordinates":[-81.87840300000001,34.460505],"type":"Point"}
 }

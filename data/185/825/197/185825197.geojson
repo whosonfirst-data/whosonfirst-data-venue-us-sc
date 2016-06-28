@@ -2,13 +2,14 @@
   "id": 185825197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.117581,33.034512,-80.117581,33.034512",
     "geom:latitude":33.034512,
     "geom:longitude":-80.117581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"194 Paddock Way",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185825197,
-    "wof:lastmodified":1449006640,
+    "wof:lastmodified":1467082183,
     "wof:name":"Idea Quest",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.117581,33.034512,-80.117581,33.034512],
+  "bbox": [
+    -80.117581,
+    33.034512,
+    -80.117581,
+    33.034512
+],
   "geometry": {"coordinates":[-80.117581,33.034512],"type":"Point"}
 }

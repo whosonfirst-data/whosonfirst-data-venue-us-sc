@@ -2,13 +2,14 @@
   "id": 370862839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.341651,33.920791,-80.341651,33.920791",
     "geom:latitude":33.920791,
     "geom:longitude":-80.341651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 N Main St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":370862839,
-    "wof:lastmodified":1449032566,
+    "wof:lastmodified":1467082375,
     "wof:name":"J & J Bail Bond Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-80.341651,33.920791,-80.341651,33.920791],
+  "bbox": [
+    -80.341651,
+    33.920791,
+    -80.341651,
+    33.920791
+],
   "geometry": {"coordinates":[-80.341651,33.920791],"type":"Point"}
 }

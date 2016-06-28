@@ -2,13 +2,14 @@
   "id": 354262839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.958414,33.704219,-78.958414,33.704219",
     "geom:latitude":33.704219,
     "geom:longitude":-78.958414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1991 Mossy Point Cove",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354262839,
-    "wof:lastmodified":1449067001,
+    "wof:lastmodified":1467082439,
     "wof:name":"Score Delivery Service",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.958414,33.704219,-78.958414,33.704219],
+  "bbox": [
+    -78.958414,
+    33.704219,
+    -78.958414,
+    33.704219
+],
   "geometry": {"coordinates":[-78.958414,33.704219],"type":"Point"}
 }

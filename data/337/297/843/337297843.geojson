@@ -2,13 +2,14 @@
   "id": 337297843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.119244,34.069638,-81.119244,34.069638",
     "geom:latitude":34.069638,
     "geom:longitude":-81.119244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4611 Broad River Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337297843,
-    "wof:lastmodified":1449027470,
+    "wof:lastmodified":1467082285,
     "wof:name":"Field & Tank Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contract"
     ]
 },
-  "bbox": [-81.119244,34.069638,-81.119244,34.069638],
-  "geometry": {"coordinates":[-81.119244,34.069638],"type":"Point"}
+  "bbox": [
+    -81.119244,
+    34.069638,
+    -81.119244,
+    34.069638
+],
+  "geometry": {"coordinates":[-81.11924399999999,34.069638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185915607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.687519,34.198127,-80.687519,34.198127",
     "geom:latitude":34.198127,
     "geom:longitude":-80.687519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"437 US Hwy 601",
     "sg:city":"Lugoff",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185915607,
-    "wof:lastmodified":1449008175,
+    "wof:lastmodified":1467082207,
     "wof:name":"Captain Joe's Marine/Boat WRLD",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sales"
     ]
 },
-  "bbox": [-80.687519,34.198127,-80.687519,34.198127],
-  "geometry": {"coordinates":[-80.687519,34.198127],"type":"Point"}
+  "bbox": [
+    -80.687519,
+    34.198127,
+    -80.687519,
+    34.198127
+],
+  "geometry": {"coordinates":[-80.68751899999999,34.198127],"type":"Point"}
 }

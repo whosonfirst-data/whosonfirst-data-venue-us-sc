@@ -2,13 +2,14 @@
   "id": 354008067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.87476,32.809081,-79.87476,32.809081",
     "geom:latitude":32.809081,
     "geom:longitude":-79.87476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 Johnnie Dodds Blvd",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354008067,
-    "wof:lastmodified":1449066443,
+    "wof:lastmodified":1467082426,
     "wof:name":"Battery Investment Co",
     "wof:parent_id":85848217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-79.87476,32.809081,-79.87476,32.809081],
-  "geometry": {"coordinates":[-79.87476,32.809081],"type":"Point"}
+  "bbox": [
+    -79.87476,
+    32.809081,
+    -79.87476,
+    32.809081
+],
+  "geometry": {"coordinates":[-79.87475999999999,32.809081],"type":"Point"}
 }

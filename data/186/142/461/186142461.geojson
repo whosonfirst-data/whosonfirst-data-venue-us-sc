@@ -2,13 +2,14 @@
   "id": 186142461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.645901,32.370024,-80.645901,32.370024",
     "geom:latitude":32.370024,
     "geom:longitude":-80.645901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Sheffield Ave",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186142461,
-    "wof:lastmodified":1449052476,
+    "wof:lastmodified":1467082407,
     "wof:name":"Palmate Technologies",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "metallurgist"
     ]
 },
-  "bbox": [-80.645901,32.370024,-80.645901,32.370024],
-  "geometry": {"coordinates":[-80.645901,32.370024],"type":"Point"}
+  "bbox": [
+    -80.645901,
+    32.370024,
+    -80.645901,
+    32.370024
+],
+  "geometry": {"coordinates":[-80.64590099999999,32.370024],"type":"Point"}
 }

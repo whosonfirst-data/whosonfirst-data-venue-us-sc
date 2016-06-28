@@ -2,13 +2,14 @@
   "id": 353870327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.518533,34.505786,-82.518533,34.505786",
     "geom:latitude":34.505786,
     "geom:longitude":-82.518533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Anderson St",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353870327,
-    "wof:lastmodified":1449018930,
+    "wof:lastmodified":1467082223,
     "wof:name":"Simmons Mattress Factory Otlt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-82.518533,34.505786,-82.518533,34.505786],
-  "geometry": {"coordinates":[-82.518533,34.505786],"type":"Point"}
+  "bbox": [
+    -82.518533,
+    34.505786,
+    -82.518533,
+    34.505786
+],
+  "geometry": {"coordinates":[-82.51853300000001,34.505786],"type":"Point"}
 }

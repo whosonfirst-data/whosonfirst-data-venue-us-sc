@@ -2,13 +2,14 @@
   "id": 353575293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.198372,32.989506,-80.198372,32.989506",
     "geom:latitude":32.989506,
     "geom:longitude":-80.198372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Axtell Dr",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353575293,
-    "wof:lastmodified":1449019008,
+    "wof:lastmodified":1467082225,
     "wof:name":"Richardson Landscape Svc",
     "wof:parent_id":85851889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.198372,32.989506,-80.198372,32.989506],
-  "geometry": {"coordinates":[-80.198372,32.989506],"type":"Point"}
+  "bbox": [
+    -80.198372,
+    32.989506,
+    -80.198372,
+    32.989506
+],
+  "geometry": {"coordinates":[-80.19837200000001,32.989506],"type":"Point"}
 }

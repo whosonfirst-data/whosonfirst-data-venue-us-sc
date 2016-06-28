@@ -2,13 +2,14 @@
   "id": 353883199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.757228,32.149171,-80.757228,32.149171",
     "geom:latitude":32.149171,
     "geom:longitude":-80.757228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Pope Ave",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353883199,
-    "wof:lastmodified":1449020215,
+    "wof:lastmodified":1467082250,
     "wof:name":"Vaux & Marscher",
     "wof:parent_id":85848463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.757228,32.149171,-80.757228,32.149171],
+  "bbox": [
+    -80.757228,
+    32.149171,
+    -80.757228,
+    32.149171
+],
   "geometry": {"coordinates":[-80.757228,32.149171],"type":"Point"}
 }

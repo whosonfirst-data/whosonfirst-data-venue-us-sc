@@ -2,13 +2,14 @@
   "id": 185973353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.887491,32.810677,-79.887491,32.810677",
     "geom:latitude":32.810677,
     "geom:longitude":-79.887491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Mathis Ferry Rd",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185973353,
-    "wof:lastmodified":1449007577,
+    "wof:lastmodified":1467082197,
     "wof:name":"Viking Contractors",
     "wof:parent_id":85852031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.887491,32.810677,-79.887491,32.810677],
+  "bbox": [
+    -79.887491,
+    32.810677,
+    -79.887491,
+    32.810677
+],
   "geometry": {"coordinates":[-79.887491,32.810677],"type":"Point"}
 }

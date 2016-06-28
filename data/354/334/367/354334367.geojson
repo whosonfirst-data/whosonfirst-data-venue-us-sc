@@ -2,13 +2,14 @@
   "id": 354334367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.649482,35.021278,-81.649482,35.021278",
     "geom:latitude":35.021278,
     "geom:longitude":-81.649482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3119 Union Hwy",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354334367,
-    "wof:lastmodified":1449066403,
+    "wof:lastmodified":1467082425,
     "wof:name":"Max H Godfrey Auctioneer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-81.649482,35.021278,-81.649482,35.021278],
-  "geometry": {"coordinates":[-81.649482,35.021278],"type":"Point"}
+  "bbox": [
+    -81.649482,
+    35.021278,
+    -81.649482,
+    35.021278
+],
+  "geometry": {"coordinates":[-81.64948200000001,35.021278],"type":"Point"}
 }

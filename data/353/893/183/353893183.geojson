@@ -2,13 +2,14 @@
   "id": 353893183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.687994,34.658316,-79.687994,34.658316",
     "geom:latitude":34.658316,
     "geom:longitude":-79.687994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Industrial Ln",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353893183,
-    "wof:lastmodified":1449020346,
+    "wof:lastmodified":1467082252,
     "wof:name":"Eastern Carolina Pediatrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.687994,34.658316,-79.687994,34.658316],
+  "bbox": [
+    -79.687994,
+    34.658316,
+    -79.687994,
+    34.658316
+],
   "geometry": {"coordinates":[-79.687994,34.658316],"type":"Point"}
 }

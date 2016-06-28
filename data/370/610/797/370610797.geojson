@@ -2,13 +2,14 @@
   "id": 370610797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.867209,34.297871,-79.867209,34.297871",
     "geom:latitude":34.297871,
     "geom:longitude":-79.867209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 S Main St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370610797,
-    "wof:lastmodified":1449032413,
+    "wof:lastmodified":1467082372,
     "wof:name":"Elohim Church",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.867209,34.297871,-79.867209,34.297871],
+  "bbox": [
+    -79.867209,
+    34.297871,
+    -79.867209,
+    34.297871
+],
   "geometry": {"coordinates":[-79.867209,34.297871],"type":"Point"}
 }

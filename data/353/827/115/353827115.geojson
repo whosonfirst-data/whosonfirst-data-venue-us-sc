@@ -2,13 +2,14 @@
   "id": 353827115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.950711,32.797751,-79.950711,32.797751",
     "geom:latitude":32.797751,
     "geom:longitude":-79.950711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 Rutledge Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353827115,
-    "wof:lastmodified":1449019166,
+    "wof:lastmodified":1467082228,
     "wof:name":"Sunshine Link & Meat",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.950711,32.797751,-79.950711,32.797751],
+  "bbox": [
+    -79.950711,
+    32.797751,
+    -79.950711,
+    32.797751
+],
   "geometry": {"coordinates":[-79.950711,32.797751],"type":"Point"}
 }

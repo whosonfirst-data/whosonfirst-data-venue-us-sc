@@ -2,13 +2,14 @@
   "id": 353649121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.186945,34.811039,-81.186945,34.811039",
     "geom:latitude":34.811039,
     "geom:longitude":-81.186945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"892 Colony Rd",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353649121,
-    "wof:lastmodified":1449019978,
+    "wof:lastmodified":1467082245,
     "wof:name":"McCree Wiring",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.186945,34.811039,-81.186945,34.811039],
-  "geometry": {"coordinates":[-81.186945,34.811039],"type":"Point"}
+  "bbox": [
+    -81.186945,
+    34.811039,
+    -81.186945,
+    34.811039
+],
+  "geometry": {"coordinates":[-81.18694499999999,34.811039],"type":"Point"}
 }

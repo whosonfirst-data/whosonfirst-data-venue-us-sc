@@ -2,13 +2,14 @@
   "id": 185600405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.898693,34.712352,-80.898693,34.712352",
     "geom:latitude":34.712352,
     "geom:longitude":-80.898693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2606 Catawba River Rd",
     "sg:city":"Fort Lawn",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185600405,
-    "wof:lastmodified":1449006760,
+    "wof:lastmodified":1467082184,
     "wof:name":"Curly Q's",
     "wof:parent_id":85807915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.898693,34.712352,-80.898693,34.712352],
-  "geometry": {"coordinates":[-80.898693,34.712352],"type":"Point"}
+  "bbox": [
+    -80.898693,
+    34.712352,
+    -80.898693,
+    34.712352
+],
+  "geometry": {"coordinates":[-80.89869299999999,34.712352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370398685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.715154,33.535182,-81.715154,33.535182",
     "geom:latitude":33.535182,
     "geom:longitude":-81.715154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Palm Dr",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":370398685,
-    "wof:lastmodified":1449029361,
+    "wof:lastmodified":1467082304,
     "wof:name":"Mill Pond Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.715154,33.535182,-81.715154,33.535182],
+  "bbox": [
+    -81.715154,
+    33.535182,
+    -81.715154,
+    33.535182
+],
   "geometry": {"coordinates":[-81.715154,33.535182],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185980265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.216382,33.898374,-80.216382,33.898374",
     "geom:latitude":33.898374,
     "geom:longitude":-80.216382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3815 Myrtle Beach Hwy",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185980265,
-    "wof:lastmodified":1449006711,
+    "wof:lastmodified":1467082184,
     "wof:name":"Porter's Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-80.216382,33.898374,-80.216382,33.898374],
+  "bbox": [
+    -80.216382,
+    33.898374,
+    -80.216382,
+    33.898374
+],
   "geometry": {"coordinates":[-80.216382,33.898374],"type":"Point"}
 }

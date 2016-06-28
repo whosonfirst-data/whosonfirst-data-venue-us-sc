@@ -2,13 +2,14 @@
   "id": 337394545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.394406,34.860978,-82.394406,34.860978",
     "geom:latitude":34.860978,
     "geom:longitude":-82.394406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 N Main St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337394545,
-    "wof:lastmodified":1449027076,
+    "wof:lastmodified":1467082270,
     "wof:name":"Robert Jones Pianos & Organs",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "piano"
     ]
 },
-  "bbox": [-82.394406,34.860978,-82.394406,34.860978],
+  "bbox": [
+    -82.394406,
+    34.860978,
+    -82.394406,
+    34.860978
+],
   "geometry": {"coordinates":[-82.394406,34.860978],"type":"Point"}
 }

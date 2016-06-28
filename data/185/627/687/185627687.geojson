@@ -2,13 +2,14 @@
   "id": 185627687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.100122,34.990481,-81.100122,34.990481",
     "geom:latitude":34.990481,
     "geom:longitude":-81.100122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5042 Hampton Ridge Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185627687,
-    "wof:lastmodified":1449008252,
+    "wof:lastmodified":1467082208,
     "wof:name":"Building Center Inc",
     "wof:parent_id":85822999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.100122,34.990481,-81.100122,34.990481],
+  "bbox": [
+    -81.100122,
+    34.990481,
+    -81.100122,
+    34.990481
+],
   "geometry": {"coordinates":[-81.100122,34.990481],"type":"Point"}
 }

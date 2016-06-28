@@ -2,13 +2,14 @@
   "id": 354202833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.340989,34.803979,-82.340989,34.803979",
     "geom:latitude":34.803979,
     "geom:longitude":-82.340989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"285 Fairforest Way",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354202833,
-    "wof:lastmodified":1449067443,
+    "wof:lastmodified":1467082449,
     "wof:name":"Pierce Homes Of Carolina",
     "wof:parent_id":85809839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-82.340989,34.803979,-82.340989,34.803979],
-  "geometry": {"coordinates":[-82.340989,34.803979],"type":"Point"}
+  "bbox": [
+    -82.340989,
+    34.803979,
+    -82.340989,
+    34.803979
+],
+  "geometry": {"coordinates":[-82.34098899999999,34.803979],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353824735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.046387,32.940253,-80.046387,32.940253",
     "geom:latitude":32.940253,
     "geom:longitude":-80.046387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7545 Northwoods Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353824735,
-    "wof:lastmodified":1449019159,
+    "wof:lastmodified":1467082228,
     "wof:name":"Food Outlet",
     "wof:parent_id":85803745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.046387,32.940253,-80.046387,32.940253],
+  "bbox": [
+    -80.046387,
+    32.940253,
+    -80.046387,
+    32.940253
+],
   "geometry": {"coordinates":[-80.046387,32.940253],"type":"Point"}
 }

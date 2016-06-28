@@ -2,13 +2,14 @@
   "id": 370498739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.463949,34.833434,-82.463949,34.833434",
     "geom:latitude":34.833434,
     "geom:longitude":-82.463949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2829 New Easley Hwy",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370498739,
-    "wof:lastmodified":1449031663,
+    "wof:lastmodified":1467082355,
     "wof:name":"Dynasty Homes",
     "wof:parent_id":85838763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.463949,34.833434,-82.463949,34.833434],
+  "bbox": [
+    -82.463949,
+    34.833434,
+    -82.463949,
+    34.833434
+],
   "geometry": {"coordinates":[-82.463949,34.833434],"type":"Point"}
 }

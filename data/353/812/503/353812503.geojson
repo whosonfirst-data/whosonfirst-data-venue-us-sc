@@ -2,13 +2,14 @@
   "id": 353812503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.021932,32.797807,-80.021932,32.797807",
     "geom:latitude":32.797807,
     "geom:longitude":-80.021932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1083 Jenkins Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353812503,
-    "wof:lastmodified":1449018323,
+    "wof:lastmodified":1467082211,
     "wof:name":"Carousel Early Childhood Ctr",
     "wof:parent_id":85839787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.021932,32.797807,-80.021932,32.797807],
-  "geometry": {"coordinates":[-80.021932,32.797807],"type":"Point"}
+  "bbox": [
+    -80.021932,
+    32.797807,
+    -80.021932,
+    32.797807
+],
+  "geometry": {"coordinates":[-80.02193200000001,32.797807],"type":"Point"}
 }

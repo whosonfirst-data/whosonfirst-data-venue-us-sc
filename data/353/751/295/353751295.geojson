@@ -2,13 +2,14 @@
   "id": 353751295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.972413,32.75281,-79.972413,32.75281",
     "geom:latitude":32.75281,
     "geom:longitude":-79.972413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"537 Folly Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353751295,
-    "wof:lastmodified":1449018394,
+    "wof:lastmodified":1467082213,
     "wof:name":"Charleston Internal Medicine",
     "wof:parent_id":85832547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.972413,32.75281,-79.972413,32.75281],
+  "bbox": [
+    -79.972413,
+    32.75281,
+    -79.972413,
+    32.75281
+],
   "geometry": {"coordinates":[-79.972413,32.75281],"type":"Point"}
 }

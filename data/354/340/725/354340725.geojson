@@ -2,13 +2,14 @@
   "id": 354340725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.238708,33.013523,-80.238708,33.013523",
     "geom:latitude":33.013523,
     "geom:longitude":-80.238708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Mayrant St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354340725,
-    "wof:lastmodified":1449067249,
+    "wof:lastmodified":1467082445,
     "wof:name":"Sweat's Mattress Place",
     "wof:parent_id":85812305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-80.238708,33.013523,-80.238708,33.013523],
+  "bbox": [
+    -80.238708,
+    33.013523,
+    -80.238708,
+    33.013523
+],
   "geometry": {"coordinates":[-80.238708,33.013523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370217617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.853965,32.252871,-80.853965,32.252871",
     "geom:latitude":32.252871,
     "geom:longitude":-80.853965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Kitties Landing Rd",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370217617,
-    "wof:lastmodified":1449032264,
+    "wof:lastmodified":1467082369,
     "wof:name":"Jurgensen & Co",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "program"
     ]
 },
-  "bbox": [-80.853965,32.252871,-80.853965,32.252871],
+  "bbox": [
+    -80.853965,
+    32.252871,
+    -80.853965,
+    32.252871
+],
   "geometry": {"coordinates":[-80.853965,32.252871],"type":"Point"}
 }

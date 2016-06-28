@@ -2,13 +2,14 @@
   "id": 354002271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.482762,35.012,-82.482762,35.012",
     "geom:latitude":35.012,
     "geom:longitude":-82.482762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Bates Crossing Rd",
     "sg:city":"Travelers Rest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354002271,
-    "wof:lastmodified":1449067334,
+    "wof:lastmodified":1467082447,
     "wof:name":"Proto Glas Inc",
     "wof:parent_id":85851437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fiber"
     ]
 },
-  "bbox": [-82.482762,35.012,-82.482762,35.012],
-  "geometry": {"coordinates":[-82.482762,35.012],"type":"Point"}
+  "bbox": [
+    -82.482762,
+    35.012,
+    -82.482762,
+    35.012
+],
+  "geometry": {"coordinates":[-82.48276199999999,35.012],"type":"Point"}
 }

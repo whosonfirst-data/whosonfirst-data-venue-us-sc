@@ -2,13 +2,14 @@
   "id": 353812781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.417092,34.861955,-82.417092,34.861955",
     "geom:latitude":34.861955,
     "geom:longitude":-82.417092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 W Washington St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353812781,
-    "wof:lastmodified":1449018317,
+    "wof:lastmodified":1467082211,
     "wof:name":"Greenville Tape Ctr",
     "wof:parent_id":85837719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.417092,34.861955,-82.417092,34.861955],
+  "bbox": [
+    -82.417092,
+    34.861955,
+    -82.417092,
+    34.861955
+],
   "geometry": {"coordinates":[-82.417092,34.861955],"type":"Point"}
 }

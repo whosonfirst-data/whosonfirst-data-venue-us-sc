@@ -2,13 +2,14 @@
   "id": 370540775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.915455,34.117967,-80.915455,34.117967",
     "geom:latitude":34.117967,
     "geom:longitude":-80.915455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2019 Riding Ridge Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370540775,
-    "wof:lastmodified":1449030416,
+    "wof:lastmodified":1467082328,
     "wof:name":"Carswell & Assoc Inc",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-80.915455,34.117967,-80.915455,34.117967],
-  "geometry": {"coordinates":[-80.915455,34.117967],"type":"Point"}
+  "bbox": [
+    -80.915455,
+    34.117967,
+    -80.915455,
+    34.117967
+],
+  "geometry": {"coordinates":[-80.91545499999999,34.117967],"type":"Point"}
 }

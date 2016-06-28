@@ -2,13 +2,14 @@
   "id": 353644477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.927956,32.771792,-79.927956,32.771792",
     "geom:latitude":32.771792,
     "geom:longitude":-79.927956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 E Battery",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353644477,
-    "wof:lastmodified":1449019714,
+    "wof:lastmodified":1467082239,
     "wof:name":"Palmer Home",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "bed"
     ]
 },
-  "bbox": [-79.927956,32.771792,-79.927956,32.771792],
-  "geometry": {"coordinates":[-79.927956,32.771792],"type":"Point"}
+  "bbox": [
+    -79.927956,
+    32.771792,
+    -79.927956,
+    32.771792
+],
+  "geometry": {"coordinates":[-79.92795599999999,32.771792],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370902299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.998894,33.585497,-78.998894,33.585497",
     "geom:latitude":33.585497,
     "geom:longitude":-78.998894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 Elizabeth Dr",
     "sg:city":"Murrells Inlet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370902299,
-    "wof:lastmodified":1449031601,
+    "wof:lastmodified":1467082354,
     "wof:name":"Designs By The C",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-78.998894,33.585497,-78.998894,33.585497],
-  "geometry": {"coordinates":[-78.998894,33.585497],"type":"Point"}
+  "bbox": [
+    -78.998894,
+    33.585497,
+    -78.998894,
+    33.585497
+],
+  "geometry": {"coordinates":[-78.99889400000001,33.585497],"type":"Point"}
 }

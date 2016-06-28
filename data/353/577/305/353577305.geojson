@@ -2,13 +2,14 @@
   "id": 353577305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.306577,34.775329,-82.306577,34.775329",
     "geom:latitude":34.775329,
     "geom:longitude":-82.306577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 S Main St",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353577305,
-    "wof:lastmodified":1449020889,
+    "wof:lastmodified":1467082264,
     "wof:name":"84 Lumber",
     "wof:parent_id":85858653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-82.306577,34.775329,-82.306577,34.775329],
+  "bbox": [
+    -82.306577,
+    34.775329,
+    -82.306577,
+    34.775329
+],
   "geometry": {"coordinates":[-82.306577,34.775329],"type":"Point"}
 }

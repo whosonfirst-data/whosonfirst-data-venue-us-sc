@@ -2,13 +2,14 @@
   "id": 370261765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.862795,33.490155,-80.862795,33.490155",
     "geom:latitude":33.490155,
     "geom:longitude":-80.862795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1346 Russell St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370261765,
-    "wof:lastmodified":1449029124,
+    "wof:lastmodified":1467082299,
     "wof:name":"Commonwealth Finance",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-80.862795,33.490155,-80.862795,33.490155],
-  "geometry": {"coordinates":[-80.862795,33.490155],"type":"Point"}
+  "bbox": [
+    -80.862795,
+    33.490155,
+    -80.862795,
+    33.490155
+],
+  "geometry": {"coordinates":[-80.86279500000001,33.490155],"type":"Point"}
 }

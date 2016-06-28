@@ -2,13 +2,14 @@
   "id": 353723457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.306546,34.775297,-82.306546,34.775297",
     "geom:latitude":34.775297,
     "geom:longitude":-82.306546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S Main St",
     "sg:city":"Mauldin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353723457,
-    "wof:lastmodified":1449019760,
+    "wof:lastmodified":1467082240,
     "wof:name":"Landscape Solutions",
     "wof:parent_id":85858653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.306546,34.775297,-82.306546,34.775297],
+  "bbox": [
+    -82.306546,
+    34.775297,
+    -82.306546,
+    34.775297
+],
   "geometry": {"coordinates":[-82.306546,34.775297],"type":"Point"}
 }

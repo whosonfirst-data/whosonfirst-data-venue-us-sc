@@ -2,13 +2,14 @@
   "id": 353620653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.072674,33.997525,-81.072674,33.997525",
     "geom:latitude":33.997525,
     "geom:longitude":-81.072674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 Sunset Blvd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353620653,
-    "wof:lastmodified":1449020587,
+    "wof:lastmodified":1467082257,
     "wof:name":"Macdale Corp",
     "wof:parent_id":85840603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-81.072674,33.997525,-81.072674,33.997525],
-  "geometry": {"coordinates":[-81.072674,33.997525],"type":"Point"}
+  "bbox": [
+    -81.072674,
+    33.997525,
+    -81.072674,
+    33.997525
+],
+  "geometry": {"coordinates":[-81.07267400000001,33.997525],"type":"Point"}
 }

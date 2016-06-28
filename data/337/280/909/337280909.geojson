@@ -2,13 +2,14 @@
   "id": 337280909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.35729,34.829843,-82.35729,34.829843",
     "geom:latitude":34.829843,
     "geom:longitude":-82.35729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Buckingham Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337280909,
-    "wof:lastmodified":1449027354,
+    "wof:lastmodified":1467082281,
     "wof:name":"Select Automotive",
     "wof:parent_id":85829925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-82.35729,34.829843,-82.35729,34.829843],
-  "geometry": {"coordinates":[-82.35729,34.829843],"type":"Point"}
+  "bbox": [
+    -82.35729,
+    34.829843,
+    -82.35729,
+    34.829843
+],
+  "geometry": {"coordinates":[-82.35729000000001,34.829843],"type":"Point"}
 }

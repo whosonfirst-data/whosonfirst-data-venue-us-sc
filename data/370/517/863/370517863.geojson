@@ -2,13 +2,14 @@
   "id": 370517863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.812365,32.122157,-80.812365,32.122157",
     "geom:latitude":32.122157,
     "geom:longitude":-80.812365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Baynard Cove Rd",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370517863,
-    "wof:lastmodified":1449031007,
+    "wof:lastmodified":1467082340,
     "wof:name":"Accent On Photography",
     "wof:parent_id":85847515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-80.812365,32.122157,-80.812365,32.122157],
+  "bbox": [
+    -80.812365,
+    32.122157,
+    -80.812365,
+    32.122157
+],
   "geometry": {"coordinates":[-80.812365,32.122157],"type":"Point"}
 }

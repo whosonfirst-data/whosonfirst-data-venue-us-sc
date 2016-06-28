@@ -2,13 +2,14 @@
   "id": 185910445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.39294,34.172423,-79.39294,34.172423",
     "geom:latitude":34.172423,
     "geom:longitude":-79.39294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 E Liberty St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185910445,
-    "wof:lastmodified":1449007272,
+    "wof:lastmodified":1467082192,
     "wof:name":"East Side Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.39294,34.172423,-79.39294,34.172423],
+  "bbox": [
+    -79.39294,
+    34.172423,
+    -79.39294,
+    34.172423
+],
   "geometry": {"coordinates":[-79.39294,34.172423],"type":"Point"}
 }

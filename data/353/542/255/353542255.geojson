@@ -2,13 +2,14 @@
   "id": 353542255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.808743,32.867639,-79.808743,32.867639",
     "geom:latitude":32.867639,
     "geom:longitude":-79.808743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1413 Pointe Bluff Ct",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353542255,
-    "wof:lastmodified":1449020256,
+    "wof:lastmodified":1467082250,
     "wof:name":"Huss Inc",
     "wof:parent_id":85840345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.808743,32.867639,-79.808743,32.867639],
-  "geometry": {"coordinates":[-79.808743,32.867639],"type":"Point"}
+  "bbox": [
+    -79.808743,
+    32.867639,
+    -79.808743,
+    32.867639
+],
+  "geometry": {"coordinates":[-79.80874300000001,32.867639],"type":"Point"}
 }

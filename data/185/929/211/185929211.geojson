@@ -2,13 +2,14 @@
   "id": 185929211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.237099,33.781556,-81.237099,33.781556",
     "geom:latitude":33.781556,
     "geom:longitude":-81.237099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7801 Edmund Hwy",
     "sg:city":"Pelion",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185929211,
-    "wof:lastmodified":1449007225,
+    "wof:lastmodified":1467082192,
     "wof:name":"Country Cupboard 5",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "store"
     ]
 },
-  "bbox": [-81.237099,33.781556,-81.237099,33.781556],
+  "bbox": [
+    -81.237099,
+    33.781556,
+    -81.237099,
+    33.781556
+],
   "geometry": {"coordinates":[-81.237099,33.781556],"type":"Point"}
 }

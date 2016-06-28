@@ -2,13 +2,14 @@
   "id": 337590097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.240289,34.994385,-81.240289,34.994385",
     "geom:latitude":34.994385,
     "geom:longitude":-81.240289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 N Roosevelt St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337590097,
-    "wof:lastmodified":1449027433,
+    "wof:lastmodified":1467082284,
     "wof:name":"Brice Law Firm",
     "wof:parent_id":85841979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.240289,34.994385,-81.240289,34.994385],
+  "bbox": [
+    -81.240289,
+    34.994385,
+    -81.240289,
+    34.994385
+],
   "geometry": {"coordinates":[-81.240289,34.994385],"type":"Point"}
 }

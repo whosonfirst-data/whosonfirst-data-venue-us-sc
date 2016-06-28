@@ -2,13 +2,14 @@
   "id": 370385699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.00504,34.499312,-82.00504,34.499312",
     "geom:latitude":34.499312,
     "geom:longitude":-82.00504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 E Main St",
     "sg:city":"Laurens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370385699,
-    "wof:lastmodified":1449031087,
+    "wof:lastmodified":1467082342,
     "wof:name":"Main Street Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cosmetologist"
     ]
 },
-  "bbox": [-82.00504,34.499312,-82.00504,34.499312],
-  "geometry": {"coordinates":[-82.00504,34.499312],"type":"Point"}
+  "bbox": [
+    -82.00504,
+    34.499312,
+    -82.00504,
+    34.499312
+],
+  "geometry": {"coordinates":[-82.00503999999999,34.499312],"type":"Point"}
 }

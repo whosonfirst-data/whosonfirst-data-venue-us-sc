@@ -2,13 +2,14 @@
   "id": 354011713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.29601,34.854214,-82.29601,34.854214",
     "geom:latitude":34.854214,
     "geom:longitude":-82.29601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Quail Creek Ln",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354011713,
-    "wof:lastmodified":1449067330,
+    "wof:lastmodified":1467082446,
     "wof:name":"Lawless Systems",
     "wof:parent_id":85820041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.29601,34.854214,-82.29601,34.854214],
+  "bbox": [
+    -82.29601,
+    34.854214,
+    -82.29601,
+    34.854214
+],
   "geometry": {"coordinates":[-82.29601,34.854214],"type":"Point"}
 }

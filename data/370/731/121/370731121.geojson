@@ -2,13 +2,14 @@
   "id": 370731121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.069835,34.00469,-81.069835,34.00469",
     "geom:latitude":34.00469,
     "geom:longitude":-81.069835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Edgewater Ln",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370731121,
-    "wof:lastmodified":1449032099,
+    "wof:lastmodified":1467082365,
     "wof:name":"Automatic Transmissions-Culley",
     "wof:parent_id":85846837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-81.069835,34.00469,-81.069835,34.00469],
+  "bbox": [
+    -81.069835,
+    34.00469,
+    -81.069835,
+    34.00469
+],
   "geometry": {"coordinates":[-81.069835,34.00469],"type":"Point"}
 }

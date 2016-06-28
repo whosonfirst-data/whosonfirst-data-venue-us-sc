@@ -2,13 +2,14 @@
   "id": 370339989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.760797,34.707355,-80.760797,34.707355",
     "geom:latitude":34.707355,
     "geom:longitude":-80.760797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 S Market St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370339989,
-    "wof:lastmodified":1449030607,
+    "wof:lastmodified":1467082332,
     "wof:name":"R & C Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.760797,34.707355,-80.760797,34.707355],
+  "bbox": [
+    -80.760797,
+    34.707355,
+    -80.760797,
+    34.707355
+],
   "geometry": {"coordinates":[-80.760797,34.707355],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353470749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.720746,33.525823,-81.720746,33.525823",
     "geom:latitude":33.525823,
     "geom:longitude":-81.720746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 Whiskey Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353470749,
-    "wof:lastmodified":1449018877,
+    "wof:lastmodified":1467082222,
     "wof:name":"Tony's Coin Shop",
     "wof:parent_id":85853963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-81.720746,33.525823,-81.720746,33.525823],
-  "geometry": {"coordinates":[-81.720746,33.525823],"type":"Point"}
+  "bbox": [
+    -81.720746,
+    33.525823,
+    -81.720746,
+    33.525823
+],
+  "geometry": {"coordinates":[-81.72074600000001,33.525823],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354053985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.090943,32.723247,-80.090943,32.723247",
     "geom:latitude":32.723247,
     "geom:longitude":-80.090943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 Main Rd",
     "sg:city":"Johns Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354053985,
-    "wof:lastmodified":1449066251,
+    "wof:lastmodified":1467082422,
     "wof:name":"Johns Island Magistrate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-80.090943,32.723247,-80.090943,32.723247],
+  "bbox": [
+    -80.090943,
+    32.723247,
+    -80.090943,
+    32.723247
+],
   "geometry": {"coordinates":[-80.090943,32.723247],"type":"Point"}
 }

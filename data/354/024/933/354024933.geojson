@@ -2,13 +2,14 @@
   "id": 354024933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.756586,34.209136,-79.756586,34.209136",
     "geom:latitude":34.209136,
     "geom:longitude":-79.756586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Oakland Ave",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354024933,
-    "wof:lastmodified":1449066731,
+    "wof:lastmodified":1467082433,
     "wof:name":"M & M Sportswear",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [-79.756586,34.209136,-79.756586,34.209136],
+  "bbox": [
+    -79.756586,
+    34.209136,
+    -79.756586,
+    34.209136
+],
   "geometry": {"coordinates":[-79.756586,34.209136],"type":"Point"}
 }

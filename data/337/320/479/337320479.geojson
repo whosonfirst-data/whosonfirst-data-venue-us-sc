@@ -2,13 +2,14 @@
   "id": 337320479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.868858,33.497934,-80.868858,33.497934",
     "geom:latitude":33.497934,
     "geom:longitude":-80.868858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1336 Park St",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337320479,
-    "wof:lastmodified":1449027129,
+    "wof:lastmodified":1467082272,
     "wof:name":"Cliff Sanders Optician",
     "wof:parent_id":85823593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "optician"
     ]
 },
-  "bbox": [-80.868858,33.497934,-80.868858,33.497934],
+  "bbox": [
+    -80.868858,
+    33.497934,
+    -80.868858,
+    33.497934
+],
   "geometry": {"coordinates":[-80.868858,33.497934],"type":"Point"}
 }

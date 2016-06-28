@@ -2,13 +2,14 @@
   "id": 337344099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.640216,34.576356,-82.640216,34.576356",
     "geom:latitude":34.576356,
     "geom:longitude":-82.640216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Caversham Ln",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337344099,
-    "wof:lastmodified":1449026982,
+    "wof:lastmodified":1467082266,
     "wof:name":"Delta Construction Inc",
     "wof:parent_id":85826555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-82.640216,34.576356,-82.640216,34.576356],
+  "bbox": [
+    -82.640216,
+    34.576356,
+    -82.640216,
+    34.576356
+],
   "geometry": {"coordinates":[-82.640216,34.576356],"type":"Point"}
 }

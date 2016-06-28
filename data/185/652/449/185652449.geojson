@@ -2,13 +2,14 @@
   "id": 185652449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.607583,34.292365,-81.607583,34.292365",
     "geom:latitude":34.292365,
     "geom:longitude":-81.607583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2031 Medical Park Dr",
     "sg:city":"Newberry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185652449,
-    "wof:lastmodified":1449007640,
+    "wof:lastmodified":1467082198,
     "wof:name":"Bio Medical Application Of New",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.607583,34.292365,-81.607583,34.292365],
-  "geometry": {"coordinates":[-81.607583,34.292365],"type":"Point"}
+  "bbox": [
+    -81.607583,
+    34.292365,
+    -81.607583,
+    34.292365
+],
+  "geometry": {"coordinates":[-81.60758300000001,34.292365],"type":"Point"}
 }

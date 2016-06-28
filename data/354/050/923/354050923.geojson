@@ -2,13 +2,14 @@
   "id": 354050923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.541398,34.512592,-82.541398,34.512592",
     "geom:latitude":34.512592,
     "geom:longitude":-82.541398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Pea Creek Rd",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":354050923,
-    "wof:lastmodified":1449066881,
+    "wof:lastmodified":1467082436,
     "wof:name":"Lazy M Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.541398,34.512592,-82.541398,34.512592],
+  "bbox": [
+    -82.541398,
+    34.512592,
+    -82.541398,
+    34.512592
+],
   "geometry": {"coordinates":[-82.541398,34.512592],"type":"Point"}
 }

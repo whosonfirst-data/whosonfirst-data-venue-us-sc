@@ -2,13 +2,14 @@
   "id": 169795429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.9825,32.476233,-80.9825,32.476233",
     "geom:latitude":32.476233,
     "geom:longitude":-80.9825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 S Jacob Smart Blvd",
     "sg:city":"Ridgeland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169795429,
-    "wof:lastmodified":1449034643,
+    "wof:lastmodified":1467082384,
     "wof:name":"Siesta Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.9825,32.476233,-80.9825,32.476233],
+  "bbox": [
+    -80.9825,
+    32.476233,
+    -80.9825,
+    32.476233
+],
   "geometry": {"coordinates":[-80.9825,32.476233],"type":"Point"}
 }

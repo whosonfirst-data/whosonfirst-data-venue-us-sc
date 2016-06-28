@@ -2,13 +2,14 @@
   "id": 353991487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.870175,33.920325,-80.870175,33.920325",
     "geom:latitude":33.920325,
     "geom:longitude":-80.870175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Sagemont Dr",
     "sg:city":"Hopkins",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353991487,
-    "wof:lastmodified":1449019055,
+    "wof:lastmodified":1467082226,
     "wof:name":"Affairs Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing"
     ]
 },
-  "bbox": [-80.870175,33.920325,-80.870175,33.920325],
+  "bbox": [
+    -80.870175,
+    33.920325,
+    -80.870175,
+    33.920325
+],
   "geometry": {"coordinates":[-80.870175,33.920325],"type":"Point"}
 }

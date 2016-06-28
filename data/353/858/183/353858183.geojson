@@ -2,13 +2,14 @@
   "id": 353858183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.043205,33.008198,-80.043205,33.008198",
     "geom:latitude":33.008198,
     "geom:longitude":-80.043205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Central Ave",
     "sg:city":"Goose Creek",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353858183,
-    "wof:lastmodified":1449018510,
+    "wof:lastmodified":1467082215,
     "wof:name":"Kumon Of Goose Creek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tutoring"
     ]
 },
-  "bbox": [-80.043205,33.008198,-80.043205,33.008198],
+  "bbox": [
+    -80.043205,
+    33.008198,
+    -80.043205,
+    33.008198
+],
   "geometry": {"coordinates":[-80.043205,33.008198],"type":"Point"}
 }

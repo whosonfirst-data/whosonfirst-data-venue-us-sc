@@ -2,13 +2,14 @@
   "id": 186295727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.597118,34.519752,-82.597118,34.519752",
     "geom:latitude":34.519752,
     "geom:longitude":-82.597118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1471 Amity Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186295727,
-    "wof:lastmodified":1449051458,
+    "wof:lastmodified":1467082398,
     "wof:name":"Fafard Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.597118,34.519752,-82.597118,34.519752],
-  "geometry": {"coordinates":[-82.597118,34.519752],"type":"Point"}
+  "bbox": [
+    -82.597118,
+    34.519752,
+    -82.597118,
+    34.519752
+],
+  "geometry": {"coordinates":[-82.59711799999999,34.519752],"type":"Point"}
 }

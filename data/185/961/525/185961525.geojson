@@ -2,13 +2,14 @@
   "id": 185961525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.49227,34.55962,-82.49227,34.55962",
     "geom:latitude":34.55962,
     "geom:longitude":-82.49227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Ellison Cir",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185961525,
-    "wof:lastmodified":1449008158,
+    "wof:lastmodified":1467082206,
     "wof:name":"Brock's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.49227,34.55962,-82.49227,34.55962],
+  "bbox": [
+    -82.49227,
+    34.55962,
+    -82.49227,
+    34.55962
+],
   "geometry": {"coordinates":[-82.49227,34.55962],"type":"Point"}
 }

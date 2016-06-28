@@ -2,13 +2,14 @@
   "id": 354198115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.937998,34.965173,-81.937998,34.965173",
     "geom:latitude":34.965173,
     "geom:longitude":-81.937998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"397 Serpentine Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354198115,
-    "wof:lastmodified":1449066527,
+    "wof:lastmodified":1467082428,
     "wof:name":"Health Resource Ctr",
     "wof:parent_id":85802771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "drug"
     ]
 },
-  "bbox": [-81.937998,34.965173,-81.937998,34.965173],
-  "geometry": {"coordinates":[-81.937998,34.965173],"type":"Point"}
+  "bbox": [
+    -81.937998,
+    34.965173,
+    -81.937998,
+    34.965173
+],
+  "geometry": {"coordinates":[-81.93799799999999,34.965173],"type":"Point"}
 }

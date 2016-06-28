@@ -2,13 +2,14 @@
   "id": 185665913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.769688,33.771879,-78.769688,33.771879",
     "geom:latitude":33.771879,
     "geom:longitude":-78.769688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Seawatch Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185665913,
-    "wof:lastmodified":1449007097,
+    "wof:lastmodified":1467082190,
     "wof:name":"Seawatch Resort",
     "wof:parent_id":85815435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.769688,33.771879,-78.769688,33.771879],
+  "bbox": [
+    -78.769688,
+    33.771879,
+    -78.769688,
+    33.771879
+],
   "geometry": {"coordinates":[-78.769688,33.771879],"type":"Point"}
 }

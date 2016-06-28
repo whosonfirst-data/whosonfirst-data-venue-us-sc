@@ -2,13 +2,14 @@
   "id": 337341773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.953127,34.684663,-82.953127,34.684663",
     "geom:latitude":34.684663,
     "geom:longitude":-82.953127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N Townville St",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337341773,
-    "wof:lastmodified":1449027711,
+    "wof:lastmodified":1467082294,
     "wof:name":"Thee & Mee Health Store",
     "wof:parent_id":85829489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.953127,34.684663,-82.953127,34.684663],
-  "geometry": {"coordinates":[-82.953127,34.684663],"type":"Point"}
+  "bbox": [
+    -82.953127,
+    34.684663,
+    -82.953127,
+    34.684663
+],
+  "geometry": {"coordinates":[-82.95312699999999,34.684663],"type":"Point"}
 }

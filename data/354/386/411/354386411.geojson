@@ -2,13 +2,14 @@
   "id": 354386411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.076538,32.922672,-80.076538,32.922672",
     "geom:latitude":32.922672,
     "geom:longitude":-80.076538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7332 Peppermill Pkwy",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":354386411,
-    "wof:lastmodified":1449066831,
+    "wof:lastmodified":1467082435,
     "wof:name":"Blue Haven Pools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-80.076538,32.922672,-80.076538,32.922672],
+  "bbox": [
+    -80.076538,
+    32.922672,
+    -80.076538,
+    32.922672
+],
   "geometry": {"coordinates":[-80.076538,32.922672],"type":"Point"}
 }

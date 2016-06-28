@@ -2,13 +2,14 @@
   "id": 185897261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.69371,34.635833,-79.69371,34.635833",
     "geom:latitude":34.635833,
     "geom:longitude":-79.69371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1062 State Hwy 38 Bus",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185897261,
-    "wof:lastmodified":1449007972,
+    "wof:lastmodified":1467082203,
     "wof:name":"Berea Convention Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.69371,34.635833,-79.69371,34.635833],
+  "bbox": [
+    -79.69371,
+    34.635833,
+    -79.69371,
+    34.635833
+],
   "geometry": {"coordinates":[-79.69371,34.635833],"type":"Point"}
 }

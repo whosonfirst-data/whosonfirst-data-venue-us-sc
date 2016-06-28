@@ -2,13 +2,14 @@
   "id": 354380991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.161127,34.189298,-82.161127,34.189298",
     "geom:latitude":34.189298,
     "geom:longitude":-82.161127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Main St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354380991,
-    "wof:lastmodified":1449066706,
+    "wof:lastmodified":1467082432,
     "wof:name":"Reynolds Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-82.161127,34.189298,-82.161127,34.189298],
-  "geometry": {"coordinates":[-82.161127,34.189298],"type":"Point"}
+  "bbox": [
+    -82.161127,
+    34.189298,
+    -82.161127,
+    34.189298
+],
+  "geometry": {"coordinates":[-82.16112699999999,34.189298],"type":"Point"}
 }

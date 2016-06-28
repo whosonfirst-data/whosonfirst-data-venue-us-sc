@@ -2,13 +2,14 @@
   "id": 337337239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.109503,34.053058,-81.109503,34.053058",
     "geom:latitude":34.053058,
     "geom:longitude":-81.109503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Metze Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337337239,
-    "wof:lastmodified":1449027331,
+    "wof:lastmodified":1467082280,
     "wof:name":"Hong Trading",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.109503,34.053058,-81.109503,34.053058],
+  "bbox": [
+    -81.109503,
+    34.053058,
+    -81.109503,
+    34.053058
+],
   "geometry": {"coordinates":[-81.109503,34.053058],"type":"Point"}
 }

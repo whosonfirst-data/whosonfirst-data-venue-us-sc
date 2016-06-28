@@ -2,13 +2,14 @@
   "id": 353958011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.355414,33.442423,-81.355414,33.442423",
     "geom:latitude":33.442423,
     "geom:longitude":-81.355414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 Rays Rd",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353958011,
-    "wof:lastmodified":1449020263,
+    "wof:lastmodified":1467082251,
     "wof:name":"Ray & Son's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "shop"
     ]
 },
-  "bbox": [-81.355414,33.442423,-81.355414,33.442423],
+  "bbox": [
+    -81.355414,
+    33.442423,
+    -81.355414,
+    33.442423
+],
   "geometry": {"coordinates":[-81.355414,33.442423],"type":"Point"}
 }

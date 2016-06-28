@@ -2,13 +2,14 @@
   "id": 186102097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.836122,33.727427,-78.836122,33.727427",
     "geom:latitude":33.727427,
     "geom:longitude":-78.836122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5511 N Ocean Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186102097,
-    "wof:lastmodified":1449052826,
+    "wof:lastmodified":1467082411,
     "wof:name":"Madison's Cafe",
     "wof:parent_id":85825231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.836122,33.727427,-78.836122,33.727427],
+  "bbox": [
+    -78.836122,
+    33.727427,
+    -78.836122,
+    33.727427
+],
   "geometry": {"coordinates":[-78.836122,33.727427],"type":"Point"}
 }

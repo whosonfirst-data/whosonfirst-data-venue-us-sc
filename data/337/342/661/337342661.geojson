@@ -2,13 +2,14 @@
   "id": 337342661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.083783,33.981723,-81.083783,33.981723",
     "geom:latitude":33.981723,
     "geom:longitude":-81.083783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 Hallman St",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337342661,
-    "wof:lastmodified":1449027679,
+    "wof:lastmodified":1467082293,
     "wof:name":"Corba Construction Co",
     "wof:parent_id":85897259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.083783,33.981723,-81.083783,33.981723],
+  "bbox": [
+    -81.083783,
+    33.981723,
+    -81.083783,
+    33.981723
+],
   "geometry": {"coordinates":[-81.083783,33.981723],"type":"Point"}
 }

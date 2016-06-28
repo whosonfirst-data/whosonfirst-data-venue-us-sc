@@ -2,13 +2,14 @@
   "id": 370666929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.179581,34.324409,-81.179581,34.324409",
     "geom:latitude":34.324409,
     "geom:longitude":-81.179581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Guess Dr",
     "sg:city":"St Matthews",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370666929,
-    "wof:lastmodified":1449030327,
+    "wof:lastmodified":1467082326,
     "wof:name":"Calhoun County Mental Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-81.179581,34.324409,-81.179581,34.324409],
+  "bbox": [
+    -81.179581,
+    34.324409,
+    -81.179581,
+    34.324409
+],
   "geometry": {"coordinates":[-81.179581,34.324409],"type":"Point"}
 }

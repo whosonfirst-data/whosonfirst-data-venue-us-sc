@@ -2,13 +2,14 @@
   "id": 354177961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.055791,34.779251,-83.055791,34.779251",
     "geom:latitude":34.779251,
     "geom:longitude":-83.055791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 N Catherine St",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354177961,
-    "wof:lastmodified":1449067666,
+    "wof:lastmodified":1467082454,
     "wof:name":"Owens Clothing",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.055791,34.779251,-83.055791,34.779251],
+  "bbox": [
+    -83.055791,
+    34.779251,
+    -83.055791,
+    34.779251
+],
   "geometry": {"coordinates":[-83.055791,34.779251],"type":"Point"}
 }

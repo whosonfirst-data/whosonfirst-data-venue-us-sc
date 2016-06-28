@@ -2,13 +2,14 @@
   "id": 354372119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.935381,32.77073,-79.935381,32.77073",
     "geom:latitude":32.77073,
     "geom:longitude":-79.935381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 S Battery",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354372119,
-    "wof:lastmodified":1449066971,
+    "wof:lastmodified":1467082438,
     "wof:name":"Henry B Fishburne Jr",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.935381,32.77073,-79.935381,32.77073],
-  "geometry": {"coordinates":[-79.935381,32.77073],"type":"Point"}
+  "bbox": [
+    -79.935381,
+    32.77073,
+    -79.935381,
+    32.77073
+],
+  "geometry": {"coordinates":[-79.93538100000001,32.77073],"type":"Point"}
 }

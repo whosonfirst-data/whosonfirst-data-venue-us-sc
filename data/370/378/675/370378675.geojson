@@ -2,13 +2,14 @@
   "id": 370378675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.65542,32.410004,-80.65542,32.410004",
     "geom:latitude":32.410004,
     "geom:longitude":-80.65542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Ladys Island Dr",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370378675,
-    "wof:lastmodified":1449031366,
+    "wof:lastmodified":1467082348,
     "wof:name":"Sea Island Presbyterian Church",
     "wof:parent_id":85842843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "church"
     ]
 },
-  "bbox": [-80.65542,32.410004,-80.65542,32.410004],
-  "geometry": {"coordinates":[-80.65542,32.410004],"type":"Point"}
+  "bbox": [
+    -80.65542,
+    32.410004,
+    -80.65542,
+    32.410004
+],
+  "geometry": {"coordinates":[-80.65542000000001,32.410004],"type":"Point"}
 }

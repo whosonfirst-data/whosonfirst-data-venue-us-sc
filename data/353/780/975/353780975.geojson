@@ -2,13 +2,14 @@
   "id": 353780975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.077669,33.986261,-81.077669,33.986261",
     "geom:latitude":33.986261,
     "geom:longitude":-81.077669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 Augusta Rd",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353780975,
-    "wof:lastmodified":1449020162,
+    "wof:lastmodified":1467082249,
     "wof:name":"Susan Just",
     "wof:parent_id":85897259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-81.077669,33.986261,-81.077669,33.986261],
+  "bbox": [
+    -81.077669,
+    33.986261,
+    -81.077669,
+    33.986261
+],
   "geometry": {"coordinates":[-81.077669,33.986261],"type":"Point"}
 }

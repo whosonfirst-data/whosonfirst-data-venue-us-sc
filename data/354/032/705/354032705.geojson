@@ -2,13 +2,14 @@
   "id": 354032705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.935931,34.922057,-81.935931,34.922057",
     "geom:latitude":34.922057,
     "geom:longitude":-81.935931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2081 S Church St Exd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354032705,
-    "wof:lastmodified":1449066753,
+    "wof:lastmodified":1467082433,
     "wof:name":"Hefney's Auto Sales",
     "wof:parent_id":85828171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.935931,34.922057,-81.935931,34.922057],
+  "bbox": [
+    -81.935931,
+    34.922057,
+    -81.935931,
+    34.922057
+],
   "geometry": {"coordinates":[-81.935931,34.922057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353784565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.420983,34.793628,-82.420983,34.793628",
     "geom:latitude":34.793628,
     "geom:longitude":-82.420983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Cartee Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353784565,
-    "wof:lastmodified":1449019951,
+    "wof:lastmodified":1467082244,
     "wof:name":"Strickland's Cleaning",
     "wof:parent_id":85810381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-82.420983,34.793628,-82.420983,34.793628],
-  "geometry": {"coordinates":[-82.420983,34.793628],"type":"Point"}
+  "bbox": [
+    -82.420983,
+    34.793628,
+    -82.420983,
+    34.793628
+],
+  "geometry": {"coordinates":[-82.42098300000001,34.793628],"type":"Point"}
 }

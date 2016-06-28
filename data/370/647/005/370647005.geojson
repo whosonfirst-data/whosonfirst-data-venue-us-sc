@@ -2,13 +2,14 @@
   "id": 370647005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.046252,33.835797,-79.046252,33.835797",
     "geom:latitude":33.835797,
     "geom:longitude":-79.046252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 Norman Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370647005,
-    "wof:lastmodified":1449030695,
+    "wof:lastmodified":1467082334,
     "wof:name":"Crown & Country",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-79.046252,33.835797,-79.046252,33.835797],
+  "bbox": [
+    -79.046252,
+    33.835797,
+    -79.046252,
+    33.835797
+],
   "geometry": {"coordinates":[-79.046252,33.835797],"type":"Point"}
 }

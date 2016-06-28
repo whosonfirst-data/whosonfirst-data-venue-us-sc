@@ -2,13 +2,14 @@
   "id": 353875807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.816466,34.194437,-80.816466,34.194437",
     "geom:latitude":34.194437,
     "geom:longitude":-80.816466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Lower Branch Ln",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353875807,
-    "wof:lastmodified":1449020143,
+    "wof:lastmodified":1467082248,
     "wof:name":"Boney PM",
     "wof:parent_id":85817555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "demonstration"
     ]
 },
-  "bbox": [-80.816466,34.194437,-80.816466,34.194437],
-  "geometry": {"coordinates":[-80.816466,34.194437],"type":"Point"}
+  "bbox": [
+    -80.816466,
+    34.194437,
+    -80.816466,
+    34.194437
+],
+  "geometry": {"coordinates":[-80.81646600000001,34.194437],"type":"Point"}
 }

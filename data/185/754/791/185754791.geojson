@@ -2,13 +2,14 @@
   "id": 185754791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.705582,34.881467,-82.705582,34.881467",
     "geom:latitude":34.881467,
     "geom:longitude":-82.705582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Johnson St",
     "sg:city":"Pickens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185754791,
-    "wof:lastmodified":1449007656,
+    "wof:lastmodified":1467082198,
     "wof:name":"Pickens Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-82.705582,34.881467,-82.705582,34.881467],
-  "geometry": {"coordinates":[-82.705582,34.881467],"type":"Point"}
+  "bbox": [
+    -82.705582,
+    34.881467,
+    -82.705582,
+    34.881467
+],
+  "geometry": {"coordinates":[-82.70558200000001,34.881467],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186037167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.937075,33.653193,-78.937075,33.653193",
     "geom:latitude":33.653193,
     "geom:longitude":-78.937075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"576 Mallard Lake Dr",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":186037167,
-    "wof:lastmodified":1449053070,
+    "wof:lastmodified":1467082413,
     "wof:name":"Seagate Village",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-78.937075,33.653193,-78.937075,33.653193],
-  "geometry": {"coordinates":[-78.937075,33.653193],"type":"Point"}
+  "bbox": [
+    -78.937075,
+    33.653193,
+    -78.937075,
+    33.653193
+],
+  "geometry": {"coordinates":[-78.93707499999999,33.653193],"type":"Point"}
 }

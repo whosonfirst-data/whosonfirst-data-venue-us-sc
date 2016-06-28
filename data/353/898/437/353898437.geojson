@@ -2,13 +2,14 @@
   "id": 353898437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.511559,34.215267,-81.511559,34.215267",
     "geom:latitude":34.215267,
     "geom:longitude":-81.511559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9206 US Hwy 76",
     "sg:city":"Prosperity",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353898437,
-    "wof:lastmodified":1449018206,
+    "wof:lastmodified":1467082209,
     "wof:name":"Ackerman's Used Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-81.511559,34.215267,-81.511559,34.215267],
-  "geometry": {"coordinates":[-81.511559,34.215267],"type":"Point"}
+  "bbox": [
+    -81.511559,
+    34.215267,
+    -81.511559,
+    34.215267
+],
+  "geometry": {"coordinates":[-81.51155900000001,34.215267],"type":"Point"}
 }

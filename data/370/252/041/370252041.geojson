@@ -2,13 +2,14 @@
   "id": 370252041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.343235,33.975876,-80.343235,33.975876",
     "geom:latitude":33.975876,
     "geom:longitude":-80.343235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 Queen Chapel Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370252041,
-    "wof:lastmodified":1449029538,
+    "wof:lastmodified":1467082308,
     "wof:name":"Baker Sign & Rubber Stamp Co",
     "wof:parent_id":85816835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plastic"
     ]
 },
-  "bbox": [-80.343235,33.975876,-80.343235,33.975876],
-  "geometry": {"coordinates":[-80.343235,33.975876],"type":"Point"}
+  "bbox": [
+    -80.343235,
+    33.975876,
+    -80.343235,
+    33.975876
+],
+  "geometry": {"coordinates":[-80.34323500000001,33.975876],"type":"Point"}
 }

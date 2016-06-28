@@ -2,13 +2,14 @@
   "id": 370809453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.946486,34.697088,-82.946486,34.697088",
     "geom:latitude":34.697088,
     "geom:longitude":-82.946486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Nimmons Cir",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370809453,
-    "wof:lastmodified":1449031862,
+    "wof:lastmodified":1467082360,
     "wof:name":"Carolina Home Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manager"
     ]
 },
-  "bbox": [-82.946486,34.697088,-82.946486,34.697088],
-  "geometry": {"coordinates":[-82.946486,34.697088],"type":"Point"}
+  "bbox": [
+    -82.946486,
+    34.697088,
+    -82.946486,
+    34.697088
+],
+  "geometry": {"coordinates":[-82.94648599999999,34.697088],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370430951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.230214,32.753625,-81.230214,32.753625",
     "geom:latitude":32.753625,
     "geom:longitude":-81.230214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"679 3rd St",
     "sg:city":"Estill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370430951,
-    "wof:lastmodified":1449031229,
+    "wof:lastmodified":1467082345,
     "wof:name":"Boys & Girls Club-Hampton Cnty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-81.230214,32.753625,-81.230214,32.753625],
+  "bbox": [
+    -81.230214,
+    32.753625,
+    -81.230214,
+    32.753625
+],
   "geometry": {"coordinates":[-81.230214,32.753625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354321385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.576914,33.190503,-79.576914,33.190503",
     "geom:latitude":33.190503,
     "geom:longitude":-79.576914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3242 French Santee Rd",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354321385,
-    "wof:lastmodified":1449065978,
+    "wof:lastmodified":1467082415,
     "wof:name":"Furniture Barn Inc",
     "wof:parent_id":85858717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.576914,33.190503,-79.576914,33.190503],
+  "bbox": [
+    -79.576914,
+    33.190503,
+    -79.576914,
+    33.190503
+],
   "geometry": {"coordinates":[-79.576914,33.190503],"type":"Point"}
 }

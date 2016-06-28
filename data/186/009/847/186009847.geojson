@@ -2,13 +2,14 @@
   "id": 186009847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.005295,34.914713,-81.005295,34.914713",
     "geom:latitude":34.914713,
     "geom:longitude":-81.005295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Albright Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186009847,
-    "wof:lastmodified":1449052981,
+    "wof:lastmodified":1467082413,
     "wof:name":"Act Office City Inc",
     "wof:parent_id":85833915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.005295,34.914713,-81.005295,34.914713],
+  "bbox": [
+    -81.005295,
+    34.914713,
+    -81.005295,
+    34.914713
+],
   "geometry": {"coordinates":[-81.005295,34.914713],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353531333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.898801,33.697072,-78.898801,33.697072",
     "geom:latitude":33.697072,
     "geom:longitude":-78.898801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207 3rd Ave S",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353531333,
-    "wof:lastmodified":1449018853,
+    "wof:lastmodified":1467082222,
     "wof:name":"S & G Beauty Salon",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.898801,33.697072,-78.898801,33.697072],
-  "geometry": {"coordinates":[-78.898801,33.697072],"type":"Point"}
+  "bbox": [
+    -78.898801,
+    33.697072,
+    -78.898801,
+    33.697072
+],
+  "geometry": {"coordinates":[-78.89880100000001,33.697072],"type":"Point"}
 }

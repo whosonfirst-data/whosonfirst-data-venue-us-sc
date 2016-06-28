@@ -2,13 +2,14 @@
   "id": 337282435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.134054,33.011677,-80.134054,33.011677",
     "geom:latitude":33.011677,
     "geom:longitude":-80.134054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10390 Hwy 78 E",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337282435,
-    "wof:lastmodified":1449027463,
+    "wof:lastmodified":1467082285,
     "wof:name":"Computer Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.134054,33.011677,-80.134054,33.011677],
-  "geometry": {"coordinates":[-80.134054,33.011677],"type":"Point"}
+  "bbox": [
+    -80.134054,
+    33.011677,
+    -80.134054,
+    33.011677
+],
+  "geometry": {"coordinates":[-80.13405400000001,33.011677],"type":"Point"}
 }

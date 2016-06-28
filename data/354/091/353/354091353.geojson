@@ -2,13 +2,14 @@
   "id": 354091353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.756881,34.896423,-81.756881,34.896423",
     "geom:latitude":34.896423,
     "geom:longitude":-81.756881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 E Main St",
     "sg:city":"Pacolet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354091353,
-    "wof:lastmodified":1449066098,
+    "wof:lastmodified":1467082418,
     "wof:name":"Red's Welcome Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.756881,34.896423,-81.756881,34.896423],
-  "geometry": {"coordinates":[-81.756881,34.896423],"type":"Point"}
+  "bbox": [
+    -81.756881,
+    34.896423,
+    -81.756881,
+    34.896423
+],
+  "geometry": {"coordinates":[-81.75688100000001,34.896423],"type":"Point"}
 }

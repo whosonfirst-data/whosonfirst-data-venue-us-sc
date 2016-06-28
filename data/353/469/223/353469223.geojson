@@ -2,13 +2,14 @@
   "id": 353469223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.938621,32.78937,-79.938621,32.78937",
     "geom:latitude":32.78937,
     "geom:longitude":-79.938621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Ann St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353469223,
-    "wof:lastmodified":1449020881,
+    "wof:lastmodified":1467082263,
     "wof:name":"Dudleys Inc",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-79.938621,32.78937,-79.938621,32.78937],
+  "bbox": [
+    -79.938621,
+    32.78937,
+    -79.938621,
+    32.78937
+],
   "geometry": {"coordinates":[-79.938621,32.78937],"type":"Point"}
 }

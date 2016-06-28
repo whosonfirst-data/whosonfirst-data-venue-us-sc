@@ -2,13 +2,14 @@
   "id": 354386245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.826245,32.115674,-80.826245,32.115674",
     "geom:latitude":32.115674,
     "geom:longitude":-80.826245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 S Sea Pines Dr",
     "sg:city":"Hilton Head Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354386245,
-    "wof:lastmodified":1449066833,
+    "wof:lastmodified":1467082435,
     "wof:name":"South Beach Racquet Club",
     "wof:parent_id":85847515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "court"
     ]
 },
-  "bbox": [-80.826245,32.115674,-80.826245,32.115674],
+  "bbox": [
+    -80.826245,
+    32.115674,
+    -80.826245,
+    32.115674
+],
   "geometry": {"coordinates":[-80.826245,32.115674],"type":"Point"}
 }

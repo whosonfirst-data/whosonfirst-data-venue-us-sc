@@ -2,13 +2,14 @@
   "id": 370435637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.352961,33.897636,-80.352961,33.897636",
     "geom:latitude":33.897636,
     "geom:longitude":-80.352961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"822 S Guignard Dr",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370435637,
-    "wof:lastmodified":1449032160,
+    "wof:lastmodified":1467082366,
     "wof:name":"Niles Paint",
     "wof:parent_id":85850119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-80.352961,33.897636,-80.352961,33.897636],
-  "geometry": {"coordinates":[-80.352961,33.897636],"type":"Point"}
+  "bbox": [
+    -80.352961,
+    33.897636,
+    -80.352961,
+    33.897636
+],
+  "geometry": {"coordinates":[-80.35296099999999,33.897636],"type":"Point"}
 }

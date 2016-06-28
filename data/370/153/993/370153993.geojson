@@ -2,13 +2,14 @@
   "id": 370153993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.249246,34.74465,-82.249246,34.74465",
     "geom:latitude":34.74465,
     "geom:longitude":-82.249246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Jonesville Rd",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370153993,
-    "wof:lastmodified":1449031407,
+    "wof:lastmodified":1467082350,
     "wof:name":"Park Towne Apartments",
     "wof:parent_id":85852005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.249246,34.74465,-82.249246,34.74465],
+  "bbox": [
+    -82.249246,
+    34.74465,
+    -82.249246,
+    34.74465
+],
   "geometry": {"coordinates":[-82.249246,34.74465],"type":"Point"}
 }

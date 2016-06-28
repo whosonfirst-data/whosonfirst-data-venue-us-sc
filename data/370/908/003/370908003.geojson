@@ -2,13 +2,14 @@
   "id": 370908003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.688727,34.705998,-82.688727,34.705998",
     "geom:latitude":34.705998,
     "geom:longitude":-82.688727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Garrett Dr",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370908003,
-    "wof:lastmodified":1449030994,
+    "wof:lastmodified":1467082340,
     "wof:name":"Stan Holliday Const",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.688727,34.705998,-82.688727,34.705998],
+  "bbox": [
+    -82.688727,
+    34.705998,
+    -82.688727,
+    34.705998
+],
   "geometry": {"coordinates":[-82.688727,34.705998],"type":"Point"}
 }

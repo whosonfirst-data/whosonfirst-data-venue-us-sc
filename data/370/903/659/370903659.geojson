@@ -2,13 +2,14 @@
   "id": 370903659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.127165,34.881068,-82.127165,34.881068",
     "geom:latitude":34.881068,
     "geom:longitude":-82.127165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Berry Shoals Rd",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370903659,
-    "wof:lastmodified":1449029280,
+    "wof:lastmodified":1467082302,
     "wof:name":"Hilldrup Moving & Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "local"
     ]
 },
-  "bbox": [-82.127165,34.881068,-82.127165,34.881068],
-  "geometry": {"coordinates":[-82.127165,34.881068],"type":"Point"}
+  "bbox": [
+    -82.127165,
+    34.881068,
+    -82.127165,
+    34.881068
+],
+  "geometry": {"coordinates":[-82.12716500000001,34.881068],"type":"Point"}
 }

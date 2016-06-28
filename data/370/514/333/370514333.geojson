@@ -2,13 +2,14 @@
   "id": 370514333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.961804,33.727678,-78.961804,33.727678",
     "geom:latitude":33.727678,
     "geom:longitude":-78.961804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4876 Right End Ct",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370514333,
-    "wof:lastmodified":1449030783,
+    "wof:lastmodified":1467082335,
     "wof:name":"Cipco Inc",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-78.961804,33.727678,-78.961804,33.727678],
+  "bbox": [
+    -78.961804,
+    33.727678,
+    -78.961804,
+    33.727678
+],
   "geometry": {"coordinates":[-78.961804,33.727678],"type":"Point"}
 }

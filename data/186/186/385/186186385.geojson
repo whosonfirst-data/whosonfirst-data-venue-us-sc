@@ -2,13 +2,14 @@
   "id": 186186385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930276,32.790552,-79.930276,32.790552",
     "geom:latitude":32.790552,
     "geom:longitude":-79.930276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 E Bay St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186186385,
-    "wof:lastmodified":1449052421,
+    "wof:lastmodified":1467082407,
     "wof:name":"Public Railways",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-79.930276,32.790552,-79.930276,32.790552],
-  "geometry": {"coordinates":[-79.930276,32.790552],"type":"Point"}
+  "bbox": [
+    -79.930276,
+    32.790552,
+    -79.930276,
+    32.790552
+],
+  "geometry": {"coordinates":[-79.93027600000001,32.790552],"type":"Point"}
 }

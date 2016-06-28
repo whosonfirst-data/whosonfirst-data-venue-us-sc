@@ -2,13 +2,14 @@
   "id": 354103221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.254431,34.723521,-82.254431,34.723521",
     "geom:latitude":34.723521,
     "geom:longitude":-82.254431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 S Main St",
     "sg:city":"Simpsonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354103221,
-    "wof:lastmodified":1449067013,
+    "wof:lastmodified":1467082439,
     "wof:name":"Smitty's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.254431,34.723521,-82.254431,34.723521],
+  "bbox": [
+    -82.254431,
+    34.723521,
+    -82.254431,
+    34.723521
+],
   "geometry": {"coordinates":[-82.254431,34.723521],"type":"Point"}
 }

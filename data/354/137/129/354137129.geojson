@@ -2,13 +2,14 @@
   "id": 354137129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.947308,32.799385,-79.947308,32.799385",
     "geom:latitude":32.799385,
     "geom:longitude":-79.947308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"888 King St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354137129,
-    "wof:lastmodified":1449067432,
+    "wof:lastmodified":1467082449,
     "wof:name":"Sacred Heart Church",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.947308,32.799385,-79.947308,32.799385],
-  "geometry": {"coordinates":[-79.947308,32.799385],"type":"Point"}
+  "bbox": [
+    -79.947308,
+    32.799385,
+    -79.947308,
+    32.799385
+],
+  "geometry": {"coordinates":[-79.94730800000001,32.799385],"type":"Point"}
 }

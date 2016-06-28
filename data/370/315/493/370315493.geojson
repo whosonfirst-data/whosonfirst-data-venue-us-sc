@@ -2,13 +2,14 @@
   "id": 370315493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.030857,34.72007,-83.030857,34.72007",
     "geom:latitude":34.72007,
     "geom:longitude":-83.030857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Young Acres Dr",
     "sg:city":"Walhalla",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370315493,
-    "wof:lastmodified":1449032290,
+    "wof:lastmodified":1467082369,
     "wof:name":"Keowee Dock and Repair",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dock"
     ]
 },
-  "bbox": [-83.030857,34.72007,-83.030857,34.72007],
+  "bbox": [
+    -83.030857,
+    34.72007,
+    -83.030857,
+    34.72007
+],
   "geometry": {"coordinates":[-83.030857,34.72007],"type":"Point"}
 }

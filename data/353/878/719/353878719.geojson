@@ -2,13 +2,14 @@
   "id": 353878719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.951465,34.957729,-81.951465,34.957729",
     "geom:latitude":34.957729,
     "geom:longitude":-81.951465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Franklin St",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353878719,
-    "wof:lastmodified":1449019593,
+    "wof:lastmodified":1467082237,
     "wof:name":"Mimet USA LLC",
     "wof:parent_id":85826389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigerating"
     ]
 },
-  "bbox": [-81.951465,34.957729,-81.951465,34.957729],
+  "bbox": [
+    -81.951465,
+    34.957729,
+    -81.951465,
+    34.957729
+],
   "geometry": {"coordinates":[-81.951465,34.957729],"type":"Point"}
 }

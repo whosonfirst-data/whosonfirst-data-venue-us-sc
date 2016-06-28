@@ -2,13 +2,14 @@
   "id": 185734679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.549041,34.669312,-79.549041,34.669312",
     "geom:latitude":34.669312,
     "geom:longitude":-79.549041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Main St",
     "sg:city":"Mc Coll",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185734679,
-    "wof:lastmodified":1449008020,
+    "wof:lastmodified":1467082204,
     "wof:name":"Mc Coll Food Pantry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.549041,34.669312,-79.549041,34.669312],
+  "bbox": [
+    -79.549041,
+    34.669312,
+    -79.549041,
+    34.669312
+],
   "geometry": {"coordinates":[-79.549041,34.669312],"type":"Point"}
 }

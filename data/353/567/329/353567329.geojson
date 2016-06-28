@@ -2,13 +2,14 @@
   "id": 353567329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.812803,33.658098,-79.812803,33.658098",
     "geom:latitude":33.658098,
     "geom:longitude":-79.812803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1989 Thurgood Marshall Hwy",
     "sg:city":"Kingstree",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353567329,
-    "wof:lastmodified":1449020815,
+    "wof:lastmodified":1467082262,
     "wof:name":"Tisdale's Quick Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.812803,33.658098,-79.812803,33.658098],
+  "bbox": [
+    -79.812803,
+    33.658098,
+    -79.812803,
+    33.658098
+],
   "geometry": {"coordinates":[-79.812803,33.658098],"type":"Point"}
 }

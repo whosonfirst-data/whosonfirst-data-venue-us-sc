@@ -2,13 +2,14 @@
   "id": 186314213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.621157,34.715086,-81.621157,34.715086",
     "geom:latitude":34.715086,
     "geom:longitude":-81.621157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Mountain St",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186314213,
-    "wof:lastmodified":1449052920,
+    "wof:lastmodified":1467082412,
     "wof:name":"S Carolina-Juvenile Justice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.621157,34.715086,-81.621157,34.715086],
+  "bbox": [
+    -81.621157,
+    34.715086,
+    -81.621157,
+    34.715086
+],
   "geometry": {"coordinates":[-81.621157,34.715086],"type":"Point"}
 }

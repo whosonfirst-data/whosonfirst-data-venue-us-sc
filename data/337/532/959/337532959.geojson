@@ -2,13 +2,14 @@
   "id": 337532959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.986778,34.922042,-81.986778,34.922042",
     "geom:latitude":34.922042,
     "geom:longitude":-81.986778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E Blackstock Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337532959,
-    "wof:lastmodified":1449027211,
+    "wof:lastmodified":1467082275,
     "wof:name":"Sub Station II",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.986778,34.922042,-81.986778,34.922042],
+  "bbox": [
+    -81.986778,
+    34.922042,
+    -81.986778,
+    34.922042
+],
   "geometry": {"coordinates":[-81.986778,34.922042],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354367019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.156971,33.979748,-81.156971,33.979748",
     "geom:latitude":33.979748,
     "geom:longitude":-81.156971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Cinda Leigh Dr",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354367019,
-    "wof:lastmodified":1449066952,
+    "wof:lastmodified":1467082438,
     "wof:name":"McKenzie Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.156971,33.979748,-81.156971,33.979748],
+  "bbox": [
+    -81.156971,
+    33.979748,
+    -81.156971,
+    33.979748
+],
   "geometry": {"coordinates":[-81.156971,33.979748],"type":"Point"}
 }

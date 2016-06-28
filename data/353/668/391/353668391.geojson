@@ -2,13 +2,14 @@
   "id": 353668391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.198012,33.939706,-81.198012,33.939706",
     "geom:latitude":33.939706,
     "geom:longitude":-81.198012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"556 McCarter Trl",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353668391,
-    "wof:lastmodified":1449020024,
+    "wof:lastmodified":1467082246,
     "wof:name":"Wholesale Took Network",
     "wof:parent_id":85830397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-81.198012,33.939706,-81.198012,33.939706],
-  "geometry": {"coordinates":[-81.198012,33.939706],"type":"Point"}
+  "bbox": [
+    -81.198012,
+    33.939706,
+    -81.198012,
+    33.939706
+],
+  "geometry": {"coordinates":[-81.19801200000001,33.939706],"type":"Point"}
 }

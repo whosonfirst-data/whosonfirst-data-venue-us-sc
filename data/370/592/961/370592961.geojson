@@ -2,13 +2,14 @@
   "id": 370592961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.787499,34.199955,-79.787499,34.199955",
     "geom:latitude":34.199955,
     "geom:longitude":-79.787499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 W Darlington St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370592961,
-    "wof:lastmodified":1449031014,
+    "wof:lastmodified":1467082341,
     "wof:name":"Moss Welding & Iron Works",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-79.787499,34.199955,-79.787499,34.199955],
+  "bbox": [
+    -79.787499,
+    34.199955,
+    -79.787499,
+    34.199955
+],
   "geometry": {"coordinates":[-79.787499,34.199955],"type":"Point"}
 }

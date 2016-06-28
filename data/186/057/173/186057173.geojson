@@ -2,13 +2,14 @@
   "id": 186057173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.394015,34.185433,-82.394015,34.185433",
     "geom:latitude":34.185433,
     "geom:longitude":-82.394015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 N Main St",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186057173,
-    "wof:lastmodified":1449051701,
+    "wof:lastmodified":1467082400,
     "wof:name":"Rice Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.394015,34.185433,-82.394015,34.185433],
+  "bbox": [
+    -82.394015,
+    34.185433,
+    -82.394015,
+    34.185433
+],
   "geometry": {"coordinates":[-82.394015,34.185433],"type":"Point"}
 }

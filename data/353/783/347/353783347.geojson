@@ -2,13 +2,14 @@
   "id": 353783347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.902065,34.970407,-81.902065,34.970407",
     "geom:latitude":34.970407,
     "geom:longitude":-81.902065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Skylyn Dr",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353783347,
-    "wof:lastmodified":1449018324,
+    "wof:lastmodified":1467082211,
     "wof:name":"Skylyn Wellness Ctr",
     "wof:parent_id":85825425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.902065,34.970407,-81.902065,34.970407],
-  "geometry": {"coordinates":[-81.902065,34.970407],"type":"Point"}
+  "bbox": [
+    -81.902065,
+    34.970407,
+    -81.902065,
+    34.970407
+],
+  "geometry": {"coordinates":[-81.90206499999999,34.970407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185654841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.074458,32.918079,-80.074458,32.918079",
     "geom:latitude":32.918079,
     "geom:longitude":-80.074458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7244 Peppermill Pkwy",
     "sg:city":"North Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185654841,
-    "wof:lastmodified":1449007142,
+    "wof:lastmodified":1467082190,
     "wof:name":"Manale Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.074458,32.918079,-80.074458,32.918079],
-  "geometry": {"coordinates":[-80.074458,32.918079],"type":"Point"}
+  "bbox": [
+    -80.074458,
+    32.918079,
+    -80.074458,
+    32.918079
+],
+  "geometry": {"coordinates":[-80.07445800000001,32.918079],"type":"Point"}
 }

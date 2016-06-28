@@ -2,13 +2,14 @@
   "id": 370325683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.784922,34.261599,-79.784922,34.261599",
     "geom:latitude":34.261599,
     "geom:longitude":-79.784922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2426 Judy Ln",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370325683,
-    "wof:lastmodified":1449030413,
+    "wof:lastmodified":1467082328,
     "wof:name":"Hobson Restoration",
     "wof:parent_id":85806843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.784922,34.261599,-79.784922,34.261599],
-  "geometry": {"coordinates":[-79.784922,34.261599],"type":"Point"}
+  "bbox": [
+    -79.784922,
+    34.261599,
+    -79.784922,
+    34.261599
+],
+  "geometry": {"coordinates":[-79.78492199999999,34.261599],"type":"Point"}
 }

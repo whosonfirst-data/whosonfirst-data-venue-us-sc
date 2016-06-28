@@ -2,13 +2,14 @@
   "id": 353700245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.830207,32.903642,-79.830207,32.903642",
     "geom:latitude":32.903642,
     "geom:longitude":-79.830207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 Hearthstone Way",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353700245,
-    "wof:lastmodified":1449020590,
+    "wof:lastmodified":1467082257,
     "wof:name":"Outback Dog Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-79.830207,32.903642,-79.830207,32.903642],
+  "bbox": [
+    -79.830207,
+    32.903642,
+    -79.830207,
+    32.903642
+],
   "geometry": {"coordinates":[-79.830207,32.903642],"type":"Point"}
 }

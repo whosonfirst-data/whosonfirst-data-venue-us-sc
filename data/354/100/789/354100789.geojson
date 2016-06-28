@@ -2,13 +2,14 @@
   "id": 354100789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.820737,32.846053,-79.820737,32.846053",
     "geom:latitude":32.846053,
     "geom:longitude":-79.820737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1141 Shady Grove Ln",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354100789,
-    "wof:lastmodified":1449067215,
+    "wof:lastmodified":1467082444,
     "wof:name":"Home Veterinary Care Inc",
     "wof:parent_id":85840345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.820737,32.846053,-79.820737,32.846053],
-  "geometry": {"coordinates":[-79.820737,32.846053],"type":"Point"}
+  "bbox": [
+    -79.820737,
+    32.846053,
+    -79.820737,
+    32.846053
+],
+  "geometry": {"coordinates":[-79.82073699999999,32.846053],"type":"Point"}
 }

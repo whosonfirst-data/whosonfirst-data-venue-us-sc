@@ -2,13 +2,14 @@
   "id": 185945577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.295533,34.481154,-81.295533,34.481154",
     "geom:latitude":34.481154,
     "geom:longitude":-81.295533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2197 Ashford Ferry Rd",
     "sg:city":"Blair",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185945577,
-    "wof:lastmodified":1449006744,
+    "wof:lastmodified":1467082184,
     "wof:name":"Coleman Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.295533,34.481154,-81.295533,34.481154],
-  "geometry": {"coordinates":[-81.295533,34.481154],"type":"Point"}
+  "bbox": [
+    -81.295533,
+    34.481154,
+    -81.295533,
+    34.481154
+],
+  "geometry": {"coordinates":[-81.29553300000001,34.481154],"type":"Point"}
 }

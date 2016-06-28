@@ -2,13 +2,14 @@
   "id": 354120379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.344775,34.013023,-81.344775,34.013023",
     "geom:latitude":34.013023,
     "geom:longitude":-81.344775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1249 Counts Ferry Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354120379,
-    "wof:lastmodified":1449067416,
+    "wof:lastmodified":1467082448,
     "wof:name":"Palmetto Bookworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-81.344775,34.013023,-81.344775,34.013023],
+  "bbox": [
+    -81.344775,
+    34.013023,
+    -81.344775,
+    34.013023
+],
   "geometry": {"coordinates":[-81.344775,34.013023],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370242377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.092001,34.641104,-83.092001,34.641104",
     "geom:latitude":34.641104,
     "geom:longitude":-83.092001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Ringing Anvil Dr",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370242377,
-    "wof:lastmodified":1449032076,
+    "wof:lastmodified":1467082365,
     "wof:name":"M H Forge",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "blacksmith"
     ]
 },
-  "bbox": [-83.092001,34.641104,-83.092001,34.641104],
+  "bbox": [
+    -83.092001,
+    34.641104,
+    -83.092001,
+    34.641104
+],
   "geometry": {"coordinates":[-83.092001,34.641104],"type":"Point"}
 }

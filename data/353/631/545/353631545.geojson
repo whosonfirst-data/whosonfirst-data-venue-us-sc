@@ -2,13 +2,14 @@
   "id": 353631545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.642153,35.06765,-81.642153,35.06765",
     "geom:latitude":35.06765,
     "geom:longitude":-81.642153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 E Frederick St",
     "sg:city":"Gaffney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353631545,
-    "wof:lastmodified":1449019049,
+    "wof:lastmodified":1467082226,
     "wof:name":"Gaffney Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.642153,35.06765,-81.642153,35.06765],
-  "geometry": {"coordinates":[-81.642153,35.06765],"type":"Point"}
+  "bbox": [
+    -81.642153,
+    35.06765,
+    -81.642153,
+    35.06765
+],
+  "geometry": {"coordinates":[-81.64215299999999,35.06765],"type":"Point"}
 }

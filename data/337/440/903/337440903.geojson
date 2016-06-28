@@ -2,13 +2,14 @@
   "id": 337440903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.970916,35.020125,-81.970916,35.020125",
     "geom:latitude":35.020125,
     "geom:longitude":-81.970916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Quail Ridge Cir",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337440903,
-    "wof:lastmodified":1449027228,
+    "wof:lastmodified":1467082276,
     "wof:name":"James Gary Brewington",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.970916,35.020125,-81.970916,35.020125],
+  "bbox": [
+    -81.970916,
+    35.020125,
+    -81.970916,
+    35.020125
+],
   "geometry": {"coordinates":[-81.970916,35.020125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370968139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.873153,32.843595,-79.873153,32.843595",
     "geom:latitude":32.843595,
     "geom:longitude":-79.873153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Wando Place Dr",
     "sg:city":"Mount Pleasant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370968139,
-    "wof:lastmodified":1449029297,
+    "wof:lastmodified":1467082303,
     "wof:name":"Hubner Manufacturing Corp",
     "wof:parent_id":85849287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "miscellaneous"
     ]
 },
-  "bbox": [-79.873153,32.843595,-79.873153,32.843595],
+  "bbox": [
+    -79.873153,
+    32.843595,
+    -79.873153,
+    32.843595
+],
   "geometry": {"coordinates":[-79.873153,32.843595],"type":"Point"}
 }

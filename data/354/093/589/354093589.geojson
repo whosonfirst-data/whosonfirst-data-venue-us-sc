@@ -2,13 +2,14 @@
   "id": 354093589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.894128,34.685846,-82.894128,34.685846",
     "geom:latitude":34.685846,
     "geom:longitude":-82.894128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Ravenel School Rd",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354093589,
-    "wof:lastmodified":1449065925,
+    "wof:lastmodified":1467082414,
     "wof:name":"Ravenel Elementary School",
     "wof:parent_id":85828189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.894128,34.685846,-82.894128,34.685846],
-  "geometry": {"coordinates":[-82.894128,34.685846],"type":"Point"}
+  "bbox": [
+    -82.894128,
+    34.685846,
+    -82.894128,
+    34.685846
+],
+  "geometry": {"coordinates":[-82.89412799999999,34.685846],"type":"Point"}
 }

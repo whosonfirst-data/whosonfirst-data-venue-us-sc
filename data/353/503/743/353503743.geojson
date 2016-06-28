@@ -2,13 +2,14 @@
   "id": 353503743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.891505,32.269265,-80.891505,32.269265",
     "geom:latitude":32.269265,
     "geom:longitude":-80.891505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Fair Hope Ln",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353503743,
-    "wof:lastmodified":1449020801,
+    "wof:lastmodified":1467082262,
     "wof:name":"K Creations",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-80.891505,32.269265,-80.891505,32.269265],
+  "bbox": [
+    -80.891505,
+    32.269265,
+    -80.891505,
+    32.269265
+],
   "geometry": {"coordinates":[-80.891505,32.269265],"type":"Point"}
 }

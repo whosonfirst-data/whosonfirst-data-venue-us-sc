@@ -2,13 +2,14 @@
   "id": 354101249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.981242,33.6503,-78.981242,33.6503",
     "geom:latitude":33.6503,
     "geom:longitude":-78.981242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3050 Dick Pond Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354101249,
-    "wof:lastmodified":1449066836,
+    "wof:lastmodified":1467082435,
     "wof:name":"Sunway Charters & Tours",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "general"
     ]
 },
-  "bbox": [-78.981242,33.6503,-78.981242,33.6503],
-  "geometry": {"coordinates":[-78.981242,33.6503],"type":"Point"}
+  "bbox": [
+    -78.981242,
+    33.6503,
+    -78.981242,
+    33.6503
+],
+  "geometry": {"coordinates":[-78.98124199999999,33.6503],"type":"Point"}
 }

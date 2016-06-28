@@ -2,13 +2,14 @@
   "id": 370337403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.725601,33.526854,-81.725601,33.526854",
     "geom:latitude":33.526854,
     "geom:longitude":-81.725601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Silver Bluff Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370337403,
-    "wof:lastmodified":1449030679,
+    "wof:lastmodified":1467082333,
     "wof:name":"Kisner Construction Inc",
     "wof:parent_id":85812071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-81.725601,33.526854,-81.725601,33.526854],
+  "bbox": [
+    -81.725601,
+    33.526854,
+    -81.725601,
+    33.526854
+],
   "geometry": {"coordinates":[-81.725601,33.526854],"type":"Point"}
 }

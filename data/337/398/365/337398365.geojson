@@ -2,13 +2,14 @@
   "id": 337398365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.782109,34.196455,-79.782109,34.196455",
     "geom:latitude":34.196455,
     "geom:longitude":-79.782109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 W Evans St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337398365,
-    "wof:lastmodified":1449027003,
+    "wof:lastmodified":1467082267,
     "wof:name":"Kelly Adams",
     "wof:parent_id":85829701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.782109,34.196455,-79.782109,34.196455],
-  "geometry": {"coordinates":[-79.782109,34.196455],"type":"Point"}
+  "bbox": [
+    -79.782109,
+    34.196455,
+    -79.782109,
+    34.196455
+],
+  "geometry": {"coordinates":[-79.78210900000001,34.196455],"type":"Point"}
 }

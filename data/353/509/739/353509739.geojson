@@ -2,13 +2,14 @@
   "id": 353509739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.449053,34.8389,-82.449053,34.8389",
     "geom:latitude":34.8389,
     "geom:longitude":-82.449053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Lewis St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353509739,
-    "wof:lastmodified":1449018345,
+    "wof:lastmodified":1467082212,
     "wof:name":"M Em 2",
     "wof:parent_id":85838763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.449053,34.8389,-82.449053,34.8389],
-  "geometry": {"coordinates":[-82.449053,34.8389],"type":"Point"}
+  "bbox": [
+    -82.449053,
+    34.8389,
+    -82.449053,
+    34.8389
+],
+  "geometry": {"coordinates":[-82.44905300000001,34.8389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186144739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.406791,34.830316,-82.406791,34.830316",
     "geom:latitude":34.830316,
     "geom:longitude":-82.406791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Mills Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186144739,
-    "wof:lastmodified":1449052322,
+    "wof:lastmodified":1467082406,
     "wof:name":"Hearing Healthcare Center",
     "wof:parent_id":85811527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "impaired"
     ]
 },
-  "bbox": [-82.406791,34.830316,-82.406791,34.830316],
+  "bbox": [
+    -82.406791,
+    34.830316,
+    -82.406791,
+    34.830316
+],
   "geometry": {"coordinates":[-82.406791,34.830316],"type":"Point"}
 }

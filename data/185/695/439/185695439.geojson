@@ -2,13 +2,14 @@
   "id": 185695439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.002697,33.66687,-79.002697,33.66687",
     "geom:latitude":33.66687,
     "geom:longitude":-79.002697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Ashwood Ln",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185695439,
-    "wof:lastmodified":1449007213,
+    "wof:lastmodified":1467082191,
     "wof:name":"Tobacco Rhodes",
     "wof:parent_id":85834135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-79.002697,33.66687,-79.002697,33.66687],
+  "bbox": [
+    -79.002697,
+    33.66687,
+    -79.002697,
+    33.66687
+],
   "geometry": {"coordinates":[-79.002697,33.66687],"type":"Point"}
 }

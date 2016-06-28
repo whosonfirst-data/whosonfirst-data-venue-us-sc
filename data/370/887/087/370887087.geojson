@@ -2,13 +2,14 @@
   "id": 370887087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.92814,35.075463,-80.92814,35.075463",
     "geom:latitude":35.075463,
     "geom:longitude":-80.92814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Regent Pkwy",
     "sg:city":"Fort Mill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370887087,
-    "wof:lastmodified":1449031807,
+    "wof:lastmodified":1467082359,
     "wof:name":"Regent Park Golf Club",
     "wof:parent_id":85843859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "operates"
     ]
 },
-  "bbox": [-80.92814,35.075463,-80.92814,35.075463],
+  "bbox": [
+    -80.92814,
+    35.075463,
+    -80.92814,
+    35.075463
+],
   "geometry": {"coordinates":[-80.92814,35.075463],"type":"Point"}
 }

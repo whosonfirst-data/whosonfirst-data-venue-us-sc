@@ -2,13 +2,14 @@
   "id": 185892665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.666081,34.616648,-79.666081,34.616648",
     "geom:latitude":34.616648,
     "geom:longitude":-79.666081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Tyson Ave",
     "sg:city":"Bennettsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185892665,
-    "wof:lastmodified":1449006844,
+    "wof:lastmodified":1467082186,
     "wof:name":"Southern States Cooperative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.666081,34.616648,-79.666081,34.616648],
-  "geometry": {"coordinates":[-79.666081,34.616648],"type":"Point"}
+  "bbox": [
+    -79.666081,
+    34.616648,
+    -79.666081,
+    34.616648
+],
+  "geometry": {"coordinates":[-79.66608100000001,34.616648],"type":"Point"}
 }

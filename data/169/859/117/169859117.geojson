@@ -2,13 +2,14 @@
   "id": 169859117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.975417,35.040286,-81.975417,35.040286",
     "geom:latitude":35.040286,
     "geom:longitude":-81.975417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2744 Boiling Springs Rd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":169859117,
-    "wof:lastmodified":1449035045,
+    "wof:lastmodified":1467082385,
     "wof:name":"Pool Time and Supplies",
     "wof:parent_id":85844591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "swimming"
     ]
 },
-  "bbox": [-81.975417,35.040286,-81.975417,35.040286],
-  "geometry": {"coordinates":[-81.975417,35.040286],"type":"Point"}
+  "bbox": [
+    -81.975417,
+    35.040286,
+    -81.975417,
+    35.040286
+],
+  "geometry": {"coordinates":[-81.97541699999999,35.040286],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353867243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.036883,34.009015,-81.036883,34.009015",
     "geom:latitude":34.009015,
     "geom:longitude":-81.036883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1722 Main St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353867243,
-    "wof:lastmodified":1449019353,
+    "wof:lastmodified":1467082232,
     "wof:name":"W Gaston Fairey",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.036883,34.009015,-81.036883,34.009015],
+  "bbox": [
+    -81.036883,
+    34.009015,
+    -81.036883,
+    34.009015
+],
   "geometry": {"coordinates":[-81.036883,34.009015],"type":"Point"}
 }

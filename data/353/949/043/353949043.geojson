@@ -2,13 +2,14 @@
   "id": 353949043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.174285,34.67883,-83.174285,34.67883",
     "geom:latitude":34.67883,
     "geom:longitude":-83.174285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Rabbitt Trl Rd",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353949043,
-    "wof:lastmodified":1449019853,
+    "wof:lastmodified":1467082242,
     "wof:name":"Walk On Wood",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-83.174285,34.67883,-83.174285,34.67883],
+  "bbox": [
+    -83.174285,
+    34.67883,
+    -83.174285,
+    34.67883
+],
   "geometry": {"coordinates":[-83.174285,34.67883],"type":"Point"}
 }

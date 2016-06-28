@@ -2,13 +2,14 @@
   "id": 185605093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.633457,34.247992,-80.633457,34.247992",
     "geom:latitude":34.247992,
     "geom:longitude":-80.633457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2043 W Dekalb St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185605093,
-    "wof:lastmodified":1449007412,
+    "wof:lastmodified":1467082194,
     "wof:name":"Associates In Gastroenterlogy",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.633457,34.247992,-80.633457,34.247992],
-  "geometry": {"coordinates":[-80.633457,34.247992],"type":"Point"}
+  "bbox": [
+    -80.633457,
+    34.247992,
+    -80.633457,
+    34.247992
+],
+  "geometry": {"coordinates":[-80.63345700000001,34.247992],"type":"Point"}
 }

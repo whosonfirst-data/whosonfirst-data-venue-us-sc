@@ -2,13 +2,14 @@
   "id": 353522625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.946933,34.829165,-80.946933,34.829165",
     "geom:latitude":34.829165,
     "geom:longitude":-80.946933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 Deer Run Rd",
     "sg:city":"Catawba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353522625,
-    "wof:lastmodified":1449019480,
+    "wof:lastmodified":1467082235,
     "wof:name":"Office Plus",
     "wof:parent_id":85851537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [-80.946933,34.829165,-80.946933,34.829165],
+  "bbox": [
+    -80.946933,
+    34.829165,
+    -80.946933,
+    34.829165
+],
   "geometry": {"coordinates":[-80.946933,34.829165],"type":"Point"}
 }

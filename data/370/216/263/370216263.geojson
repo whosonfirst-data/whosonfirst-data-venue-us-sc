@@ -2,13 +2,14 @@
   "id": 370216263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.932877,32.784765,-79.932877,32.784765",
     "geom:latitude":32.784765,
     "geom:longitude":-79.932877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"278 Meeting St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370216263,
-    "wof:lastmodified":1449032093,
+    "wof:lastmodified":1467082365,
     "wof:name":"Homeopathic Information Svc",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "homeopath"
     ]
 },
-  "bbox": [-79.932877,32.784765,-79.932877,32.784765],
+  "bbox": [
+    -79.932877,
+    32.784765,
+    -79.932877,
+    32.784765
+],
   "geometry": {"coordinates":[-79.932877,32.784765],"type":"Point"}
 }

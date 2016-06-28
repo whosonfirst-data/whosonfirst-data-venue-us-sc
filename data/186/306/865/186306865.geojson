@@ -2,13 +2,14 @@
   "id": 186306865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.025418,34.007298,-81.025418,34.007298",
     "geom:latitude":34.007298,
     "geom:longitude":-81.025418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 Barnwell St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186306865,
-    "wof:lastmodified":1449052916,
+    "wof:lastmodified":1467082412,
     "wof:name":"Green B Neal DO",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.025418,34.007298,-81.025418,34.007298],
+  "bbox": [
+    -81.025418,
+    34.007298,
+    -81.025418,
+    34.007298
+],
   "geometry": {"coordinates":[-81.025418,34.007298],"type":"Point"}
 }

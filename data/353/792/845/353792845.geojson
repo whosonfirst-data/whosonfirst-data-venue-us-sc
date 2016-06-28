@@ -2,13 +2,14 @@
   "id": 353792845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.462583,33.749592,-79.462583,33.749592",
     "geom:latitude":33.749592,
     "geom:longitude":-79.462583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2422 Hemingway Hwy",
     "sg:city":"Hemingway",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353792845,
-    "wof:lastmodified":1449018811,
+    "wof:lastmodified":1467082221,
     "wof:name":"Kenny's Bar B Que",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.462583,33.749592,-79.462583,33.749592],
+  "bbox": [
+    -79.462583,
+    33.749592,
+    -79.462583,
+    33.749592
+],
   "geometry": {"coordinates":[-79.462583,33.749592],"type":"Point"}
 }

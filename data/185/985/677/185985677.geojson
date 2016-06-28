@@ -2,13 +2,14 @@
   "id": 185985677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.80109,33.832052,-81.80109,33.832052",
     "geom:latitude":33.832052,
     "geom:longitude":-81.80109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Calhoun St",
     "sg:city":"Johnston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185985677,
-    "wof:lastmodified":1449007425,
+    "wof:lastmodified":1467082195,
     "wof:name":"Cris' Hairstyling Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.80109,33.832052,-81.80109,33.832052],
+  "bbox": [
+    -81.80109,
+    33.832052,
+    -81.80109,
+    33.832052
+],
   "geometry": {"coordinates":[-81.80109,33.832052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370870503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.418104,34.843751,-82.418104,34.843751",
     "geom:latitude":34.843751,
     "geom:longitude":-82.418104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 Pendleton St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370870503,
-    "wof:lastmodified":1449029991,
+    "wof:lastmodified":1467082318,
     "wof:name":"Rick's Car Wash Inc",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-82.418104,34.843751,-82.418104,34.843751],
+  "bbox": [
+    -82.418104,
+    34.843751,
+    -82.418104,
+    34.843751
+],
   "geometry": {"coordinates":[-82.418104,34.843751],"type":"Point"}
 }

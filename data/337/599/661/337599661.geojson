@@ -2,13 +2,14 @@
   "id": 337599661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.966226,33.695618,-78.966226,33.695618",
     "geom:latitude":33.695618,
     "geom:longitude":-78.966226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"978 Folly Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337599661,
-    "wof:lastmodified":1449027326,
+    "wof:lastmodified":1467082280,
     "wof:name":"Folly Estates",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.966226,33.695618,-78.966226,33.695618],
-  "geometry": {"coordinates":[-78.966226,33.695618],"type":"Point"}
+  "bbox": [
+    -78.966226,
+    33.695618,
+    -78.966226,
+    33.695618
+],
+  "geometry": {"coordinates":[-78.96622600000001,33.695618],"type":"Point"}
 }

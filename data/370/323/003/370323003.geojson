@@ -2,13 +2,14 @@
   "id": 370323003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.60214,34.812634,-82.60214,34.812634",
     "geom:latitude":34.812634,
     "geom:longitude":-82.60214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 S Pendleton St",
     "sg:city":"Easley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370323003,
-    "wof:lastmodified":1449029383,
+    "wof:lastmodified":1467082304,
     "wof:name":"Hair Mania",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.60214,34.812634,-82.60214,34.812634],
-  "geometry": {"coordinates":[-82.60214,34.812634],"type":"Point"}
+  "bbox": [
+    -82.60214,
+    34.812634,
+    -82.60214,
+    34.812634
+],
+  "geometry": {"coordinates":[-82.60214000000001,34.812634],"type":"Point"}
 }

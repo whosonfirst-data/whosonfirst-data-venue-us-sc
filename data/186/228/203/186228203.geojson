@@ -2,13 +2,14 @@
   "id": 186228203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.388016,33.951081,-80.388016,33.951081",
     "geom:latitude":33.951081,
     "geom:longitude":-80.388016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 W Wesmark Blvd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186228203,
-    "wof:lastmodified":1449051219,
+    "wof:lastmodified":1467082396,
     "wof:name":"Extreme Sports Yamaha",
     "wof:parent_id":85814545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.388016,33.951081,-80.388016,33.951081],
-  "geometry": {"coordinates":[-80.388016,33.951081],"type":"Point"}
+  "bbox": [
+    -80.388016,
+    33.951081,
+    -80.388016,
+    33.951081
+],
+  "geometry": {"coordinates":[-80.38801599999999,33.951081],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354034767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.79949,34.167203,-80.79949,34.167203",
     "geom:latitude":34.167203,
     "geom:longitude":-80.79949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2548 Main St",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354034767,
-    "wof:lastmodified":1449066124,
+    "wof:lastmodified":1467082419,
     "wof:name":"Mike Taylor Properties",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.79949,34.167203,-80.79949,34.167203],
-  "geometry": {"coordinates":[-80.79949,34.167203],"type":"Point"}
+  "bbox": [
+    -80.79949,
+    34.167203,
+    -80.79949,
+    34.167203
+],
+  "geometry": {"coordinates":[-80.79949000000001,34.167203],"type":"Point"}
 }

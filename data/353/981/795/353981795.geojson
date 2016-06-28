@@ -2,13 +2,14 @@
   "id": 353981795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.023613,33.623859,-79.023613,33.623859",
     "geom:latitude":33.623859,
     "geom:longitude":-79.023613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Seneca River Rd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353981795,
-    "wof:lastmodified":1449020850,
+    "wof:lastmodified":1467082263,
     "wof:name":"Jja Homebuilders Inc",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.023613,33.623859,-79.023613,33.623859],
+  "bbox": [
+    -79.023613,
+    33.623859,
+    -79.023613,
+    33.623859
+],
   "geometry": {"coordinates":[-79.023613,33.623859],"type":"Point"}
 }

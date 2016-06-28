@@ -2,13 +2,14 @@
   "id": 353909175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.154343,32.781188,-80.154343,32.781188",
     "geom:latitude":32.781188,
     "geom:longitude":-80.154343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4389 Savannah Hwy",
     "sg:city":"Ravenel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353909175,
-    "wof:lastmodified":1449020174,
+    "wof:lastmodified":1467082249,
     "wof:name":"Ravenel Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.154343,32.781188,-80.154343,32.781188],
+  "bbox": [
+    -80.154343,
+    32.781188,
+    -80.154343,
+    32.781188
+],
   "geometry": {"coordinates":[-80.154343,32.781188],"type":"Point"}
 }

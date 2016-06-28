@@ -2,13 +2,14 @@
   "id": 186022225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.464564,34.64328,-82.464564,34.64328",
     "geom:latitude":34.64328,
     "geom:longitude":-82.464564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Lebby St",
     "sg:city":"Pelzer",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186022225,
-    "wof:lastmodified":1449051281,
+    "wof:lastmodified":1467082396,
     "wof:name":"Betty Boops",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.464564,34.64328,-82.464564,34.64328],
+  "bbox": [
+    -82.464564,
+    34.64328,
+    -82.464564,
+    34.64328
+],
   "geometry": {"coordinates":[-82.464564,34.64328],"type":"Point"}
 }

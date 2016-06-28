@@ -2,13 +2,14 @@
   "id": 185629255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.360454,34.853354,-82.360454,34.853354",
     "geom:latitude":34.853354,
     "geom:longitude":-82.360454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Hutton Ct",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185629255,
-    "wof:lastmodified":1449007853,
+    "wof:lastmodified":1467082201,
     "wof:name":"Blinds Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shutter"
     ]
 },
-  "bbox": [-82.360454,34.853354,-82.360454,34.853354],
+  "bbox": [
+    -82.360454,
+    34.853354,
+    -82.360454,
+    34.853354
+],
   "geometry": {"coordinates":[-82.360454,34.853354],"type":"Point"}
 }

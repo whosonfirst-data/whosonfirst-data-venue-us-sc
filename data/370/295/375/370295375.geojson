@@ -2,13 +2,14 @@
   "id": 370295375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.134037,34.643895,-83.134037,34.643895",
     "geom:latitude":34.643895,
     "geom:longitude":-83.134037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2969 Toccoa Hwy",
     "sg:city":"Westminster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370295375,
-    "wof:lastmodified":1449030458,
+    "wof:lastmodified":1467082329,
     "wof:name":"Burton Truck Repair",
     "wof:parent_id":85815643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-83.134037,34.643895,-83.134037,34.643895],
-  "geometry": {"coordinates":[-83.134037,34.643895],"type":"Point"}
+  "bbox": [
+    -83.134037,
+    34.643895,
+    -83.134037,
+    34.643895
+],
+  "geometry": {"coordinates":[-83.13403700000001,34.643895],"type":"Point"}
 }

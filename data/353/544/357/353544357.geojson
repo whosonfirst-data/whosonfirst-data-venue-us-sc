@@ -2,13 +2,14 @@
   "id": 353544357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.033813,33.969744,-81.033813,33.969744",
     "geom:latitude":33.969744,
     "geom:longitude":-81.033813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Granby Ln",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353544357,
-    "wof:lastmodified":1449020793,
+    "wof:lastmodified":1467082261,
     "wof:name":"Lindau Chemicals Inc",
     "wof:parent_id":85839583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.033813,33.969744,-81.033813,33.969744],
-  "geometry": {"coordinates":[-81.033813,33.969744],"type":"Point"}
+  "bbox": [
+    -81.033813,
+    33.969744,
+    -81.033813,
+    33.969744
+],
+  "geometry": {"coordinates":[-81.03381299999999,33.969744],"type":"Point"}
 }

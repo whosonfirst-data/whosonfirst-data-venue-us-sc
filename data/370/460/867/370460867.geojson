@@ -2,13 +2,14 @@
   "id": 370460867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.021652,34.900947,-82.021652,34.900947",
     "geom:latitude":34.900947,
     "geom:longitude":-82.021652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Gramercy Blvd",
     "sg:city":"Spartanburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370460867,
-    "wof:lastmodified":1449032278,
+    "wof:lastmodified":1467082369,
     "wof:name":"KB Hall Properties LLC",
     "wof:parent_id":85848131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dwelling"
     ]
 },
-  "bbox": [-82.021652,34.900947,-82.021652,34.900947],
+  "bbox": [
+    -82.021652,
+    34.900947,
+    -82.021652,
+    34.900947
+],
   "geometry": {"coordinates":[-82.021652,34.900947],"type":"Point"}
 }

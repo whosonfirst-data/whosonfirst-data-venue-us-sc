@@ -2,13 +2,14 @@
   "id": 370774331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.986073,34.074315,-78.986073,34.074315",
     "geom:latitude":34.074315,
     "geom:longitude":-78.986073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 Green Sea Rd S",
     "sg:city":"Loris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370774331,
-    "wof:lastmodified":1449030400,
+    "wof:lastmodified":1467082327,
     "wof:name":"Green Sea Monument",
     "wof:parent_id":85841989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-78.986073,34.074315,-78.986073,34.074315],
+  "bbox": [
+    -78.986073,
+    34.074315,
+    -78.986073,
+    34.074315
+],
   "geometry": {"coordinates":[-78.986073,34.074315],"type":"Point"}
 }

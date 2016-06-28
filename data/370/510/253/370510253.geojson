@@ -2,13 +2,14 @@
   "id": 370510253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.42808,34.805452,-82.42808,34.805452",
     "geom:latitude":34.805452,
     "geom:longitude":-82.42808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Old Piedmont Hwy",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370510253,
-    "wof:lastmodified":1449031118,
+    "wof:lastmodified":1467082343,
     "wof:name":"Greenview Elementary School",
     "wof:parent_id":85810381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.42808,34.805452,-82.42808,34.805452],
-  "geometry": {"coordinates":[-82.42808,34.805452],"type":"Point"}
+  "bbox": [
+    -82.42808,
+    34.805452,
+    -82.42808,
+    34.805452
+],
+  "geometry": {"coordinates":[-82.42807999999999,34.805452],"type":"Point"}
 }

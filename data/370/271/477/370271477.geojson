@@ -2,13 +2,14 @@
   "id": 370271477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.399718,34.851064,-82.399718,34.851064",
     "geom:latitude":34.851064,
     "geom:longitude":-82.399718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 W Washington St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370271477,
-    "wof:lastmodified":1449030853,
+    "wof:lastmodified":1467082337,
     "wof:name":"Pelham Architects",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.399718,34.851064,-82.399718,34.851064],
-  "geometry": {"coordinates":[-82.399718,34.851064],"type":"Point"}
+  "bbox": [
+    -82.399718,
+    34.851064,
+    -82.399718,
+    34.851064
+],
+  "geometry": {"coordinates":[-82.39971799999999,34.851064],"type":"Point"}
 }
