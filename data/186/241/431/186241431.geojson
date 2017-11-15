@@ -2,14 +2,20 @@
   "id": 186241431,
   "type": "Feature",
   "properties": {
+    "addr:full":"136 Crane Branch Ln Columbia SC 29223",
+    "addr:housenumber":"136",
+    "addr:postcode":"29223",
+    "addr:street":"Crane Branch Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.902411,34.138099,-80.902411,34.138099",
     "geom:latitude":34.138099,
     "geom:longitude":-80.902411,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"136 Crane Branch Ln",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -31,28 +37,27 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
+    "wof:brand_id":1125152863,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HHaDEhXg3TanRHTjqT8BT_34.138099_-80.902411@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d901d267357cf4f5ee8515dc58ccc97",
+    "wof:geomhash":"e467b4dde66a5d62e0d1405a0cd3aa74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":186241431
         }
     ],
     "wof:id":186241431,
-    "wof:lastmodified":1467082413,
+    "wof:lastmodified":1510613356,
     "wof:name":"D R Horton Inc",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

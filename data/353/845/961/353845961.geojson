@@ -2,9 +2,14 @@
   "id": 353845961,
   "type": "Feature",
   "properties": {
+    "addr:full":"1227 S Guignard Dr Sumter SC 29150",
+    "addr:housenumber":"1227",
+    "addr:postcode":"29150",
+    "addr:street":"S Guignard Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.350343,33.887149,-80.350343,33.887149",
     "geom:latitude":33.887149,
     "geom:longitude":-80.350343,
@@ -28,19 +33,22 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688683,
+        102191575,
         85633793,
-        85688683
+        102085745
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uOzWXRXTFJDTF9A2WhEoN_33.887149_-80.350343@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"b3312afb9549e25ddc87234fae278743",
+    "wof:geomhash":"d3d880ba79c32c3f04e438b2ed24bb28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102085745,
             "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
@@ -48,7 +56,7 @@
         }
     ],
     "wof:id":353845961,
-    "wof:lastmodified":1467082218,
+    "wof:lastmodified":1494529634,
     "wof:name":"American Title Loans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354377685,
   "type": "Feature",
   "properties": {
+    "addr:full":"4411 Hard Scrabble Rd Columbia SC 29223",
+    "addr:housenumber":"",
+    "addr:postcode":"4411;29223",
+    "addr:street":"Scrabble Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.911543,34.14533,-80.911543,34.14533",
     "geom:latitude":34.14533,
     "geom:longitude":-80.911543,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"6f4b80d9668532115948a33a8ec5b459",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":354377685
         }
     ],
     "wof:id":354377685,
-    "wof:lastmodified":1467082429,
+    "wof:lastmodified":1491937794,
     "wof:name":"Plantation Self Storage",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

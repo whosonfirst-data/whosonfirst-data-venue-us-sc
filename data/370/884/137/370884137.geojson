@@ -2,9 +2,14 @@
   "id": 370884137,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Deerpath Ct Columbia SC 29229",
+    "addr:housenumber":"7",
+    "addr:postcode":"29229",
+    "addr:street":"Deerpath Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.886238,34.148079,-80.886238,34.148079",
     "geom:latitude":34.148079,
     "geom:longitude":-80.886238,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"33870fb90ef3a1a92586db561a5b2854",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370884137
         }
     ],
     "wof:id":370884137,
-    "wof:lastmodified":1467082359,
+    "wof:lastmodified":1491937805,
     "wof:name":"Fairfax Consulting Svc Inc",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

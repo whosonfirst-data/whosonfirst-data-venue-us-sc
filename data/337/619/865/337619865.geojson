@@ -2,9 +2,14 @@
   "id": 337619865,
   "type": "Feature",
   "properties": {
+    "addr:full":"628 Pickens St Columbia SC 29201",
+    "addr:housenumber":"628",
+    "addr:postcode":"29201",
+    "addr:street":"Pickens St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.02468,33.997361,-81.02468,33.997361",
     "geom:latitude":33.997361,
     "geom:longitude":-81.02468,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
         101720793,
         102085405,
@@ -39,7 +45,7 @@
     "wof:geomhash":"86417ce04713508fd63f1926154d6568",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
             "locality_id":101720793,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":337619865,
-    "wof:lastmodified":1467082270,
+    "wof:lastmodified":1491892911,
     "wof:name":"Elite Properties Inc",
     "wof:parent_id":85876831,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337341793,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Fishers Shore Rd Columbia SC 29223",
+    "addr:housenumber":"120",
+    "addr:postcode":"29223",
+    "addr:street":"Fishers Shore Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.890795,34.128224,-80.890795,34.128224",
     "geom:latitude":34.128224,
     "geom:longitude":-80.890795,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"f5f0314b7c4b739bd9a49a1794fb1151",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":337341793
         }
     ],
     "wof:id":337341793,
-    "wof:lastmodified":1467082294,
+    "wof:lastmodified":1491937803,
     "wof:name":"Millennuim Money Movers LLC",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

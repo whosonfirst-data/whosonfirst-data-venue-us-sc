@@ -2,9 +2,14 @@
   "id": 370322177,
   "type": "Feature",
   "properties": {
+    "addr:full":"90 Hunters Pond Dr Columbia SC 29229",
+    "addr:housenumber":"90",
+    "addr:postcode":"29229",
+    "addr:street":"Hunters Pond Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.888695,34.148212,-80.888695,34.148212",
     "geom:latitude":34.148212,
     "geom:longitude":-80.888695,
@@ -30,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633793,
-        85688683
+        420541141,
+        85688683,
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +48,22 @@
     "wof:geomhash":"714ae26d3569c0dca2399a6b7db8e7c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420541141,
+            "venue_id":370322177
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085405,
+            "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370322177
         }
     ],
     "wof:id":370322177,
-    "wof:lastmodified":1467082297,
+    "wof:lastmodified":1491937787,
     "wof:name":"Unications Publishing",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

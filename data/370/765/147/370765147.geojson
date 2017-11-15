@@ -2,9 +2,14 @@
   "id": 370765147,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 Gervais St Columbia SC 29204",
+    "addr:housenumber":"1620",
+    "addr:postcode":"29204",
+    "addr:street":"Gervais St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.025828,34.003604,-81.025828,34.003604",
     "geom:latitude":34.003604,
     "geom:longitude":-81.025828,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
         101720793,
         102085405,
@@ -43,7 +49,7 @@
     "wof:geomhash":"c21247ff7240cf7cb22752be56ad7abd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
             "locality_id":101720793,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":370765147,
-    "wof:lastmodified":1467082341,
+    "wof:lastmodified":1491892914,
     "wof:name":"Foundation For American Ed",
     "wof:parent_id":85876831,
     "wof:placetype":"venue",

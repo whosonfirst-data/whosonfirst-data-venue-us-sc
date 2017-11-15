@@ -2,9 +2,14 @@
   "id": 370874571,
   "type": "Feature",
   "properties": {
+    "addr:full":"176 Thames Valley Ct Irmo SC 29063",
+    "addr:housenumber":"176",
+    "addr:postcode":"29063",
+    "addr:street":"Thames Valley Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.189472,34.090447,-81.189472,34.090447",
     "geom:latitude":34.090447,
     "geom:longitude":-81.189472,
@@ -29,8 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        102085573,
+        101720795,
+        102085405,
         85827037
     ],
     "wof:breaches":[],
@@ -41,17 +48,17 @@
     "wof:geomhash":"a64ac255e649bde82a9fd18bf093d3be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085573,
-            "locality_id":-1,
+            "county_id":102085405,
+            "locality_id":101720795,
             "neighbourhood_id":85827037,
             "region_id":85688683,
             "venue_id":370874571
         }
     ],
     "wof:id":370874571,
-    "wof:lastmodified":1467082368,
+    "wof:lastmodified":1491926615,
     "wof:name":"Aquasmarte Technologies",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",

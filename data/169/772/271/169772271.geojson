@@ -2,9 +2,14 @@
   "id": 169772271,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Rock Springs Rd Columbia SC 29223",
+    "addr:housenumber":"104",
+    "addr:postcode":"29223",
+    "addr:street":"Rock Springs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.894088,34.117354,-80.894088,34.117354",
     "geom:latitude":34.117354,
     "geom:longitude":-80.894088,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"a54252bd12db68963b682265a92e3d13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":169772271
         }
     ],
     "wof:id":169772271,
-    "wof:lastmodified":1467082382,
+    "wof:lastmodified":1491937800,
     "wof:name":"Southern Gourmet Catering",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

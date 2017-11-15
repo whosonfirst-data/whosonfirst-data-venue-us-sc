@@ -2,9 +2,14 @@
   "id": 370557181,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Thames Valley Rd Irmo SC 29063",
+    "addr:housenumber":"5",
+    "addr:postcode":"29063",
+    "addr:street":"Thames Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.188329,34.088941,-81.188329,34.088941",
     "geom:latitude":34.088941,
     "geom:longitude":-81.188329,
@@ -26,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        102085573,
+        101720795,
+        102085405,
         85827037
     ],
     "wof:breaches":[],
@@ -38,17 +45,17 @@
     "wof:geomhash":"2e5a9fb2eea56c257c563dae7e8b95a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085573,
-            "locality_id":-1,
+            "county_id":102085405,
+            "locality_id":101720795,
             "neighbourhood_id":85827037,
             "region_id":85688683,
             "venue_id":370557181
         }
     ],
     "wof:id":370557181,
-    "wof:lastmodified":1467082352,
+    "wof:lastmodified":1491926611,
     "wof:name":"Children's House Of Irmo",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",

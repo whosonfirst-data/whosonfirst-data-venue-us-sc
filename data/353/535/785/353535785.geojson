@@ -2,9 +2,14 @@
   "id": 353535785,
   "type": "Feature",
   "properties": {
+    "addr:full":"7228 Woodrow St Irmo SC 29063",
+    "addr:housenumber":"7228",
+    "addr:postcode":"29063",
+    "addr:street":"Woodrow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.180595,34.081386,-81.180595,34.081386",
     "geom:latitude":34.081386,
     "geom:longitude":-81.180595,
@@ -31,8 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        102085573,
+        101720795,
+        102085405,
         85827037
     ],
     "wof:brand_id":420575843,
@@ -44,17 +51,17 @@
     "wof:geomhash":"1aec5041f5e2f043b0910650872e5f57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085573,
-            "locality_id":-1,
+            "county_id":102085405,
+            "locality_id":101720795,
             "neighbourhood_id":85827037,
             "region_id":85688683,
             "venue_id":353535785
         }
     ],
     "wof:id":353535785,
-    "wof:lastmodified":1467082219,
+    "wof:lastmodified":1491926606,
     "wof:name":"Allied Home Mrtg Capitl Corp",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370802251,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Bee Ridge Cir Columbia SC 29223",
+    "addr:housenumber":"11",
+    "addr:postcode":"29223",
+    "addr:street":"Bee Ridge Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.910613,34.113394,-80.910613,34.113394",
     "geom:latitude":34.113394,
     "geom:longitude":-80.910613,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:brand_id":420574309,
     "wof:breaches":[],
@@ -44,17 +49,15 @@
     "wof:geomhash":"5eb63a19c38aa0627859a09c0657772a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370802251
         }
     ],
     "wof:id":370802251,
-    "wof:lastmodified":1467082359,
+    "wof:lastmodified":1491937788,
     "wof:name":"Exxon",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

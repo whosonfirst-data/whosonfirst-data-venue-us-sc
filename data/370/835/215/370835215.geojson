@@ -2,9 +2,14 @@
   "id": 370835215,
   "type": "Feature",
   "properties": {
+    "addr:full":"608 Cold Branch Dr Columbia SC 29223",
+    "addr:housenumber":"608",
+    "addr:postcode":"29223",
+    "addr:street":"Cold Branch Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.891584,34.135687,-80.891584,34.135687",
     "geom:latitude":34.135687,
     "geom:longitude":-80.891584,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"8b09290cd34242a40fbac951324ee621",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370835215
         }
     ],
     "wof:id":370835215,
-    "wof:lastmodified":1467082309,
+    "wof:lastmodified":1491937792,
     "wof:name":"Arctic Air",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

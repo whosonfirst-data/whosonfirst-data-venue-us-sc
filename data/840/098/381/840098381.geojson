@@ -2,9 +2,14 @@
   "id": 840098381,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Clemson Rd Columbia SC 29229",
+    "addr:housenumber":"900",
+    "addr:postcode":"29229",
+    "addr:street":"Clemson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.871916,34.129735,-80.871916,34.129735",
     "geom:latitude":34.129735,
     "geom:longitude":-80.871916,
@@ -32,7 +37,8 @@
         85688683,
         85633793,
         85897267,
-        102085405
+        102085405,
+        420541153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,17 @@
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":840098381
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420541153,
+            "venue_id":840098381
         }
     ],
     "wof:id":840098381,
-    "wof:lastmodified":1467082527,
+    "wof:lastmodified":1491937791,
     "wof:name":"Clemson University Dept-Pstcd",
-    "wof:parent_id":85897267,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

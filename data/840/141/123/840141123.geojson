@@ -2,9 +2,14 @@
   "id": 840141123,
   "type": "Feature",
   "properties": {
+    "addr:full":"226 E Newberry Ave Sumter SC 29150",
+    "addr:housenumber":"226",
+    "addr:postcode":"29150",
+    "addr:street":"E Newberry Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.330755,33.89861,-80.330755,33.89861",
     "geom:latitude":33.89861,
     "geom:longitude":-80.330755,
@@ -28,17 +33,32 @@
         "iron"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688683,
+        102191575,
+        85633793,
+        102085745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IXtqEHhtafC77dUKi4J2j_33.898610_-80.330755@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463522070,
-    "wof:geomhash":"96efb7f96546dee8eda1da8b9e694dd1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b3352791e2b5f7910b5af0c75baf5f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085745,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688683,
+            "venue_id":840141123
+        }
+    ],
     "wof:id":840141123,
-    "wof:lastmodified":1467082557,
+    "wof:lastmodified":1494529630,
     "wof:name":"Timmons Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

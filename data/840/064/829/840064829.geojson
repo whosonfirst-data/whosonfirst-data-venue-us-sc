@@ -2,9 +2,14 @@
   "id": 840064829,
   "type": "Feature",
   "properties": {
+    "addr:full":"1631 Auburn St Columbia SC 29204",
+    "addr:housenumber":"1631",
+    "addr:postcode":"29204",
+    "addr:street":"Auburn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.004573,34.03402,-81.004573,34.03402",
     "geom:latitude":34.03402,
     "geom:longitude":-81.004573,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        85827291,
-        102085405
+        101720793,
+        102085405,
+        420559259,
+        85827291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +50,15 @@
     "wof:geomhash":"c2f800848518850c66968af2d737afc5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":840064829
+        },
+        {
             "country_id":85633793,
             "county_id":102085405,
             "neighbourhood_id":85827291,
@@ -50,9 +67,9 @@
         }
     ],
     "wof:id":840064829,
-    "wof:lastmodified":1467082502,
+    "wof:lastmodified":1491932038,
     "wof:name":"J & G Food Products Inc",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370888779,
   "type": "Feature",
   "properties": {
+    "addr:full":"1013 Lake Murray Blvd Irmo SC 29212",
+    "addr:housenumber":"1013",
+    "addr:postcode":"29212",
+    "addr:street":"Lake Murray Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.174865,34.089369,-81.174865,34.089369",
     "geom:latitude":34.089369,
     "geom:longitude":-81.174865,
@@ -30,8 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        102085573,
+        101720795,
+        102085405,
         85827037
     ],
     "wof:breaches":[],
@@ -42,17 +49,17 @@
     "wof:geomhash":"bc80f034b6a913556e94301add38ef02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085573,
-            "locality_id":-1,
+            "county_id":102085405,
+            "locality_id":101720795,
             "neighbourhood_id":85827037,
             "region_id":85688683,
             "venue_id":370888779
         }
     ],
     "wof:id":370888779,
-    "wof:lastmodified":1467082345,
+    "wof:lastmodified":1491926614,
     "wof:name":"Midlands Orthopaedics",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 185888861,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 Rose Creek Ln Columbia SC 29223",
+    "addr:housenumber":"209",
+    "addr:postcode":"29223",
+    "addr:street":"Rose Creek Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.898041,34.139629,-80.898041,34.139629",
     "geom:latitude":34.139629,
     "geom:longitude":-80.898041,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"ad2604ff56cbddd9293410d24da12ea7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":185888861
         }
     ],
     "wof:id":185888861,
-    "wof:lastmodified":1467082198,
+    "wof:lastmodified":1491937798,
     "wof:name":"Gotta Dance",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

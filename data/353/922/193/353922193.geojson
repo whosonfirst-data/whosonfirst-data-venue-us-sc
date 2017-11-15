@@ -2,9 +2,14 @@
   "id": 353922193,
   "type": "Feature",
   "properties": {
+    "addr:full":"1220 S Guignard Dr Sumter SC 29150",
+    "addr:housenumber":"1220",
+    "addr:postcode":"29150",
+    "addr:street":"S Guignard Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.35042,33.88715,-80.35042,33.88715",
     "geom:latitude":33.88715,
     "geom:longitude":-80.35042,
@@ -41,19 +46,22 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688683,
+        102191575,
         85633793,
-        85688683
+        102085745
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bC91f4LHuOjBFAp3POmvp_33.887150_-80.350420@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"f209db58b3a53dbb463cd0f07841377f",
+    "wof:geomhash":"269af833135cbe74c32df0f85cbef519",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102085745,
             "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
@@ -61,7 +69,7 @@
         }
     ],
     "wof:id":353922193,
-    "wof:lastmodified":1467082214,
+    "wof:lastmodified":1494529631,
     "wof:name":"Power Clean Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

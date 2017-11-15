@@ -2,9 +2,14 @@
   "id": 353824069,
   "type": "Feature",
   "properties": {
+    "addr:full":"10204 Two Notch Rd Columbia SC 29229",
+    "addr:housenumber":"10204",
+    "addr:postcode":"29229",
+    "addr:street":"Two Notch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.878789,34.119115,-80.878789,34.119115",
     "geom:latitude":34.119115,
     "geom:longitude":-80.878789,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:brand_id":420575543,
     "wof:breaches":[],
@@ -43,17 +48,15 @@
     "wof:geomhash":"978cf8d5201816eea7e198a2e8ee6416",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":353824069
         }
     ],
     "wof:id":353824069,
-    "wof:lastmodified":1467082228,
+    "wof:lastmodified":1491937805,
     "wof:name":"Michaels Arts & Crafts Store",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

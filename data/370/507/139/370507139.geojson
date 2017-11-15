@@ -2,9 +2,14 @@
   "id": 370507139,
   "type": "Feature",
   "properties": {
+    "addr:full":"4231 W Belt Line Blvd Columbia SC 29203",
+    "addr:housenumber":"4231",
+    "addr:postcode":"29203",
+    "addr:street":"W Belt Line Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.005575,34.036739,-81.005575,34.036739",
     "geom:latitude":34.036739,
     "geom:longitude":-81.005575,
@@ -30,8 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
+        101720793,
         102085405,
+        420559207,
         85827291
     ],
     "wof:breaches":[],
@@ -42,19 +50,26 @@
     "wof:geomhash":"30d3f0938deb05d0349b3f73c8517d83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
+            "locality_id":101720793,
+            "neighbourhood_id":420559207,
+            "region_id":85688683,
+            "venue_id":370507139
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085405,
             "neighbourhood_id":85827291,
             "region_id":85688683,
             "venue_id":370507139
         }
     ],
     "wof:id":370507139,
-    "wof:lastmodified":1467082336,
+    "wof:lastmodified":1491932049,
     "wof:name":"Interstate Rent-A-Car Inc",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

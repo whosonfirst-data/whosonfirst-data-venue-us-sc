@@ -2,9 +2,14 @@
   "id": 354310877,
   "type": "Feature",
   "properties": {
+    "addr:full":"1680 Lake Murray Blvd Columbia SC 29212",
+    "addr:housenumber":"1680",
+    "addr:postcode":"29212",
+    "addr:street":"Lake Murray Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.196992,34.080655,-81.196992,34.080655",
     "geom:latitude":34.080655,
     "geom:longitude":-81.196992,
@@ -30,8 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        102085573,
+        101720795,
+        102085405,
         85827037
     ],
     "wof:breaches":[],
@@ -42,17 +49,17 @@
     "wof:geomhash":"d435a743b17c487206a7c37b3b773f19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085573,
-            "locality_id":-1,
+            "county_id":102085405,
+            "locality_id":101720795,
             "neighbourhood_id":85827037,
             "region_id":85688683,
             "venue_id":354310877
         }
     ],
     "wof:id":354310877,
-    "wof:lastmodified":1467082438,
+    "wof:lastmodified":1491926616,
     "wof:name":"Challenge Home Equity",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",

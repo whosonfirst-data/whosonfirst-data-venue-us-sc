@@ -2,9 +2,14 @@
   "id": 840068229,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 E Patricia Dr Sumter SC 29150",
+    "addr:housenumber":"22",
+    "addr:postcode":"29150",
+    "addr:street":"E Patricia Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.334933,33.891775,-80.334933,33.891775",
     "geom:latitude":33.891775,
     "geom:longitude":-80.334933,
@@ -24,17 +29,32 @@
     "sg:postcode":"29150",
     "sg:province":"SC",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688683,
+        102191575,
+        85633793,
+        102085745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5l3w6aiz1GX0w53it9bGlB_33.891775_-80.334933@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463520443,
-    "wof:geomhash":"f078ee0f0697f5bb29f6742175d01637",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51ad04a4db67f1bc082346d6e4c7ad79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085745,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688683,
+            "venue_id":840068229
+        }
+    ],
     "wof:id":840068229,
-    "wof:lastmodified":1467082505,
+    "wof:lastmodified":1494529630,
     "wof:name":"Professional Touch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

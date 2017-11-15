@@ -2,9 +2,14 @@
   "id": 840082029,
   "type": "Feature",
   "properties": {
+    "addr:full":"1108 Daisy Dr Sumter SC 29150",
+    "addr:housenumber":"1108",
+    "addr:postcode":"29150",
+    "addr:street":"Daisy Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.338683,33.891036,-80.338683,33.891036",
     "geom:latitude":33.891036,
     "geom:longitude":-80.338683,
@@ -24,17 +29,32 @@
     "sg:postcode":"29150",
     "sg:province":"SC",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688683,
+        102191575,
+        85633793,
+        102085745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dPElaywz49ciLfB6KoZUx_33.891036_-80.338683@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463520735,
-    "wof:geomhash":"c7ed4d78c32921c8a144dce5a69d69e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01b1717e3754395a88e2f2dbb940b6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085745,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688683,
+            "venue_id":840082029
+        }
+    ],
     "wof:id":840082029,
-    "wof:lastmodified":1467082515,
+    "wof:lastmodified":1494529629,
     "wof:name":"Kare 4U Childcare Ctr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

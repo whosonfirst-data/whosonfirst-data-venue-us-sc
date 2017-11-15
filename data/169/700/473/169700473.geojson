@@ -2,9 +2,14 @@
   "id": 169700473,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Basinghouse Rd Columbia SC 29212",
+    "addr:housenumber":"205",
+    "addr:postcode":"29212",
+    "addr:street":"Basinghouse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.186684,34.078545,-81.186684,34.078545",
     "geom:latitude":34.078545,
     "geom:longitude":-81.186684,
@@ -29,8 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        102085573,
+        101720795,
+        102085405,
         85827037
     ],
     "wof:breaches":[],
@@ -41,17 +48,17 @@
     "wof:geomhash":"7929f5612dfdccd5fcca06c240307318",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085573,
-            "locality_id":-1,
+            "county_id":102085405,
+            "locality_id":101720795,
             "neighbourhood_id":85827037,
             "region_id":85688683,
             "venue_id":169700473
         }
     ],
     "wof:id":169700473,
-    "wof:lastmodified":1467082387,
+    "wof:lastmodified":1491926604,
     "wof:name":"McCulley Home Improvement",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840033773,
   "type": "Feature",
   "properties": {
+    "addr:full":"4100 W Belt Line Blvd Columbia SC 29204",
+    "addr:housenumber":"4100",
+    "addr:postcode":"29204",
+    "addr:street":"W Belt Line Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.006112,34.036553,-81.006112,34.036553",
     "geom:latitude":34.036553,
     "geom:longitude":-81.006112,
@@ -31,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        85827291,
-        102085405
+        101720793,
+        102085405,
+        420559207,
+        85827291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +52,15 @@
     "wof:geomhash":"961f1d0d1ad4052e03fe958a9f06144a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":420559207,
+            "region_id":85688683,
+            "venue_id":840033773
+        },
+        {
             "country_id":85633793,
             "county_id":102085405,
             "neighbourhood_id":85827291,
@@ -52,9 +69,9 @@
         }
     ],
     "wof:id":840033773,
-    "wof:lastmodified":1467082480,
+    "wof:lastmodified":1491932037,
     "wof:name":"Colonial Woodworks Furniture",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

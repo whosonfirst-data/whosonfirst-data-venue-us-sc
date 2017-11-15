@@ -2,9 +2,14 @@
   "id": 354172585,
   "type": "Feature",
   "properties": {
+    "addr:full":"1455 S Guignard Pkwy Sumter SC 29150",
+    "addr:housenumber":"1455",
+    "addr:postcode":"29150",
+    "addr:street":"S Guignard Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.349272,33.884496,-80.349272,33.884496",
     "geom:latitude":33.884496,
     "geom:longitude":-80.349272,
@@ -25,19 +30,22 @@
     "sg:province":"SC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688683,
+        102191575,
         85633793,
-        85688683
+        102085745
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7H2xY4XKt9dbOeBMjGZXOd_33.884496_-80.349272@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"1bd1207460e369d5bf26e1f020a91629",
+    "wof:geomhash":"ebd25f43ae52a234bba88e7ed74cd39d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102085745,
             "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
@@ -45,7 +53,7 @@
         }
     ],
     "wof:id":354172585,
-    "wof:lastmodified":1467082430,
+    "wof:lastmodified":1494529631,
     "wof:name":"Greenbax Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

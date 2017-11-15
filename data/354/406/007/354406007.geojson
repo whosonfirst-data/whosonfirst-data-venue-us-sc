@@ -2,9 +2,14 @@
   "id": 354406007,
   "type": "Feature",
   "properties": {
+    "addr:full":"621 Sumter St Columbia SC 29201",
+    "addr:housenumber":"621",
+    "addr:postcode":"29201",
+    "addr:street":"Sumter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.028322,33.993634,-81.028322,33.993634",
     "geom:latitude":33.993634,
     "geom:longitude":-81.028322,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
         101720793,
-        102085405
+        102085405,
+        85876831,
+        85876825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,28 @@
     "wof:geomhash":"e014b6b2cb6b7979adc191163c514780",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
             "locality_id":101720793,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85876831,
+            "region_id":85688683,
+            "venue_id":354406007
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":85876825,
             "region_id":85688683,
             "venue_id":354406007
         }
     ],
     "wof:id":354406007,
-    "wof:lastmodified":1467082435,
+    "wof:lastmodified":1491892914,
     "wof:name":"Chemistry & Biochemistry",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

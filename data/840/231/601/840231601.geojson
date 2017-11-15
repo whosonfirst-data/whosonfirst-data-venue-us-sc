@@ -2,14 +2,20 @@
   "id": 840231601,
   "type": "Feature",
   "properties": {
+    "addr:full":"1204 N Main St Summerville SC 29483",
+    "addr:housenumber":"1204",
+    "addr:postcode":"29483",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.160163,33.035263,-80.160163,33.035263",
     "geom:latitude":33.035263,
     "geom:longitude":-80.160163,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1204 N Main St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -46,13 +52,14 @@
         102085397,
         85807361
     ],
+    "wof:brand_id":1125151305,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Z4k54UYaxo1cDN1WUlI0z_33.035263_-80.160163@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463524151,
-    "wof:geomhash":"cd597f921adb3a927b17a11775db1b86",
+    "wof:geomhash":"833afd9f5b650352aa1e31f07eeaaff6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":840231601,
-    "wof:lastmodified":1467082625,
+    "wof:lastmodified":1510693902,
     "wof:name":"Donut Connection",
     "wof:parent_id":85807361,
     "wof:placetype":"venue",

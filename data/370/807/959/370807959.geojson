@@ -2,9 +2,14 @@
   "id": 370807959,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 Aubrey St Columbia SC 29229",
+    "addr:housenumber":"113",
+    "addr:postcode":"29229",
+    "addr:street":"Aubrey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.871636,34.123875,-80.871636,34.123875",
     "geom:latitude":34.123875,
     "geom:longitude":-80.871636,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"3af1ad8695a2074e490d128af391f292",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370807959
         }
     ],
     "wof:id":370807959,
-    "wof:lastmodified":1467082317,
+    "wof:lastmodified":1491937808,
     "wof:name":"Mastercraft Auto Paint & Body",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

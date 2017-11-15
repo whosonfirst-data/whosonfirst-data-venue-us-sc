@@ -2,9 +2,14 @@
   "id": 840254891,
   "type": "Feature",
   "properties": {
+    "addr:full":"3939 W Beltline Blvd Columbia SC 29204",
+    "addr:housenumber":"3939",
+    "addr:postcode":"29204",
+    "addr:street":"W Beltline Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.011398,34.036301,-81.011398,34.036301",
     "geom:latitude":34.036301,
     "geom:longitude":-81.011398,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        85827291,
-        102085405
+        101720793,
+        102085405,
+        420559259,
+        85827291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +51,15 @@
     "wof:geomhash":"b531dddfc922da3d85dc6b41d4a173cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":840254891
+        },
+        {
             "country_id":85633793,
             "county_id":102085405,
             "neighbourhood_id":85827291,
@@ -51,9 +68,9 @@
         }
     ],
     "wof:id":840254891,
-    "wof:lastmodified":1467082642,
+    "wof:lastmodified":1491932039,
     "wof:name":"Nick's Ocean Fresh Fish & Seafood",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

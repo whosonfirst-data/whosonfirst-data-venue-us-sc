@@ -2,9 +2,14 @@
   "id": 354206271,
   "type": "Feature",
   "properties": {
+    "addr:full":"10249 Two Notch Rd Columbia SC 29229",
+    "addr:housenumber":"10249",
+    "addr:postcode":"29229",
+    "addr:street":"Two Notch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.875254,34.122382,-80.875254,34.122382",
     "geom:latitude":34.122382,
     "geom:longitude":-80.875254,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"0d23731d380d64da9cf4e6ed34d94d48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":354206271
         }
     ],
     "wof:id":354206271,
-    "wof:lastmodified":1467082442,
+    "wof:lastmodified":1491937788,
     "wof:name":"Smart Buy Auto Sales Northeast",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

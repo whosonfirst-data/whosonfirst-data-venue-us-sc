@@ -2,9 +2,14 @@
   "id": 370650805,
   "type": "Feature",
   "properties": {
+    "addr:full":"2414 Notch Rd Columbia SC 29204",
+    "addr:housenumber":"2414",
+    "addr:postcode":"29204",
+    "addr:street":"Notch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.01056,34.026446,-81.01056,34.026446",
     "geom:latitude":34.026446,
     "geom:longitude":-81.01056,
@@ -29,8 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
+        101720793,
         102085405,
+        420559259,
         85827291
     ],
     "wof:breaches":[],
@@ -41,19 +49,26 @@
     "wof:geomhash":"d4d404ed971822ceec3affc361292268",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":370650805
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085405,
             "neighbourhood_id":85827291,
             "region_id":85688683,
             "venue_id":370650805
         }
     ],
     "wof:id":370650805,
-    "wof:lastmodified":1467082344,
+    "wof:lastmodified":1491932048,
     "wof:name":"A 1 Appl Self Svc & Repair",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

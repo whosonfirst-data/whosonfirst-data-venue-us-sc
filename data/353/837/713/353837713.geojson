@@ -2,9 +2,14 @@
   "id": 353837713,
   "type": "Feature",
   "properties": {
+    "addr:full":"1702 Greene St Columbia SC 29201",
+    "addr:housenumber":"1702",
+    "addr:postcode":"29201",
+    "addr:street":"Greene St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.022112,33.998458,-81.022112,33.998458",
     "geom:latitude":33.998458,
     "geom:longitude":-81.022112,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
         101720793,
         102085405,
@@ -43,7 +49,7 @@
     "wof:geomhash":"523d0b61d34a65dbeb374fb045166fc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
             "locality_id":101720793,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353837713,
-    "wof:lastmodified":1467082218,
+    "wof:lastmodified":1491892910,
     "wof:name":"Presbyterian Students Ctr",
     "wof:parent_id":85876831,
     "wof:placetype":"venue",

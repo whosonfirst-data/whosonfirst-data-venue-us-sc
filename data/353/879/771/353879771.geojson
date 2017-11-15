@@ -2,9 +2,14 @@
   "id": 353879771,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Hampton Way Columbia SC 29229",
+    "addr:housenumber":"200",
+    "addr:postcode":"29229",
+    "addr:street":"Hampton Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.895755,34.14438,-80.895755,34.14438",
     "geom:latitude":34.14438,
     "geom:longitude":-80.895755,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"a10716d727069fafe9517faa6e8422bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":353879771
         }
     ],
     "wof:id":353879771,
-    "wof:lastmodified":1467082210,
+    "wof:lastmodified":1491937796,
     "wof:name":"BST",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

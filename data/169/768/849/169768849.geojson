@@ -2,9 +2,14 @@
   "id": 169768849,
   "type": "Feature",
   "properties": {
+    "addr:full":"1063 Manning Rd Sumter SC 29150",
+    "addr:housenumber":"1063",
+    "addr:postcode":"29150",
+    "addr:street":"Manning Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.337305,33.892434,-80.337305,33.892434",
     "geom:latitude":33.892434,
     "geom:longitude":-80.337305,
@@ -26,8 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        101721335,
         102085745
     ],
     "wof:breaches":[],
@@ -35,20 +40,20 @@
         "sg:id":"SG_0bYUq1cNC4GHVjIz2DyLhx_33.892434_-80.337305@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"1baa0e5063a111127321e5508d79678c",
+    "wof:geomhash":"5b6c7c686b97bd02e399c3a0ffa78669",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085745,
-            "locality_id":101721335,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
             "venue_id":169768849
         }
     ],
     "wof:id":169768849,
-    "wof:lastmodified":1467082381,
+    "wof:lastmodified":1494529632,
     "wof:name":"Youngs Food Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

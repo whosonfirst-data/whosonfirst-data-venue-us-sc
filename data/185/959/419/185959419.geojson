@@ -2,9 +2,14 @@
   "id": 185959419,
   "type": "Feature",
   "properties": {
+    "addr:full":"10200 Two Notch Rd Columbia SC 29229",
+    "addr:housenumber":"10200",
+    "addr:postcode":"29229",
+    "addr:street":"Two Notch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.878536,34.119321,-80.878536,34.119321",
     "geom:latitude":34.119321,
     "geom:longitude":-80.878536,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"f9c1db816e5020c8b294f6aa785ae39d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":185959419
         }
     ],
     "wof:id":185959419,
-    "wof:lastmodified":1467082205,
+    "wof:lastmodified":1491937797,
     "wof:name":"Northeast Animal Clinic",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

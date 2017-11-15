@@ -2,9 +2,14 @@
   "id": 370561741,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Haddington Dr Columbia SC 29229",
+    "addr:housenumber":"203",
+    "addr:postcode":"29229",
+    "addr:street":"Haddington Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.896588,34.143453,-80.896588,34.143453",
     "geom:latitude":34.143453,
     "geom:longitude":-80.896588,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"e3894fefa2f9b46e625900b3f2999aa7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370561741
         }
     ],
     "wof:id":370561741,
-    "wof:lastmodified":1467082351,
+    "wof:lastmodified":1491937798,
     "wof:name":"Computer Heaven",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

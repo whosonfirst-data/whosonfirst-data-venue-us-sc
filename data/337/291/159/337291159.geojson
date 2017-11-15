@@ -2,9 +2,14 @@
   "id": 337291159,
   "type": "Feature",
   "properties": {
+    "addr:full":"1380 Lake Murray Blvd Irmo SC 29063",
+    "addr:housenumber":"1380",
+    "addr:postcode":"29063",
+    "addr:street":"Lake Murray Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.186353,34.084919,-81.186353,34.084919",
     "geom:latitude":34.084919,
     "geom:longitude":-81.186353,
@@ -29,8 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        102085573,
+        101720795,
+        102085405,
         85827037
     ],
     "wof:breaches":[],
@@ -41,17 +48,17 @@
     "wof:geomhash":"5aa4b28ec5be46788e64086aab58bc93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085573,
-            "locality_id":-1,
+            "county_id":102085405,
+            "locality_id":101720795,
             "neighbourhood_id":85827037,
             "region_id":85688683,
             "venue_id":337291159
         }
     ],
     "wof:id":337291159,
-    "wof:lastmodified":1467082275,
+    "wof:lastmodified":1491926617,
     "wof:name":"Tripp's Fine Cleaners",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",

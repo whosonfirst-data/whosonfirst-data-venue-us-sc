@@ -2,9 +2,14 @@
   "id": 370342097,
   "type": "Feature",
   "properties": {
+    "addr:full":"807 Winslow Way Columbia SC 29229",
+    "addr:housenumber":"807",
+    "addr:postcode":"29229",
+    "addr:street":"Winslow Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.923968,34.148092,-80.923968,34.148092",
     "geom:latitude":34.148092,
     "geom:longitude":-80.923968,
@@ -26,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633793,
-        85688683
+        420541163,
+        85688683,
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +44,22 @@
     "wof:geomhash":"e8e873d46ee64c2722755b8897fa1028",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420541163,
+            "venue_id":370342097
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085405,
+            "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370342097
         }
     ],
     "wof:id":370342097,
-    "wof:lastmodified":1467082368,
+    "wof:lastmodified":1491937815,
     "wof:name":"Natural Choice",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

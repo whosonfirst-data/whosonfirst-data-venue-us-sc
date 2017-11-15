@@ -2,9 +2,14 @@
   "id": 370748005,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 Pendleton St Columbia SC 29201",
+    "addr:housenumber":"1201",
+    "addr:postcode":"29201",
+    "addr:street":"Pendleton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.03067,33.998981,-81.03067,33.998981",
     "geom:latitude":33.998981,
     "geom:longitude":-81.03067,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
         101720793,
-        102085405
+        102085405,
+        85876831,
+        85876825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,28 @@
     "wof:geomhash":"31cc216df4860526db430120769705ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
             "locality_id":101720793,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85876831,
+            "region_id":85688683,
+            "venue_id":370748005
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":85876825,
             "region_id":85688683,
             "venue_id":370748005
         }
     ],
     "wof:id":370748005,
-    "wof:lastmodified":1467082355,
+    "wof:lastmodified":1491892913,
     "wof:name":"South Carolina General Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

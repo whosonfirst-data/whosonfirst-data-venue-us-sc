@@ -2,9 +2,14 @@
   "id": 370627463,
   "type": "Feature",
   "properties": {
+    "addr:full":"10155 Two Notch Rd Columbia SC 29229",
+    "addr:housenumber":"10155",
+    "addr:postcode":"29229",
+    "addr:street":"Two Notch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.875525,34.122129,-80.875525,34.122129",
     "geom:latitude":34.122129,
     "geom:longitude":-80.875525,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"56c25cc8638bdd7b00b297b796ac5ea6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370627463
         }
     ],
     "wof:id":370627463,
-    "wof:lastmodified":1467082375,
+    "wof:lastmodified":1491937794,
     "wof:name":"Roof Jewelers",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

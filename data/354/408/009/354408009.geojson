@@ -2,9 +2,14 @@
   "id": 354408009,
   "type": "Feature",
   "properties": {
+    "addr:full":"7068 Nursery Rd Columbia SC 29212",
+    "addr:housenumber":"7068",
+    "addr:postcode":"29212",
+    "addr:street":"Nursery Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.194136,34.077287,-81.194136,34.077287",
     "geom:latitude":34.077287,
     "geom:longitude":-81.194136,
@@ -30,8 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        102085573,
+        101720795,
+        102085405,
         85827037
     ],
     "wof:breaches":[],
@@ -42,17 +49,17 @@
     "wof:geomhash":"37054002a367ded48a9b98c4d4d8e2a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085573,
-            "locality_id":-1,
+            "county_id":102085405,
+            "locality_id":101720795,
             "neighbourhood_id":85827037,
             "region_id":85688683,
             "venue_id":354408009
         }
     ],
     "wof:id":354408009,
-    "wof:lastmodified":1467082419,
+    "wof:lastmodified":1491926608,
     "wof:name":"First Baptist Church Of Irmo",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",

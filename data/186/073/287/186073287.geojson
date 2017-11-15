@@ -2,9 +2,14 @@
   "id": 186073287,
   "type": "Feature",
   "properties": {
+    "addr:full":"609 Cold Branch Dr Columbia SC 29223",
+    "addr:housenumber":"609",
+    "addr:postcode":"29223",
+    "addr:street":"Cold Branch Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.891529,34.135826,-80.891529,34.135826",
     "geom:latitude":34.135826,
     "geom:longitude":-80.891529,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"0a31ee20ffbf7d564814a8bace5edd07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":186073287
         }
     ],
     "wof:id":186073287,
-    "wof:lastmodified":1467082392,
+    "wof:lastmodified":1491937791,
     "wof:name":"Computer Technology Solutions",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

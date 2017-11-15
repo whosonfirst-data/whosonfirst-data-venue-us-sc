@@ -2,9 +2,14 @@
   "id": 840255365,
   "type": "Feature",
   "properties": {
+    "addr:full":"2638 Two Notch Rd Columbia SC 29204",
+    "addr:housenumber":"2638",
+    "addr:postcode":"29204",
+    "addr:street":"Two Notch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.007585,34.030045,-81.007585,34.030045",
     "geom:latitude":34.030045,
     "geom:longitude":-81.007585,
@@ -27,9 +32,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        85827291,
-        102085405
+        101720793,
+        102085405,
+        420559259,
+        85827291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,6 +48,15 @@
     "wof:geomhash":"ce9f3d5363d71180b998b8631ce66ccc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":840255365
+        },
+        {
             "country_id":85633793,
             "county_id":102085405,
             "neighbourhood_id":85827291,
@@ -48,9 +65,9 @@
         }
     ],
     "wof:id":840255365,
-    "wof:lastmodified":1467082642,
+    "wof:lastmodified":1491932045,
     "wof:name":"First Citizens",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

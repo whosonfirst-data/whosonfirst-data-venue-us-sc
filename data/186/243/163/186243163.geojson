@@ -2,9 +2,14 @@
   "id": 186243163,
   "type": "Feature",
   "properties": {
+    "addr:full":"131 Falmouth Rise Rd Columbia SC 29229",
+    "addr:housenumber":"131",
+    "addr:postcode":"29229",
+    "addr:street":"Falmouth Rise Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.888312,34.139055,-80.888312,34.139055",
     "geom:latitude":34.139055,
     "geom:longitude":-80.888312,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"315f5482ef4b1e0f647df3171cb1e841",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":186243163
         }
     ],
     "wof:id":186243163,
-    "wof:lastmodified":1467082396,
+    "wof:lastmodified":1491937794,
     "wof:name":"Elliot & Company & Appraisal",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

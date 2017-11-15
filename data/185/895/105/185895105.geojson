@@ -2,9 +2,14 @@
   "id": 185895105,
   "type": "Feature",
   "properties": {
+    "addr:full":"1199 S Guignard Dr Sumter SC 29150",
+    "addr:housenumber":"1199",
+    "addr:postcode":"29150",
+    "addr:street":"S Guignard Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.350545,33.887678,-80.350545,33.887678",
     "geom:latitude":33.887678,
     "geom:longitude":-80.350545,
@@ -31,19 +36,22 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688683,
+        102191575,
         85633793,
-        85688683
+        102085745
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ESsorRsxpLpj6RaaEguvb_33.887678_-80.350545@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"313ec34c6e1ea7053d2fc09a032deaea",
+    "wof:geomhash":"0f69125d85e648f234f0d4f5ce9db3e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102085745,
             "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
@@ -51,7 +59,7 @@
         }
     ],
     "wof:id":185895105,
-    "wof:lastmodified":1467082193,
+    "wof:lastmodified":1494529635,
     "wof:name":"Hose & Equipment Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

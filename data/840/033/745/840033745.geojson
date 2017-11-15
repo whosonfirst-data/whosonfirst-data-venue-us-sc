@@ -2,9 +2,14 @@
   "id": 840033745,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Sparkleberry Ln Columbia SC 29229",
+    "addr:housenumber":"101",
+    "addr:postcode":"29229",
+    "addr:street":"Sparkleberry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.885311,34.116213,-80.885311,34.116213",
     "geom:latitude":34.116213,
     "geom:longitude":-80.885311,
@@ -27,7 +32,15 @@
         "television"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688683,
+        85633793,
+        85897267,
+        102085405,
+        102191575,
+        101720793,
+        420541215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PYiUcrxQQcg5ceaKA6Olt_34.116213_-80.885311@1294189808"
@@ -35,11 +48,28 @@
     "wof:country":"US",
     "wof:created":1463519709,
     "wof:geomhash":"11a47e575070eb60e9c393dccc031558",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085405,
+            "neighbourhood_id":85897267,
+            "region_id":85688683,
+            "venue_id":840033745
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":420541215,
+            "region_id":85688683,
+            "venue_id":840033745
+        }
+    ],
     "wof:id":840033745,
-    "wof:lastmodified":1467082480,
+    "wof:lastmodified":1491937787,
     "wof:name":"World Vision Satellite Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

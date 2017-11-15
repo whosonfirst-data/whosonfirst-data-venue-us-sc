@@ -2,9 +2,14 @@
   "id": 840150849,
   "type": "Feature",
   "properties": {
+    "addr:full":"1850 Atlantic Dr Columbia SC 29210",
+    "addr:housenumber":"1850",
+    "addr:postcode":"29210",
+    "addr:street":"Atlantic Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.074674,34.030607,-81.074674,34.030607",
     "geom:latitude":34.030607,
     "geom:longitude":-81.074674,
@@ -29,7 +34,9 @@
         85633793,
         101721299,
         102085405,
-        85845181
+        85845181,
+        102191575,
+        85845041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,12 +53,21 @@
             "neighbourhood_id":85845181,
             "region_id":85688683,
             "venue_id":840150849
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101721299,
+            "neighbourhood_id":85845041,
+            "region_id":85688683,
+            "venue_id":840150849
         }
     ],
     "wof:id":840150849,
-    "wof:lastmodified":1467082565,
+    "wof:lastmodified":1491935039,
     "wof:name":"Broad River Twp Homeowners",
-    "wof:parent_id":85845181,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 353673383,
   "type": "Feature",
   "properties": {
+    "addr:full":"114 Big Leaf Cir Columbia SC 29229",
+    "addr:housenumber":"114",
+    "addr:postcode":"29229",
+    "addr:street":"Big Leaf Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.916744,34.147741,-80.916744,34.147741",
     "geom:latitude":34.147741,
     "geom:longitude":-80.916744,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"3e7f4e4a1e54c8337009019f43110a94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":353673383
         }
     ],
     "wof:id":353673383,
-    "wof:lastmodified":1467082230,
+    "wof:lastmodified":1491937786,
     "wof:name":"Fairfield Memorial Hosp",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370321595,
   "type": "Feature",
   "properties": {
+    "addr:full":"3815 W Belt Line Blvd Columbia SC 29203",
+    "addr:housenumber":"3815",
+    "addr:postcode":"29203",
+    "addr:street":"W Belt Line Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.016147,34.034684,-81.016147,34.034684",
     "geom:latitude":34.034684,
     "geom:longitude":-81.016147,
@@ -29,8 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
+        101720793,
         102085405,
+        420559259,
         85827291
     ],
     "wof:breaches":[],
@@ -41,19 +49,26 @@
     "wof:geomhash":"ea021ccdab07bacc106a02c61ce164ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":370321595
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085405,
             "neighbourhood_id":85827291,
             "region_id":85688683,
             "venue_id":370321595
         }
     ],
     "wof:id":370321595,
-    "wof:lastmodified":1467082300,
+    "wof:lastmodified":1491932041,
     "wof:name":"J D Byrider Of Columbia Inc",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

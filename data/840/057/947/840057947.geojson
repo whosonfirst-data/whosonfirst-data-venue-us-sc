@@ -2,9 +2,14 @@
   "id": 840057947,
   "type": "Feature",
   "properties": {
+    "addr:full":"1905 Fish Hatchery Rd West Columbia SC 29172",
+    "addr:housenumber":"1905",
+    "addr:postcode":"29172",
+    "addr:street":"Fish Hatchery Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.09248,33.920889,-81.09248,33.920889",
     "geom:latitude":33.920889,
     "geom:longitude":-81.09248,
@@ -27,7 +32,14 @@
         "special"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688683,
+        102191575,
+        85633793,
+        101721003,
+        102085573,
+        85841951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gb7sHupR9yPF5k9XJwnWf_33.920889_-81.092480@1294189808"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1463520220,
     "wof:geomhash":"da2957e2cf8d21b65469a3a40da67203",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085573,
+            "locality_id":101721003,
+            "neighbourhood_id":85841951,
+            "region_id":85688683,
+            "venue_id":840057947
+        }
+    ],
     "wof:id":840057947,
-    "wof:lastmodified":1467082497,
+    "wof:lastmodified":1491895827,
     "wof:name":"Fish Hatchery Road Self Stor",
-    "wof:parent_id":-1,
+    "wof:parent_id":85841951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

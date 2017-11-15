@@ -2,9 +2,14 @@
   "id": 353744489,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 Brent St Sumter SC 29150",
+    "addr:housenumber":"350",
+    "addr:postcode":"29150",
+    "addr:street":"Brent St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.324846,33.896828,-80.324846,33.896828",
     "geom:latitude":33.896828,
     "geom:longitude":-80.324846,
@@ -29,8 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        101721335,
         102085745
     ],
     "wof:breaches":[],
@@ -38,20 +43,20 @@
         "sg:id":"SG_2NaRDyovE8lblcrHnLluV8_33.896828_-80.324846@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"411eba9213bf7e8968879923decdda6b",
+    "wof:geomhash":"e74572586b7ee2af9a610137bfb34fdc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085745,
-            "locality_id":101721335,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
             "venue_id":353744489
         }
     ],
     "wof:id":353744489,
-    "wof:lastmodified":1467082228,
+    "wof:lastmodified":1494529627,
     "wof:name":"House Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

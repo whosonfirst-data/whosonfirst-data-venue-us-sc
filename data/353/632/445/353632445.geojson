@@ -2,9 +2,14 @@
   "id": 353632445,
   "type": "Feature",
   "properties": {
+    "addr:full":"4429 Hard Scrabble Rd Columbia SC 29223",
+    "addr:housenumber":"4429",
+    "addr:postcode":"29223",
+    "addr:street":"Hard Scrabble Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.911802,34.144681,-80.911802,34.144681",
     "geom:latitude":34.144681,
     "geom:longitude":-80.911802,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:brand_id":420575149,
     "wof:breaches":[],
@@ -43,17 +48,15 @@
     "wof:geomhash":"4fe71614d3b589cb3d0403e8689e5618",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":353632445
         }
     ],
     "wof:id":353632445,
-    "wof:lastmodified":1467082243,
+    "wof:lastmodified":1491937805,
     "wof:name":"Meineke Car Care Ctr",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

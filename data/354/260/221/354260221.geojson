@@ -2,9 +2,14 @@
   "id": 354260221,
   "type": "Feature",
   "properties": {
+    "addr:full":"320 Squire Rd Columbia SC 29223",
+    "addr:housenumber":"320",
+    "addr:postcode":"29223",
+    "addr:street":"Squire Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.917744,34.125269,-80.917744,34.125269",
     "geom:latitude":34.125269,
     "geom:longitude":-80.917744,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"6a256fb5556e9c0c1123d30d460ce746",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":354260221
         }
     ],
     "wof:id":354260221,
-    "wof:lastmodified":1467082421,
+    "wof:lastmodified":1491937813,
     "wof:name":"Basden Painting & Roofing",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

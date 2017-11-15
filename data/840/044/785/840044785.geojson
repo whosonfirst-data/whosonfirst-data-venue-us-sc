@@ -2,9 +2,14 @@
   "id": 840044785,
   "type": "Feature",
   "properties": {
+    "addr:full":"1361 Pocalla Rd Sumter SC 29150",
+    "addr:housenumber":"1361",
+    "addr:postcode":"29150",
+    "addr:street":"Pocalla Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.349618,33.883068,-80.349618,33.883068",
     "geom:latitude":33.883068,
     "geom:longitude":-80.349618,
@@ -28,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688683,
+        102191575,
+        85633793,
+        102085745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YXtwZfGI5SRAd2cL3zHrR_33.883068_-80.349618@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463519942,
-    "wof:geomhash":"c0f32d0b52f12d9b6e65bb988c1a8f17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6294a5ffaf0d1a6f05a1ea8016de2cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085745,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688683,
+            "venue_id":840044785
+        }
+    ],
     "wof:id":840044785,
-    "wof:lastmodified":1467082487,
+    "wof:lastmodified":1494529628,
     "wof:name":"Neal Brothers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 185900297,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Chipwood Ct Irmo SC 29063",
+    "addr:housenumber":"700",
+    "addr:postcode":"29063",
+    "addr:street":"Chipwood Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.187831,34.086934,-81.187831,34.086934",
     "geom:latitude":34.086934,
     "geom:longitude":-81.187831,
@@ -30,8 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        102085573,
+        101720795,
+        102085405,
         85827037
     ],
     "wof:breaches":[],
@@ -42,17 +49,17 @@
     "wof:geomhash":"8dfbd0c93b40c3bc1293eb1418d670b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085573,
-            "locality_id":-1,
+            "county_id":102085405,
+            "locality_id":101720795,
             "neighbourhood_id":85827037,
             "region_id":85688683,
             "venue_id":185900297
         }
     ],
     "wof:id":185900297,
-    "wof:lastmodified":1467082193,
+    "wof:lastmodified":1491926605,
     "wof:name":"Irmo Village Apartments",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337353611,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 Sumter St Columbia SC 29201",
+    "addr:housenumber":"901",
+    "addr:postcode":"29201",
+    "addr:street":"Sumter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.030277,33.99807,-81.030277,33.99807",
     "geom:latitude":33.99807,
     "geom:longitude":-81.030277,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
         101720793,
-        102085405
+        102085405,
+        85876831,
+        85876825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,28 @@
     "wof:geomhash":"d2c608978513083ffcbfe8405fd859ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
             "locality_id":101720793,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85876831,
+            "region_id":85688683,
+            "venue_id":337353611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":85876825,
             "region_id":85688683,
             "venue_id":337353611
         }
     ],
     "wof:id":337353611,
-    "wof:lastmodified":1467082274,
+    "wof:lastmodified":1491892916,
     "wof:name":"Judical Programs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

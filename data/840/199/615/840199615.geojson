@@ -2,9 +2,14 @@
   "id": 840199615,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Dovecreek Columbia SC 29229",
+    "addr:housenumber":"40",
+    "addr:postcode":"29229",
+    "addr:street":"Dovecreek",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.889066,34.15006,-80.889066,34.15006",
     "geom:latitude":34.15006,
     "geom:longitude":-80.889066,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420541141,
+        85688683,
+        85897267,
+        102085405
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aD3ZXL5ZZVWi28SDA3U1v_34.150060_-80.889066@1294189808"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1463523319,
     "wof:geomhash":"f4510c8cd3b5cb42a78ae2215337e581",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420541141,
+            "venue_id":840199615
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085405,
+            "neighbourhood_id":85897267,
+            "region_id":85688683,
+            "venue_id":840199615
+        }
+    ],
     "wof:id":840199615,
-    "wof:lastmodified":1467082600,
+    "wof:lastmodified":1491937816,
     "wof:name":"Jenkins Electrical Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

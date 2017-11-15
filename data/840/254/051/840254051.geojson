@@ -2,9 +2,14 @@
   "id": 840254051,
   "type": "Feature",
   "properties": {
+    "addr:full":"2538 Two Notch Rd Columbia SC 29204",
+    "addr:housenumber":"2538",
+    "addr:postcode":"29204",
+    "addr:street":"Two Notch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.008797,34.028702,-81.008797,34.028702",
     "geom:latitude":34.028702,
     "geom:longitude":-81.008797,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        85827291,
-        102085405
+        101720793,
+        102085405,
+        420559259,
+        85827291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,6 +47,15 @@
     "wof:geomhash":"8051fe5d39e52c9a73544f9b0063214e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":840254051
+        },
+        {
             "country_id":85633793,
             "county_id":102085405,
             "neighbourhood_id":85827291,
@@ -47,9 +64,9 @@
         }
     ],
     "wof:id":840254051,
-    "wof:lastmodified":1467082641,
+    "wof:lastmodified":1491932044,
     "wof:name":"Li'l Cricket Food Stores",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

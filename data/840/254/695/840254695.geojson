@@ -2,9 +2,14 @@
   "id": 840254695,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600A Barhamville Rd Columbia SC 29204",
+    "addr:housenumber":"2600a",
+    "addr:postcode":"29204",
+    "addr:street":"Barhamville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.014838,34.030816,-81.014838,34.030816",
     "geom:latitude":34.030816,
     "geom:longitude":-81.014838,
@@ -31,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        85827291,
-        102085405
+        101720793,
+        102085405,
+        420559259,
+        85827291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +52,15 @@
     "wof:geomhash":"cd1329f049f2cc9a90fbb464b1963e2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":840254695
+        },
+        {
             "country_id":85633793,
             "county_id":102085405,
             "neighbourhood_id":85827291,
@@ -52,9 +69,9 @@
         }
     ],
     "wof:id":840254695,
-    "wof:lastmodified":1467082642,
+    "wof:lastmodified":1491932045,
     "wof:name":"Richland County Schools",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

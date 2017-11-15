@@ -2,9 +2,14 @@
   "id": 337321181,
   "type": "Feature",
   "properties": {
+    "addr:full":"1152 Pocalla Rd Sumter SC 29150",
+    "addr:housenumber":"1152",
+    "addr:postcode":"29150",
+    "addr:street":"Pocalla Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.345508,33.888263,-80.345508,33.888263",
     "geom:latitude":33.888263,
     "geom:longitude":-80.345508,
@@ -25,19 +30,22 @@
     "sg:province":"SC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688683,
+        102191575,
         85633793,
-        85688683
+        102085745
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55KxYf9Wgamdz2clux7Gdl_33.888263_-80.345508@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"83cd12f53c941cd5c7afb1bf5780fc9a",
+    "wof:geomhash":"440e0d38190f254d8fe788abe0e1f6ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102085745,
             "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
@@ -45,7 +53,7 @@
         }
     ],
     "wof:id":337321181,
-    "wof:lastmodified":1467082265,
+    "wof:lastmodified":1494529634,
     "wof:name":"Bob's Appliance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

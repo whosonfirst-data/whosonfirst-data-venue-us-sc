@@ -2,9 +2,14 @@
   "id": 354264599,
   "type": "Feature",
   "properties": {
+    "addr:full":"229 Springwater Dr Columbia SC 29223",
+    "addr:housenumber":"229",
+    "addr:postcode":"29223",
+    "addr:street":"Springwater Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.888119,34.128309,-80.888119,34.128309",
     "geom:latitude":34.128309,
     "geom:longitude":-80.888119,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"e85e7781541f3442742ea81b7aab1f21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":354264599
         }
     ],
     "wof:id":354264599,
-    "wof:lastmodified":1467082441,
+    "wof:lastmodified":1491937810,
     "wof:name":"Pricebyte Computer",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370739413,
   "type": "Feature",
   "properties": {
+    "addr:full":"728 Greensprings Dr Columbia SC 29223",
+    "addr:housenumber":"728",
+    "addr:postcode":"29223",
+    "addr:street":"Greensprings Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.90099,34.129913,-80.90099,34.129913",
     "geom:latitude":34.129913,
     "geom:longitude":-80.90099,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"17be4934d446a7ccd53810ce0fec2c6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370739413
         }
     ],
     "wof:id":370739413,
-    "wof:lastmodified":1467082330,
+    "wof:lastmodified":1491937804,
     "wof:name":"Its For You",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

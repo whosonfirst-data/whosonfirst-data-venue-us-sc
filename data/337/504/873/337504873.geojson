@@ -2,9 +2,14 @@
   "id": 337504873,
   "type": "Feature",
   "properties": {
+    "addr:full":"728 Pickens St Columbia SC 29201",
+    "addr:housenumber":"728",
+    "addr:postcode":"29201",
+    "addr:street":"Pickens St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.024142,33.996064,-81.024142,33.996064",
     "geom:latitude":33.996064,
     "geom:longitude":-81.024142,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
         101720793,
         102085405,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5c545f3b4324c967ddacb5f0c9ea6f37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
             "locality_id":101720793,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":337504873,
-    "wof:lastmodified":1467082270,
+    "wof:lastmodified":1491892913,
     "wof:name":"Wesley Foundation",
     "wof:parent_id":85876831,
     "wof:placetype":"venue",

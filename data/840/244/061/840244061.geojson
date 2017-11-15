@@ -2,9 +2,14 @@
   "id": 840244061,
   "type": "Feature",
   "properties": {
+    "addr:full":"2427 Fish Hatchery Rd West Columbia SC 29172",
+    "addr:housenumber":"2427",
+    "addr:postcode":"29172",
+    "addr:street":"Fish Hatchery Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.096284,33.918763,-81.096284,33.918763",
     "geom:latitude":33.918763,
     "geom:longitude":-81.096284,
@@ -25,7 +30,14 @@
     "sg:province":"SC",
     "sg:website":"healthsourcecayce.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688683,
+        102191575,
+        85633793,
+        101721003,
+        102085573,
+        85841951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nvdEhxeN18qIRggqi4GHL_33.918763_-81.096284@1303262566"
@@ -33,11 +45,21 @@
     "wof:country":"US",
     "wof:created":1463524451,
     "wof:geomhash":"fa2a24b948a8937b86c79cc3a1ab0e7e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085573,
+            "locality_id":101721003,
+            "neighbourhood_id":85841951,
+            "region_id":85688683,
+            "venue_id":840244061
+        }
+    ],
     "wof:id":840244061,
-    "wof:lastmodified":1467082634,
+    "wof:lastmodified":1491895828,
     "wof:name":"HealthSource of Cayce",
-    "wof:parent_id":-1,
+    "wof:parent_id":85841951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

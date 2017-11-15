@@ -2,9 +2,14 @@
   "id": 840090811,
   "type": "Feature",
   "properties": {
+    "addr:full":"1136 Pocalla Rd Sumter SC 29150",
+    "addr:housenumber":"1136",
+    "addr:postcode":"29150",
+    "addr:street":"Pocalla Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.344831,33.888813,-80.344831,33.888813",
     "geom:latitude":33.888813,
     "geom:longitude":-80.344831,
@@ -28,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688683,
+        102191575,
+        85633793,
+        102085745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fgG1OBlsx38exEHy8GvTo_33.888813_-80.344831@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463521037,
-    "wof:geomhash":"a5f5bdf1e85bde376395aed7d19e89bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8eb5c4cc6b059db1e848091fccb04326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085745,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688683,
+            "venue_id":840090811
+        }
+    ],
     "wof:id":840090811,
-    "wof:lastmodified":1467082521,
+    "wof:lastmodified":1494529629,
     "wof:name":"Butler Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

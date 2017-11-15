@@ -2,9 +2,14 @@
   "id": 370523309,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Valley Springs Rd Columbia SC 29223",
+    "addr:housenumber":"200",
+    "addr:postcode":"29223",
+    "addr:street":"Valley Springs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.902538,34.116673,-80.902538,34.116673",
     "geom:latitude":34.116673,
     "geom:longitude":-80.902538,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"4325d7b5f7cc1bf1a24cc05c357379b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370523309
         }
     ],
     "wof:id":370523309,
-    "wof:lastmodified":1467082341,
+    "wof:lastmodified":1491937798,
     "wof:name":"Statewide Property Management",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

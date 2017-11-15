@@ -2,14 +2,20 @@
   "id": 840118073,
   "type": "Feature",
   "properties": {
+    "addr:full":"1063 Manning Rd Sumter SC 29150",
+    "addr:housenumber":"1063",
+    "addr:postcode":"29150",
+    "addr:street":"Manning Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.337305,33.892434,-80.337305,33.892434",
     "geom:latitude":33.892434,
     "geom:longitude":-80.337305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1063 Manning Rd",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -27,17 +33,33 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688683,
+        102191575,
+        85633793,
+        102085745
+    ],
+    "wof:brand_id":1125156837,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NL3uzMW682SrLkHZ5qu80_33.892434_-80.337305@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463521599,
-    "wof:geomhash":"1baa0e5063a111127321e5508d79678c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b6c7c686b97bd02e399c3a0ffa78669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085745,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688683,
+            "venue_id":840118073
+        }
+    ],
     "wof:id":840118073,
-    "wof:lastmodified":1467082541,
+    "wof:lastmodified":1510693841,
     "wof:name":"Scientific Games Intl Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

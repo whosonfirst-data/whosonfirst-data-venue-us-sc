@@ -2,9 +2,14 @@
   "id": 185980529,
   "type": "Feature",
   "properties": {
+    "addr:full":"4242 Mountain Dr Columbia SC 29203",
+    "addr:housenumber":"4242",
+    "addr:postcode":"29203",
+    "addr:street":"Mountain Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.061475,34.038721,-81.061475,34.038721",
     "geom:latitude":34.038721,
     "geom:longitude":-81.061475,
@@ -43,7 +48,6 @@
     "wof:geomhash":"57f0b674eeb5b224b2ce29b0d3d6c750",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
             "locality_id":101721299,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":185980529,
-    "wof:lastmodified":1467082184,
+    "wof:lastmodified":1491935042,
     "wof:name":"Goldcoast Productions",
     "wof:parent_id":85845181,
     "wof:placetype":"venue",

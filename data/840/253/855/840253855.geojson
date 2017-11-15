@@ -2,9 +2,14 @@
   "id": 840253855,
   "type": "Feature",
   "properties": {
+    "addr:full":"3933 W Beltline Blvd Columbia SC 29204",
+    "addr:housenumber":"3933",
+    "addr:postcode":"29204",
+    "addr:street":"W Beltline Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.012088,34.036051,-81.012088,34.036051",
     "geom:latitude":34.036051,
     "geom:longitude":-81.012088,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        85827291,
-        102085405
+        101720793,
+        102085405,
+        420559259,
+        85827291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,6 +47,15 @@
     "wof:geomhash":"0d26cef7b6bf97c18ef12cbd86e58ffb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":840253855
+        },
+        {
             "country_id":85633793,
             "county_id":102085405,
             "neighbourhood_id":85827291,
@@ -47,9 +64,9 @@
         }
     ],
     "wof:id":840253855,
-    "wof:lastmodified":1467082641,
+    "wof:lastmodified":1491932041,
     "wof:name":"Manning Import & Repair",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

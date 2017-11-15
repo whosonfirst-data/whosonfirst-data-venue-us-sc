@@ -2,9 +2,14 @@
   "id": 353821183,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Thames Valley Rd Irmo SC 29063",
+    "addr:housenumber":"15",
+    "addr:postcode":"29063",
+    "addr:street":"Thames Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.186995,34.089025,-81.186995,34.089025",
     "geom:latitude":34.089025,
     "geom:longitude":-81.186995,
@@ -30,8 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        102085573,
+        101720795,
+        102085405,
         85827037
     ],
     "wof:breaches":[],
@@ -42,17 +49,17 @@
     "wof:geomhash":"e975dbf7e35a4ca1adf2cdc147dfdfb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085573,
-            "locality_id":-1,
+            "county_id":102085405,
+            "locality_id":101720795,
             "neighbourhood_id":85827037,
             "region_id":85688683,
             "venue_id":353821183
         }
     ],
     "wof:id":353821183,
-    "wof:lastmodified":1467082238,
+    "wof:lastmodified":1491926613,
     "wof:name":"Fishman & Assoc",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",

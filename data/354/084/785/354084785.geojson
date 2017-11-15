@@ -2,9 +2,14 @@
   "id": 354084785,
   "type": "Feature",
   "properties": {
+    "addr:full":"2408 Notch Rd Columbia SC 29204",
+    "addr:housenumber":"",
+    "addr:postcode":"2408;29204",
+    "addr:street":"Notch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.010463,34.026616,-81.010463,34.026616",
     "geom:latitude":34.026616,
     "geom:longitude":-81.010463,
@@ -30,8 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
+        101720793,
         102085405,
+        420559259,
         85827291
     ],
     "wof:breaches":[],
@@ -42,19 +50,26 @@
     "wof:geomhash":"02b575793d1d5f975db5591c11755232",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":354084785
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085405,
             "neighbourhood_id":85827291,
             "region_id":85688683,
             "venue_id":354084785
         }
     ],
     "wof:id":354084785,
-    "wof:lastmodified":1467082419,
+    "wof:lastmodified":1491932041,
     "wof:name":"Dee Bee's Discount Nurses",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

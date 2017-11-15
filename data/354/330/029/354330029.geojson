@@ -2,9 +2,14 @@
   "id": 354330029,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Horse Guards Ln Columbia SC 29229",
+    "addr:housenumber":"101",
+    "addr:postcode":"29229",
+    "addr:street":"Horse Guards Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.895496,34.136997,-80.895496,34.136997",
     "geom:latitude":34.136997,
     "geom:longitude":-80.895496,
@@ -33,8 +38,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +49,15 @@
     "wof:geomhash":"512380a76f5b08967546ab81e5bcf6cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":354330029
         }
     ],
     "wof:id":354330029,
-    "wof:lastmodified":1467082434,
+    "wof:lastmodified":1491937809,
     "wof:name":"A J Heating Air Conditioning",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370701127,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Summit Pkwy Columbia SC 29229",
+    "addr:housenumber":"100",
+    "addr:postcode":"29229",
+    "addr:street":"Summit Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.881806,34.140846,-80.881806,34.140846",
     "geom:latitude":34.140846,
     "geom:longitude":-80.881806,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"6ea6fb2c46472beee7950388c2e88c52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370701127
         }
     ],
     "wof:id":370701127,
-    "wof:lastmodified":1467082358,
+    "wof:lastmodified":1491937804,
     "wof:name":"Woodhaven At The Summit",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

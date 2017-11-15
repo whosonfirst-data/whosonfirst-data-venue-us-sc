@@ -2,9 +2,14 @@
   "id": 840035895,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Earle St Sumter SC 29150",
+    "addr:housenumber":"29",
+    "addr:postcode":"29150",
+    "addr:street":"Earle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.33724,33.898234,-80.33724,33.898234",
     "geom:latitude":33.898234,
     "geom:longitude":-80.33724,
@@ -27,17 +32,32 @@
         "shuttle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688683,
+        102191575,
+        85633793,
+        102085745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4O2oXGSDSywKwWHmutAy8x_33.898234_-80.337240@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463519748,
-    "wof:geomhash":"5ace856c986a527af0f918ed057bb755",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4cc677effcbb5dcd0f4fe18e2b714ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085745,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688683,
+            "venue_id":840035895
+        }
+    ],
     "wof:id":840035895,
-    "wof:lastmodified":1467082481,
+    "wof:lastmodified":1494529633,
     "wof:name":"Zimco Transportation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

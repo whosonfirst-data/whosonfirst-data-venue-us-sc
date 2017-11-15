@@ -2,9 +2,14 @@
   "id": 840260039,
   "type": "Feature",
   "properties": {
+    "addr:full":"PO Box 4156 Columbia SC 29240",
+    "addr:housenumber":"po",
+    "addr:postcode":"29240",
+    "addr:street":"Box 4156",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.007004,34.030701,-81.007004,34.030701",
     "geom:latitude":34.030701,
     "geom:longitude":-81.007004,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        85827291,
-        102085405
+        101720793,
+        102085405,
+        420559259,
+        85827291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +51,15 @@
     "wof:geomhash":"0cf4705c0d11c990e2d639dc46c22b6a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":840260039
+        },
+        {
             "country_id":85633793,
             "county_id":102085405,
             "neighbourhood_id":85827291,
@@ -51,9 +68,9 @@
         }
     ],
     "wof:id":840260039,
-    "wof:lastmodified":1467082646,
+    "wof:lastmodified":1491932048,
     "wof:name":"Davis Paint & Body Shop",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

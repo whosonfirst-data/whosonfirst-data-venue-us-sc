@@ -2,9 +2,14 @@
   "id": 353637799,
   "type": "Feature",
   "properties": {
+    "addr:full":"10145 Two Notch Rd Columbia SC 29229",
+    "addr:housenumber":"10145",
+    "addr:postcode":"29229",
+    "addr:street":"Two Notch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.881186,34.117929,-80.881186,34.117929",
     "geom:latitude":34.117929,
     "geom:longitude":-80.881186,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"71c5afdac477483c0911a718c6cb3b44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":353637799
         }
     ],
     "wof:id":353637799,
-    "wof:lastmodified":1467082210,
+    "wof:lastmodified":1491937796,
     "wof:name":"Crushing & Screening Div",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

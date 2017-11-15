@@ -2,9 +2,14 @@
   "id": 353469937,
   "type": "Feature",
   "properties": {
+    "addr:full":"1637 Lake Murray Blvd Columbia SC 29212",
+    "addr:housenumber":"1637",
+    "addr:postcode":"29212",
+    "addr:street":"Lake Murray Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.193676,34.081712,-81.193676,34.081712",
     "geom:latitude":34.081712,
     "geom:longitude":-81.193676,
@@ -26,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        102085573,
+        101720795,
+        102085405,
         85827037
     ],
     "wof:breaches":[],
@@ -38,17 +45,17 @@
     "wof:geomhash":"880da76fa58fa8641b43fb1274fbd778",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085573,
-            "locality_id":-1,
+            "county_id":102085405,
+            "locality_id":101720795,
             "neighbourhood_id":85827037,
             "region_id":85688683,
             "venue_id":353469937
         }
     ],
     "wof:id":353469937,
-    "wof:lastmodified":1467082263,
+    "wof:lastmodified":1491926613,
     "wof:name":"Carolina Landscape Supply Inc",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",

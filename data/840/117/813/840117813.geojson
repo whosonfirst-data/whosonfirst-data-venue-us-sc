@@ -2,9 +2,14 @@
   "id": 840117813,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 E Newberry Ave Sumter SC 29150",
+    "addr:housenumber":"25",
+    "addr:postcode":"29150",
+    "addr:street":"E Newberry Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.3394,33.899051,-80.3394,33.899051",
     "geom:latitude":33.899051,
     "geom:longitude":-80.3394,
@@ -27,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688683,
+        102191575,
+        85633793,
+        102085745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xl4iQW5RZDStSM54lONwN_33.899051_-80.339400@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463521590,
-    "wof:geomhash":"f11ca31f0f970e9c28939e6d68faf129",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8740151f0170619aca8e6405aaadfa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085745,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688683,
+            "venue_id":840117813
+        }
+    ],
     "wof:id":840117813,
-    "wof:lastmodified":1467082541,
+    "wof:lastmodified":1494529630,
     "wof:name":"Maranatha SDA Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

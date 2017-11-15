@@ -2,9 +2,14 @@
   "id": 370406735,
   "type": "Feature",
   "properties": {
+    "addr:full":"3923 W Belt Line Blvd Columbia SC 29203",
+    "addr:housenumber":"3923",
+    "addr:postcode":"29203",
+    "addr:street":"W Belt Line Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.012757,34.035704,-81.012757,34.035704",
     "geom:latitude":34.035704,
     "geom:longitude":-81.012757,
@@ -26,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
+        101720793,
         102085405,
+        420559259,
         85827291
     ],
     "wof:breaches":[],
@@ -38,19 +46,26 @@
     "wof:geomhash":"64c878fb787ca5878ac90f3a5868b4a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":370406735
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085405,
             "neighbourhood_id":85827291,
             "region_id":85688683,
             "venue_id":370406735
         }
     ],
     "wof:id":370406735,
-    "wof:lastmodified":1467082338,
+    "wof:lastmodified":1491932041,
     "wof:name":"Keenan Energy Co",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

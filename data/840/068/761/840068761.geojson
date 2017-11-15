@@ -2,9 +2,14 @@
   "id": 840068761,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Northlake Rd Columbia SC 29223",
+    "addr:housenumber":"100",
+    "addr:postcode":"29223",
+    "addr:street":"Northlake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.918301,34.113313,-80.918301,34.113313",
     "geom:latitude":34.113313,
     "geom:longitude":-80.918301,
@@ -31,7 +36,8 @@
         85688683,
         85633793,
         85897267,
-        102085405
+        102085405,
+        420541131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +53,17 @@
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":840068761
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420541131,
+            "venue_id":840068761
         }
     ],
     "wof:id":840068761,
-    "wof:lastmodified":1467082505,
+    "wof:lastmodified":1491937789,
     "wof:name":"Joseph Keels",
-    "wof:parent_id":85897267,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

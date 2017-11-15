@@ -2,9 +2,14 @@
   "id": 185672433,
   "type": "Feature",
   "properties": {
+    "addr:full":"1256 Manning Rd Sumter SC 29150",
+    "addr:housenumber":"1256",
+    "addr:postcode":"29150",
+    "addr:street":"Manning Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.335963,33.88364,-80.335963,33.88364",
     "geom:latitude":33.88364,
     "geom:longitude":-80.335963,
@@ -30,19 +35,22 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688683,
+        102191575,
         85633793,
-        85688683
+        102085745
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4npx6UiI5nMswKUlXTdYl1_33.883640_-80.335963@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"0612a6bb2b82944965b902d74e403f44",
+    "wof:geomhash":"2bea2d3625945edfe7fb53ec0f8c7f87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102085745,
             "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":185672433,
-    "wof:lastmodified":1467082184,
+    "wof:lastmodified":1494529631,
     "wof:name":"Sumter Telephone Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

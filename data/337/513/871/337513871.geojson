@@ -2,9 +2,14 @@
   "id": 337513871,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 Gervais St Columbia SC 29204",
+    "addr:housenumber":"1600",
+    "addr:postcode":"29204",
+    "addr:street":"Gervais St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.025528,34.003773,-81.025528,34.003773",
     "geom:latitude":34.003773,
     "geom:longitude":-81.025528,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
         101720793,
         102085405,
@@ -42,7 +48,7 @@
     "wof:geomhash":"1decf754a9bb4e489da14f53f7f5c910",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
             "locality_id":101720793,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":337513871,
-    "wof:lastmodified":1467082286,
+    "wof:lastmodified":1491892911,
     "wof:name":"Palmetto Policy Group",
     "wof:parent_id":85876831,
     "wof:placetype":"venue",

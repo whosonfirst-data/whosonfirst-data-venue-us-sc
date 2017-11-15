@@ -2,9 +2,14 @@
   "id": 185716713,
   "type": "Feature",
   "properties": {
+    "addr:full":"2116 Clemson Rd Columbia SC 29229",
+    "addr:housenumber":"2116",
+    "addr:postcode":"29229",
+    "addr:street":"Clemson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.913293,34.14001,-80.913293,34.14001",
     "geom:latitude":34.14001,
     "geom:longitude":-80.913293,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"f34c466d2cac448fbe8e06ca8600241d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":185716713
         }
     ],
     "wof:id":185716713,
-    "wof:lastmodified":1467082186,
+    "wof:lastmodified":1491937812,
     "wof:name":"Pet Friends",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

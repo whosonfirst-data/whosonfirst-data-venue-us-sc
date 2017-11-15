@@ -2,9 +2,14 @@
   "id": 354322185,
   "type": "Feature",
   "properties": {
+    "addr:full":"1850 Atlantic Dr Columbia SC 29210",
+    "addr:housenumber":"1850",
+    "addr:postcode":"29210",
+    "addr:street":"Atlantic Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.074674,34.030607,-81.074674,34.030607",
     "geom:latitude":34.030607,
     "geom:longitude":-81.074674,
@@ -25,8 +30,13 @@
     "sg:province":"SC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688683,
         85633793,
-        85688683
+        101721299,
+        102085405,
+        85845181,
+        102191575,
+        85845041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +46,27 @@
     "wof:geomhash":"c54c3da33edc1f940eee3a0d0958dd32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102085405,
+            "locality_id":101721299,
+            "neighbourhood_id":85845181,
+            "region_id":85688683,
+            "venue_id":354322185
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101721299,
+            "neighbourhood_id":85845041,
             "region_id":85688683,
             "venue_id":354322185
         }
     ],
     "wof:id":354322185,
-    "wof:lastmodified":1467082414,
+    "wof:lastmodified":1491935039,
     "wof:name":"Realty Pros",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

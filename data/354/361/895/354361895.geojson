@@ -2,9 +2,14 @@
   "id": 354361895,
   "type": "Feature",
   "properties": {
+    "addr:full":"1935 Valley View Rd West Columbia SC 29172",
+    "addr:housenumber":"1935",
+    "addr:postcode":"29172",
+    "addr:street":"Valley View Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.090351,33.918011,-81.090351,33.918011",
     "geom:latitude":33.918011,
     "geom:longitude":-81.090351,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
         101721003,
         102085573,
@@ -46,7 +52,7 @@
     "wof:geomhash":"bcde9b81720edd41ca909788cff992b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085573,
             "locality_id":101721003,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":354361895,
-    "wof:lastmodified":1467082443,
+    "wof:lastmodified":1491895827,
     "wof:name":"Jot",
     "wof:parent_id":85841951,
     "wof:placetype":"venue",

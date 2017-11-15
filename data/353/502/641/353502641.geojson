@@ -2,9 +2,14 @@
   "id": 353502641,
   "type": "Feature",
   "properties": {
+    "addr:full":"313 Dove Ridge Rd Columbia SC 29223",
+    "addr:housenumber":"313",
+    "addr:postcode":"29223",
+    "addr:street":"Dove Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.896847,34.12793,-80.896847,34.12793",
     "geom:latitude":34.12793,
     "geom:longitude":-80.896847,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"2248007b8411933944f8dba087ec652a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":353502641
         }
     ],
     "wof:id":353502641,
-    "wof:lastmodified":1467082234,
+    "wof:lastmodified":1491937802,
     "wof:name":"Progressive Services Ent Inc",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

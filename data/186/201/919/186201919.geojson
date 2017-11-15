@@ -2,9 +2,14 @@
   "id": 186201919,
   "type": "Feature",
   "properties": {
+    "addr:full":"262 Kingsbury Dr Sumter SC 29150",
+    "addr:housenumber":"262",
+    "addr:postcode":"29150",
+    "addr:street":"Kingsbury Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.348794,33.889291,-80.348794,33.889291",
     "geom:latitude":33.889291,
     "geom:longitude":-80.348794,
@@ -28,19 +33,22 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688683,
+        102191575,
         85633793,
-        85688683
+        102085745
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_696SiT3DwLW7AJZoGUNV6O_33.889291_-80.348794@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"57c2d28606fc5874904a0a13495b56bf",
+    "wof:geomhash":"621aec7d0adbb8b313b679f3b3c66c6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102085745,
             "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
@@ -48,7 +56,7 @@
         }
     ],
     "wof:id":186201919,
-    "wof:lastmodified":1467082409,
+    "wof:lastmodified":1494529629,
     "wof:name":"Vico Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

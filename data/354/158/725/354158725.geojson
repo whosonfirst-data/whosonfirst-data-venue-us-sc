@@ -2,9 +2,14 @@
   "id": 354158725,
   "type": "Feature",
   "properties": {
+    "addr:full":"1412 Kingston Rd Columbia SC 29204",
+    "addr:housenumber":"1412",
+    "addr:postcode":"29204",
+    "addr:street":"Kingston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.003216,34.030242,-81.003216,34.030242",
     "geom:latitude":34.030242,
     "geom:longitude":-81.003216,
@@ -29,8 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
+        101720793,
         102085405,
+        420559259,
         85827291
     ],
     "wof:breaches":[],
@@ -41,19 +49,26 @@
     "wof:geomhash":"432e824197ddf68167477bb14f2af08c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":354158725
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085405,
             "neighbourhood_id":85827291,
             "region_id":85688683,
             "venue_id":354158725
         }
     ],
     "wof:id":354158725,
-    "wof:lastmodified":1467082441,
+    "wof:lastmodified":1491932048,
     "wof:name":"Apostolic Church-Jesus Christ",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

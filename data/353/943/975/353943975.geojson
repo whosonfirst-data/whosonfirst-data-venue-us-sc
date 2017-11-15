@@ -2,9 +2,14 @@
   "id": 353943975,
   "type": "Feature",
   "properties": {
+    "addr:full":"9650 Mill Field Rd Columbia SC 29223",
+    "addr:housenumber":"9650",
+    "addr:postcode":"29223",
+    "addr:street":"Mill Field Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.886217,34.116119,-80.886217,34.116119",
     "geom:latitude":34.116119,
     "geom:longitude":-80.886217,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"1ba8a8786de82576a97c0543c1218da9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":353943975
         }
     ],
     "wof:id":353943975,
-    "wof:lastmodified":1467082223,
+    "wof:lastmodified":1491937796,
     "wof:name":"Alpine Sales Inc",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

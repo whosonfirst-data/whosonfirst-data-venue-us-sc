@@ -2,9 +2,14 @@
   "id": 840152181,
   "type": "Feature",
   "properties": {
+    "addr:full":"955 S Harvin St Sumter SC 29150",
+    "addr:housenumber":"955",
+    "addr:postcode":"29150",
+    "addr:street":"S Harvin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.338353,33.897747,-80.338353,33.897747",
     "geom:latitude":33.897747,
     "geom:longitude":-80.338353,
@@ -28,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688683,
+        102191575,
+        85633793,
+        102085745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13aVUs7svnK5WfiEORJYRO_33.897747_-80.338353@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463522296,
-    "wof:geomhash":"7c3e9bb74fdca1069e555a84afd04a0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"674f3fb6dbe9035dc8bcb4f5dbd9c394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085745,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688683,
+            "venue_id":840152181
+        }
+    ],
     "wof:id":840152181,
-    "wof:lastmodified":1467082566,
+    "wof:lastmodified":1494529635,
     "wof:name":"Turner's Garage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

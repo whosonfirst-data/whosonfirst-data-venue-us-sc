@@ -2,9 +2,14 @@
   "id": 186139077,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 N Brickyard Rd Columbia SC 29223",
+    "addr:housenumber":"120",
+    "addr:postcode":"29223",
+    "addr:street":"N Brickyard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.895571,34.112564,-80.895571,34.112564",
     "geom:latitude":34.112564,
     "geom:longitude":-80.895571,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:brand_id":420575135,
     "wof:breaches":[],
@@ -39,17 +44,15 @@
     "wof:geomhash":"107200cc7cbf1302a87cf290acf0463a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":186139077
         }
     ],
     "wof:id":186139077,
-    "wof:lastmodified":1467082390,
+    "wof:lastmodified":1491937794,
     "wof:name":"American National Insurance Co",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354055477,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 N Brickyard Rd Columbia SC 29223",
+    "addr:housenumber":"124",
+    "addr:postcode":"29223",
+    "addr:street":"N Brickyard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.895505,34.112484,-80.895505,34.112484",
     "geom:latitude":34.112484,
     "geom:longitude":-80.895505,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"27f31feb5d333d0616a3573992f7c10a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":354055477
         }
     ],
     "wof:id":354055477,
-    "wof:lastmodified":1467082423,
+    "wof:lastmodified":1491937809,
     "wof:name":"3p LLC",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

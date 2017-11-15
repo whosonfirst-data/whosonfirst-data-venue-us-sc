@@ -2,9 +2,14 @@
   "id": 353919679,
   "type": "Feature",
   "properties": {
+    "addr:full":"757 Clemson Rd Columbia SC 29229",
+    "addr:housenumber":"757",
+    "addr:postcode":"29229",
+    "addr:street":"Clemson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.868732,34.125093,-80.868732,34.125093",
     "geom:latitude":34.125093,
     "geom:longitude":-80.868732,
@@ -33,8 +38,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +49,15 @@
     "wof:geomhash":"e786b82bc0d01f5a3dad2b31fdc4113a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":353919679
         }
     ],
     "wof:id":353919679,
-    "wof:lastmodified":1467082249,
+    "wof:lastmodified":1491937799,
     "wof:name":"Fisher Service Company Inc",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

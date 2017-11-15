@@ -2,9 +2,14 @@
   "id": 370548265,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 E Springs Rd Columbia SC 29223",
+    "addr:housenumber":"100",
+    "addr:postcode":"29223",
+    "addr:street":"E Springs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.894976,34.118339,-80.894976,34.118339",
     "geom:latitude":34.118339,
     "geom:longitude":-80.894976,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"d61b2cdfda40dd31aa8be45961bdf68c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370548265
         }
     ],
     "wof:id":370548265,
-    "wof:lastmodified":1467082350,
+    "wof:lastmodified":1491937813,
     "wof:name":"Muthig Environmental Inc",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

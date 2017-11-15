@@ -2,9 +2,14 @@
   "id": 840135747,
   "type": "Feature",
   "properties": {
+    "addr:full":"4123 W Belt Line Blvd Columbia SC 29203",
+    "addr:housenumber":"4123",
+    "addr:postcode":"29203",
+    "addr:street":"W Belt Line Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.004579,34.036666,-81.004579,34.036666",
     "geom:latitude":34.036666,
     "geom:longitude":-81.004579,
@@ -31,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        85827291,
-        102085405
+        101720793,
+        102085405,
+        420559259,
+        85827291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +52,15 @@
     "wof:geomhash":"119b5abe7a35cba951e31081ef064e2d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":840135747
+        },
+        {
             "country_id":85633793,
             "county_id":102085405,
             "neighbourhood_id":85827291,
@@ -52,9 +69,9 @@
         }
     ],
     "wof:id":840135747,
-    "wof:lastmodified":1467082554,
+    "wof:lastmodified":1491932043,
     "wof:name":"Brite Touch",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 354188679,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Sparkleberry Ln Columbia SC 29229",
+    "addr:housenumber":"125",
+    "addr:postcode":"29229",
+    "addr:street":"Sparkleberry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.883729,34.114855,-80.883729,34.114855",
     "geom:latitude":34.114855,
     "geom:longitude":-80.883729,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"08fb79ec68ac4d6cb27b705fcc876e18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":354188679
         }
     ],
     "wof:id":354188679,
-    "wof:lastmodified":1467082434,
+    "wof:lastmodified":1491937808,
     "wof:name":"Spring Valley Presbyterian Chr",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

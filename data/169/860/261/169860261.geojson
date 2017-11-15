@@ -2,9 +2,14 @@
   "id": 169860261,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Sparkleberry Ln Columbia SC 29229",
+    "addr:housenumber":"105",
+    "addr:postcode":"29229",
+    "addr:street":"Sparkleberry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.884999,34.116104,-80.884999,34.116104",
     "geom:latitude":34.116104,
     "geom:longitude":-80.884999,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"c0e2e74298c83cb4eae5ee9fd78d2902",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":169860261
         }
     ],
     "wof:id":169860261,
-    "wof:lastmodified":1467082382,
+    "wof:lastmodified":1491937809,
     "wof:name":"Putt-Putt Fun Ctr",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 370959457,
   "type": "Feature",
   "properties": {
+    "addr:full":"175 Old Farm Rd Columbia SC 29223",
+    "addr:housenumber":"175",
+    "addr:postcode":"29223",
+    "addr:street":"Old Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.88614,34.130908,-80.88614,34.130908",
     "geom:latitude":34.130908,
     "geom:longitude":-80.88614,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"175 Old Farm Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -31,28 +37,27 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
+    "wof:brand_id":1125150293,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02QtffoxrGExUVsvfdnM0p_34.130908_-80.886140@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"e8b7f7adfc819424bd56aa98a19c2c29",
+    "wof:geomhash":"08215deda2a374a1b76bf01a0d11bc54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370959457
         }
     ],
     "wof:id":370959457,
-    "wof:lastmodified":1467082366,
+    "wof:lastmodified":1510699736,
     "wof:name":"Beazer Homes",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

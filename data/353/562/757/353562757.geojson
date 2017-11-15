@@ -2,9 +2,14 @@
   "id": 353562757,
   "type": "Feature",
   "properties": {
+    "addr:full":"1610 Greene St Columbia SC 29201",
+    "addr:housenumber":"1610",
+    "addr:postcode":"29201",
+    "addr:street":"Greene St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.024144,33.997837,-81.024144,33.997837",
     "geom:latitude":33.997837,
     "geom:longitude":-81.024144,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
         101720793,
         102085405,
@@ -43,7 +49,7 @@
     "wof:geomhash":"67c06d66fbb5ee9c4a6f6f23a7c14c5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
             "locality_id":101720793,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353562757,
-    "wof:lastmodified":1467082237,
+    "wof:lastmodified":1491892912,
     "wof:name":"St Thomas More Catholic Chapel",
     "wof:parent_id":85876831,
     "wof:placetype":"venue",

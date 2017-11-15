@@ -2,9 +2,14 @@
   "id": 370411629,
   "type": "Feature",
   "properties": {
+    "addr:full":"808 Cold Branch Dr Columbia SC 29223",
+    "addr:housenumber":"808",
+    "addr:postcode":"29223",
+    "addr:street":"Cold Branch Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.889208,34.135971,-80.889208,34.135971",
     "geom:latitude":34.135971,
     "geom:longitude":-80.889208,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"65510800fa7d579fe099eb15d24a6752",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370411629
         }
     ],
     "wof:id":370411629,
-    "wof:lastmodified":1467082301,
+    "wof:lastmodified":1491937803,
     "wof:name":"Royal Danish Cleaning Co LLC",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

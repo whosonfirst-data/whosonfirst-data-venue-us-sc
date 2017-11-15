@@ -2,9 +2,14 @@
   "id": 337448977,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Old Park Dr Columbia SC 29229",
+    "addr:housenumber":"100",
+    "addr:postcode":"29229",
+    "addr:street":"Old Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.90511,34.144227,-80.90511,34.144227",
     "geom:latitude":34.144227,
     "geom:longitude":-80.90511,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"97689688d1c2f0acdf1e252f3c54fe73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":337448977
         }
     ],
     "wof:id":337448977,
-    "wof:lastmodified":1467082294,
+    "wof:lastmodified":1491937807,
     "wof:name":"Burnette Cleaners",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

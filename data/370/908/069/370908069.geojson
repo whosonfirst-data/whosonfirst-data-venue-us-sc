@@ -2,9 +2,14 @@
   "id": 370908069,
   "type": "Feature",
   "properties": {
+    "addr:full":"2117 Clemson Rd Columbia SC 29229",
+    "addr:housenumber":"2117",
+    "addr:postcode":"29229",
+    "addr:street":"Clemson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.912716,34.13989,-80.912716,34.13989",
     "geom:latitude":34.13989,
     "geom:longitude":-80.912716,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"98e3713b9d3e20488339559c2a465c51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370908069
         }
     ],
     "wof:id":370908069,
-    "wof:lastmodified":1467082340,
+    "wof:lastmodified":1491937793,
     "wof:name":"Eastwood Baptist Church",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

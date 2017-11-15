@@ -2,9 +2,14 @@
   "id": 337516091,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Sparkleberry Ln Columbia SC 29229",
+    "addr:housenumber":"111",
+    "addr:postcode":"29229",
+    "addr:street":"Sparkleberry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.884519,34.115768,-80.884519,34.115768",
     "geom:latitude":34.115768,
     "geom:longitude":-80.884519,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"2fab1b51370853345d03c66554f9e475",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":337516091
         }
     ],
     "wof:id":337516091,
-    "wof:lastmodified":1467082270,
+    "wof:lastmodified":1491937806,
     "wof:name":"Sultan Rug Gallery Inc",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

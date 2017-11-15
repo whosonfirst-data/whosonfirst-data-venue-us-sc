@@ -2,9 +2,14 @@
   "id": 354312619,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Summit Pkwy Columbia SC 29229",
+    "addr:housenumber":"105",
+    "addr:postcode":"29229",
+    "addr:street":"Summit Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.881952,34.140731,-80.881952,34.140731",
     "geom:latitude":34.140731,
     "geom:longitude":-80.881952,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"3d0df4da827bf440f9cbf9bb3ee7ef8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":354312619
         }
     ],
     "wof:id":354312619,
-    "wof:lastmodified":1467082434,
+    "wof:lastmodified":1491937813,
     "wof:name":"Michael F Koska III Phtgrphr",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

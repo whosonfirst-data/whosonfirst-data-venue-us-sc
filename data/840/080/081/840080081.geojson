@@ -2,9 +2,14 @@
   "id": 840080081,
   "type": "Feature",
   "properties": {
+    "addr:full":"1012 Pocalla Rd Sumter SC 29150",
+    "addr:housenumber":"1012",
+    "addr:postcode":"29150",
+    "addr:street":"Pocalla Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.339058,33.896353,-80.339058,33.896353",
     "geom:latitude":33.896353,
     "geom:longitude":-80.339058,
@@ -28,17 +33,32 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688683,
+        102191575,
+        85633793,
+        102085745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1I9ZnX6UEhzzMJ2CNIJwcf_33.896353_-80.339058@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463520682,
-    "wof:geomhash":"eb3dd7c49d11d68646f11adcc0d500a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cad9b05b100680369726db7c3b30952a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085745,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688683,
+            "venue_id":840080081
+        }
+    ],
     "wof:id":840080081,
-    "wof:lastmodified":1467082513,
+    "wof:lastmodified":1494529635,
     "wof:name":"Parts Connection Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

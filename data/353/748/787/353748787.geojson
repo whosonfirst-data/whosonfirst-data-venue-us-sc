@@ -2,9 +2,14 @@
   "id": 353748787,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 Brook Hollow Dr Columbia SC 29229",
+    "addr:housenumber":"321",
+    "addr:postcode":"29229",
+    "addr:street":"Brook Hollow Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.908488,34.13845,-80.908488,34.13845",
     "geom:latitude":34.13845,
     "geom:longitude":-80.908488,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"37bf5ef1b09a7b2690eb7e6ae6f12bb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":353748787
         }
     ],
     "wof:id":353748787,
-    "wof:lastmodified":1467082249,
+    "wof:lastmodified":1491937802,
     "wof:name":"If Walls Could Talk LLC",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

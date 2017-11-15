@@ -2,9 +2,14 @@
   "id": 840184061,
   "type": "Feature",
   "properties": {
+    "addr:full":"4064 W Belt Line Blvd Columbia SC 29204",
+    "addr:housenumber":"4064",
+    "addr:postcode":"29204",
+    "addr:street":"W Belt Line Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.00795,34.036667,-81.00795,34.036667",
     "geom:latitude":34.036667,
     "geom:longitude":-81.00795,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        85827291,
-        102085405
+        101720793,
+        102085405,
+        420559207,
+        85827291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +50,15 @@
     "wof:geomhash":"f0f3ad3454e184e72c5259a268e0eb7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":420559207,
+            "region_id":85688683,
+            "venue_id":840184061
+        },
+        {
             "country_id":85633793,
             "county_id":102085405,
             "neighbourhood_id":85827291,
@@ -50,9 +67,9 @@
         }
     ],
     "wof:id":840184061,
-    "wof:lastmodified":1467082589,
+    "wof:lastmodified":1491932047,
     "wof:name":"Julian M Sellers",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

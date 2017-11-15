@@ -2,9 +2,14 @@
   "id": 840088807,
   "type": "Feature",
   "properties": {
+    "addr:full":"3946 W Belt Line Blvd Columbia SC 29204",
+    "addr:housenumber":"3946",
+    "addr:postcode":"29204",
+    "addr:street":"W Belt Line Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.011207,34.036046,-81.011207,34.036046",
     "geom:latitude":34.036046,
     "geom:longitude":-81.011207,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        85827291,
-        102085405
+        101720793,
+        102085405,
+        420559259,
+        85827291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +50,15 @@
     "wof:geomhash":"647d5b353a47fef2a3d05c49a21507e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":840088807
+        },
+        {
             "country_id":85633793,
             "county_id":102085405,
             "neighbourhood_id":85827291,
@@ -50,9 +67,9 @@
         }
     ],
     "wof:id":840088807,
-    "wof:lastmodified":1467082520,
+    "wof:lastmodified":1491932044,
     "wof:name":"Payment Place",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

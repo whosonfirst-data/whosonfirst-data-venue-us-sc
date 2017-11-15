@@ -2,9 +2,14 @@
   "id": 185666167,
   "type": "Feature",
   "properties": {
+    "addr:full":"10244 Two Notch Rd Columbia SC 29229",
+    "addr:housenumber":"10244",
+    "addr:postcode":"29229",
+    "addr:street":"Two Notch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.875069,34.122363,-80.875069,34.122363",
     "geom:latitude":34.122363,
     "geom:longitude":-80.875069,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"e6e81596945b29a74379396ea7e2cc7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":185666167
         }
     ],
     "wof:id":185666167,
-    "wof:lastmodified":1467082191,
+    "wof:lastmodified":1491937799,
     "wof:name":"A Nu U Hair Studio",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

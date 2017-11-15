@@ -2,9 +2,14 @@
   "id": 370653519,
   "type": "Feature",
   "properties": {
+    "addr:full":"516 Cold Branch Dr Columbia SC 29223",
+    "addr:housenumber":"516",
+    "addr:postcode":"29223",
+    "addr:street":"Cold Branch Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.888412,34.13802,-80.888412,34.13802",
     "geom:latitude":34.13802,
     "geom:longitude":-80.888412,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"c1d8417b3fbc256ec1f12a1819b05f4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370653519
         }
     ],
     "wof:id":370653519,
-    "wof:lastmodified":1467082303,
+    "wof:lastmodified":1491937814,
     "wof:name":"Hall & Associates",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

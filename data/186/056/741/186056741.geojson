@@ -2,9 +2,14 @@
   "id": 186056741,
   "type": "Feature",
   "properties": {
+    "addr:full":"990 Columbia Ave Irmo SC 29063",
+    "addr:housenumber":"990",
+    "addr:postcode":"29063",
+    "addr:street":"Columbia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.172361,34.086484,-81.172361,34.086484",
     "geom:latitude":34.086484,
     "geom:longitude":-81.172361,
@@ -30,8 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        102085573,
+        101720795,
+        102085405,
         85827037
     ],
     "wof:breaches":[],
@@ -42,17 +49,17 @@
     "wof:geomhash":"f68dea29da12e92ad7eee9b2abdb19ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085573,
-            "locality_id":-1,
+            "county_id":102085405,
+            "locality_id":101720795,
             "neighbourhood_id":85827037,
             "region_id":85688683,
             "venue_id":186056741
         }
     ],
     "wof:id":186056741,
-    "wof:lastmodified":1467082395,
+    "wof:lastmodified":1491926616,
     "wof:name":"Agape Senior Community",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",

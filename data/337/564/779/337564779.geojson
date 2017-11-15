@@ -2,9 +2,14 @@
   "id": 337564779,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 S Lafayette Dr Sumter SC 29150",
+    "addr:housenumber":"1101",
+    "addr:postcode":"29150",
+    "addr:street":"S Lafayette Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.336656,33.898477,-80.336656,33.898477",
     "geom:latitude":33.898477,
     "geom:longitude":-80.336656,
@@ -29,8 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        101721335,
         102085745
     ],
     "wof:breaches":[],
@@ -38,20 +43,20 @@
         "sg:id":"SG_70kPsaak1BOtZyUIWiQGk2_33.898477_-80.336656@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"b203ce57fd0deafad903961d4dcbfae2",
+    "wof:geomhash":"c4cbf3d513333d6ca6a09b6dc20336d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085745,
-            "locality_id":101721335,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
             "venue_id":337564779
         }
     ],
     "wof:id":337564779,
-    "wof:lastmodified":1467082293,
+    "wof:lastmodified":1494529628,
     "wof:name":"Suburban Propane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

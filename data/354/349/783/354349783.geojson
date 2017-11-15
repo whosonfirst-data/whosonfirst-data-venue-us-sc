@@ -2,9 +2,14 @@
   "id": 354349783,
   "type": "Feature",
   "properties": {
+    "addr:full":"2216 Bee Ridge Rd Columbia SC 29223",
+    "addr:housenumber":"2216",
+    "addr:postcode":"29223",
+    "addr:street":"Bee Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.905324,34.114186,-80.905324,34.114186",
     "geom:latitude":34.114186,
     "geom:longitude":-80.905324,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"fabf5c6db594d37220e7d577bea8b8f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":354349783
         }
     ],
     "wof:id":354349783,
-    "wof:lastmodified":1467082429,
+    "wof:lastmodified":1491937787,
     "wof:name":"Sutton Jet Sales Inc",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

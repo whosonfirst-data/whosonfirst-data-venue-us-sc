@@ -2,9 +2,14 @@
   "id": 840199497,
   "type": "Feature",
   "properties": {
+    "addr:full":"1609 Ogden St Columbia SC 29204",
+    "addr:housenumber":"1609",
+    "addr:postcode":"29204",
+    "addr:street":"Ogden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.01025,34.027953,-81.01025,34.027953",
     "geom:latitude":34.027953,
     "geom:longitude":-81.01025,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        85827291,
-        102085405
+        101720793,
+        102085405,
+        420559259,
+        85827291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +51,15 @@
     "wof:geomhash":"64df590745a99c9aa9734201f4cff74a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":840199497
+        },
+        {
             "country_id":85633793,
             "county_id":102085405,
             "neighbourhood_id":85827291,
@@ -51,9 +68,9 @@
         }
     ],
     "wof:id":840199497,
-    "wof:lastmodified":1467082600,
+    "wof:lastmodified":1491932046,
     "wof:name":"Orion Construction Co",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 337314325,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 Fish Hatchery Rd West Columbia SC 29172",
+    "addr:housenumber":"2101",
+    "addr:postcode":"29172",
+    "addr:street":"Fish Hatchery Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.086061,33.927268,-81.086061,33.927268",
     "geom:latitude":33.927268,
     "geom:longitude":-81.086061,
@@ -31,8 +36,12 @@
     "wof:belongsto":[
         85688683,
         85633793,
+        101720791,
+        102085573,
+        85828499,
+        102191575,
         101721003,
-        102085573
+        85841951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,27 @@
     "wof:geomhash":"3f747a3763172349e7f0c04bb16cc628",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085573,
+            "locality_id":101720791,
+            "neighbourhood_id":85828499,
+            "region_id":85688683,
+            "venue_id":337314325
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085573,
             "locality_id":101721003,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85841951,
             "region_id":85688683,
             "venue_id":337314325
         }
     ],
     "wof:id":337314325,
-    "wof:lastmodified":1467082294,
+    "wof:lastmodified":1491895828,
     "wof:name":"Primesouth Properties",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

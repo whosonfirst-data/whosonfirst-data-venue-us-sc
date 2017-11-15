@@ -2,9 +2,14 @@
   "id": 337317995,
   "type": "Feature",
   "properties": {
+    "addr:full":"114 Sloan Rd Columbia SC 29223",
+    "addr:housenumber":"114",
+    "addr:postcode":"29223",
+    "addr:street":"Sloan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.919617,34.119214,-80.919617,34.119214",
     "geom:latitude":34.119214,
     "geom:longitude":-80.919617,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"05c8ef46d55b79868cf2e01feb2c74d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":337317995
         }
     ],
     "wof:id":337317995,
-    "wof:lastmodified":1467082279,
+    "wof:lastmodified":1491937797,
     "wof:name":"Midsouth Termite & Pest Cntrl",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840213481,
   "type": "Feature",
   "properties": {
+    "addr:full":"1605 S Guignard Pkwy Sumter SC 29150",
+    "addr:housenumber":"1605",
+    "addr:postcode":"29150",
+    "addr:street":"S Guignard Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.345542,33.881955,-80.345542,33.881955",
     "geom:latitude":33.881955,
     "geom:longitude":-80.345542,
@@ -29,17 +34,32 @@
     ],
     "sg:website":"www.peacetextile.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688683,
+        102191575,
+        85633793,
+        102085745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6h9r7axORwlKKLDgrP6TkK_33.881955_-80.345542@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463523696,
-    "wof:geomhash":"943a33fca94f84b7222123ad463517cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e792ef3ea4e4f1bb6227b07cdc471c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085745,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688683,
+            "venue_id":840213481
+        }
+    ],
     "wof:id":840213481,
-    "wof:lastmodified":1467082611,
+    "wof:lastmodified":1494529632,
     "wof:name":"Peace Textiles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

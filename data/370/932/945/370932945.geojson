@@ -2,9 +2,14 @@
   "id": 370932945,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Hinson St Sumter SC 29150",
+    "addr:housenumber":"4",
+    "addr:postcode":"29150",
+    "addr:street":"Hinson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.333822,33.880034,-80.333822,33.880034",
     "geom:latitude":33.880034,
     "geom:longitude":-80.333822,
@@ -30,8 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        101721335,
         102085745
     ],
     "wof:breaches":[],
@@ -39,20 +44,20 @@
         "sg:id":"SG_5bSnHSLP5YdX21ZeDa2B0r_33.880034_-80.333822@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a2f337c9ba32e90f493121a0df3cdf6",
+    "wof:geomhash":"8db36161acc312f89dd779d9b3a1eff2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085745,
-            "locality_id":101721335,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
             "venue_id":370932945
         }
     ],
     "wof:id":370932945,
-    "wof:lastmodified":1467082326,
+    "wof:lastmodified":1494529628,
     "wof:name":"Russell's Body & Frame Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

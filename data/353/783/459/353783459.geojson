@@ -2,9 +2,14 @@
   "id": 353783459,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Woodshore Dr Columbia SC 29223",
+    "addr:housenumber":"107",
+    "addr:postcode":"29223",
+    "addr:street":"Woodshore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.889569,34.130647,-80.889569,34.130647",
     "geom:latitude":34.130647,
     "geom:longitude":-80.889569,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"713c5cabbff6b99d1efa2e2e4cf7c7aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":353783459
         }
     ],
     "wof:id":353783459,
-    "wof:lastmodified":1467082211,
+    "wof:lastmodified":1491937792,
     "wof:name":"J&M Builders of Columbia Inc",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

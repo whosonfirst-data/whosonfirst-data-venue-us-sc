@@ -2,9 +2,14 @@
   "id": 354160003,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 Big Leaf Cir Columbia SC 29229",
+    "addr:housenumber":"210",
+    "addr:postcode":"29229",
+    "addr:street":"Big Leaf Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.915828,34.146634,-80.915828,34.146634",
     "geom:latitude":34.146634,
     "geom:longitude":-80.915828,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"13306d44014126dad099711046ebe1e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":354160003
         }
     ],
     "wof:id":354160003,
-    "wof:lastmodified":1467082448,
+    "wof:lastmodified":1491937800,
     "wof:name":"Coastaltek",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

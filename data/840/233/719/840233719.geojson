@@ -2,14 +2,20 @@
   "id": 840233719,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 S Main St Greenville SC 29601",
+    "addr:housenumber":"123",
+    "addr:postcode":"29601",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.399581,34.849405,-82.399581,34.849405",
     "geom:latitude":34.849405,
     "geom:longitude":-82.399581,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"123 S Main St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102085747,
         85806907
     ],
+    "wof:brand_id":1125154847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TzWrOMhL9EWp2tOd6B95G_34.849405_-82.399581@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463524214,
-    "wof:geomhash":"3909e4412007dbc6be8a67f7d63f3d12",
+    "wof:geomhash":"e77ea74e5197f82262d92c46fd6e7df0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840233719,
-    "wof:lastmodified":1467082626,
+    "wof:lastmodified":1510695720,
     "wof:name":"Bellacino's Pizza & Grinders",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",

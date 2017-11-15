@@ -2,9 +2,14 @@
   "id": 354110257,
   "type": "Feature",
   "properties": {
+    "addr:full":"4030 W Belt Line Blvd Columbia SC 29204",
+    "addr:housenumber":"4030",
+    "addr:postcode":"29204",
+    "addr:street":"W Belt Line Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.009726,34.036535,-81.009726,34.036535",
     "geom:latitude":34.036535,
     "geom:longitude":-81.009726,
@@ -29,8 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
+        101720793,
         102085405,
+        420559259,
+        420559207,
         85827291
     ],
     "wof:breaches":[],
@@ -41,19 +50,35 @@
     "wof:geomhash":"c53b5a7d5f3935ff58129e78ff1960c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":354110257
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":420559207,
+            "region_id":85688683,
+            "venue_id":354110257
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085405,
             "neighbourhood_id":85827291,
             "region_id":85688683,
             "venue_id":354110257
         }
     ],
     "wof:id":354110257,
-    "wof:lastmodified":1467082427,
+    "wof:lastmodified":1491932047,
     "wof:name":"Custom Leasing Co Inc",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

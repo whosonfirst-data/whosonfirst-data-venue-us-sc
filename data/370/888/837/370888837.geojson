@@ -2,9 +2,14 @@
   "id": 370888837,
   "type": "Feature",
   "properties": {
+    "addr:full":"2009 Bermuda Hills Rd Columbia SC 29223",
+    "addr:housenumber":"2009",
+    "addr:postcode":"29223",
+    "addr:street":"Bermuda Hills Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.911793,34.111251,-80.911793,34.111251",
     "geom:latitude":34.111251,
     "geom:longitude":-80.911793,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"e1e4f0edf397b2622812b1e9cbcc4625",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370888837
         }
     ],
     "wof:id":370888837,
-    "wof:lastmodified":1467082345,
+    "wof:lastmodified":1491937809,
     "wof:name":"Exchange LLC",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

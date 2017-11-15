@@ -2,9 +2,14 @@
   "id": 840014615,
   "type": "Feature",
   "properties": {
+    "addr:full":"355 Vesper Ct Sumter SC 29150",
+    "addr:housenumber":"355",
+    "addr:postcode":"29150",
+    "addr:street":"Vesper Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.347657,33.888789,-80.347657,33.888789",
     "geom:latitude":33.888789,
     "geom:longitude":-80.347657,
@@ -27,17 +32,32 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688683,
+        102191575,
+        85633793,
+        102085745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PrgDNojqaIEWpNbEdq9dF_33.888789_-80.347657@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463519303,
-    "wof:geomhash":"ddaffe51698cd1d45381c541aeb34524",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6222b00dff975663b94d292aec211a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085745,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688683,
+            "venue_id":840014615
+        }
+    ],
     "wof:id":840014615,
-    "wof:lastmodified":1467082466,
+    "wof:lastmodified":1494529631,
     "wof:name":"Sumter Truck Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

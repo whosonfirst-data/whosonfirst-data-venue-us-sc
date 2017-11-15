@@ -2,9 +2,14 @@
   "id": 353612465,
   "type": "Feature",
   "properties": {
+    "addr:full":"7454 Woodrow St Irmo SC 29063",
+    "addr:housenumber":"7454",
+    "addr:postcode":"29063",
+    "addr:street":"Woodrow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.183722,34.086975,-81.183722,34.086975",
     "geom:latitude":34.086975,
     "geom:longitude":-81.183722,
@@ -29,8 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        102085573,
+        101720795,
+        102085405,
         85827037
     ],
     "wof:breaches":[],
@@ -41,17 +48,17 @@
     "wof:geomhash":"fa54adcad167391d9fecea337c64cdb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085573,
-            "locality_id":-1,
+            "county_id":102085405,
+            "locality_id":101720795,
             "neighbourhood_id":85827037,
             "region_id":85688683,
             "venue_id":353612465
         }
     ],
     "wof:id":353612465,
-    "wof:lastmodified":1467082233,
+    "wof:lastmodified":1491926606,
     "wof:name":"Fort Jackson Federal Credit Un",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",

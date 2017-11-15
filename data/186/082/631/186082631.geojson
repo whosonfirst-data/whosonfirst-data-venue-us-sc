@@ -2,9 +2,14 @@
   "id": 186082631,
   "type": "Feature",
   "properties": {
+    "addr:full":"3828 W Belt Line Blvd Columbia SC 29204",
+    "addr:housenumber":"3828",
+    "addr:postcode":"29204",
+    "addr:street":"W Belt Line Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.015638,34.034772,-81.015638,34.034772",
     "geom:latitude":34.034772,
     "geom:longitude":-81.015638,
@@ -30,8 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
+        101720793,
         102085405,
+        420559259,
         85827291
     ],
     "wof:breaches":[],
@@ -42,19 +50,26 @@
     "wof:geomhash":"07c635ac3c004c516b37533142db04d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":186082631
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085405,
             "neighbourhood_id":85827291,
             "region_id":85688683,
             "venue_id":186082631
         }
     ],
     "wof:id":186082631,
-    "wof:lastmodified":1467082389,
+    "wof:lastmodified":1491932039,
     "wof:name":"Carpet Liquidators",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

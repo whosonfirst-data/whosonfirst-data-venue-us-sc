@@ -2,9 +2,14 @@
   "id": 337280621,
   "type": "Feature",
   "properties": {
+    "addr:full":"1148 Pocalla Rd Sumter SC 29150",
+    "addr:housenumber":"1148",
+    "addr:postcode":"29150",
+    "addr:street":"Pocalla Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.345387,33.888307,-80.345387,33.888307",
     "geom:latitude":33.888307,
     "geom:longitude":-80.345387,
@@ -35,19 +40,22 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688683,
+        102191575,
         85633793,
-        85688683
+        102085745
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sdbAqeeIkt5kWtifwgjsa_33.888307_-80.345387@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"4573b546439b38b668d5e67721322111",
+    "wof:geomhash":"ee6a79b48742ad6e24e7edaf66ae3b6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102085745,
             "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":337280621,
-    "wof:lastmodified":1467082281,
+    "wof:lastmodified":1494529634,
     "wof:name":"Factory Discount",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

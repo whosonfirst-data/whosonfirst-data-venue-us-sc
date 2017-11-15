@@ -2,9 +2,14 @@
   "id": 353753103,
   "type": "Feature",
   "properties": {
+    "addr:full":"2118 Clemson Rd Columbia SC 29229",
+    "addr:housenumber":"2118",
+    "addr:postcode":"29229",
+    "addr:street":"Clemson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.913307,34.14001,-80.913307,34.14001",
     "geom:latitude":34.14001,
     "geom:longitude":-80.913307,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"d3ee105782b9ab2f15e79040c282cfdc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":353753103
         }
     ],
     "wof:id":353753103,
-    "wof:lastmodified":1467082216,
+    "wof:lastmodified":1491937812,
     "wof:name":"Tripp's Fine Cleaners",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

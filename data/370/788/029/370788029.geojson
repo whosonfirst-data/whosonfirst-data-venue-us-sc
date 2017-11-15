@@ -2,9 +2,14 @@
   "id": 370788029,
   "type": "Feature",
   "properties": {
+    "addr:full":"4114 Hard Scrabble Rd Columbia SC 29223",
+    "addr:housenumber":"",
+    "addr:postcode":"4114;29223",
+    "addr:street":"Scrabble Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.919056,34.133475,-80.919056,34.133475",
     "geom:latitude":34.133475,
     "geom:longitude":-80.919056,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"59f5a27d7f3937930f9f464a08eec3dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370788029
         }
     ],
     "wof:id":370788029,
-    "wof:lastmodified":1467082336,
+    "wof:lastmodified":1491937807,
     "wof:name":"M C Kim's Tae KWON Do USA",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

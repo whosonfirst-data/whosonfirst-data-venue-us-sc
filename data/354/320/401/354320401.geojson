@@ -2,9 +2,14 @@
   "id": 354320401,
   "type": "Feature",
   "properties": {
+    "addr:full":"1127 Lake Murray Blvd Irmo SC 29212",
+    "addr:housenumber":"1127",
+    "addr:postcode":"29212",
+    "addr:street":"Lake Murray Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.179302,34.087612,-81.179302,34.087612",
     "geom:latitude":34.087612,
     "geom:longitude":-81.179302,
@@ -26,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        102085573,
+        101720795,
+        102085405,
         85827037
     ],
     "wof:breaches":[],
@@ -38,17 +45,17 @@
     "wof:geomhash":"e6e29db61b1ba7c396ec67b1e0eed997",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085573,
-            "locality_id":-1,
+            "county_id":102085405,
+            "locality_id":101720795,
             "neighbourhood_id":85827037,
             "region_id":85688683,
             "venue_id":354320401
         }
     ],
     "wof:id":354320401,
-    "wof:lastmodified":1467082424,
+    "wof:lastmodified":1491926610,
     "wof:name":"Bob Brandi Stations Inc",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",

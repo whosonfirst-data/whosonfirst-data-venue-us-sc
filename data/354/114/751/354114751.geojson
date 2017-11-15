@@ -2,9 +2,14 @@
   "id": 354114751,
   "type": "Feature",
   "properties": {
+    "addr:full":"1005 Pocalla Rd Sumter SC 29150",
+    "addr:housenumber":"1005",
+    "addr:postcode":"29150",
+    "addr:street":"Pocalla Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.339284,33.895612,-80.339284,33.895612",
     "geom:latitude":33.895612,
     "geom:longitude":-80.339284,
@@ -30,8 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        101721335,
         102085745
     ],
     "wof:breaches":[],
@@ -39,20 +44,20 @@
         "sg:id":"SG_6rzegkuAgMaGxiOeeWcNlO_33.895612_-80.339284@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ef2454805644f6f5715e99b0e84a4fa",
+    "wof:geomhash":"2cd7accfca8817c6d9cc58df39c7ac6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085745,
-            "locality_id":101721335,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
             "venue_id":354114751
         }
     ],
     "wof:id":354114751,
-    "wof:lastmodified":1467082430,
+    "wof:lastmodified":1494529627,
     "wof:name":"S & W Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

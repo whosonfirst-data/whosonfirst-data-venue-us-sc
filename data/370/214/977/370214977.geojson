@@ -2,9 +2,14 @@
   "id": 370214977,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Tamara Way Columbia SC 29229",
+    "addr:housenumber":"220",
+    "addr:postcode":"29229",
+    "addr:street":"Tamara Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.877487,34.136902,-80.877487,34.136902",
     "geom:latitude":34.136902,
     "geom:longitude":-80.877487,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"5301715e32190604d81d6e964cf8f0ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370214977
         }
     ],
     "wof:id":370214977,
-    "wof:lastmodified":1467082371,
+    "wof:lastmodified":1491937815,
     "wof:name":"Platts Builders",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

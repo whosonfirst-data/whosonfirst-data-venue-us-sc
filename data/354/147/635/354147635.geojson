@@ -2,9 +2,14 @@
   "id": 354147635,
   "type": "Feature",
   "properties": {
+    "addr:full":"915 Manning Ave Sumter SC 29150",
+    "addr:housenumber":"915",
+    "addr:postcode":"29150",
+    "addr:street":"Manning Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.339575,33.898593,-80.339575,33.898593",
     "geom:latitude":33.898593,
     "geom:longitude":-80.339575,
@@ -30,8 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        101721335,
         102085745
     ],
     "wof:breaches":[],
@@ -39,20 +44,20 @@
         "sg:id":"SG_3qoISFECD3JIKj2aF4Yea1_33.898593_-80.339575@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"4bfd27f772135fd4a4b8c85c7582d49d",
+    "wof:geomhash":"cea4dba444de89643dfcada36d5e192a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085745,
-            "locality_id":101721335,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
             "venue_id":354147635
         }
     ],
     "wof:id":354147635,
-    "wof:lastmodified":1467082450,
+    "wof:lastmodified":1494529632,
     "wof:name":"A & T Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

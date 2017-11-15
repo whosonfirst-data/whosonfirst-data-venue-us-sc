@@ -2,9 +2,14 @@
   "id": 370509025,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Sumter St Columbia SC 29225",
+    "addr:housenumber":"800",
+    "addr:postcode":"29225",
+    "addr:street":"Sumter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.030023,33.997485,-81.030023,33.997485",
     "geom:latitude":33.997485,
     "geom:longitude":-81.030023,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
         101720793,
-        102085405
+        102085405,
+        85876831,
+        85876825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,28 @@
     "wof:geomhash":"15c5798696dd151a868dab41e46f8431",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
             "locality_id":101720793,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85876831,
+            "region_id":85688683,
+            "venue_id":370509025
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":85876825,
             "region_id":85688683,
             "venue_id":370509025
         }
     ],
     "wof:id":370509025,
-    "wof:lastmodified":1467082301,
+    "wof:lastmodified":1491892916,
     "wof:name":"Aids Training Network",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

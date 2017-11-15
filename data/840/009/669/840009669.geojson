@@ -2,9 +2,14 @@
   "id": 840009669,
   "type": "Feature",
   "properties": {
+    "addr:full":"3620 River Dr Columbia SC 29201",
+    "addr:housenumber":"3620",
+    "addr:postcode":"29201",
+    "addr:street":"River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.056173,34.029253,-81.056173,34.029253",
     "geom:latitude":34.029253,
     "geom:longitude":-81.056173,
@@ -33,7 +38,10 @@
         85633793,
         101721299,
         102085405,
-        85845181
+        85845181,
+        102191575,
+        101720793,
+        420541223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +58,21 @@
             "neighbourhood_id":85845181,
             "region_id":85688683,
             "venue_id":840009669
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":420541223,
+            "region_id":85688683,
+            "venue_id":840009669
         }
     ],
     "wof:id":840009669,
-    "wof:lastmodified":1467082462,
+    "wof:lastmodified":1491935041,
     "wof:name":"Parks Auto Parts",
-    "wof:parent_id":85845181,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

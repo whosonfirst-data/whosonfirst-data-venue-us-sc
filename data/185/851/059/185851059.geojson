@@ -2,9 +2,14 @@
   "id": 185851059,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 Manning Ave Sumter SC 29150",
+    "addr:housenumber":"901",
+    "addr:postcode":"29150",
+    "addr:street":"Manning Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.339717,33.898966,-80.339717,33.898966",
     "geom:latitude":33.898966,
     "geom:longitude":-80.339717,
@@ -30,8 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        101721335,
         102085745
     ],
     "wof:breaches":[],
@@ -39,20 +44,20 @@
         "sg:id":"SG_4XkCO0x0yY1SkTsrQEJqqz_33.898966_-80.339717@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"2f6072c4452995837e57938350f5c9be",
+    "wof:geomhash":"95baa2b52236deee9679e443e5f52085",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085745,
-            "locality_id":101721335,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
             "venue_id":185851059
         }
     ],
     "wof:id":185851059,
-    "wof:lastmodified":1467082198,
+    "wof:lastmodified":1494529627,
     "wof:name":"G & M Amusements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

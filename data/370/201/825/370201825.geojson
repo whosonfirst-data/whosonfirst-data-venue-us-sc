@@ -2,9 +2,14 @@
   "id": 370201825,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 Lake Murray Blvd Columbia SC 29212",
+    "addr:housenumber":"1600",
+    "addr:postcode":"29212",
+    "addr:street":"Lake Murray Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.191802,34.082768,-81.191802,34.082768",
     "geom:latitude":34.082768,
     "geom:longitude":-81.191802,
@@ -29,8 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        102085573,
+        101720795,
+        102085405,
         85827037
     ],
     "wof:breaches":[],
@@ -41,17 +48,17 @@
     "wof:geomhash":"e68cacec2311ac8eeffa6301f7ba74a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085573,
-            "locality_id":-1,
+            "county_id":102085405,
+            "locality_id":101720795,
             "neighbourhood_id":85827037,
             "region_id":85688683,
             "venue_id":370201825
         }
     ],
     "wof:id":370201825,
-    "wof:lastmodified":1467082363,
+    "wof:lastmodified":1491926612,
     "wof:name":"Crescent Moon Orthodontics",
     "wof:parent_id":85827037,
     "wof:placetype":"venue",

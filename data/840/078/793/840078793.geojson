@@ -2,9 +2,14 @@
   "id": 840078793,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 Wadford St Sumter SC 29150",
+    "addr:housenumber":"210",
+    "addr:postcode":"29150",
+    "addr:street":"Wadford St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.347942,33.88648,-80.347942,33.88648",
     "geom:latitude":33.88648,
     "geom:longitude":-80.347942,
@@ -24,17 +29,32 @@
     "sg:postcode":"29150",
     "sg:province":"SC",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688683,
+        102191575,
+        85633793,
+        102085745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GydkySh97NTQkUEwdivZk_33.886480_-80.347942@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463520654,
-    "wof:geomhash":"df0499fce934b516a58db3f52697eab4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbd254e90a35e2b3bb0b3a4048335d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085745,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688683,
+            "venue_id":840078793
+        }
+    ],
     "wof:id":840078793,
-    "wof:lastmodified":1467082512,
+    "wof:lastmodified":1494529636,
     "wof:name":"George A Nettles Jr Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

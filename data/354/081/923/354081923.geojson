@@ -2,9 +2,14 @@
   "id": 354081923,
   "type": "Feature",
   "properties": {
+    "addr:full":"2648 Notch Rd Columbia SC 29204",
+    "addr:housenumber":"2648",
+    "addr:postcode":"29204",
+    "addr:street":"Notch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.007819,34.029827,-81.007819,34.029827",
     "geom:latitude":34.029827,
     "geom:longitude":-81.007819,
@@ -31,8 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
+        101720793,
         102085405,
+        420559259,
         85827291
     ],
     "wof:breaches":[],
@@ -43,19 +51,26 @@
     "wof:geomhash":"a8cf00d33fa24ba6606bb880c5a9a6f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":354081923
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085405,
             "neighbourhood_id":85827291,
             "region_id":85688683,
             "venue_id":354081923
         }
     ],
     "wof:id":354081923,
-    "wof:lastmodified":1467082426,
+    "wof:lastmodified":1491932040,
     "wof:name":"Uncle Bob's Self-Storage",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

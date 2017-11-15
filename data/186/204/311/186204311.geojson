@@ -2,9 +2,14 @@
   "id": 186204311,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Fishers Shore Rd Columbia SC 29223",
+    "addr:housenumber":"100",
+    "addr:postcode":"29223",
+    "addr:street":"Fishers Shore Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.891395,34.128026,-80.891395,34.128026",
     "geom:latitude":34.128026,
     "geom:longitude":-80.891395,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"ef54ccf3fac427c8414048134c78bf5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":186204311
         }
     ],
     "wof:id":186204311,
-    "wof:lastmodified":1467082413,
+    "wof:lastmodified":1491937790,
     "wof:name":"Gantt Construction Company",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

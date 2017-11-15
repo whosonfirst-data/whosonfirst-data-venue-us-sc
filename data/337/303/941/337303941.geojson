@@ -2,9 +2,14 @@
   "id": 337303941,
   "type": "Feature",
   "properties": {
+    "addr:full":"1307 Manning Rd Sumter SC 29150",
+    "addr:housenumber":"1307",
+    "addr:postcode":"29150",
+    "addr:street":"Manning Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.335823,33.88045,-80.335823,33.88045",
     "geom:latitude":33.88045,
     "geom:longitude":-80.335823,
@@ -29,8 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        101721335,
         102085745
     ],
     "wof:breaches":[],
@@ -38,20 +43,20 @@
         "sg:id":"SG_4oKScVfg3PnpTIeKPV1Eae_33.880450_-80.335823@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"7de1b9571339ba8aff9f62143282a626",
+    "wof:geomhash":"70209d55930e20b51afb5607bcf2fa8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085745,
-            "locality_id":101721335,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
             "venue_id":337303941
         }
     ],
     "wof:id":337303941,
-    "wof:lastmodified":1467082265,
+    "wof:lastmodified":1494529633,
     "wof:name":"Charles B Horne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

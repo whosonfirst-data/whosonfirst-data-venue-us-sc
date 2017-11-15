@@ -2,9 +2,14 @@
   "id": 186261623,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Water Wheel Way Columbia SC 29229",
+    "addr:housenumber":"220",
+    "addr:postcode":"29229",
+    "addr:street":"Water Wheel Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.893414,34.141541,-80.893414,34.141541",
     "geom:latitude":34.141541,
     "geom:longitude":-80.893414,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"54566bdbc80caa586dcd621f4858c46f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":186261623
         }
     ],
     "wof:id":186261623,
-    "wof:lastmodified":1467082389,
+    "wof:lastmodified":1491937794,
     "wof:name":"All The Way Lawn Care",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 185619047,
   "type": "Feature",
   "properties": {
+    "addr:full":"3014 Notch Rd Columbia SC 29204",
+    "addr:housenumber":"",
+    "addr:postcode":"3014;29204",
+    "addr:street":"Notch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.003407,34.036752,-81.003407,34.036752",
     "geom:latitude":34.036752,
     "geom:longitude":-81.003407,
@@ -30,9 +35,11 @@
     "wof:belongsto":[
         85688683,
         85633793,
+        85827291,
         102085405,
-        85820469,
-        85827291
+        102191575,
+        101720793,
+        85820469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,28 +49,26 @@
     "wof:geomhash":"07efb8e2c534054a9589a82dbc925254",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
-            "neighbourhood_id":85820469,
+            "neighbourhood_id":85827291,
             "region_id":85688683,
             "venue_id":185619047
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
-            "neighbourhood_id":85827291,
+            "locality_id":101720793,
+            "neighbourhood_id":85820469,
             "region_id":85688683,
             "venue_id":185619047
         }
     ],
     "wof:id":185619047,
-    "wof:lastmodified":1467082187,
+    "wof:lastmodified":1491932049,
     "wof:name":"Enterprise Lsg Co of St Louis",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

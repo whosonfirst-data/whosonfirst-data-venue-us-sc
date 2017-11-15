@@ -2,9 +2,14 @@
   "id": 840157593,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 S Guignard Dr Sumter SC 29150",
+    "addr:housenumber":"1200",
+    "addr:postcode":"29150",
+    "addr:street":"S Guignard Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.350545,33.887678,-80.350545,33.887678",
     "geom:latitude":33.887678,
     "geom:longitude":-80.350545,
@@ -27,17 +32,32 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688683,
+        102191575,
+        85633793,
+        102085745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WsMpaC2IQ5Z4Ho4csrGJ4_33.887678_-80.350545@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463522398,
-    "wof:geomhash":"313ec34c6e1ea7053d2fc09a032deaea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f69125d85e648f234f0d4f5ce9db3e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085745,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688683,
+            "venue_id":840157593
+        }
+    ],
     "wof:id":840157593,
-    "wof:lastmodified":1467082570,
+    "wof:lastmodified":1494529636,
     "wof:name":"Myson's Tire Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

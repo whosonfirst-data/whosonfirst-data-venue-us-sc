@@ -2,9 +2,14 @@
   "id": 354040097,
   "type": "Feature",
   "properties": {
+    "addr:full":"4561 Hard Scrabble Rd Columbia SC 29223",
+    "addr:housenumber":"4561",
+    "addr:postcode":"29223",
+    "addr:street":"Hard Scrabble Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.910926,34.147169,-80.910926,34.147169",
     "geom:latitude":34.147169,
     "geom:longitude":-80.910926,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:brand_id":420573895,
     "wof:breaches":[],
@@ -39,17 +44,15 @@
     "wof:geomhash":"66272d09d23a3055eb35d2a936172834",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":354040097
         }
     ],
     "wof:id":354040097,
-    "wof:lastmodified":1467082453,
+    "wof:lastmodified":1491937795,
     "wof:name":"Great Clips",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 185856393,
   "type": "Feature",
   "properties": {
+    "addr:full":"1218 Bull St Columbia SC 29201",
+    "addr:housenumber":"1218",
+    "addr:postcode":"29201",
+    "addr:street":"Bull St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.02916,34.003881,-81.02916,34.003881",
     "geom:latitude":34.003881,
     "geom:longitude":-81.02916,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
         101720793,
         102085405,
@@ -39,7 +45,7 @@
     "wof:geomhash":"00a64bfb71766cedcfe3cb5f20ef171e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085405,
             "locality_id":101720793,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":185856393,
-    "wof:lastmodified":1467082189,
+    "wof:lastmodified":1491892916,
     "wof:name":"Alston Wilkes Home",
     "wof:parent_id":85876831,
     "wof:placetype":"venue",

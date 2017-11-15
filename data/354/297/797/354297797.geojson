@@ -2,9 +2,14 @@
   "id": 354297797,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 Camberley Ct Columbia SC 29223",
+    "addr:housenumber":"112",
+    "addr:postcode":"29223",
+    "addr:street":"Camberley Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.914544,34.117284,-80.914544,34.117284",
     "geom:latitude":34.117284,
     "geom:longitude":-80.914544,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"bb8120a95232289961251757812d6eff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":354297797
         }
     ],
     "wof:id":354297797,
-    "wof:lastmodified":1467082440,
+    "wof:lastmodified":1491937790,
     "wof:name":"Capital Associates",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

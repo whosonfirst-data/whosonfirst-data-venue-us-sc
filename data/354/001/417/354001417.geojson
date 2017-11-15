@@ -2,9 +2,14 @@
   "id": 354001417,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Callen Dr Sumter SC 29150",
+    "addr:housenumber":"45",
+    "addr:postcode":"29150",
+    "addr:street":"Callen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.340196,33.88016,-80.340196,33.88016",
     "geom:latitude":33.88016,
     "geom:longitude":-80.340196,
@@ -28,19 +33,22 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688683,
+        102191575,
         85633793,
-        85688683
+        102085745
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hR0F6PhmqrzeWMRAgoTOp_33.880160_-80.340196@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"4576db7556f72179afb27c65de31b371",
+    "wof:geomhash":"8dbd0bb63188d8bd1e8d1ab02cc3304c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102085745,
             "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
@@ -48,7 +56,7 @@
         }
     ],
     "wof:id":354001417,
-    "wof:lastmodified":1467082423,
+    "wof:lastmodified":1494529628,
     "wof:name":"Jimmy Russell Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186104419,
   "type": "Feature",
   "properties": {
+    "addr:full":"4419 Hard Scrabble Rd Columbia SC 29223",
+    "addr:housenumber":"4419",
+    "addr:postcode":"29223",
+    "addr:street":"Hard Scrabble Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.911678,34.145041,-80.911678,34.145041",
     "geom:latitude":34.145041,
     "geom:longitude":-80.911678,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"9feb635caf2b93f4aa4bd62cea9f399e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":186104419
         }
     ],
     "wof:id":186104419,
-    "wof:lastmodified":1467082398,
+    "wof:lastmodified":1491937807,
     "wof:name":"Burnette Cleaners",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

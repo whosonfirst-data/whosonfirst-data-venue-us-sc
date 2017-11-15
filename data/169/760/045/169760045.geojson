@@ -2,14 +2,20 @@
   "id": 169760045,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Main St Leesville SC 29070",
+    "addr:housenumber":"123",
+    "addr:postcode":"29070",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.512099,33.917139,-81.512099,33.917139",
     "geom:latitude":33.917139,
     "geom:longitude":-81.512099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"123 Main St",
     "sg:city":"Leesville",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         101720967,
         102085573
     ],
+    "wof:brand_id":1125158225,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31Gda5AbFnZU9NNFcchrd3_33.917139_-81.512099@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"5c773a7917d79268e16b3b0aadf99b0f",
+    "wof:geomhash":"bb015b35d73461ef3816ef21049bcded",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169760045,
-    "wof:lastmodified":1467082387,
+    "wof:lastmodified":1510613200,
     "wof:name":"Whistle Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

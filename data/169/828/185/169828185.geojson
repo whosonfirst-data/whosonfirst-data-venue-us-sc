@@ -2,9 +2,14 @@
   "id": 169828185,
   "type": "Feature",
   "properties": {
+    "addr:full":"10181 Two Notch Rd Columbia SC 29229",
+    "addr:housenumber":"10181",
+    "addr:postcode":"29229",
+    "addr:street":"Two Notch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.877173,34.120628,-80.877173,34.120628",
     "geom:latitude":34.120628,
     "geom:longitude":-80.877173,
@@ -33,8 +38,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +49,15 @@
     "wof:geomhash":"6b2920149c814605d1b3d53cb46ce383",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":169828185
         }
     ],
     "wof:id":169828185,
-    "wof:lastmodified":1467082383,
+    "wof:lastmodified":1491937799,
     "wof:name":"Manual J Heating & Cooling Svc",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

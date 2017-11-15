@@ -2,9 +2,14 @@
   "id": 186267633,
   "type": "Feature",
   "properties": {
+    "addr:full":"1113 S Guignard Dr Sumter SC 29150",
+    "addr:housenumber":"1113",
+    "addr:postcode":"29150",
+    "addr:street":"S Guignard Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.351751,33.892944,-80.351751,33.892944",
     "geom:latitude":33.892944,
     "geom:longitude":-80.351751,
@@ -31,19 +36,22 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688683,
+        102191575,
         85633793,
-        85688683
+        102085745
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WoxVNlewYivQe0ZKHUluA_33.892944_-80.351751@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f5a64f3a88f8d32f6cafa63749fd013",
+    "wof:geomhash":"a5b8b3177023782084fae33c3887fbaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102085745,
             "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
@@ -51,7 +59,7 @@
         }
     ],
     "wof:id":186267633,
-    "wof:lastmodified":1467082411,
+    "wof:lastmodified":1494529629,
     "wof:name":"Blanding Iron Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

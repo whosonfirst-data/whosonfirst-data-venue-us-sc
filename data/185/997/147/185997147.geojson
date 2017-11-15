@@ -2,9 +2,14 @@
   "id": 185997147,
   "type": "Feature",
   "properties": {
+    "addr:full":"144 Green Spring Ct Columbia SC 29223",
+    "addr:housenumber":"144",
+    "addr:postcode":"29223",
+    "addr:street":"Green;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.906967,34.120746,-80.906967,34.120746",
     "geom:latitude":34.120746,
     "geom:longitude":-80.906967,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"85d13e063ba4a40a697412488e106cdb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":185997147
         }
     ],
     "wof:id":185997147,
-    "wof:lastmodified":1467082203,
+    "wof:lastmodified":1491937787,
     "wof:name":"Creative Cntrs For All Seasons",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

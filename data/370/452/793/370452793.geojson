@@ -2,9 +2,14 @@
   "id": 370452793,
   "type": "Feature",
   "properties": {
+    "addr:full":"10229 Two Notch Rd Columbia SC 29229",
+    "addr:housenumber":"10229",
+    "addr:postcode":"29229",
+    "addr:street":"Two Notch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.874888,34.122789,-80.874888,34.122789",
     "geom:latitude":34.122789,
     "geom:longitude":-80.874888,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"37b17237dcc62a6015afae6ac0df8c2d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":370452793
         }
     ],
     "wof:id":370452793,
-    "wof:lastmodified":1467082316,
+    "wof:lastmodified":1491937799,
     "wof:name":"Food Fare Store",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

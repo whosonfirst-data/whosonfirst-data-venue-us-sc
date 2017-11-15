@@ -2,9 +2,14 @@
   "id": 840228445,
   "type": "Feature",
   "properties": {
+    "addr:full":"2911 Two Notch Rd Columbia SC 29204",
+    "addr:housenumber":"2911",
+    "addr:postcode":"29204",
+    "addr:street":"Two Notch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.004487,34.035767,-81.004487,34.035767",
     "geom:latitude":34.035767,
     "geom:longitude":-81.004487,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        85827291,
-        102085405
+        101720793,
+        102085405,
+        420559259,
+        85827291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +51,15 @@
     "wof:geomhash":"46c8b9d2a03bea4ac34daa6f243217ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":420559259,
+            "region_id":85688683,
+            "venue_id":840228445
+        },
+        {
             "country_id":85633793,
             "county_id":102085405,
             "neighbourhood_id":85827291,
@@ -51,9 +68,9 @@
         }
     ],
     "wof:id":840228445,
-    "wof:lastmodified":1467082622,
+    "wof:lastmodified":1491932045,
     "wof:name":"McDonald's",
-    "wof:parent_id":85827291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],

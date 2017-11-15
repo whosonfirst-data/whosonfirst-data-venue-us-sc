@@ -2,9 +2,14 @@
   "id": 185831507,
   "type": "Feature",
   "properties": {
+    "addr:full":"10248 Two Notch Rd Columbia SC 29229",
+    "addr:housenumber":"10248",
+    "addr:postcode":"29229",
+    "addr:street":"Two Notch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.875142,34.122282,-80.875142,34.122282",
     "geom:latitude":34.122282,
     "geom:longitude":-80.875142,
@@ -33,8 +38,8 @@
     "wof:belongsto":[
         85688683,
         85633793,
-        102085405,
-        85897267
+        85897267,
+        102085405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +49,15 @@
     "wof:geomhash":"1bcff7328d0c39fdb2aa11bcb1623a8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085405,
-            "locality_id":-1,
             "neighbourhood_id":85897267,
             "region_id":85688683,
             "venue_id":185831507
         }
     ],
     "wof:id":185831507,
-    "wof:lastmodified":1467082197,
+    "wof:lastmodified":1491937797,
     "wof:name":"Palmetto Software",
     "wof:parent_id":85897267,
     "wof:placetype":"venue",

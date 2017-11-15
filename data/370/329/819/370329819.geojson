@@ -2,9 +2,14 @@
   "id": 370329819,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Pocalla Rd Sumter SC 29150",
+    "addr:housenumber":"1200",
+    "addr:postcode":"29150",
+    "addr:street":"Pocalla Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.347181,33.886143,-80.347181,33.886143",
     "geom:latitude":33.886143,
     "geom:longitude":-80.347181,
@@ -32,19 +37,22 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688683,
+        102191575,
         85633793,
-        85688683
+        102085745
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EDqt8PHBUQZ6iIeSsXcoM_33.886143_-80.347181@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"84117a17e8020b9ad8c719a0b8b8ed0a",
+    "wof:geomhash":"7ba4cc1617792d00cc652f0776501b21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102085745,
             "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":370329819,
-    "wof:lastmodified":1467082319,
+    "wof:lastmodified":1494529628,
     "wof:name":"Baker Distributing 562",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

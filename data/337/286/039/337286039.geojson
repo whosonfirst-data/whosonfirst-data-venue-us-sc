@@ -2,9 +2,14 @@
   "id": 337286039,
   "type": "Feature",
   "properties": {
+    "addr:full":"1022 Pocalla Rd Sumter SC 29150",
+    "addr:housenumber":"1022",
+    "addr:postcode":"29150",
+    "addr:street":"Pocalla Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.341049,33.893547,-80.341049,33.893547",
     "geom:latitude":33.893547,
     "geom:longitude":-80.341049,
@@ -30,8 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688683,
+        102191575,
         85633793,
-        101721335,
         102085745
     ],
     "wof:breaches":[],
@@ -39,20 +44,20 @@
         "sg:id":"SG_3DT93syJuQ0vvdtRAduziG_33.893547_-80.341049@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"848cdc8e9488b7d9c8970a91b51f95d2",
+    "wof:geomhash":"568ff83d07abc0fa001d9997a7b1ae1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085745,
-            "locality_id":101721335,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688683,
             "venue_id":337286039
         }
     ],
     "wof:id":337286039,
-    "wof:lastmodified":1467082273,
+    "wof:lastmodified":1494529634,
     "wof:name":"Henry's Service Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
