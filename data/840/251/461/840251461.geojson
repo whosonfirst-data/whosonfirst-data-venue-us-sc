@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.033798,34.007301,-81.033798,34.007301",
     "geom:latitude":34.007301,
     "geom:longitude":-81.033798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1333 Taylor St Ste 3J",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463524639,
-    "wof:geomhash":"44bd6585822a50b94afe2196501d5a59",
+    "wof:geomhash":"c1ca1f7d0bb72eacc1441b2e3a24216f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":840251461,
-    "wof:lastmodified":1472644893,
+    "wof:lastmodified":1510943864,
     "wof:name":"Capital City OB Gyn",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840162679
+    ],
     "wof:tags":[
         "obstetrician",
         "gynecologist"

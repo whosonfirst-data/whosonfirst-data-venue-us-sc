@@ -7,13 +7,16 @@
     "addr:postcode":"29621",
     "addr:street":"E Greenville St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.632801,34.532728,-82.632801,34.532728",
     "geom:latitude":34.532728,
     "geom:longitude":-82.632801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1611 E Greenville St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463522440,
-    "wof:geomhash":"46b87c0b14b34f3fa10fc7943d77d7af",
+    "wof:geomhash":"0f975ac0185b53ed8c3b4e18b979d156",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":840159623,
-    "wof:lastmodified":1472644810,
+    "wof:lastmodified":1510942487,
     "wof:name":"Publix Super Market",
     "wof:parent_id":85825947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840261049
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"

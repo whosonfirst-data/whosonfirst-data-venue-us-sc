@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.025719,34.02811,-81.025719,34.02811",
     "geom:latitude":34.02811,
     "geom:longitude":-81.025719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3010 Farrow Rd Ste 220",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463524687,
-    "wof:geomhash":"1b0fd6c6dd588ea70a01d169befe5926",
+    "wof:geomhash":"88231c3d9faea87651fc09cff49312f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":840253349,
-    "wof:lastmodified":1472644889,
+    "wof:lastmodified":1510942396,
     "wof:name":"Carolina Medical Group PA",
     "wof:parent_id":85805491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840253117
+    ],
     "wof:tags":[
         "medicine",
         "internal"

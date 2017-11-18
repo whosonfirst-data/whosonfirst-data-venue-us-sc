@@ -7,13 +7,16 @@
     "addr:postcode":"29621",
     "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.663962,34.532368,-82.663962,34.532368",
     "geom:latitude":34.532368,
     "geom:longitude":-82.663962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2803 N Main St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5eX7vHH63Ied0YFHzQ4oJS_34.532368_-82.663962@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"663077c4ef1d0b09ac647e462323d65a",
+    "wof:geomhash":"a11b787d6046bb0b240ae6ffe4702da6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":370736999,
-    "wof:lastmodified":1472644699,
+    "wof:lastmodified":1510942960,
     "wof:name":"Arby's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840261077
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

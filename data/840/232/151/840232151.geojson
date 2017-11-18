@@ -7,13 +7,16 @@
     "addr:postcode":"29501",
     "addr:street":"W Palmetto St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.80829,34.187732,-79.80829,34.187732",
     "geom:latitude":34.187732,
     "geom:longitude":-79.80829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2016 W Palmetto St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463524166,
-    "wof:geomhash":"bc537c470cd8bb00cb73f95de69a95a1",
+    "wof:geomhash":"b5b17e1d8e5971571a1b6379f9c79b33",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +60,17 @@
         }
     ],
     "wof:id":840232151,
-    "wof:lastmodified":1472644867,
+    "wof:lastmodified":1510942859,
     "wof:name":"McDonald's",
     "wof:parent_id":85812467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        840013793
+    ],
+    "wof:supersedes":[
+        840013793
+    ],
     "wof:tags":[
         "burger",
         "american"

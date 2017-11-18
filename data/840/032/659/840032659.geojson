@@ -7,13 +7,16 @@
     "addr:postcode":"29201",
     "addr:street":"Lady St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.034449,34.002433,-81.034449,34.002433",
     "geom:latitude":34.002433,
     "geom:longitude":-81.034449,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1122 Lady St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463519685,
-    "wof:geomhash":"1122678574c41c8b96102bb6e7736e5f",
+    "wof:geomhash":"24a9f058326ddc2e31531cb3e9cf7c3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":840032659,
-    "wof:lastmodified":1472644572,
+    "wof:lastmodified":1510943009,
     "wof:name":"Pope & Rodgers",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840251101
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
