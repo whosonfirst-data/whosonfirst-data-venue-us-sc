@@ -7,6 +7,7 @@
     "addr:postcode":"29201",
     "addr:street":"Lady St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.03135,34.003385,-81.03135,34.003385",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.03135,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1330 Lady St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463523001,
-    "wof:geomhash":"a87e1207b8151ad3346003d6815f808d",
+    "wof:geomhash":"9281c0149eec58d3b82b4aa0a07221e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":840184259,
-    "wof:lastmodified":1472644823,
+    "wof:lastmodified":1534535224,
     "wof:name":"Karen Blair Manning",
     "wof:parent_id":85876825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840249233
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

@@ -2,18 +2,24 @@
   "id": 840226723,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 Wildlife Pkwy Columbia SC 29214",
+    "addr:city":"Columbia",
+    "addr:full":"500 Wildlife Parkway Columbia, Sc 29210",
+    "addr:house_number":"500",
     "addr:housenumber":"500",
-    "addr:postcode":"29214",
+    "addr:phone":"+1 803-779-8717",
+    "addr:postcode":"29210",
+    "addr:road":"Wildlife Parkway",
+    "addr:state":"SC",
     "addr:street":"Wildlife Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.074635,34.011183,-81.074635,34.011183",
-    "geom:latitude":34.011183,
-    "geom:longitude":-81.074635,
+    "geom:bbox":"-81.07463,34.01113,-81.07463,34.01113",
+    "geom:latitude":34.01113,
+    "geom:longitude":-81.07463,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"500 Wildlife Pkwy",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -31,7 +37,11 @@
         "zoo"
     ],
     "sg:website":"www.riverbanks.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526477,
+        102526505
+    ],
     "wof:belongsto":[
         85688683,
         102191575,
@@ -42,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409500159,
         "sg:id":"SG_7ENTkaQfC829Wl6IxwrgLB_34.010638_-81.074513@1293134755"
     },
     "wof:country":"US",
     "wof:created":1463524009,
-    "wof:geomhash":"a597a3321a93741b89216290d709fc62",
+    "wof:geomhash":"b482cd24fd2f04ab369570361d052747",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +70,7 @@
         }
     ],
     "wof:id":840226723,
-    "wof:lastmodified":1472644877,
+    "wof:lastmodified":1534535225,
     "wof:name":"Riverbanks Zoo & Garden",
     "wof:parent_id":85844815,
     "wof:placetype":"venue",
@@ -71,10 +82,10 @@
     ]
 },
   "bbox": [
-    -81.074635,
-    34.011183,
-    -81.074635,
-    34.011183
+    -81.07463,
+    34.01113,
+    -81.07463,
+    34.01113
 ],
-  "geometry": {"coordinates":[-81.074635,34.011183],"type":"Point"}
+  "geometry": {"coordinates":[-81.07463,34.01113],"type":"Point"}
 }

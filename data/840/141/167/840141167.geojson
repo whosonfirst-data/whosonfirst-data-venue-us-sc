@@ -7,6 +7,7 @@
     "addr:postcode":"29577",
     "addr:street":"Jason Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.914958,33.710247,-78.914958,33.710247",
@@ -14,6 +15,7 @@
     "geom:longitude":-78.914958,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"960 Jason Blvd",
     "sg:city":"Myrtle Beach",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463522071,
-    "wof:geomhash":"4b1e7a64430ca8df052137fd5cd60f21",
+    "wof:geomhash":"4205d38cae9ed230bae9989bc52ddfa4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":840141167,
-    "wof:lastmodified":1472644778,
+    "wof:lastmodified":1534535223,
     "wof:name":"Fiesta Del Burro Loco",
     "wof:parent_id":85843733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840233125
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

@@ -7,6 +7,7 @@
     "addr:postcode":"29926",
     "addr:street":"Mathews Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.702658,32.21125,-80.702658,32.21125",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.702658,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"95 Mathews Dr",
     "sg:city":"Hilton Head Island",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_2r0UYXCsTsR32uEICHHf0p_32.211250_-80.702658@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"efb0dcbc77b503dda96ee0e051f3c2f3",
+    "wof:geomhash":"cbb8609825f75692526f4f429793758c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":354045471,
-    "wof:lastmodified":1472644397,
+    "wof:lastmodified":1534535220,
     "wof:name":"North Island Travel",
     "wof:parent_id":85819729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840009057
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"

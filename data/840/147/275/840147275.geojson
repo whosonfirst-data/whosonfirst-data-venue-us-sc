@@ -2,18 +2,24 @@
   "id": 840147275,
   "type": "Feature",
   "properties": {
-    "addr:full":"1003 Front St Georgetown SC 29440",
+    "addr:city":"Georgetown",
+    "addr:full":"1003 Front St Georgetown, Sc 29440",
+    "addr:house_number":"1003",
     "addr:housenumber":"1003",
+    "addr:phone":"+1 843-546-7706",
     "addr:postcode":"29440",
+    "addr:road":"Front St",
+    "addr:state":"SC",
     "addr:street":"Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-79.286691,33.368598,-79.286691,33.368598",
-    "geom:latitude":33.368598,
-    "geom:longitude":-79.286691,
+    "geom:bbox":"-79.28662,33.3686,-79.28662,33.3686",
+    "geom:latitude":33.3686,
+    "geom:longitude":-79.28662,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1003 Front St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -30,20 +36,24 @@
     "sg:tags":[
         "village"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530711
+    ],
     "wof:belongsto":[
-        85688683,
+        102085683,
         85633793,
-        85826561,
-        102085683
+        85688683,
+        85826561
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404500365,
         "sg:id":"SG_0h3Syz9IhpBnHFii8hGXGg_33.368598_-79.286691@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463522185,
-    "wof:geomhash":"6971ad26ca84f48d70344484095a22f3",
+    "wof:geomhash":"fda4383cde5b8cb9420e6e94766e02a4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,8 +64,8 @@
         }
     ],
     "wof:id":840147275,
-    "wof:lastmodified":1472644794,
-    "wof:name":"Kaminksi House Museum",
+    "wof:lastmodified":1534535226,
+    "wof:name":"Kaminski House Museum",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
@@ -66,10 +76,10 @@
     ]
 },
   "bbox": [
-    -79.286691,
-    33.368598,
-    -79.286691,
-    33.368598
+    -79.28662,
+    33.3686,
+    -79.28662,
+    33.3686
 ],
-  "geometry": {"coordinates":[-79.286691,33.368598],"type":"Point"}
+  "geometry": {"coordinates":[-79.28662,33.3686],"type":"Point"}
 }

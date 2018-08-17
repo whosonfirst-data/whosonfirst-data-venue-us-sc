@@ -2,18 +2,24 @@
   "id": 840107037,
   "type": "Feature",
   "properties": {
-    "addr:full":"121 W Cedar Ln Bishopville SC 29010",
+    "addr:city":"Bishopville",
+    "addr:full":"121 W Cedar Ln Bishopville, Sc 29010-1454",
+    "addr:house_number":"121",
     "addr:housenumber":"121",
-    "addr:postcode":"29010",
+    "addr:phone":"+1 803-484-4497",
+    "addr:postcode":"29010-1454",
+    "addr:road":"W Cedar Ln",
+    "addr:state":"SC",
     "addr:street":"W Cedar Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.246949,34.221,-80.246949,34.221",
-    "geom:latitude":34.221,
-    "geom:longitude":-80.246949,
+    "geom:bbox":"-80.24648,34.22027,-80.24648,34.22027",
+    "geom:latitude":34.22027,
+    "geom:longitude":-80.24648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"121 W Cedar Ln",
     "sg:city":"Bishopville",
     "sg:classifiers":[
@@ -28,18 +34,22 @@
     "sg:postcode":"29010",
     "sg:province":"SC",
     "sg:website":"www.sccotton.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532507
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404500303,
         "sg:id":"SG_2imESLCZLV7ISCrASn649s_34.221000_-80.246949@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463521374,
-    "wof:geomhash":"d40ea7c4154a382dc043f7a721e356f3",
+    "wof:geomhash":"3ad02d3695cee8acafa2bd71758ba2b6",
     "wof:hierarchy":[],
     "wof:id":840107037,
-    "wof:lastmodified":1472644750,
+    "wof:lastmodified":1534535226,
     "wof:name":"South Carolina Cotton Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.246949,
-    34.221,
-    -80.246949,
-    34.221
+    -80.24648,
+    34.22027,
+    -80.24648,
+    34.22027
 ],
-  "geometry": {"coordinates":[-80.246949,34.221],"type":"Point"}
+  "geometry": {"coordinates":[-80.24648000000001,34.22027],"type":"Point"}
 }

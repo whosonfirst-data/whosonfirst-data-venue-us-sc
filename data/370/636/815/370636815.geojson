@@ -2,18 +2,24 @@
   "id": 370636815,
   "type": "Feature",
   "properties": {
-    "addr:full":"175 Ashley Ave Charleston SC 29425",
+    "addr:city":"Charleston",
+    "addr:full":"175 Ashley Avenue Charleston, Sc 29403",
+    "addr:house_number":"175",
     "addr:housenumber":"175",
-    "addr:postcode":"29425",
+    "addr:phone":"+1 843-792-2288",
+    "addr:postcode":"29403",
+    "addr:road":"Ashley Avenue",
+    "addr:state":"SC",
     "addr:street":"Ashley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-79.946782,32.785756,-79.946782,32.785756",
-    "geom:latitude":32.785756,
-    "geom:longitude":-79.946782,
+    "geom:bbox":"-79.94731,32.78686,-79.94731,32.78686",
+    "geom:latitude":32.78686,
+    "geom:longitude":-79.94731,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"175 Ashley Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 843 792 2288",
     "sg:postcode":"29425",
     "sg:province":"SC",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531215
+    ],
     "wof:belongsto":[
         85688683,
         85633793,
@@ -37,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501243,
         "sg:id":"SG_6SC6YzDvZ0VYl1M8fyO65G_32.785756_-79.946782@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"12789146cd1c381512212781b3157256",
+    "wof:geomhash":"62d7d9ba1d89d4e725eb4ede8ded400f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,8 +63,8 @@
         }
     ],
     "wof:id":370636815,
-    "wof:lastmodified":1472644688,
-    "wof:name":"Waring Historical Library",
+    "wof:lastmodified":1534535221,
+    "wof:name":"Warning Historical Library",
     "wof:parent_id":85854459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.946782,
-    32.785756,
-    -79.946782,
-    32.785756
+    -79.94731,
+    32.78686,
+    -79.94731,
+    32.78686
 ],
-  "geometry": {"coordinates":[-79.946782,32.785756],"type":"Point"}
+  "geometry": {"coordinates":[-79.94731,32.78686],"type":"Point"}
 }

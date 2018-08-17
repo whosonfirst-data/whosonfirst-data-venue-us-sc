@@ -2,18 +2,24 @@
   "id": 840045709,
   "type": "Feature",
   "properties": {
-    "addr:full":"127 W Main St Union SC 29379",
+    "addr:city":"Union",
+    "addr:full":"127 W Main St Union, Sc 29379-0220",
+    "addr:house_number":"127",
     "addr:housenumber":"127",
-    "addr:postcode":"29379",
+    "addr:phone":"+1 864-429-5081",
+    "addr:postcode":"29379-0220",
+    "addr:road":"W Main St",
+    "addr:state":"SC",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.624689,34.715057,-81.624689,34.715057",
-    "geom:latitude":34.715057,
-    "geom:longitude":-81.624689,
+    "geom:bbox":"-81.61077,34.71681,-81.61077,34.71681",
+    "geom:latitude":34.71681,
+    "geom:longitude":-81.61077,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"127 W Main St",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -27,19 +33,21 @@
     "sg:phone":"+1 864 429 5081",
     "sg:postcode":"29379",
     "sg:province":"SC",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404500240,
         "sg:id":"SG_1OpPZpssVpnZlxiYD8Nhs3_34.715057_-81.624689@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463519959,
-    "wof:geomhash":"d222e583e82bc61cb7b6650fcdfbd436",
+    "wof:geomhash":"3c65461fdadeedb3b91894bebca34150",
     "wof:hierarchy":[],
     "wof:id":840045709,
-    "wof:lastmodified":1472644647,
-    "wof:name":"Union County Historical Museum",
+    "wof:lastmodified":1534535222,
+    "wof:name":"Union County Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.624689,
-    34.715057,
-    -81.624689,
-    34.715057
+    -81.61077,
+    34.71681,
+    -81.61077,
+    34.71681
 ],
-  "geometry": {"coordinates":[-81.624689,34.715057],"type":"Point"}
+  "geometry": {"coordinates":[-81.61077,34.71681],"type":"Point"}
 }

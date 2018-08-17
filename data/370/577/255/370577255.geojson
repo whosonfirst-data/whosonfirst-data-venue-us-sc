@@ -2,18 +2,24 @@
   "id": 370577255,
   "type": "Feature",
   "properties": {
-    "addr:full":"2325 Hampton Rd Wellford SC 29385",
+    "addr:city":"Wellford",
+    "addr:full":"2325 Hampton Rd Wellford, Sc 29385-9010",
+    "addr:house_number":"2325",
     "addr:housenumber":"2325",
-    "addr:postcode":"29385",
+    "addr:phone":"+1 864-472-2038",
+    "addr:postcode":"29385-9010",
+    "addr:road":"Hampton Rd",
+    "addr:state":"SC",
     "addr:street":"Hampton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-82.140256,35.026182,-82.140256,35.026182",
-    "geom:latitude":35.026182,
-    "geom:longitude":-82.140256,
+    "geom:bbox":"-82.14155,35.02531,-82.14155,35.02531",
+    "geom:latitude":35.02531,
+    "geom:longitude":-82.14155,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2325 Hampton Rd",
     "sg:city":"Wellford",
     "sg:classifiers":[
@@ -30,17 +36,22 @@
     "sg:tags":[
         "zoo"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533363,
+        102529929
+    ],
     "wof:belongsto":[
         85633793,
         85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404500167,
         "sg:id":"SG_5NDwEREmZdWc4ZflFfK67F_35.026182_-82.140256@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"f11353c081e424974aeefe6fad59809e",
+    "wof:geomhash":"7fc4d77ddbf12bf54190797e94b3007c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,8 +63,8 @@
         }
     ],
     "wof:id":370577255,
-    "wof:lastmodified":1472644679,
-    "wof:name":"Hollywild Animal Park Inc",
+    "wof:lastmodified":1534535220,
+    "wof:name":"Hollywild Animal Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
@@ -64,10 +75,10 @@
     ]
 },
   "bbox": [
-    -82.140256,
-    35.026182,
-    -82.140256,
-    35.026182
+    -82.14155,
+    35.02531,
+    -82.14155,
+    35.02531
 ],
-  "geometry": {"coordinates":[-82.14025599999999,35.026182],"type":"Point"}
+  "geometry": {"coordinates":[-82.14155,35.02531],"type":"Point"}
 }

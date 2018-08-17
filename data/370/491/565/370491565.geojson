@@ -2,18 +2,24 @@
   "id": 370491565,
   "type": "Feature",
   "properties": {
-    "addr:full":"1314 Broad St Camden SC 29020",
+    "addr:city":"Camden",
+    "addr:full":"1314 Broad St Camden, Sc 29020",
+    "addr:house_number":"1314",
     "addr:housenumber":"1314",
+    "addr:phone":"+1 803-425-6050",
     "addr:postcode":"29020",
+    "addr:road":"Broad St",
+    "addr:state":"SC",
     "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.607529,34.251601,-80.607529,34.251601",
-    "geom:latitude":34.251601,
-    "geom:longitude":-80.607529,
+    "geom:bbox":"-80.60742,34.25078,-80.60742,34.25078",
+    "geom:latitude":34.25078,
+    "geom:longitude":-80.60742,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1314 Broad St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
         "special",
         "interest"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530883
+    ],
     "wof:belongsto":[
         85688683,
         85633793,
@@ -41,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404500280,
         "sg:id":"SG_1OF8mXF0RlP5fsmEZ0mLUL_34.251601_-80.607529@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"31430c41dab1123ca9b38a60c875e48d",
+    "wof:geomhash":"8380031e767d9043d4bc418de2eb539a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,8 +67,8 @@
         }
     ],
     "wof:id":370491565,
-    "wof:lastmodified":1472644620,
-    "wof:name":"Camden Archives",
+    "wof:lastmodified":1534535220,
+    "wof:name":"Camden Archives And Museum",
     "wof:parent_id":85841719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
@@ -70,10 +80,10 @@
     ]
 },
   "bbox": [
-    -80.607529,
-    34.251601,
-    -80.607529,
-    34.251601
+    -80.60742,
+    34.25078,
+    -80.60742,
+    34.25078
 ],
-  "geometry": {"coordinates":[-80.607529,34.251601],"type":"Point"}
+  "geometry": {"coordinates":[-80.60742,34.25078],"type":"Point"}
 }

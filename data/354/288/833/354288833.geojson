@@ -2,18 +2,24 @@
   "id": 354288833,
   "type": "Feature",
   "properties": {
-    "addr:full":"800 Richland St Columbia SC 29201",
+    "addr:city":"Columbia",
+    "addr:full":"800 Richland Street Columbia, Sc 29201-2327",
+    "addr:house_number":"800",
     "addr:housenumber":"800",
-    "addr:postcode":"29201",
+    "addr:phone":"+1 803-737-3000",
+    "addr:postcode":"29201-2327",
+    "addr:road":"Richland Street",
+    "addr:state":"SC",
     "addr:street":"Richland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.04265,34.009091,-81.04265,34.009091",
-    "geom:latitude":34.009091,
-    "geom:longitude":-81.04265,
+    "geom:bbox":"-81.04366,34.0089,-81.04366,34.0089",
+    "geom:latitude":34.0089,
+    "geom:longitude":-81.04366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"800 Richland St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -32,7 +38,11 @@
         "tourist"
     ],
     "sg:website":"www.scgovernorsmansion.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526477,
+        102526505
+    ],
     "wof:belongsto":[
         85688683,
         85633793,
@@ -41,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404500231,
         "sg:id":"SG_3arf855w2m0ee66Rz8pSZf_34.009091_-81.042650@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b2baff03cd144a9f330a7148ad32da1",
+    "wof:geomhash":"9e124ae8e4b702f18f0e91b49ebf44aa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,8 +68,8 @@
         }
     ],
     "wof:id":354288833,
-    "wof:lastmodified":1472644569,
-    "wof:name":"Governor's Green & Mansion",
+    "wof:lastmodified":1534535219,
+    "wof:name":"Governors Mansion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
@@ -70,10 +81,10 @@
     ]
 },
   "bbox": [
-    -81.04265,
-    34.009091,
-    -81.04265,
-    34.009091
+    -81.04366,
+    34.0089,
+    -81.04366,
+    34.0089
 ],
-  "geometry": {"coordinates":[-81.04264999999999,34.009091],"type":"Point"}
+  "geometry": {"coordinates":[-81.04366,34.0089],"type":"Point"}
 }

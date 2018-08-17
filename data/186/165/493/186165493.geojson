@@ -2,18 +2,24 @@
   "id": 186165493,
   "type": "Feature",
   "properties": {
-    "addr:full":"122 N Washington St Sumter SC 29150",
+    "addr:city":"Sumter",
+    "addr:full":"122 N Washington St Sumter, Sc 29150-4920",
+    "addr:house_number":"122",
     "addr:housenumber":"122",
-    "addr:postcode":"29150",
+    "addr:phone":"+1 803-775-0908",
+    "addr:postcode":"29150-4920",
+    "addr:road":"N Washington St",
+    "addr:state":"SC",
     "addr:street":"N Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.344355,33.924475,-80.344355,33.924475",
-    "geom:latitude":33.924475,
-    "geom:longitude":-80.344355,
+    "geom:bbox":"-80.34451,33.92354,-80.34451,33.92354",
+    "geom:latitude":33.92354,
+    "geom:longitude":-80.34451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"122 N Washington St",
     "sg:city":"Sumter",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:postcode":"29150",
     "sg:province":"SC",
     "sg:website":"www.sumtercountymuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526633
+    ],
     "wof:belongsto":[
         85688683,
         85633793,
@@ -40,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404500273,
         "sg:id":"SG_7BIf3VY6ti20Jl4x4rSBOw_33.924475_-80.344355@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"cb6847cf540f38582a149e7f7f69e79c",
+    "wof:geomhash":"20563155ee3a229bcb4db26e010da112",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":186165493,
-    "wof:lastmodified":1472644434,
+    "wof:lastmodified":1534535222,
     "wof:name":"Sumter County Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -75,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.344355,
-    33.924475,
-    -80.344355,
-    33.924475
+    -80.34451,
+    33.92354,
+    -80.34451,
+    33.92354
 ],
-  "geometry": {"coordinates":[-80.34435499999999,33.924475],"type":"Point"}
+  "geometry": {"coordinates":[-80.34451,33.92354],"type":"Point"}
 }

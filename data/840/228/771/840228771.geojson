@@ -7,6 +7,7 @@
     "addr:postcode":"29210",
     "addr:street":"Piney Grove Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-81.139418,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"496 Piney Grove Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -63,12 +64,14 @@
         }
     ],
     "wof:id":840228771,
-    "wof:lastmodified":1511317770,
+    "wof:lastmodified":1534535221,
     "wof:name":"Hardee's",
     "wof:parent_id":85857505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185650865
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

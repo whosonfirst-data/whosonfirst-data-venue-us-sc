@@ -2,18 +2,24 @@
   "id": 353905521,
   "type": "Feature",
   "properties": {
-    "addr:full":"334 Wichman St Walterboro SC 29488",
+    "addr:city":"Walterboro",
+    "addr:full":"334 Wichman St Walterboro, Sc 29488-2921",
+    "addr:house_number":"334",
     "addr:housenumber":"334",
-    "addr:postcode":"29488",
+    "addr:phone":"+1 843-549-0011",
+    "addr:postcode":"29488-2921",
+    "addr:road":"Wichman St",
+    "addr:state":"SC",
     "addr:street":"Wichman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.663591,32.90435,-80.663591,32.90435",
-    "geom:latitude":32.90435,
-    "geom:longitude":-80.663591,
+    "geom:bbox":"-80.66392,32.90428,-80.66392,32.90428",
+    "geom:latitude":32.90428,
+    "geom:longitude":-80.66392,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"334 Wichman St",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -31,7 +37,8 @@
         "art",
         "center"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688683,
         85633793,
@@ -40,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404500300,
         "sg:id":"SG_6FSKzxHaMqZE4evPVLvgiN_32.904350_-80.663591@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"74d2e5e1bcfe19a46f9c5d03b9b9ebd1",
+    "wof:geomhash":"252a7912d65632eb7983b2dc6e89021d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,8 +64,8 @@
         }
     ],
     "wof:id":353905521,
-    "wof:lastmodified":1472644665,
-    "wof:name":"Sc Artisans Ctr",
+    "wof:lastmodified":1534535220,
+    "wof:name":"South Carolina Artisans Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
@@ -69,10 +77,10 @@
     ]
 },
   "bbox": [
-    -80.663591,
-    32.90435,
-    -80.663591,
-    32.90435
+    -80.66392,
+    32.90428,
+    -80.66392,
+    32.90428
 ],
-  "geometry": {"coordinates":[-80.663591,32.90435],"type":"Point"}
+  "geometry": {"coordinates":[-80.66392,32.90428],"type":"Point"}
 }

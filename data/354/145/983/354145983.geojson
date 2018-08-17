@@ -2,17 +2,22 @@
   "id": 354145983,
   "type": "Feature",
   "properties": {
-    "addr:full":"150 Cleveland Park Dr Greenville SC 29601",
+    "addr:city":"Greenville",
+    "addr:full":"150 Cleveland Park Drive Greenville, Sc 29601-3147",
+    "addr:house_number":"150",
     "addr:housenumber":"150",
-    "addr:postcode":"29601",
+    "addr:phone":"+1 864-467-4300",
+    "addr:postcode":"29601-3147",
+    "addr:road":"Cleveland Park Drive",
+    "addr:state":"SC",
     "addr:street":"Cleveland Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-82.385687,34.847386,-82.385687,34.847386",
-    "geom:latitude":34.847386,
-    "geom:longitude":-82.385687,
+    "geom:bbox":"-82.38771,34.84592,-82.38771,34.84592",
+    "geom:latitude":34.84592,
+    "geom:longitude":-82.38771,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -33,7 +38,11 @@
         "village"
     ],
     "sg:website":"www.greenvillezoo.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528637,
+        102529929
+    ],
     "wof:belongsto":[
         85688683,
         85633793,
@@ -43,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409500075,
         "osm:way":35939333,
         "sg:id":"SG_5qHCEM7NgTCxpvKKbuLH0q_34.847386_-82.385687@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"9543e0cc8ad2147f5d518f7fafd37324",
+    "wof:geomhash":"47254f266817047e5e1e5bad4c259872",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":354145983,
-    "wof:lastmodified":1510941840,
+    "wof:lastmodified":1534535218,
     "wof:name":"Greenville Zoo",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -82.385687,
-    34.847386,
-    -82.385687,
-    34.847386
+    -82.38771,
+    34.84592,
+    -82.38771,
+    34.84592
 ],
-  "geometry": {"coordinates":[-82.385687,34.847386],"type":"Point"}
+  "geometry": {"coordinates":[-82.38771,34.84592],"type":"Point"}
 }

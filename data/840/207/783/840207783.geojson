@@ -2,18 +2,24 @@
   "id": 840207783,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 E Doty Ave Summerville SC 29483",
+    "addr:city":"Summerville",
+    "addr:full":"100 E Doty Ave Summerville, Sc 29483",
+    "addr:house_number":"100",
     "addr:housenumber":"100",
+    "addr:phone":"+1 843-875-9666",
     "addr:postcode":"29483",
+    "addr:road":"E Doty Ave",
+    "addr:state":"SC",
     "addr:street":"E Doty Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.173515,33.019307,-80.173515,33.019307",
-    "geom:latitude":33.019307,
-    "geom:longitude":-80.173515,
+    "geom:bbox":"-80.17386,33.01603,-80.17386,33.01603",
+    "geom:latitude":33.01603,
+    "geom:longitude":-80.17386,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"100 E Doty Ave",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 843 875 9666",
     "sg:postcode":"29483",
     "sg:province":"SC",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688683,
         102191575,
@@ -38,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404500012,
         "sg:id":"SG_3QA8Ky3qQH6Gh8gYyr7Web_33.019307_-80.173515@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463523584,
-    "wof:geomhash":"38d7ade707f997b8253168478b4ff883",
+    "wof:geomhash":"0613b6afb2ae33b642b1c9863cabb948",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":840207783,
-    "wof:lastmodified":1472644857,
+    "wof:lastmodified":1534535225,
     "wof:name":"Summerville-Dorchester Museum",
     "wof:parent_id":85810341,
     "wof:placetype":"venue",
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.173515,
-    33.019307,
-    -80.173515,
-    33.019307
+    -80.17386,
+    33.01603,
+    -80.17386,
+    33.01603
 ],
-  "geometry": {"coordinates":[-80.17351499999999,33.019307],"type":"Point"}
+  "geometry": {"coordinates":[-80.17386,33.01603],"type":"Point"}
 }

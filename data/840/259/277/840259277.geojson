@@ -7,6 +7,7 @@
     "addr:postcode":"29210",
     "addr:street":"Colonial Life Blvd W",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.093201,34.027802,-81.093201,34.027802",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.093201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1420 Colonial Life Blvd W",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1463524800,
-    "wof:geomhash":"d2d392a06e5f66bc67eea51436e48cf9",
+    "wof:geomhash":"8e720945b5be24a36a81ec2e4e460d44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,17 @@
         }
     ],
     "wof:id":840259277,
-    "wof:lastmodified":1472644900,
+    "wof:lastmodified":1534535225,
     "wof:name":"Gillespie Jane Rl Est",
     "wof:parent_id":85845041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        840259591
+    ],
+    "wof:supersedes":[
+        840258795
+    ],
     "wof:tags":[]
 },
   "bbox": [

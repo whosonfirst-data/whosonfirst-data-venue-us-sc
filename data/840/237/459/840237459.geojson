@@ -7,6 +7,7 @@
     "addr:postcode":"29906",
     "addr:street":"Robert Smalls Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-80.739629,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"350 Robert Smalls Pkwy",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -60,12 +61,14 @@
         }
     ],
     "wof:id":840237459,
-    "wof:lastmodified":1511321595,
+    "wof:lastmodified":1534535218,
     "wof:name":"McDonald's",
     "wof:parent_id":85824771,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354140763
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

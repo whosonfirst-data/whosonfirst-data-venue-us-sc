@@ -2,18 +2,24 @@
   "id": 840124247,
   "type": "Feature",
   "properties": {
-    "addr:full":"205 Church St Walterboro SC 29488",
+    "addr:city":"Walterboro",
+    "addr:full":"205 Church St Walterboro, Sc 29488-2903",
+    "addr:house_number":"205",
     "addr:housenumber":"205",
-    "addr:postcode":"29488",
+    "addr:phone":"+1 843-549-9633",
+    "addr:postcode":"29488-2903",
+    "addr:road":"Church St",
+    "addr:state":"SC",
     "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.65726,32.90535,-80.65726,32.90535",
-    "geom:latitude":32.90535,
-    "geom:longitude":-80.65726,
+    "geom:bbox":"-80.65887,32.9048,-80.65887,32.9048",
+    "geom:latitude":32.9048,
+    "geom:longitude":-80.65887,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"205 Church St",
     "sg:city":"Walterboro",
     "sg:classifiers":[
@@ -30,19 +36,21 @@
     "sg:tags":[
         "county"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404500305,
         "sg:id":"SG_3QWTkckZ5XfHGkBcuYUwd4_32.905350_-80.657260@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463521735,
-    "wof:geomhash":"25d3701ea10f79ea1278b9be5b5fcc7e",
+    "wof:geomhash":"a821461379fbdee0703c8e387221c430",
     "wof:hierarchy":[],
     "wof:id":840124247,
-    "wof:lastmodified":1472644774,
-    "wof:name":"Colleton County Historical",
+    "wof:lastmodified":1534535225,
+    "wof:name":"Colleton County Historial & Preservation Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -80.65726,
-    32.90535,
-    -80.65726,
-    32.90535
+    -80.65887,
+    32.9048,
+    -80.65887,
+    32.9048
 ],
-  "geometry": {"coordinates":[-80.65725999999999,32.90535],"type":"Point"}
+  "geometry": {"coordinates":[-80.65886999999999,32.9048],"type":"Point"}
 }

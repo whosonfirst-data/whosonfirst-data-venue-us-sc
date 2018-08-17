@@ -7,6 +7,7 @@
     "addr:postcode":"29501",
     "addr:street":"N Irby St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.768122,34.197413,-79.768122,34.197413",
@@ -14,6 +15,7 @@
     "geom:longitude":-79.768122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"180 N Irby St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_6Ter6KhnvS1q83XAGBf47m_34.197413_-79.768122@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"68685522eb084d8ad7c1be650b9fa11d",
+    "wof:geomhash":"b0d10b3f24d630dcfe883717bb21d629",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":370455839,
-    "wof:lastmodified":1472644621,
+    "wof:lastmodified":1534535220,
     "wof:name":"Real Property Asssessment",
     "wof:parent_id":85858105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840029111
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"

@@ -2,18 +2,24 @@
   "id": 840125327,
   "type": "Feature",
   "properties": {
-    "addr:full":"420 College St Greenville SC 29601",
+    "addr:city":"Greenville",
+    "addr:full":"420 College Street Greenville, Sc 29601",
+    "addr:house_number":"420",
     "addr:housenumber":"420",
+    "addr:phone":"+1 803-271-7570",
     "addr:postcode":"29601",
+    "addr:road":"College Street",
+    "addr:state":"SC",
     "addr:street":"College St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-82.401271,34.855526,-82.401271,34.855526",
-    "geom:latitude":34.855526,
-    "geom:longitude":-82.401271,
+    "geom:bbox":"-82.39721,34.85029,-82.39721,34.85029",
+    "geom:latitude":34.85029,
+    "geom:longitude":-82.39721,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"420 College St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:postcode":"29601",
     "sg:province":"SC",
     "sg:website":"www.greenvillemuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528637,
+        102529929
+    ],
     "wof:belongsto":[
         85688683,
         102191575,
@@ -39,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404500047,
         "sg:id":"SG_2ktqqgzfXWt6J9OksEZaAO_34.855526_-82.401271@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463521755,
-    "wof:geomhash":"c47b73904318842f84125abce9700010",
+    "wof:geomhash":"6f2417a2acfc793b4452aa17a2d5186e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,8 +67,8 @@
         }
     ],
     "wof:id":840125327,
-    "wof:lastmodified":1472644780,
-    "wof:name":"Greenville County Art Museum",
+    "wof:lastmodified":1534535225,
+    "wof:name":"Greenville County Museum Of Art",
     "wof:parent_id":85806907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sc",
@@ -66,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -82.401271,
-    34.855526,
-    -82.401271,
-    34.855526
+    -82.39721,
+    34.85029,
+    -82.39721,
+    34.85029
 ],
-  "geometry": {"coordinates":[-82.40127099999999,34.855526],"type":"Point"}
+  "geometry": {"coordinates":[-82.39721,34.85029],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 840079069,
   "type": "Feature",
   "properties": {
-    "addr:full":"99 Elm St E Hampton SC 29924",
+    "addr:city":"E Hampton",
+    "addr:full":"99 Elm St E Hampton, Sc 29924",
+    "addr:house_number":"99",
     "addr:housenumber":"99",
+    "addr:phone":"+1 803-943-5318",
     "addr:postcode":"29924",
+    "addr:road":"Elm St",
+    "addr:state":"SC",
     "addr:street":"Elm St E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.10822,32.866265,-81.10822,32.866265",
-    "geom:latitude":32.866265,
-    "geom:longitude":-81.10822,
+    "geom:bbox":"-81.10893,32.86663,-81.10893,32.86663",
+    "geom:latitude":32.86663,
+    "geom:longitude":-81.10893,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"99 Elm St E",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 803 943 5318",
     "sg:postcode":"29924",
     "sg:province":"SC",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404500053,
         "sg:id":"SG_3illLn6rnzdpNLfZm2LbSG_32.866265_-81.108220@1294189808"
     },
     "wof:country":"US",
     "wof:created":1463520662,
-    "wof:geomhash":"6add74c90f6eb71b926d79226a06c022",
+    "wof:geomhash":"df89b5ff17956c15132547635869dc0a",
     "wof:hierarchy":[],
     "wof:id":840079069,
-    "wof:lastmodified":1472644737,
+    "wof:lastmodified":1534535223,
     "wof:name":"Hampton Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.10822,
-    32.866265,
-    -81.10822,
-    32.866265
+    -81.10893,
+    32.86663,
+    -81.10893,
+    32.86663
 ],
-  "geometry": {"coordinates":[-81.10822,32.866265],"type":"Point"}
+  "geometry": {"coordinates":[-81.10893,32.86663],"type":"Point"}
 }
